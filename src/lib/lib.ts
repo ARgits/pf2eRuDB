@@ -1,17 +1,17 @@
-import * as fs from "fs";
+//import * as fs from "fs";
 import type { Entries, Filter, contentUnion } from "../types";
-export async function getRes() {
-  console.log("start axios");
+// export async function getRes() {
+//   console.log("start axios");
 
-  /*if (!fs.existsSync("assets/data.html")) {
-    const res = await axios.get("https://pf2e-ru-translation.readthedocs.io/ru/latest/skills.html");
-    fs.writeFile("assets/data.html", res.data, (err) => {
-      console.error(err);
-    });
-  }*/
-  const res = fs.readFileSync("assets/data.html", "utf-8");
-  console.log(res);
-}
+//   /*if (!fs.existsSync("assets/data.html")) {
+//     const res = await axios.get("https://pf2e-ru-translation.readthedocs.io/ru/latest/skills.html");
+//     fs.writeFile("assets/data.html", res.data, (err) => {
+//       console.error(err);
+//     });
+//   }*/
+//   const res = fs.readFileSync("assets/data.html", "utf-8");
+//   console.log(res);
+// }
 
 export function filt<T extends contentUnion[]>(
   dataAr: T,

@@ -1,4 +1,9 @@
 import type { Action, Background, Creature, Data, Feat, Spell, actionTypes } from "../types";
+import * as PF_action_1 from '../assets/PF_action_1.webp'
+import * as PF_action_2 from '../assets/PF_action_2.webp'
+import * as PF_action_3 from '../assets/PF_action_3.webp'
+import * as PF_action_reaction from '../assets/PF_action_reaction.webp'
+import * as PF_action_free from '../assets/PF_action_free.webp'
 
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
@@ -119,19 +124,19 @@ function prepareContentWithTraits(site: HTMLDivElement) {
       }
       if (h2Text?.includes("/ ")) {
         [...res.parentElement!.querySelectorAll('img[alt="одиночное действие"]')].forEach((img) =>
-          img.setAttribute("src", "src/assets/PF_action_1.webp")
+          img.setAttribute("src", PF_action_1.default)
         );
         [...res.parentElement!.querySelectorAll('img[alt="реакция"')].forEach((img) =>
-          img.setAttribute("src", "src/assets/PF_action_reaction.webp")
+          img.setAttribute("src", PF_action_reaction.default)
         );
         [...res.parentElement!.querySelectorAll('img[alt="свободное действие"')].forEach((img) =>
-          img.setAttribute("src", "src/assets/PF_action_free.webp")
+          img.setAttribute("src", PF_action_free.default)
         );
         [...res.parentElement!.querySelectorAll('img[alt="активность из 2-х действий"')].forEach((img) =>
-          img.setAttribute("src", "src/assets/PF_action_2.webp")
+          img.setAttribute("src", PF_action_2.default)
         );
         [...res.parentElement!.querySelectorAll('img[alt="активность из 3-х действий"')].forEach((img) =>
-          img.setAttribute("src", "src/assets/PF_action_3.webp")
+          img.setAttribute("src", PF_action_3.default)
         );
 
         const spell = prepareSpell(res);

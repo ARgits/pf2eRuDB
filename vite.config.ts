@@ -10,5 +10,5 @@ export default defineConfig({
       include:'src/main.ts'
     }
   },
-  //assetsInclude: "dist/assets/*.html",
+  assetsInclude:'src/assets/*.webp'
 });
