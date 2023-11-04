@@ -64,5 +64,6 @@ function consecSort<T extends contentUnion>(a: T, b: T, arr: string[]): number {
   return valA.toString().localeCompare(valB.toString()) + consecSort(a, b, arr.slice(1));
 }
 export function searchByName<T extends contentUnion[]>(arr:T, str:string):T{
-  return arr.filter((item)=>item.fullName.toLowerCase().includes(str.toLowerCase())) as typeof arr
+  
+  return arr.filter((item)=>{const ruAndOrigName = item.name+item.originalName; return ruAndOrigName.toLowerCase().includes(str.toLowerCase())}) as typeof arr
 }
