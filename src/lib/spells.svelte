@@ -84,7 +84,7 @@
     .map((_, ind) => ind + 1);
   let collapsible = false;
   let filterBlock: HTMLDivElement;
-  let searchStr: string;
+  let searchStr: string="";
   $: numOfElems = temp.length;
 </script>
 
