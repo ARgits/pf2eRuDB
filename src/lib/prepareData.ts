@@ -13,15 +13,6 @@ const nameOfNum: { [index: string]: number } = {
   "2": 2,
   "3": 3,
 };
-const actionsName: {
-  [k in PropertyKey]: string;
-} = {
-  "одиночное действие": "1 действие",
-  "активность из 2-х действий": "2 действия",
-  "активность из 3-х действий": "3 действия",
-  реакция: "реакция",
-  "свободное действие": "свободное действие",
-};
 const backgrounds: Background[] = [];
 const spells: Spell[] = [];
 const actions: Action[] = [];
@@ -175,7 +166,8 @@ function prepareSpell(el: Element): Spell | void {
       traits: alltraits,
       desc: [...parent.children]
         .filter(
-          (child) => !["UL", "H1", "H2"].includes(child.tagName) && child.textContent !== "" && 1
+          (child) => !["UL", "H1", "H2"].includes(child.tagName) && child.textContent !== "" &&
+          !child.textContent?.includes('<strong>Обычай')
           //![...paragraphs].some((parag) => child.textContent?.includes(parag))
         )
         .map((e) => e.innerHTML.trim())

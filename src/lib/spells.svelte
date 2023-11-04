@@ -2,7 +2,8 @@
   import { getContext } from "svelte";
   import type { Data, spellsFilters } from "../types";
   import type { Writable } from "svelte/store";
-  import { filt, sortBy } from "./lib";
+  import { filt, searchByName, sortBy } from "./lib";
+  import Counter from "./Counter.svelte";
   const contextData: Writable<Data> = getContext("data");
   const data = $contextData["spells"];
   let hasEmpower = false;
@@ -18,9 +19,7 @@
       name: "уровень",
       selection: "minMax",
       value: ["1", "10"],
-      options: [...new Set(data.map((spell) => spell.level.toString()))].sort((a, b) =>
-        a.localeCompare(b, undefined, { numeric: true })
-      ),
+      options: [...new Set(data.map((spell) => spell.level.toString()))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true })),
       disabled: [],
     },
     tradition: {
@@ -50,18 +49,12 @@
       disabled: [],
       selection: "singleRadio",
       value: [],
-      options: [
-        "реакция",
-        "одиночное действие",
-        "активность из 2-х действий",
-        "активность из 3-х действий",
-        "свободное действие",
-      ],
+      options: ["реакция", "одиночное действие", "активность из 2-х действий", "активность из 3-х действий", "свободное действие"],
     },
-    //TODO: доделать поиск по имени
   };
   function filtSpell() {
-    const { filteredData, pageNum, disabledTraits } = filt(data, filters, temp.length);
+    let { filteredData, pageNum, disabledTraits } = filt(data, filters, temp.length);
+    filteredData = searchByName(filteredData, searchStr);
     temp = sortBy(filteredData, sortValues);
     if (hasEmpower) {
       filtEmpower();
@@ -77,15 +70,7 @@
   }
   const filterKeys = Object.keys(filters) as Array<keyof typeof filters>;
   let temp = [...data];
-  function formatResult(value: number) {
-    if (!value) return "Ничего не найдено";
-    const tempVal = value % 100;
-    const num = tempVal % 10;
-    if (tempVal > 10 && tempVal < 20) return `Найдено ${value} элементов`;
-    if (num > 1 && num < 5) return `Найдено ${value} элемента`;
-    if (num === 1) return `Найден ${value} элемент`;
-    return `Найдено ${value} элементов`;
-  }
+
   let numOfpage = 1;
   let sortVariants = [
     { name: "-", value: "-" },
@@ -99,22 +84,26 @@
     .map((_, ind) => ind + 1);
   let collapsible = false;
   let filterBlock: HTMLDivElement;
+  let searchStr: string;
+  $: numOfElems = temp.length;
 </script>
 
 <div class="main">
-  <button
-    class="collapsible"
-    on:click={() => {
-      collapsible = !collapsible;
-    }}
-  >
-    {collapsible ? "Скрыть" : "Раскрыть"} фильтр
-  </button>
-  <div
-    class="filters"
-    bind:this={filterBlock}
-    style="max-height:{collapsible ? '100vh' : '0px'}; border-width:{collapsible ? '1px' : '0px'}"
-  >
+  <div class='search'>
+    <label>
+      Поиск
+      <input type="text" bind:value={searchStr} on:input={filtSpell} />
+    </label>
+    <button
+      class="collapsible"
+      on:click={() => {
+        collapsible = !collapsible;
+      }}
+    >
+      {collapsible ? "Скрыть" : "Раскрыть"} фильтр
+    </button>
+  </div>
+  <div class="filters" bind:this={filterBlock} style="max-height:{collapsible ? '100vh' : '0px'}; border-width:{collapsible ? '1px' : '0px'}">
     {#each filterKeys as key}
       <label>
         <span>{filters[key].name}</span>
@@ -129,13 +118,7 @@
             {#each filters[key].options as val}
               <label class="checkOption">
                 {val}
-                <input
-                  type="checkbox"
-                  disabled={filters[key].disabled.includes(val) && filters[key].multiply}
-                  bind:group={filters[key].value}
-                  value={val}
-                  on:change={filtSpell}
-                />
+                <input type="checkbox" disabled={filters[key].disabled.includes(val) && filters[key].multiply} bind:group={filters[key].value} value={val} on:change={filtSpell} />
               </label>
             {/each}
           </div>
@@ -164,7 +147,7 @@
     <div>Есть Усиление? <input type="checkbox" bind:checked={hasEmpower} on:change={filtSpell} /></div>
   </div>
   <div>
-    <span>{formatResult(temp.length)}</span>
+    <Counter {numOfElems} />
     <span>
       {#if maxPages.length > 1}
         <select bind:value={numOfpage}>
@@ -195,7 +178,7 @@
     {/each}
 
     {#each temp.slice((numOfpage - 1) * 50, numOfpage * 50) as el}
-      <div class="content" on:click={() => console.log(el.action)}>
+      <div class="content">
         <div>{el.name}</div>
         <div>/ {el.type} {el.level} /</div>
         <div>{el.originalName}</div>
@@ -215,6 +198,11 @@
 </div>
 
 <style lang="scss">
+  .search{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+  }
   .main {
     display: flex;
     flex-direction: column;
@@ -246,6 +234,10 @@
     position: sticky;
     top: 20px;
     margin-top: 1rem;
+    background-color: var(--background-color);
+    background-clip: content-box;
+    z-index: 1;
+    padding: 0 1px;
   }
   .checkOption {
     border: 1px solid black;
