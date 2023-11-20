@@ -12,6 +12,7 @@
   import PF_action_3 from "./assets/PF_action_3.webp";
   import PF_action_reaction from "./assets/PF_action_reaction.webp";
   import PF_action_free from "./assets/PF_action_free.webp";
+  import backgroundImage from "./assets/parchmentBackground.jpg"
 
   onMount(() => {
     const imgArr = [PF_action_1, PF_action_2, PF_action_3, PF_action_free, PF_action_reaction];
@@ -50,7 +51,7 @@
   console.log([...paragraphs].sort((a, b) => a.localeCompare(b)));
 </script>
 
-<main>
+<main style="--background-image:url({backgroundImage})">
   <div class="header">
     {#if Object.values(tabs).filter((val) => val.visible).length > 1}
       {#each Object.values(tabs) as val}
