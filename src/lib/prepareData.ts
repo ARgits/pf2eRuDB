@@ -1,9 +1,9 @@
 import type { Action, Background, Creature, Data, Feat, Spell, actionTypes } from "../types";
-import * as PF_action_1 from '../assets/PF_action_1.webp'
-import * as PF_action_2 from '../assets/PF_action_2.webp'
-import * as PF_action_3 from '../assets/PF_action_3.webp'
-import * as PF_action_reaction from '../assets/PF_action_reaction.webp'
-import * as PF_action_free from '../assets/PF_action_free.webp'
+import PF_action_1 from "../assets/PF_action_1.webp";
+import PF_action_2 from "../assets/PF_action_2.webp";
+import PF_action_3 from "../assets/PF_action_3.webp";
+import PF_action_reaction from "../assets/PF_action_reaction.webp";
+import PF_action_free from "../assets/PF_action_free.webp";
 
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
@@ -50,8 +50,10 @@ function prepareBackgrounds(site: HTMLDivElement) {
         background.name = child.textContent!.replace(/\((?<=\().+/, "");
         background.fullName = child.textContent!;
         background.originalName = child.textContent!.match(/(?<=\()((?<!\))[a-z-A-Z ]+)/)![0];
-      } else if (child.localName === "ul") {
-        const rarity = child.textContent!.replaceAll(/[^а-яА-Я]/g, "");
+      } else if (child.localName === "ul" && child.previousElementSibling?.localName === "h2") {
+        const rarity = [...child.children].filter((el) =>
+          ["необычный", "редкий"].includes(el.textContent!.replaceAll(/[^а-яА-Я]/g, ""))
+        )[0].textContent!;
         background.rarity = rarity.replace(/^./, rarity[0].toUpperCase());
       } else if (child.textContent?.includes("Источник:")) {
         background.src = child.textContent.replace("Источник: ", "");
@@ -101,6 +103,7 @@ function prepareContentWithTraits(site: HTMLDivElement) {
 		section > h5 + ul, \
 		section > h6 + ul"
   )) {
+    res.className = res.className + " traits";
     if (!["description"].some((str) => res.parentElement!.className.includes(str))) {
       const h2Text = res.previousElementSibling?.textContent;
       [...res.children].forEach((tag) => traits.add(tag.textContent!));
@@ -115,19 +118,19 @@ function prepareContentWithTraits(site: HTMLDivElement) {
       }
       if (h2Text?.includes("/ ")) {
         [...res.parentElement!.querySelectorAll('img[alt="одиночное действие"]')].forEach((img) =>
-          img.setAttribute("src", PF_action_1.default)
+          img.setAttribute("src", PF_action_1)
         );
         [...res.parentElement!.querySelectorAll('img[alt="реакция"')].forEach((img) =>
-          img.setAttribute("src", PF_action_reaction.default)
+          img.setAttribute("src", PF_action_reaction)
         );
         [...res.parentElement!.querySelectorAll('img[alt="свободное действие"')].forEach((img) =>
-          img.setAttribute("src", PF_action_free.default)
+          img.setAttribute("src", PF_action_free)
         );
         [...res.parentElement!.querySelectorAll('img[alt="активность из 2-х действий"')].forEach((img) =>
-          img.setAttribute("src", PF_action_2.default)
+          img.setAttribute("src", PF_action_2)
         );
         [...res.parentElement!.querySelectorAll('img[alt="активность из 3-х действий"')].forEach((img) =>
-          img.setAttribute("src", PF_action_3.default)
+          img.setAttribute("src", PF_action_3)
         );
 
         const spell = prepareSpell(res);
@@ -166,12 +169,15 @@ function prepareSpell(el: Element): Spell | void {
       traits: alltraits,
       desc: [...parent.children]
         .filter(
-          (child) => !["UL", "H1", "H2"].includes(child.tagName) && child.textContent !== "" &&
-          !child.textContent?.includes('<strong>Обычай')
+          (child) =>
+            !["H1", "H2"].includes(child.tagName) &&
+            //child.textContent !== "" &&
+            !child.textContent?.includes("<strong>Обычай") &&
+            !["H1", "H2"].includes(child.previousElementSibling?.tagName ?? "")
           //![...paragraphs].some((parag) => child.textContent?.includes(parag))
         )
-        .map((e) => e.innerHTML.trim())
-        .join("\n"),
+        .map((e) => e.outerHTML.trim())
+        .join(""),
       rarity: alltraits.filter((t) => ["необычный", "редкий"].includes(t))[0] ?? "обычный",
       tradition: tradition.length
         ? tradition[0]
@@ -184,6 +190,10 @@ function prepareSpell(el: Element): Spell | void {
           .filter((child) => child.textContent?.includes("Источник: "))?.[0]
           ?.textContent?.replace("Источник: ", "") || "",
       action: parent.querySelector("img")?.getAttribute("alt") as actionTypes,
+      castingType:
+        [...parent.children]
+          .filter((child) => child.textContent?.includes("Сотворение:"))?.[0]
+          ?.textContent?.match(/материальный|жестовый|словесный/gm) ?? [],
     };
 
     return spell;

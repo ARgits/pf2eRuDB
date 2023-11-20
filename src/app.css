@@ -2,14 +2,17 @@
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;
   font-weight: 400;
+  --Header_Color_Main: #58180d;
   --color: rgba(255, 255, 255, 0.87);
   --background-color: #242424;
+  --background-image: url("src/assets/parchmentBackground.jpg");
   /*временно*/
   --background-color: #ffffff;
   --color: #213547;
- /*color-scheme: light dark;*/
+  /*color-scheme: light dark;*/
   color: var(--color);
   background-color: var(--background-color);
+  background-image: var(--background-image);
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -29,8 +32,6 @@ a:hover {
 
 body {
   margin: 0;
-  display: flex;
-  place-items: center;
   min-width: 320px;
   min-height: 100vh;
 }
@@ -59,7 +60,7 @@ button {
   font-weight: 500;
   font-family: inherit;
   background-color: #1a1a1a;
-  background-color: #f9f9f9;
+  background-color: rgba(255, 255, 255, 0.5);
   cursor: pointer;
   transition: border-color 0.25s;
 }
@@ -70,11 +71,50 @@ button:focus,
 button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
+input,
+select {
+  background-color: rgba(255, 255, 255, 0.5);
+}
 ul.simple {
-  display: flex;
-  list-style: none;
-  flex-wrap: wrap;
-  justify-content: space-around;
+  list-style-type: disc;
+  margin-bottom: 0.3em;
+}
+ul.simple li {
+  list-style-type: inherit;
+  margin-left: 1em;
+}
+ul.simple li p {
+  margin-bottom: 0;
+  line-height: 1.25em;
+  overflow-wrap: break-word;
+}
+.versionadded,
+.versionmodified,
+.versionchanged {
+  font-size: 0.9em;
+  font-weight: bolder;
+  line-height: 1.4em;
+}
+.line-block {
+  padding-left: 0.4em;
+  margin-left: 0;
+  border-left: 0.25em solid #cfac74;
+}
+.item_content p {
+  margin: 0;
+  line-height: 1.4em;
+  overflow-wrap: break-word;
+}
+.item_content > p:first-of-type {
+  margin-top: 0.1em;
+}
+.item_content hr {
+  display: block;
+  visibility: visible;
+  width: 100%;
+  border: 0px;
+  border-bottom: 1px solid black;
+  margin: 3px 0px;
 }
 
 @media (prefers-color-scheme: light) {

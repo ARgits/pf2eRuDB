@@ -1,63 +1,73 @@
 <script lang="ts">
-  import type { Background, backgroundFilters } from "../types";
+  import { getContext } from "svelte";
+  import type { Data, backgroundFilters } from "../types";
+  import type { Writable } from "svelte/store";
+  import { filt, searchByName } from "./lib";
+  import Filter from "./Filter.svelte";
+  import Counter from "./Counter.svelte";
 
-  export let data: Background[] = [];
-  const bgList = data;
+  const contextData: Writable<Data> = getContext("data");
+  const data = $contextData["backgrounds"];
   const filters: backgroundFilters = {
-    rarity: { name: "редкость", value: "-" },
-    attributeValue: { name: "Повышение характеристики", value: "-" },
-    src: { name: "Источник", value: "-" },
+    rarity: {
+      name: "Редкость",
+      value: [],
+      selection: "singleRadio",
+      options: [...new Set(data.map((bg) => bg.rarity))],
+      disabled: [],
+    },
+    attributeValue: {
+      disabled: [],
+      name: "Повышение характеристики",
+      value: [],
+      selection: "multipleRadio",
+      options: ["Сила", "Ловкость", "Интеллект", "Телосложение", "Харизма", "Мудрость"],
+    },
   };
-  function filt() {
-    tempBG = bgList
-      .filter((bg) => {
-        const filtAR = Object.entries(filters);
-        let criteria = 0;
-        for (const [key, val] of filtAR) {
-          criteria += bg[key as keyof backgroundFilters].includes(val.value) || val.value === "-" ? 1 : 0;
-        }
-        console.log(bg, criteria);
-        return criteria === filtAR.length;
-      })
-      .sort((a, b) => a.name.localeCompare(b.name));
+  function filterFunction() {
+    let { filteredData, pageNum } = filt(data, filters, temp.length);
+    filteredData = searchByName(filteredData, searchStr);
+    temp = [...filteredData]
+    //temp = sortBy(filteredData, sortValues);
+    numOfpage = pageNum;
   }
-  let tempBG = [...bgList].sort((a, b) => a.name.localeCompare(b.name));
+  let temp = [...data];
+  let numOfpage = 1;
+  let searchStr = "";
+  let collapsible = false;
+  $:numOfElems=temp.length
+  console.log(temp.map((bg)=>{return {name:bg.name,rarity:bg.rarity}}))
 </script>
 
 <main>
-  <label>
-    Редкость
-    <select bind:value={filters.rarity} on:change={() => filt()}>
-      <option>-</option>
-      <option>Обычный</option>
-      <option>Необычный</option>
-      <option>Редкий</option>
-    </select>
-  </label>
-  <label
-    >Характеристика
-    <select bind:value={filters.attributeValue} on:change={() => filt()}>
-      <option>-</option>
-      <option>Сила</option>
-      <option>Ловкость</option>
-      <option>Телосложение</option>
-      <option>Интеллект</option>
-      <option>Мудрость</option>
-      <option>Харизма</option>
-    </select>
-  </label>
+  <div class="search">
+    <label>
+      Поиск по названию
+      <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
+    </label>
+    <button
+      class="collapsible"
+      on:click={() => {
+        collapsible = !collapsible;
+      }}
+    >
+      {collapsible ? "Скрыть" : "Раскрыть"} фильтр
+    </button>
+  </div>
+  <Filter {filters} {filterFunction} {collapsible} />
+  <Counter {numOfElems}></Counter>
   <div class="table">
     <div class="header">Имя</div>
-    <div class="header">Источник</div>
     <div class="header">Повышение характеристик</div>
     <div class="header desc">Описание</div>
-    {#each tempBG as bg}
+    {#each temp as bg}
       <div>{bg.name}</div>
-      <div>{bg.src}</div>
       <div>
         {#if bg.attributeValue[0] !== ""}
           {#each bg.attributeValue.split(", ") as val, ind}
-            <p>{ind + 1}. {val}</p>
+            {#if val !== ""}
+              <p>{ind + 1}. {val}</p>
+            {/if}
           {/each}
         {:else}
           {bg.attributeDesc}
@@ -70,18 +80,15 @@
 
 <style>
   .table {
-    display: flex;
-    flex-wrap: wrap;
-    align-items: stretch;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 33.3%);
   }
   .table > * {
     align-items: center;
-    flex-basis: 15%;
     padding: 5px;
     border-bottom: 1px rgba(0, 0, 0, 0.5) solid;
   }
   .desc {
-    flex-basis: 50%;
     text-align: left;
   }
   .header {

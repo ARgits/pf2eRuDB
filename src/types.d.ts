@@ -12,7 +12,7 @@ interface Data {
 }
 type actionTypes = "реакция" | "свободное действие" | "1 действие" | "2 действия" | "3 действия";
 type contentUnion = Background | Spell | Creature | Action | Feat;
-type unionFilters = Filter<contentUnion>;
+type unionFilters = spellsFilters | backgroundFilters;
 interface generalContent {
   name: string;
   originalName: string;
@@ -22,22 +22,23 @@ interface generalContent {
   desc: string;
   src: string;
 }
-export interface Background extends generalContent {
+export type Background = generalContent & {
   attributeValue: string;
   attributeDesc: string;
   feat: string;
   lore: string;
   src: string;
   customAbs: string;
-}
+};
 export interface Action extends generalContent {}
-export interface Spell extends generalContent {
+export type Spell = generalContent & {
   //[index: string]: string;
   type: "Заклинание" | "Чары" | "Ф.чары" | "Фокус" | "-";
   level: number;
   tradition: string[];
   action: string;
-}
+  castingType: string[];
+};
 export interface Creature extends generalContent {}
 export interface Feat extends generalContent {}
 //
@@ -46,17 +47,25 @@ export interface Feat extends generalContent {}
 type Filter<Type> = {
   [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName">]: {
     name: string;
-    selection: "minMax" | "singleRadio" | "multipleRadio";
+    selection: "singleRadio" | "multipleRadio" | "minMax";
     value: string[];
     options: string[];
     multiply?: boolean;
     disabled: string[];
   };
 };
-
-export type backgroundFilters = Filter<Omit<Background, "attributeDesc" | "feat" | "customAbs" | "lore" | "tags">>;
-export type spellsFilters = Filter<Omit<Spell, "">>;
-//export type spellsFilters = Omit<Spell, "name">;
+type SelectionByProperty = {
+  rarity: "singleRadio";
+  level: "minMax";
+  traits: "multipleRadio";
+  action: "singleRadio";
+  tradition: "multipleRadio";
+  type: "singleRadio";
+};
+type BgFilterKeys = Omit<Background, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
+type SpellFilterKeys = Omit<Spell, "">;
+export type backgroundFilters = Filter<BgFilterKeys>;
+export type spellsFilters = Filter<SpellFilterKeys>;
 //
 //Tabs type
 //
@@ -65,11 +74,13 @@ type tab = {
   component: component;
   data: any[];
   visible: boolean;
+  name:string;
+  key:keyof Tabs
 };
 export interface Tabs {
-  [index: string]: tab;
   feats: tab;
   backgrounds: tab;
+  spells:tab;
 }
 //
 //Utility types
