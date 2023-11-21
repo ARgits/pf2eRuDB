@@ -12,7 +12,6 @@
   import PF_action_3 from "./assets/PF_action_3.webp";
   import PF_action_reaction from "./assets/PF_action_reaction.webp";
   import PF_action_free from "./assets/PF_action_free.webp";
-  import backgroundImage from "./assets/parchmentBackground.jpg"
 
   onMount(() => {
     const imgArr = [PF_action_1, PF_action_2, PF_action_3, PF_action_free, PF_action_reaction];
@@ -51,14 +50,16 @@
   console.log([...paragraphs].sort((a, b) => a.localeCompare(b)));
 </script>
 
-<main style="--background-image:url({backgroundImage})">
+<main>
   <div class="header">
     {#if Object.values(tabs).filter((val) => val.visible).length > 1}
       {#each Object.values(tabs) as val}
         {#if val.visible}
-          <button class={currentTab === val.key ? "active" : ""} on:click={() => (currentTab = val.key)}>
-            {val.name}
-          </button>
+          <div class={currentTab === val.key ? "active" : ""}>
+            <button class="tab" on:click={() => (currentTab = val.key)}>
+              {val.name}
+            </button>
+          </div>
         {/if}
       {/each}
     {/if}
@@ -68,7 +69,4 @@
 </main>
 
 <style>
-  .active {
-    background-color: rgba(127, 255, 144, 0.5);
-  }
 </style>

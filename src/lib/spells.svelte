@@ -5,7 +5,7 @@
   import { filt, searchByName, sortBy } from "./lib";
   import Counter from "./Counter.svelte";
   import Filter from "./Filter.svelte";
-  import Spell from "./spell.svelte";
+  import Spell from "./rows/spell.svelte";
 
   const contextData: Writable<Data> = getContext("data");
   const data = $contextData["spells"];
@@ -79,10 +79,10 @@
     }
     numOfpage = pageNum;
     filters.traits.disabled = disabledTraits;
-    collapsibleSpells.forEach((v, k) =>
-      collapsibleSpells.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false)
+    collapsibleContent.forEach((v, k) =>
+      collapsibleContent.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false)
     );
-    collapsibleSpells = collapsibleSpells;
+    collapsibleContent = collapsibleContent;
   }
   function sortSpell() {
     temp = sortBy(temp, sortValues);
@@ -106,8 +106,8 @@
   let collapsibleFilter = false;
   let searchStr: string = "";
   $: numOfElems = temp.length;
-  let collapsibleSpells = new Map();
-  data.forEach((spell) => collapsibleSpells.set(spell.fullName, false));
+  let collapsibleContent = new Map();
+  data.forEach((spell) => collapsibleContent.set(spell.fullName, false));
 </script>
 
 <div class="main">
@@ -117,7 +117,7 @@
       <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
     </label>
     <button
-      class="collapsible"
+      class="filter"
       on:click={() => {
         collapsibleFilter = !collapsibleFilter;
       }}
@@ -172,37 +172,8 @@
     </thead>
     <tbody>
       {#each temp.slice((numOfpage - 1) * itemsPerPage, numOfpage * itemsPerPage) as el}
-        <Spell spell={el} bind:collapsibleSpells />
+        <Spell spell={el} bind:collapsibleContent />
       {/each}
     </tbody>
   </div>
 </div>
-
-<style lang="scss">
-  .search {
-    display: flex;
-    justify-content: space-evenly;
-    align-items: center;
-  }
-  .main {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: nowrap;
-  }
-  .table {
-    display: table;
-    border: 1px solid black;
-    border-collapse: collapse;
-    table-layout: fixed;
-    width: 100%;
-  }
-  th {
-    border: 1px solid;
-    position: sticky;
-    top: 0;
-    background-clip: content-box;
-    padding: 0 1px;
-    font-size: larger;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), var(--background-image);
-  }
-</style>

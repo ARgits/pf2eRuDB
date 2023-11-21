@@ -57,10 +57,15 @@ function prepareBackgrounds(site: HTMLDivElement) {
         background.rarity = rarity.replace(/^./, rarity[0].toUpperCase());
       } else if (child.textContent?.includes("Источник:")) {
         background.src = child.textContent.replace("Источник: ", "");
+        background.desc += child.outerHTML;
       } else if (child.textContent?.includes("Особенность: ")) {
+        background.desc += child.outerHTML;
       } else if (child.textContent?.includes("Вы обучены")) {
+        background.desc += child.outerHTML;
       } else if (child.textContent?.includes("Ваши девиантные умения относятся к")) {
+        background.desc += child.outerHTML;
       } else if (child.textContent?.includes("характеристик")) {
+        background.desc += child.outerHTML;
         background.attributeDesc = child.textContent;
         const abilities = [...child.innerHTML.matchAll(/((?<=<strong>)[а-яА-Я]*)|((?<=другое )[а-яА-Я]*)/g)].map((v) =>
           v[0].replace(/^./, v[0][0].toUpperCase())
@@ -85,9 +90,12 @@ function prepareBackgrounds(site: HTMLDivElement) {
           }
           background.attributeValue = tempAbil.join(", ");
         }
-      } else if (child.innerHTML.includes("strong")) {
-      } else {
-        background.desc += child.textContent;
+      }
+      // else if (child.innerHTML.includes("strong")) {
+
+      // }
+      else {
+        background.desc += child.outerHTML;
         background.rarity = background.rarity.length ? background.rarity : "Обычный";
       }
     }
@@ -148,7 +156,7 @@ function prepareSpell(el: Element): Spell | void {
     ["/ Чары", "/ Закл", "/ Ф.чары", "/ Фокус"].some((type) => el.previousElementSibling?.textContent?.includes(type))
   ) {
     const parent = el.parentElement!;
-    const fullName = el.previousElementSibling!.textContent!;
+    const fullName = el.previousElementSibling!.textContent!.replace("¶", "");
     //у фокусных чар нет традиции, так что проверяем их наличие
     const tradition = [...el.parentElement!.children].filter((e) => {
       return e.textContent?.includes("Обычай: ");

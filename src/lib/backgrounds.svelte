@@ -4,6 +4,7 @@
   import type { Writable } from "svelte/store";
   import { filt, searchByName } from "./lib";
   import Filter from "./Filter.svelte";
+  import Background from "./rows/background.svelte";
   import Counter from "./Counter.svelte";
 
   const contextData: Writable<Data> = getContext("data");
@@ -27,26 +28,29 @@
   function filterFunction() {
     let { filteredData, pageNum } = filt(data, filters, temp.length);
     filteredData = searchByName(filteredData, searchStr);
-    temp = [...filteredData]
-    //temp = sortBy(filteredData, sortValues);
+    temp = [...filteredData];
     numOfpage = pageNum;
+    collapsibleContent.forEach((v, k) =>
+      collapsibleContent.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false)
+    );
   }
   let temp = [...data];
   let numOfpage = 1;
   let searchStr = "";
   let collapsible = false;
-  $:numOfElems=temp.length
-  console.log(temp.map((bg)=>{return {name:bg.name,rarity:bg.rarity}}))
+  let collapsibleContent = new Map();
+  data.forEach((content) => collapsibleContent.set(content.fullName, false));
+  $: numOfElems = temp.length;
 </script>
 
-<main>
+<div class="main">
   <div class="search">
     <label>
       Поиск по названию
       <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
     </label>
     <button
-      class="collapsible"
+      class="filter"
       on:click={() => {
         collapsible = !collapsible;
       }}
@@ -55,48 +59,15 @@
     </button>
   </div>
   <Filter {filters} {filterFunction} {collapsible} />
-  <Counter {numOfElems}></Counter>
-  <div class="table">
-    <div class="header">Имя</div>
-    <div class="header">Повышение характеристик</div>
-    <div class="header desc">Описание</div>
+  <Counter {numOfElems} />
+  <table class="table">
+    <thead>
+      <th class="header">Имя</th>
+      <th class="header">Редкость</th>
+      <th class="header desc">Повышение характеристик</th>
+    </thead>
     {#each temp as bg}
-      <div>{bg.name}</div>
-      <div>
-        {#if bg.attributeValue[0] !== ""}
-          {#each bg.attributeValue.split(", ") as val, ind}
-            {#if val !== ""}
-              <p>{ind + 1}. {val}</p>
-            {/if}
-          {/each}
-        {:else}
-          {bg.attributeDesc}
-        {/if}
-      </div>
-      <div class="desc">{bg.desc}</div>
+      <Background content={bg} bind:collapsibleContent />
     {/each}
-  </div>
-</main>
-
-<style>
-  .table {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, 33.3%);
-  }
-  .table > * {
-    align-items: center;
-    padding: 5px;
-    border-bottom: 1px rgba(0, 0, 0, 0.5) solid;
-  }
-  .desc {
-    text-align: left;
-  }
-  .header {
-    text-align: center;
-    font-size: larger;
-    border-bottom: 1px black solid;
-    position: sticky;
-    top: 20px;
-    background-color: white;
-  }
-</style>
+  </table>
+</div>

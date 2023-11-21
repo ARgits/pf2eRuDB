@@ -51,7 +51,45 @@ h1 {
   padding: 2rem;
   text-align: center;
 }
-
+div.header {
+  display: flex;
+  gap: 0.5rem;
+  padding-left: 0;
+  margin-bottom: 0;
+  border-color: black;
+  & div {
+    margin-bottom: -1px;
+    &.active {
+      position: relative;
+      background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(255, 255, 255, 0.1)), url(--background-image);
+      border-width: 1px 1px 0 1px;
+      border-image-width: 0 0 1px 0;
+      & button {
+        color: #495057;
+        background-color: #fff;
+        border-image: url(--background-image);
+        border-image-width: 0 0 1px 0;
+      }
+    }
+    & button {
+      border: 1px solid transparent;
+      border-top-left-radius: 0.25rem;
+      border-top-right-radius: 0.25rem;
+      display: block;
+      padding: 0.5rem 1rem;
+      & :hover {
+        border-color: #e9ecef #e9ecef #dee2e6;
+      }
+    }
+  }
+}
+div.main {
+  margin-bottom: 10px;
+  padding: 40px;
+  border: 1px solid #dee2e6;
+  border-radius: 0 0 0.5rem 0.5rem;
+  border-top: 0;
+}
 button {
   border-radius: 8px;
   border: 1px solid transparent;
@@ -59,13 +97,22 @@ button {
   font-size: 1em;
   font-weight: 500;
   font-family: inherit;
-  background-color: #1a1a1a;
-  background-color: rgba(255, 255, 255, 0.5);
   cursor: pointer;
   transition: border-color 0.25s;
+  background-color: unset;
+  background-image: linear-gradient(rgba(130, 130, 130, 0.1), rgba(0, 0, 0, 0.1)), url(--background-image);
+  &.filter {
+    padding: 0 0.5rem;
+  }
+
+  &.tab {
+    border: 1px solid transparent;
+    border-radius: 0.25px 0.25px 0 0;
+    padding: 0.5rem 1rem;
+  }
 }
 button:hover {
-  border-color: #646cff;
+  border-color: black;
 }
 button:focus,
 button:focus-visible {
@@ -116,16 +163,157 @@ ul.simple li p {
   border-bottom: 1px solid black;
   margin: 3px 0px;
 }
+.search {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+}
+.table {
+  display: table;
+  border-collapse: collapse;
+  table-layout: fixed;
+  width: 100%;
+}
+td,
+th {
+  font-size: small;
+  word-break: break-all;
+}
+td.description {
+  word-break: unset;
+}
+th {
+  word-break: break-all;
+  border: 1px solid;
+  position: sticky;
+  top: 0;
+  background-clip: content-box;
+  padding: 0 1px;
+  font-size: large;
+  background-image: linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), var(--background-image);
+}
+tr.item {
+  &:nth-child(even of .item) {
+    background-color: rgba(0, 0, 0, 0.1);
+    & + tr.collapsible {
+      background-color: rgba(0, 0, 0, 0.1);
+      &:hover {
+        background-color: rgba(255, 255, 255, 0.3);
+      }
+    }
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.3);
+      & + tr.collapsible {
+        background-color: rgba(255, 255, 255, 0.3);
+      }
+    }
+    &:has(+ tr.collapsible:hover) {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+  }
+  & + tr.collapsible:hover {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+  &:hover {
+    cursor: pointer;
+    background-color: rgba(255, 255, 255, 0.3);
+    & + tr.collapsible {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+  }
+  &:has(+ tr.collapsible:hover) {
+    background-color: rgba(255, 255, 255, 0.3);
+  }
+}
+td {
+  border: 1px solid black;
+  border-bottom-width: 0;
+}
+.collapsible {
+  & button {
+    position: relative;
+    padding: 0;
+    border: 1px solid black;
+    height: 10%;
+    width: 100%;
+    background-image: var(--background-image);
+    box-shadow: 1px 1px 1px black;
+    &:hover {
+      border-color: red;
+    }
+  }
+  & td {
+    border-top-width: 0;
+  }
+}
+.item {
+  &.expanded td {
+    border-bottom-width: 0;
+  }
+}
+.item_name {
+  &:not(:last-child) {
+    color: var(--Header_Color_Main);
+    font-weight: bold;
+  }
+}
+.item_content {
+  margin-top: 1%;
+  padding: 0.25rem;
+  text-align: left;
+  z-index: 1;
+}
+td.description {
+  position: relative;
+  height: 90%;
+}
 
-@media (prefers-color-scheme: light) {
-  :root {
-    --color: #213547;
-    --background-color: #ffffff;
-  }
-  a:hover {
-    color: #747bff;
-  }
-  button {
-    background-color: #f9f9f9;
-  }
+.tradition {
+  text-align: left;
+  border-bottom: 1px dotted black;
+  padding: 1px;
+}
+div:has(> .trait) {
+  text-align: left;
+}
+.trait {
+  display: flex;
+  flex-wrap: wrap;
+}
+.trait_item {
+  font-family: "Roboto Condensed", sans-serif;
+  border-color: #dac68a;
+  border: 1px solid #dac68a;
+  border-left: 2px solid #dac68a;
+  border-right: 2px solid #dac68a;
+  border-radius: 2px;
+  background-color: #58180d;
+  color: white;
+  text-align: center;
+  margin-top: 2px;
+  margin-right: 2px;
+  min-width: 30px;
+  float: left;
+  padding-left: 3px;
+  padding-right: 3px;
+}
+.titleSeparator {
+  position: absolute;
+  top: 0;
+  width: 100%;
+  text-indent: initial;
+  display: block;
+  column-span: all;
+  -webkit-column-span: all;
+  height: 1rem;
+  background-color: var(--Header_Color_Main);
+  mask-repeat: no-repeat;
+  mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.97 4.83"  preserveAspectRatio="none"><path d="M71.9 0c-.32 0-.64.06-.94.16-.35.12-.7.34-1.18.6a4.1 4.1 0 0 1-1.04.5H0v.46h70.63l-.06.33c-.04.26.17.48.32.6s.52.3.52.3l-.18-.42c-.2-.5.3-.98.84-.88.54.1.94.15 1.2 1.25.2.77 1.41 1.94 2.65 1.93.69-.01 1.25-.15 1.65-.52l.42-.53.41.53c.4.37.97.5 1.65.52 1.24.01 2.46-1.16 2.65-1.93.26-1.1.67-1.15 1.2-1.25.54-.1 1.05.38.84.88l-.18.42s.37-.18.52-.3c.16-.12.36-.34.32-.6l-.05-.33h70.62v-.46H87.24a4.1 4.1 0 0 1-1.04-.5c-.48-.26-.84-.48-1.18-.6-.6-.2-1.3-.23-1.83 0-.53.22-.78.41-1.11.93l-.4.62-.25-.31c-.14-.17-.5-.38-.68-.43-.45-.11-1.12.17-1.3.49-.16.31-.05.75.27.98-.1-.33.03-.8.75-.6.24.1.31.24.31.58 0 .93-1.23 1.44-1.89.78-.22-.23-.3-.45-.3-.97 0-.57.13-.73.33-.98.13-.17.14-.15.45-.36-.17 0-.78.23-1 .47l-.38.42-.39-.42a2.08 2.08 0 0 0-1-.47c.3.2.32.19.46.36.19.25.31.41.31.98 0 .52-.06.74-.29.97-.66.66-1.89.15-1.89-.78 0-.34.08-.48.32-.58.72-.2.85.27.75.6.3-.23.43-.67.26-.98-.17-.32-.85-.6-1.3-.5-.18.06-.54.27-.67.44l-.25.3-.4-.61c-.34-.52-.59-.7-1.12-.93A2.21 2.21 0 0 0 71.9 0z"/></svg>');
+  -webkit-mask-repeat: no-repeat;
+  -webkit-mask-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 155.97 4.83"  preserveAspectRatio="none"><path d="M71.9 0c-.32 0-.64.06-.94.16-.35.12-.7.34-1.18.6a4.1 4.1 0 0 1-1.04.5H0v.46h70.63l-.06.33c-.04.26.17.48.32.6s.52.3.52.3l-.18-.42c-.2-.5.3-.98.84-.88.54.1.94.15 1.2 1.25.2.77 1.41 1.94 2.65 1.93.69-.01 1.25-.15 1.65-.52l.42-.53.41.53c.4.37.97.5 1.65.52 1.24.01 2.46-1.16 2.65-1.93.26-1.1.67-1.15 1.2-1.25.54-.1 1.05.38.84.88l-.18.42s.37-.18.52-.3c.16-.12.36-.34.32-.6l-.05-.33h70.62v-.46H87.24a4.1 4.1 0 0 1-1.04-.5c-.48-.26-.84-.48-1.18-.6-.6-.2-1.3-.23-1.83 0-.53.22-.78.41-1.11.93l-.4.62-.25-.31c-.14-.17-.5-.38-.68-.43-.45-.11-1.12.17-1.3.49-.16.31-.05.75.27.98-.1-.33.03-.8.75-.6.24.1.31.24.31.58 0 .93-1.23 1.44-1.89.78-.22-.23-.3-.45-.3-.97 0-.57.13-.73.33-.98.13-.17.14-.15.45-.36-.17 0-.78.23-1 .47l-.38.42-.39-.42a2.08 2.08 0 0 0-1-.47c.3.2.32.19.46.36.19.25.31.41.31.98 0 .52-.06.74-.29.97-.66.66-1.89.15-1.89-.78 0-.34.08-.48.32-.58.72-.2.85.27.75.6.3-.23.43-.67.26-.98-.17-.32-.85-.6-1.3-.5-.18.06-.54.27-.67.44l-.25.3-.4-.61c-.34-.52-.59-.7-1.12-.93A2.21 2.21 0 0 0 71.9 0z"/></svg>');
 }
