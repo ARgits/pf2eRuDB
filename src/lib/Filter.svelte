@@ -1,105 +1,75 @@
 <script lang="ts">
-  import type { unionFilters } from "../types";
+  import { getContext } from "svelte";
+  import type { globalFilter, filterUnion, TableData } from "../types";
+  import type { Writable } from "svelte/store";
+  import SubFilter from "./SubFilter.svelte";
+  import filterIcon from "@fortawesome/fontawesome-free/svgs/solid/filter.svg";
+  import Counter from "./Counter.svelte";
 
-  export let filters: unionFilters;
+  export let dataKey: keyof TableData = "feats";
   export let filterFunction = () => {};
-  export let collapsible = false;
-  const filterKeys = Object.keys(filters) as Array<keyof typeof filters>;
+  let collapsed = true;
+  const globalFilters: Writable<globalFilter> = getContext("filters");
+  console.log($globalFilters, dataKey);
+  const filterKeys = Object.keys($globalFilters[dataKey]) as Array<keyof filterUnion>;
 </script>
 
-<div class="filters" style="max-height:{collapsible ? '100vh' : '0px'}; border-width:{collapsible ? '1px' : '0px'}">
-  {#each filterKeys as key}
-    <label>
-      <span>{filters[key].name}</span>
-      {#if filters[key].multiply !== undefined}
-        <div>
-          Должен присутствовать каждый признак
-          <input type="checkbox" bind:checked={filters[key].multiply} on:change={filterFunction} />
-        </div>
-      {/if}
-      {#if filters[key].selection.includes("Radio")}
-        <div class="filters_item">
-          {#each filters[key].options as val}
-            <label class="checkOption">
-              {val}
-              <input
-                type="checkbox"
-                disabled={filters[key].disabled.includes(val) && filters[key].multiply}
-                bind:group={filters[key].value}
-                value={val}
-                on:change={filterFunction}
-              />
-            </label>
-          {/each}
-        </div>
-      {:else}
-        <div class="filters_item">
-          <label
-            >мин
-            <select bind:value={filters[key].value[0]} on:change={filterFunction}>
-              {#each filters[key].options.filter((opt) => parseInt(opt) <= parseInt(filters[key].value[1])) as option}
-                <option>{option}</option>
-              {/each}
-            </select>
-          </label>
-          <label>
-            макс
-            <select bind:value={filters[key].value[1]} on:change={filterFunction}>
-              {#each filters[key].options.filter((opt) => parseInt(opt) >= parseInt(filters[key].value[0])) as option}
-                <option>{option}</option>
-              {/each}
-            </select>
-          </label>
-        </div>
-      {/if}
-    </label>
-  {/each}
-  <slot />
+<div class="filter_container {collapsed ? ' collapsed' : ''}">
+  <button
+    class="filter_button"
+    on:click={() => {
+      collapsed = !collapsed;
+    }}
+  >
+    <img src={filterIcon} alt="вкл/выкл фильтр" />
+  </button>
+
+  <div class="filter_content{collapsed ? ' collapsed' : ''}">
+    {#if !collapsed}
+    <Counter/>
+    {/if}
+    {#each filterKeys as key}
+      <SubFilter {key} {dataKey} {filterFunction} />
+    {/each}
+    <slot />
+  </div>
 </div>
 
 <style lang="scss">
-  .filters {
+  .filter_container {
     display: flex;
-    flex-wrap: wrap;
-    border: 1px solid black;
-    border-radius: 10px;
+
     padding: 1px;
-    justify-content: space-around;
-    align-items: center;
-    transition: all 1s ease-out;
-    overflow: hidden;
+    position: sticky;
+    height: 90vh;
+    //overflow-y: auto;
+    top: 0;
+
     & > label {
       margin: 0 0.25rem 1rem;
     }
   }
-  .filters_item {
-    padding: 0.5rem 0.25rem;
-    display: flex;
-    flex-wrap: wrap;
-    max-height: 75px;
-    overflow-y: auto;
-    width: fit-content;
-    justify-content: space-between;
-    gap: 0.35rem;
-    border: 1px dashed black;
-  }
-  .checkOption {
+  .filter_content {
     border: 1px solid black;
-    padding: 0 2px;
-    cursor: pointer;
-    & input {
-      cursor: pointer;
-    }
-    &:has(> input:checked) {
-      background-color: rgba(0, 255, 0, 0.3);
-    }
-    &:has(> input:disabled) {
-      color: grey;
-      background-color: rgba(255, 0, 0, 0.3);
-      cursor: not-allowed;
-      & input {
-        cursor: not-allowed;
-      }
+    border-radius: 10px;
+    overflow-y: auto;
+  }
+  .filter_button {
+    height: fit-content;
+    position: absolute;
+    top: 1.5rem;
+    left: calc(-2rem - 1px);
+    padding: 0.25rem 0.25rem;
+    z-index: 3;
+    display:none
+    // background-image: var(--background-image);
+  }
+  img {
+    width: 1.5rem;
+  }
+  @media (max-aspect-ratio:1/1){
+    .filter_button{
+      display: block;
     }
   }
 </style>

@@ -2,17 +2,21 @@
 //Content types
 //
 interface Data {
-  backgrounds: Background[];
-  spells: Spell[];
-  actions: Action[];
-  feats: Feat[];
-  creatures: Creature[];
+  backgrounds: BackgroundType[];
+  spells: SpellType[];
+  actions: ActionType[];
+  feats: FeatType[];
+  creatures: CreatureType[];
   traits: Set<string>;
   paragraphs: Set<string>;
 }
+type Content = {
+  [k in keyof TableData]: k extends "backgrounds" ? BackgroundType : k extends "spells" ? SpellType : FeatType;
+};
+type ContentByKey<K extends tableData> = Content[K];
+type contentTableUnion = BackgroundType[] | SpellType[] | FeatType[];
+type TableData = Omit<Data, "traits" | "paragraphs">;
 type actionTypes = "реакция" | "свободное действие" | "1 действие" | "2 действия" | "3 действия";
-type contentUnion = Background | Spell | Creature | Action | Feat;
-type unionFilters = spellsFilters | backgroundFilters;
 interface generalContent {
   name: string;
   originalName: string;
@@ -22,38 +26,55 @@ interface generalContent {
   desc: string;
   src: string;
 }
-export type Background = generalContent & {
-  attributeValue: string;
+type tableHeaders = { [k in keyof Tabs]: { name: string; value: keyof Content[k] }[] };
+type tableHeadersGeneral = { name: string; value: keyof generalContent }[];
+type tableHeadersByKey<K extends keyof tableHeaders> = tableHeaders[k];
+export interface BackgroundType extends generalContent {
+  attributeValue: string[][];
   attributeDesc: string;
   feat: string;
   lore: string;
   src: string;
   customAbs: string;
-};
-export interface Action extends generalContent {}
-export type Spell = generalContent & {
+}
+export interface ActionType extends generalContent {}
+export interface SpellType extends generalContent {
   //[index: string]: string;
   type: "Заклинание" | "Чары" | "Ф.чары" | "Фокус" | "-";
   level: number;
   tradition: string[];
   action: string;
   castingType: string[];
-};
-export interface Creature extends generalContent {}
-export interface Feat extends generalContent {}
+}
+export interface CreatureType extends generalContent {}
+export interface FeatType extends generalContent {
+  action: string;
+}
 //
 //Filters Type
 //
-type Filter<Type> = {
-  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName">]: {
-    name: string;
-    selection: "singleRadio" | "multipleRadio" | "minMax";
-    value: string[];
-    options: string[];
-    multiply?: boolean;
-    disabled: string[];
-  };
+type globalFilter = {
+  backgrounds: backgroundFilter;
+  spells: spellsFilter;
+  feats: FeatFilter;
+  actions: ActionFilter;
+  creatures: CreatureFilter;
 };
+type Filter<Type> = {
+  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName">]: filterProps;
+};
+type filterProps = {
+  name: string;
+  selection: "singleRadio" | "multipleRadio" | "minMax";
+  value: string[];
+  options: string[];
+  multiply?: boolean;
+  disabled: string[];
+  excluded: string[];
+  search: string;
+  hasSearch: boolean;
+};
+type filterUnion = backgroundFilter | spellsFilter | featFilter;
 type SelectionByProperty = {
   rarity: "singleRadio";
   level: "minMax";
@@ -62,25 +83,26 @@ type SelectionByProperty = {
   tradition: "multipleRadio";
   type: "singleRadio";
 };
-type BgFilterKeys = Omit<Background, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
-type SpellFilterKeys = Omit<Spell, "">;
-export type backgroundFilters = Filter<BgFilterKeys>;
-export type spellsFilters = Filter<SpellFilterKeys>;
+type BgFilterKeys = Omit<BackgroundType, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
+type SpellFilterKeys = Omit<SpellType, "">;
+type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action">;
+export type backgroundFilter = Filter<BgFilterKeys>;
+export type spellsFilter = Filter<SpellFilterKeys>;
+export type featFilter = Filter<FeatFilterKeys>;
 //
 //Tabs type
 //
 type component = typeof SvelteComponent<any, any, any>;
 type tab = {
   component: component;
-  data: any[];
   visible: boolean;
-  name:string;
-  key:keyof Tabs
+  name: string;
+  key: keyof Tabs;
 };
 export interface Tabs {
   feats: tab;
   backgrounds: tab;
-  spells:tab;
+  spells: tab;
 }
 //
 //Utility types

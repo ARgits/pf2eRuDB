@@ -1,5 +1,7 @@
 <script lang="ts">
-  export let numOfElems:number
+  import { getContext } from "svelte";
+  import type { Writable } from "svelte/store";
+  const numOfElems:Writable<number> = getContext("numOfElems")
   function formatResult(val:number) {
     if (!val) return "Ничего не найдено";
     const tempval = val % 100;
@@ -11,4 +13,7 @@
   }
 </script>
 
-<span>{formatResult(numOfElems)}</span>
+<div>{formatResult($numOfElems)}</div>
+<style>
+  
+</style>

@@ -1,53 +1,76 @@
 <script lang="ts">
-  import { writable } from "svelte/store";
-  import * as data from "./assets/data.json";
   import Backgrounds from "./lib/backgrounds.svelte";
   import Feats from "./lib/feats.svelte";
-  import { prepareData } from "./lib/prepareData";
   import Spells from "./lib/spells.svelte";
-  import type { Tabs } from "./types";
-  import { onMount, setContext } from "svelte";
-  import PF_action_1 from "./assets/PF_action_1.webp";
-  import PF_action_2 from "./assets/PF_action_2.webp";
-  import PF_action_3 from "./assets/PF_action_3.webp";
-  import PF_action_reaction from "./assets/PF_action_reaction.webp";
-  import PF_action_free from "./assets/PF_action_free.webp";
-
-  onMount(() => {
-    const imgArr = [PF_action_1, PF_action_2, PF_action_3, PF_action_free, PF_action_reaction];
-    for (let src of imgArr) {
-      let img = new Image();
-      img.src = src;
-    }
-  });
-  const dataStore = writable(prepareData(data));
-  setContext("data", dataStore);
-  const { backgrounds, feats, spells, paragraphs } = $dataStore;
+  import type { Tabs, tableHeaders } from "./types";
+  import { setContext } from "svelte";
+  import { filters } from "./lib/filter";
+  import { readyData } from "./lib/readyData";
+  import { writable } from "svelte/store";
+  setContext("data", readyData);
+  setContext("filters", filters);
+  setContext("numOfElems",writable(null))
   const tabs: Tabs = {
     feats: {
       component: Feats,
-      data: feats,
-      visible: false,
-      name: "Черты",
+      visible: true,
+      name: "Способности",
       key: "feats",
     },
     backgrounds: {
       component: Backgrounds,
-      data: backgrounds,
       visible: true,
       name: "Происхождения",
       key: "backgrounds",
     },
     spells: {
       component: Spells,
-      data: spells,
       visible: true,
       name: "Заклинания",
       key: "spells",
     },
   };
-  let currentTab: keyof Tabs = "spells";
-  console.log([...paragraphs].sort((a, b) => a.localeCompare(b)));
+  const tableHeaders: tableHeaders = {
+    feats: [
+      {
+        name: "Название",
+        value: "fullName",
+      },
+      {
+        name: "Признаки",
+        value: "traits",
+      },
+    ],
+    backgrounds: [
+      {
+        name: "Название",
+        value: "fullName",
+      },
+      {
+        name: "Редкость",
+        value: "rarity",
+      },
+      {
+        name: "Повышение характеристики",
+        value: "attributeValue",
+      },
+    ],
+    spells: [
+      {
+        name: "Название",
+        value: "fullName",
+      },
+      {
+        name: "Признаки",
+        value: "traits",
+      },
+      {
+        name: "Обычай",
+        value: "tradition",
+      },
+    ],
+  };
+  let currentTab: keyof Tabs = "feats";
 </script>
 
 <main>
@@ -64,8 +87,9 @@
       {/each}
     {/if}
   </div>
-
-  <svelte:component this={tabs[currentTab].component} />
+  {#key currentTab}
+    <Feats dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
+  {/key}
 </main>
 
 <style>

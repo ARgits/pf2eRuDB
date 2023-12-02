@@ -1,4 +1,4 @@
-import type { Action, Background, Creature, Data, Feat, Spell, actionTypes } from "../types";
+import type { ActionType, BackgroundType, CreatureType, Data, FeatType, SpellType, actionTypes } from "../types";
 import PF_action_1 from "../assets/PF_action_1.webp";
 import PF_action_2 from "../assets/PF_action_2.webp";
 import PF_action_3 from "../assets/PF_action_3.webp";
@@ -13,17 +13,27 @@ const nameOfNum: { [index: string]: number } = {
   "2": 2,
   "3": 3,
 };
-const backgrounds: Background[] = [];
-const spells: Spell[] = [];
-const actions: Action[] = [];
-const feats: Feat[] = [];
-const creatures: Creature[] = [];
+const abilitiesNames = ["Интеллект", "Сила", "Мудрость", "Ловкость", "Харизма", "Телосложение"];
+const allImgs = [PF_action_1, PF_action_2, PF_action_3, PF_action_free, PF_action_reaction];
+console.log(PF_action_reaction);
+const backgrounds: BackgroundType[] = [];
+const spells: SpellType[] = [];
+const actions: ActionType[] = [];
+const feats: FeatType[] = [];
+const creatures: CreatureType[] = [];
 const traits: Set<string> = new Set();
 const paragraphs: Set<string> = new Set();
 export function prepareData(data: any): Data {
-  for (let site of data.checked) {
+  for (const site of data.checked) {
     const el = document.createElement("div");
     el.innerHTML = site.data;
+    el.querySelectorAll('img[class*="action-"]').forEach((img) => {
+      const tempSrc = img.getAttribute("src")?.match(/(PF_action).+(?=.png)/g)?.[0];
+      if (tempSrc) {
+        const src = allImgs.filter((item) => item.includes(tempSrc))[0];
+        img.setAttribute("src", src.slice(4));
+      }
+    });
     prepareBackgrounds(el);
     prepareContentWithTraits(el);
   }
@@ -31,11 +41,11 @@ export function prepareData(data: any): Data {
 }
 function prepareBackgrounds(site: HTMLDivElement) {
   for (const res of site.querySelectorAll('section[id^="bg"')) {
-    const background: Background = {
+    const background: BackgroundType = {
       fullName: "",
       originalName: "",
       name: "",
-      attributeValue: "",
+      attributeValue: [[]],
       attributeDesc: "",
       desc: "",
       feat: "",
@@ -47,7 +57,7 @@ function prepareBackgrounds(site: HTMLDivElement) {
     };
     for (const child of res.children) {
       if (child.localName === "h2") {
-        background.name = child.textContent!.replace(/\((?<=\().+/, "");
+        background.name = child.textContent!.replace(/\((?<=\().+/, "").trim();
         background.fullName = child.textContent!;
         background.originalName = child.textContent!.match(/(?<=\()((?<!\))[a-z-A-Z ]+)/)![0];
       } else if (child.localName === "ul" && child.previousElementSibling?.localName === "h2") {
@@ -70,6 +80,15 @@ function prepareBackgrounds(site: HTMLDivElement) {
         const abilities = [...child.innerHTML.matchAll(/((?<=<strong>)[а-яА-Я]*)|((?<=другое )[а-яА-Я]*)/g)].map((v) =>
           v[0].replace(/^./, v[0][0].toUpperCase())
         );
+        if (background.name === "Послушник") {
+          console.log(abilities);
+        }
+        for (let key of abilities.keys()) {
+          abilities[key] = abilitiesNames.filter((item) => item.includes(abilities[key].slice(0, 3)))[0] || "Свободное";
+        }
+        if (background.name === "Послушник") {
+          console.log(abilities);
+        }
         let numOfAbilities: RegExpMatchArray | null | number = child.innerHTML.match(
           /\d|(\sдва\s)|(\sодно\s)|(\sтри\s)/g
         );
@@ -80,15 +99,10 @@ function prepareBackgrounds(site: HTMLDivElement) {
           const tempAbil = [];
           let tempInd = 0;
           for (let ind of Array(numOfAbilities).keys()) {
-            tempAbil.push(
-              abilities
-                .slice(tempInd, ind + numOfAbilities)
-                .filter((ab) => !ab.includes("Своб"))
-                .join("/")
-            );
+            tempAbil.push(abilities.slice(tempInd, ind + numOfAbilities).filter((ab) => ab !== "Свободное"));
             tempInd += ind + numOfAbilities;
           }
-          background.attributeValue = tempAbil.join(", ");
+          background.attributeValue = tempAbil;
         }
       }
       // else if (child.innerHTML.includes("strong")) {
@@ -125,22 +139,6 @@ function prepareContentWithTraits(site: HTMLDivElement) {
           .forEach((el) => paragraphs.add(el.textContent!.match(/(?<!:)[а-яА-Я()\- ,]+/)![0]));
       }
       if (h2Text?.includes("/ ")) {
-        [...res.parentElement!.querySelectorAll('img[alt="одиночное действие"]')].forEach((img) =>
-          img.setAttribute("src", PF_action_1)
-        );
-        [...res.parentElement!.querySelectorAll('img[alt="реакция"')].forEach((img) =>
-          img.setAttribute("src", PF_action_reaction)
-        );
-        [...res.parentElement!.querySelectorAll('img[alt="свободное действие"')].forEach((img) =>
-          img.setAttribute("src", PF_action_free)
-        );
-        [...res.parentElement!.querySelectorAll('img[alt="активность из 2-х действий"')].forEach((img) =>
-          img.setAttribute("src", PF_action_2)
-        );
-        [...res.parentElement!.querySelectorAll('img[alt="активность из 3-х действий"')].forEach((img) =>
-          img.setAttribute("src", PF_action_3)
-        );
-
         const spell = prepareSpell(res);
         if (spell) spells.push(spell);
         const creature = prepareCreature(res);
@@ -151,7 +149,7 @@ function prepareContentWithTraits(site: HTMLDivElement) {
     }
   }
 }
-function prepareSpell(el: Element): Spell | void {
+function prepareSpell(el: Element): SpellType | void {
   if (
     ["/ Чары", "/ Закл", "/ Ф.чары", "/ Фокус"].some((type) => el.previousElementSibling?.textContent?.includes(type))
   ) {
@@ -162,7 +160,7 @@ function prepareSpell(el: Element): Spell | void {
       return e.textContent?.includes("Обычай: ");
     });
     const alltraits = el.textContent!.split("\n").filter((t) => t !== "");
-    let spell: Spell = {
+    let spell: SpellType = {
       fullName,
       name: fullName.replace(/\((?<=\().+/, ""),
       originalName: fullName.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)![0] || "",
@@ -209,14 +207,43 @@ function prepareSpell(el: Element): Spell | void {
 
   return;
 }
-function prepareCreature(el: Element): Creature | void {
+function prepareCreature(el: Element): CreatureType | void {
   return;
 }
-function prepareFeat(el: Element): Feat | void {
-  return;
+function prepareFeat(el: Element): FeatType | void {
+  const parent = el.parentElement!;
+  if (parent.firstElementChild?.id.includes("feat-")) {
+    parent.querySelector("h1, h2, h3, h4")?.querySelector('a[title="Ссылка на этот заголовок"]')?.remove();
+    const fullName = parent.querySelector("h3, h4, h2, h1")!.innerHTML;
+    const fullNameText = parent.querySelector("h3, h4, h2, h1")!.textContent!;
+    const alltraits = el.textContent!.split("\n").filter((t) => t !== "");
+    const feat: FeatType = {
+      fullName,
+      name: fullNameText.replace(/\((?<=\().+/, ""),
+      originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
+      level: parseInt(fullNameText.match(/\d{1,2}/g)![0]),
+      traits: alltraits,
+      rarity:
+        alltraits.filter((trait) => {
+          let lowerTrait = trait.toLowerCase();
+          return lowerTrait === "редкий" || lowerTrait === "необычный";
+        })?.[0] || "обычный",
+      desc: [...parent.children]
+        .filter(
+          (child) => ![...parent.querySelectorAll("h1, h2, h3, h4, ul.traits")].includes(child)
+          // !["H1", "H2"].includes(child.tagName) &&
+          // !["H1", "H2"].includes(child.previousElementSibling?.tagName ?? "")
+        )
+        .map((e) => e.outerHTML.trim())
+        .join(""),
+      src: "",
+      action: parent.querySelector("img")?.getAttribute("alt") as actionTypes,
+    };
+    return feat;
+  }
 }
-function prepareAction(el: Element): Action {
-  const action = {
+function prepareAction(el: Element): ActionType {
+  const action: ActionType = {
     fullName: "",
     name: "",
     traits: [""],
@@ -224,6 +251,7 @@ function prepareAction(el: Element): Action {
     desc: "",
     src: "",
     originalName: "",
+    level: 0,
   };
   return action;
 }

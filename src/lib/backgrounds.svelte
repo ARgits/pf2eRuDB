@@ -1,73 +1,69 @@
 <script lang="ts">
   import { getContext } from "svelte";
-  import type { Data, backgroundFilters } from "../types";
+  import type { BackgroundType, Data, backgroundFilters, globalFilter } from "../types";
   import type { Writable } from "svelte/store";
-  import { filt, searchByName } from "./lib";
+  import { filter, searchByName } from "./lib";
   import Filter from "./Filter.svelte";
   import Background from "./rows/background.svelte";
   import Counter from "./Counter.svelte";
 
-  const contextData: Writable<Data> = getContext("data");
-  const data = $contextData["backgrounds"];
-  const filters: backgroundFilters = {
-    rarity: {
-      name: "Редкость",
-      value: [],
-      selection: "singleRadio",
-      options: [...new Set(data.map((bg) => bg.rarity))],
-      disabled: [],
-    },
-    attributeValue: {
-      disabled: [],
-      name: "Повышение характеристики",
-      value: [],
-      selection: "multipleRadio",
-      options: ["Сила", "Ловкость", "Интеллект", "Телосложение", "Харизма", "Мудрость"],
-    },
-  };
+  const dataKey = "backgrounds";
+  const contextData: Data = getContext("data");
+  const filters: Writable<globalFilter> = getContext("filters");
+  const data = contextData[dataKey];
   function filterFunction() {
-    let { filteredData, pageNum } = filt(data, filters, temp.length);
+    let { filteredData, pageNum, filtAr } = filter<BackgroundType[], backgroundFilters>(
+      dataKey,
+      $filters.backgrounds,
+      temp.length
+    );
     filteredData = searchByName(filteredData, searchStr);
     temp = [...filteredData];
     numOfpage = pageNum;
+    $filters.backgrounds = { ...filtAr };
     collapsibleContent.forEach((v, k) =>
       collapsibleContent.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false)
     );
+    collapsibleContent = collapsibleContent;
   }
   let temp = [...data];
   let numOfpage = 1;
   let searchStr = "";
-  let collapsible = false;
   let collapsibleContent = new Map();
   data.forEach((content) => collapsibleContent.set(content.fullName, false));
   $: numOfElems = temp.length;
 </script>
 
 <div class="main">
-  <div class="search">
-    <label>
-      Поиск по названию
-      <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
-    </label>
-    <button
-      class="filter"
-      on:click={() => {
-        collapsible = !collapsible;
-      }}
-    >
-      {collapsible ? "Скрыть" : "Раскрыть"} фильтр
-    </button>
+  <Filter {dataKey} {filterFunction} />
+  <div class="content">
+    <div class="search">
+      <label>
+        Поиск по названию
+        <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
+      </label>
+    </div>
+    <Counter {numOfElems} />
+    <div class="table">
+      <thead>
+        <th class="header">Имя</th>
+        <th class="header">Редкость</th>
+        <th class="header desc">Повышение характеристик</th>
+      </thead>
+      {#each temp as bg}
+        <Background content={bg} bind:collapsibleContent />
+      {/each}
+    </div>
   </div>
-  <Filter {filters} {filterFunction} {collapsible} />
-  <Counter {numOfElems} />
-  <table class="table">
-    <thead>
-      <th class="header">Имя</th>
-      <th class="header">Редкость</th>
-      <th class="header desc">Повышение характеристик</th>
-    </thead>
-    {#each temp as bg}
-      <Background content={bg} bind:collapsibleContent />
-    {/each}
-  </table>
 </div>
+
+<style>
+  div {
+    & .fa-check {
+      color: green;
+    }
+    & .fa-xmark {
+      color: red;
+    }
+  }
+</style>
