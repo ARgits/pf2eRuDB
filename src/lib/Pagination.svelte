@@ -18,13 +18,24 @@
     let tempMaxPages = Array(Math.ceil($numOfElems / itemsPerPage))
       .fill(null)
       .map((_, ind) => ind + 1);
-    const acceptablePages = [tempMaxPages.at(-1), tempMaxPages.at(-2), tempMaxPages[0], tempMaxPages[1], pageNum, pageNum - 1, pageNum + 1];
+    const acceptablePages = [
+      tempMaxPages.at(-1),
+      tempMaxPages.at(-2),
+      tempMaxPages[0],
+      tempMaxPages[1],
+      pageNum,
+      pageNum - 1,
+      pageNum + 1,
+    ];
     const aspRatioBig = window.document.body.clientWidth / window.document.body.clientHeight > 1;
     if (aspRatioBig) {
       acceptablePages.push(pageNum - 2, pageNum + 2);
     }
     tempMaxPages = tempMaxPages.filter(
-      (page) => acceptablePages.includes(page) || (page === 3 && page === pageNum - 3 && aspRatioBig) || (page == tempMaxPages.at(-3) && page === pageNum + 3 && aspRatioBig)
+      (page) =>
+        acceptablePages.includes(page) ||
+        (page === 3 && page === pageNum - 3 && aspRatioBig) ||
+        (page == tempMaxPages.at(-3) && page === pageNum + 3 && aspRatioBig)
     );
     tempMaxPages.forEach((page, key) => {
       {
@@ -119,15 +130,12 @@
         border: none;
         cursor: default;
       }
-      @media (max-aspect-ratio: 1/1) {
-      }
     }
   }
   button {
     padding: 0.1rem 0.25rem;
-    height: 1.5rem;
   }
   img {
-    width: 1rem;
+    width: 1.5rem;
   }
 </style>

@@ -9,7 +9,7 @@
   import { writable } from "svelte/store";
   setContext("data", readyData);
   setContext("filters", filters);
-  setContext("numOfElems",writable(null))
+  setContext("numOfElems", writable(null));
   const tabs: Tabs = {
     feats: {
       component: Feats,
@@ -71,10 +71,11 @@
     ],
   };
   let currentTab: keyof Tabs = "feats";
+  let headerHeight: number;
 </script>
 
-<main>
-  <div class="header">
+<main style="--header-height:{headerHeight}px">
+  <div class="header" bind:clientHeight={headerHeight}>
     {#if Object.values(tabs).filter((val) => val.visible).length > 1}
       {#each Object.values(tabs) as val}
         {#if val.visible}
@@ -88,9 +89,28 @@
     {/if}
   </div>
   {#key currentTab}
-    <Feats dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
+    <div class="main">
+      <Feats dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
+    </div>
   {/key}
 </main>
 
 <style>
+  main {
+    height: calc(100vh - 2rem);
+  }
+  .header {
+    height: fit-content;
+    max-height: 10%;
+  }
+  div.main {
+    flex-direction: row-reverse;
+    height: calc(100% - var(--header-height, 0px) - 1rem);
+    @media (max-aspect-ratio: 1/1) {
+      gap: 0;
+    }
+  }
+  button.tab {
+    font-size: 150%;
+  }
 </style>

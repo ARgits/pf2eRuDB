@@ -1,8 +1,8 @@
 <script lang="ts">
   import { getContext } from "svelte";
   import type { Writable } from "svelte/store";
-  const numOfElems:Writable<number> = getContext("numOfElems")
-  function formatResult(val:number) {
+  const numOfElems: Writable<number> = getContext("numOfElems");
+  function formatResult(val: number) {
     if (!val) return "Ничего не найдено";
     const tempval = val % 100;
     const num = tempval % 10;
@@ -14,6 +14,10 @@
 </script>
 
 <div>{formatResult($numOfElems)}</div>
+
 <style>
-  
+  div {
+    position: sticky;
+    top: 0;
+  }
 </style>

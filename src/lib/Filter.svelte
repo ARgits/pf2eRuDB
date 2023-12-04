@@ -26,7 +26,7 @@
 
   <div class="filter_content{collapsed ? ' collapsed' : ''}">
     {#if !collapsed}
-    <Counter/>
+      <Counter />
     {/if}
     {#each filterKeys as key}
       <SubFilter {key} {dataKey} {filterFunction} />
@@ -41,13 +41,9 @@
 
     padding: 1px;
     position: sticky;
-    height: 90vh;
+    height: 100%;
     //overflow-y: auto;
     top: 0;
-
-    & > label {
-      margin: 0 0.25rem 1rem;
-    }
   }
   .filter_content {
     border: 1px solid black;
@@ -58,17 +54,17 @@
     height: fit-content;
     position: absolute;
     top: 1.5rem;
-    left: calc(-2rem - 1px);
+    left: -1px;
     padding: 0.25rem 0.25rem;
     z-index: 3;
-    display:none
+    display: none;
     // background-image: var(--background-image);
   }
   img {
     width: 1.5rem;
   }
-  @media (max-aspect-ratio:1/1){
-    .filter_button{
+  @media (max-aspect-ratio: 1/1) {
+    .filter_button {
       display: block;
     }
   }

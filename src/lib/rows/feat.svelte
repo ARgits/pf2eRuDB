@@ -3,34 +3,40 @@
   import type { Content, TableData, tableHeadersGeneral } from "../../types";
   import { tick } from "svelte";
 
-  export let dataKey: keyof TableData;
-  export let content: Content[typeof dataKey];
+  export let content: Content[keyof TableData];
   export let collapsibleContent: Map<string, boolean>;
   export let tableHeaders: tableHeadersGeneral;
   export let even: boolean;
 
   async function collapse() {
-    console.log(content)
+    console.log(content);
     const isCollapsed = collapsibleContent.get(content.fullName);
     collapsibleContent.set(content.fullName, !isCollapsed);
     collapsibleContent = collapsibleContent;
     await tick();
     if (!isCollapsed) {
+      //TODO: сделать адекватную функцию сроллинга к контенту для десктопа и мобильной версий
+      // const parent = description.parentElement;
+      // const descriptionTop = description.offsetTop;
+      // const headerHeight = document.querySelector(".th").scrollHeight;
+      // setTimeout(() => description.scrollIntoView({ block: "nearest", inline: "start", behavior: "smooth" }), 400);
+      // setTimeout(() => (parent.scrollTop = descriptionTop + headerHeight), 500);
+
       description.querySelectorAll('span[class^="c-"]').forEach((el) => {
         el.addEventListener("mouseover", () => {
           console.log("hovering over");
         });
       });
-      setTimeout(() => description.scrollIntoView({ block: "nearest", inline: "start", behavior: "smooth" }), 400);
     }
   }
   let description: HTMLDivElement;
   let isHover: boolean = false;
-  function mouseEnter() {
+  function mouseEnter(e) {
+    console.log(e);
     isHover = true;
     getClass();
   }
-  function mouseLeave() {
+  function mouseLeave(e) {
     isHover = false;
     getClass();
   }
@@ -44,6 +50,7 @@
   }
   let tdClass = "";
   getClass();
+  let cellElem;
 </script>
 
 {#each tableHeaders as header, key}
@@ -54,6 +61,7 @@
     on:click|preventDefault={collapse}
     on:mouseenter={mouseEnter}
     on:mouseleave={mouseLeave}
+    bind:this={cellElem}
   >
     {#if header.value === "fullName"}
       <div>{@html content.fullName}</div>
@@ -63,8 +71,8 @@
       {/each}
     {:else if Array.isArray(content[header.value])}
       <div style="display: flex; justify-content:center; flex-wrap:wrap; gap:0.25rem;">
-        {#each content[header.value] as subVal,key}
-          <div>{key+1}. {Array.isArray(subVal)?subVal.join(' или '):subVal}</div>
+        {#each content[header.value] as subVal, key}
+          <div>{key + 1}. {Array.isArray(subVal) ? subVal.join(" или ") : subVal}</div>
         {/each}
       </div>
     {:else}
@@ -111,6 +119,10 @@
     border: 1px solid red;
 
     &:not(.description) {
+      border-right-color: black;
+      &:has(~ .description.hover) {
+        border-bottom: 0;
+      }
       &:not(.first) {
         border-left: 0;
       }

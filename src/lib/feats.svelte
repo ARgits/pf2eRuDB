@@ -21,7 +21,9 @@
     let { filteredData, pageNum, filtAr } = filter(dataKey, $filters[dataKey], temp.length, numOfPage, searchStr);
     filteredData = searchByName(filteredData, searchStr);
     numOfPage = pageNum;
-    collapsibleContent.forEach((v, k) => collapsibleContent.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false));
+    collapsibleContent.forEach((v, k) =>
+      collapsibleContent.set(k, temp.filter((spell) => spell.fullName === k).length === 1 ? v : false)
+    );
     collapsibleContent = collapsibleContent;
     temp = [...filteredData];
     $filters[dataKey] = filtAr;
@@ -34,55 +36,86 @@
   let numOfPage = 1;
   let itemsPerPage = 50;
   console.log(tableHeaders);
+  const columns = [];
+  // $: console.log(columns);
+  // $: if (columns.length) {
+  //   const columnsWidth = [...document.querySelectorAll(".td")]
+  //     .slice(0, tableHeaders.length)
+  //     .map((e) => e.clientWidth + "px");
+  //   columns.forEach((el, key) => (el.style.width = columnsWidth[key]));
+  // }
+  let headerHeight: number;
 </script>
 
-<div class="main">
-  <Filter {filterFunction} {dataKey} />
-  <div class="content">
-    <div>
-      <div class="search">
-        <label>
-          Поиск по названию
-          <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
-        </label>
-      </div>
-      <div>
-        <Counter />
-        {#key temp.length}
-          <Pagination bind:numOfPage bind:itemsPerPage />
-        {/key}
-      </div>
+<div class="content" style="--header-height:{headerHeight}px">
+  <div class="content_header" bind:clientHeight={headerHeight}>
+    <div class="search">
+      <label>
+        Поиск по названию
+        <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
+      </label>
     </div>
-    <div class="grid grid-{tableHeaders.length}" style="--col-number:{tableHeaders.length}">
-      <!-- <thead> -->
-      {#each tableHeaders as header}
-        <div class="th">{header.name}</div>
-      {/each}
-      <!-- </thead> -->
-      <!-- <tbody> -->
-      {#each temp.slice((numOfPage - 1) * itemsPerPage, numOfPage * itemsPerPage) as content, key}
-        <Feat {content} {collapsibleContent} {tableHeaders} {dataKey} even={(key + 1) % 2 === 0} />
-      {/each}
-      <!-- </tbody> -->
+    <div>
+      <Counter />
+      {#key temp.length}
+        <Pagination bind:numOfPage bind:itemsPerPage />
+      {/key}
     </div>
   </div>
+  <!-- <div class="grid grid-{tableHeaders.length} header">
+      {#each tableHeaders as header, key}
+        <div class="th" bind:this={columns[key]}>{header.name}</div>
+      {/each}
+    </div> -->
+  <div class="grid grid-{tableHeaders.length} content" style="--col-number:{tableHeaders.length}">
+    {#each tableHeaders as header, key}
+      <div class="th" bind:this={columns[key]}>{header.name}</div>
+    {/each}
+    {#each temp.slice((numOfPage - 1) * itemsPerPage, numOfPage * itemsPerPage) as content, key}
+      <Feat {content} {collapsibleContent} {tableHeaders} even={(key + 1) % 2 === 0} />
+    {/each}
+    <!-- </tbody> -->
+  </div>
 </div>
+<Filter {filterFunction} {dataKey} />
 
 <style lang="scss">
+  .content {
+    height: 100%;
+    &_header {
+      height: fit-content;
+      max-height: 15%;
+    }
+    &:has(+ :not(.collapsed)) {
+      display: none;
+    }
+  }
+
   .th {
-    border-right: 1px solid black;
-    border-bottom: 1px solid black;
+    border: 1px solid black;
+    border-left: 0;
     position: sticky;
-    top: -1px;
-    padding: 0 1px;
-    font-size: large;
+    top: 0;
+    font-size: larger;
     background-image: var(--cell-even-background-image);
   }
   .grid {
     display: grid;
-    max-height: 80vh;
+    max-height: calc(100% - var(--header-height));
+    height: fit-content;
     overflow-y: auto;
     border: 1px solid black;
+    border-right: 0;
+    position: relative;
+    &.content {
+      border-top: 0;
+    }
+    &.header {
+      height: fit-content;
+      max-height: 5%;
+      margin: 0;
+      gap: 0;
+    }
     // scrollbar-gutter: stable;
     @for $i from 1 through 5 {
       &.grid-#{$i} {
