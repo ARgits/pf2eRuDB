@@ -4,7 +4,7 @@ import PF_action_2 from "../assets/PF_action_2.webp";
 import PF_action_3 from "../assets/PF_action_3.webp";
 import PF_action_reaction from "../assets/PF_action_reaction.webp";
 import PF_action_free from "../assets/PF_action_free.webp";
-
+import data from "../assets/data.json";
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
   " два ": 2,
@@ -15,7 +15,6 @@ const nameOfNum: { [index: string]: number } = {
 };
 const abilitiesNames = ["Интеллект", "Сила", "Мудрость", "Ловкость", "Харизма", "Телосложение"];
 const allImgs = [PF_action_1, PF_action_2, PF_action_3, PF_action_free, PF_action_reaction];
-console.log(PF_action_reaction);
 const backgrounds: BackgroundType[] = [];
 const spells: SpellType[] = [];
 const actions: ActionType[] = [];
@@ -23,7 +22,7 @@ const feats: FeatType[] = [];
 const creatures: CreatureType[] = [];
 const traits: Set<string> = new Set();
 const paragraphs: Set<string> = new Set();
-export function prepareData(data: any): Data {
+function prepareData(data: any): Data {
   for (const site of data.checked) {
     const el = document.createElement("div");
     el.innerHTML = site.data;
@@ -31,7 +30,7 @@ export function prepareData(data: any): Data {
       const tempSrc = img.getAttribute("src")?.match(/(PF_action).+(?=.png)/g)?.[0];
       if (tempSrc) {
         const src = allImgs.filter((item) => item.includes(tempSrc))[0];
-        img.setAttribute("src", src.slice(4));
+        img.setAttribute("src", src.slice(11));
       }
     });
     prepareBackgrounds(el);
@@ -58,7 +57,7 @@ function prepareBackgrounds(site: HTMLDivElement) {
     for (const child of res.children) {
       if (child.localName === "h2") {
         background.name = child.textContent!.replace(/\((?<=\().+/, "").trim();
-        background.fullName = child.textContent!;
+        background.fullName = child.textContent!.replace("¶", "");
         background.originalName = child.textContent!.match(/(?<=\()((?<!\))[a-z-A-Z ]+)/)![0];
       } else if (child.localName === "ul" && child.previousElementSibling?.localName === "h2") {
         const rarity = [...child.children].filter((el) =>
@@ -80,14 +79,8 @@ function prepareBackgrounds(site: HTMLDivElement) {
         const abilities = [...child.innerHTML.matchAll(/((?<=<strong>)[а-яА-Я]*)|((?<=другое )[а-яА-Я]*)/g)].map((v) =>
           v[0].replace(/^./, v[0][0].toUpperCase())
         );
-        if (background.name === "Послушник") {
-          console.log(abilities);
-        }
         for (let key of abilities.keys()) {
           abilities[key] = abilitiesNames.filter((item) => item.includes(abilities[key].slice(0, 3)))[0] || "Свободное";
-        }
-        if (background.name === "Послушник") {
-          console.log(abilities);
         }
         let numOfAbilities: RegExpMatchArray | null | number = child.innerHTML.match(
           /\d|(\sдва\s)|(\sодно\s)|(\sтри\s)/g
@@ -118,140 +111,139 @@ function prepareBackgrounds(site: HTMLDivElement) {
 }
 function prepareContentWithTraits(site: HTMLDivElement) {
   for (let res of site.querySelectorAll(
-    "section > h1 + ul, \
-		section > h2 + ul, \
-		section > h3 + ul, \
-		section > h4 + ul, \
-		section > h5 + ul, \
-		section > h6 + ul"
+    "section"
+    // section > h2 + ul, \
+    // section > h3 + ul, \
+    // section > h4 + ul, \
+    // section > h5 + ul, \
+    // section > h6 + ul"
   )) {
-    res.className = res.className + " traits";
-    if (!["description"].some((str) => res.parentElement!.className.includes(str))) {
-      const h2Text = res.previousElementSibling?.textContent;
-      [...res.children].forEach((tag) => traits.add(tag.textContent!));
-      if (
-        ["/ Чары", "/ Закл", "/ Ф.чары", "/ Фокус"].some((type) =>
-          res.previousElementSibling?.textContent?.includes(type)
-        )
-      ) {
-        [...res.parentElement!.children]
-          .filter((child) => child.tagName === "P" && child.innerHTML.includes("</strong>:"))
-          .forEach((el) => paragraphs.add(el.textContent!.match(/(?<!:)[а-яА-Я()\- ,]+/)![0]));
+    res.querySelector("h1, h2, h3, h4, h5, h6")?.querySelector('a[title="Ссылка на этот заголовок"]')?.remove();
+    const traitsElement = res.querySelector("h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul");
+    if (traitsElement) {
+      traitsElement.className = res.className + " traits";
+      [...traitsElement.children].forEach((tag) => traits.add(tag.textContent!));
+    }
+    const sectionHead = res.querySelector("h1, h2, h3, h4, h5, h6");
+    if (sectionHead) {
+      if (["/ Чары", "/ Закл", "/ Ф.чары", "/ Фокус"].some((type) => sectionHead.textContent.includes(type))) {
+        spells.push(prepareSpell(res));
+      } else if (res.firstElementChild.id.includes("feat-")) {
+        feats.push(prepareFeat(res));
+      } else if (res.firstElementChild.id.match(/(?<!\w)(action)(?!\w)/)) {
+        actions.push(prepareAction(res));
       }
-      if (h2Text?.includes("/ ")) {
-        const spell = prepareSpell(res);
-        if (spell) spells.push(spell);
-        const creature = prepareCreature(res);
-        if (creature) creatures.push(creature);
-        const feat = prepareFeat(res);
-        if (feat) feats.push(feat);
-      } else actions.push(prepareAction(res));
     }
   }
 }
-function prepareSpell(el: Element): SpellType | void {
-  if (
-    ["/ Чары", "/ Закл", "/ Ф.чары", "/ Фокус"].some((type) => el.previousElementSibling?.textContent?.includes(type))
-  ) {
-    const parent = el.parentElement!;
-    const fullName = el.previousElementSibling!.textContent!.replace("¶", "");
-    //у фокусных чар нет традиции, так что проверяем их наличие
-    const tradition = [...el.parentElement!.children].filter((e) => {
-      return e.textContent?.includes("Обычай: ");
-    });
-    const alltraits = el.textContent!.split("\n").filter((t) => t !== "");
-    let spell: SpellType = {
-      fullName,
-      name: fullName.replace(/\((?<=\().+/, ""),
-      originalName: fullName.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)![0] || "",
-      type: fullName.includes("/ Закл")
-        ? "Заклинание"
-        : fullName.includes("/ Ф.чары")
-        ? "Ф.чары"
-        : fullName.includes("/ Фокус")
-        ? "Фокус"
-        : "Чары",
-      level: parseInt(fullName.match(/\d+/)![0]) || 0,
-      traits: alltraits,
-      desc: [...parent.children]
-        .filter(
-          (child) =>
-            !["H1", "H2"].includes(child.tagName) &&
-            //child.textContent !== "" &&
-            !child.textContent?.includes("<strong>Обычай") &&
-            !["H1", "H2"].includes(child.previousElementSibling?.tagName ?? "")
-          //![...paragraphs].some((parag) => child.textContent?.includes(parag))
-        )
-        .map((e) => e.outerHTML.trim())
-        .join(""),
-      rarity: alltraits.filter((t) => ["необычный", "редкий"].includes(t))[0] ?? "обычный",
-      tradition: tradition.length
-        ? tradition[0]
-            .textContent!.replace("Обычай: ", "")
-            .split(", ")
-            .filter((t) => t !== "")
-        : [],
-      src:
-        [...parent.children]
-          .filter((child) => child.textContent?.includes("Источник: "))?.[0]
-          ?.textContent?.replace("Источник: ", "") || "",
-      action: parent.querySelector("img")?.getAttribute("alt") as actionTypes,
-      castingType:
-        [...parent.children]
-          .filter((child) => child.textContent?.includes("Сотворение:"))?.[0]
-          ?.textContent?.match(/материальный|жестовый|словесный/gm) ?? [],
-    };
 
-    return spell;
-  }
-
-  return;
+function prepareSpell(el: Element): SpellType {
+  [...el.children]
+    .filter((child) => child.tagName === "P" && child.innerHTML.includes("</strong>:"))
+    .forEach((element) => paragraphs.add(element.textContent!.match(/(?<!:)[а-яА-Я()\- ,]+/)![0]));
+  const fullName = el.querySelector("h1, h2, h3, h4, h5, h6").textContent!.replace("¶", "");
+  //у фокусных чар нет традиции, так что проверяем их наличие
+  const tradition = [...el.children].filter((e) => {
+    return e.textContent?.includes("Обычай: ");
+  });
+  const alltraits = el
+    .querySelector("h1 + ul, h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul")
+    .textContent!.split("\n")
+    .filter((t) => t !== "");
+  let spell: SpellType = {
+    fullName,
+    name: fullName.replace(/\((?<=\().+/, ""),
+    originalName: fullName.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)![0] || "",
+    type: fullName.includes("/ Закл")
+      ? "Заклинание"
+      : fullName.includes("/ Ф.чары")
+      ? "Ф.чары"
+      : fullName.includes("/ Фокус")
+      ? "Фокус"
+      : "Чары",
+    level: parseInt(fullName.match(/\d+/)![0]) || 0,
+    traits: alltraits,
+    desc: [...el.children]
+      .filter(
+        (child) =>
+          !["H1", "H2"].includes(child.tagName) &&
+          //child.textContent !== "" &&
+          !child.textContent?.includes("<strong>Обычай") &&
+          !["H1", "H2"].includes(child.previousElementSibling?.tagName ?? "")
+        //![...paragraphs].some((parag) => child.textContent?.includes(parag))
+      )
+      .map((e) => e.outerHTML.trim())
+      .join(""),
+    rarity: alltraits.filter((t) => ["необычный", "редкий"].includes(t))[0] ?? "обычный",
+    tradition: tradition.length
+      ? tradition[0]
+          .textContent!.replace("Обычай: ", "")
+          .split(", ")
+          .filter((t) => t !== "")
+      : [],
+    src:
+      [...el.children]
+        .filter((child) => child.textContent?.includes("Источник: "))?.[0]
+        ?.textContent?.replace("Источник: ", "") || "",
+    action: el.querySelector("img")?.getAttribute("alt") as actionTypes,
+    castingType:
+      [...el.children]
+        .filter((child) => child.textContent?.includes("Сотворение:"))?.[0]
+        ?.textContent?.match(/материальный|жестовый|словесный/gm) ?? [],
+  };
+  return spell;
 }
 function prepareCreature(el: Element): CreatureType | void {
   return;
 }
-function prepareFeat(el: Element): FeatType | void {
-  const parent = el.parentElement!;
-  if (parent.firstElementChild?.id.includes("feat-")) {
-    parent.querySelector("h1, h2, h3, h4")?.querySelector('a[title="Ссылка на этот заголовок"]')?.remove();
-    const fullName = parent.querySelector("h3, h4, h2, h1")!.innerHTML;
-    const fullNameText = parent.querySelector("h3, h4, h2, h1")!.textContent!;
-    const alltraits = el.textContent!.split("\n").filter((t) => t !== "");
-    const feat: FeatType = {
-      fullName,
-      name: fullNameText.replace(/\((?<=\().+/, ""),
-      originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
-      level: parseInt(fullNameText.match(/\d{1,2}/g)![0]),
-      traits: alltraits,
-      rarity:
-        alltraits.filter((trait) => {
-          let lowerTrait = trait.toLowerCase();
-          return lowerTrait === "редкий" || lowerTrait === "необычный";
-        })?.[0] || "обычный",
-      desc: [...parent.children]
-        .filter(
-          (child) => ![...parent.querySelectorAll("h1, h2, h3, h4, ul.traits")].includes(child)
-          // !["H1", "H2"].includes(child.tagName) &&
-          // !["H1", "H2"].includes(child.previousElementSibling?.tagName ?? "")
-        )
-        .map((e) => e.outerHTML.trim())
-        .join(""),
-      src: "",
-      action: parent.querySelector("img")?.getAttribute("alt") as actionTypes,
-    };
-    return feat;
-  }
-}
-function prepareAction(el: Element): ActionType {
-  const action: ActionType = {
-    fullName: "",
-    name: "",
-    traits: [""],
-    rarity: "",
-    desc: "",
+function prepareFeat(el: Element): FeatType {
+  const fullName = el.querySelector("h1, h2, h3, h4, h5, h6")!.innerHTML;
+  const fullNameText = el.querySelector("h1, h2, h3, h4, h5, h6")!.textContent!;
+  const alltraits = el
+    .querySelector("h1 + ul, h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul")
+    .textContent!.split("\n")
+    .filter((t) => t !== "");
+  const feat: FeatType = {
+    fullName,
+    name: fullNameText.replace(/\((?<=\().+/, ""),
+    originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
+    level: parseInt(fullNameText.match(/\d{1,2}/g)![0]),
+    traits: alltraits,
+    rarity:
+      alltraits.filter((trait) => {
+        let lowerTrait = trait.toLowerCase();
+        return lowerTrait === "редкий" || lowerTrait === "необычный";
+      })?.[0] || "обычный",
+    desc: [...el.children]
+      .filter((child) => ![...el.querySelectorAll("h1, h2, h3, h4, h5, h6, ul.traits")].includes(child))
+      .map((e) => e.outerHTML.trim())
+      .join(""),
     src: "",
-    originalName: "",
-    level: 0,
+    action: el.querySelector("img")?.getAttribute("alt") as actionTypes,
+  };
+  return feat;
+}
+
+function prepareAction(el: Element): ActionType {
+  const fullName = el.querySelector("h1, h2, h3, h4, h5, h6")!.innerHTML;
+  const fullNameText = el.querySelector("h1, h2, h3, h4, h5, h6")!.textContent!;
+  const alltraits = el
+    .querySelector("h1 + ul, h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul")
+    ?.textContent?.split("\n")
+    .filter((t) => t !== "");
+  const action: ActionType = {
+    fullName,
+    name: fullNameText.replace(/\((?<=\().+/, ""),
+    traits: alltraits ?? [""],
+    rarity: "",
+    desc: [...el.children]
+      .filter((child) => ![...el.querySelectorAll("h1, h2, h3, h4, h5, h6, ul.traits")].includes(child))
+      .map((e) => e.outerHTML.trim())
+      .join(""),
+    src: "",
+    originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
+    action: "",
   };
   return action;
 }
+export const devData = prepareData(data);

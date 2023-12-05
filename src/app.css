@@ -16,6 +16,7 @@
   --color: #213547;
   --border-radius: 0.5rem;
   --cell-even-background-image:linear-gradient(rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), var(--background-image);
+  --hover-color:red;
   /*color-scheme: light dark;*/
   color: var(--color);
   background-color: var(--background-color);
@@ -225,6 +226,7 @@ div.admonition.clarification {
 @media (max-aspect-ratio: 1/1) {
   :root{
       font-size: 2vw;
+      --hover-color:transparent;
   }
   #app {
     padding: 1rem;

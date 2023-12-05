@@ -37,7 +37,9 @@ export interface BackgroundType extends generalContent {
   src: string;
   customAbs: string;
 }
-export interface ActionType extends generalContent {}
+export interface ActionType extends generalContent {
+  action: string;
+}
 export interface SpellType extends generalContent {
   //[index: string]: string;
   type: "Заклинание" | "Чары" | "Ф.чары" | "Фокус" | "-";
@@ -45,10 +47,12 @@ export interface SpellType extends generalContent {
   tradition: string[];
   action: string;
   castingType: string[];
+  level: number;
 }
 export interface CreatureType extends generalContent {}
 export interface FeatType extends generalContent {
   action: string;
+  level: number;
 }
 //
 //Filters Type
@@ -74,7 +78,7 @@ type filterProps = {
   search: string;
   hasSearch: boolean;
 };
-type filterUnion = backgroundFilter | spellsFilter | featFilter;
+type filterUnion = backgroundFilter | spellsFilter | featFilter | actionFilter;
 type SelectionByProperty = {
   rarity: "singleRadio";
   level: "minMax";
@@ -86,15 +90,15 @@ type SelectionByProperty = {
 type BgFilterKeys = Omit<BackgroundType, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
 type SpellFilterKeys = Omit<SpellType, "">;
 type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action">;
+type ActionFilterKeys = Pick<ActionType, "traits">;
 export type backgroundFilter = Filter<BgFilterKeys>;
 export type spellsFilter = Filter<SpellFilterKeys>;
 export type featFilter = Filter<FeatFilterKeys>;
+export type actionFilter = Filter<ActionFilterKeys>;
 //
 //Tabs type
 //
-type component = typeof SvelteComponent<any, any, any>;
 type tab = {
-  component: component;
   visible: boolean;
   name: string;
   key: keyof Tabs;
@@ -103,6 +107,7 @@ export interface Tabs {
   feats: tab;
   backgrounds: tab;
   spells: tab;
+  actions: tab;
 }
 //
 //Utility types

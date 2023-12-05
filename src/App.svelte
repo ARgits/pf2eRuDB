@@ -1,33 +1,34 @@
 <script lang="ts">
-  import Backgrounds from "./lib/backgrounds.svelte";
-  import Feats from "./lib/feats.svelte";
-  import Spells from "./lib/spells.svelte";
+  import Table from "./lib/table.svelte";
   import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
-  import { filters } from "./lib/filter";
+  import { filters } from "./lib/filter/filter";
   import { readyData } from "./lib/readyData";
   import { writable } from "svelte/store";
-  setContext("data", readyData);
+  import { devData } from "./lib/prepareData";
+  setContext("data", import.meta.env.DEV ? devData : readyData);
   setContext("filters", filters);
   setContext("numOfElems", writable(null));
   const tabs: Tabs = {
     feats: {
-      component: Feats,
       visible: true,
       name: "Способности",
       key: "feats",
     },
     backgrounds: {
-      component: Backgrounds,
       visible: true,
       name: "Происхождения",
       key: "backgrounds",
     },
     spells: {
-      component: Spells,
       visible: true,
       name: "Заклинания",
       key: "spells",
+    },
+    actions: {
+      visible: true,
+      name: "Действия",
+      key: "actions",
     },
   };
   const tableHeaders: tableHeaders = {
@@ -69,6 +70,12 @@
         value: "tradition",
       },
     ],
+    actions: [
+      {
+        name: "Название",
+        value: "fullName",
+      },
+    ],
   };
   let currentTab: keyof Tabs = "feats";
   let headerHeight: number;
@@ -90,7 +97,7 @@
   </div>
   {#key currentTab}
     <div class="main">
-      <Feats dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
+      <Table dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
     </div>
   {/key}
 </main>
@@ -98,6 +105,7 @@
 <style>
   main {
     height: calc(100vh - 2rem);
+    height: calc(100dvh - 2rem);
   }
   .header {
     height: fit-content;
