@@ -1,6 +1,5 @@
 //import * as fs from "fs";
 import type { Entries, generalContent, TableData, filterUnion, contentTableUnion } from "../../types";
-import { devData } from "../prepareData";
 import { readyData } from "../readyData";
 export function filter(
   dataKey: keyof TableData,
@@ -9,7 +8,7 @@ export function filter(
   pageNum: number = 1,
   searchStr: string = ""
 ): { filteredData: contentTableUnion; pageNum: number; filtAr: filterUnion } {
-  const fullData = import.meta.env.DEV ? devData : readyData;
+  const fullData = readyData;
   const dataAr = [...fullData[dataKey]] as contentTableUnion;
   const filtEntries = Object.entries(filtAr) as Entries<filterUnion>;
   let filteredData = dataAr.filter((item) => {
