@@ -5,8 +5,7 @@
   import { filters } from "./lib/filter/filter";
   import { readyData } from "./lib/readyData";
   import { writable } from "svelte/store";
-  import { devData } from "./lib/prepareData";
-  setContext("data", import.meta.env.DEV ? devData : readyData);
+  setContext("data",  readyData);
   setContext("filters", filters);
   setContext("numOfElems", writable(null));
   const tabs: Tabs = {
