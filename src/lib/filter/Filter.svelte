@@ -20,7 +20,8 @@
       collapsed = !collapsed;
     }}
   >
-    <img src={filterIcon} alt="вкл/выкл фильтр" />
+    <!-- <img src={filterIcon} alt="вкл/выкл фильтр" /> -->
+    <i class="fa-solid fa-filter"></i>
   </button>
 
   <div class="filter_content{collapsed ? ' collapsed' : ''}">
@@ -46,23 +47,31 @@
   }
   .filter_content {
     border: 1px solid black;
-    border-radius: 10px;
+    border-radius: var(--border-radius);
     overflow-y: auto;
   }
   .filter_button {
     height: fit-content;
     position: absolute;
-    top:1px;
+    // top: 1.5rem;
+    // left: -1px;
     padding: 0.25rem 0.25rem;
     z-index: 3;
     display: none;
-    border-radius: var(--border-radius);
-    // background-image: var(--background-image);
+    background-image: var(--background-image);
+    align-items: center;
+    & i {
+      font-size: 150%;
+    }
+    &:not(:has(+ .collapsed)) {
+      border-top-color: black;
+      border-top-right-radius: 0;
+      border-left-color: black;
+      border-bottom-left-radius: 0;
+    }
   }
-  img {
-    width: 1.5rem;
-  }
-  @media (max-aspect-ratio: 1/1) {
+
+  @media (max-aspect-ratio: 1.1/1) {
     .filter_button {
       display: block;
     }

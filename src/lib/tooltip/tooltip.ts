@@ -1,30 +1,32 @@
 import Tooltip from "./TooltipFromAction.svelte";
-import { conditions } from "../constants";
-import type { SvelteComponent } from "svelte";
+import { allDataArr } from "../getData";
 export function tooltip(element: HTMLElement) {
-  let tooltipComponent: SvelteComponent;
-  function click(event: MouseEvent) {
-    const condition = [...element.classList].filter((cls) => cls.includes("c-"))?.[0];
-    const text = conditions[condition];
-    tooltipComponent = new Tooltip({
-      props: {
-        text,
-        onClick: () => {
-          tooltipComponent.$destroy();
-        },
-      },
-      target: document.body,
-    });
-  }
-  function destroyComponent() {
-    tooltipComponent.$destroy();
-  }
+  element.querySelectorAll("a.internal, span[class^='c-'").forEach((el: HTMLAnchorElement) => {
+    const href = el.href?.match(/(?<=#).+/)?.[0] || el.className;
+    const data = allDataArr.find((v) => v.id === href);
+    const spanReplace = document.createElement("span");
+    spanReplace.innerHTML = el.firstElementChild ? el.firstElementChild.textContent : el.textContent;
+    spanReplace.className = data ? "std std-ref" : "";
+    el.replaceWith(spanReplace);
 
-  element.addEventListener("click", click);
-
-  return {
-    destroy() {
-      element.removeEventListener("click", click);
-    },
-  };
+    // console.log(document.querySelector(`#${href}.message`), data);
+    if (!document.querySelector(`#${href}.message`) && data)
+      spanReplace.addEventListener("click", (ev) => {
+        ev.preventDefault();
+        const card: HTMLElement | undefined = document.querySelector(`#${href}.message`);
+        if (card) {
+          card.focus();
+        } else {
+          const tooltipComponent = new Tooltip({
+            props: {
+              data,
+              onClick: () => {
+                tooltipComponent.$destroy();
+              },
+            },
+            target: document.body,
+          });
+        }
+      });
+  });
 }

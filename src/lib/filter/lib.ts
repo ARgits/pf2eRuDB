@@ -1,6 +1,5 @@
-//import * as fs from "fs";
 import type { Entries, generalContent, TableData, filterUnion, contentTableUnion } from "../../types";
-import { readyData } from "../readyData";
+import { data } from "../getData";
 export function filter(
   dataKey: keyof TableData,
   filtAr: filterUnion,
@@ -8,8 +7,7 @@ export function filter(
   pageNum: number = 1,
   searchStr: string = ""
 ): { filteredData: contentTableUnion; pageNum: number; filtAr: filterUnion } {
-  const fullData = readyData;
-  const dataAr = [...fullData[dataKey]] as contentTableUnion;
+  const dataAr = [...data[dataKey]] as contentTableUnion;
   const filtEntries = Object.entries(filtAr) as Entries<filterUnion>;
   let filteredData = dataAr.filter((item) => {
     if (searchStr.length > 0) {
@@ -42,10 +40,6 @@ export function filter(
     }
     return criteria === filtEntries.length;
   }) as typeof dataAr;
-  // for (const [key, val] of filtEntries) {
-  //   const itemOptions = [...new Set(filteredData.map((item) => item[key]).flat(2))];
-  //   filtAr[key].excluded = val.options.filter((opt) => !itemOptions.includes(opt));
-  // }
   pageNum = currentDataLength === filteredData.length ? pageNum : 1;
   return { filteredData, pageNum, filtAr };
 }

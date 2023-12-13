@@ -1,7 +1,7 @@
-import type { filterProps } from "../../types";
+import { encode } from "js-base64";
+import type { Entries, TableData, filterProps, filterUnion } from "../../types";
 import { writable } from "svelte/store";
-//import { prepareData } from "./prepareData";
-import {
+const {
   actionOptions,
   attributeValueOptions,
   castingTypeOptions,
@@ -12,7 +12,7 @@ import {
   spellTraditionOptions,
   spellTraitsOptions,
   spellTypeOptions,
-} from "../constants";
+} = await import("../constants");
 //import * as data from "../assets/data.json";
 //export const readyData = prepareData(data);
 //console.log(readyData);
@@ -28,6 +28,7 @@ const rarity: filterProps = {
   excluded: [],
   hasSearch: false,
   search: "",
+  defaultValue: [],
 };
 const action: filterProps = {
   name: "Действие",
@@ -38,6 +39,7 @@ const action: filterProps = {
   excluded: [],
   hasSearch: false,
   search: "",
+  defaultValue: [],
 };
 const attributeValue: filterProps = {
   name: "Повышение характеристики",
@@ -48,6 +50,8 @@ const attributeValue: filterProps = {
   excluded: [],
   hasSearch: false,
   search: "",
+  defaultValue: [],
+  multiply: false,
 };
 const featTraits: filterProps = {
   name: "Признаки",
@@ -59,6 +63,7 @@ const featTraits: filterProps = {
   options: featTraitsOptions,
   search: "",
   hasSearch: true,
+  defaultValue: [],
 };
 const featLevel: filterProps = {
   name: "Уровень",
@@ -69,6 +74,7 @@ const featLevel: filterProps = {
   options: levelOneToTventy,
   hasSearch: false,
   search: "",
+  defaultValue: ["1", "20"],
 };
 const spellType: filterProps = {
   name: "Тип",
@@ -79,6 +85,7 @@ const spellType: filterProps = {
   options: spellTypeOptions,
   hasSearch: false,
   search: "",
+  defaultValue: [],
 };
 const spellLevel: filterProps = {
   name: "Уровень",
@@ -89,6 +96,7 @@ const spellLevel: filterProps = {
   excluded: [],
   hasSearch: false,
   search: "",
+  defaultValue: ["1", "10"],
 };
 const tradition: filterProps = {
   name: "Традиция",
@@ -99,6 +107,7 @@ const tradition: filterProps = {
   options: spellTraditionOptions,
   hasSearch: false,
   search: "",
+  defaultValue: [],
 };
 const spellTraits: filterProps = {
   name: "Признаки",
@@ -110,6 +119,7 @@ const spellTraits: filterProps = {
   multiply: false,
   hasSearch: true,
   search: "",
+  defaultValue: [],
 };
 const castingType: filterProps = {
   name: "Тип сотворения",
@@ -120,6 +130,7 @@ const castingType: filterProps = {
   options: castingTypeOptions,
   hasSearch: false,
   search: "",
+  defaultValue: [],
 };
 //
 //full filters Store
@@ -156,5 +167,45 @@ export const filters = writable({
       search: "",
       hasSearch: false,
     },
+    rarity: {
+      name: "Редкость",
+      selection: "singleRadio",
+      value: [],
+      options: [],
+      multiply: false,
+      disabled: [],
+      excluded: [],
+      search: "",
+      hasSearch: false,
+    },
   },
 });
+export function changeUrlOnFilter(filterValue: filterUnion, dataKey: keyof TableData) {
+  let filterValueAndDisabled = {};
+  const tab = dataKey;
+  for (const [key, val] of Object.entries(filterValue) as Entries<filterUnion>) {
+    const tempObject = {};
+    if (val.value.join() !== val.defaultValue.join()) {
+      tempObject["val"] = val.value;
+      console.log(val.defaultValue);
+    }
+    if (val.disabled.length) tempObject["disabled"] = val.disabled;
+    if (Object.keys(tempObject).length) {
+      filterValueAndDisabled[key] = tempObject;
+    }
+  }
+  if (Object.keys(filterValueAndDisabled).length) {
+    console.log(filterValueAndDisabled);
+    console.log(JSON.stringify(filterValueAndDisabled).length);
+    const filterParams = strToBase64(JSON.stringify(filterValueAndDisabled));
+    console.log(filterParams.length);
+    window.history.replaceState({ tab, filter: filterParams }, "", `?tab=${tab}&&filter=${filterParams}`);
+  } else {
+    window.history.replaceState({ tab }, "", `?tab=${tab}`);
+  }
+}
+function strToBase64(str: string) {
+  const bytes = new TextEncoder().encode(str);
+  const binString = String.fromCodePoint(...bytes);
+  return encode(binString, true);
+}

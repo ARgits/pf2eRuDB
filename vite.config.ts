@@ -8,19 +8,13 @@ export default defineConfig({
   build: {
     outDir: "dist",
     dynamicImportVarsOptions: {
-      include: "src/main.ts",
+      include: ["src/main.ts", "src/filter/*.ts", "src/lib/*.ts"],
     },
+    target: "esnext",
   },
   css: {
     postcss: {
       plugins: [postcssNesting],
     },
   },
-  assetsInclude: [
-    "src/assets/PF_action_reaction.webp",
-    "src/assets/PF_action.webp",
-    "src/assets/PF_action_free.webp",
-    "src/assets/PF_action_2.webp",
-    "src/assets/PF_action_3.webp",
-  ],
 });

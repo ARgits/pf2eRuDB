@@ -1,8 +1,10 @@
 <script lang="ts">
+  import Tooltip from "./tooltip/TooltipFromAction.svelte";
   import { fade, slide } from "svelte/transition";
   import type { Content, TableData, tableHeadersGeneral } from "../types";
   import { tick } from "svelte";
   import { tooltip } from "./tooltip/tooltip";
+  import { data } from "./getData";
 
   export let content: Content[keyof TableData];
   export let collapsibleContent: Map<string, boolean>;
@@ -10,6 +12,7 @@
   export let even: boolean;
 
   async function collapse() {
+    console.log(content);
     const isCollapsed = collapsibleContent.get(content.fullName);
     collapsibleContent.set(content.fullName, !isCollapsed);
     collapsibleContent = collapsibleContent;
@@ -22,27 +25,23 @@
       // setTimeout(() => description.scrollIntoView({ block: "nearest", inline: "start", behavior: "smooth" }), 400);
       // setTimeout(() => (parent.scrollTop = descriptionTop + headerHeight), 500);
 
-      description.querySelectorAll('span[class^="c-"]').forEach((el: HTMLElement) => {
-        tooltip(el);
-      });
+      // description.querySelectorAll('span[class^="c-"]').forEach((el: HTMLElement) => {
+      //   tooltip(el);
+      // });
+      tooltip(description);
+    } else {
+      const parent = description.parentElement;
+      parent.scrollBy({ top: -1 * description.clientHeight, behavior: "smooth" });
     }
   }
+  function getTooltipText(element: HTMLElement) {}
   let description: HTMLDivElement;
   let isHover: boolean = false;
-  function mouseEnter() {
-    isHover = true;
-    getClass();
-  }
-  function mouseLeave() {
-    isHover = false;
-    getClass();
-  }
 
   function getClass() {
     let cls = "";
     cls += collapsibleContent.get(content.fullName) ? " expanded" : "";
-    cls += even ? " even" : "";
-    cls += isHover ? " hover" : "";
+    cls += (!even && tableHeaders.length === 1) || (even && !(tableHeaders.length === 1)) ? " even" : "";
     tdClass = cls;
   }
   let tdClass = "";
@@ -56,8 +55,6 @@
   <div
     class="td{tdClass} {key === 0 ? 'first' : key === tableHeaders.length - 1 ? 'last' : ''}"
     on:click|preventDefault={collapse}
-    on:mouseenter={mouseEnter}
-    on:mouseleave={mouseLeave}
     bind:this={cellElem}
   >
     {#if header.value === "fullName"}
@@ -81,7 +78,7 @@
 {/each}
 {#if collapsibleContent.get(content.fullName)}
   <!-- svelte-ignore a11y-no-static-element-interactions -->
-  <div bind:this={description} class="td description {tdClass}" on:mouseenter={mouseEnter} on:mouseleave={mouseLeave}>
+  <div bind:this={description} class="td description {tdClass}">
     <div class="item_content" transition:slide={{ duration: 500 }}>{@html content.desc}</div>
     <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}>
       Скрыть описание
@@ -103,28 +100,13 @@
   }
   .td.description {
     grid-column: span var(--col-number);
+
     &:last-child {
       border-bottom: 1px solid black;
     }
-  }
-  .td.hover {
-    box-sizing: border-box;
-    border-color: var(--hover-color);
-
-    &:not(.description) {
-      border-right-color: black;
-      &:has(~ .description.hover) {
-        border-bottom: 0;
-      }
-      &.last {
-        border-right-color: var(--hover-color);
-      }
-      &:not(.first) {
-        border-left-color: transparent;
-      }
-    }
-    &.description {
-      border-top: 0;
+    & .item_content {
+      text-align: justify;
+      padding: 0 0.5rem;
     }
   }
 </style>

@@ -71,7 +71,8 @@
           getMaxPages(numOfPage);
         }}
       >
-        <img src={arrowLeft} alt="предыдушая страница" />
+        <!-- <img src={arrowLeft} alt="предыдушая страница" /> -->
+        <i class="fa-solid fa-arrow-left-long"></i>
       </button>
       {#each arr as page}
         <div
@@ -94,7 +95,8 @@
           getMaxPages(numOfPage);
         }}
       >
-        <img src={arrowRight} alt="следующая страница" />
+        <!-- <img src={arrowRight} alt="следующая страница" /> -->
+        <i class="fa-solid fa-arrow-right-long"></i>
       </button>
     </div>
   {/if}
@@ -134,8 +136,8 @@
   }
   button {
     padding: 0.1rem 0.25rem;
-  }
-  img {
-    width: 1.5rem;
+    & i {
+      font-size: 150%;
+    }
   }
 </style>
