@@ -10,7 +10,7 @@ if (import.meta.env.PROD) {
     importData.readyData = { ...importData.readyData, ...module };
   }
 } else {
-  importData = await import("./prepareData");
+  importData = await import("../data/dev/prepareData");
 }
 
 export const data: {} = importData.readyData;

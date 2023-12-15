@@ -38,6 +38,7 @@
     if (key === "tab" && Object.keys(tabs).includes(param)) currentTab = param as keyof Tabs;
     if (key === "filter") {
       const parsedFilterValue = JSON.parse(base64ToStr(param));
+      console.log(parsedFilterValue)
       for (const [k, val] of Object.entries($filters[currentTab])) {
         parsedFilterValue[k] = { ...val, ...parsedFilterValue[k] };
       }

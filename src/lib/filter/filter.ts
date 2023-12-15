@@ -1,18 +1,8 @@
 import { encode } from "js-base64";
 import type { Entries, TableData, filterProps, filterUnion } from "../../types";
 import { writable } from "svelte/store";
-const {
-  actionOptions,
-  attributeValueOptions,
-  castingTypeOptions,
-  featTraitsOptions,
-  levelOneToTen,
-  levelOneToTventy,
-  rarityOptions,
-  spellTraditionOptions,
-  spellTraitsOptions,
-  spellTypeOptions,
-} = await import("../constants");
+const { actionOptions, attributeValueOptions, castingTypeOptions, featTraitsOptions, levelOneToTen, levelOneToTventy, rarityOptions, spellTraditionOptions, spellTraitsOptions, spellTypeOptions } =
+  await import("../constants");
 //import * as data from "../assets/data.json";
 //export const readyData = prepareData(data);
 //console.log(readyData);
@@ -186,10 +176,11 @@ export function changeUrlOnFilter(filterValue: filterUnion, dataKey: keyof Table
   for (const [key, val] of Object.entries(filterValue) as Entries<filterUnion>) {
     const tempObject = {};
     if (val.value.join() !== val.defaultValue.join()) {
-      tempObject["val"] = val.value;
-      console.log(val.defaultValue);
+      tempObject["value"] = val.value;
     }
-    if (val.disabled.length) tempObject["disabled"] = val.disabled;
+    if (val.disabled.length) {
+      tempObject["disabled"] = val.disabled;
+    }
     if (Object.keys(tempObject).length) {
       filterValueAndDisabled[key] = tempObject;
     }

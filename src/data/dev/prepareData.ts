@@ -1,8 +1,8 @@
-import type { ActionType, BackgroundType, CreatureType, Data, FeatType, SpellType, actionTypes } from "../types";
+import type { ActionType, BackgroundType, CreatureType, Data, FeatType, SpellType, actionTypes } from "../../types";
 
-const allImgs = Object.values(import.meta.glob("../assets/PF_action_*.webp")).map((val: any) => val.name);
+const allImgs = ["/PF_action_1.webp", "/PF_action_2.webp", "/PF_action_3.webp", "PF_action_reaction.webp","/PF_action_free.webp"];
 console.log(allImgs);
-import data from "../assets/data.json";
+import data from "../../assets/data.json";
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
   " два ": 2,
@@ -27,7 +27,7 @@ function prepareData(data: any): Data {
       const tempSrc = img.getAttribute("src")?.match(/(PF_action).+(?=.png)/g)?.[0];
       if (tempSrc) {
         const src = allImgs.filter((item) => item.includes(tempSrc))[0];
-        img.setAttribute("src", src.slice(9));
+        img.setAttribute("src", src);
       }
     });
     prepareBackgrounds(el);
@@ -195,7 +195,7 @@ function prepareFeat(el: Element): FeatType {
   const alltraits = getTraits(el);
   const feat: FeatType = {
     fullName,
-    name: fullNameText.replace(/\((?<=\().+/, ""),
+    name: fullNameText.replace(/\((?<=\().+/, "").trim(),
     originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
     level: parseInt(fullNameText.match(/\d{1,2}/g)![0]),
     traits: alltraits,
@@ -216,7 +216,7 @@ function prepareAction(el: Element): ActionType {
   const alltraits = getTraits(el);
   const action: ActionType = {
     fullName,
-    name: fullNameText.replace(/\((?<=\().+/, ""),
+    name: fullNameText.replace(/\((?<=\().+/, "").trim(),
     traits: alltraits,
     rarity: "",
     desc: [...el.children]
@@ -225,7 +225,7 @@ function prepareAction(el: Element): ActionType {
       .join(""),
     src: "",
     originalName: fullNameText.match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0] || "",
-    action: "",
+    action: el.querySelector("img")?.getAttribute("alt") as actionTypes,
     id: el.firstElementChild.id,
   };
   return action;
@@ -234,7 +234,7 @@ function getTraits(element: Element) {
   return element
     .querySelector("h1 + ul, h2 + ul, h3 + ul, h4 + ul, h5 + ul, h6 + ul")
     ?.textContent?.split("\n")
-    .filter((t) => t !== "");
+    .filter((t) => t !== "")||[];
 }
 function getFullname(element: Element) {
   const header = element.querySelector("h1, h2, h3, h4, h5, h6");

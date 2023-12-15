@@ -13,6 +13,7 @@
   export let tableHeaders: tableHeadersByKey<typeof dataKey>;
   const contextData: Data = getContext("data");
   const data = contextData[dataKey] as Content[typeof dataKey][];
+  console.log(data)
   const filters: Writable<globalFilter> = getContext("filters");
   const numOfElems: Writable<number> = getContext("numOfElems");
   const hasFilterOptions = Object.values($filters[dataKey]).some((val: filterProps) => val.options.length);
