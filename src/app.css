@@ -184,10 +184,21 @@ span[class^="c-"] {
 div:has(> .trait) {
   text-align: left;
 }
+ul.traits {
+  list-style: none;
+}
+.traits,
 .trait {
   display: flex;
   flex-wrap: wrap;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  & p {
+    margin: 0;
+  }
 }
+.traits > li,
 .trait_item {
   font-family: "Roboto Condensed", sans-serif;
   border-color: #dac68a;

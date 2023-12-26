@@ -1,6 +1,11 @@
 //
 //Content types
 //
+declare global {
+  interface Window {
+    PF2e: Data["allData"];
+  }
+}
 interface Data {
   backgrounds: BackgroundType[];
   spells: SpellType[];
@@ -9,6 +14,8 @@ interface Data {
   creatures: CreatureType[];
   traits: Set<string>;
   paragraphs: Set<string>;
+  allData: any[];
+  tables: Map<string, { fullName: string; desc: string }>;
 }
 type Content = {
   [k in keyof TableData]: k extends "backgrounds" ? BackgroundType : k extends "spells" ? SpellType : FeatType;
@@ -54,6 +61,7 @@ export interface CreatureType extends generalContent {}
 export interface FeatType extends generalContent {
   action: string;
   level: number;
+  archetype: string;
 }
 //
 //Filters Type
@@ -91,7 +99,7 @@ type SelectionByProperty = {
 };
 type BgFilterKeys = Omit<BackgroundType, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
 type SpellFilterKeys = Omit<SpellType, "">;
-type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action">;
+type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action" | "archetype">;
 type ActionFilterKeys = Pick<ActionType, "traits", "rarity">;
 export type backgroundFilter = Filter<BgFilterKeys>;
 export type spellsFilter = Filter<SpellFilterKeys>;

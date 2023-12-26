@@ -12,9 +12,9 @@
   const globalFilters: Writable<globalFilter> = getContext("filters");
   function getStateIcon(key: keyof filterUnion, val: string) {
     const excluded = $globalFilters[dataKey][key].excluded.includes(val) ? " excluded" : "";
-    if ($globalFilters[dataKey][key].value.includes(val)) return "check" + excluded;
-    if ($globalFilters[dataKey][key].disabled.includes(val)) return "xmark" + excluded;
-    return "square" + excluded;
+    if ($globalFilters[dataKey][key].value.includes(val)) return "fa-square-check" + excluded;
+    if ($globalFilters[dataKey][key].disabled.includes(val)) return "fa-square-xmark" + excluded;
+    return "fa-square" + excluded;
   }
   /**
    * Меняем значение фильтра между 3 состояниями: учитывать, строго не учитывать, не учитывать

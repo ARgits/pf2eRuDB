@@ -1,19 +1,19 @@
 <script lang="ts">
   import { getContext } from "svelte";
   import type { Writable } from "svelte/store";
-  import type { Content, Data, TableData, filterProps, globalFilter, tableHeadersByKey } from "../types";
+  import type { Content, Data, FeatType, TableData, filterProps, globalFilter, tableHeadersByKey } from "../types";
   import Counter from "./utilityComponents/Counter.svelte";
-  import { filter, searchByName } from "./filter/lib";
+  import { filter, searchByName } from "./filter/filterFunctions";
   import Filter from "./filter/Filter.svelte";
   import Pagination from "./utilityComponents/Pagination.svelte";
   import Row from "./row.svelte";
-  import { changeUrlOnFilter } from "./filter/filter";
+  import { changeUrlOnFilter } from "./filter/filterData";
 
-  export let dataKey: keyof TableData = "feats";
+  export let dataKey: keyof TableData = "backgrounds";
+
   export let tableHeaders: tableHeadersByKey<typeof dataKey>;
   const contextData: Data = getContext("data");
   const data = contextData[dataKey] as Content[typeof dataKey][];
-  console.log(data)
   const filters: Writable<globalFilter> = getContext("filters");
   const numOfElems: Writable<number> = getContext("numOfElems");
   const hasFilterOptions = Object.values($filters[dataKey]).some((val: filterProps) => val.options.length);

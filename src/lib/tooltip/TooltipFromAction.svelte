@@ -4,6 +4,7 @@
   import { tooltip } from "./tooltip";
   import { slide } from "svelte/transition";
   export let data: any;
+  export let isScreenshot: boolean = false;
   export let onClick: () => void;
   let card: HTMLDivElement;
   let height: number;
@@ -11,35 +12,30 @@
   onMount(() => {
     card.focus();
     tooltip(card);
-    Draggable.create(`#${data.id}.message`, { dragClickables: true, trigger: `#${data.id}.message > .header` });
+    Draggable.create(`#${data.id}.message`, { dragClickables: true, trigger: `#${data.id}.message > .header`, allowEventDefault:true });
   });
   let isCollapsed = false;
-  async function collapse() {
+  async function collapse(e: Event) {
+    console.log("collapse", e);
     isCollapsed = !isCollapsed;
-    await tick()
+    await tick();
     tooltip(card);
   }
 </script>
 
-<div
-  class="message"
-  bind:this={card}
-  bind:clientHeight={height}
-  bind:offsetWidth={width}
-  style="--card-height:{height}px; --card-width:{width}px;"
-  id={data.id}
-  on:focus={() => console.log(card, "focus")}
->
-  <div class="header">
+<div class="message" bind:this={card} bind:clientHeight={height} style="--card-height:{height}px;" id={data.id}>
+  <div class="header" transition:slide={{ delay: 100 }}>
     <div>{@html data.fullName}</div>
-    <div class="buttons">
-      <button on:click={collapse}>
-        <i class="fa-regular fa-window-minimize"></i>
-      </button>
-      <button on:click={onClick}>
-        <i class="fa-solid fa-xmark"></i>
-      </button>
-    </div>
+    {#if !isScreenshot}
+      <div class="buttons">
+        <button on:click|preventDefault={collapse}>
+          <i class="fa-regular fa-window-minimize"></i>
+        </button>
+        <button on:click={onClick}>
+          <i class="fa-solid fa-xmark"></i>
+        </button>
+      </div>
+    {/if}
   </div>
   {#if !isCollapsed}
     <div class="content" transition:slide={{ delay: 100 }}>
@@ -58,20 +54,15 @@
 <style lang="scss">
   .message {
     border: 2px solid black;
-    // box-shadow: 1px 1px 1px #ddd;
-    // background: #565656;
     background-image: var(--background-image);
     border-radius: 4px;
     position: absolute;
     margin: 0 1rem;
-    width: fit-content;
-    // color: white;
     top: calc(50% - var(--card-height) / 2);
     left: max(15%, 50px);
     right: max(15%, 50px);
     text-align: justify;
     & .content {
-      // height: calc(var(--card-height) * 0.75);
       max-height: 75dvh;
       overflow-y: scroll;
       overflow-x: hidden;

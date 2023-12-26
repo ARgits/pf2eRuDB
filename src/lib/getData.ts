@@ -1,23 +1,44 @@
-let importData = { readyData: {} };
-const { conditions } = await import("../lib/constants");
+import type { Data } from "../types";
 
+let importData: { readyData: Data } = {
+  readyData: {
+    backgrounds: [],
+    spells: [],
+    actions: [],
+    feats: [],
+    creatures: [],
+    traits: undefined,
+    paragraphs: undefined,
+    allData: [],
+    tables: undefined,
+  },
+};
+const { conditions } = await import("../lib/constants");
 if (import.meta.env.PROD) {
-  // console.log("prod");
-  const modules = import.meta.glob("../data/prod/*.ts");
+  console.log("prod");
+  const modules = import.meta.glob("../data/prod/*.json", { import: "default" });
   for (const path in modules) {
     const module = (await modules[path]()) as {};
-    // console.log(module);
-    importData.readyData = { ...importData.readyData, ...module };
+    const key = Object.keys(module)[0];
+    console.log("preping data", module, key);
+
+    importData.readyData[key] = importData.readyData?.[key]
+      ? [...importData.readyData?.[key], ...module[key]]
+      : module[key];
+    if (module[key] instanceof Array) {
+      importData.readyData.allData.push(...module[key]);
+    }
   }
 } else {
   importData = await import("../data/dev/prepareData");
 }
 
-export const data: {} = importData.readyData;
+console.log(importData);
+
+export const data: Data = importData.readyData;
 export const allDataArr: any[] = [
-  ...(Object.values(data).reduce((prev: any[], curr: any[]) => {
-    if (curr[0]?.id) return [...prev, ...curr];
-    else return prev;
-  }, []) as any[]),
+  ...data.allData.map((content) => {
+    return { fullName: content.fullName, id: content.id, desc: content.desc };
+  }),
   ...conditions,
 ];

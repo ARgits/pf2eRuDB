@@ -3,12 +3,10 @@
 </script>
 
 <!-- <img height="15px" src={icon.src} class={icon.class} alt="something" /> -->
-{#if icon.includes("check")}
-  <i class="fa-solid fa-square-check"></i>
-{:else if icon.includes("xmark")}
-  <i class="fa-solid fa-square-xmark"></i>
+{#if icon.includes("square-")}
+  <i class="fa-solid {icon}"></i>
 {:else}
-  <i class="fa-regular fa-square"></i>
+  <i class="fa-regular {icon}"></i>
 {/if}
 
 <style lang="scss">

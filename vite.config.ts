@@ -3,7 +3,7 @@ import { svelte } from "@sveltejs/vite-plugin-svelte";
 import postcssNesting from "postcss-nesting";
 
 // https://vitejs.dev/config/
-export default defineConfig({
+export default defineConfig(({ command }) => ({
   plugins: [svelte(), splitVendorChunkPlugin()],
   build: {
     outDir: "dist",
@@ -17,4 +17,4 @@ export default defineConfig({
       plugins: [postcssNesting],
     },
   },
-});
+}));

@@ -3,13 +3,14 @@
   import Table from "./lib/table.svelte";
   import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
-  import { filters } from "./lib/filter/filter";
+  import { filters } from "./lib/filter/filterData";
   import { writable } from "svelte/store";
   import { data } from "./lib/getData";
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
   gsap.registerPlugin(Draggable);
-  let currentTab: keyof Tabs = "feats";
+  let currentTab: keyof Tabs = "backgrounds";
+  window.PF2e = data.allData;
   const tabs: Tabs = {
     feats: {
       visible: true,
@@ -38,7 +39,6 @@
     if (key === "tab" && Object.keys(tabs).includes(param)) currentTab = param as keyof Tabs;
     if (key === "filter") {
       const parsedFilterValue = JSON.parse(base64ToStr(param));
-      console.log(parsedFilterValue)
       for (const [k, val] of Object.entries($filters[currentTab])) {
         parsedFilterValue[k] = { ...val, ...parsedFilterValue[k] };
       }
@@ -49,6 +49,7 @@
     const binString = decode(base64);
     return new TextDecoder().decode(Uint8Array.from(binString, (m) => m.codePointAt(0)));
   }
+  console.log(data);
   setContext("data", data);
   setContext("filters", filters);
   setContext("numOfElems", writable(null));
@@ -133,7 +134,7 @@
   {/key}
 </main>
 
-<style>
+<style lang="scss">
   main {
     height: calc(100vh - 2rem);
     height: calc(100dvh - 2rem);
