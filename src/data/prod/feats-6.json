@@ -1,0 +1,1543 @@
+{
+    "feats": [
+        {
+            "fullName": "Строевая подготовка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1032\">Formation Training</a>) / 5",
+            "name": "Строевая подготовка",
+            "originalName": "Formation Training",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен всему воинскому оружию</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>Вы знаете, как сражаться в строю со своими собратьями.\nКогда вы рядом с хотя бы двумя хобгоблинами-союзниками, вы получаете бонус обстоятельства +1 к КБ и спасброскам.\nЭтот бонус увеличивается до +2 на спасброски Рефлекса против эффектов по области.</p>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-formation-training",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хобгоблинская тренировка с оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1033\">Hobgoblin Weapon Discipline</a>) / 5",
+            "name": "Хобгоблинская тренировка с оружием",
+            "originalName": "Hobgoblin Weapon Discipline",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-weapon-familiarity\">Знакомство с оружием хобгоблинов (Hobgoblin Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>Вы знаете, как эффективно использовать оружие, которое солдаты используют в ближнем бою.\nКогда вы делаете критическое попадание, используя оружие из группы \"древковое\", \"копье\" или \"меч\", то вы применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-weapon-discipline",
+            "archetype": ""
+        },
+        {
+            "fullName": "Распознать засаду (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2370\">Recognize Ambush</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Распознать засаду",
+            "originalName": "Recognize Ambush",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы совершаете бросок инициативы</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>Ваша боевая подготовка научила вас всегда быть готовым к атаке.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы вынуть оружие.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "свободное действие",
+            "id": "ancestry-feat-hobgoblin-recognize-ambush",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновленный коротышками (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2371\">Runtsage</a>) / 5",
+            "name": "Вдохновленный коротышками",
+            "originalName": "Runtsage",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>В отличие от большинства представителей вашего вида, которые отвергают гоблинов как помеху или кратковременные раздражители, вы изучили методики их безответственных и непостижимых действий.\nВы получаете общую способность <span class=\"card-link std std-ref\" data-id=\"feat-adopted-ancestry\">Заимствованная родословная (Adopted Ancestry) / 1</span> и должны выбрать для нее гоблина в качестве родословной.\nЕще вы получаете одну способность гоблинской родословной 1-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-runtsage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гордость по оружию (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1034\">Pride in Arms</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Гордость по оружию",
+            "originalName": "Pride in Arms",
+            "level": 9,
+            "traits": [
+                "слуховой",
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник в пределах 30 футов снижает ОЗ противника до 0</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>С триумфальным криком вы вдохновляете союзников на битву.\nСпровоцировавший союзник до конца своего следующего хода получаете временные ОЗ, равные его модификатору Телосложения.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Добавлен \"слуховой\" признак.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "реакция",
+            "id": "ancestry-feat-hobgoblin-pride-in-arms",
+            "archetype": ""
+        },
+        {
+            "fullName": "Канторианское оживление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2372\">Cantorian Rejuvenation</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Канторианское оживление",
+            "originalName": "Cantorian Rejuvenation",
+            "level": 9,
+            "traits": [
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>Живительная энергия, текущая в вашей крови, дает вам прилив сил.\nВы восстанавливаете 4d6 ОЗ и на 1 минуту получаете 10 временных ОЗ.\nКогда вы достигаете 15-го уровня, то вместо этого восстанавливаете 6d6 ОЗ и получаете 15 временных ОЗ.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-hobgoblin-cantorian-rejuvenation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свирепый всадник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2373\">Fell Rider</a>) / 9",
+            "name": "Свирепый всадник",
+            "originalName": "Fell Rider",
+            "level": 9,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: зверь-компаньон</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы тренировались вместе со своим зверем-компаньоном, чтобы стать ужасающей единой сокрушительной силой на поле битвы.\nВаш зверь-компаньон становится обучен Запугиванию.\nЕсли ваш зверь-компаньон использует <span class=\"card-link std std-ref\" data-id=\"action-animal-support\">Поддержку (Support)</span> будучи вашим ездовым животным, то он дает вам эффекты реакции <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span> к вашей первой проверке Запугивания, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> в тот же ход, даже с учетом того, что он не может использовать реакции.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-fell-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тактика отряда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2374\">Squad Tactics</a>) / 9",
+            "name": "Тактика отряда",
+            "originalName": "Squad Tactics",
+            "level": 9,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы умеете работать со своими союзниками, чтобы окружать противника.\nЕсли враг находится в пределах вашей досягаемости и, по крайней мере, 2 ваших союзников, то этот враг для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-squad-tactics",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мастер строевой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1035\">Formation Master</a>) / 13",
+            "name": "Мастер строевой",
+            "originalName": "Formation Master",
+            "level": 13,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-formation-training\">Строевая подготовка (Formation Training) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>Вы можете собрать отряд даже из представителей тех родословных, которым не хватает военной дисциплины хобгоблинов, и вы можете распространить эти преимущества на своих союзников-хобгоблинов.\nКогда вы рядом с хотя бы двумя <span class=\"t-humanoid\">гуманоидными</span> союзниками, вы получаете преимущества <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-formation-training\">Строевая подготовка (Formation Training) / 5</span>, даже если они не хобгоблины.\nСоюзники-хобгоблины рядом с вами и хотя бы один другой союзник-хобгоблин тоже получают бонусы от вашей способности <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-formation-training\">Строевая подготовка (Formation Training) / 5</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-formation-master",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия хобгоблинов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1036\">Hobgoblin Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия хобгоблинов",
+            "originalName": "Hobgoblin Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-weapon-familiarity\">Знакомство с оружием хобгоблинов (Hobgoblin Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>Вы повышаете свою подготовку с боевым оружием.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-hobgoblin-weapon-familiarity\">Знакомство с оружием хобгоблинов (Hobgoblin Weapon Familiarity) / 1</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сейчас нельзя сдаваться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2375\">Can't Fall Here</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Сейчас нельзя сдаваться",
+            "originalName": "Can't Fall Here",
+            "level": 13,
+            "traits": [
+                "воздействие",
+                "слуховой",
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Очки Здоровья готового союзника, находящегося рядом, будут снижены до 0, но он не будет убит</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы физически помогаете союзнику оставаться на ногах и поддерживаете его преодолевать свою боль, несмотря на ужасные трудности.\nВаш союзник не <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">теряет сознание</span> и остается с 1 ОЗ.\nЕще союзник на 1 минуту получает временные ОЗ, в количестве равном вашему уровню.\nДальнейшее сражение с такой травмой не обходится без последствий; состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> вашего союзника увеличивается на 1.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "реакция",
+            "id": "ancestry-feat-hobgoblin-cant-fall-here",
+            "archetype": ""
+        },
+        {
+            "fullName": "Военная подготовка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2376\">War Conditioning</a>) / 13",
+            "name": "Военная подготовка",
+            "originalName": "War Conditioning",
+            "level": 13,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы прошли обширную подготовку в окружающих средах отдаленных районов, что позволяет вам легко перемещаться по этим областям.\nКогда вы берете эту способность, то можете на свой выбор получить либо Скорость карабканья 20 футов, либо Скорость плавания 20 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-war-conditioning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мы выдвигаемся (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2377\">We March On</a>) / 13",
+            "name": "Мы выдвигаемся",
+            "originalName": "We March On",
+            "level": 13,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы принимаете меры, чтобы во время путешествия ваши союзники выкладывались на полную.\nВы получаете общие способности <span class=\"card-link std std-ref\" data-id=\"feat-pick-up-the-pace\">Подхватывать ритм (Pick up the Pace) / 3</span> и <span class=\"card-link std std-ref\" data-id=\"feat-caravan-leader\">Лидер каравана (Caravan Leader) / 11</span>, даже если не соответствуете предварительным условиям.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-we-march-on",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дороги Азэрси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2160\">Azaersi's Roads</a>) / 17",
+            "name": "Дороги Азэрси",
+            "originalName": "Azaersi's Roads",
+            "level": 17,
+            "traits": [
+                "редкий",
+                "хобгоблин"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Legends pg. 28</p><hr class=\"docutils\"><p>Азэрси дала вам ограниченный доступ к \"Камню Дорог\", настроив вас на мельчайший осколок <em>\"Ониксового ключа\"</em>.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-p-plane-shift\">Планарный переход (Plane Shift) / Закл. 7</span> как врожденное природное заклинание.\nВы можете сотворять его дважды в неделю.\nЕго можно использовать только для того, чтобы перемещаться между Земляным планом и Материальным планом.\nИз-за вашей настройки на <em>Ониксовый ключ</em>, вы можете служить фокусом заклинания и вам не требуется камертон.</p>",
+            "src": "Lost Omens: Legends pg. 28",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-azaersi-s-roads",
+            "archetype": ""
+        },
+        {
+            "fullName": "Канторианское восстановление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2378\">Cantorian Restoration</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Канторианское восстановление",
+            "originalName": "Cantorian Restoration",
+            "level": 17,
+            "traits": [
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Живое существо в пределах 60 футов умрет</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>В самые трудные моменты, энергия, текущая в вашей крови, может спасти жизнь.\nСпровоцировавшее существо получает эффекты <span class=\"card-link std std-ref\" data-id=\"spell-b-breath-of-life\">Дыхание жизни (Breath of Life) / Закл. 5</span>, за исключением того, что оно восстанавливает количество ОЗ равное 6d8 + ваш модификатор Телосложения.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "реакция",
+            "id": "ancestry-feat-hobgoblin-cantorian-restoration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Объединяющий клич (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2379\">Rallying Cry</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Объединяющий клич",
+            "originalName": "Rallying Cry",
+            "level": 17,
+            "traits": [
+                "слуховой",
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 35</p><hr class=\"docutils\"><p>Вы взываете к своим союзникам и подталкиваете их выложиться в бою на полную.\nВсе союзники в пределах 30 футов, которые могут слышать вас, получают временные ОЗ в количестве равном вашему уровню.\nДополнительно, на 1 минуту эти союзники становятся <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span>, но могут использовать это дополнительное действие только для <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>, <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> или <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 35",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-hobgoblin-rallying-cry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания котолюдей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1254\">Catfolk Lore</a>) / 1",
+            "name": "Знания котолюдей",
+            "originalName": "Catfolk Lore",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Выросший среди котолюдей, вы научились традиционным ценностям свободы передвижения, бережному обращению с землей и быстрой реакции, когда ваше любопытство приводит вас в беду.\nВы становитесь обучены Акробатике и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям котолюдей.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кошачья удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1253\">Cat's Luck</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Кошачья удача",
+            "originalName": "Cat's Luck",
+            "level": 1,
+            "traits": [
+                "удача",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы проваливаете спасбросок Рефлекса</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы инстинктивно уклоняетесь от опасности.\nВы можете перебросить спровоцировавший спасбросок и использовать лучший результат.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "свободное действие",
+            "id": "ancestry-feat-catfolk-cats-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием котолюдей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1255\">Catfolk Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием котолюдей",
+            "originalName": "Catfolk Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы предпочитаете оружие, которое можете использовать с быстрыми, стремительными ударами, как кошачьими когтями.\nВы обучены обращению с топориком, камой, кукри, скимитаром и серпом.\nВ дополнение, вы получаете доступ к каме, кукри и всему необычному оружию котолюдей.\nДля вас, воинское оружие котолюдей является простым оружием, а продвинутое оружие котолюдей является воинским.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приветливый путешественник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1256\">Well-Met Traveler</a>) / 1",
+            "name": "Приветливый путешественник",
+            "originalName": "Well-Met Traveler",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>В своих путешествиях вы видели людей из стольких слоев общества, что когда вы встречаете других, то естественным образом ведете себя приятно и приветливо.\nВы обучены Дипломатии.\nЕсли вы автоматически станете обучены Дипломатии (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.</p><p>В дополнение, вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-hobnobber\">Общительный (Hobnobber) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-well-met-traveler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кошачья дремота (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2314\">Cat Nap</a>) / 1",
+            "name": "Кошачья дремота",
+            "originalName": "Cat Nap",
+            "level": 1,
+            "traits": [
+                "исследование",
+                "концентрация",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>Вы можете недолго поспать, чтобы быстро восстановить силы.\nРаз в час, вы можете поспать 10 минут, чтобы получить временные ОЗ равные вашему уровню, которые действуют 10 минут.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-cat-nap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кошачий танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2315\">Catfolk Dance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Кошачий танец",
+            "originalName": "Catfolk Dance",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>У вас есть привычка всегда стоять на пути, когда другие существа пытаются пройти.\nСовершите проверку Акробатики против КС Рефлекса находящегося рядом существа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Целевое существо получает штраф состояния -2 к спасброскам Рефлекса и застигнуто врасплох до начала вашего следующего хода</div>\n<div class=\"line\"><strong>Успех</strong>: Целевое существо получает штраф состояния -2 к спасброскам Рефлекса до начала вашего следующего хода</div>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-catfolk-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Саблезубость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2316\">Saber Teeth</a>) / 1",
+            "name": "Саблезубость",
+            "originalName": "Saber Teeth",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>У вас длинные клыки, естественные или наращенные.\nВы получаете безоружную атаку челюстями, которая наносит 1d6 колющего урона.\nОна относится к группе \"драка\" и имеет признак <span class=\"w-unarmed\">безоружное</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-saber-teeth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чутье зимнего кота (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2317\">Winter Cat Senses</a>) / 1",
+            "name": "Чутье зимнего кота",
+            "originalName": "Winter Cat Senses",
+            "level": 1,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Зимний (Winter Catfolk)</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>У вас зоркие глаза, привыкшие к зимним условиям.\nВы игнорируете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> вызванное льдом и снегом.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-winter-cat-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрывающее оружие котолюдей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1257\">Catfolk Weapon Rake</a>) / 5",
+            "name": "Разрывающее оружие котолюдей",
+            "originalName": "Catfolk Weapon Rake",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-weapon-familiarity\">Знакомство с оружием котолюдей (Catfolk Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы знаете, как эффективно использовать оружие, которое разрывает ваших врагов.\nКогда вы критически попадаете используя оружие котолюдей, или одним из перечисленных в <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-weapon-familiarity\">Знакомство с оружием котолюдей (Catfolk Weapon Familiarity) / 1</span>, вы применяете эффект критической специализации оружия.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-weapon-rake",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цепкие когти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1258\">Climbing Claws</a>) / 5",
+            "name": "Цепкие когти",
+            "originalName": "Climbing Claws",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы можете выпускать свои когти, для помощи во время лазания.\nВы получаете Скорость карабканья 10 футов.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-climbing-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширенная удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1259\">Expanded Luck</a>) / 5",
+            "name": "Расширенная удача",
+            "originalName": "Expanded Luck",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы даже более везучий, чем большинство котолюдей.\nВ дополнение к провалу спасбросков Рефлекса, вы можете активировать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span> когда проваливаете или крит.проваливаете спасбросок Стойкости или Воли.\nВы все еще можете использовать \"Кошачью удачу\" только раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-expanded-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легкие лапы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1260\">Light Paws</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Легкие лапы",
+            "originalName": "Light Paws",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Вы можете балансировать на носках, чтобы осторожно перешагивать через препятствия.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> и потом <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>, или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> и потом <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>, игнорируя сложную местность во время этого перемещения.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-catfolk-light-paws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пружинистый прыгун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1261\">Springing Leaper</a>) / 5",
+            "name": "Пружинистый прыгун",
+            "originalName": "Springing Leaper",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Ваши сильные ноги позволяют вам делать резкие и эффектные прыжки.\nВы можете делать <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> как активность в 2 действия, чтобы удвоить дистанцию на которую вы можете Прыгнуть вертикально, или Прыгнуть активностью в 3 действия, чтобы утроить дистанцию, на которую вы можете Прыгнуть вертикально.\nВы не проваливаете автоматически проверку для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>, если делаете прыжок не в сторону <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещения (Stride)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-springing-leaper",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сосредоточенная кошачья дремота (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2318\">Focused Cat Nap</a>) / 5",
+            "name": "Сосредоточенная кошачья дремота",
+            "originalName": "Focused Cat Nap",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cat-nap\">Кошачья дремота (Cat Nap) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>Когда вы применяете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cat-nap\">Кошачья дремота (Cat Nap) / 1</span>, то еще можете <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> поскольку вам снится соответствующая активность.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-focused-cat-nap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Грациозное наставление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2319\">Graceful Guidance</a>) / 5",
+            "name": "Грациозное наставление",
+            "originalName": "Graceful Guidance",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>Вы можете продемонстрировать, как быстро уклоняться от опасных эффектов.\nВы можете использовать реакцию <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, чтобы дать союзнику бонус к спасброску Рефлекса.\nКак и обычно для Помощи, чтобы поддержать союзника, вам нужно подготовиться, использовав действие в свой ход.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-graceful-guidance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Счастливый случай (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2320\">Lucky Break</a>) / 5",
+            "name": "Счастливый случай",
+            "originalName": "Lucky Break",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>Вы ловите себя на ошибке.\nВ дополнение к обычным триггерам <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span>, вы можете использовать ее когда проваливаете или крит.проваливаете проверку навыка Атлетики или Акробатики.\nКогда вы так делаете, то перебрасываете спровоцировавшую проверку навыка и используете лучший результат.\nЭто все еще как обычно считается к частоте использования <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-lucky-break",
+            "archetype": ""
+        },
+        {
+            "fullName": "Охотник прайда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2321\">Pride Hunter</a>) / 5",
+            "name": "Охотник прайда",
+            "originalName": "Pride Hunter",
+            "level": 5,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 18</p><hr class=\"docutils\"><p>Вы избегаете внимания существ, сосредоточенных на ваших союзниках.\nВы можете использовать небольшое укрытие, получаемое от своих союзников, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-catfolk-pride-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надоедливая царапина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1262\">Aggravating Scratch</a>) / 9",
+            "name": "Надоедливая царапина",
+            "originalName": "Aggravating Scratch",
+            "level": 9,
+            "traits": [
+                "болезнь",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: безоружная атака когтями</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 10</p><hr class=\"docutils\"><p>Ваши когти несут в себе раздражитель, который безвреден для вас, но может нанести вред другим.\nВаши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strike)</span> когтями при критическом попадании, дополнительно наносят 1d4 продолжительного урона ядом.</p>",
+            "src": "Advanced Player's Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-catfolk-aggravating-scratch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общая удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1263\">Shared Luck (Catfolk)</a>) / 9",
+            "name": "Общая удача",
+            "originalName": "Shared Luck",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Когда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span>, чтобы перебросить спасбросок Рефлекса, любое существо, которое вы выберете в пределах 10 футов, которое тоже только что провалило спасбросок Рефлекса против того же самого эффекта (например, одного заклинания), может перебросить свой спасбросок и использовать лучший результат.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-catfolk-shared-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осторожно крадущийся (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1264\">Wary Skulker</a>) / 9",
+            "name": "Осторожно крадущийся",
+            "originalName": "Wary Skulker",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Всегда настороже, вы высматриваете опасности, даже когда пытаетесь оставаться скрытым.\nВы можете выполнять активность исследования <span class=\"card-link \">Разведывать (Scout)</span> в то же самое время, когда выполняете <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-catfolk-wary-skulker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ухоженный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1265\">Well-Groomed</a>) / 9",
+            "name": "Ухоженный",
+            "originalName": "Well-Groomed",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Вы очень щепетильно поддерживаете себя в чистоте, вылизывая шерсть или тщательно используя традиционные средства гигиены котолюдей, для достижения целебного эффекта.\nВы получаете бонус обстоятельства +1 к спасброскам против болезней.\nЕсли при броске спасброска против болезни вы получаете успех, то вместо этого он становится крит.успехом.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-catfolk-well-groomed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Избежать рока (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2322\">Evade Doom</a>) / 9",
+            "name": "Избежать рока",
+            "originalName": "Evade Doom",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы можете избежать сверхъестественного несчастья.\nКогда вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span>, то можете совершить чистую проверку с КС 17.\nПри успехе вы не получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-catfolk-evade-doom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Без улик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2323\">No Evidence</a>) / 9",
+            "name": "Без улик",
+            "originalName": "No Evidence",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Выживания</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы оставляете мало следов, когда пытаетесь оставаться незаметным.\nКогда вы применяете <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span>, то еще получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"skill-survival-cover-tracks\">Заметать следы (Cover Tracks)</span>, если только вы не решите не делать этого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-catfolk-no-evidence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рычание хищника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2324\">Predator's Growl</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Рычание хищника",
+            "originalName": "Predator's Growl",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Запугивания</p><p><strong>Триггер</strong>: Вы успешно <span class=\"card-link std std-ref\" data-id=\"action-seek\">Находите (Seek)</span> \"спрятанное\" или \"необнаруженное\" существо</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы издаете гортанное рычание, пытаясь <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> существо, которое только что нашли.\nВы не получаете штраф -4 за отсутствие с целью общего языка.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "реакция",
+            "id": "ancestry-feat-catfolk-predators-growl",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чутье на неприятность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2325\">Sense for Trouble</a>) / 9",
+            "name": "Чутье на неприятность",
+            "originalName": "Sense for Trouble",
+            "level": 9,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы можете понять, когда что-то не так.\nВ дополнение к обычным триггерам <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span>, вы можете использовать ее после броска инициативы, чтобы перебросить и использовать лучший из двух результатов.\nЭто все еще как обычно считается к частоте использования <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-catfolk-sense-for-trouble",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесшумный шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2326\">Silent Step</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Бесшумный шаг",
+            "originalName": "Silent Step",
+            "level": 9,
+            "traits": [
+                "размах",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы исчезаете бесшумными шагами.\nВы <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span>, а потом используете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.\nВам все еще как обычно нужно соответствовать требованиям для Спрятаться и Красться.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-catfolk-silent-step",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проклятие черного кота (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1266\">Black Cat Curse</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Проклятие черного кота",
+            "originalName": "Black Cat Curse",
+            "level": 13,
+            "traits": [
+                "оккультный",
+                "прорицание",
+                "неудача",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах 30 футов, которое вы можете видеть, сделает успешный спасбросок</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Вы шипите злобное проклятие на это существо.\nЦель должна повторить спровоцировавший спасбросок и использовать худший результат.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "реакция",
+            "id": "ancestry-feat-catfolk-black-cat-curse",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кошачий крик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1267\">Caterwaul</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Кошачий крик",
+            "originalName": "Caterwaul",
+            "level": 13,
+            "traits": [
+                "слуховой",
+                "эмоция",
+                "ментальный",
+                "концентрация",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: ОЗ союзника в пределах 30 футов снизится до 0, но он не умрет мгновенно</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Вы издаете дерзкий вопль перед лицом невзгод, призывая своего спутника прийти в сознание.\nВаш союзник не вырублен и остается с 1 ОЗ.\nСостояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> вашего союзника все еще увеличивается на 1, как если бы он получил <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и восстановился.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "реакция",
+            "id": "ancestry-feat-catfolk-caterwaul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия котолюдей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1268\">Catfolk Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия котолюдей",
+            "originalName": "Catfolk Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-weapon-familiarity\">Знакомство с оружием котолюдей (Catfolk Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-weapon-familiarity\">Знакомство с оружием котолюдей (Catfolk Weapon Familiarity) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-catfolk-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оживить опасность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2327\">Inspirit Hazard</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Оживить опасность",
+            "originalName": "Inspirit Hazard",
+            "level": 13,
+            "traits": [
+                "оккультный",
+                "трансмутация",
+                "концентрация",
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"skill-thievery-disable-a-device\">Отключили (Disable)</span> опасность</p><p><strong>Частота</strong>: раз в день</p><p><strong>Требования</strong>: Опасность не \"сломана\"</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы пробуждаете созидательный дух внутри опасности.\nВы узнаете эффекты опасности.\nРаз в следующие 10 минут, когда вы наблюдаете существо совершающее действие, которое активировало бы одну из реакций опасности или ее свободных действий, если бы вы не Отключили ее, то вы можете использовать реакцию, чтобы заново подготовить опасность, заставляя наблюдаемое существо немедленно спровоцировать ее.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "реакция",
+            "id": "ancestry-feat-catfolk-inspirit-hazard",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надежная удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1269\">Reliable Luck</a>) / 17",
+            "name": "Надежная удача",
+            "originalName": "Reliable Luck",
+            "level": 17,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 11</p><hr class=\"docutils\"><p>Вы ушли дальше чем за 9 жизней, чтобы переживать опасности с удивительной регулярностью.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-cats-luck\">Кошачья удача (Cat's Luck)  / 1</span> раз в час, а не раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-catfolk-reliable-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ускользнуть от проблемы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2328\">Elude Trouble</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Ускользнуть от проблемы",
+            "originalName": "Elude Trouble",
+            "level": 17,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо промахивается по вам атакой ближнего боя</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Вы ускользаете, использовав появившуюся возможность.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> вплоть до своей Скорости.\nЭто движение не провоцирует реакции от спровоцировавшего существа, зависящие от перемещения.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "реакция",
+            "id": "ancestry-feat-catfolk-elude-trouble",
+            "archetype": ""
+        },
+        {
+            "fullName": "Десять жизней (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2329\">Ten Lives</a>) / 17",
+            "name": "Десять жизней",
+            "originalName": "Ten Lives",
+            "level": 17,
+            "traits": [
+                "коточеловек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-catfolk-evade-doom\">Избежать рока (Evade Doom) / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 19</p><hr class=\"docutils\"><p>Когда ваш персонаж умер бы, вы можете совершить чистую проверку с КС 17.\nПри успехе, вместо этого ваше ОЗ снижается до 0, а значение состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> становится на 1 меньше, чем то, при котором вы бы обычно умерли (обычно становится <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти 3</span>).\nЭто не меняет результата для любых других задействованных существ.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-catfolk-ten-lives",
+            "archetype": ""
+        },
+        {
+            "fullName": "Съежиться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1270\">Cringe</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Съежиться",
+            "originalName": "Cringe",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "ментальный",
+                "визуальный",
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо, о котором вы знаете, сделает по вам критический <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> и нанесет вам урон</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>С помощью жалкой позы вы заставляете врага слегка отдернуть смертельную атаку.\nАтакующее существо получает штраф обстоятельства к урону спровоцировавшего <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, равный вашему уровню + 2.\nЭтот штраф применяется после удвоения урона для критического попадания.\nПосле этого, атакующий иммунен к вашему \"Съеживанию\" на 24 часа.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "реакция",
+            "id": "ancestry-feat-kobold-cringe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Присутствие дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1271\">Dragon's Presence</a>) / 1",
+            "name": "Присутствие дракона",
+            "originalName": "Dragon's Presence",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>Как представитель драконьего рода, вы излучаете непоколебимую уверенность (которая катастрофически рушится против самых смертоносных врагов).\nКогда при броске спасброска против эффекта страха, вы получаете успех, то вместо этого вы получаете критический успех.\nКогда при броске спасброска против эффекта страха, вы получаете провал, то вместо этого вы получаете критический провал.</p><p>В дополнение, когда вы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> врага вашего уровня или ниже, то получаете бонус обстоятельства +1 к проверке Запугивания.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-kobold-dragons-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дыхание кобольда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1272\">Kobold Breath</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Дыхание кобольда",
+            "originalName": "Kobold Breath",
+            "level": 1,
+            "traits": [
+                "аркана",
+                "эвокация",
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>Вы направляете силу своего драконьего образца в поток энергии, который проявляется в виде 30-футовой линии или 15-футового конуса, наносящих 1d4 урона.\nКаждое существо в области должно сделать простой спасбросок против вашего КС класса или КС заклинания, в зависимости от того, что выше.\nВы не можете снова использовать эту способность 1d4 раунда.</p><p>На 3-м уровне и каждые 2 уровня после него, урон увеличивается на 1d4.\nФорма дыхания, тип урона и спасбросок соответствуют вашему драконьему образцу (<span class=\"card-link std std-ref\" data-id=\"table-kobold-draconic-exemplars\">Таблица: Драконьи образцы (Draconic Exemplars)</span>).\nЭта способность имеет признак связанный с видом наносимого урона.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-kobold-kobold-breath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания кобольдов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1273\">Kobold Lore</a>) / 1",
+            "name": "Знания кобольдов",
+            "originalName": "Kobold Lore",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>От своих старших, вы внимательно изучили ключевые стратегии выживания кобольдов и мифологию.\nВы становитесь обучены Скрытности и Воровству.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям кобольдов.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-kobold-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бежать стремглав (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1274\">Scamper</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Бежать стремглав",
+            "originalName": "Scamper",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы рядом хотя бы с одним врагом</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>Вы знаете как инстинктивно избегать опасности.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до своей Скорости, с бонусом состояния +5 футов к вашей Скорости, и получаете бонус обстоятельства +2 к КБ против реакций, провоцируемых этим движением.\nВы должны закончить движение в пространстве, которое находится не рядом с любым из врагов.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-kobold-scamper",
+            "archetype": ""
+        },
+        {
+            "fullName": "Установщик силков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1275\">Snare Setter</a>) / 1",
+            "name": "Установщик силков",
+            "originalName": "Snare Setter",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>Вы искусны в проверенном временем кобольдском искусстве изготовления ловушек.\nВы становитесь обучены Ремеслу.\nЕсли вы уже были обучены Ремеслу, то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете доступ ко всем необычным кобольдским ловушкам.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-snare-crafting\">Создание силков (Snare Crafting) / 1</span>, и при выборе своих формул для этой способности, вы так же можете выбирать из необычных кобольдских ловушек и обычных ловушек.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-kobold-snare-setter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Драконий подхалим (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2380\">Draconic Sycophant</a>) / 1",
+            "name": "Драконий подхалим",
+            "originalName": "Draconic Sycophant",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 37</p><hr class=\"docutils\"><p>У вас есть влияние, которое драконам кажется необычно приятным, а когда это не удается, вы знаете, как можно выкрутиться.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия и спасброскам против драконов.\nДополнительно, всякий раз, когда вы встречаете в социальной обстановке существо с признаком <span class=\"t-dragon\">дракон</span>, вы можете совершить проверку Дипломатии, чтобы мгновенно <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на это существо, а не после 1-минутного диалога;\nвы получаете к этой проверке штраф -5.\nПри провале, вы можете начать 1-минутную беседу, и по окончании этого времени предпринять новую проверку, вместо принятия результата провала или крит.провала.</p><p><strong>Особенность</strong>: Если у вас есть способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-glad-hand\">Радушный прием (Glad-Hand) / 2</span>, то, если цель имеет признак <span class=\"t-dragon\">дракон</span>, вы не получаете этого штрафа к своей проверке Дипломатии.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 37",
+            "action": "",
+            "id": "ancestry-feat-kobold-draconic-sycophant",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с кобольдским оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2381\">Kobold Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с кобольдским оружием",
+            "originalName": "Kobold Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Вы тренировались с оружием, идеально подходящим, чтобы быть эффективным под землей.\nВы обучены с арбалетом, легким клевцом, клевцом, двуручным клевцом и копьем.\nЕще вы получаете доступ ко всему необычному оружию кобольдов.\nС целью определения вашего уровня мастерства с этим оружием, воинское кобольдское оружие считается простым, а продвинутое кобольдское оружие считается воинским.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-kobold-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проскальзывание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2382\">Slither</a>) / 1",
+            "name": "Проскальзывание",
+            "originalName": "Slither",
+            "level": 1,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Вы эксперт перемещения в очень ограниченных пространствах.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-quick-squeeze\">Быстро протиснуться (Quick Squeeze) / 1</span>, даже если не обучены Акробатике.\nКогда при броске проверки Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span> вы получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-kobold-slither",
+            "archetype": ""
+        },
+        {
+            "fullName": "Убежище союзника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1276\">Ally's Shelter</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Убежище союзника",
+            "originalName": "Ally's Shelter",
+            "level": 5,
+            "traits": [
+                "удача",
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы делаете спасбросок находясь рядом с одним или более союзником, но еще не совершили бросок кости</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>В стрессовой ситуации, вы черпаете силу в примере своих союзников.\nКиньте спасбросок используя модификатор этого вида спасброска соседнего союзника, вместо своего.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "реакция",
+            "id": "ancestry-feat-kobold-allys-shelter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пресмыкаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1277\">Grovel</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Пресмыкаться",
+            "originalName": "Grovel",
+            "level": 5,
+            "traits": [
+                "эмоция",
+                "слуховой",
+                "ментальный",
+                "концентрация",
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 14</p><hr class=\"docutils\"><p>С угождающими словами и умоляющими жестами вы убеждаете своего противника, что вы не представляете опасности.\nВы совершаете <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span> против существа.\nВ отличие от обычного Финта, существо может быть в пределах 30 футов, а не только в вашей досягаемости ближнего боя, и вы делаете свою проверку против его КС Воли вместо КС Восприятия.</p>",
+            "src": "Advanced Player's Guide pg. 14",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-kobold-grovel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гений по силкам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1278\">Snare Genius</a>) / 5",
+            "name": "Гений по силкам",
+            "originalName": "Snare Genius",
+            "level": 5,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла, <span class=\"card-link std std-ref\" data-id=\"feat-snare-crafting\">Создание силков (Snare Crafting) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 15</p><hr class=\"docutils\"><p>Ваше опыт делает ваши ловушки более мощными, и вы можете размещать их быстро и эффективно.\nКаждый день, во время своих ежедневных приготовлений, вы можете подготовить 3 силка из своей книги формул, для быстрой установки; если силок обычно <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создается (Craft)</span> за 1 минуту, то вы можете Создать его за 3 действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nСилки, подготовленные таким образом не стоят вам ресурсов для Создания.\nКоличество силков, которые вы можете подготовить таким способом, увеличивается до 4, если вы мастер Ремесла, и до 5 если вы легенда.</p><p>Когда вы Создаете и устанавливаете силок, который наносит урон, то любое существо, которое критически проваливает свой спасбросок против начального эффекта силка и получает урон, становится застигнутым врасплох до конца своего следующего хода.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Силки, созданные этой способностью являются временными предметами и их нельзя использовать спустя 24 часа или после ваших следующих дневных приготовлений, в зависимости от того, что произойдет раньше.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-kobold-snare-genius",
+            "archetype": ""
+        },
+        {
+            "fullName": "Новатор кобольдского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2383\">Kobold Weapon Innovator</a>) / 5",
+            "name": "Новатор кобольдского оружия",
+            "originalName": "Kobold Weapon Innovator",
+            "level": 5,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-weapon-familiarity\">Знакомство с кобольдским оружием (Kobold Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Вы научились хитрым приемам обращения со своим оружием кобольдов.\nВсякий раз, когда вы критически попадаете арбалетом, легким клевцом, клевцом, двуручным клевцом, копьем или оружием кобольдов, вы применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-kobold-weapon-innovator",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крылышки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2384\">Winglets</a>) / 5",
+            "name": "Крылышки",
+            "originalName": "Winglets",
+            "level": 5,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Вы из тех немногих кобольдов, которые отрастили драконьи крылья во время жизни.\nВначале, крылья маленькие и слабые; хоть их и не достаточно для полноценного полета, но сильный взмах позволяет вам прыгать дальше.\nПри <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжке (Leaping)</span> горизонтально, вы двигаетесь на дополнительные 5 футов (это дополнительное расстояние не складывается с увеличенным расстоянием Прыжка от способности <span class=\"card-link std std-ref\" data-id=\"feat-powerful-leap\">Мощный прыжок (Powerful Leap) / 2</span>).\nВы автоматически не проваливаете свои проверки <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>, если сначала не <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span> хотя бы на 10 футов.\nДополнительно, когда вы совершаете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>, то можете прыгать на расстояние вплоть до 10 футовы дальше, чем вы бы прыгнули обычно по результатам своей проверки Атлетики, однако вы все еще не можете прыгать дальше своей Скорости.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOAG-2: </span>В последнем предложении было написано \"на расстояние вплоть до 10 футов <strong>выше</strong>\".\nИсправлено на \"дальше\".</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-kobold-winglets",
+            "archetype": ""
+        },
+        {
+            "fullName": "Промеж чешуек (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1279\">Between the Scales</a>) / 9",
+            "name": "Промеж чешуек",
+            "originalName": "Between the Scales",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 15</p><hr class=\"docutils\"><p>Недооценить вас - серьезная ошибка, но другие продолжают совершать ее.\nВы научились получать преимущества используя прорехи в защитах врагов.\nКогда вы наносите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> застигнутому врасплох существу, используя оружие ближнего боя или безоружную атаку с признаками <span class=\"w-agile\">быстрое</span> и <span class=\"w-finesse\">точное</span>, то она получает признак <span class=\"w-backstabber\">предательское</span>.</p>",
+            "src": "Advanced Player's Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-kobold-between-the-scales",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дракомант (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1280\">Dracomancer</a>) / 9",
+            "name": "Дракомант",
+            "originalName": "Dracomancer",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 15</p><hr class=\"docutils\"><p>Ваша врожденная арканная сила проявляется как нетленное заклинание вашего образца.\nВыберите 1 заклинание 1-го уровня и 1 заклинание 2-го уровня, из тех, которые перечислены для дракона-заклинателя вашего образца, как написано в \"Бестиарии\" (стр. 104-126).\nВы можете сотворять их как врожденные арканные заклинания, каждое раз в день.\nВы становитесь обучены атакам арканными заклинаниями и КС заклинаний, а ваша ключевая характеристика колдовства - Харизма.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Черный</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-ray-of-enfeeblement\">Ослабляющий луч (Ray of Enfeeblement) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Синий</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-u-unseen-servant\">Незримый слуга (Unseen Servant) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Зеленый</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-object\">Иллюзорный объект (Illusory Object) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-v-ventriloquism\">Чревовещание (Ventriloquism) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Красный</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-ray-of-enfeeblement\">Ослабляющий луч (Ray of Enfeeblement) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-comprehend-language\">Понимание языка (Comprehend Language) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Белый</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-r-ray-of-enfeeblement\">Ослабляющий луч (Ray of Enfeeblement) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Латунный</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-sleep\">Сон (Sleep) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-v-ventriloquism\">Чревовещание (Ventriloquism) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Бронзовый</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-hydraulic-push\">Водный толчок (Hydraulic Push) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-comprehend-language\">Понимание языка (Comprehend Language) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Медный</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-f-fleet-step\">Быстрый шаг (Fleet Step) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-object\">Иллюзорный объект (Illusory Object) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-magic-aura\">Магическая аура (Magic Aura) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Золотой</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mending\">Починка (Mending) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-protection\">Защита (Protection) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-spirit-link\">Духовная связь (Spirit Link) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-r-restoration\">Восстановление (Restoration) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-silence\">Тишина (Silence) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Серебряный</strong></div>\n<div class=\"line\"><strong>1-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-alarm\">Тревога (Alarm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-b-bless\">Благословение (Bless) / Закл. 1-го</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-protection\">Защита (Protection) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><strong>2-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-restoration\">Восстановление (Restoration) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></div>\n</div>",
+            "src": "Advanced Player's Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-kobold-dracomancer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дыхание дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1281\">Dragon's Breath</a>) / 9",
+            "name": "Дыхание дракона",
+            "originalName": "Dragon's Breath",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-kobold-breath\">Дыхание кобольда (Kobold Breath)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 15</p><hr class=\"docutils\"><p>Вы можете приложить больше усилий к своему <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-kobold-breath\">Дыхание кобольда (Kobold Breath)  / 1</span>, чтобы направить большую драконью силу, хотя это отнимает у вас больше сил.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-kobold-breath\">Дыхание кобольда (Kobold Breath)  / 1</span>, то можете увеличить кости урона до d8 и увеличить область до 60-футовой линии, если выдыхаете линией, или 30-футового конуса, если выдыхаете конусом.\nЕсли вы это делаете, то не можете использовать \"Дыхание кобольда\" в течение 1 часа.</p>",
+            "src": "Advanced Player's Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-kobold-dragons-breath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сражающийся в кустах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2385\">Briar Battler</a>) / 9",
+            "name": "Сражающийся в кустах",
+            "originalName": "Briar Battler",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 37</p><hr class=\"docutils\"><p>Вы научились использовать корни, расщелины, неровную поверхность и густой подлесок в своих интересах.\nКогда находитесь на сложной местности вызванной особенностями окружающей среды, вы можете <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span>, даже если обычно эта особенность была бы не достаточно большой, чтобы вы могли <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 37",
+            "action": "",
+            "id": "ancestry-feat-kobold-briar-battler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тесные пространства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2386\">Close Quarters</a>) / 9",
+            "name": "Тесные пространства",
+            "originalName": "Close Quarters",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 37</p><hr class=\"docutils\"><p>Вы тренировались сражаться вместе с союзниками в туннелях, густых зарослях или аналогичной ограниченной местности.\nЕсли вы маленького размера или меньше, то можете заканчивать свое передвижение в том же квадрате, что и союзник маленького размера или меньше.\nПри использовании этого или похожего умения, в одном и том же квадрате могут находить всего 2 существа.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 37",
+            "action": "",
+            "id": "ancestry-feat-kobold-close-quarters",
+            "archetype": ""
+        },
+        {
+            "fullName": "Образец драконьей крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2387\">Dragonblood Paragon</a>) / 9",
+            "name": "Образец драконьей крови",
+            "originalName": "Dragonblood Paragon",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Крепкая челюсть (Strongjaw Kobold)</span>,\nнаследие <span class=\"card-link \">Ядохвостный (Venomtail Kobold)</span>,\n<span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-dracomancer\">Дракомант (Dracomancer) / 9</span> или <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-kobold-breath\">Дыхание кобольда (Kobold Breath)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Ваша драконья анатомия становится особенно заметной.\nВы увеличиваете мощь одного из следующих имеющихся у вас кобольдских наследий или способностей.</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-dracomancer\">Дракомант (Dracomancer) / 9</span>: Увеличьте количество раз, которое вы можете сотворять каждое из дарованных врожденных заклинаний 1-го и 2-го уровней на 1.</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-kobold-breath\">Дыхание кобольда (Kobold Breath)  / 1</span>: Существа, критически проваливающие свой спасбросок против вашего \"Дыхания кобольда\" получают 3d4 продолжительного урона того типа урона, который наносится вашим драконьим покровителем.</p></li>\n<li><p><span class=\"card-link \">Крепкая челюсть (Strongjaw Kobold)</span>: Ваша безоружная атака челюстями получает признак <span class=\"w-deadly\">смертельное d6</span>.</p></li>\n<li><p><span class=\"card-link \">Ядохвостный (Venomtail Kobold)</span>: Вы вырабатываете достаточно яда, чтобы использовать <span class=\"card-link \">Хвостовой токсин (Tail Toxin) </span> 2 раза в день.</p></li>\n</ul>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-kobold-dragonblood-paragon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Силочный диверсант (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2388\">Snare Commando</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Силочный диверсант",
+            "originalName": "Snare Commando",
+            "level": 9,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана или Запугивания, <span class=\"card-link std std-ref\" data-id=\"feat-snare-crafting\">Создание силков (Snare Crafting) / 1</span></p><p><strong>Триггер</strong>: Существо проваливает или критически проваливает спасбросок против вашего силка</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 38</p><hr class=\"docutils\"><p>Ваши силки настолько сбивают с толку, что ваши жертвы редко замечают, что вы ускользаете из поля зрения.\nЕсли вы эксперт Обмана, то можете <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span> спровоцировавшего существа.\nЕсли вы эксперт Запугивания, то можете <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> спровоцировавшее существо.\nЕсли вы эксперт обоих навыков, то выберите один из двух эффектов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 38",
+            "action": "реакция",
+            "id": "ancestry-feat-kobold-snare-commando",
+            "archetype": ""
+        },
+        {
+            "fullName": "Элитный дракомант (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1282\">Elite Dracomancer</a>) / 13",
+            "name": "Элитный дракомант",
+            "originalName": "Elite Dracomancer",
+            "level": 13,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-dracomancer\">Дракомант (Dracomancer) / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 15</p><hr class=\"docutils\"><p>Ваша магия соперничает с той, которой обладают малые драконы.\nВыберите 1 заклинание 3-го уровня и 1 заклинание 4-го уровня, из тех, которые перечислены для дракона-заклинателя вашего образца, как написано в \"Бестиарии\" (стр. 104-126).\nВы можете сотворять их как врожденные арканные заклинания, каждое раз в день.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Черный</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-s-slow\">Замедление (Slow) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-stinking-cloud\">Зловонное облако (Stinking Cloud) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-paralyze\">Паралич (Paralyze) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-clairvoyance\">Ясновидение (Clairvoyance) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-suggestion\">Внушение (Suggestion) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Синий</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dream-message\">Послание во сне (Dream Message) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-hypnotic-pattern\">Завораживающий узор (Hypnotic Pattern) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-paralyze\">Паралич (Paralyze) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-hallucinatory-terrain\">Иллюзорная местность (Hallucinatory Terrain) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-c-clairvoyance\">Ясновидение (Clairvoyance) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Зеленый</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-l-locate\">Обнаружение (Locate) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mind-reading\">Чтение разума (Mind Reading) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-clairvoyance\">Ясновидение (Clairvoyance) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Красный</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-g-grease\">Масло (Grease) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mind-reading\">Чтение разума (Mind Reading) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-crushing-despair\">Сокрушительное отчаяние (Crushing Despair) / Закл. 5</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Белый</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-e-earthbind\">Земные оковы (Earthbind) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-v-vampiric-touch\">Вампирское касание (Vampiric Touch) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-f-freedom-of-movement\">Свобода движений (Freedom of Movement) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Латунный</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-e-earthbind\">Земные оковы (Earthbind) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-paralyze\">Паралич (Paralyze) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-l-locate\">Обнаружение (Locate) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-confusion\">Замешательство (Confusion) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-dimensional-anchor\">Пространственный якорь (Dimensional Anchor) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Бронзовый</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mind-reading\">Чтение разума (Mind Reading) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-slow\">Замедление (Slow) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-solid-fog\">Плотный туман (Solid Fog) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-suggestion\">Внушение (Suggestion) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Медный</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-meld-into-stone\">Слияние с камнем (Meld into Stone) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-c-confusion\">Замешательство (Confusion) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-c-creation\">Созидание (Creation) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Золотой</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-d-discern-lies\">Выявление лжи (Discern Lies) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-restoration\">Восстановление (Restoration) / Закл. 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Серебряный</strong></div>\n<div class=\"line\"><strong>3-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-p-paralyze\">Паралич (Paralyze) / Закл. 3</span>, <span class=\"card-link std std-ref\" data-id=\"spell-w-wall-of-wind\">Стена ветра (Wall of Wind) / Закл. 3</span></div>\n<div class=\"line\"><strong>4-й</strong>: <span class=\"card-link std std-ref\" data-id=\"spell-f-freedom-of-movement\">Свобода движений (Freedom of Movement) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-read-omens\">Прочесть знамения (Read Omens) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-r-restoration\">Восстановление (Restoration) / Закл. 2</span></div>\n</div>",
+            "src": "Advanced Player's Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-kobold-elite-dracomancer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Полет детеныша (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2389\">Hatchling Flight</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Полет детеныша",
+            "originalName": "Hatchling Flight",
+            "level": 13,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-winglets\">Крылышки (Winglets) / 5</span></p><p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 39</p><hr class=\"docutils\"><p>Вы можете немного летать!\nВы <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Fly)</span> вплоть до половины своей Скорости.\nЕсли вы не заканчиваете свое движение на твердой земле, то падаете в конце своего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 39",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-kobold-hatchling-flight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт кобольдского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2390\">Kobold Weapon Expertise</a>) / 13",
+            "name": "Эксперт кобольдского оружия",
+            "originalName": "Kobold Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-weapon-familiarity\">Знакомство с кобольдским оружием (Kobold Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 39</p><hr class=\"docutils\"><p>Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его с арбалетом, легким клевцом, клевцом, двуручным клевцом и копьем, а так же с любым кобольдским оружием которому вы обучены.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-kobold-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ужасные силки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2391\">Vicious Snares</a>) / 13",
+            "name": "Ужасные силки",
+            "originalName": "Vicious Snares",
+            "level": 13,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла, <span class=\"card-link std std-ref\" data-id=\"feat-snare-crafting\">Создание силков (Snare Crafting) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 39</p><hr class=\"docutils\"><p>Вы научились тому, как создавать ловушки причиняющие сильные раны.\nВы наносите дополнительные 1d6 точного урона создаваемыми вами силками, которые наносят урон.\nОн увеличивается до 2d6 дополнительного точного урона если вы легенда Ремесла.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-kobold-vicious-snares",
+            "archetype": ""
+        },
+        {
+            "fullName": "Летающий вирмлин (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2392\">Wyrmling Flight</a>) / 17",
+            "name": "Летающий вирмлин",
+            "originalName": "Wyrmling Flight",
+            "level": 17,
+            "traits": [
+                "кобольд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kobold-hatchling-flight\">Полет детеныша (Hatchling Flight)  / 13</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 39</p><hr class=\"docutils\"><p>Ваши драконьи крылья подросли и достаточно сильны для полета.\nВы получаете Скорость полета, равную вашей Скорости, используя крылья для того, чтобы оставаться в воздухе.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-kobold-wyrmling-flight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дрессировщик зверей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1283\">Beast Trainer</a>) / 1",
+            "name": "Дрессировщик зверей",
+            "originalName": "Beast Trainer",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>У вас впечатляющая врожденная способность приручать свирепых зверей и командовать ими.\nВы становитесь обучены навыку Природы и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-train-animal\">Обучение животного (Train Animal) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-beast-trainer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Железные кулаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1284\">Iron Fists</a>) / 1",
+            "name": "Железные кулаки",
+            "originalName": "Iron Fists",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>Ваши кулаки выкованы битвой, ваша от природы жесткая кожа и плотные кости еще больше укрепились в результате конфликта.\nВаши безоружные атаки кулаками больше не имеют признака <span class=\"w-nonlethal\">несмертельное</span> и получают признак оружия <span class=\"w-shove\">толчок</span>.</p>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-iron-fists",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания орков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1285\">Orc Lore</a>) / 1",
+            "name": "Знания орков",
+            "originalName": "Orc Lore",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>Старейшины холда учили вас историям своего народа, рассказывали истории о великих физических подвигах и делились с вами трудностями, которые пережили ваши предки, чтобы вы могли передать эту мудрость будущим поколениям.\nВы становитесь обучены Атлетике и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям орков.</p>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-orc-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1286\">Tusks</a>) / 1",
+            "name": "Клыки",
+            "originalName": "Tusks",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>У вас особенно длинные, зазубренные клыки, идеально подходящие для отрывания мяса от костей.\nВы получаете безоружную атаку клыками, которая наносит 1d6 колющего урона.\nВаши клыки относятся к группе \"драка\", и имеют признаки <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переобучиться другой способности на эту.\nВы можете переобучиться этой способности на другую только с помощью радикальных мер, таких как отламывание или спиливание ваших клыков.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Спиливание или стачивание клыков не тратит дополнительное время при переобучении и является частью процесса.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-tusks",
+            "archetype": ""
+        },
+        {
+            "fullName": "Орочья маска войны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2415\">Orc Warmask</a>) / 1",
+            "name": "Орочья маска войны",
+            "originalName": "Orc Warmask",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 50</p><hr class=\"docutils\"><p>Вы раскрашиваете свое лицо, чтобы создать <em>маску войны</em>, инвестируемый магический предмет незначительной Массы, имеющий уровень предмета равный вашему уровню и использующийся как надеваемый (маска).\nОна обладает признаками <span class=\"t-divination\">прорицание</span> и магического обычая в зависимости от ее вида.\nНанесение или снятие вашей <em>маски войны</em> требует 1 минуты, однако вам не надо каждый раз <span class=\"card-link \">Инвестировать (Invest)</span> маску.\n<em>Маска войны</em> уникальная для вас и может обозначать ваш холд, достижения или веру.\nСоздавая свою маску, вы должны выбрать источник силы своей <em>маски войны</em> из представленных далее вариантов.\nЭтот источник определяет связанный с маской навык и магический обычай.\nКак только вы выбрали этот источник, его нельзя изменить.\nВы становитесь обучены связанному навыку, и получаете бонусную способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-dubious-knowledge\">Сомнительные знания (Dubious Knowledge) / 1</span>.\nВы можете потратить 1 час выполняя церемонию стоимостью 50 зм, чтобы сильнее настроить себя на <em>маску войны</em>.\nЕсли вы так делаете, то получаете бонус предмета +1 к связанному навыку всякий раз, когда надеваете <em>маску войны</em>.</p><ul class=\"simple\">\n<li><p><strong>Боги (The Gods)</strong>: Религия, сакральный обычай</p></li>\n<li><p><strong>Земля (The Land)</strong>: Природа, природный обычай</p></li>\n<li><p><strong>Магия (Magic)</strong>: Аркана, арканный обычай</p></li>\n<li><p><strong>Неизвестность (The Unknown)</strong>: Оккультизм, оккультный обычай</p></li>\n</ul>",
+            "src": "Lost Omens: Ancestry Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-orc-warmask",
+            "archetype": ""
+        },
+        {
+            "fullName": "Атлетическая мощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1287\">Athletic Might</a>) / 5",
+            "name": "Атлетическая мощь",
+            "originalName": "Athletic Might",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>Выживание во враждебной местности дало вам большой талант к мобильности.\nВсякий раз, когда при броске проверки Атлетики на <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> вы получаете успех, то вместо этого вы получаете крит.успех.</p>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-athletic-might",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровавые удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1288\">Bloody Blows</a>) / 5",
+            "name": "Кровавые удары",
+            "originalName": "Bloody Blows",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>Ваши смертельные безоружные атаки оставляют кровавые раны или вызывают сильное внутреннее кровотечение.\nКогда вы критически попадаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> используя безоружную атаку, которая не несмертельная, цель получает 1d4 продолжительного урона кровотечением.\nЭто может быть потому что вы получаете штраф для использования кулаков для смертельной атаки, или потому что у вас есть безоружная атака без признака <span class=\"w-nonlethal\">несмертельное</span> от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-iron-fists\">Железные кулаки (Iron Fists) / 1</span>, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-tusks\">Клыки (Tusks) / 1</span> или подобной способности.</p>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-bloody-blows",
+            "archetype": ""
+        },
+        {
+            "fullName": "Метка холда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1289\">Hold Mark</a>) / 5",
+            "name": "Метка холда",
+            "originalName": "Hold Mark",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 18</p><hr class=\"docutils\"><p>У вас есть шрамы или татуировки, свидетельствующие о доблести вашего сообщества.\nПри выборе этой способности, выберите один из вариантов представленных далее.\nКогда вы критически попадаете используя оружие выбранной группы, то вы применяете эффект критической специализации оружия.\nВы получаете большое клеймо или татуировку в виде выбранной эмблемы или аналогичного изображения (например, топор может быть медведем или другим символом свирепости, а щит может быть черепахой или другим символом, связанным с сильной защитой) и получаете перечисленные преимущества.</p><ul class=\"simple\">\n<li><p><strong>Топор</strong>: топор или клевец</p></li>\n<li><p><strong>Щит</strong>: молот или щит</p></li>\n<li><p><strong>Факел</strong>: бомба или нож</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 18",
+            "action": "",
+            "id": "ancestry-feat-orc-hold-mark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смерти вопреки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2416\">Defy Death</a>) / 5",
+            "name": "Смерти вопреки",
+            "originalName": "Defy Death",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 50</p><hr class=\"docutils\"><p>Вас особенно тяжело убить.\nКС вашей проверки восстановления равен 9 + ваше значение <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, либо если у вас есть общая способность <span class=\"card-link std std-ref\" data-id=\"feat-toughness\">Живучесть (Toughness) / 1</span>, то 8 + ваше значение <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.\nДополнительно, всякий раз, когда кто-то возвращает вас к жизни используя магию, которая обычно оставила бы вас ослабленным на неделю (как например, <span class=\"card-link std std-ref\" data-id=\"spell-r-raise-dead\">Вернуть к жизни (Raise Dead) / Закл. 6</span> или ритуал <span class=\"card-link \">Воскрешение (Resurrect) / Ритуал 5</span>), вы не страдаете от этого состояния.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-orc-defy-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маска мощи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2417\">Mask of Power</a>) / 5",
+            "name": "Маска мощи",
+            "originalName": "Mask of Power",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-warmask\">Орочья маска войны (Orc Warmask) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 50</p><hr class=\"docutils\"><p>Ваша <em>маска войны</em> обостряет связь с источником силы вашей маски.\nВо время своих ежедневных приготовлений, выберите:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-f-fear\">Страх (Fear) / Закл. 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-p-phantom-pain\">Фантомная боль (Phantom Pain) / Закл. 1</span></p></li>\n<li><p>или <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></p></li>\n</ul><p>До своих следующих ежедневных приготовлений, вы можете раз в день сотворять это заклинание, как врожденное заклинание 1-го уровня;\nобычай заклинания определен магическим обычаем, связанным с вашей <em>маской войны</em>.\nЧтобы применять <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, вы должны носить свою <em>маску войны</em>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-orc-mask-of-power",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маска отрицания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2418\">Mask of Rejection</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Маска отрицания",
+            "originalName": "Mask of Rejection",
+            "level": 5,
+            "traits": [
+                "удача",
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-warmask\">Орочья маска войны (Orc Warmask) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы проваливаете спасбросок против эффекта магического обычая как у вашей <em>маски войны</em></p><p><strong>Требования</strong>: Вы носите свою <em>маску войны</em></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>Ваша <em>маска войны</em> излучает раскаленную добела ярость, которая пытается испарить оскорбительную магию.\nВы перебрасываете спровоцировавшую проверку с бонусом обстоятельства +2, но должны использовать новый результат, даже если он хуже первого броска.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "реакция",
+            "id": "ancestry-feat-orc-mask-of-rejection",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кожа в шрамах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2419\">Scar-Thick Skin</a>) / 5",
+            "name": "Кожа в шрамах",
+            "originalName": "Scar-Thick Skin",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>Славные, многослойные шрамы покрывают и защищают большую часть вашего тела.\nВаш КС чистых проверок для завершения продолжительного урона кровотечением снижен с 15 до 10, либо с 10 до 5 после получения особенно подходящего содействия.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-orc-scar-thick-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безумие демонической Крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2761\">Demonblood Frenzy</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Безумие демонической Крови",
+            "originalName": "Demonblood Frenzy",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "орк"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: безоружная атака клыками</p><p><strong>Триггер</strong>: Вы успешно <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударили (Strike)</span> безоружной атакой клыками живое существо, имеющее признак <span class=\"t-fiend\">бес</span></p><p><strong>Частота</strong>: раз в минуту</p><p><strong>Доступ</strong>: этнос Матанджи</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 93</p><hr class=\"docutils\"><p>Одного вкуса бесовской крови достаточно, чтобы ваша кровь хлынула по венам сверхъестественной яростью.\nВы становитесь <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span> до конца вашего следующего хода, и можете использовать это дополнительное действие, чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> клыками, <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 93",
+            "action": "реакция",
+            "id": "ancestry-feat-orc-demonblood-frenzy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Барабаны смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1290\">Death's Drums</a>) / 9",
+            "name": "Барабаны смерти",
+            "originalName": "Death's Drums",
+            "level": 9,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 19</p><hr class=\"docutils\"><p>Ваша жизнь была потрачена на то, чтобы бросить вызов самой смерти, а близость к этому непримиримому противнику только заставляет ваше сердце биться сильнее.\nКогда вы получаете продолжительный урон или значение вашего состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> равно 1 или больше, вы получаете бонус обстоятельства +2 к спасброскам Стойкости.</p>",
+            "src": "Advanced Player's Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-orc-deaths-drums",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неумирающая свирепость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1291\">Undying Ferocity</a>) / 9",
+            "name": "Неумирающая свирепость",
+            "originalName": "Undying Ferocity",
+            "level": 9,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 19</p><hr class=\"docutils\"><p>Вы сопротивляетесь лапам смерти со сверхъестественной силой.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span>, то получаете временные ОЗ равные вашему уровню.</p>",
+            "src": "Advanced Player's Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-orc-undying-ferocity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Драконья хватка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2420\">Dragon Grip</a>) / 9",
+            "name": "Драконья хватка",
+            "originalName": "Dragon Grip",
+            "level": 9,
+            "traits": [
+                "необычный",
+                "орк"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-beast-trainer\">Дрессировщик зверей (Beast Trainer) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>У вашего холда есть уникальная связь с драконами.\nВы получаете бонус обстоятельства +2 когда пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на существо с признаком <span class=\"t-dragon\">дракон</span>.\nВы получаете доступ к зверю-компаньону <span class=\"card-link \">Ездовой дрейк (Riding Drake)</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-orc-dragon-grip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маска боли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2421\">Mask of Pain</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Маска боли",
+            "originalName": "Mask of Pain",
+            "level": 9,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт запугивания, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-warmask\">Орочья маска войны (Orc Warmask) / 1</span></p><p><strong>Триггер</strong>: Вы получаете успех проверки <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span></p><p><strong>Требования</strong>: Вы носите свою <em>маску войны</em></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>Ваша маска превратилась в проявление вашей боли, которую вы можете выпустить.\nСущество, которое вы успешно <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовали (Demoralized)</span> получает 2d6 ментального урона, или если вы легенда Запугивания, то 4d6 ментального урона.\nПосле этого, цель временно иммунна к дополнительному урону от \"Маски боли\" на 24 часа.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "реакция",
+            "id": "ancestry-feat-orc-mask-of-pain",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свирепые чудовища (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1292\">Ferocious Beasts</a>) / 13",
+            "name": "Свирепые чудовища",
+            "originalName": "Ferocious Beasts",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-beast-trainer\">Дрессировщик зверей (Beast Trainer) / 1</span> или зверь-компаньон, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 19</p><hr class=\"docutils\"><p>С древних времен самые могучие укротители орков пробуждали истинный боевой дух своих зверей-компаньонов, поя их напитком, содержащим собственную кровь орка.\nЗвери-компаньоны или привязанные животные, которые у вас есть, получают способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span>, и получают реакцию, которую они могут использовать только для \"Орочей свирепости\".\nЕсли у вас есть способность родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-undying-ferocity\">Неумирающая свирепость (Undying Ferocity) / 9</span>, то все звери-компаньоны или привязанные животные, которые у вас есть, так же получают преимущества этой способности, когда используют реакцию \"Орочей свирепости\".</p>",
+            "src": "Advanced Player's Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-orc-ferocious-beasts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пожиратель заклинаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1293\">Spell Devourer</a>) / 13",
+            "name": "Пожиратель заклинаний",
+            "originalName": "Spell Devourer",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-pervasive-superstition\">Распространенное суеверие (Pervasive Superstition) / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 19</p><hr class=\"docutils\"><p>Вы не просто сопротивляетесь магии, вы пожираете ее.\nВсякий раз, когда вы успешно совершаете спасбросок против заклинания или магического эффекта, вы получаете временные ОЗ, равные удвоенному уровню заклинания, или просто уровню, если магический эффект не заклинание.\nЭти временные ОЗ длятся до конца вашего следующего хода.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Временные ОЗ применяются как только персонаж успешно совершил спасбросок.\nДля эффекта, который наносит урон ОЗ при успехе, как например <em>огненный шар</em>, это значит, что персонаж получает временные ОЗ до получения урона.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 19",
+            "action": "",
+            "id": "ancestry-feat-orc-spell-devourer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов жизненной силы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2422\">Lifeblood's Call</a>) / 13",
+            "name": "Зов жизненной силы",
+            "originalName": "Lifeblood's Call",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>Стремление выжить и продолжить борьбу находит отклик глубоко внутри вас.\nВы получаете бонус обстоятельства к броскам атак вашими <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span> ближнего боя, равный удвоенной сумме ваших состояний <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> и <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> (до максимального бонуса обстоятельства +8 к урону) всякий раз, когда у вас есть одно или оба состояния.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-orc-lifebloods-call",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маска страха (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2423\">Mask of Fear</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Маска страха",
+            "originalName": "Mask of Fear",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-warmask\">Орочья маска войны (Orc Warmask) / 1</span></p><p><strong>Триггер</strong>: Вы начинаете свой ход с состоянием <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span></p><p><strong>Требования</strong>: Вы носите свою <em>маску войны</em></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 51</p><hr class=\"docutils\"><p>Ваша <em>маска войны</em> обгорает с вашего лица, освобождая вас от страхов.\nВы убираете состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>.\nВаша <em>маска войны</em> уничтожена, и вы не можете заново применить ее до своих следующих ежедневных приготовлений.</p><p><strong>Особенность</strong>: Вы можете использовать это свободное действие даже если у вас есть состояние связанное с состоянием <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>, которое обычно не дает вам использовать свободные действия, как например \"<span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегство</span> пока <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>\" или \"<span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span> пока <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>\".</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOAG-2: </span>В особенностях все свободное действие упоминалось как \"реакция\".</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 51",
+            "action": "свободное действие",
+            "id": "ancestry-feat-orc-mask-of-fear",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неистовая свирепость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1294\">Rampaging Ferocity</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Неистовая свирепость",
+            "originalName": "Rampaging Ferocity",
+            "level": 17,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><p><strong>Триггер</strong>: Вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 19</p><hr class=\"docutils\"><p>Вы злобно набрасываетесь на врага, даже когда боретесь со смертью.\nСделайте один <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли этот Удар опустит ОЗ врага до 0, то эта активация <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span> не считается к ее количеству использований в день.</p>",
+            "src": "Advanced Player's Guide pg. 19",
+            "action": "свободное действие",
+            "id": "ancestry-feat-orc-rampaging-ferocity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защечные мешки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1295\">Cheek Pouches</a>) / 1",
+            "name": "Защечные мешки",
+            "originalName": "Cheek Pouches",
+            "level": 1,
+            "traits": [
+                "крысолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 22</p><hr class=\"docutils\"><p>Ваши щеки эластичны, и вы можете хранить вплоть до 4 предметов легкой массы или меньше в этих защечных мешочках.\nНи один из этих предметов не может иметь длину более 1 фута (~30.48 см).\nПока у вас есть хотя бы один предмет в защечных мешочках, вашу речь будет заметно трудно понять.\nПомещение туда предмета или его вытаскивание, это действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nВы можете освободить свой рот одним действием, в результате чего все, что у вас было в защечных мешках вывалится на землю в вашем пространстве.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Если не указано иное, большинство волшебных палочек и свитков имеют длину менее 1 фута и могут поместиться в защечные мешочки.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-ysoki-cheek-pouches",
+            "archetype": ""
+        },
+        {
+            "fullName": "Барахольщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1296\">Pack Rat</a>) / 1",
+            "name": "Барахольщик",
+            "originalName": "Pack Rat",
+            "level": 1,
+            "traits": [
+                "крысолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 22</p><hr class=\"docutils\"><p>Годы сборов для путешествий научили вас, как втиснуть огромные количества вещей в небольшое пространство.\nВы можете поместить дополнительные 50% указанной емкости в обычные контейнеры или транспортные средства.\nНапример, вы можете уместить 6 масс в рюкзак или 12 масс в сундук.\nЭто не изменяет массу предметов, или не меняет то, сколько вы можете хранить в магическом или межпространственном хранилище, таком как <span class=\"card-link \">Бездонная сумка (Bag of Holding) / Предмет 4+</span>.</p>",
+            "src": "Advanced Player's Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-ysoki-pack-rat",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крыса-фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1297\">Rat Familiar</a>) / 1",
+            "name": "Крыса-фамильяр",
+            "originalName": "Rat Familiar",
+            "level": 1,
+            "traits": [
+                "крысолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 22</p><hr class=\"docutils\"><p>У вас есть домашняя крыса, которая волшебным образом связана с вами.\nВы получаете фамильяра (см. <span class=\"card-link \">Фамильяры (Familiars)</span>) и он должен быть крысой.\nОн все еще получает преимущества возможностей фамильяра, но его основная форма остается крысой.</p>",
+            "src": "Advanced Player's Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-ysoki-rat-familiar",
+            "archetype": ""
+        }
+    ]
+}

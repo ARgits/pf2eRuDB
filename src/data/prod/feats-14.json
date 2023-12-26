@@ -1,0 +1,1582 @@
+{
+    "feats": [
+        {
+            "fullName": "Нестись в атаку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1605\">Barreling Charge (Fighter)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Нестись в атаку",
+            "originalName": "Barreling Charge",
+            "level": 4,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы несетесь вперед, расталкивая врагов в стороны, чтобы добраться до своего противника.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> пытаясь пройти через пространства ваших врагов и совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nСделайте бросок для проверки Атлетики и сравните результат с КС Стойкости каждого существа, через чье пространство вы пытаетесь пройти во время своего Перемещения, проходя через него в случае успеха, но при провале заканчивая свое движение до вхождения в его пространство.\nВы можете использовать \"Нестись в атаку\", чтобы <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> вместо Перемещения, пока у вас есть соответствующий вид передвижения.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-barreling-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выстрел с отскоком (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1724\">Parting Shot</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Выстрел с отскоком",
+            "originalName": "Parting Shot",
+            "level": 4,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным дистанционным оружием или дистанционным оружием с перезарядкой 0</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы отпрыгиваете назад и делаете быстрый выстрел, который застает вашего врага врасплох.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> и потом совершаете дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> с требуемым оружием.\nВаша цель <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> для этой атаки.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-parting-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эверстэндский удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1088\">Everstand Strike (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Эверстэндский удар",
+            "originalName": "Everstand Strike",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-everstand-stance\">Эверстэндская стойка (Everstand Stance (Fighter))  / 1</span></p><p><strong>Требования</strong>: Вы владеете щитом двумя руками</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 90</p><hr class=\"docutils\"><p>Ваш последующий удар позволяет вам воспользоваться возможностью и поднять щит.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> щитом, которым владеете двумя руками.\nЕсли Удар попадает и наносит урон, то вы еще <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднимаете свой щит (Raise your Shield)</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 90",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-everstand-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тренировка с продвинутым оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=378\">Advanced Weapon Training</a>) / 6",
+            "name": "Тренировка с продвинутым оружием",
+            "originalName": "Advanced Weapon Training",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились искусству владения продвинутым оружием.\nВыберите группу оружия.\nВы получаете мастерство для всего продвинутого оружия в этой группе, как если бы оно было воинским оружием этой группы.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-advanced-weapon-training",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выгодное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=379\">Advantageous Assault</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Выгодное нападение",
+            "originalName": "Advantageous Assault",
+            "level": 6,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Когда движение противника скомпрометировано, вы наносите более смертельный удар.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по существу, которое имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span>.\nДля этого Удара вы получаете бонус обстоятельства к урону, равный количеству костей урона оружия, или, если вы владеете оружием двумя руками, то такому же количеству + 2.\nУдар получает следующий эффект провала.</p><p><strong>Провал</strong>: Вы наносите цели урон, равный количеству костей урона оружия, или, если вы владеете оружием двумя руками, то такому же количеству + 2.\nЭтот урон имеет тот же тип урона, что и оружие.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-advantageous-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разоружающая стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=380\">Disarming Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Разоружающая стойка",
+            "originalName": "Disarming Stance",
+            "level": 6,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и ваша другая рука(и) свободна</p><hr class=\"docutils\"><p>Вы принимаете фехтовальную стойку, которая улучшает ваш контроль над оружием.\nКогда вы в этой стойке, то получаете бонус обстоятельства +1 к проверкам Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> и бонус обстоятельства +2 к вашему КС Рефлекса, когда защищаетесь от попыток Разоружить вас самих.\nЕще вы можете попытаться Разоружить существ, которые вплоть до двух размеров больше вас.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-disarming-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростное сосредоточение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=381\">Furious Focus</a>) / 6",
+            "name": "Яростное сосредоточение",
+            "originalName": "Furious Focus",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-power-attack\">Мощная атака (Power Attack)  / 1</span></p><hr class=\"docutils\"><p>Вы научились сохранять равновесие, даже когда яростно замахиваетесь.\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-power-attack\">Мощная атака (Power Attack)  / 1</span> оружием ближнего боя, которым владеете двумя руками, то для штрафа множественной атаки, это считается как одна атака, вместо двух.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-furious-focus",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отражение защитника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=382\">Guardian's Deflection (Fighter)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Отражение защитника",
+            "originalName": "Guardian's Deflection",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: По союзнику в пределах вашей досягаемости ближнего боя попали атакой, вы можете видеть атакующего, а для союзника, получающего бонус обстоятельства +2 к КБ, это превратит крит.попадание в обычное попадание или превратит обычное попадание в промах</p><p><strong>Требования</strong>: Вы владеете 1 одноручным оружие ближнего боя и ваша другая рука(и) свободна</p><hr class=\"docutils\"><p>Вы используете свое оружие, чтобы отразить атаку по вашему союзнику, давая ему бонус обстоятельства +2 КБ против спровоцировавшей атаки.\nЭто делает спровоцировавшее крит.попадание простым попаданием, или делает простое попадание промахом.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-guardians-deflection",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отражающий щит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=383\">Reflexive Shield</a>) / 6",
+            "name": "Отражающий щит",
+            "originalName": "Reflexive Shield",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете использовать свой щит, чтобы отражать худшие эффекты по области и другой урон.\nКогда вы использовали <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>, то получаете бонус обстоятельства щита к спасброскам Рефлекса.\nЕсли у вас есть реакция <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, то урон, получаемый в результате спасброска Рефлекса, может считаться триггером этой реакции, даже если это не физический урон.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-reflexive-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раскрывающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=384\">Revealing Stab</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Раскрывающий удар",
+            "originalName": "Revealing Stab",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете оружием ближнего боя, которое наносит колющий урон</p><hr class=\"docutils\"><p>Вы вонзаете свое колющее оружие в неприметного противника, открывая его местоположение своим союзникам.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> требуемым оружием ближнего боя.\nВам не надо делать чистую проверку, чтобы попасть по существу с состоянием <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, а для попадания в существо с состоянием <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> надо сделать чистую проверку лишь с КС 5.\nЕсли вы попадаете и наносите урон, то можете вонзить требуемое оружие в материальную цель (не <span class=\"t-incorporeal\">бестелесную</span>), раскрывая ее текущее местоположение.\nВы <span class=\"card-link std std-ref\" data-id=\"action-release\">Отпускаете (Release)</span> оружие и оно торчит из цели.\nЕсли цель <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыта</span>, то, чтобы попасть по ней, другим существам не надо проходить чистую проверку.\nЕсли цель <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятана</span>, то, чтобы попасть по ней, другим существам надо пройти чистую проверку лишь с КС 5.\nЧтобы получить любые из этих преимуществ, существам надо быть способными видеть ваше оружие, и цель не может стать <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженной</span> ни для кого, кто видит ваше оружие.\nЕсли цель <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидима</span>, оружие остается видимым пока воткнуто.</p><p>Это преимущество длится пока оружие не убрано из существа.\nСущество находящееся рядом, или сама цель, могут вытащить оружие 2 действиями <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-revealing-stab",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поколебать защиту (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=385\">Shatter Defenses</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Поколебать защиту",
+            "originalName": "Shatter Defenses",
+            "level": 6,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"c-frightened\">Напуганное</span> существо находится в вашей досягаемости ближнего боя</p><hr class=\"docutils\"><p>Ваше нападение использует страх противника.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по существу с состоянием <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>.\nЕсли вы попадаете и наносите урон, то цель становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> пока не кончится состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>.\nЕсли когда вы нанесли цели урон этим ударом, она уже была для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span>, то до начала вашего следующего хода она не может снизить значение своего состояния <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> ниже 1.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-shatter-defenses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Щит стража (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=229\">Shield Warden (Fighter)</a>) / 6",
+            "name": "Щит стража",
+            "originalName": "Shield Warden",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Блок щитом</p><hr class=\"docutils\"><p>Вы используете свой щит, чтобы защитить своих союзников.\nКогда у вас поднят щит, вы можете использовать свою реакцию <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> когда совершена атака по вашему союзнику, находящемуся рядом.\nЕсли вы это делаете, то щит защищает союзника от получения урона, а не вас, далее следуя обычным правилам \"Блока щитом\".</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-shield-warden",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тройной выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=387\">Triple Shot</a>) / 6",
+            "name": "Тройной выстрел",
+            "originalName": "Triple Shot",
+            "level": 6,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-shot\">Двойной выстрел (Double Shot)  / 4</span></p><hr class=\"docutils\"><p>Вы можете быстро выстрелить несколько раз, при этом сохраняя контроль.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-shot\">Двойной выстрел (Double Shot)  / 4</span>, то можете сделать атаки по одной и той же цели.\nВы можете добавить к <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-shot\">Двойной выстрел (Double Shot)  / 4</span> дополнительное действие, чтобы сделать 3 дистанционные атаки вместо 2.\nЕсли вы так делаете, то штраф будет -4.\nВсе атаки считаются к вашему штрафу множественной атаки, но он не увеличивается пока вы не сделаете их все.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-triple-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ошеломляющий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1725\">Dazing Blow</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Ошеломляющий удар",
+            "originalName": "Dazing Blow",
+            "level": 6,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченное</span> существо</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы бьете удерживаемого врага, надеясь ошеломить его.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по существу, которое <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачено</span> вами.\nУрон оружием от этого Удара является дробящим.\nЕсли Удар попадает, существо должно совершить спасбросок Стойкости против вашего КС класса; это эффект с признаком <span class=\"t-incapacitation\">недееспособность</span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо.</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлено 1</span>.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлено 2</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлено 3</span>.</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-dazing-blow",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рикошетящая стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1726\">Ricochet Stance (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6 ур.",
+            "name": "Рикошетящая стойка",
+            "originalName": "Ricochet Stance",
+            "level": 6,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы принимаете стойку, чтобы брошенное оружие отскочило к вам.\nПока вы в этой стойке, любое <span class=\"w-thrown\">метательное</span> оружие, которое вы используете для дистанционного <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, чтобы нанести дробящий или рубящий урон, мгновенно возвращаются в вашу руку, что позволяет вам использовать его для дополнительных Ударов.\nВы должны быть в пределах шага дистанции указанного оружием и иметь свободную руку, чтобы поймать оружие.\nЕсли вы совершаете дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> <span class=\"w-thrown\">метательным</span> оружием за пределы его указанного шага дистанции, то оно возвращается обратно к вам на расстояние, равное его указанному шагу дистанции и падает на землю.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-ricochet-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бой вслепую (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=388\">Blind-Fight (Fighter)</a>) / 8",
+            "name": "Бой вслепую",
+            "originalName": "Blind-Fight",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Восприятия</p><hr class=\"docutils\"><p>Ваши боевые инстинкты делают вас более осведомленными о скрытых и невидимых противниках.\nВам не надо делать чистую проверку, чтобы целиться в существ с состоянием <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>.\nВы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> для существ, которые имеют для вас состояние <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> (если только вы не застигнуты врасплох для них по другим причинам, нежели только состояние <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span>), и чтобы целиться в существо с состоянием <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span>, вам нужно сделать успешную чистую проверку лишь с КС 5.</p><p>Пока вы находитесь рядом с <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span> существом вашего уровня или ниже, то для вас оно всего лишь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятано</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-blind-fight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дуэльная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=389\">Dueling Riposte</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Дуэльная контратака",
+            "originalName": "Dueling Riposte",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span></p><p><strong>Триггер</strong>: Существо в пределах вашей досягаемости критически проваливает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по вам</p><p><strong>Требования</strong>: Вы получаете преимущество от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span></p><hr class=\"docutils\"><p>Вы делаете ответный удар по промахнувшемуся противнику.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя или попытайтесь <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> спровоцировавшее существо.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-dueling-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сбивающая атака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=390\">Felling Strike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Сбивающая атака",
+            "originalName": "Felling Strike",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<hr class=\"docutils\"><p>Ваша атака может заставить опуститься на землю летающего противника.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЕсли он попадает и наносит урон летающей цели, она падает с высоты вплоть до 120 футов.\nПадение происходит плавно, так что если цель ударится о землю, то не получает урона от падения.\nЕсли атака была критическим попаданием, то до конца вашего следующего хода цель не может использовать <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, левитировать или другим способом оторваться от земли.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-felling-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная меткость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=391\">Incredible Aim</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Невероятная меткость",
+            "originalName": "Incredible Aim",
+            "level": 8,
+            "traits": [
+                "концентрация",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Потратив мгновение на то, чтобы сосредоточиться, вы можете гарантировать, что ваша атака будет точнее.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> дистанционным оружием.\nПри этом Ударе, вы получаете бонус обстоятельства +2 к броску атаки и игнорируете состояние цели <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-incredible-aim",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подвижная стрелковая стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=392\">Mobile Shot Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Подвижная стрелковая стойка",
+            "originalName": "Mobile Shot Stance",
+            "level": 8,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши выстрелы становятся легкими и смертельными.\nПока вы в этой стойке, ваши дистанционные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> не провоцируют <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span> или другие реакции, которые провоцируются дистанционными атаками.</p><p>Если у вас есть <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>, вы можете использовать ее с заряженным дистанционным оружием, которым владеете.\nДля этого, спровоцировавшее существо должно быть в пределах 5 футов от вас.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-mobile-shot-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сдвигающее нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=393\">Positioning Assault</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Сдвигающее нападение",
+            "originalName": "Positioning Assault",
+            "level": 8,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двуручным оружием ближнего боя и цель в вашей досягаемости</p><hr class=\"docutils\"><p>Нанося сокрушительные удары, вы заставляете своего противника сдвинуться.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> требуемым оружием.\nЕсли вы попадаете, то сдвигаете цель на 5 футов, на место в пределах вашей досягаемости.\nЭто следует правилам для <span class=\"card-link \">Принудительное передвижение (Forced Movement)</span>.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-positioning-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый блок щитом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=394\">Quick Shield Block (Fighter)</a>) / 8",
+            "name": "Быстрый блок щитом",
+            "originalName": "Quick Shield Block",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span></p><hr class=\"docutils\"><p>Вы можете не задумываясь подставить свой щит на пути удара.\nВ начале каждого своего хода, вы получаете дополнительную реакцию, которую можете использовать только для <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r4: </span>Из предварительного условия убрана способность <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-reactive-shield\">Защитная реакция (Reactive Shield)  / 1</span>.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-quick-shield-block",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внезапный прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=155\">Sudden Leap (Fighter)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Внезапный прыжок",
+            "originalName": "Sudden Leap",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете впечатляющий прыжок и замахиваетесь в полете.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> и совершите 1 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя в любой момент прыжка.\nСразу же после Удара, если находитесь в воздухе то падаете на землю, даже если вы не достигли максимальной дистанции прыжка.\nЕсли расстояние, которое вы падаете, не превышает высоты вашего прыжка, то вы не получаете урона и приземляетесь на ноги.</p><p>Когда во время \"Внезапного прыжка\" вы пытаетесь сделать <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>, определяйте КС используя КС для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> и увеличивайте вашу максимальную дистанцию до удвоенной Скорости.</p><p><strong>Особенность</strong>: Если у вас есть <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-felling-strike\">Сбивающая атака (Felling Strike)  / 8</span>, то можете потратить 3 действия на \"Внезапный прыжок\" и использовать <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-felling-strike\">Сбивающая атака (Felling Strike)  / 8</span> вместо обычного <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-sudden-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дезориентирующая возможность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1727\">Disorienting Opening</a>) / 8",
+            "name": "Дезориентирующая возможность",
+            "originalName": "Disorienting Opening",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы используете возможности для атаки своих врагов, чтобы сделать их еще уязвимее.\nКогда вы попадаете по существу во время использования <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>, это существо становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "",
+            "id": "class-feat-fighter-disorienting-opening",
+            "archetype": ""
+        },
+        {
+            "fullName": "Потрясающая храбрость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1728\">Resounding Bravery</a>) / 8",
+            "name": "Потрясающая храбрость",
+            "originalName": "Resounding Bravery",
+            "level": 8,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Храбрость (Bravery) / 3-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 127</p><hr class=\"docutils\"><p>Даже ваши страхи подпитывают ваш боевой дух.\nКогда вы крит.успешно проходите спасбросок Воли против умения противника, то на 1 минуту получаете бонус состояния +1 к спасброскам и количество временных ОЗ, равное половине вашего уровня.\nЭти преимущества удваиваются если вы крит.успешно прошли спасбросок против эффекта <span class=\"t-fear\">страха</span>.</p>",
+            "src": "Advanced Player's Guide pg. 127",
+            "action": "",
+            "id": "class-feat-fighter-resounding-bravery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойка непроходимой стены (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1091\">Impassable Wall Stance (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Стойка непроходимой стены",
+            "originalName": "Impassable Wall Stance",
+            "level": 8,
+            "traits": [
+                "необычный",
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Персонаж является членом <span class=\"card-link \">Рыцарей Ластволла</span></p><p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 90</p><hr class=\"docutils\"><p>Вы отказываетесь пропускать врагов мимо своей защиты.\nПока вы в этой стойке, то когда критически попадаете с помощью  <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span> спровоцированной действием <span class=\"t-move\">движения</span>, то вы прерываете это действие.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Добавлен признак \"стойка\".</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 90",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-impassable-wall-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Грация скорости (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=396\">Agile Grace</a>) / 10",
+            "name": "Грация скорости",
+            "originalName": "Agile Grace",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши грациозные движения с быстрым оружием не идут ни в какое сравнение.\nВаш штраф множественной атаки с оружием и безоружными атаками, имеющими признак <span class=\"w-agile\">быстрое</span>, становится -3 для второй атаки и -6 для последующих атак (вместо -4 и -8).</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-agile-grace",
+            "archetype": ""
+        },
+        {
+            "fullName": "Уверенный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=397\">Certain Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Уверенный удар",
+            "originalName": "Certain Strike",
+            "level": 10,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Даже когда вы не попали точно, то можете провести скользящий удар.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nОн получает следующий эффект провала.</p><p><strong>Провал</strong>: Ваша атака наносит такое же количество урона, какое бы она сделала при попадании, за исключением всех костей урона.\n(В дополнение к костям урона оружия, это так же убирает кости урона от рун оружия, заклинаний и специальных умений).</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-certain-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевые рефлексы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=398\">Combat Reflexes</a>) / 10",
+            "name": "Боевые рефлексы",
+            "originalName": "Combat Reflexes",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы особенно быстро наказываете врагов, которые оставляют вам такую возможность.\nВ начале каждого вашего хода, когда вы восстанавливаете свои действия, вы получаете дополнительную реакцию, которую можно потратить только на <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-combat-reflexes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ослабляющий выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=399\">Debilitating Shot</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Ослабляющий выстрел",
+            "originalName": "Debilitating Shot",
+            "level": 10,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Целясь в слабое место, вы мешаете противнику точным выстрелом.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> дистанционным оружием.\nЕсли он попадает и наносит урон, то цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен 1</span> до конца своего следующего хода.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-debilitating-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разоружающее движение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=400\">Disarming Twist</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Разоружающее движение",
+            "originalName": "Disarming Twist",
+            "level": 10,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и другая рука(и) свободна</p><hr class=\"docutils\"><p>После того, как ваша начальная атака смещает защиту противника, последующая атака вырывает оружие из его рук.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя требуемым оружием.\nВ дополнение к его другим эффектам, этот Удар получает успешные и крит.успешные эффекты действия <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>.\nЕще, этот Удар имеет следующий эффект провала.</p><p><strong>Провал</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> до конца вашего текущего хода.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-disarming-twist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прерывающая стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=401\">Disruptive Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Прерывающая стойка",
+            "originalName": "Disruptive Stance",
+            "level": 10,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Малейшее отвлечение внимания может спровоцировать ваш гнев, и вы готовы сорвать действия врагов.\nПока вы находитесь в этой стойке, то можете использовать <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span> когда существо в вашей досягаемости использует действие <span class=\"t-concentrate\">концентрации</span>, в дополнение к действиям <span class=\"t-move\">движения</span> и <span class=\"t-manipulate\">воздействия</span>.\nБолее того, вы прерываете спровоцировавшее действие <span class=\"t-manipulate\">воздействия</span> или <span class=\"t-concentrate\">концентрации</span> если ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попал (а не только при крит.попадании).</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-disruptive-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Страшный громила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=402\">Fearsome Brute</a>) / 10",
+            "name": "Страшный громила",
+            "originalName": "Fearsome Brute",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Страх делает ваших врагов слабее и уязвимее для ваших атак.\nВы получаете бонус обстоятельства к броскам урона, для <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударов (Strikes)</span> по <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуганным</span> существам.\nБонус равен удвоенному значению состояния <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> у существа.</p><p>Если вы мастер Запугивания, то увеличиваете этот бонус до утроенного значения.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-fearsome-brute",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенный нокдаун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=403\">Improved Knockdown</a>) / 10",
+            "name": "Улучшенный нокдаун",
+            "originalName": "Improved Knockdown",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-knockdown\">Нокдаун (Knockdown)  / 4</span></p><hr class=\"docutils\"><p>Вы можете сбить противника на землю одним ударом.\nКогда используете <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-knockdown\">Нокдаун (Knockdown)  / 4</span>, то вместо совершения <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> а потом <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>, вы можете совершить один Удар.\nЕсли вы так делаете и Удар попадает, то вместо броска проверки вашей попытки Опрокидывания, вы автоматически применяете крит.успешный эффект Опрокидывания.\nЕсли при Ударе вы использовали двуручное оружие ближнего боя, то для урона от критического Опрокидывания можете использовать размер кости урона оружия, вместо обычного размера кости урона для этого действия.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r3: </span>Уточнено, что при попадании Удара, пропускается проверка Опрокидывания и сразу применяется крит.успешный эффект.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-improved-knockdown",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зеркальный щит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=404\">Mirror Shield</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Зеркальный щит",
+            "originalName": "Mirror Shield",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Противник, целясь в вас сотворяемым заклинанием, крит.промахивается атакой заклинанием по вашему КБ</p><p><strong>Требования</strong>: У вас поднят щит</p><hr class=\"docutils\"><p>Вы отражаете заклинание обратно в спровоцировавшего противника.\nСделайте дистанционную атаку против спровоцировавшего существа, используя ваш наилучший уровень мастерства дистанционного оружия.\nЕсли вы можете сотворять заклинания, то вместо этого можете сделать атаку заклинанием.\nЕсли вы преуспели, то противник получает эффекты успешной атаки своего заклинания (или эффекты крит.успеха, если ваш бросок атаки был крит.успехом).</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-mirror-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=523\">Twin Riposte (Fighter)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Двойная контратака",
+            "originalName": "Twin Riposte",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в вашей досягаемости крит.проваливает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по вам</p><p><strong>Требования</strong>: Вы получаете преимущество от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-parry\">Парное парирование (Twin Parry (Fighter))  / 4</span></p><hr class=\"docutils\"><p>Умелое парирование одним оружием оставляет вашего противника открытым для атаки другим оружием.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя или используйте <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> против спровоцировавшего оппонента.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-twin-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрубить в полете (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1729\">Cut from the Air</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Разрубить в полете",
+            "originalName": "Cut from the Air",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы являетесь целью физического дистанционного <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span></p><p><strong>Требования</strong>: Вы знаете об атаке, не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> против нее, и либо имеете свободную руку, либо владеете оружием ближнего боя</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 127</p><hr class=\"docutils\"><p>Вы можете отбивать в сторону дистанционные атаки.\nВы получаете бонус обстоятельства +4 к КБ против спровоцировавшей атаки.\nЕсли при этом атака промазывает, то вы сбиваете ее или разрубаете в полете.</p>",
+            "src": "Advanced Player's Guide pg. 127",
+            "action": "реакция",
+            "id": "class-feat-fighter-cut-from-the-air",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непреодолимая атака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1619\">Overpowering Charge (Fighter)</a>) / 10",
+            "name": "Непреодолимая атака",
+            "originalName": "Overpowering Charge",
+            "level": 10,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-barreling-charge\">Нестись в атаку (Barreling Charge (Fighter))  / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 110</p><hr class=\"docutils\"><p>Вы топчете своих врагов, когда пробегаете мимо них.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-barreling-charge\">Нестись в атаку (Barreling Charge (Fighter))  / 4</span> и успешно двигаетесь через пространство существа, оно получает дробящий урон, равный вашему модификатору Силы.\nПри крит.успехе существо получает двойной урон и становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> до конца вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 110",
+            "action": "",
+            "id": "class-feat-fighter-overpowering-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Брутальное окончание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=406\">Brutal Finish</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Брутальное окончание",
+            "originalName": "Brutal Finish",
+            "level": 12,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы двумя руками владеете оружием ближнего боя</p><hr class=\"docutils\"><p>Ваш последний удар может оказать влияние, даже если он отскочит от защиты противника.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> требуемым оружием.\nПосле Удара ваш ход заканчивается.\nУдар наносит 1 дополнительную кость урона оружия, или 2 дополнительных кости оружия если вы хотя бы 18-го уровня.\nЕще Удар получает следующий эффект провала.</p><p><strong>Провал</strong>: Вы наносите урон равный 1 кости урона требуемого оружия.\nУвеличьте его до 2 костей, если вы хотя бы 18-го уровня.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-brutal-finish",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дуэльный танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=407\">Dueling Dance (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Дуэльный танец",
+            "originalName": "Dueling Dance",
+            "level": 12,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span></p><p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и ваша другая рука(и) свободна</p><hr class=\"docutils\"><p>Используя вашу свободную руку для опоры и равновесия, вы одновременно атакуете и защищаетесь оружием.\nКогда вы в этой стойке, то постоянно получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-dueling-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Швыряющее отталкивание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=408\">Flinging Shove</a>) / 12",
+            "name": "Швыряющее отталкивание",
+            "originalName": "Flinging Shove",
+            "level": 12,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-aggressive-block\">Агрессивное блокирование (Aggressive Block)  / 2</span> или <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-brutish-shove\">Грубый толчок (Brutish Shove)  / 2</span></p><hr class=\"docutils\"><p>Увеличьте дистанцию на которую вы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкаете (Shove)</span> вашего противника с помощью <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-aggressive-block\">Агрессивное блокирование (Aggressive Block)  / 2</span> или <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-brutish-shove\">Грубый толчок (Brutish Shove)  / 2</span> до 10 футов при успехе или 20 футов при крит.успехе.\nПри использовании <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-aggressive-block\">Агрессивное блокирование (Aggressive Block)  / 2</span> <strong>вы сами</strong> можете выбирать Оттолкнуть ли цель, или она будет <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span>.\nПри использовании <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-brutish-shove\">Грубый толчок (Brutish Shove)  / 2</span>, при провале вы еще <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкаете (Shove)</span> цель на 5 футов.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-flinging-shove",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенная дуэльная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=409\">Improved Dueling Riposte</a>) / 12",
+            "name": "Улучшенная дуэльная контратака",
+            "originalName": "Improved Dueling Riposte",
+            "level": 12,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-riposte\">Дуэльная контратака (Dueling Riposte)  / 8</span></p><hr class=\"docutils\"><p>Ваше оружие кружится и бьет, поражая противников всякий раз, когда представляется такая возможность.\nВ начале каждого своего хода, вы получаете дополнительную реакцию, которую можете использовать только для <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-riposte\">Дуэльная контратака (Dueling Riposte)  / 8</span>.\nВы можете использовать эту дополнительную реакцию даже, если вы не получаете преимущество от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-improved-dueling-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятный рикошет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=410\">Incredible Ricochet</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Невероятный рикошет",
+            "originalName": "Incredible Ricochet",
+            "level": 12,
+            "traits": [
+                "натиск",
+                "концентрация",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-incredible-aim\">Невероятная меткость (Incredible Aim)  / 8</span></p><hr class=\"docutils\"><p>После того, как ваш первый выстрел выделяет позицию вашего противника, вы делаете другой, который рикошетит вокруг препятствий и безошибочно попадает.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> дистанционным оружием по существу, которого вы ранее атаковали в этом ходу.\nВы игнорируете состояние цели <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> и все укрытия.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Второе предложение теперь указывает о необходимо атаковать существо, в которого уже стреляли в этом ходу.</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-incredible-ricochet",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удлиняющая стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=411\">Lunging Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Удлиняющая стойка",
+            "originalName": "Lunging Stance",
+            "level": 12,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>, <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-lunge\">Выпад (Lunge)  / 2</span></p><p><strong>Требования</strong>: Вы владеете оружием ближнего боя</p><hr class=\"docutils\"><p>Ваше тело сжимается для удара, и вы можете наброситься на отдаленных врагов.\nНаходясь в этой стойке, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span> против существа, которое за пределами вашей досягаемости, но в пределах досягаемости, которая была бы у вас с <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-lunge\">Выпад (Lunge)  / 2</span>.\nЕсли вы принимаете эту стойку, то увеличиваете досягаемость вашего <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span> на 5 футов.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-lunging-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Образцовый страж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=412\">Paragon's Guard</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Образцовый страж",
+            "originalName": "Paragon's Guard",
+            "level": 12,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете щитом</p><hr class=\"docutils\"><p>Когда у вас есть момент, чтобы занять позицию, то вы всегда не задумываясь держите щит наготове.\nНаходясь в этой стойке и пока вы соответствуете ее требованиям, у вас всегда поднят щит, как если бы вы использовали действие <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-paragons-guard",
+            "archetype": ""
+        },
+        {
+            "fullName": "Атака с отскока (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=413\">Spring Attack</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Атака с отскока",
+            "originalName": "Spring Attack",
+            "level": 12,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы находитесь рядом со врагом</p><hr class=\"docutils\"><p>Отскакивая от одного врага, вы наносите Удар другому.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> вплоть до вашей Скорости, но вы должны закончить это передвижение в досягаемости ближнего боя от другого врага.\nВ конце вашего движения, нанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего бою по противнику, который теперь в досягаемости.\nВы можете использовать \"Атаку с отскока\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид передвижения.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-spring-attack",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отчаянный сокрушающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=414\">Desperate Finisher</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Отчаянный сокрушающий удар",
+            "originalName": "Desperate Finisher",
+            "level": 14,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы завершаете последнее действие в свой ход, и ваш ход еще не закончился</p><p><strong>Требования</strong>: Вы соответствуете требованиям для использования действия с признаком <span class=\"t-press\">натиск</span></p><hr class=\"docutils\"><p>Вы вкладываете все в свою последнюю атаку.\nКак часть \"Отчаянного сокрушающего удара\", используйте одиночное действие из известных вам, которое имеет признак <span class=\"t-press\">натиск</span>.\nДо начала вашего следующего хода, вы лишаетесь способности использовать реакции.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-desperate-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Целеустремленность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=415\">Determination</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Целеустремленность",
+            "originalName": "Determination",
+            "level": 14,
+            "traits": [
+                "концентрация",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><hr class=\"docutils\"><p>Ваша тренировка позволяет вам, когда это очень необходимо, избавляться от заклинаний врагов и состояний.\nВыберите 1 действующее на вас непостоянное заклинание или состояние.\nЕсли вы выбираете состояние, то для вас его эффект заканчивается.\nЕсли вы выбираете заклинание, сделайте проверку <span class=\"card-link \">противодействия</span> заклинанию (ваш уровень противодействия равен половине вашего уровня, округленного до большего целого, а в качестве проверки противодействия вы совершаете спасбросок Воли).</p><p>Это не убирает любой урон ОЗ обычно наносимый заклинанием или состоянием, и не предотвращает заклинание или ослабляющий эффект от воздействия на других союзников, или окружение вокруг вас.\nЭто не может убрать длящийся недуг или позднее предотвратить получения состояния от подобного недуга.\nЭто не может убрать состояния зависящие от ситуаций (таких как <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> или взятие в тиски).\nЕсли эффект исходит от существа, опасности или предмета 20-го уровня или выше, то \"Целеустремленность\" не может убрать с вас эти эффекты.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Исправлен уровень противодействия (1/2^).</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-determination",
+            "archetype": ""
+        },
+        {
+            "fullName": "Направляющий финальный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=416\">Guiding Finish</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Направляющий финальный удар",
+            "originalName": "Guiding Finish",
+            "level": 14,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и другая рука(и) свободна</p><hr class=\"docutils\"><p>Используя свое оружие в качестве рычага, вы заставляете своего противника оказаться именно там, где вы хотите.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> требуемым оружием.\nЕсли Удар попадает, то вы можете сдвинуть цель на расстояние вплоть до 10 футов, в пространство, в пределах вашей досягаемости.\nВо время этого движения вы можете двигать цель через ваше пространство.\nЭто следует правилам для <span class=\"card-link \">Принудительное передвижение (Forced Movement)</span>.\nВаш Удар получает следующий эффект провала.</p><p><strong>Провал</strong>: Вы можете силой сдвинуть существо как при успехе, но только на 5 футов.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-guiding-finish",
+            "archetype": ""
+        },
+        {
+            "fullName": "Направляющая контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=417\">Guiding Riposte</a>) / 14",
+            "name": "Направляющая контратака",
+            "originalName": "Guiding Riposte",
+            "level": 14,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-riposte\">Дуэльная контратака (Dueling Riposte)  / 8</span></p><hr class=\"docutils\"><p>Перемещая свой вес и меняя угол оружия, вы направляете противника в более выгодное положение.\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> во время использования <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-riposte\">Дуэльная контратака (Dueling Riposte)  / 8</span> и попадаете, то можете сдвинуть цель на расстояние вплоть до 10 футов, в пространство, в пределах вашей досягаемости.\nЭто следует правилам для <span class=\"card-link \">Принудительное передвижение (Forced Movement)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-guiding-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенная двойная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=418\">Improved Twin Riposte (Fighter)</a>) / 14",
+            "name": "Улучшенная двойная контратака",
+            "originalName": "Improved Twin Riposte",
+            "level": 14,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-riposte\">Двойная контратака (Twin Riposte (Fighter))  / 10</span></p><hr class=\"docutils\"><p>Ваше оружие как стремительное размытое пятно, блокирующее атаки и ранящее противников.\nВ начале каждого своего хода вы получаете дополнительную реакцию, которую можете использовать только, чтобы выполнить <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-riposte\">Двойная контратака (Twin Riposte (Fighter))  / 10</span>.\nВы можете использовать эту дополнительную реакцию даже, если не получаете преимущество от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-parry\">Парное парирование (Twin Parry (Fighter))  / 4</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-improved-twin-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Специалист по стойкам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=419\">Stance Savant (Fighter)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Специалист по стойкам",
+            "originalName": "Stance Savant",
+            "level": 14,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы совершаете бросок инициативы</p><hr class=\"docutils\"><p>Когда есть неминуемая опасность, вы встаете в стойку едва подумав.\nИспользуйте действие, которое имеет признак <span class=\"t-stance\">стойка</span>.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "class-feat-fighter-stance-savant",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шквал атак двумя оружиями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=420\">Two-Weapon Flurry</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Шквал атак двумя оружиями",
+            "originalName": "Two-Weapon Flurry",
+            "level": 14,
+            "traits": [
+                "натиск",
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями, каждое в отдельной руке</p><hr class=\"docutils\"><p>Вы внезапно и неистово бросаетесь в атаку обоим оружием.\nСделайте 2 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, по одному каждым оружием.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-two-weapon-flurry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ураганный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=170\">Whirlwind Strike (Fighter)</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Ураганный удар",
+            "originalName": "Whirlwind Strike",
+            "level": 14,
+            "traits": [
+                "начальный",
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы атакуете всех неприятелей поблизости.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по каждому противнику в пределах вашей досягаемости ближнего боя.\nКаждая атака считается к вашему штрафу множественной атаки, но не увеличивайте свой штраф, пока не закончите все атаки.</p>",
+            "src": "",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-fighter-whirlwind-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Грациозная готовность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=422\">Graceful Poise</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Грациозная готовность",
+            "originalName": "Graceful Poise",
+            "level": 16,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span></p><hr class=\"docutils\"><p>При правильном позиционировании, ваше второстепенное оружие может наносить удар, как жало скорпиона.\nПока вы в этой стойке, если вы совершаете второй <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span> оружием с признаком <span class=\"w-agile\">быстрое</span>, то <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span> считается как 1 атака при расчете вашего штрафа множественной атаки.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-graceful-poise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенное отражение щитом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=423\">Improved Reflexive Shield</a>) / 16",
+            "name": "Улучшенное отражение щитом",
+            "originalName": "Improved Reflexive Shield",
+            "level": 16,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-reflexive-shield\">Отражающий щит (Reflexive Shield) / 6</span></p><hr class=\"docutils\"><p>Ваш щит может помочь спасти союзников поблизости.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> против урона являющегося результатом спасброска Рефлекса, то находящиеся рядом союзники, которые получат урон из-за спасбросков Рефлекса того же самого эффекта что и вы, также получают преимущество снижения урона.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-improved-reflexive-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойка множественных выстрелов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=424\">Multishot Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Стойка множественных выстрелов",
+            "originalName": "Multishot Stance",
+            "level": 16,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-triple-shot\">Тройной выстрел (Triple Shot) / 6</span></p><p><strong>Требования</strong>: Вы владеете дистанционным оружием с перезарядкой 0</p><hr class=\"docutils\"><p>Вы фиксируете себя в устойчивом положении, чтобы стрелять быстро и точно.\nПока вы в этой стойке, ваш штраф при <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-shot\">Двойной выстрел (Double Shot)  / 4</span> снижается до -1, или до -2 если вы добавляете дополнительное действие, чтобы сделать 3 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрела (Strikes)</span>.\nЕсли вы сдвигаетесь с вашей позиции, то стойка заканчивается.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-multishot-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=425\">Twinned Defense (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Парная защита",
+            "originalName": "Twinned Defense",
+            "level": 16,
+            "traits": [
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-parry\">Парное парирование (Twin Parry (Fighter))  / 4</span></p><p><strong>Требования</strong>: Вы владеете 2 оружиями ближнего боя, по одному в каждой руке</p><hr class=\"docutils\"><p>Вы всегда готовы использовать свое второстепенное оружие, чтобы прервать нападения на вас.\nПока находитесь в этой стойке, вы постоянно получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-twin-parry\">Парное парирование (Twin Parry (Fighter))  / 4</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-twinned-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сокрушительный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1730\">Overwhelming Blow</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Сокрушительный удар",
+            "originalName": "Overwhelming Blow",
+            "level": 16,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 127</p><hr class=\"docutils\"><p>Вы вкладываете свой вес в мощную атаку, которая оставляет вас уязвимым.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЭто считается как 3 атаки при расчете вашего штрафа множественной атаки.\nЕсли этот Удар попадает, он становится крит.попаданием.\nЕсли при броске вы получили крит.попадание, то ваша атака еще получает признак <span class=\"w-deadly\">смертельное d12</span>.\nНезависимо от того, попадаете вы или нет, вы получаете состояния <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлен 1</span> и <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 127",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-fighter-overwhelming-blow",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятный залп (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=426\">Impossible Volley (Fighter)</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Невероятный залп",
+            "originalName": "Impossible Volley",
+            "level": 18,
+            "traits": [
+                "начальный",
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете дистанционным оружием с перезарядкой 0 и признаком <span class=\"w-volley\">залповое</span></p><hr class=\"docutils\"><p>Вы стреляете залпом по всем врагам в области.\nСделайте один <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> со штрафом -2, по каждому врагу в области взрыва с 10-футовым радиусом, центр которого находится внутри дистанции указанной в признаке оружия <span class=\"w-volley\">залповое</span>, или за ее пределами.\nСделайте бросок костей урона только один раз для всех целей.</p><p>Каждая атака считается к вашему штрафу множественной атаки, но не увеличивает его, пока вы не закончите все свои атаки.</p>",
+            "src": "",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-fighter-impossible-volley",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жестокое критическое попадание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=427\">Savage Critical</a>) / 18",
+            "name": "Жестокое критическое попадание",
+            "originalName": "Savage Critical",
+            "level": 18,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<hr class=\"docutils\"><p>Раны, наносимые вами, просто ужасны.\nКогда вы наносите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием или безоружной атакой в который ваше мастерство легендарное, то вы получаете критическое попадание при натуральной 19 на кости, если итоговый результат является успешным.\nЭто не имеет эффекта, если итоговый результат с натуральной 19 будет провалом.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-savage-critical",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрушить в полете (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1731\">Smash from the Air</a>) / 18",
+            "name": "Разрушить в полете",
+            "originalName": "Smash from the Air",
+            "level": 18,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-cut-from-the-air\">Разрубить в полете (Cut from the Air)  / 10</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 127</p><hr class=\"docutils\"><p>Ваш опыт позволяет вам отбивать атаки заклинаниями.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-cut-from-the-air\">Разрубить в полете (Cut from the Air)  / 10</span> против дистанционных атак заклинаниями.</p>",
+            "src": "Advanced Player's Guide pg. 127",
+            "action": "",
+            "id": "class-feat-fighter-smash-from-the-air",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безграничные ответные действия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=428\">Boundless Reprisals</a>) / 20",
+            "name": "Безграничные ответные действия",
+            "originalName": "Boundless Reprisals",
+            "level": 20,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Обладая шестым чувством на течение боя, вы можете быстро реагировать на любую ситуацию по мере необходимости.\nВ начале хода каждого противника вы получаете реакцию, которую можете использовать только во время этого хода на любую реакцию от способности или классовой особенности воина.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Получаемая реакция может использоваться только на реакции воина.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-boundless-reprisals",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оружейное превосходство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=429\">Weapon Supremacy</a>) / 20",
+            "name": "Оружейное превосходство",
+            "originalName": "Weapon Supremacy",
+            "level": 20,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваше умение обращаться с оружием позволяет вам всегда быстро атаковать.\nВы постоянно <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span>.\nВы можете использовать это дополнительное действие только на <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-weapon-supremacy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Абсолютная гибкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1732\">Ultimate Flexibility</a>) / 20",
+            "name": "Абсолютная гибкость",
+            "originalName": "Ultimate Flexibility",
+            "level": 20,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Улучшенная адаптация (Improved Flexibility) / 15-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 127, Pathfinder #150: Broken Promises pg. 77</p><hr class=\"docutils\"><p>Ваш опыт держит вас в напряжении, делая вас способными адаптироваться даже к самым опасным вызовам.\nКогда вы получаете способность воина используя <span class=\"card-link \">Боевая адаптация (Combat Flexibility) / 9-й</span>, то получаете 3 способности воина вместо 2-х.\nВ то время как 1-я способность все еще должна быть 8-го уровня или ниже, 2-я способность может быть вплоть до 14-го уровня, а 3-я может быть вплоть до 18-го уровня.\nВы можете использовать 1-ю способность, чтобы соответствовать предварительным условиям 2-й или 3-й способности, а 2-ю, чтобы соответствовать предварительным условиям 3-й способности.\nВы должны соответствовать всем предварительным условиям способностей.\nДополнительно, вы можете адаптироваться к вызовам на поле боя потратив 1 час на тренировку.\nЕсли вы так делаете, то можете перевыбрать способности, выбранные с <span class=\"card-link \">Боевая адаптация (Combat Flexibility) / 9-й</span>, как будто вы делаете свои ежедневные приготовления.\nВы не можете обменять способности с ограниченным количеством использований, которые вы уже потратили, как например <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-determination\">Целеустремленность (Determination)  / 14</span>.</p>",
+            "src": "Advanced Player's Guide pg. 127, Pathfinder #150: Broken Promises pg. 77",
+            "action": "",
+            "id": "class-feat-fighter-ultimate-flexibility",
+            "archetype": ""
+        },
+        {
+            "fullName": "Острое зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=130\">Acute Vision</a>) / 1",
+            "name": "Острое зрение",
+            "originalName": "Acute Vision",
+            "level": 1,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Во время ярости улучшаются ваши зрительные чувства, давая вам ночное зрение.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-acute-vision",
+            "archetype": ""
+        },
+        {
+            "fullName": "Момент ясности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=131\">Moment of Clarity</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Момент ясности",
+            "originalName": "Moment of Clarity",
+            "level": 1,
+            "traits": [
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы на мгновение подавляете свой гнев, чтобы мыслить ясно.\nДо конца этого хода, вы можете использовать действия с признаком <span class=\"t-concentrate\">концентрация</span>, даже если эти действия не имеют признак <span class=\"t-rage\">ярость</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-moment-of-clarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростное запугивание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=132\">Raging Intimidation</a>) / 1",
+            "name": "Яростное запугивание",
+            "originalName": "Raging Intimidation",
+            "level": 1,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваш гнев наполняет врагов страхом.\nВо время ярости, ваши действия <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> и <span class=\"card-link std std-ref\" data-id=\"feat-scare-to-death\">Напугать до смерти (Scare To Death)  / 15</span> (соответственно от навыка Запугивания и способность навыка Запугивания) получают признак <span class=\"t-rage\">ярость</span>, что позволяет вам использовать их во время ярости.\nКак только вы соответствуете предварительным условиям способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-intimidating-glare\">Запугивающий взгляд (Intimidating Glare) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"feat-scare-to-death\">Напугать до смерти (Scare To Death)  / 15</span>, то вы получаете эти способности.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-raging-intimidation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростный метатель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=133\">Raging Thrower</a>) / 1",
+            "name": "Яростный метатель",
+            "originalName": "Raging Thrower",
+            "level": 1,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Когда вы в гневе, метательное оружие становится особенно смертоносным.\nВы применяете дополнительный урон от <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярости (Rage)</span> к атакам метательным оружием.\nЕсли у вас есть способность <span class=\"card-link std std-ref\" data-id=\"class-feat-barbarian-brutal-critical\">Брутальный крит (Brutal Critical) / 18</span> или особенность класса <span class=\"card-link \">Разрушитель (Devastator) / 19-й</span>, то применяйте их преимущества к атакам метательным оружием.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-raging-thrower",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внезапное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=134\">Sudden Charge (Barbarian)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Внезапное нападение",
+            "originalName": "Sudden Charge",
+            "level": 1,
+            "traits": [
+                "начальный",
+                "размах",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>С быстрым рывком вы бросаетесь к врагу и наносите удар.\nДважды сделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nЕсли вы закончили перемещение в досягаемости ближнего боя хотя бы от одного врага, то можете совершить по нему <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nВы можете использовать \"Внезапное нападение\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-sudden-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выброс адреналина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1602\">Adrenaline Rush</a>) / 1",
+            "name": "Выброс адреналина",
+            "originalName": "Adrenaline Rush",
+            "level": 1,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 108</p><hr class=\"docutils\"><p>В пылу битвы, вы способны на невероятные силовые подвиги.\nВо время ярости, увеличьте ваши ограничения массы перегрузки и максимальной массы на 2; еще вы получаете бонус состояния +1 к проверкам Атлетики для поднятия тяжелых объектов, <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>, и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-force-open\">Открыть силой (Force Open) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 108",
+            "action": "",
+            "id": "class-feat-barbarian-adrenaline-rush",
+            "archetype": ""
+        },
+        {
+            "fullName": "Драконье высокомерие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1603\">Draconic Arrogance</a>) / 1",
+            "name": "Драконье высокомерие",
+            "originalName": "Draconic Arrogance",
+            "level": 1,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Драконий инстинкт (Dragon Instinct)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 108</p><hr class=\"docutils\"><p>Мало кто может отвлечь вас от ваших целей, в то время как вас наполняет ярость боя.\nВо время ярости вы получаете бонус состояния +2 к спасброскам против эффектов эмоций.</p>",
+            "src": "Advanced Player's Guide pg. 108",
+            "action": "",
+            "id": "class-feat-barbarian-draconic-arrogance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Острый нюх (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=135\">Acute Scent</a>) / 2",
+            "name": "Острый нюх",
+            "originalName": "Acute Scent",
+            "level": 2,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-barbarian-acute-vision\">Острое зрение (Acute Vision) / 1</span> или ночное зрение</p><hr class=\"docutils\"><p>Во время ярости улучшается ваш нюх.\nВы получаете неточное чувство нюх с дальностью 30 футов.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-acute-scent",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростный последний удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=136\">Furious Finish</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Яростный последний удар",
+            "originalName": "Furious Finish",
+            "level": 2,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Отчаянно пытаясь закончить бой, вы изливаете всю свою ярость в один последний удар.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЕсли вы попадаете, то получаете бонус обстоятельства к урону, равный количеству раундов, оставшихся до окончания вашей Ярости (максимум 10).\nПосле этого Удара, ваша Ярость мгновенно заканчивается, и вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span>, пока не отдохнете хотя бы 10 минут.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-furious-finish",
+            "archetype": ""
+        },
+        {
+            "fullName": "Не сбежать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=137\">No Escape</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Не сбежать",
+            "originalName": "No Escape",
+            "level": 2,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг в пределах досягаемости пытается уйти от вас</p><hr class=\"docutils\"><p>Вы идете в ногу с отступающим противником.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до вашей Скорости, следуя за врагом и держа его в досягаемости во время его движения, пока он не прекратит передвижение или пока вы не пройдете свою полную Скорость.\nВы можете использовать \"Не сбежать\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrow)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climb)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Fly)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swim)</span>, вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-barbarian-no-escape",
+            "archetype": ""
+        },
+        {
+            "fullName": "Второе дыхание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=138\">Second Wind</a>) / 2",
+            "name": "Второе дыхание",
+            "originalName": "Second Wind",
+            "level": 2,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете впасть во вторую ярость, но потом вам нужно будет отдышаться.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярость (Rage) </span> не ожидая 1 минуту после предыдущей Ярости (или 1 раунд, если у вас есть особенность класса <span class=\"card-link \">Быстрая ярость (Quick Rage) / 17-й</span>), но когда заканчивается вторая Ярость, вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span>, пока не отдохнете 10 минут.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-second-wind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прийти в себя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=139\">Shake it Off</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Прийти в себя",
+            "originalName": "Shake it Off",
+            "level": 2,
+            "traits": [
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы сосредотачиваетесь на своей ярости, преодолевая страх и борясь с тошнотой.\nСнизьте свое состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 1, и сделайте спасбросок Стойкости, чтобы справиться с <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнотой</span>, как если бы вы потратили действие на рвоту; вы снижаете значение <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноты</span> на 1 при провале (но не крит.провале), на 2 при успехе, или на 3 при крит.успехе.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-shake-it-off",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пробить с разбега (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1604\">Bashing Charge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Пробить с разбега",
+            "originalName": "Bashing Charge",
+            "level": 2,
+            "traits": [
+                "размах",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 108</p><hr class=\"docutils\"><p>Вы без колебаний ломаете, разрушаете и прорываетесь через сплошные препятствия.\nДважды сделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nОдин раз во время передвижения, если оно проходит через или заканчивается рядом с дверью, окном, оградой, стеной или подобным препятствием, вы можете сделать проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-force-open\">Открыть силой (Force Open) </span> препятствие с бонусом обстоятельства +1 к броску; при провале, ваше передвижение заканчивается возле препятствия.</p>",
+            "src": "Advanced Player's Guide pg. 108",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-bashing-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое передвижение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=140\">Fast Movement</a>) / 4",
+            "name": "Быстрое передвижение",
+            "originalName": "Fast Movement",
+            "level": 4,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Во время ярости вы получаете бонус состояния +10 футов к Скорости.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-fast-movement",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростный атлет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=141\">Raging Athlete</a>) / 4",
+            "name": "Яростный атлет",
+            "originalName": "Raging Athlete",
+            "level": 4,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><hr class=\"docutils\"><p>Физические препятствия не могут сдержать ваш гнев.\nВо время ярости, вы получаете Скорости карабканья и плавания равную вашей наземной Скорости, а КС <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> снижается на 10.\nВаша дистанция для вертикального <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжка (Leap)</span> увеличивается до 5 футов по вертикали, а дистанция горизонтального <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжка (Leap)</span> увеличивается до 15 футов, если ваша Скорость хотя бы 15 футов, и до 20 футов если ваша Скорость хотя бы 30 футов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Перефразировано. Стали четко прописаны расстояния, чтобы избежать нежелательных взаимодействий с другими умениями, при этом сохраняя получаемые преимущества.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-raging-athlete",
+            "archetype": ""
+        },
+        {
+            "fullName": "Взмах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=142\">Swipe (Barbarian)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Взмах",
+            "originalName": "Swipe",
+            "level": 4,
+            "traits": [
+                "размах",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете широкий удар по дуге.\nСделайте 1 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя и сравните результат броска атаки с КБ вплоть до 2 врагов, каждый из которых должен быть в пределах досягаемости вашей атаки ближнего боя, и находиться рядом друг с другом.\nСделайте бросок урона только 1 раз, и используйте это значение для каждого существа по которому вы попали.\nВзмах считается как 2 атаки для вашего штрафа множественной атаки.</p><p>Если вы используете оружие с признаком <span class=\"w-sweep\">размах</span>, то его модификатор применяется для всех атак Взмаха.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-swipe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ярость от ранения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=143\">Wounded Rage</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Ярость от ранения",
+            "originalName": "Wounded Rage",
+            "level": 4,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получаете урон и способны впасть в ярость</p><hr class=\"docutils\"><p>Вы ревете от боли, пробуждая внутри себя ярость.\nВы используете <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярость (Rage) </span>.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Убран признак \"ярость\".</p>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-barbarian-wounded-rage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нестись в атаку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1605\">Barreling Charge (Barbarian)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Нестись в атаку",
+            "originalName": "Barreling Charge",
+            "level": 4,
+            "traits": [
+                "размах",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 108</p><hr class=\"docutils\"><p>Вы несетесь вперед, расталкивая врагов в стороны, чтобы добраться до своего противника.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> пытаясь пройти через пространства ваших врагов и совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nСделайте бросок для проверки Атлетики и сравните результат с КС Стойкости каждого существа, через чье пространство вы пытаетесь пройти во время своего Перемещения, проходя через него в случае успеха, но при провале заканчивая свое движение до вхождения в его пространство.\nВы можете использовать \"Нестись в атаку\", чтобы <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> вместо Перемещения, пока у вас есть соответствующий вид перемещения.</p>",
+            "src": "Advanced Player's Guide pg. 108",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-barreling-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бросок большого объекта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1606\">Oversized Throw</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Бросок большого объекта",
+            "originalName": "Oversized Throw",
+            "level": 4,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободная одна рука (или более)</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 109</p><hr class=\"docutils\"><p>С большим усилием вы хватаете часть своего окружения, такой как валун, бревно, стол, повозка или кусок земли, и бросаете его в своих врагов.\nОбъект должен быть вашего размера или на один размер меньше вас, и прежде всего, он не должен иметь слишком большую массу, чтобы вы могли его поднять.\nСделайте дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> с помощью объекта; независимо от результата, объект получает такое же кол-во урона, какое он нанесет в случае успеха.\nОбъект считается простым дистанционным оружием, которое наносит 1d10 дробящего урона, имеет шаг дистанции 20 футов и имеет признак оружия <span class=\"w-thrown\">метательное</span>.\nУрон увеличивается до 2d10 если у вас есть специализация в простом оружии, или до 3d10 если у вас есть выдающаяся специализация в оружии.</p>",
+            "src": "Advanced Player's Guide pg. 109",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-oversized-throw",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наставления духов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1607\">Spiritual Guides</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Наставления духов",
+            "originalName": "Spiritual Guides",
+            "level": 4,
+            "traits": [
+                "удача",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Духовный инстинкт (Spirit Instinct)</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы провалили, но не крит.провалили проверку Восприятия или навыка</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 109</p><hr class=\"docutils\"><p>Хоть никто их не видит и только вы можете их слышать, духи вокруг вас постоянно болтают, за исключением тех случаев, когда вы бушуете.\nИногда они даже полезны.\nВы можете прислушаться к наставлению духов, чтобы перебросить спровоцировавшую проверку, используя второй результат, даже если его результат хуже.</p>",
+            "src": "Advanced Player's Guide pg. 109",
+            "action": "реакция",
+            "id": "class-feat-barbarian-spiritual-guides",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сверхъестественные чувства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1608\">Supernatural Senses</a>) / 4",
+            "name": "Сверхъестественные чувства",
+            "originalName": "Supernatural Senses",
+            "level": 4,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-barbarian-acute-scent\">Острый нюх (Acute Scent) / 2</span>, либо точный или неточный нюх</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 109</p><hr class=\"docutils\"><p>Ваш нюх сверхъестественно острый, и вы всегда можете положиться на свое обоняние, чтобы оно помогло вам, когда ваше зрение нарушено.\nКогда целитесь в <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытого</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанного</span> оппонента во время ярости, вы снижаете КС чистой проверки до 3 для <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытой</span> цели, или до 9 для <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанной</span>.</p>",
+            "src": "Advanced Player's Guide pg. 109",
+            "action": "",
+            "id": "class-feat-barbarian-supernatural-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возможность для атаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=145\">Attack of Opportunity (Barbarian)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Возможность для атаки",
+            "originalName": "Attack of Opportunity",
+            "level": 6,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует действие с признаком <span class=\"t-move\">движение</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия с признаком <span class=\"t-move\">движение</span></p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, который открылся для удара.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли ваша атака является крит.попаданием, и спровоцировавшее действие было с признаком <span class=\"t-manipulate\">воздействие</span>, то вы прерываете это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-barbarian-attack-of-opportunity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шкура животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=144\">Animal Skin</a>) / 6",
+            "name": "Шкура животного",
+            "originalName": "Animal Skin",
+            "level": 6,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "трансформация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Животный инстинкт (Animal Instinct)</span></p><hr class=\"docutils\"><p>Ваш уровень мастерства в защите без доспехов увеличивается до эксперта.\nКогда вы в ярости и не носите доспехи, ваша кожа превращается в толстую шкуру, напоминающую шкуру вашего животного.</p><p>Вы получаете бонус предмета +2 к КБ (+3, если у вас есть особенность класса <span class=\"card-link \">Великий джаггернаут (Greater Juggernaut) / 13-й</span>).\nТолщина вашей шкуры дает ограничение модификатора Ловкости к КБ равное +3.\nЭтот бонус предмета к КБ складывается с <span class=\"card-link \">Руна мощи доспеха (Armor Potency) / Руна 5+</span> на вашей одежде исследователя, с <span class=\"card-link std std-ref\" data-id=\"spell-m-mage-armor\">Магический доспех (Mage Armor) / Закл. 1</span> и <span class=\"card-link \">Наручи брони (Bracers of Armor) / Предмет 8+</span>.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменен тип бонуса к КБ с \"состояния\" на \"предмета\" и добавлена его кумулятивность с другими эффектами.\nВ целом изменение было, чтобы не давать например, разгонять КБ за счет нового мутагена из APG (<span class=\"card-link \">Мутаген сердца дрейка (Drakeheart Mutagen) / Предмет 1+</span>).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-animal-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жестокий задира (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=146\">Brutal Bully</a>) / 6",
+            "name": "Жестокий задира",
+            "originalName": "Brutal Bully",
+            "level": 6,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><hr class=\"docutils\"><p>Вы расталкиваете своих врагов и оставляете ссадины.\nВо время ярости, когда вы успешно используете на врага <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>, то наносите ему дробящий урон равный вашему модификатору Силы; также добавьте его при крит.успешном использовании <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-brutal-bully",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рассечение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=147\">Cleave</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Рассечение",
+            "originalName": "Cleave",
+            "level": 6,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя убивает существо или лишает его сознания, и рядом с этим существом есть другое существо</p><hr class=\"docutils\"><p>Вы пронзаете одного врага и попадает в другого.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по второму врагу.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-barbarian-cleave",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростное дыхание дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=148\">Dragon's Rage Breath</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Яростное дыхание дракона",
+            "originalName": "Dragon's Rage Breath",
+            "level": 6,
+            "traits": [
+                "аркана",
+                "эвокация",
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Драконий инстинкт (Dragon Instinct)</span></p><p><strong>Требования</strong>: Вы не использовали это умение с прошлой Ярости</p><hr class=\"docutils\"><p>Вы глубоко вдыхаете и выдыхаете мощную энергию 30-футовым конусом или 60-футовой линией, нанося 1d6 урона за уровень.\nОбласть и тип урона соответствуют вашему дракону (см. <span class=\"card-link std std-ref\" data-id=\"table-3-4\">Таблица 3-4: Драконьи инстинкты</span>).\nЕсли вы использовали это умение за последний час, то область и урон уменьшаются наполовину (15-футовый конус или 30-футовая линия; 1d6 урона за каждые 2 уровня).\nКаждое существо в области должно сделать простой спасбросок Рефлекса.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-barbarian-dragons-rage-breath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рост гиганта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=149\">Giant's Stature</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Рост гиганта",
+            "originalName": "Giant's Stature",
+            "level": 6,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "полиморф",
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Инстинкт гиганта (Giant Instinct)</span></p><p><strong>Требования</strong>: Вы среднего размера или меньше</p><hr class=\"docutils\"><p>Вы вырастаете до невероятного размера.\nВы становитесь большого размера, увеличивая свою досягаемость на 5 футов и получая состояние <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 1</span> пока не закончится ярость.\nВаше снаряжение вырастает вместе с вами.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-giants-stature",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вмешательство духов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=150\">Spirits' Interference</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Вмешательство духов",
+            "originalName": "Spirits' Interference",
+            "level": 6,
+            "traits": [
+                "сакральный",
+                "некромантия",
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Духовный инстинкт (Spirit Instinct)</span></p><hr class=\"docutils\"><p>Вы взываете к защитным духам, чтобы оградить вас от дистанционных атак.\nПока не закончится ваша ярость, все, кто совершает по вам дистанционную атаку должны пройти чистую проверку КС 5 или атака промахивается без эффекта.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-spirits-interference",
+            "archetype": ""
+        },
+        {
+            "fullName": "Охотник на магов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1610\">Mage Hunter</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Охотник на магов",
+            "originalName": "Mage Hunter",
+            "level": 6,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Суеверный инстинкт (Superstition Instinct)</span></p><p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 109</p><hr class=\"docutils\"><p>Вы используете свою ненависть к магии, чтобы при виде колдовства наброситься, что позволяет вам прервать заклинание врага.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли атака крит.успешная, то вы прерываете заклинание.</p>",
+            "src": "Advanced Player's Guide pg. 109",
+            "action": "реакция",
+            "id": "class-feat-barbarian-mage-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренняя сила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1609\">Inner Strength</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Внутренняя сила",
+            "originalName": "Inner Strength",
+            "level": 6,
+            "traits": [
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 109</p><hr class=\"docutils\"><p>Ваша сила - часть вашей ярости, поэтому, пока остается ваш гнев, вы можете собрать его и свою силу, чтобы преодолеть любую слабость.\nВы снижаете значение своего состояния <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен</span> на 1.</p>",
+            "src": "Advanced Player's Guide pg. 109",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-inner-strength",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ночное чувство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1611\">Nocturnal Sense</a>) / 6",
+            "name": "Ночное чувство",
+            "originalName": "Nocturnal Sense",
+            "level": 6,
+            "traits": [
+                "ярость",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-barbarian-acute-scent\">Острый нюх (Acute Scent) / 2</span>, либо точный или неточный нюх, и сумеречное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 110</p><hr class=\"docutils\"><p>Ваши чувства приобретают еще большую ясность.\nВо время ярости вы получаете ночное зрение, если у вас его еще нет, а дальность вашего неточного нюха увеличивается до 60 футов.</p>",
+            "src": "Advanced Player's Guide pg. 110",
+            "action": "",
+            "id": "class-feat-barbarian-nocturnal-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очищающая ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1612\">Scouring Rage</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Очищающая ярость",
+            "originalName": "Scouring Rage",
+            "level": 6,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт, который позволяет вам изменять тип дополнительного урона от Ярости на другой</p><p><strong>Триггер</strong>: Вы используете <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярость (Rage) </span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 110</p><hr class=\"docutils\"><p>Когда раскрываете свой потенциал, вы испускаете мощный всплеск инстинктивной энергии.\nКаждое существо находящееся рядом получает урон равный вашему уровню (простой спасбросок Стойкости против вашего КС класса), того же типа урона, что и ваш дополнительный урон во время Ярости.</p>",
+            "src": "Advanced Player's Guide pg. 110",
+            "action": "свободное действие",
+            "id": "class-feat-barbarian-scouring-rage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Животная ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=151\">Animal Rage</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Животная ярость",
+            "originalName": "Animal Rage",
+            "level": 8,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "полиморф",
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: инстинкт <span class=\"card-link \">Животный инстинкт (Animal Instinct)</span></p><hr class=\"docutils\"><p>Вы превращаетесь в свое животное.\nВы получаете эффекты заклинания <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span> 3-го уровня, за исключением того, что вы используете свои характеристики, временные ОЗ и безоружные атаки, вместо тех, которые даются формой из заклинания.\nВы так же сохраняете постоянные возможности своего снаряжения.\nЕсли ваше животное лягушка, то досягаемость языка увеличивается до 15 футов.\n<span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеивание (Dismissing)</span> превращения получает признак <span class=\"t-rage\">ярость</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-animal-rage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яростный задира (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=152\">Furious Bully</a>) / 8",
+            "name": "Яростный задира",
+            "originalName": "Furious Bully",
+            "level": 8,
+            "traits": [
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики</p><hr class=\"docutils\"><p>Вы задираете врагов на поле боя.\nВо время ярости вы получаете бонус обстоятельства +2 к проверкам Атлетики на действия с признаком <span class=\"t-attack\">атака</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-barbarian-furious-bully",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обновленная сила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=153\">Renewed Vigor</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Обновленная сила",
+            "originalName": "Renewed Vigor",
+            "level": 8,
+            "traits": [
+                "ярость",
+                "концентрация",
+                "варвар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы приостанавливаетесь, чтобы восстановить свою яростную энергию.\nВы получаете временные ОЗ, равные половине вашего уровня + модификатор Телосложения.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-barbarian-renewed-vigor",
+            "archetype": ""
+        }
+    ]
+}

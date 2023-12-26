@@ -1,0 +1,1333 @@
+{
+    "actions": [
+        {
+            "fullName": "Вспомнить информацию (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=26\">Recall Knowledge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Вспомнить информацию",
+            "traits": [
+                "тайна",
+                "концентрация"
+            ],
+            "originalName": "Recall Knowledge",
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете проверку навыка, чтобы попытаться вспомнить часть знаний по теме, относящейся к навыку.\nМастер определяет КС таких проверок и какой навык применить.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы точно вспоминаете информацию и получаете дополнительную информацию, или контекст</div>\n<div class=\"line\"><strong>Успех</strong>: Вы точно вспоминаете информацию или получаете полезную зацепку о текущей ситуации</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы вспоминаете неверную информацию, или получаете ошибочную или вводящую в заблуждение подсказку</div>\n</div><p>Следующие навыки могут быть использованы для \"Вспоминания информации\", получая знания по перечисленным темам.\nВ некоторых случаях, вы можете получить разрешение Мастера использовать другой, но связанный навык, обычно против более высокого КС.\nНекоторые темы могут появляться в нескольких списках, но навыки могут дать разную информацию.\nНапример, Аркана может сказать вам о магических защитах голема, а Ремесло о стойком сопротивлении физическим атакам.</p><ul class=\"simple\">\n<li><p><strong>Аркана</strong>: Арканные теории, магические обычаи, существа арканной природы, арканные планы.</p></li>\n<li><p><strong>Ремесло</strong>: Алхимические реакции и существа, ценность предметов, инженерия, необычные материалы, конструкты.</p></li>\n<li><p><strong>Знания</strong>: Тема из подраздела навыка Знаний.</p></li>\n<li><p><strong>Медицина</strong>: Болезни, яды, ранения и криминалистика.</p></li>\n<li><p><strong>Природа</strong>: Окружающая среда, флора, география, погода, существа природного происхождения, природные планы.</p></li>\n<li><p><strong>Оккультизм</strong>: Древние тайны, неясная философия, существа оккультного происхождения, эзотерические планы.</p></li>\n<li><p><strong>Религия</strong>: Посредники божеств, божественные планы, теология, неясные мифы, существа религиозного происхождения.</p></li>\n<li><p><strong>Общество</strong>: Местная история, важные личности, юридические учреждения, структура общества, культура гуманоидов.</p></li>\n</ul><p>Мастер может позволить проверку \"Вспомнить информацию\" используя другие навыки.\nНапример, вы можете оценить мастерство акробата используя Акробатику.\nЕсли вы используете физический навык (как из примера ранее), Мастер скорее всего использует показатель вашей умственной характеристики, обычно Интеллекта, вместо типичной для этого навыка физической характеристики.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-recall-knowledge"
+        },
+        {
+            "fullName": "Балансировать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=28\">Balance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Балансировать",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Balance",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы в квадрате с <span class=\"card-link \">узкой поверхностью</span> или <span class=\"card-link \">неровной землей</span>, либо похожей особенностью</p><hr class=\"docutils\"><p>Вы двигаетесь по узкой поверхности или неровной земле, совершая проверку Акробатики против ее КС Балансирования.\nНаходясь на узкой поверхности или неровной земле вы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы двигаетесь вплоть до своей Скорости.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы двигаетесь вплоть до своей Скорости, считая это сложной местностью (каждые 5 футов, стоят 10 футов передвижения).</div>\n<div class=\"line\"><strong>Провал</strong>: Вы должны оставаться неподвижным, чтобы сохранить равновесие (тратя это действие), иначе вы упадете. Если вы падаете, то ваш ход заканчивается.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы падаете и ваш ход заканчивается.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-acrobatics-balance"
+        },
+        {
+            "fullName": "Проскочить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=29\">Tumble Through</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Проскочить",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Tumble Through",
+            "rarity": "Обычный",
+            "desc": "<p>Вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span> вплоть до своей Скорости.\nВо время этого передвижения, вы можете попытаться переместиться через пространство 1 врага.\nСделайте проверку Акробатики против КС Рефлекса врага как только вы пытаетесь войти в его пространство.\nВ подходящем окружении, вы можете Проскочить используя <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> или другое действие вместо <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы передвигаетесь через пространство занимаемое врагом, считая эти квадраты сложной местностью (каждые 5 футов, стоят 10 футов передвижения). Если у вас недостаточно Скорости, чтобы пройти все занимаемое врагом пространство, то получаете такой же результат как при провале.</div>\n<div class=\"line\"><strong>Провал</strong>: Ваше движение оканчивается, и вы провоцируете реакции, как если бы вы переместились из квадрата в котором начинали.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-acrobatics-tumble-through"
+        },
+        {
+            "fullName": "Маневрирование в полете (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=30\">Maneuver in Flight</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Маневрирование в полете",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Maneuver in Flight",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть Скорость полета</p><hr class=\"docutils\"><p>Вы пытаетесь совершить сложный маневр во время полета.\nСделайте проверку Акробатики.\nМастер определяет какой маневр возможен, но он редко позволит вам двигаться быстрее вашей Скорости полета.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Маневр получается.</div>\n<div class=\"line\"><strong>Провал</strong>: Маневр не получается. Мастер решает, не можете ли вы просто двигаться дальше, или происходит какой-то другой негативный эффект. Результат должен соответствовать маневру, который вы предприняли (например, сбились с курса, если вы пытались лететь против сильного ветра).</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал, только последствия намного хуже.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-acrobatics-maneuver-in-flight"
+        },
+        {
+            "fullName": "Протиснуться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=31\">Squeeze</a>)",
+            "name": "Протиснуться",
+            "traits": [
+                "исследование",
+                "движение"
+            ],
+            "originalName": "Squeeze",
+            "rarity": "Обычный",
+            "desc": "<p>Вы группируетесь, чтобы протиснуться через пространство, настолько маленькое, что вы едва можете пролезть.\nЭто действие предназначено для чрезвычайно небольших пространств; многие узкие пространства - <span class=\"card-link \">Сложная местность (Difficult Terrain)</span>, по которым вы можете перемещаться быстрее и без проверки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы протискиваетесь по узкому пространству со скоростью 10 футов/минуту.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы протискиваетесь со скоростью 5 футов/минуту.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы застреваете в узком пространстве. Пока вы застряли, вы можете потратить 1 минуту совершая еще одну проверку Акробатики с тем же КС. Любой результат этой проверки, кроме критического провала, высвобождает вас.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-acrobatics-squeeze"
+        },
+        {
+            "fullName": "Одолжить арканное заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=32\">Borrow an Arcane Spell</a>)",
+            "name": "Одолжить арканное заклинание",
+            "traits": [
+                "исследование",
+                "концентрация"
+            ],
+            "originalName": "Borrow an Arcane Spell",
+            "rarity": "Обычный",
+            "desc": "<p>Если вы арканный заклинатель подготавливающийся по книге заклинаний, то вы можете попытаться подготовить заклинание из чей-либо еще книги заклинаний.\nМастер устанавливает КС этой проверки, на основе уровня заклинания и его редкости; обычно это немного проще, чем <span class=\"card-link \">Выучить заклинание (Learn a Spell)</span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы подготавливаете одолженное заклинание, как часть вашего обычного приготовления заклинаний.</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается подготовить заклинание, но слот остается доступным для подготовки другого заклинания. Вы не можете пытаться подготавливать это заклинание до следующего раза, когда будете подготавливать заклинания.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-arcana-borrow-an-arcane-spell"
+        },
+        {
+            "fullName": "Карабкаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=33\">Climb</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Карабкаться",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Climb",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободны обе руки</p><hr class=\"docutils\"><p>Вы двигаетесь вверх, вниз или по склону.\nВы должны совершить проверку Атлетики, если только это не слишком легко.\nМастер определяет КС на основе природы склона и окружающих обстоятельств.\nВы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, если только у вас нет Скорости карабканья.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы двигаетесь вверх, поперек, или аккуратно вниз по склону на 5 футов + еще 5 футов, за 20 футов вашей наземной Скорости (всего 10 футов для большинства персонажей).</div>\n<div class=\"line\"><strong>Успех</strong>: Вы двигаетесь вверх, поперек, или аккуратно вниз по склону на 5 футов за 20 футов вашей наземной Скорости (всего 5 футов для большинства персонажей, минимум 5 футов, если ваша Скорость ниже 20 футов).</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы падаете. Если вы начинали карабкаться с твердой земли, то падаете и приземляетесь <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n</div><table class=\"docutils align-default\" id=\"id45\">\n<caption><span class=\"caption-text\">Таблица 4-4: Расстояние карабканья и плавания (Climb And Swim Distance)</span><a class=\"headerlink\" href=\"#id45\" title=\"Постоянная ссылка на таблицу\">¶</a></caption>\n<colgroup>\n<col style=\"width: 22%\">\n<col style=\"width: 17%\">\n<col style=\"width: 21%\">\n<col style=\"width: 19%\">\n<col style=\"width: 21%\">\n</colgroup>\n<thead>\n<tr class=\"row-odd\"><th class=\"head\" rowspan=\"2\"><p>Скорость</p></th>\n<th class=\"head\" colspan=\"2\"><p>Расстояние карабканья</p></th>\n<th class=\"head\" colspan=\"2\"><p>Расстояние плавания</p></th>\n</tr>\n<tr class=\"row-even\"><th class=\"head\"><p>Успех</p></th>\n<th class=\"head\"><p>Крит.успех</p></th>\n<th class=\"head\"><p>Успех</p></th>\n<th class=\"head\"><p>Крит.успех</p></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-odd\"><td><p>5-15 футов</p></td>\n<td><p>5</p></td>\n<td><p>5</p></td>\n<td><p>5</p></td>\n<td><p>10</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>20-35 футов</p></td>\n<td><p>5</p></td>\n<td><p>10</p></td>\n<td><p>10</p></td>\n<td><p>15</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>40-55 футов</p></td>\n<td><p>10</p></td>\n<td><p>15</p></td>\n<td><p>15</p></td>\n<td><p>20</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>60-65 футов</p></td>\n<td><p>15</p></td>\n<td><p>20</p></td>\n<td><p>20</p></td>\n<td><p>25</p></td>\n</tr>\n</tbody>\n</table>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-climb"
+        },
+        {
+            "fullName": "Открыть силой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=34\">Force Open</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Открыть силой",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Force Open",
+            "rarity": "Обычный",
+            "desc": "<p>Используя свое тело, рычаг или какой-либо другой инструмент, вы пытаетесь силой открыть дверь, окно, контейнер или тяжелые ворота.\nПри достаточно высоком результате проверки, вы можете даже пробить стены.\nЕсли вы открываете что-то без <span class=\"card-link \">лома</span>, то получаете штраф предмета -2 к этой проверке Атлетики для \"Открыть силой\".</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы открываете дверь, окно, контейнер или ворота и в процессе можете избежать поломки этого объекта.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы взламываете дверь, окно, контейнер или ворота, и этот объект получает состояние <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломан</span>. Если вещь особенно прочная, Мастер может решить, что вещь не <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломалась</span>, а только получила повреждения.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваша попытка заклинивает дверь, окно, контейнер или ворота, накладывая штраф обстоятельства -2 на дальнейшие попытки \"Открыть их силой\".</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-force-open"
+        },
+        {
+            "fullName": "Захватить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=35\">Grapple</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Захватить",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Grapple",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободна хотя бы 1 рука, либо ваша цель <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживается</span> вами.\nВаша цель должна быть не более чем на один размер больше вас.</p><hr class=\"docutils\"><p>Вы пытаетесь схватить существо или объект своей свободной рукой.\nСделайте проверку Атлетики против КС Стойкости цели.\nВы можете Захватить цель которая уже <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживается</span> вами, без необходимости иметь свободную руку.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: До конца вашего следующего хода цель <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемая</span>, если только вы не сдвинетесь или цель <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырвется (Escapes)</span>.</div>\n<div class=\"line\"><strong>Успех</strong>: До конца вашего следующего хода цель <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span>, если только вы не сдвинетесь или цель <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырвется (Escapes)</span>.</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается схватить цель. Если цель уже была <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаема</span> вами от Захвата, то эти состояния у существа или объекта заканчиваются.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Если цель уже была <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаема</span> вами, то она освобождается. Ваша цель может либо схватить вас как, если бы она успешно применила на вас действие Захватить, либо заставить вас упасть <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>В требования добавленно упоминание о том, что может быть схваченное существо.\nУточнено, в тексте про \"схвачен и сдерживаем\".\nВ первом предложении добавлено упоминание объекта помимо существа, и почти везде упоминается \"цель\", а не \"существо\".</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-grapple"
+        },
+        {
+            "fullName": "Прыжок в высоту (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=36\">High Jump</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Прыжок в высоту",
+            "traits": [],
+            "originalName": "High Jump",
+            "rarity": "Обычный",
+            "desc": "<p>Вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>, после чего выполняете вертикальный <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> и делаете проверку Атлетики с КС 30 для увеличения высоты прыжка.\nЕсли вы не <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместились (Stride)</span> хотя бы на 10 футов, то автоматически проваливаете свою проверку.\nНа усмотрение Мастера, этот КС может быть увеличен или уменьшен, в зависимости от ситуации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Увеличьте максимальное вертикальное расстояние до 8 футов, или увеличьте максимальное вертикальное расстояние до 5 футов и максимальное горизонтальное расстояние до 10 футов.</div>\n<div class=\"line\"><strong>Успех</strong>: Увеличьте максимальное вертикальное расстояние до 5 футов.</div>\n<div class=\"line\"><strong>Провал</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгаете (Leap)</span> как обычно.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы совсем не смогли <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгнуть (Leap)</span>, вместо этого упали <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> в своем пространстве.</div>\n</div>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "skill-athletics-hjump"
+        },
+        {
+            "fullName": "Прыжок в длину (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=37\">Long Jump</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Прыжок в длину",
+            "traits": [],
+            "originalName": "Long Jump",
+            "rarity": "Обычный",
+            "desc": "<p>Вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>, после чего выполняете горизонтальный <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> и делаете проверку Атлетики для увеличения дальности прыжка.\nКС этой проверки Атлетики равен общей дальности в футах, которую вы хотите преодолеть используя <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> (чтобы Прыгнуть на 20 футов, вам надо совершить успешную проверку Атлетики КС 20).\nВы не можете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгнуть (Leap)</span> на расстояние больше вашей Скорости.</p><p>Если вы не <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместились (Stride)</span> хотя бы на 10 футов, или если пытаетесь прыгнуть в направлении, отличном от направления вашего Перемещения, то вы автоматически проваливаете проверку.\nНа усмотрение Мастера, этот КС может быть увеличен или уменьшен, в зависимости от ситуации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Увеличьте максимальное горизонтальное расстояние на которое вы <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгаете (Leap)</span>, до желаемой дистанции.</div>\n<div class=\"line\"><strong>Провал</strong>: Вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> как обычно.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> как обычно, но потом падаете на землю ничком.</div>\n</div>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "skill-athletics-ljump"
+        },
+        {
+            "fullName": "Толкнуть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=38\">Shove</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Толкнуть",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Shove",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободна хотя бы 1 рука.\nВаша цель должна быть не более чем на один размер больше вас.</p><hr class=\"docutils\"><p>Вы отталкиваете существо от себя.\nСовершите проверку Атлетики против КС Стойкости вашей цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы отталкиваете от себя цель на расстояние вплоть до 10 футов. Вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> за ней, но должны двигаться на тоже расстояние и в том же направлении.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы отталкиваете цель назад на 5 футов. Вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> за ней, но должны двигаться на тоже расстояние и в том же направлении.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы теряете равновесие и падаете <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-shove"
+        },
+        {
+            "fullName": "Плыть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=39\">Swim</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Плыть",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Swim",
+            "rarity": "Обычный",
+            "desc": "<p>Вы двигаетесь в воде.\nВ самой спокойной воде вы успешно выполняете действие, без необходимости совершать проверку.\nЕсли вам нужно дышать воздухом и вы погружены под воду, то должны каждый раунд задерживать дыхание.\nЕсли вам не удается задержать дыхание, то вы начинете тонуть (как описано в <span class=\"card-link \">Тонуть и задыхаться (Drowning and Suffocation)</span>).\nЕсли поток воды, в которой вы плаваете, неспокойный или иным образом опасный, то вам, возможно, придется сделать проверку Атлетики, чтобы Плыть.</p><p>Если вы заканчиваете свой ход в воде и не совершили на этом ходу успешную проверку Плавания, то на усмотрение Мастера вы тонете на 10 футов или перемещаетесь по течению.\nОднако, если во время своего хода вы своим последним действием попали в воду, то вы не тонете и не двигаетесь по течению в этот ход.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы проплываете по воде 10 футов, + 5 футов за 20 футов вашей наземной Скорости (всего 15 футов для большинства персонажей).</div>\n<div class=\"line\"><strong>Успех</strong>: Вы проплываете по воде 5 футов, + 5 футов за 20 футов вашей наземной Скорости (всего 10 футов для большинства персонажей).</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы не продвигаетесь, и если вы задерживаете дыхание, то теряете 1 раунд воздуха.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-swim"
+        },
+        {
+            "fullName": "Опрокинуть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=40\">Trip</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Опрокинуть",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Trip",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободна хотя бы 1 рука.\nВаша цель должна быть не более чем на один размер больше вас.</p><hr class=\"docutils\"><p>Вы пытаетесь сбить существо на землю.\nСовершите проверку Атлетики против КС Рефлекса цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель падает и оказывается <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>, и получает 1d6 дробящего урона.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель падает и оказывается <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы сами теряете равновесие, падаете и оказываетесь <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-trip"
+        },
+        {
+            "fullName": "Разоружить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=41\">Disarm</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Разоружить",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Disarm",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободна хотя бы 1 рука.\nВаша цель должна быть не более чем на один размер больше вас.</p><hr class=\"docutils\"><p>Вы пытаетесь выбить у существа то, что он держит.\nСовершите проверку Атлетики против КС Рефлекса цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы выбиваете предмет из рук цели. Предмет падает на землю в пространстве цели.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы ослабляете хватку цели на предмете. До начала хода этого существа, попытки Разоружения того же предмета получают бонус обстоятельства +2, а цель получает штраф обстоятельства -2 на атаки с помощью этого предмета или другие проверки требующие крепкой хватки предмета.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы теряете равновесие и становитесь <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> до начала вашего следующего хода.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-athletics-disarm"
+        },
+        {
+            "fullName": "Ремонт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=42\">Repair</a>)",
+            "name": "Ремонт",
+            "traits": [
+                "исследование",
+                "воздействие"
+            ],
+            "originalName": "Repair",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор для ремонта (Repair kit)</span> или он надет на вас</p><hr class=\"docutils\"><p>Вы тратите 10 минут, пытаясь починить поврежденный предмет, помещая его на устойчивую поверхность и используя ремонтный набор обеими руками.\nМастер устанавливает КС, но обычно он почти такой же, как и для <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создания (Craft)</span> такого нового предмета.\nВы не можете Ремонтировать уничтоженный предмет.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы восстанавливаете предмету 10 ОЗ + дополнительные 10 ОЗ за имеющийся уровень мастерства Ремесла (всего 20 ОЗ если вы обучены, 30 ОЗ если эксперт, 40 ОЗ если мастер, или 50 ОЗ если легенда).</div>\n<div class=\"line\"><strong>Успех</strong>: Вы восстанавливаете предмету 5 ОЗ + дополнительные 5 ОЗ за имеющийся уровень мастерства Ремесла (всего 10 ОЗ если вы обучены, 15 ОЗ если эксперт, 20 ОЗ если мастер, или 25 ОЗ если легенда).</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы наносите предмету 2d6 урона. Примените к урону Твердость предмета.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-crafting-repair"
+        },
+        {
+            "fullName": "Создать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=43\">Craft</a>)",
+            "name": "Создать",
+            "traits": [
+                "отдых",
+                "воздействие"
+            ],
+            "originalName": "Craft",
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете делать предмет из сырья.\nДля создания алхимических предметов вам требуется способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span>,\nдля магических предметов <span class=\"card-link std std-ref\" data-id=\"feat-magical-crafting\">Магическое ремесло (Magical Crafting) / 2</span>,\nи для создания силков <span class=\"card-link std std-ref\" data-id=\"feat-snare-crafting\">Создание силков (Snare Crafting) / 1</span>.</p><p>Чтобы создать предмет, вы должны удовлетворить следующие требования:</p><ul class=\"simple\">\n<li><p>Предмет должен быть вашего уровня или ниже. Предмет, у которого не указан уровень, имеет 0-й уровень. Если предмет 9-го уровня или выше, вы должны быть мастером Ремесла, а если 16-го уровня или выше, вы должны быть легендой.</p></li>\n<li><p>У вас есть формула предмета; смотрите далее \"Получение формул (Getting Formulas)\" для подробностей.</p></li>\n<li><p>У вас если подходящий набор инструментов и, в большинстве случаев, мастерская. Например, чтобы ковать металлический щит вам нужен доступ в кузницу.</p></li>\n<li><p>Вы должны предоставить сырье, по стоимости, хотя бы в половину Цены предмета. Вы всегда тратите как минимум, указанное количество сырья, когда успешно Создаете предмет. Если вы находитесь в поселении, то обычно можете потратить деньги, чтобы получить необходимое количество сырья, за исключением более редких драгоценных материалов.</p></li>\n</ul><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Для создания алхимических предметов во время отдыха требуется <span class=\"card-link \">Лаборатория алхимика (Alchemist`s lab)</span>, а не <span class=\"card-link \">Набор алхимика (Alchemist`s tools)</span>.</p>\n</div><p>Вы должны потратить 4 дня работы, после которых вы делаете проверку Ремесла.\nМастер определяет КС Создания предмета на основе его уровня, редкости и других обстоятельств.</p><p>Если ваша попытка создания предмета успешная, то вы расходуете все подготовленное сырье.\nВы можете оплатить оставшуюся часть Цены предмета в материалах, чтобы завершить его немедленно, или вы можете потратить дополнительные дни отдыха для работы над ним.\nЗа каждый дополнительный день работы, снизьте количество материалов требуемое для завершения.\nЭто количество определяется по <span class=\"card-link std std-ref\" data-id=\"table-4-2\">Таблица 4-2: Полученный доход (Income Earned)</span>, на основе вашего уровня мастерства Ремесла и используя ваш собственный уровень вместо уровня задачи.\nПосле любого из этих дней отдыха, вы можете завершить предмет потратив оставшуюся часть его Цены в материалах.\nЕсли потраченные дни отдыха были прерваны, то вы можете вернуться к завершению предмета позднее, к моменту на котором остановились.\nПример Создания предмета приведен в сноске.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваша попытка успешна. Каждый дополнительный день Создания, снижает количество необходимых для завершения материалов, на значение, основанное на вашем уровне + 1 и уровне мастерства Ремесла.</div>\n<div class=\"line\"><strong>Успех</strong>: Ваша попытка успешна. Каждый дополнительный день Создания, снижает количество необходимых для завершения материалов, на значение, основанное на вашем уровне и уровне мастерства Ремесла.</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается завершить предмет. Вы можете в полном объеме собрать подготовленное сырье. Если хотите попробовать снова, придется начинать с начала.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вам не удается завершить предмет. Вы расходуете 10% подготовленного сырья, но можете собрать оставшееся. Если хотите попробовать снова, придется начинать с начала.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-crafting-craft"
+        },
+        {
+            "fullName": "Отвлечь внимание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=45\">Create a Diversion</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Отвлечь внимание",
+            "traits": [
+                "ментальный"
+            ],
+            "originalName": "Create a Diversion",
+            "rarity": "Обычный",
+            "desc": "<p>С помощью жеста, трюка или каких-то отвлекающих слов, вы можете перевести внимание существ на что-то другое.\nЕсли вы используете жест или трюк, это действие получает признак <span class=\"t-manipulate\">воздействие</span>.\nЕсли используются отвлекающие слова, оно получает признаки <span class=\"t-auditory\">слуховой</span> и <span class=\"t-linguistic\">языковой</span>.</p><p>Сделайте одиночную проверку Обмана и сравните с КС Восприятия существ, чье внимание вы пытаетесь отвлечь.\nВне зависимости от успеха, существа, внимание которых вы пытаетесь отвлечь, на 1 минуту получают бонус обстоятельства +4 к их КС Восприятия, против ваших попыток \"Отвлечь внимание\".</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы  становитесь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> для существ, чье КС Восприятия меньше или равно вашему результату (это состояние <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> позволяет вам <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>). Это длится до конца вашего хода или до тех пор, пока вы не сделаете что-либо, кроме <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> или использования действий навыка Скрытности - <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>. Если вы <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударяете (Strike)</span> существо, то оно <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> для этой атаки, и после этого вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>. Если вы делаете что-то другое, то становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> сразу до того, как совершите действие, если только Мастер не решит иначе.</div>\n<div class=\"line\"><strong>Провал</strong>: Вы не отвлекаете внимание ни одного существа, чьи КС Восприятия больше вашего результата, и эти существа знают, что вы пытались обмануть их.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-deception-create-a-diversion"
+        },
+        {
+            "fullName": "Перевоплотиться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=46\">Impersonate</a>)",
+            "name": "Перевоплотиться",
+            "traits": [
+                "тайна",
+                "воздействие",
+                "концентрация",
+                "исследование"
+            ],
+            "originalName": "Impersonate",
+            "rarity": "Обычный",
+            "desc": "<p>Вы создаете маскировку, чтобы выдать себя за кого-то или что-то, чем вы не являетесь.\nСоздание убедительной маскировки занимает 10 минут и требует <span class=\"card-link \">Гримерный набор (Disguise kit)</span>, но если вы не пытаетесь имитировать определенную личность, то на усмотрение Мастера, простая, быстрая маскировка может сработать.</p><p>В большинстве случаев, существа имеют шанс раскусить ваш обман, только если они используют действие <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, чтобы сделать проверку Восприятия против вашего КС Обмана.\nИ наоборот, если вы пытаетесь напрямую взаимодействовать с кем-то, когда замаскированы, то Мастер бросает за вас <span class=\"t-secret\">тайную</span> проверку Обмана против КС Восприятия существа.\nЕсли вы замаскированы под конкретного индивида, Мастер может дать существам с которыми вы взаимодействуете, бонус обстоятельства основанный на том, насколько хорошо они знают индивида, которого вы имитируете, или Мастер может кинуть <span class=\"t-secret\">тайную</span> проверку Обмана, даже если вы напрямую не взаимодействуете с другими.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы обманываете существо, и оно думает что вы тот за кого себя выдаете. Вы должны сделать новую проверку, если ваше поведение изменяется.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо понимает, что вы не тот за кого себя выдаете.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо понимает, что вы не тот за кого себя выдаете, и узнает вас, как если бы вы были без маскировки.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-deception-impersonate"
+        },
+        {
+            "fullName": "Лгать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=47\">Lie</a>)",
+            "name": "Лгать",
+            "traits": [
+                "тайна",
+                "слуховой",
+                "языковой",
+                "концентрация",
+                "ментальный"
+            ],
+            "originalName": "Lie",
+            "rarity": "Обычный",
+            "desc": "<p>Вы пытаетесь обмануть кого-то ложью.\nЭто занимает по крайней мере 1 раунд, или дольше, если ложь является сложной или тщательно продуманной.\nВы бросаете одну проверку Обмана и сравниваете ее с КС Восприятия каждого существа, которое пытаетесь обмануть.\nМастер может дать им бонус обстоятельства, в зависимости от ситуации и природы вашей лжи.\nСущество труднее заставить поверить в тщательно продуманную или в высшей степени невероятную ложь, чем в более простую и правдоподобную, а иногда ложь настолько велика, что невозможно заставить кого-либо поверить в нее.</p><p>На усмотрение Мастера, если существо изначально верит вашей лжи, оно может позднее сделать проверку Восприятия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span> с вашим КС Обмана, чтобы понять, что это ложь.\nЭто обычно случается если существо обнаруживает достаточно доказательств для опровержения ваших утверждений.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Цель верит вашей лжи.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель не верит вашей лжи, и получает бонус обстоятельства +4 против ваших попыток Лгать, на протяжении диалога. Цель также, с большей вероятностью, будет подозрительно к вам относиться в будущем.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-deception-lie"
+        },
+        {
+            "fullName": "Финт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=48\">Feint</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Финт",
+            "traits": [
+                "ментальный"
+            ],
+            "originalName": "Feint",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Цель вашего Финта в пределах досягаемости ближнего боя</p><hr class=\"docutils\"><p>Делая обманный замах, вы оставляете противника неподготовленным к вашей настоящей атаке.\nСделайте проверку Обмана против КС Восприятия вашей цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы полностью обескураживаете противника. До конца вашего следующего хода, цель <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> для ваших атак ближнего боя.</div>\n<div class=\"line\"><strong>Успех</strong>: Ваш враг одурачен, но только на мгновение. До конца вашего текущего хода, враг <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> для вашей следующей атаки ближнего боя.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваш финт дает обратный эффект. До конца вашего следующего хода, вы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> для атак ближнего боя этой цели.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-deception-feint"
+        },
+        {
+            "fullName": "Собрать информацию (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=49\">Gather Information</a>)",
+            "name": "Собрать информацию",
+            "traits": [
+                "тайна",
+                "исследование"
+            ],
+            "originalName": "Gather Information",
+            "rarity": "Обычный",
+            "desc": "<p>Вы опрашиваете местные рынки, таверны и места скопления людей в попытке узнать о конкретном индивиде или теме.\nМастер определяет КС проверки и количество времени, которое это займет (обычно 2 часа, но иногда больше), а также любую выгоду, которую вы можете получить, потратив деньги на взятки, напитки или подарки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы собираете информацию о личности или теме. Мастер определяет конкретные аспекты и детальность информации.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы собираете неверную информацию о личности или теме.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-diplomacy-gather-info"
+        },
+        {
+            "fullName": "Произвести впечатление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=50\">Make an Impression</a>)",
+            "name": "Произвести впечатление",
+            "traits": [
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "концентрация",
+                "исследование"
+            ],
+            "originalName": "Make an Impression",
+            "rarity": "Обычный",
+            "desc": "<p>С помощью по крайней мере 1 минуты разговора, в течение которой вы участвуете в харизматичных прелюдиях, лести и других актах доброжелательности, вы стремитесь произвести хорошее впечатление на кого-то, чтобы сделать его временно согласным.\nВ конце разговора, совершите проверку Дипломатии против КС Воли 1 цели, измененного любыми обстоятельствами, которые Мастер посчитает подходящими.\nХорошие впечатления (или плохие, при критическом провале) длятся только в течение данного социального взаимодействия, если только Мастер не решит иначе.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Отношение цели к вам улучшается на 2 ступени.</div>\n<div class=\"line\"><strong>Успех</strong>: Отношение цели к вам улучшается на 1 ступень.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Отношение цели к вам снижается на 1 ступень.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-diplomacy-make-an-impression"
+        },
+        {
+            "fullName": "Просьба (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=51\">Request</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Просьба",
+            "traits": [
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "концентрация"
+            ],
+            "originalName": "Request",
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете попросить о просьбе дружественное или любезное к вам существо.\nВы должны сформулировать просьбу с такими условиями, которые цель примет, учитывая ее текущее отношение к вам.\nМастер устанавливает КС на основе сложности просьбы.\nНекоторые просьбы являются сомнительными или невозможными, и даже <span class=\"card-link std std-ref\" data-id=\"c-helpful\">любезный</span> неигровой персонаж ни за что не согласится на них.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель соглашается на вашу просьбу без каких-либо оговорок.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель соглашается на ваше предложение, но может потребовать дополнительного обеспечения или корректировок просьбы.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель отказывает в просьбе, но может предложить менее радикальную альтернативу.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель не только отказывается, но из-за неосторожной просьбы ее отношение к вам понижается на 1 ступень.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-diplomacy-request"
+        },
+        {
+            "fullName": "Принуждение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=52\">Coerce</a>)",
+            "name": "Принуждение",
+            "traits": [
+                "слуховой",
+                "языковой",
+                "эмоция",
+                "ментальный",
+                "концентрация",
+                "исследование"
+            ],
+            "originalName": "Coerce",
+            "rarity": "Обычный",
+            "desc": "<p>С помощью завуалированных или явных угроз, вы пытаетесь заставить существо делать то, что вы хотите.\nВы должны провести по крайней мере 1 минуту разговора с существом, которое вы можете видеть, и которое может видеть или воспринимать вас.\nВ конце разговора сделайте проверку Запугивания против КС Воли существа, измененного любыми обстоятельствами, которые Мастер посчитает подходящими.\nОтношения, упомянутые в эффектах ниже, описаны в сноске <span class=\"card-link \">Изменение отношений (Changing Attitudes)</span> выше, и описаны полностью в \"Приложение. <span class=\"card-link \">Состояния (Conditions)</span>\".</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель дает вам информацию, которую вы ищете или соглашается следовать вашим указаниям, пока они не могут нанести ей вред каким-либо образом. Цель продолжает подчиняться требованиям в течение определенного Мастером периода времени, но не более 1 дня, после цель чего становится недружественной (если она еще не была недружественной или враждебной). Однако цель слишком напугана вами, чтобы принять меры, по крайней мере, в краткосрочной перспективе.</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но как только цель становится недружественной, то может решить действовать против вас, например, сообщая о вас властям или помогая вашим врагам.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель не делает то, что вы говорите, и если она не была уже недружественной или враждебной, то становится недружественной.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель отказывается подчиняться, становится враждебной, если еще не была таковой, и не может быть Принуждена вами минимум в течение 1 недели.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-intimidation-coerce"
+        },
+        {
+            "fullName": "Деморализовать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=53\">Demoralize</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Деморализовать",
+            "traits": [
+                "страх",
+                "слуховой",
+                "эмоция",
+                "ментальный",
+                "концентрация"
+            ],
+            "originalName": "Demoralize",
+            "rarity": "Обычный",
+            "desc": "<p>Внезапным криком, своевременной насмешкой или резким выпадом вы можете поколебать решимость врага.\nВыберите существо в пределах 30 футов от вас, о котором вам известно.\nСовершите проверку Запугивания против КС Воли цели.\nЕсли цель не понимает язык на котором вы говорите, вы не говорите используя языки, то вы получаете к проверке штраф обстоятельства -4.\nНезависимо от вашего результата, цель временно иммунна к вашим попыткам Деморализовать ее на 10 минут.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 2</span>.</div>\n<div class=\"line\"><strong>Успех</strong>:  Цель становится <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 1</span>.</div>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>Добавлен признак \"страх\" (отсутствовало в изменениях errata-r2).</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-intimidation-demoralize"
+        },
+        {
+            "fullName": "Первая помощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=54\">Administer First Aid</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Первая помощь",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Administer First Aid",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>, или он надет и у вас есть свободная рука</p><hr class=\"docutils\"><p>Вы оказываете первую помощь находящемуся рядом существу, которое <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> или кровоточит.\nЕсли существо одновременно <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и кровоточит, то прежде чем делать проверку, выберите какой недуг вы пытаетесь лечить.\nВы можете снова оказать \"Первую помощь\", чтобы попытаться излечить другой эффект.</p><ul class=\"simple\">\n<li><p><strong>Стабилизировать (Stabilize)</strong>: Сделайте проверку Медицины на существе, которое имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и 0 ОЗ. КС равен 5 + КС восстановления существа (обычно 15 + его значение состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>).</p></li>\n<li><p><strong>Остановить кровотечение (Stop Bleeding)</strong>: Сделайте проверку Медицины на существе, которое получает продолжительный урон кровотечением (см. <span class=\"card-link \">Продолжительный урон (Persistent Damage)</span>), помогая ему сделать еще одну чистую проверку, чтобы избавиться от состояния. КС этой проверки обычно равен КС эффекта вызвавшего кровотечение.</p></li>\n</ul><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Если вы пытаетесь <strong>стабилизовать</strong> существо, то оно теряет состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> (но остается <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>). Если вы пытаетесь <strong>остановить кровотечение</strong>, то существо совершает дополнительную чистую проверку для избавления от кровотечения.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Если вы пытались <strong>стабилизировать</strong> существо, его состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> увеличивается на 1. Если вы пытались <strong>остановить кровотечение</strong>, оно мгновенно получает урон равный величине кровотечения.</div>\n</div><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Уточнение, что вы можете использовать набор лекаря как часть действия, если есть свободная рука.</p>\n</div>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "skill-medicine-first-aid"
+        },
+        {
+            "fullName": "Лечение болезни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=55\">Treat Disease</a>)",
+            "name": "Лечение болезни",
+            "traits": [
+                "воздействие",
+                "отдых"
+            ],
+            "originalName": "Treat Disease",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>, или он надет</p><hr class=\"docutils\"><p>Вы тратите не менее 8 часов ухаживая за больным существом.\nВыполните проверку Медицины против КС болезни.\nПосле вашей попытки \"Лечения болезни\" существа, вы не можете попытаться снова до следующего спасброска существа против этой болезни.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы даете существу бонус обстоятельства +4 к его следующему спасброску против этой болезни.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы даете существу бонус обстоятельства +2 к его следующему спасброску против этой болезни.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Из-за ваших усилий существо получает штраф обстоятельства -2 к его следующему спасброску против этой болезни.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-medicine-treat-disease"
+        },
+        {
+            "fullName": "Лечение от яда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=56\">Treat Poison</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Лечение от яда",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Treat Poison",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>, или он надет и у вас есть свободная рука</p><hr class=\"docutils\"><p>Вы ухаживаете за пациентом, чтобы предотвратить распространение яда.\nВыполните проверку Медицины против КС яда.\nПосле вашей попытки лечения существа от яда, вы не можете попытаться снова до следующего спасброска существа против этого яда.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы даете существу бонус обстоятельства +4 к его следующему спасброску против этого яда.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы даете существу бонус обстоятельства +2 к его следующему спасброску против этого яда.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Из-за ваших усилий существо получает штраф обстоятельства -2 к его следующему спасброску против этого яда.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-medicine-treat-poison"
+        },
+        {
+            "fullName": "Лечение ран (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=57\">Treat Wounds</a>)",
+            "name": "Лечение ран",
+            "traits": [
+                "исследование",
+                "исцеление",
+                "воздействие"
+            ],
+            "originalName": "Treat Wounds",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор лекаря (Healer's Tools)</span> или он надет</p><hr class=\"docutils\"><p>Вы тратите 10 минут на лечение 1 раненого живого существа (можно себя самого).\nПосле этого, цель временно иммунна к действиям \"Лечение ран\" на 1 час, но этот промежуток накладывается на время потраченное на лечение (пациента можно лечить раз в час, а не раз в 70 минут).</p><p>Проверка Медицины обычно имеет КС 15, хотя Мастер может подкорректировать его в зависимости от обстоятельств, таких как лечение пациента во время бури, или лечение магически проклятых ран.\nЕсли вы <strong>эксперт</strong> Медицины, то вместо этого можете выполнить проверку с КС 20, чтобы восстановить на 10 ОЗ больше;\nесли вы <strong>мастер</strong> Медицины, то вместо этого можете выполнить проверку с КС 30, чтобы восстановить на 30 ОЗ больше;\nесли вы <strong>легенда</strong> Медицины, то вместо этого можете выполнить проверку с КС 40, чтобы восстановить на 50 ОЗ больше.\nУрон наносимый при критическом провале остается прежним.</p><p>Если вы успешно проходите проверку, то можете продолжить лечение цели, чтобы предоставить дополнительное лечение.\nЕсли вы лечили цель в общей сложности в течение 1 часа, то удвойте Очки Здоровья восстанавливаемые от \"Лечения ран\".</p><p>Результат проверки Медицины определяет сколько Очков Здоровья восстанавливает цель.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель восстанавливает 4d8 ОЗ и ее состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> убирается.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель восстанавливает 2d8 ОЗ и ее состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> убирается.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает 1d8 урона.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-medicine-treat-wounds"
+        },
+        {
+            "fullName": "Команда животному (<a class=\"reference external\" href=\"https://2e.aonprd.com/Skills.aspx?ID=10\">Command an Animal</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Команда животному",
+            "traits": [
+                "слуховой",
+                "концентрация"
+            ],
+            "originalName": "Command an Animal",
+            "rarity": "Обычный",
+            "desc": "<p>Вы даете животному команду.\nСовершите проверку Природы с КС Воли существа.\nМастер может подкорректировать КС, если животное хорошо к вам относится, вы предлагаете действия к которым оно было предрасположено, или предлагаете ему угощение.</p><p>Вы автоматически проваливаете проверку, если животное враждебно или недружелюбно к вам.\nЕсли животное любезно к вам, увеличьте степень успешности на 1 ступень.\nВы можете легче \"Командовать животному\" с помощью способности наподобие <span class=\"card-link std std-ref\" data-id=\"feat-ride\">Езда верхом (Ride) / 1</span>.</p><p>Большинство животных знают стандартные действия <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, <span class=\"card-link std std-ref\" data-id=\"action-drop-prone\">Упасть ничком (Drop Prone) </span>, <span class=\"card-link std std-ref\" data-id=\"action-stand\">Встать (Stand) </span>, <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> и <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЕсли животное знает активность, как например лошадиный Галоп, то вы можете \"Командовать животному\" выполнить эту активность, но вы должны потратить на \"Командовать животному\" столько же действий, сколько требуется для выполнения активности.\nЕще вы можете потратить несколько действий на \"Команду животному\", чтобы оно выполнило эти стандартные действия в свой следующий ход;\nнапример, вы можете потратить 3 действия на \"Команду животному\" сделать 3 Перемещения, или 2 Перемещения и потом Удар.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Животное выполняет вашу команду в свой следующий ход.</div>\n<div class=\"line\"><strong>Провал</strong>: Животное колеблется или сопротивляется, и ничего не делает.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Животное плохо себя ведет или неправильно понимает команду, и оно делает какое-то другое действие, определенное Мастером.</div>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>В стандартные действия добавлено <span class=\"card-link std std-ref\" data-id=\"action-drop-prone\">Упасть ничком (Drop Prone) </span>.</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-nature-command-an-animal"
+        },
+        {
+            "fullName": "Выступить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Skills.aspx?ID=12\">Perform</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Выступить",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Perform",
+            "rarity": "Обычный",
+            "desc": "<p>Когда вы делаете короткое выступление, одну песню, быстрый танец или несколько шуток, вы используете действие Выступить.\nЭто действие наиболее полезно, когда вы хотите проявить себя или быстро произвести на кого-то впечатление.\nВыступление редко оказывает влияние само по себе, но оно может повлиять на КС последующих проверок Дипломатии в отношении наблюдателей, или даже изменить их отношение к вам, если Мастер сочтет это уместным.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваше выступление впечатляет наблюдателей, и они вероятно поделятся историями о вашем таланте.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы проявляете себя, и наблюдатели по достоинству оценивают качество вашего выступления.</div>\n<div class=\"line\"><strong>Провал</strong>: Ваше выступление терпит провал.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы демонстрируете только свою некомпетентность.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-performance-perform"
+        },
+        {
+            "fullName": "Создать подделку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=60\">Create Forgery</a>)",
+            "name": "Создать подделку",
+            "traits": [
+                "тайна",
+                "отдых"
+            ],
+            "originalName": "Create Forgery",
+            "rarity": "Обычный",
+            "desc": "<p>Вы создаете поддельный документ, как правило, в течение дня или недели.\nЧтобы создать подделку, вы должны иметь подходящий материал для письма.\nКогда вы \"Создаете подделку\" Мастер кидает тайную проверку Общества с КС 20.\nЕсли вам это удастся, подделка будет достаточно хорошего качества, чтобы пассивные наблюдатели не могли заметить подделку.\nЭто могут обнаружить только те, кто тщательно изучает документ и совершает проверку Восприятия или Общества против вашего КС Общества.</p><p>Если почерк в документе не должен походить на почерк другого человека, вам лишь нужно предварительно увидеть подобный документ, тогда вы получаете к проверке бонус обстоятельства вплоть до +4, а также к вашему КС (Мастер определяет бонус).\nЧтобы подделать почерк конкретного человека, вам нужен образец его почерка.</p><p>Если результат вашей проверки был ниже 20, подделка получает некоторые очевидные признаки фальсификации, так что Мастер сравнивает ваш результат с КС Восприятия или Общества всех пассивных наблюдателей, в зависимости от того что больше, используя результаты успеха или провала указанные ниже.\nКак только Мастер совершает за вас бросок проверки создания документа, тот же результат используется с КС всех пассивных наблюдателей, не важно сколько существ будут видеть документ.</p><p>Наблюдатель, который был обманут пассивным осмотром документа, все еще может начать тщательное изучение документа на предмет подделки, используя разные приемы и методы помимо анализа поверхностных элементов, успешно подделанных вами с помощью изначальной проверки.\nВ этом случае, наблюдатель может совершить проверку Восприятия или Общества против вашего КС Общества (в случае успеха, он узнает что документ поддельный).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Наблюдатель не обнаруживает факта подделки.</div>\n<div class=\"line\"><strong>Провал</strong>: Наблюдатель знает, что документ подделан.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-society-create-forgery"
+        },
+        {
+            "fullName": "Скрыть объект (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=61\">Conceal an Object</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Скрыть объект",
+            "traits": [
+                "тайна",
+                "воздействие"
+            ],
+            "originalName": "Conceal an Object",
+            "rarity": "Обычный",
+            "desc": "<p>Вы прячете на себе небольшой объект (такой как оружие легкой Массы).\nКогда вы пытаетесь пронести скрытый объект мимо кого-то, кто может его заметить, Мастер кидает за вас проверку Скрытности и сравнивает ее с КС Восприятия этого пассивного наблюдателя.\nКак только Мастер бросил вашу проверку для скрытого объекта, этот результат используется вне зависимости от того, мимо скольких пассивных наблюдателей вы пытаетесь пронести объект.\nЕсли существо специально обыскивает вас на наличие предмета, то оно может сделать проверку Восприятия против вашего КС Скрытности (находя объект при успехе).</p><p>Еще вы можете скрыть объект где-то помимо себя, среди подлеска или в потайном отделении мебели.\nВ этом случае, персонажи <span class=\"card-link std std-ref\" data-id=\"action-seek\">Ищущие (Seeking)</span> в области, сравнивают свою проверку Восприятия с вашим КС Скрытности, чтобы узнать, найдут ли они объект.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Объект остается необнаруженным.</div>\n<div class=\"line\"><strong>Провал</strong>: Тот кто ищет объект, находит его.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-stealth-conceal-an-object"
+        },
+        {
+            "fullName": "Спрятаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=62\">Hide</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Спрятаться",
+            "traits": [
+                "тайна"
+            ],
+            "originalName": "Hide",
+            "rarity": "Обычный",
+            "desc": "<p>Вы прячетесь за обычным или большим укрытием, или прячетесь сильнее используя состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, чтобы получить состояние <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span>, а не оставаться <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченным</span>.\nМастер бросает за вас тайную проверку Скрытности и сравнивает результат с КС Восприятия каждого существа, для которого вы <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>, но от которых у вас есть обычное или большое укрытие, или вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> от них.\nВы получаете к проверке бонус обстоятельства от обычного или большого укрытия.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Если существо могло видеть вас, то теперь вы для него <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span>, а не <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>. Если вы были <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> от существа или <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> им, то сохраняете это состояние.</div>\n</div><p>Если вы успешно стали <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> от существа, но затем перестаете иметь обычное или большое укрытие или быть <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> от него, то вы снова становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченным</span> для него.\nВы перестаете быть <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span>, если делаете что-то помимо Спрятаться, <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.\nЕсли вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по существу, то оно остается застигнутым врасплох для этой атаки, а после нее вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>.\nЕсли вы делаете что-то другое, то становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> сразу до совершения действия, если только Мастер не решит иначе. Мастер может разрешить вам совершать очень незаметные действия не будучи <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченным</span>, возможно сделав дополнительную проверку Скрытности.</p><p>Если существо использует <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, чтобы сделать вас <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченным</span>, то вы должны успешно Спрятаться, чтобы снова стать \"спрятанным\".</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-stealth-hide"
+        },
+        {
+            "fullName": "Красться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=63\">Sneak</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Красться",
+            "traits": [
+                "тайна",
+                "движение"
+            ],
+            "originalName": "Sneak",
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете попытаться переместиться в другое место, став или оставаясь <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span>.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> на расстояние вплоть до половины вашей Скорости. (Вы можете Красться когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения; вы должны двигаться с половиной этой Скорости.)</p><p>Если вы <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> существом и для него невозможно <span class=\"card-link std std-ref\" data-id=\"c-observed\">заметить</span> вас (для обычного существа это ваша невидимость, наблюдатель имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>, вы во тьме и существо не может видеть в ней), то при любом критическом провале броска проверки Красться, вы вместо этого получаете обычный провал.\nТакже вы продолжаете оставаться <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span>, если теряете обычное или большое укрытие относительно существа, или перестаете быть <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> от него.</p><p>В конце вашего перемещения, Мастер бросает за вас тайную проверку Скрытности и сравнивает результат с КС Восприятия каждого существа, для которого вы были <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> или <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> на момент начала перемещения.\nЕсли у вас есть обычное или большое укрытие от существа, на всем пути вашего <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещения (Stride)</span>, то вы получаете к проверке Скрытности бонус обстоятельства +2 от укрытия (или +4 от большого укрытия).\nТак как вы передвигаетесь, то увеличение бонуса от действия <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span> не применяется.</p><p>Если в конце вашего передвижения у вас нет обычного или большого укрытия относительно существа, либо вы не <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> от него, то вам не надо выполнять проверку против такого существа.\nВы автоматически становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> таким существом.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> существом во время движения и остаетесь <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> им по окончании передвижения. Вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> как только делаете что-то, отличное от Красться, <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>. Если вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по существу, то оно остается застигнутым врасплох для этой атаки, а после нее вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>. Если вы делаете что-то другое, то становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> сразу до совершения действия, если только Мастер не решит иначе. Мастер может разрешить вам совершать очень незаметные действия не будучи замеченным, возможно сделав дополнительную проверку Скрытности. Если вы говорите, или умышленно издаете громкий звук, то становитесь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> а не <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span>. Если существо использует <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, и в результате этого вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> для него, то вы должны Красться если снова хотите стать \"необнаруженным\" для этого существа.</div>\n<div class=\"line\"><strong>Провал</strong>: Ваше расположение выдает предательский звук или другой признак, хотя вы все еще остаетесь незаметным. Вы <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> от существа на протяжении всего вашего передвижения, и остаетесь таковым.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вас засекли! Вы <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> существом во время движения, и остаетесь таковым. Если вы <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимы</span> и были <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> от существа, то вместо того, чтобы стать <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченным</span> вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> на протяжении всего вашего передвижения, и остаетесь таковым.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-stealth-sneak"
+        },
+        {
+            "fullName": "Определить направление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=64\">Sense Direction</a>)",
+            "name": "Определить направление",
+            "traits": [
+                "тайна",
+                "исследование"
+            ],
+            "originalName": "Sense Direction",
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете ориентироваться в дикой природе по звездам, положению солнца, особенностям географии или флоры, или поведению фауны.\nОбычно вы совершаете проверку Выживания только раз в день, но иногда, некоторые окружающие среды или изменения могу потребовать кидать проверку чаще.\nМастер определяет КС и длительность активности (обычно минута или около того).\nБолее необычные местности или те, с которыми вы незнакомы, могут требовать от вас минимального уровня мастерства для \"Определения направления\".\nБез <span class=\"card-link \">компаса</span> вы получаете штраф предмета -2 к проверкам \"Определить направление\".</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: У вас прекрасное понимание того, где вы находитесь. Если вы в окружении у которого есть стороны света, то вы точно их определяете.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы ориентируетесь достаточно чтобы не заблудиться. Если вы в окружении у которого есть стороны света, вы примерно понимаете их направления.</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "skill-survival-sense-direction"
+        },
+        {
+            "fullName": "Заметать следы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=65\">Cover Tracks</a>)",
+            "name": "Заметать следы",
+            "traits": [
+                "исследование",
+                "движение",
+                "концентрация"
+            ],
+            "originalName": "Cover Tracks",
+            "rarity": "Обычный",
+            "desc": "<p>Вы прячете свои следы, двигаясь со скоростью, вплоть до половины вашей Скорости путешествия (используя правила из <span class=\"card-link \">Скорость путешествия (Travel Speed)</span>).\nВам не надо делать проверку Выживания, чтобы прятать следы, но любому выслеживающему вас, требуется совершить успешную проверку Выживания против вашего КС Выживания, если он выше стандартного КС для <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживание (Track)</span>.</p><p>В некоторых случаях, вы можете \"Заметать следы\" во время столкновений.\nВ этом случае, \"Заметать следы\" - одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">) и оно не имеет признака <span class=\"t-exploration\">исследование</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-survival-cover-tracks"
+        },
+        {
+            "fullName": "Выслеживание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=66\">Track</a>)",
+            "name": "Выслеживание",
+            "traits": [
+                "исследование",
+                "движение",
+                "концентрация"
+            ],
+            "originalName": "Track",
+            "rarity": "Обычный",
+            "desc": "<p>Вы идете по следам, двигаясь со скоростью, вплоть до половины вашей Скорости путешествия (используя правила из <span class=\"card-link \">Скорость путешествия (Travel Speed)</span>).\nПосле успешной проверки Выслеживания, вы можете продолжить идти по следу с половиной своей Скорости, без необходимости совершать дополнительные проверки в течение часа.\nВ некоторых случаях, вы можете Выслеживать в столкновении.\nВ этом случае, Выслеживание - одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">) и оно не имеет признака <span class=\"t-exploration\">исследование</span>, но вам может потребоваться делать проверки чаще, из-за напряженной обстановки.\nМастер решает как часто вы делаете эти проверки.</p><p>Вы совершаете свою проверку Выживания когда начинаете Выслеживать, раз в каждые несколько часов когда продолжаете выслеживать, и всякий раз когда со следом происходят значительные изменения.\nМастер определяет КС таких проверок, в зависимости от свежести следа, погоды и типа поверхности.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы находите след или продолжаете следовать по уже найденному.</div>\n<div class=\"line\"><strong>Провал</strong>: Вы теряете след, но можете попытаться снова через 1 час.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы теряете след и не можете попытаться снова в течение 24 часов.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-survival-track"
+        },
+        {
+            "fullName": "Ловкость рук (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=67\">Palm an Object</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Ловкость рук",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Palm an Object",
+            "rarity": "Обычный",
+            "desc": "<p>Чтобы незаметно спрятать в ладони маленький ничейный объект не будучи замеченным, от вас требуется совершить бросок одной проверки Воровства против КС Восприятия всех существ для которых вы <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>.\nВы берете объект, независимо от того, как успешно вы скрываете свое действие.\nОбычно вы можете использовать \"Ловкость рук\" только с объектами незначительной массы, хотя Мастер может решить иначе, в зависимости от ситуации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Существо не замечает что вы берете объект.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо замечает что вы берете объект, и Мастер решает реакцию существа на это.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-thievery-palm-an-object"
+        },
+        {
+            "fullName": "Украсть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=68\">Steal</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Украсть",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Steal",
+            "rarity": "Обычный",
+            "desc": "<p>Вы пытаетесь незаметно взять маленький объект у другого существа.\nОбычно вы можете Украсть только объект незначительной массы, и вы автоматически терпите провал, если существо, у которого есть этот объект, находится в бою или на страже.</p><p>Совершите проверку Воровства, чтобы определить успешно ли вы Украли объект.\nОбычно КС для Украсть является КС Восприятия существа носящего объект.\nЭто предполагает, что объект надет на существе, но охраняется не тщательно (например, свободно болтающийся кошелек наполненный монетами, или предмет в таком кошельке).\nЕсли объект находится в кармане или защищен аналогичным образом, вы получаете штраф -5 к проверке Воровства.\nМастер может увеличить КС вашей проверки, если характер воруемого объекта усложняет задачу (например, очень маленький объект в большой упаковке или лист бумаги перемешанный с другими документами).</p><p>Возможно, вам еще потребуется сравнить результат вашей проверки Воровства с КС Восприятия наблюдателей, которые не являются носителем объекта.\nМастер может изменить КС Восприятия наблюдателей если они отвлечены или пристально смотрят.\n(прим.пер.: Изменено относительно оригинала, где скорее всего ошибка. Там сказано только об увеличении КС когда наблюдатели отвлечены, что выглядит странно.)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы воруете предмет без ведома владельца, или наблюдатель не видит, что вы берете или пытаетесь взять предмет.</div>\n<div class=\"line\"><strong>Провал</strong>: Владелец предмета замечает вашу попытку до того как вы можете взять объект, или наблюдатель видит как вы берете или пытаетесь взять предмет. Мастер определяет реакцию существ замечающих вашу кражу.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "skill-thievery-steal"
+        },
+        {
+            "fullName": "Отключение устройства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=69\">Disable a Device</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Отключение устройства",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Disable a Device",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Некоторые устройства требуют для отключения <span class=\"card-link \">Инструменты вора (Thieves' tools)</span></p><hr class=\"docutils\"><p>Это действие позволяет вам обезвреживать ловушки или другие сложные устройства.\nЧасто, для отключения устройства требуется несколько успешных попыток, в зависимости от его конструкции и сложности.\nИнструменты вора полезны, а иногда даже необходимы для \"Отключения устройства\", по решению Мастера, а иногда для отключения устройства требуется более высокий уровень мастерства Воровства.</p><p>Ваш результат проверки Воровства определяет ваш прогресс.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы отключаете устройство, или получаете 2 успеха в отключении сложного устройства. Вы не оставляете никаких следов своего вмешательства, и позднее можете повторно активировать устройство, если этот тип устройства может быть повторно активирован.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы отключаете устройство, или получаете 1 успех в отключении сложного устройства.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы провоцируете срабатывание устройства.</div>\n</div>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "skill-thievery-disable-a-device"
+        },
+        {
+            "fullName": "Вскрытие замка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=70\">Pick a Lock</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Вскрытие замка",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Pick a Lock",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Инструменты вора (Thieves' tools)</span> или они надеты и у вас есть свободная рука</p><hr class=\"docutils\"><p>Открытие замка без ключа очень похоже на <span class=\"card-link std std-ref\" data-id=\"skill-thievery-disable-a-device\">Отключение устройства (Disable a Device) </span>, но КС проверки определяется сложностью и конструкцией замка (замки и их КС можно найти в описании снаряжения - <span class=\"card-link \">Замок (Lock)</span>).\nЗамки более высокого качества могут потребовать несколько успешных попыток для открытия, так как в противном случае даже неквалифицированный взломщик мог бы легко взломать замок выполняя проверки, пока не выпадет натуральная 20-ка.\nЕсли у вас нет надлежащих инструментов, то в зависимости от специфики замка, Мастер может позволить вам использовать импровизированные отмычки, которые рассматриваются как низкокачественные инструменты (см. <span class=\"card-link \">Низкокачественные предметы (Shoddy Items)</span>).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы открываете замок, или получаете 2 успеха в открытии сложного замка. Вы не оставляете никаких следов своего вмешательства.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы открываете замок, или получаете 1 успех в открытии сложного замка.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы ломаете свои инструменты. Чтобы их починить требуется использовать Ремесло произведя <span class=\"card-link std std-ref\" data-id=\"skill-crafting-repair\">Ремонт (Repair)</span>, либо заменив с помощью запасных отмычек (стоящих 3 см, или 3 зм для инструментов взломщика, см. <span class=\"card-link std std-ref\" data-id=\"table-6-9\">Таблица 6-9: Снаряжение для приключений (Adventuring Gear)</span>).</div>\n</div>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "skill-thievery-pick-a-lock"
+        },
+        {
+            "fullName": "Сфокусироваться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=71\">Refocus</a>)",
+            "name": "Сфокусироваться",
+            "traits": [
+                "концентрация",
+                "исследование"
+            ],
+            "originalName": "Refocus",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть запас очков фокусировки и вы потратили хотя бы 1 ОФ с последнего раза, когда восстанавливали любые Очки Фокусировки</p><hr class=\"docutils\"><p>Вы тратите 10 минут на выполнение действий, чтобы восстановить свою магическую связь.\nЭто восстанавливает 1 Очко Фокусировки в вашем запасе.\nДействия, которые вам нужно выполнять, конкретизированы в классе или умении, которая дает вам заклинания фокусировки.\nЭти действия обычно могут пересекаться с другими задачами, которые относятся к источнику ваших заклинаний фокусировки.\nНапример, жрец с заклинаниями фокусировки доброго божества может Сфокусироваться пока ухаживает за ранами своих союзников, а волшебник школы иллюзий может Сфокусироваться, выполняя <span class=\"card-link \">Идентификация магии (Identify Magic)</span> школы иллюзий.</p>",
+            "src": "",
+            "action": "",
+            "id": "action-refocus"
+        },
+        {
+            "fullName": "Сотворение заклинания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=72\">Cast a Spell</a>)",
+            "name": "Сотворение заклинания",
+            "traits": [],
+            "originalName": "Cast a Spell",
+            "rarity": "Обычный",
+            "desc": "<p>Вы творите подготовленное или находящееся в вашем репертуаре заклинание.\n\"Сотворение заклинания\" это специальная активность, которая занимает различное количество действий в зависимости от заклинания, и указано в блоке характеристик каждого заклинания.\nКак только заклинательские действия завершены, возникает эффект заклинания.</p><p>Некоторые заклинания сотворяются как реакция или свободное действие.\nВ этих случаях, вы \"Сотворяете заклинание\" реакцией или свободным действием (соответственно), а не активностью.\nТакие случаи будут отмечены в блоке характеристик заклинания, например, \"<img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный\".</p><p><strong>Долгое время использования</strong>.\nНа сотворение некоторых заклинаний уходят минуты или часы.\nАктивность \"Сотворение заклинания\" для таких заклинаний включает сочетание перечисленных компонентов заклинания, но оно не обязательно указывает какие из них вы выполняете в какое время.\nВы не можете осуществлять другие действия или реакции во время сотворения такого заклинания, хотя на усмотрение Мастера, вы можете сказать пару предложений.\nКак и с другими активностями, которые занимают долгое время, эти заклинания имеют признак <span class=\"t-exploration\">исследование</span> и вы не можете сотворять их во время столкновения.\nЕсли бой начинается во время сотворения такого заклинания, оно прерывается (см. далее \"Прерванные и потерянные заклинания\").</p><p><strong>Компоненты заклинания</strong>.\nКаждое заклинание, после иконок действий или текста, перечисляет компоненты требуемые для сотворения, например \"<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> жестовый, словесный, материальный\".\nКомпоненты заклинания, детально описанные далее, добавляют признаки и требования для активности \"Сотворение заклинания\".\nЕсли вы не можете обеспечить компоненты, то проваливаете заклинание.</p><ul class=\"simple\">\n<li><p>Материальный (<span class=\"t-manipulate\">воздействие</span>)</p></li>\n<li><p>Жестовый (<span class=\"t-manipulate\">воздействие</span>)</p></li>\n<li><p>Словесный (<span class=\"t-concentrate\">концентрация</span>)</p></li>\n<li><p>Фокусный (<span class=\"t-manipulate\">воздействие</span>)</p></li>\n</ul><p><strong>Прерванные и потерянные заклинания</strong>.\nНекоторые умения и заклинания могут прервать заклинание, в результате чего оно не возымеет никакого эффекта и будет потеряно.\nКогда вы теряете заклинание, вы уже потратили слот заклинания, потратили стоимость заклинания и действия, и использовали активность \"Сотворение заклинания\".\nЕсли заклинание прервано во время действия <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддержание заклинания (Sustain a Spell) </span>, то заклинание мгновенно заканчивается.\nПолные правила о прерывании действий описаны в <span class=\"card-link \">Прерывание действий (Disrupting Actions)</span>.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-cast-a-spell"
+        },
+        {
+            "fullName": "Поддержание заклинания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=73\">Sustain a Spell</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Поддержание заклинания",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Sustain a Spell",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть хотя бы одно активное заклинание с поддерживаемой продолжительностью, и вы не имеете состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомление</span></p><hr class=\"docutils\"><p>Выберите одно имеющееся у вас активное в данный момент заклинание с поддерживаемой продолжительностью.\nВремя действия этого заклинания продолжается до конца вашего следующего хода.\nНекоторые заклинания могут иметь несколько другие или расширенные эффекты если вы их поддерживаете.\n\"Поддержание заклинания\" более 10 минут (100 раундов) завершает заклинание и делает вас <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомленным</span>, если только заклинание не указывает другую максимальную продолжительность (как например \"поддерживаемое вплоть до 1 минуты\" или \"поддерживаемое вплоть до 1 часа\").</p><p>Если ваше действие \"Поддержание заклинания\" прерывается, то это заклинание мгновенно заканчивается.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-sustain-a-spell"
+        },
+        {
+            "fullName": "Развеять (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=74\">Dismiss</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Развеять",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Dismiss",
+            "rarity": "Обычный",
+            "desc": "<p>Вы завершаете эффект одного заклинания или эффект магического предмета.\nЭто должен быть эффект, который вы можете развеять, как определено заклинанием или предметом.\nВ зависимости от заклинания или предмета, развеивание может полностью прекратить эффект или сделать это только для определенной цели или целей.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-dismiss"
+        },
+        {
+            "fullName": "Удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=89\">Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Удар",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Strike",
+            "rarity": "Обычный",
+            "desc": "<p>Вы атакуете оружием, которым владеете или безоружной атакой, целясь в одно существо в пределах вашей досягаемости (для ближней атаки) или в пределах дистанции (для дистанционной атаки).\nСделайте бросок атаки используемого оружия или безоружной атакой и сравните результат с КБ цели для определения эффекта.\nСмотрите раздел <span class=\"card-link \">Броски атак (Attack Rolls)</span> и <span class=\"card-link \">Урон (Damage)</span> по поводу подробностей о вычислении бросков атак и урона.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Как успех, но вы наносите двойной урон (см. <span class=\"card-link \">Двойной урон и половинный урон (Doubling and Halving Damage)</span>).</div>\n<div class=\"line\"><strong>Успех</strong>: Вы наносите урон, в соответствии оружию или безоружной атаке, включая любые имеющиеся у вас модификаторы, бонусы и штрафы на урон.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-strike"
+        },
+        {
+            "fullName": "Перемещение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=88\">Stride</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Перемещение",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Stride",
+            "rarity": "Обычный",
+            "desc": "<p>Вы двигаетесь на расстояние вплоть до вашей Скорости (см. <span class=\"card-link \">Передвижение в столкновениях (Movement in Encounters)</span>).</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-stride"
+        },
+        {
+            "fullName": "Шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=87\">Step</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Шаг",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Step",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Ваша Скорость как минимум 10 футов</p><hr class=\"docutils\"><p>Вы осторожно двигаетесь на 5 футов.\nВ отличие от большинства видов движения, Шаг не провоцирует реакции, такие как <span class=\"card-link std std-ref\" data-id=\"action-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>, которые могут быть спровоцированы действиями с признаком <span class=\"t-move\">движение</span>, либо при входе в квадрат или выходе из него.</p><p>Вы не можете Шагать на сложной местности (см. <span class=\"card-link \">Сложная местность (Difficult Terrain)</span>), и вы не можете Шагать, применяя Скорость отличную от наземной.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-step"
+        },
+        {
+            "fullName": "Взаимодействовать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=80\">Interact</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Взаимодействовать",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Interact",
+            "rarity": "Обычный",
+            "desc": "<p>Вы используете вашу руку или руки, чтобы воздействовать на объект или местность.\nВы можете взять ничейный или убранный объект, открыть дверь, или произвести подобный эффект.\nВозможно вам придется совершить проверку навыка, чтобы определить успешность Взаимодействия.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-interact"
+        },
+        {
+            "fullName": "Отпустить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=83\">Release</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "Отпустить",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Release",
+            "rarity": "Обычный",
+            "desc": "<p>Вы отпускаете что-то, что держите в руке или руках.\nЭто может означать падение предмета, убрать одну руку с оружия и продолжать держать его другой рукой, отпустить веревку держащую люстру или выполнение подобного действия.\nВ отличие от многих действий с признаком <span class=\"t-manipulate\">воздействие</span>, Отпустить не провоцирует реакции, которые могут сработать от действий с признаком <span class=\"t-manipulate\">воздействие</span> (такие как <span class=\"card-link std std-ref\" data-id=\"action-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>).</p><p>Если вы хотите приготовиться Отпустить что-то вне вашего хода, то используйте активность <span class=\"card-link std std-ref\" data-id=\"action-ready\">Приготовиться (Ready) </span>.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "action-release"
+        },
+        {
+            "fullName": "Прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=81\">Leap</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Прыжок",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Leap",
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете осторожный короткий прыжок.\nВы можете сделать Прыжок горизонтально на расстояние вплоть до 10 футов, если ваша Скорость как минимум 15 футов, или горизонтально на расстояние вплоть до 15 футов, если ваша Скорость как минимум 30 футов.\nВы приземляетесь в пространстве где заканчивается Прыжок (это значит, что вы обычно можете пересечь 5-футовую яму, или 10-футовую яму если ваша Скорость 30 футов или более).</p><p>Если вы Прыгаете вертикально, то можете переместиться вертикально на приподнятую поверхность вплоть до 3 футов и горизонтально на 5 футов.</p><p>Прыжки на большую дистанцию требуют использовать навык Атлетика.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-leap"
+        },
+        {
+            "fullName": "Упасть ничком (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=78\">Drop Prone</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Упасть ничком",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Drop Prone",
+            "rarity": "Обычный",
+            "desc": "<p>Вы ложитесь <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-drop-prone"
+        },
+        {
+            "fullName": "Ползти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=76\">Crawl</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Ползти",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Crawl",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы лежите <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> и ваша Скорость как минимум 10 футов</p><hr class=\"docutils\"><p>Вы перемещаетесь на 5 футов ползком и остаетесь <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> на земле.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-crawl"
+        },
+        {
+            "fullName": "Встать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=86\">Stand</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Встать",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Stand",
+            "rarity": "Обычный",
+            "desc": "<p>Встаете из положения <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-stand"
+        },
+        {
+            "fullName": "Укрыться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=90\">Take Cover</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Укрыться",
+            "traits": [],
+            "originalName": "Take Cover",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы получаете преимущество от укрытия, находитесь рядом с чем-то, что позволяет вам укрыться, или вы лежите <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span></p><hr class=\"docutils\"><p>Вы прижимаетесь к стене или садитесь за препятствие, чтобы лучше укрыться за ним (см. <span class=\"card-link \">Укрытие (Cover)</span>).\nЕсли бы у вас было стандартное укрытие, то вы вместо этого получаете большое укрытие, которое дает бонус обстоятельства +4 к КБ, спасброскам Рефлекса против эффектов по области, и проверкам Скрытности для <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> или другим способом избегать обнаружения.\nИначе, вы получаете преимущества стандартного укрытия (бонус обстоятельства +2).\nЭто длится пока вы не покините свое текущее пространство, используете атакующее действие, <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">потеряете сознание</span>, или завершите этот эффект используя свободное действие.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-take-cover"
+        },
+        {
+            "fullName": "Вырваться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=79\">Escape</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Вырваться",
+            "traits": [
+                "атака"
+            ],
+            "originalName": "Escape",
+            "rarity": "Обычный",
+            "desc": "<p>Вы пытаетесь вырваться, из состояния <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span>.\nВыберите одно существо, объект, эффект заклинания, опасность, или другое препятствие применяющее на вас любое из этих состояний.\nСовершите проверку используя ваш модификатор безоружной атаки против КС эффекта.\nОбычно это КС Атлетики схватившего вас существа, КС Воровства связавшего вас, КС заклинания для эффекта заклинания или указанный КС Вырваться для объекта, опасности или другого препятствия.\nЕсли хотите, то можете использовать проверку Акробатики или Атлетики вместо модификатора безоружной атаки (но это действие все еще будет иметь признак <span class=\"t-attack\">атака</span>).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы освобождаетесь и избавляетесь от состояний <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span> и <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> наложенных выбранной целью. После этого вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> на расстояние вплоть до 5 футов.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы освобождаетесь и избавляетесь от состояний <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span> и <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> наложенных выбранной целью.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы не освобождаетесь и не можете попытаться Вырваться снова до своего следующего хода.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-escape"
+        },
+        {
+            "fullName": "Поиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=84\">Seek</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Поиск",
+            "traits": [
+                "тайна",
+                "концентрация"
+            ],
+            "originalName": "Seek",
+            "rarity": "Обычный",
+            "desc": "<p>Вы проверяете область на наличие существ или объектов.\nЕсли вы ищете существ, выберите область которую вы проверяете.\nЕсли необходима точность, Мастер может позволить выбрать 30-футовый конус или 15-футовый взрыв в пределах поля зрения.\nВы можете получить штраф, если эта область находится далеко.</p><p>Если вы осуществляете Поиск объектов (включая потайные двери или опасности), то обыскиваете вплоть до 10-футового квадрата находящегося рядом с вами.\nМастер может решить, что вы должны делать Поиск в виде активности, тратя больше действий или даже минуты или часы, если ищете в особенно захламленной области.</p><p>Мастер совершает за вас одиночную <span class=\"t-secret\">тайную</span> проверку Восприятия и сравнивает результат с КС Скрытности любых <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженных</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанных</span> в области существ, или с КС обнаружения каждого объекта в области (по решению Мастера или кого-то, кто использовал <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span>).\nОбнаруженное вами существо может остаться <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span>, вместо того чтобы стать <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченым</span>, если вы используете неточное чувство или если эффект (такой как <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>) препятствует тому, чтобы субъект стал <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченым</span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Если вы искали существ, то любое <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженное</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанное</span> существо против которого вы критически преуспели, становится для вас <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченым</span>. Если вы искали объект, то узнаете его местоположение.</div>\n<div class=\"line\"><strong>Успех</strong>: Если вы искали существ, то любое <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженное</span> существо против которого вы преуспели, становится для вас <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span> а не <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span>, а любое <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанное</span> существо, становится для вас <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченым</span>. Если вы искали объект, то по решению Мастера вы узнаете его местоположение или получаете подсказку о его примерном местонахождении.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-seek"
+        },
+        {
+            "fullName": "Понять намерение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=85\">Sense Motive</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Понять намерение",
+            "traits": [
+                "тайна",
+                "концентрация"
+            ],
+            "originalName": "Sense Motive",
+            "rarity": "Обычный",
+            "desc": "<p>Вы пытаетесь понять является ли поведение существа нетипичным.\nВыберите одно существо и оцените его на предмет странного языка тела, признаков нервозности, и других знаков, что оно может пытаться обманывать кого-нибудь.\nМастер совершает за вас одиночную <span class=\"t-secret\">тайную</span> проверку Восприятия и сравнивает результат с КС Обмана существа, КС заклинания действующего на ментальное состояние существа, или другой подходящий КС на усмотрение Мастера.\nОбычно вы не можете \"Понять намерение\" того же существа снова, пока ситуация не измениться значительным образом.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы определяете истинные намерения существа и понимаете, что за <span class=\"t-mental\">ментальная</span> магия действует на него</div>\n<div class=\"line\"><strong>Успех</strong>: Вы можете сказать вело ли себя существо нормально, но не знаете его точные намерения или какая магия могла бы действовать на него</div>\n<div class=\"line\"><strong>Провал</strong>: Вы определяете, во что обманывающее существо хочет, чтобы вы верили. Если оно не обманывает, то вы считаете, что оно ведет себя нормально.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы получаете ложное представление о намерениях существа.</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-sense-motive"
+        },
+        {
+            "fullName": "Помощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=75\">Aid</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Помощь",
+            "traits": [],
+            "originalName": "Aid",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник собирается использовать действие, которое требует проверки навыка или броска атаки</p><p><strong>Требования</strong>: Союзник готов принять вашу помощь и вы подготовились помочь (см. далее)</p><hr class=\"docutils\"><p>Вы пытаетесь помочь союзнику с задачей.\nЧтобы использовать эту реакцию, вы сначала должны подготовиться для помощи, обычно используя действие во время своего хода.\nВы должны объяснить Мастеру как именно вы пытаетесь Помочь, и он решает сможете ли вы это сделать.</p><p>Когда вы используете свою реакцию Помощи, то по решению Мастера, совершите проверку навыка или сделайте бросок атаки.\nСтандартный КС равен 20, но Мастер может изменить его для особенно сложных или легких задач.\nВ зависимости от ситуации, Мастер может добавить любые подходящие признаки для вашего подготовительного действия или в зависимости от ситуации для вашей реакции Помощи, или даже позволить вам Помочь не только при проверке навыка или броске атаки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы даете своему союзнику бонус обстоятельства +2 к спровоцировавшей проверке. Если вы мастер совершаемой вами проверки, то бонус становится +3, а если легенда то +4.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы даете своему союзнику бонус обстоятельства +1 к спровоцировавшей проверке</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваш союзник получает штраф обстоятельства -1 к спровоцировавшей проверки</div>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-aid"
+        },
+        {
+            "fullName": "Выждать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=77\">Delay</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "Выждать",
+            "traits": [],
+            "originalName": "Delay",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваш ход начинается</p><hr class=\"docutils\"><p>Вы ждете правильного момента, чтобы действовать.\nВаш оставшийся ход еще не произошел.\nВместо этого вы убираетесь из порядка инициативы.\nВы можете вернуться в порядок инициативы свободным действием, провоцируемым концом хода любого другого существа.\nЭто навсегда изменяет вашу инициативу.\nВы не можете использовать реакции, пока не вернетесь в порядок инициативы.\nЕсли вы Выжидаете целый раунд без возвращения в порядок инициативы, то теряются действия хода, который вы Выжидали, ваша инициатива не меняется, и ваш следующий ход наступит в то же время что и должен был изначально.</p><p>Когда вы Выжидаете, любой продолжительный урон или другие негативные эффекты, которые обычно случаются в начале или конце вашего хода, происходят мгновенно, как только вы используете действие Выждать.\nЛюбые положительные эффекты, которые закончились бы в любой момент вашего хода тоже завершаются.\nМастер может решить, что другие эффекты тоже заканчиваются, когда вы используете Выждать.\nПо сути, вы не можете Выжидать, чтобы избежать негативных последствий, которые случатся во время вашего хода или, чтобы продлить полезные эффекты которые закончатся.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "action-delay"
+        },
+        {
+            "fullName": "Приготовиться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=82\">Ready</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">",
+            "name": "Приготовиться",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Ready",
+            "rarity": "Обычный",
+            "desc": "<p>Вы готовитесь использовать действие, которое произойдет вне вашего хода.\nВыберите одиночное или свободное действие, которое вы можете использовать и определите триггер.\nПосле этого ваш ход завершается.\nЕсли определенный вами триггер случается до начала вашего следующего хода, вы можете использовать выбранное действие как реакцию (при условии, что вы все еще отвечаете требованиям, чтобы использовать его).\nВы не можете Приготовиться использовать свободное действие, которое уже имеет триггер.</p><p>Если у вас есть штраф множественной атаки и подготовленное вами действие является <span class=\"t-attack\">атакующим</span>, то эта подготовленная атака получает штраф множественной атаки, соответствующий времени когда вы использовали Приготовиться.\nЭто один из немногих случаев, когда штраф множественной атаки применяется вне вашего хода.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "action-ready"
+        },
+        {
+            "fullName": "Поднять щит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=98\">Raise a Shield</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Поднять щит",
+            "traits": [],
+            "originalName": "Raise a Shield",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете щитом</p><hr class=\"docutils\"><p>Вы размещаете щит, чтобы защищаться.\nКогда вы \"Подняли щит\", вы получаете его бонус обстоятельства к КБ.\nЩит остается поднятым до начала вашего следующего хода.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-raise-a-shield"
+        },
+        {
+            "fullName": "Указать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=97\">Point Out</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Указать",
+            "traits": [
+                "воздействие",
+                "слуховой",
+                "визуальный"
+            ],
+            "originalName": "Point Out",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружено</span> для одного или более союзника, но не <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружено</span> вами</p><hr class=\"docutils\"><p>Вы показываете на существо, которое вы видите, одному или более союзникам, жестом указывая направление и словесно описывая расстояние.\nЭто существо <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятано</span> для ваших союзников вместо того, чтобы быть <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span> (см. <span class=\"card-link \">Обнаружение существ (Detecting Creatures)</span>).\nЭто действует только на союзников, которые могут видеть вас и в месте где они могут обнаружить цель.\nЕсли ваши союзники не могут слышать или понимать вас, они должны совершить успешную проверку Восприятия против КС Скрытности существа, иначе они неверно поймут и посчитают, что цель в другом месте.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-point-out"
+        },
+        {
+            "fullName": "Лететь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=94\">Fly</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Лететь",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Fly",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть Скорость полета</p><hr class=\"docutils\"><p>Вы двигаетесь по воздуху на расстояние вплоть до Скорости полета.\nДвижение вверх (прямо или по диагонали) использует правила передвижения по сложной местности (см. <span class=\"card-link \">Сложная местность (Difficult Terrain)</span>).\nВы можете двигаться ровно вниз на 10 футов, за каждые потраченные 5 футов.\nЕсли вы Летите до земли, то не получаете урона от падения.\nВы можете использовать действие Лететь, чтобы пролететь 0 футов, и тем самым зависнуть на месте.\nЕсли к окончанию своего хода вы находитесь в воздухе и в этом раунде не использовали действие Лететь, то вы <span class=\"card-link \">падаете</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-fly"
+        },
+        {
+            "fullName": "Рыть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=93\">Burrow</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Рыть",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Burrow",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть Скорость рытья</p><hr class=\"docutils\"><p>Вы прокапываете путь через грязь, песок, или подобный рыхлый материал, с вашей Скоростью рытья.\nВы не можете рыть через камни или другие субстанции, более плотные чем грязь/почва, если только у вас нет умения позволяющего так делать.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-burrow"
+        },
+        {
+            "fullName": "Схватиться за уступ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=95\">Grab an Edge</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Схватиться за уступ",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Grab an Edge",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы падаете с края или поручня, или пролетаете мимо него</p><p><strong>Требования</strong>: Ваши руки не связаны за спиной или не <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемы</span> другим образом</p><hr class=\"docutils\"><p>Когда вы падаете с края/поручня или пролетаете мимо него, вы можете попытаться схватить и возможно остановить падение.\nВы должны совершить успешный спасбросок Рефлекса, обычно с КС Карабканья.\nЕсли вы схватились за уступ или поручень, то можете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> на него используя Атлетику.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы хватаетесь за уступ или поручень даже если ваши руки заняты, используя подходящий предмет удерживаемый в руках (например цепляетесь боевым топором за уступ). Вы все еще получаете урон от падения за расстояние которое падали до этого момента, но считаете падение короче на 30 футов.</div>\n<div class=\"line\"><strong>Успех</strong>: Если у вас есть хотя бы одна свободная рука, вы хватаетесь за уступ или поручень, останавливая падение. Вы все еще получаете урон от падения за расстояние которое падали до этого момента, но считаете падение короче на 20 футов. Если ваши руки не свободны, вы продолжаете падать, как если бы провалили проверку.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы продолжаете падать, и если вы падали 20 или более футов до использования этой реакции, то от столкновения вы получаете по 10 дробящего урона за каждые 20 футов падения.</div>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-grab-an-edge"
+        },
+        {
+            "fullName": "Остановить падение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=91\">Arrest a Fall</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Остановить падение",
+            "traits": [],
+            "originalName": "Arrest a Fall",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы падаете</p><p><strong>Требования</strong>: У вас есть Скорость полета</p><hr class=\"docutils\"><p>Вы совершаете проверку Акробатики, чтобы замедлить падение.\nОбычно КС равен 15, но он может быть выше из-за завихрений воздуха или других обстоятельств.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Вы мягко приземляетесь, не получая урона от падения</div>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-arrest-a-fall"
+        },
+        {
+            "fullName": "Отвести взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=92\">Avert Gaze</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Отвести взгляд",
+            "traits": [],
+            "originalName": "Avert Gaze",
+            "rarity": "Обычный",
+            "desc": "<p>Вы отводите взгляд от опасности.\nВы получаете бонус обстоятельства +2 к спасброскам против <span class=\"t-visual\">визуальных</span> умений, которые требуют от вас смотреть на существо или объект, как например взгляд медузы, превращающий в камень.\nВаш взгляд остается отвернутым до начала вашего следующего хода.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-avert-gaze"
+        },
+        {
+            "fullName": "Оседлать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=96\">Mount</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Оседлать",
+            "traits": [
+                "движение"
+            ],
+            "originalName": "Mount",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы рядом с существом, которое как минимум на размер больше вас и готово быть вашим ездовым животным</p><hr class=\"docutils\"><p>Вы взбираетесь на существо и седлаете его.\nЕсли вы уже верхо́м, то можете использовать это действие, чтобы спешиться, передвинув ездовое животное в смежное пространство.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-mount"
+        },
+        {
+            "fullName": "Возможность для атаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=8\">Attack of Opportunity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Возможность для атаки",
+            "traits": [],
+            "originalName": "Attack of Opportunity",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует действие с признаком <span class=\"t-move\">движение</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия с признаком <span class=\"t-move\">движение</span></p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, который открылся для удара.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли ваша атака является крит.попаданием, и спровоцировавшее действие было с признаком <span class=\"t-manipulate\">воздействие</span>, то вы прерываете это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p><p>⁯</p><p>Эта реакция позволяет вам совершить Удар ближнего боя, если существо в пределах досягаемости использует действие с признаком <span class=\"t-move\">движение</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия <span class=\"t-move\">движения</span>.\nДиаграмма в разделе <span class=\"card-link \">Движения провоцирующие реакции (Move Actions That Trigger Reactions)</span> иллюстрирует примеры, которые могут провоцировать \"Возможность для атаки\" от существ с обычной досягаемостью, а также увеличенной.</p><p>Заметьте, что эта реакция позволяет использовать модифицированное простое действие <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЭто следует правилам о вспомогательных действиях (см. <span class=\"card-link \">Вспомогательные действия (Subordinate Actions)</span>).\nТак как ваша \"Возможность для атаки\" происходит вне вашего хода, ее бросок атаки не подвергается штрафу многочисленной атаки.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-attack-of-opportunity"
+        },
+        {
+            "fullName": "Поддержание активации (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=99\">Sustain an Activation</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Поддержание активации",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Sustain an Activation",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть хотя бы одна активация магического предмета, которую вы можете поддерживать и вы не имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span>.</p><hr class=\"docutils\"><p>Выберите одну действующую активацию вашего магического предмета с поддерживаемой продолжительностью.\nПродолжительность этой активации продолжается до конца вашего следующего хода.\nНекоторые активации могут иметь немного другие или расширенные эффекты, если вы поддерживаете их.\n\"Поддержание активации\" более чем 10 минут (100 раундов) завершает активацию и вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span>, если только описание предмена не гласит о иной максимальной продолжительности (например \"вплоть до 1 минуты\" или \"вплоть до 1 часа\").</p><p>Если ваше действие \"Поддержание активации\" прервано, то эффект предмета мгновенно заканчивается.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-sustain-an-activation"
+        },
+        {
+            "fullName": "Меткость автоматона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=903\">Automaton Aim</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Меткость автоматона",
+            "traits": [],
+            "originalName": "Automaton Aim",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 39</p><p>Вы придаете устойчивость своему телу и наблюдаете за событиями на поле боя, чтобы максимизировать дальность своего следующего выстрела.\nВы снижаете штраф за стрельбу во 2-м шаге дистанции вашего оружия с -2 до 0, для своей следующей дистанционной атаки в этом ходу.\nВы можете использовать это действие второй раз в тот же ход, для следующей дистанционной атаки в этом ходу, чтобы уменьшить штраф за стрельбу в 3-м шаге дистанции вашего оружия с -4 до 0.</p>",
+            "src": "Guns & Gears pg. 39",
+            "action": "одиночное действие",
+            "id": "action-automaton-automaton-aim"
+        },
+        {
+            "fullName": "Отклонение корпусом (Chassis Deflection) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Отклонение корпусом",
+            "traits": [],
+            "originalName": "Chassis Deflection",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вам наносится урон критическим попаданием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Совершите чистую проверку КС 17.\nВ случае успеха, атака становится обычным попаданием.</p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "реакция",
+            "id": "action-automaton-chassis-deflection"
+        },
+        {
+            "fullName": "Сопротивляться магии (Resist Magic) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Сопротивляться магии",
+            "traits": [],
+            "originalName": "Resist Magic",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы совершаете спасбросок против вредящего магического эффекта, но еще не сделали бросок</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Вас защищает врожденная магия.\nВы получаете к спровоцировавшему спасброску бонус обстоятельства +1.\nТакже, если спровоцировавший эффект <span class=\"t-arcana\">арканный</span>, и при броске вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "реакция",
+            "id": "action-automaton-resist-magic"
+        },
+        {
+            "fullName": "Опасные шипы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=1449\">Wicked Thorns</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Опасные шипы",
+            "traits": [],
+            "originalName": "Wicked Thorns",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: По вам попали безоружным <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> или Ударом оружия ближнего боя не являющегося <span class=\"w-reach\">длинным</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>Несколько ваших шипов отламываются и вонзаются в тело нападающего.\nВы наносите спровоцировавшему существу 1d8 колющего урона.\nОно совершает простой спасбросок против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПри критическом провале, существо еще получает 1d4 продолжительного урона кровотечением, так как ваши шипы впиваются в его плоть.</p><p>На 3-м уровне и каждые 2 последующих уровня этот урон увеличивается на 1d8, а продолжительный урон кровотечения увеличивается на 1.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "реакция",
+            "id": "action-ghoran-wicked-thorns"
+        },
+        {
+            "fullName": "Поднять шею (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=1450\">Raise Neck</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Поднять шею",
+            "traits": [],
+            "originalName": "Raise Neck",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 48</p><p>Вы поднимаете свою голову в позицию для удара.\nУдар клыками, полученный от родословной нагаджи, получает досягаемость 10 футов до конца вашего хода.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 48",
+            "action": "одиночное действие",
+            "id": "action-nagaji-raise-neck"
+        },
+        {
+            "fullName": "Отравить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=1451\">Envenom</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Отравить",
+            "traits": [
+                "воздействие"
+            ],
+            "originalName": "Envenom",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 59</p><hr class=\"docutils\"><p>Вы применяете свои врожденные токсины через слюну или кровь, чтобы нанести вишканский яд на свои оружие или единицу амуниции.\nЧтобы использовать свою кровь, вы должны быть ранены, или вы можете нанести себе 1 рубящего урона как часть этого действия.\nЯд вишканьи сохраняет свои свойства до конца вашего следующего хода или до тех пор, пока вы не потратите его так, как обычно расходуется яд <span class=\"card-link \">для ранений</span> - либо при попадании в цель, либо при критическом провале броска атаки.</p><p><strong>Слабый яд вишканьи (Minor Vishkanyan Venom)</strong>\n(<span class=\"t-injury\">ранение</span>, <span class=\"t-poison\">яд</span>)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Спасбросок</strong>: Стойкость</div>\n<div class=\"line\"><strong>Макс.продолжительность</strong>: 6 раундов</div>\n<div class=\"line\"><strong>Стадия 1</strong>: 1d4 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 2</strong>: 1d4 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 3</strong>: 1d4 урона ядом (1 раунд)</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 59",
+            "action": "одиночное действие",
+            "id": "action-vishkanya-envenom"
+        },
+        {
+            "fullName": "Отравляющий выхват (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=1452\">Venom Draw</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Отравляющий выхват",
+            "traits": [],
+            "originalName": "Venom Draw",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Ваше действие <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span> не израсходовано</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 60</p><hr class=\"docutils\"><p>Вы быстро наносите ядовитую слюну на свое оружие, когда достаете его.\n<span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуйте (Interact)</span>, чтобы достать оружие, а затем <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom)</span> его.\nНа это расходуется ваше ежедневное использование действия Отравления.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 60",
+            "action": "одиночное действие",
+            "id": "action-vishkanya-venom-draw"
+        },
+        {
+            "fullName": "Пустой сосуд (Empty Vessel) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Пустой сосуд",
+            "traits": [
+                "концентрация"
+            ],
+            "originalName": "Empty Vessel",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы получите ментальный урон или будете подвержены <span class=\"t-mental\">ментальному</span> эффекту</p><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы получаете против спровоцировавшего эффекта бонус обстоятельства +2 к спасброскам Воли и сопротивление ментальному урону, равное вашему уровню.\nЭто применяется только к начальному эффекту, но не к последующим спасброскам, продолжительному ментальному урону или другим повторяющимся эффектам.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "реакция",
+            "id": "action-reflection-empty-vessel"
+        },
+        {
+            "fullName": "Хитрость зеркала (Mirror's Trickery) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Хитрость зеркала",
+            "traits": [
+                "оккультный",
+                "иллюзия",
+                "визуальный",
+                "концентрация"
+            ],
+            "originalName": "Mirror's Trickery",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: По вам попадут <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span></p><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы в последний миг создаете иллюзорный дубликат и пытаетесь обхитрить своего противника, чтобы он ударил его, а не вас.\nАтакующий совершает чистую проверку КС 11; при провале, атака попадает по дубликату, изменяя результат с критического успеха на обычный успех, либо с успеха на провал.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "реакция",
+            "id": "action-reflection-mirrors-trickery"
+        },
+        {
+            "fullName": "Возможность для атаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=8\">Attack of Opportunity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Возможность для атаки",
+            "traits": [],
+            "originalName": "Attack of Opportunity",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует действие с признаком <span class=\"t-move\">движение</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия с признаком <span class=\"t-move\">движение</span></p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, который открылся для удара.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли ваша атака является крит.попаданием, и спровоцировавшее действие было с признаком <span class=\"t-manipulate\">воздействие</span>, то вы прерываете это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-fighter-attack-of-opportunity"
+        },
+        {
+            "fullName": "Ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=3\">Rage</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Ярость",
+            "traits": [
+                "концентрация",
+                "эмоция",
+                "ментальный",
+                "варвар"
+            ],
+            "originalName": "Rage",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы не в ярости или не имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span></p><hr class=\"docutils\"><p>Вы обращаетесь к своему внутреннему гневу и начинаете бушевать.\nВы получаете временные ОЗ в количестве, равном вашему уровню + модификатор Телосложения.\nЭта ярость длится 1 минуту, пока не останется врагов, которых вы можете ощущать, или пока вы не потеряете сознание, в зависимости от того, что произойдет раньше.\nКогда вы в ярости:</p><ul class=\"simple\">\n<li><p>Вы наносите 2 дополнительного урона <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span> ближнего боя. Этот дополнительный урон делится пополам, если ваше оружие или безоружная атака имеет признак <span class=\"w-agile\">быстрое</span>.</p></li>\n<li><p>Вы получаете штраф -1 к КБ</p></li>\n<li><p>Вы не можете использовать действия с признаком <span class=\"t-concentrate\">концентрация</span>, кроме тех, у которых еще есть признак <span class=\"t-rage\">ярость</span>. Во время ярости вы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>.</p></li>\n</ul><p>После прекращения ярости, вы теряете любые временные ОЗ оставшиеся от \"Ярости\" и не можете впадать в нее снова в течение 1 минуты.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-barbarian-rage"
+        },
+        {
+            "fullName": "Могучая ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=4\">Mighty Rage</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "Могучая ярость",
+            "traits": [
+                "варвар"
+            ],
+            "originalName": "Mighty Rage",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы используете <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярость (Rage) </span> во время своего хода</p><hr class=\"docutils\"><p>Используйте действие с признаком <span class=\"t-rage\">ярость</span>.\nВ качестве альтернативы, вы можете увеличить количество действий спровоцировавшей <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярости (Rage)</span> до 2, чтобы использовать активность за 2 действия с признаком <span class=\"t-rage\">ярость</span>.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "action-barbarian-mighty-rage"
+        },
+        {
+            "fullName": "Карающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=5\">Retributive Strike</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Карающий удар",
+            "traits": [
+                "чемпион"
+            ],
+            "originalName": "Retributive Strike",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг наносит урон вашему союзнику, и они оба в пределах 15 футов от вас</p><hr class=\"docutils\"><p>Вы защищаете своего союзника и бьете врага.\nСоюзник получает сопротивление ко <span class=\"card-link \">всему спровоцировавшему урону</span>, равное 2 + ваш уровень.\nЕсли враг в пределах досягаемости, совершите по нему <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-champion-reaction-retributive-strike"
+        },
+        {
+            "fullName": "Проблеск искупления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=6\">Glimpse of Redemption</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Проблеск искупления",
+            "traits": [
+                "чемпион"
+            ],
+            "originalName": "Glimpse of Redemption",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг наносит урон вашему союзнику, и они оба в пределах 15 футов от вас</p><hr class=\"docutils\"><p>Ваш враг колеблется под тяжестью греха, когда видения о искуплении предстают перед его мысленном взором.\nВраг должен выбрать 1 из вариантов:</p><ul class=\"simple\">\n<li><p>Союзник не пострадал от спровоцировавшего урона</p></li>\n<li><p>Союзник получает сопротивление ко <span class=\"card-link \">всему спровоцировавшему урону</span>, равное 2 + ваш уровень. После применения эффекта наносящего урон, враг получает состояние <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span> до конца его следующего хода.</p></li>\n</ul>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-champion-reaction-glimpse-of-redemption"
+        },
+        {
+            "fullName": "Освобождающий шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=7\">Liberating Step</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Освобождающий шаг",
+            "traits": [
+                "чемпион"
+            ],
+            "originalName": "Liberating Step",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг наносит вашему союзнику урон, <span class=\"card-link \">Хватает (Grabs)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватывает (Grapples)</span> его, и они оба в пределах 15 футов от вас</p><hr class=\"docutils\"><p>Вы освобождаете союзника от сдерживания.\nЕсли триггером послужило нанесение союзнику урона, то он получает сопротивление ко <span class=\"card-link \">всему спровоцировавшему урону</span>, равное 2 + ваш уровень.\nСоюзник может попытаться освободиться от <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">захватывающих</span>, <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживающих</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвиживающих</span> или <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализующих</span> его эффектов.\nОн либо совершает новый спасбросок против одного такого эффекта, который позволяет спасбросок, или пытается <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>, от одного из эффектов свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">).\nЕсли союзник может двигаться, то может <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагнуть (Step)</span> свободным действием, даже если ему не надо вырываться.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-champion-reaction-liberating-step"
+        },
+        {
+            "fullName": "Железный приказ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=552\">Iron Command</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Железный приказ",
+            "traits": [
+                "необычный",
+                "сакральный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "чемпион"
+            ],
+            "originalName": "Iron Command",
+            "rarity": "Необычный",
+            "desc": "<p><strong>Триггер</strong>: Враг в пределах 15 футов наносит вам урон</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 117</p><hr class=\"docutils\"><p>Вы поставили на свое место дерзкого врага, посмевшего причинить вам вред.\nВы приказываете своему врагу послушно встать перед вами на колени.\nЕсли он осмелится отказаться, ему придется поплатиться за это болью и страданием.\nВраг должен выбрать один из следующих вариантов:</p><ul class=\"simple\">\n<li><p>Враг преклоняет колени, падая ничком за свободное действие (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">)</p></li>\n<li><p>Враг отказывается и вы наносите ему 1d6 ментального урона. Этот урон увеличивается до 2d6 на 5-м уровне, 3d6 на 9-м уровне, 4d6 на 12-м уровне, 5d6 на 16-м уровне, и 6d6 на 19-м уровне.</p></li>\n</ul><p>Дополнительно, до конца вашего следующего хода, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> по спровоцировавшему существу, наносят 1 дополнительный урон.\nКаждый раз, когда вы используете реакцию, вы выбираете будет ли это урон злом или негативный урон.\nЭтот дополнительный урон увеличивается до 2 на 9-м уровне, и до 3 на 16-м уровне.</p>",
+            "src": "Advanced Player's Guide pg. 117",
+            "action": "реакция",
+            "id": "action-champion-reaction-iron-command"
+        },
+        {
+            "fullName": "Эгоистичная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=553\">Selfish Shield</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Эгоистичная защита",
+            "traits": [
+                "необычный",
+                "чемпион"
+            ],
+            "originalName": "Selfish Shield",
+            "rarity": "Необычный",
+            "desc": "<p><strong>Триггер</strong>: Враг в пределах 15 футов наносит вам урон</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 117</p><hr class=\"docutils\"><p>Вас защищает ваш эгоизм.\nВы получаете сопротивление против спровоцировавшего урона, равное 2 + половина вашего уровня, независимо от типа урона.</p><p>Дополнительно, до конца вашего следующего хода, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> по спровоцировавшему существу наносят 1 дополнительный урон.\nКаждый раз, когда вы используете реакцию, вы выбираете будет ли это урон злом или негативный урон.\nЭтот дополнительный урон увеличивается до 2 на 9-м уровне, и до 3 на 16-м уровне.</p>",
+            "src": "Advanced Player's Guide pg. 117",
+            "action": "реакция",
+            "id": "action-champion-reaction-selfish-shield"
+        },
+        {
+            "fullName": "Разрушительная месть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=554\">Destructive Vengeance</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Разрушительная месть",
+            "traits": [
+                "необычный",
+                "чемпион"
+            ],
+            "originalName": "Destructive Vengeance",
+            "rarity": "Необычный",
+            "desc": "<p><strong>Триггер</strong>: Враг в пределах 15 футов наносит вам урон</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 117</p><hr class=\"docutils\"><p>Кровопролитие порождает кровопролитие, пока вы тащите своего врага к забвению.\nВы увеличиваете получаемый вами урон на 1d6 и наносите 1d6 урона спровоцировавшему врагу, выбирая будет ли это урон злом или негативный урон, каждый раз, когда используете реакцию.\nДополнительно, до конца вашего следующего хода, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> по спровоцировавшему существу наносят 2 дополнительного урона выбранного типа.</p><p>Урон, который вы получаете и наносите при использовании реакции, увеличивается до 2d6 на 5-м уровне, 3d6 на 9-м уровне, 4d6 на 12-м уровне, 5d6 на 16-м уровне, и 6d6 на 19-м уровне.\nДополнительный урон от ваших Ударов увеличивается до 4 на 9-м уровне, и до 6 на 16-м уровне.</p>",
+            "src": "Advanced Player's Guide pg. 117",
+            "action": "реакция",
+            "id": "action-champion-reaction-destructive-vengeance"
+        },
+        {
+            "fullName": "Выслеживать добычу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=10\">Hunt Prey</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Выслеживать добычу",
+            "traits": [
+                "концентрация",
+                "рейнджер"
+            ],
+            "originalName": "Hunt Prey",
+            "rarity": "Обычный",
+            "desc": "<p>Вы определяете одно существо как свою добычу и фокусируете на нем свои атаки.\nВы должны быть в состоянии видеть или слышать добычу, или вы должны выслеживать добычу во время исследования.</p><p>Вы получаете бонус обстоятельства +2 к проверкам Восприятия, когда осуществляете <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> добычи, и бонус обстоятельства +2 к проверкам Выживания когда <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживаете (Track)</span> добычу.\nЕще вы игнорируете штраф дистанционных атак по добыче в пределах 2-го шага дистанции.</p><p>Вы единовременно можете определить только 1 существо в качестве своей добычи.\nЕсли вы используете \"Выслеживать добычу\" на существо, в то время, когда у вас уже есть выбранная цель, прежнее существо теряет это обозначение, а новое получает.\nВаш выбор добычи длится до следующих дневных приготовлений.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-ranger-hunt-prey"
+        },
+        {
+            "fullName": "Шквал ударов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=9\">Flurry of Blows</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Шквал ударов",
+            "traits": [
+                "размах",
+                "монах"
+            ],
+            "originalName": "Flurry of Blows",
+            "rarity": "Обычный",
+            "desc": "<p>Совершите два безоружных <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strikes)</span>.\nЕсли оба попадают по одному существу, объедините урон, для преодоления сопротивлений и использования слабостей.\nПрименяйте свой штраф множественной атаки к <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударам (Strikes)</span> как обычно.\nТак как действие имеет признак <span class=\"t-flourish\">размах</span>, вы можете использовать \"Шквал ударов\" только раз за ход.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-monk-flurry-of-blows"
+        },
+        {
+            "fullName": "Ослабляющий удар (Debilitating Strike) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "Ослабляющий удар",
+            "traits": [
+                "плут"
+            ],
+            "originalName": "Debilitating Strike",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попадает по <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутому врасплох</span> врагу и наносит урон</p><hr class=\"docutils\"><p>Вы применяете одно из следующих ослаблений, которое длится до конца вашего следующего хода.</p><ul class=\"simple\">\n<li><p><strong>Ослабление</strong>: Цель получает штраф состояния -10 футов к Скоростям.</p></li>\n<li><p><strong>Ослабление</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 1</span>.</p></li>\n</ul>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "action-rogue-debilitating-strike"
+        },
+        {
+            "fullName": "Мастерский удар (Master Strike) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "Мастерский удар",
+            "traits": [
+                "недееспособность",
+                "плут"
+            ],
+            "originalName": "Master Strike",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попадает по <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутому врасплох</span> существу и наносит урон</p><hr class=\"docutils\"><p>Цель совершает спасбросок Стойкости с вашим КС класса.\nПотом она становится временно иммунна к вашему \"Мастерскому удару\" на 1 день.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span> до конца вашего следующего хода.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span> на 4 раунда.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span> на 4 раунда, теряет сознание на 2 часа, или убита (на ваш выбор).</div>\n</div>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "action-rogue-master-strike"
+        },
+        {
+            "fullName": "Уверенный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=550\">Confident Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Уверенный финишер",
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "originalName": "Confident Finisher",
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете невероятно грациозную атаку, пробивая защиту врага.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием или безоружной атакой, которая может применить урон от вашего <span class=\"card-link \">точного удара (precise strike)</span>.\nЭтот удар имеет эффект провала.</p><p><strong>Провал</strong>: Вы наносите цели половину своего урона от точного удара.\nУрон от этого Удара имеет тот же тип, что и оружие или безоружная атака, которую вы использовали.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "action-swashbuckler-confident-finisher"
+        },
+        {
+            "fullName": "Своевременная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=551\">Opportune Riposte</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">",
+            "name": "Своевременная контратака",
+            "traits": [
+                "сорвиголова"
+            ],
+            "originalName": "Opportune Riposte",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг в пределах вашей досягаемости критически проваливает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по вам</p><hr class=\"docutils\"><p>Вы пользуетесь появившимся преимуществом из-за того, что ваш враг открылся при атаке.\nВы либо делаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему врагу, либо пробуете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> его, выбив оружие, которое он использовал для Удара.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "action-swashbuckler-opportune-riposte"
+        },
+        {
+            "fullName": "Перезаряжающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=906\">Reloading Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Перезаряжающий удар",
+            "traits": [
+                "стрелок"
+            ],
+            "originalName": "Reloading Strike",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете огнестрельным оружием или арбалетом в одной руке, а другая рука пуста, либо владеет одноручным оружием ближнего боя</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 108</p><hr class=\"docutils\"><p>Вы совершаете атаку ближнего боя, а затем одним плавным движением перезаряжаете свое огнестрельное оружие.\n<span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударьте (Strike)</span> оппонента в пределах досягаемости своим одноручным оружием ближнего боя (или безоружной атакой, если рука пуста) и затем <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуйте (Interact)</span> для перезарядки.\nДля такого способа перезарядки вам не требуется свободная рука.</p>",
+            "src": "Guns & Gears pg. 108",
+            "action": "одиночное действие",
+            "id": "action-gunslinger-reloading-strike"
+        },
+        {
+            "fullName": "В бой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=907\">Into The Fray</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">",
+            "name": "В бой",
+            "traits": [
+                "стрелок"
+            ],
+            "originalName": "Into The Fray",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы кидаете инициативу</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 108</p><hr class=\"docutils\"><p>Вы знаете, что неприятности могут таиться за каждым углом, и вы никогда не убираете руки далеко от кобуры.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы выхватить одноручное дистанционное оружие и потом Взаимодействовать, чтобы выхватить одноручное оружие ближнего боя.\nВ качестве своего первого действия в первом ходу, вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) к врагу которого можете воспринимать.\nЕсли вы не можете воспринимать ни одного врага или не можете закончить свое движение поближе к одному из них, то тогда не можете использовать это Перемещение.</p>",
+            "src": "Guns & Gears pg. 108",
+            "action": "свободное действие",
+            "id": "action-gunslinger-into-the-fray"
+        },
+        {
+            "fullName": "Завершить начатое (<a class=\"reference external\" href=\"https://2e.aonprd.com/Actions.aspx?ID=908\">Finish The Job</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">",
+            "name": "Завершить начатое",
+            "traits": [
+                "стрелок"
+            ],
+            "originalName": "Finish The Job",
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Своим последним действием вы провалили (но не критически) <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> огнестрельным оружием или арбалетом, которым владеете одной рукой, а другая рука пуста, либо владеет оружием ближнего боя</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 108</p><hr class=\"docutils\"><p>Ваша последняя атака была неудачной, но она готовит вас к еще одной.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> другой рукой, используя одноручное оружие ближнего боя или безоружную атаку.\nЭтот Удар использует такой же штраф множественной атаки, что и проваленный прошлым действием.\nПосле этого, увеличьте свой штраф множественной атаки как обычно.</p>",
+            "src": "Guns & Gears pg. 108",
+            "action": "одиночное действие",
+            "id": "action-gunslinger-finish-the-job"
+        }
+    ]
+}

@@ -1,0 +1,1586 @@
+{
+    "feats": [
+        {
+            "fullName": "Благородная решимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3934\">Noble Resolve</a>) / 5",
+            "name": "Благородная решимость",
+            "originalName": "Noble Resolve",
+            "level": 5,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Когда-то гении правили огромными королевствами, и в вашей сильной воле отражаются остатки той уверенности и силы.\nВы получаете бонус обстоятельства +1 к спасброскам Воли против <span class=\"t-mental\">ментальных</span> эффектов.\nНезависимо от успеха или провала, вы становитесь осведомлены о личности, применившей на вас этот эффект, если она была видна вам в момент применения.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "",
+            "id": "ancestry-feat-geniekin-noble-resolve",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чудесный ремонт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3935\">Miraculous Repair</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Чудесный ремонт",
+            "originalName": "Miraculous Repair",
+            "level": 9,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "концентрация",
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Джиникин не может исполнять желания по волшебству, но в вас живет некий отголосок силы.\nСтолкнувшись с механизмом, который поврежден, но не уничтожен, вы можете пожелать вернуть его в работоспособное состояние на 10 минут.\nОбъект должен быть обычным бытовым и не более 5 Масс, например, неработающий замочный механизм в двери.\nВ течение 10 минут объект будет функционировать как положено, игнорируя любой урон своему механизму.\nЭто не дает вам никаких знаний о том, что может делать устройство или как оно должно функционировать.\nПо истечении этих 10 минут объект снова приходит в негодность и становится временно иммунным к \"Чудесному ремонту\" на 1 день.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-geniekin-miraculous-repair",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия гениев (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2550\">Genie Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия гениев",
+            "originalName": "Genie Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-geniekin-weapon-familiarity\">Знакомство с оружием гениев (Genie Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его с фальшионами, рунками, скимитарами, трезубцами, а так же со всем оружием джинникинов с которым обучены.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Планарное уклонение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3936\">Planar Sidestep</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Планарное уклонение",
+            "originalName": "Planar Sidestep",
+            "level": 13,
+            "traits": [
+                "аркана",
+                "воплощение",
+                "концентрация",
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Существо попадает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Вы ненадолго перемещаете свое тело между планами, уменьшая урон от атаки противника.\nВы получаете сопротивление 25 ко <span class=\"card-link \">всему урону</span> от спровоцировавшей атаки.\nНаблюдатели просто видят, как в момент атаки, вы на мгновение мерцаете энергией стихий.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "реакция",
+            "id": "ancestry-feat-geniekin-planar-sidestep",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яркая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2551\">Brightsoul</a>) / 1",
+            "name": "Яркая душа",
+            "originalName": "Brightsoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Огонь внутри вас заявляет о себе как лучезарный, сияющий свет.\nВаше тело естественно люминесцирует, сияя с эффектами природных чар <span class=\"card-link std std-ref\" data-id=\"spell-l-light\">Свет (Light) / Чары 1</span>.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.\nЭтот свет непроизвольный и постоянный; если ему противодействуют, то он возвращается через 1d4 раунда.\nВы страдаете от штрафа обстоятельства -2 к проверкам Скрытности, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> и получаете бонус обстоятельства +1 к спасброскам против эффектов света, и эффектов которые причиняют состояния <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> или <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-brightsoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тлеющая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2552\">Cindersoul</a>) / 1",
+            "name": "Тлеющая душа",
+            "originalName": "Cindersoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Огонь вашего элементального предка проявляется как тлеющие угли пламени, а ваши внутренние угли помогают останавливать кровотечение, вычищать простые яды и поглощать кислоту.\nКС ваших чистых проверок от продолжительного урона кровотечением, кислотой и ядом равняется КС 10, вместо КС 15 (или он снижается до КС 5 при получении особенно эффективной помощи восстановления от продолжительного урона).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-cindersoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лавовая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2555\">Lavasoul</a>) / 1",
+            "name": "Лавовая душа",
+            "originalName": "Lavasoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Ваш элементальный род проявляется как магма и расплавленная порода, и вы можете сосредоточить магму в своей руке, чтобы атаковать своих врагов.\nВы получаете безоружную атаку магматическое острие, которая требует свободную руку для своего использования.\nОна имеет признаки <span class=\"w-agile\">быстрое</span>, <span class=\"w-finesse\">точное</span>, <span class=\"w-unarmed\">безоружное</span> и относится к группе оружия \"драка\", наносит 1d4 колющего урона + 1 дополнительный урон огнем.\nВместо обычного эффекта критической специализации, цель получает 1d6 продолжительного огненного урона;\nвы получаете к этому продолжительному урону бонус, равный вашему бонусу предмета к броскам атак безоружными атаками.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-lavasoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глаза-угли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2553\">Ember's Eyes</a>) / 1",
+            "name": "Глаза-угли",
+            "originalName": "Ember's Eyes",
+            "level": 1,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Ваши глаза полыхают внутренним пламенем.\nВы получаете сумеречное зрение, или если ваша родословная уже обладает сумеречным зрением, то получаете ночное зрение.</p><p><strong>Особенность</strong>: Если ваша родословная не обладает ни сумеречным зрением, ни ночным зрением, то вы можете взять эту способность второй раз, чтобы получить ночное зрение.\nВы не можете переобучиться этой способности на другую.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-embers-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренний огонь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2554\">Inner Fire (ifrit)</a>) / 1",
+            "name": "Внутренний огонь",
+            "originalName": "Inner Fire",
+            "level": 1,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Вы можете призывать свой внутренний огонь в ладонь своей руки.\nВы можете по желанию сотворять чары <span class=\"card-link std std-ref\" data-id=\"spell-p-produce-flame\">Сотворение пламени (Produce Flame) / Чары 1</span> как врожденное природное или арканное заклинание.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-inner-fire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зловещая внешность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2556\">Sinister Appearance</a>) / 1",
+            "name": "Зловещая внешность",
+            "originalName": "Sinister Appearance",
+            "level": 1,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Вы обладаете рогами, хвостом или красными глазами, или иным образом вас можно принять за тифлинга.\nВы становитесь обучены Запугиванию.\nЕсли вы автоматически станете обучены Запугиванию (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-intimidating-glare\">Запугивающий взгляд (Intimidating Glare) / 1</span>, а также бонус обстоятельства +2 к проверкам Обмана к <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span>, когда притворяетесь версией себя являющейся тифлингом.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-sinister-appearance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жаркая смекалка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3930\">Molten Wit</a>) / 1",
+            "name": "Жаркая смекалка",
+            "originalName": "Molten Wit",
+            "level": 1,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 30</p><hr class=\"docutils\"><p>Ваша стихийная душа зажгла не только ваше тело, но и разум.\nВы либо становитесь обучены Обману и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-charming-liar\">Очаровательный лжец (Charming Liar) / 1</span>, либо становитесь обучены Дипломатии и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-group-impression\">Впечатлить группу (Group Impression) / 1</span>.\nЕсли вы уже обучены одному из этих навыков, то должны взять другой и можете выбрать одну из этих способностей навыка.\nЕсли вы обучены обоим навыкам, то вместо этого становитесь обученным какому-либо еще навыку по своему выбору и можете выбрать одну из этих способностей навыка.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 30",
+            "action": "",
+            "id": "ancestry-feat-ifrit-molten-wit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Огненный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2557\">Firesight</a>) / 5",
+            "name": "Огненный взор",
+            "originalName": "Firesight",
+            "level": 5,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 102</p><hr class=\"docutils\"><p>Вы можете видеть сквозь дымку пламени.\nВы автоматически преуспеваете в чистой проверке прицеливания в существо с состоянием <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, если оно скрыто только дымом или огнем.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 102",
+            "action": "",
+            "id": "ancestry-feat-ifrit-firesight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тепловая волна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2558\">Heat wave</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Тепловая волна",
+            "originalName": "Heat wave",
+            "level": 5,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Триггер</strong>: Эффект нанес бы вам огненный урон, даже если вы сопротивляетесь всему урону</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Вы обуздываете надвигающееся пламя и закручиваете его в виде завесы жара и дыма, получая состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> до начала вашего следующего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "реакция",
+            "id": "ancestry-feat-ifrit-heatwave",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обугленные остатки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2559\">Charred Remains</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Обугленные остатки",
+            "originalName": "Charred Remains",
+            "level": 9,
+            "traits": [
+                "метамагия",
+                "огонь",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Ваше следующее огненное заклинание оставляет за собой тлеющие угли.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> имеющее область и признак <span class=\"t-fire\">огонь</span>, то на 1 минуту, область вашего заклинания становится сложной местностью, а также опасной местностью, нанося 1 огненного урона за каждый квадрат, по которому двигается существо.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "свободное действие",
+            "id": "ancestry-feat-ifrit-charred-remains",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эфритская магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2560\">Efreeti Magic</a>) / 9",
+            "name": "Эфритская магия",
+            "originalName": "Efreeti Magic",
+            "level": 9,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Через вас течет магия ваших предков эфритов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-object\">Иллюзорный объект (Illusory Object) / Закл. 1</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "",
+            "id": "ancestry-feat-ifrit-efreeti-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обжигающее разоружение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2561\">Scorching Disarm</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Обжигающее разоружение",
+            "originalName": "Scorching Disarm",
+            "level": 9,
+            "traits": [
+                "огонь",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Вы делаете оружие невыносимо горячим, чтобы его дальше удерживать.\nСовершите проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> целевое существо.\nДля этой попытки Разоружения, вам не нужна свободная рука.\nЕсли попытка Разоружения успешная, то цель получает 4d6 урона огнем, если только не бросит оружие, при критическом успехе она получает 4d6 огненного урона и роняет оружие.\nЕсли вы легенда Атлетики, он увеличивается до 8d6 урона огнем.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-ifrit-scorching-disarm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сияющий взрыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2562\">Radiant Burst</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Сияющий взрыв",
+            "originalName": "Radiant Burst",
+            "level": 13,
+            "traits": [
+                "недееспособность",
+                "огонь",
+                "свет",
+                "визуальный",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Ваша кожа интенсивно светится.\nСущества в пределах 10 футов, которые могут вас видеть, должны совершить спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Существо получает состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 1 раунд и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 4 раунда</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо получает состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 4 раунда и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 10 минут</div>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-ifrit-radiant-burst",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв огненного элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2563\">Summon Fire Elemental</a>) / 13",
+            "name": "Призыв огненного элементаля",
+            "originalName": "Summon Fire Elemental",
+            "level": 13,
+            "traits": [
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Вы можете призвать элементального союзника.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-elemental\">Призыв элементаля (Summon Elemental) / Закл. 2</span> как врожденное природное заклинание 5-го уровня, но призываемый элементаль должен быть огненным.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "",
+            "id": "ancestry-feat-ifrit-summon-fire-elemental",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пылающая аура (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2564\">Blazing Aura</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Пылающая аура",
+            "originalName": "Blazing Aura",
+            "level": 17,
+            "traits": [
+                "природный",
+                "эвокация",
+                "огонь",
+                "концентрация",
+                "ифрит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Начинается ваш ход</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 103</p><hr class=\"docutils\"><p>Вы взрываетесь пламенем.\nВраги в 20-футовой эманации получают 7d6 огненного урона (простой спасбросок Рефлекса, против вашего КС класса или КС заклинания, в зависимости от того, что больше).\nСоюзники в области на 1 раунд получают состояние <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span> и могут использовать дополнительное действие на <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> или <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 103",
+            "action": "реакция",
+            "id": "ancestry-feat-ifrit-blazing-aura",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пыльная душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2565\">Dustsoul</a>) / 1",
+            "name": "Пыльная душа",
+            "originalName": "Dustsoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>Влияние вашего предка земляного элементаля проявляется в вас как пыль и грязь, как почва поля или горячие пески пустыни.\nВы становитесь обучены Выживанию.\nЕсли вы автоматически станете обучены Выживанию (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы можете питаться грязью и пылью, вместо нормальной еды и воды.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "",
+            "id": "ancestry-feat-oread-dustsoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Самоцветная душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2567\">Gemsoul</a>) / 1",
+            "name": "Самоцветная душа",
+            "originalName": "Gemsoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>Земля внутри вас заявляет о себе как кристаллизованные драгоценные камни или металлы, как скопление кварца или жилы железа и золота.\nЭто мерцающее присутствие внутри вашего естества вдохновляет вас на ослепительные и пышные выступления.\nВы становитесь обучены Выступлению.\nЕсли вы автоматически станете обучены Выступлению (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-impressive-performance\">Впечатляющее выступление (Impressive Performance) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "",
+            "id": "ancestry-feat-oread-gemsoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Болотная душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2568\">Miresoul</a>) / 1",
+            "name": "Болотная душа",
+            "originalName": "Miresoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>У вас есть связь с более грязными обитателями Земляного плана, от его границы с Водяным планом, и ваш элементальный род проявляется как глина или грязь, выражая эту связь.\nГрязеподобное качество вашего тела позволяет вам сжиматься и протискивать себя через небольшие места.\nВы становитесь обучены Акробатике.\nЕсли вы автоматически станете обучены Акробатике (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-quick-squeeze\">Быстро протиснуться (Quick Squeeze) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "",
+            "id": "ancestry-feat-oread-miresoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Элементальное занятие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2566\">Elemental Trade</a>) / 1",
+            "name": "Элементальное занятие",
+            "originalName": "Elemental Trade",
+            "level": 1,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>Вы обладаете сильной связью с камнем и металлом.\nВы становитесь обучены Ремеслу.\nЕсли вы автоматически станете обучены Ремеслу (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-specialty-crafting\">Специализация в ремесле (Specialty Crafting) / 1</span> для каменной кладки и кузнечного дела.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "",
+            "id": "ancestry-feat-oread-elemental-trade",
+            "archetype": ""
+        },
+        {
+            "fullName": "Устойчивость на камне (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2569\">Steady on Stone</a>) / 1",
+            "name": "Устойчивость на камне",
+            "originalName": "Steady on Stone",
+            "level": 1,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>Ваша связь с землей делает для вас естественные неровные поверхности меньшей помехой.\nВы можете игнорировать сложную местность из-за обломков и неровную землю из камня и земли.\nДополнительно, когда вы используете навык Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> на узкой поверхности или неровной земле сделанной из камня и земли, вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, и если при броске одной из таких проверок Акробатики вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "",
+            "id": "ancestry-feat-oread-steady-on-stone",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тихий камень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3932\">Silent Stone</a>) / 1",
+            "name": "Тихий камень",
+            "originalName": "Silent Stone",
+            "level": 1,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Вы жили в тени Расколотого Хребта, и терпение этих древних гор проявляется в вашей неподвижности.\nВ вашем теле могут быть прожилки гранита, песчаника или подобных осадочных пород, что облегчает вам маскировку в определенных регионах.\nВы становитесь обучены Скрытности и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-terrain-stalker\">Лазутчик местности (Terrain Stalker) / 1</span>.\nЕсли вы уже обучены Скрытности из другого источника, то вместо этого становитесь обучены навыку по своему выбору.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "",
+            "id": "ancestry-feat-oread-silent-stone",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укрепление щита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2570\">Fortify Shield</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Укрепление щита",
+            "originalName": "Fortify Shield",
+            "level": 5,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 106</p><hr class=\"docutils\"><p>Вы укрепляете свой щит каменными наростами из металла и камня.\nВы <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднимаете щит (Raise Shield)</span>.\nЕсли до начала своего следующего хода вы используете реакцию <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, то добавьте уровень своего персонажа к Твердости вашего щита при определении заблокированного урона.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 106",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-oread-fortify-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Коварная земля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2571\">Treacherous Earth</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Коварная земля",
+            "originalName": "Treacherous Earth",
+            "level": 5,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>Вы обладаете силой расколоть землю в придуманной вами форме.\nВы разламываете землю под собой, создавая сложную местность в 5-футовом взрыве с центром в одном из углов вашего пространства.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-oread-treacherous-earth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Землечувствительность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2572\">Earthsense</a>) / 9",
+            "name": "Землечувствительность",
+            "originalName": "Earthsense",
+            "level": 9,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>Ваша связь с землей и камнем позволяет вам чувствовать малейшее смещение, которое их нарушает, вплоть до сдвига камешка.\nВы получаете виброчувствительность как неточное чувство с дистанцией 30 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-earthsense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шайтанская магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2573\">Shaitan Magic</a>) / 9",
+            "name": "Шайтанская магия",
+            "originalName": "Shaitan Magic",
+            "level": 9,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>В вашей крови течет магия шайтанов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-shaitan-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удары с металлическими прожилками (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2574\">Metal-Veined Strikes</a>) / 13",
+            "name": "Удары с металлическими прожилками",
+            "originalName": "Metal-Veined Strikes",
+            "level": 13,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>Металлические прожилки растут по всему вашему телу, придавая вашим безоружным атакам металлический блеск.\nВыберите холодное железо или серебро.\nВаши безоружные атаки считаются как выбранный вид металла.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-metal-veined-strikes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Един с землей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2575\">One with Earth</a>) / 13",
+            "name": "Един с землей",
+            "originalName": "One with Earth",
+            "level": 13,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>Вы научились использовать свою связь с Землей, чтобы путешествовать через нее.\nВы получаете Скорость рытья 15 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-one-with-earth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шайтанская кожа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2576\">Shaitan Skin</a>) / 13",
+            "name": "Шайтанская кожа",
+            "originalName": "Shaitan Skin",
+            "level": 13,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>В случае опасности вы можете укрепить камень своей кожи до состояния доспеха, почти как шайтаны.\nВы можете 3 раз в день сотворять только на себя <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span> как врожденное арканное заклинание 4-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-shaitan-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв земляного элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2577\">Summon Earth Elemental</a>) / 13",
+            "name": "Призыв земляного элементаля",
+            "originalName": "Summon Earth Elemental",
+            "level": 13,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>У вас есть связь с Внутренней Сферой, что позволяет вам призывать элементального союзника.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-elemental\">Призыв элементаля (Summon Elemental) / Закл. 2</span> как врожденное природное заклинание 5-го уровня, но призываемый элементаль должен быть земляным.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-summon-earth-elemental",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2578\">Stone Form</a>) / 17",
+            "name": "Каменная форма",
+            "originalName": "Stone Form",
+            "level": 17,
+            "traits": [
+                "ореад"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 107</p><hr class=\"docutils\"><p>Вы можете превратить свое тело в чистое древнее проявление земли - в элементаля.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-elemental-form\">Форма элементаля (Elemental Form) / Закл. 5</span> как врожденное природное заклинание 7-го уровня, но можете выбирать только форму земляного элементаля.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 107",
+            "action": "",
+            "id": "ancestry-feat-oread-stone-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойное происхождение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2579\">Dualborn</a>) / 1",
+            "name": "Двойное происхождение",
+            "originalName": "Dualborn",
+            "level": 1,
+            "traits": [
+                "род",
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 110</p><hr class=\"docutils\"><p>Ваше наследие сули может быть прослежено до двух предков джинникинов противоположных элементов или до предка элементаля, который воплощал два объединенных элемента.\nВыберите 2 из следующих элементов: воздух, земля, огонь и вода.\nСделав этот выбор, вы не можете его изменить.\nВы получаете сопротивление, равное половине вашего уровня (минимум 1) ко всем эффектам наносящим урон, которые имеют признаки одного из выбранных вами элементов.</p><p><strong>Особенность</strong>: Если вы получаете способности родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-assault\">Стихийное нападение (Elemental Assault)  / 1</span> или <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-bulwark\">Стихийный оплот (Elemental Bulwark)  / 5</span>, то можете использовать их только с выбранными вами элементами.\nВы можете добавлять свое сопротивление от этой способности, к сопротивлению получаемому от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-bulwark\">Стихийный оплот (Elemental Bulwark)  / 5</span> против эффектов с признаками ваших элементов, до общего 5 + половина вашего уровня, или 10 + половина вашего уровня с <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-improved-elemental-bulwark\">Улучшенный стихийный оплот (Improved Elemental Bulwark) / 13</span>.\nЕсли вы берете способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-tetraelemental-assault\">Четырехэлементное нападение (Tetraelemental Assault) / 9</span>, то можете выбирать каждый из своих двух элементов, дважды каждый, вместо того, чтобы выбирать каждый из четырех элементов по разу каждый.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 110",
+            "action": "",
+            "id": "ancestry-feat-suli-dualborn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сули-джанн (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2583\">Suli-Jann</a>) / 1",
+            "name": "Сули-джанн",
+            "originalName": "Suli-Jann",
+            "level": 1,
+            "traits": [
+                "род",
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 110</p><hr class=\"docutils\"><p>Ваш стихийный предок был джанном, гением который ходит по миру смертных и воплощает все вместе четыре элемента.\nВы унаследовали натуру джанна как странника и умение выживать во многих типах окружающей среды, от самой жаркой пустыни до самой холодной тундры.\nВы становитесь обучены Выживанию.\nЕсли вы автоматически станете обучены Выживанию (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы получаете бонусную способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-forager\">Добытчик еды (Forager) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 110",
+            "action": "",
+            "id": "ancestry-feat-suli-suli-jann",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стихийное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2580\">Elemental Assault</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Стихийное нападение",
+            "originalName": "Elemental Assault",
+            "level": 1,
+            "traits": [
+                "аркана",
+                "эвокация",
+                "концентрация",
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 110</p><hr class=\"docutils\"><p>Вы покрываете свои руки и удерживаемое оружие стихийной магией.\nВыберите 1 элемент.\nДо конца вашего следующего хода, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> наносят дополнительные 1d6 урона обозначенного типа и имеют признак соотносящийся с этим элементом: электричество для <span class=\"t-air\">воздуха</span>, дробящий для <span class=\"t-earth\">земли</span>, огонь для <span class=\"t-fire\">огня</span>, или холод для <span class=\"t-water\">воды</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 110",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-suli-elemental-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приукрашивание стихии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2581\">Elemental Embellish</a>) / 1",
+            "name": "Приукрашивание стихии",
+            "originalName": "Elemental Embellish",
+            "level": 1,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 110</p><hr class=\"docutils\"><p>Вы можете вызвать безобидную, но впечатляющую демонстрацию стихии.\nВы становитесь обучены Запугиванию.\nЕсли вы автоматически станете обучены Запугиванию (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nКогда вы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализуете (Demoralize)</span> врага, и если используете Деморализацию при помощи демонстрации стихии, действие теряет признак <span class=\"t-auditory\">слуховой</span> и получает <span class=\"t-visual\">визуальный</span>, и вы не получаете штраф, если существо не понимает ваш язык.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 110",
+            "action": "",
+            "id": "ancestry-feat-suli-elemental-embellish",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наследство ученого (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2582\">Scholar's Inheritance</a>) / 1",
+            "name": "Наследство ученого",
+            "originalName": "Scholar's Inheritance",
+            "level": 1,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 110</p><hr class=\"docutils\"><p>Ваши родители посвятили себя алхимическим экспериментам с использованием стихийной энергии.\nВы становитесь обучены Ремеслу.\nЕсли вы автоматически станете обучены Ремеслу (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 110",
+            "action": "",
+            "id": "ancestry-feat-suli-scholars-inheritance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стихийный оплот (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2584\">Elemental Bulwark</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Стихийный оплот",
+            "originalName": "Elemental Bulwark",
+            "level": 5,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг готов нанести вам урон холодом, электричеством или огнем, либо заклинанием, которое имеет признак <span class=\"t-air\">воздух</span>, <span class=\"t-earth\">земля</span>, <span class=\"t-fire\">огонь</span> или <span class=\"t-water\">вода</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>Вы призываете соответствующие элементы своего наследия сули, чтобы сопротивляться этому эффекту.\nВы получаете сопротивление 5 против спровоцировавшего урона.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "реакция",
+            "id": "ancestry-feat-suli-elemental-bulwark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гостеприимство джанна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2585\">Janni Hospitality</a>) / 9",
+            "name": "Гостеприимство джанна",
+            "originalName": "Janni Hospitality",
+            "level": 9,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>Вы можете использовать магию, чтобы показать другим гостеприимство пустыни.\nВы можете 1 раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-c-create-food\">Создание еды (Create Food) / Закл. 2</span> и 2 раза в день <span class=\"card-link std std-ref\" data-id=\"spell-c-create-water\">Создание воды (Create Water) / Закл. 1</span> как врожденные арканные заклинания 2-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-janni-hospitality",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия джанна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2586\">Janni Magic</a>) / 9",
+            "name": "Магия джанна",
+            "originalName": "Janni Magic",
+            "level": 9,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>В вашей крови течет магия джанна.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-speak-with-animals\">Разговор с животными (Speak with Animals) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-janni-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Четырехэлементное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2587\">Tetraelemental Assault</a>) / 9",
+            "name": "Четырехэлементное нападение",
+            "originalName": "Tetraelemental Assault",
+            "level": 9,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-assault\">Стихийное нападение (Elemental Assault)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>Ваше <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-assault\">Стихийное нападение (Elemental Assault)  / 1</span> циклически проходит через все четыре стихии.\nКогда вы используете \"Стихийное нападение\", то вместо выбора 1 элемента, вы при использовании действия можете выбирать элемент из списка, а потом выбирать другой элемент в начале каждого из своих следующих 3 ходов не тратя действие;\nкак только вы выбрали элемент, то не можете выбрать его снова во время этого \"Стихийного нападения\", что означает, вам надо выбрать все 4 элемента в течение 4 ходов.\nКаждый раз, когда вы выбираете элемент, то до начала вашего следующего хода, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> наносят дополнительные 1d6 урона обозначенного типа и имеют признак соответствующий этому элементу.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-tetraelemental-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Постоянное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2588\">Continuous Assault</a>) / 13",
+            "name": "Постоянное нападение",
+            "originalName": "Continuous Assault",
+            "level": 13,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-assault\">Стихийное нападение (Elemental Assault)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>Вы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-assault\">Стихийное нападение (Elemental Assault)  / 1</span> раз в час вместо раза в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-continuous-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенный стихийный оплот (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2589\">Improved Elemental Bulwark</a>) / 13",
+            "name": "Улучшенный стихийный оплот",
+            "originalName": "Improved Elemental Bulwark",
+            "level": 13,
+            "traits": [
+                "сули"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-bulwark\">Стихийный оплот (Elemental Bulwark)  / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>От <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-suli-elemental-bulwark\">Стихийный оплот (Elemental Bulwark)  / 5</span> вы получаете сопротивление 10, вместо 5.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-improved-elemental-bulwark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Амир сули (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2590\">Suli Amir</a>) / 13",
+            "name": "Амир сули",
+            "originalName": "Suli Amir",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "сули"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 111</p><hr class=\"docutils\"><p>У вас есть мощь, связанная с могущественными амирами джаннов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-r-read-omens\">Прочесть знамения (Read Omens) / Закл. 4</span>, и <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> 4-го уровня, как врожденные арканные заклинания, каждое раз в день, и можете по желанию сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> как врожденные арканные чары, усиленные до уровня заклинания, равного половине вашего уровня округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 111",
+            "action": "",
+            "id": "ancestry-feat-suli-suli-amir",
+            "archetype": ""
+        },
+        {
+            "fullName": "Газовая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2591\">Fumesoul</a>) / 1",
+            "name": "Газовая душа",
+            "originalName": "Fumesoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>Воздух внутри вас проявляет себя как токсичные миазмы, делая вас привычным к большинству ядов.\nВы получаете сопротивление яду, равное половине вашего уровня (минимум 1).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "",
+            "id": "ancestry-feat-sylph-fumesoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дымовая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2592\">Smokesoul</a>) / 1",
+            "name": "Дымовая душа",
+            "originalName": "Smokesoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>У вас есть связь с дымом и дымкой.\nВы получаете реакцию \"Слияние с дымом (Smoke Blending)\".</p><p><strong>Слияние с дымом (Smoke Blending)</strong> <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">\n(<span class=\"t-sylph\">сильф</span>)</p><p><strong>Триггер</strong>: Существо выполняет чистую проверку, чтобы целиться в вас потому что вы имеете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> из-за тумана, дымки, мглы или дыма</p><p><strong>Эффект</strong>: Вы покрываете себя дымом, из-за чего вашим врагам тяжелее попасть по вам.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>, КС чистой проверки увеличивается с 5 до 7;\nесли вы <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span>, он увеличивается с 11 до 13.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "реакция",
+            "id": "ancestry-feat-sylph-smokesoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Штормовая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2593\">Stormsoul</a>) / 1",
+            "name": "Штормовая душа",
+            "originalName": "Stormsoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>Влияние вашего элементального предка проявляется в вас в виде бурных грозовых штормов, с темными облаками и молниями.\nВы получаете сопротивление электричеству, равное половине вашего уровня (минимум 1).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "",
+            "id": "ancestry-feat-sylph-stormsoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2594\">Swift</a>) / 1",
+            "name": "Быстрый",
+            "originalName": "Swift",
+            "level": 1,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>Вы всегда движетесь по ветру, за вашей спиной.\nВаша Скорость увеличивается на 5 футов.</p><p><strong>Особенность</strong>: Увеличение Скорости от этой способности не складывается с любым увеличением Скорости от способностей родословной (как например <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-nimble-elf\">Проворный эльф (Nimble Elf) / 1</span>).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "",
+            "id": "ancestry-feat-sylph-swift",
+            "archetype": ""
+        },
+        {
+            "fullName": "Закаленный ветром (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2595\">Wind Tempered</a>) / 1",
+            "name": "Закаленный ветром",
+            "originalName": "Wind Tempered",
+            "level": 1,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>Вы чувствуете себя как дома в ненастную погоду и привыкли даже к самым суровым ветрам.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов <span class=\"t-air\">воздуха</span> и <span class=\"t-electricity\">электричества</span>.\nЕсли при броске спасброска против эффекта <span class=\"t-air\">воздуха</span> вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "",
+            "id": "ancestry-feat-sylph-wind-tempered",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ветряная подушка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3933\">Wind Pillow</a>) / 1",
+            "name": "Ветряная подушка",
+            "originalName": "Wind Pillow",
+            "level": 1,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Ветры шептали вам всю вашу жизнь, и сама сущность воздуха иногда помогает вам, делая вас в некоторой степени плавучим, когда вы подвешены в пространстве.\nСчитайте все падения, как будто они на 10 футов меньше реально пройденного расстояния.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-powerful-leap\">Мощный прыжок (Powerful Leap) / 2</span>, даже если вы не соответствуете его предварительным условиям.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "",
+            "id": "ancestry-feat-sylph-wind-pillow",
+            "archetype": ""
+        },
+        {
+            "fullName": "Созерцатель облаков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2596\">Cloud Gazer</a>) / 5",
+            "name": "Созерцатель облаков",
+            "originalName": "Cloud Gazer",
+            "level": 5,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 114</p><hr class=\"docutils\"><p>Ваша связь с воздухом позволяет вам видеть сквозь застилающий туман.\nВы можете достаточно хорошо видеть через туман, мглу и облака, которые бы обычно сделали существ <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытыми</span>, и вам не надо совершать успешную чистую проверку, чтобы целиться в существ получающих преимущество от такого сокрытия.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 114",
+            "action": "",
+            "id": "ancestry-feat-sylph-cloud-gazer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пролететь с ветерком (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2597\">Slip with the Breeze</a>) / 5",
+            "name": "Пролететь с ветерком",
+            "originalName": "Slip with the Breeze",
+            "level": 5,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Во время прыжка вы создаете порыв ветра, что позволяет вам пролететь большее расстояние.\nВы получаете бонусные способности <span class=\"card-link std std-ref\" data-id=\"feat-quick-jump\">Быстрый прыжок (Quick Jump) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"feat-powerful-leap\">Мощный прыжок (Powerful Leap) / 2</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-slip-with-the-breeze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия джинни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2598\">Djinni Magic</a>) / 9",
+            "name": "Магия джинни",
+            "originalName": "Djinni Magic",
+            "level": 9,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Магия джиннов течет в вашей крови.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-g-gust-of-wind\">Порыв ветра (Gust of Wind) / Закл. 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-djinni-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутреннее дыхание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2599\">Inner Breath</a>) / 9",
+            "name": "Внутреннее дыхание",
+            "originalName": "Inner Breath",
+            "level": 9,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Ваше тело способно перерабатывать собственный воздух.\nКогда вы задерживаете дыхание, то можете делать это на дополнительный час.\nПо истечении этого часа вашему телу нужно восстановиться, прежде чем оно снова может перерабатывать воздух.\nДля отдыха требуется 10 минут на воздухе, пригодном для дыхания.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-inner-breath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крылья воздуха (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2600\">Wings of Air</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Крылья воздуха",
+            "originalName": "Wings of Air",
+            "level": 9,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "трансформация",
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Вы можете напрячься, чтобы вызвать из своей спины пернатые или облачные крылья.\nПроявившись, эти крылья остаются на 10 минут.\nПока есть крылья, вы получаете Скорость полета, равную вашей наземной Скорости.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-sylph-wings-of-air",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воздушный шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2601\">Airy Step</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Воздушный шаг",
+            "originalName": "Airy Step",
+            "level": 13,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Существо целится в вас атакой или другим нацеливаемым эффектом, и вы можете видеть атакующего</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Вы создаете слой тумана в 5-футовом взрыве, с центром в одном из углов вашего пространства.\nВсе существа внутри этой области получают состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, а все другие <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> для них.\nЭто сокрытие применяется к спровоцировавшему эффекту, и туман длится 1 минуту или пока не будет развеян сильным ветром.\nПосле определения результата спровоцировавшего эффекта, вы <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span>.\nЕсли эффект препятствует тому, чтобы вы совершили Шаг, вы пытаетесь <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> из эффекта и в случае успеха Шагнуть.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "реакция",
+            "id": "ancestry-feat-sylph-airy-step",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв воздушного элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2602\">Summon Air Elemental</a>) / 13",
+            "name": "Призыв воздушного элементаля",
+            "originalName": "Summon Air Elemental",
+            "level": 13,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>У вас есть связь с Внутренней Сферой, что позволяет вам призывать элементального союзника.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-elemental\">Призыв элементаля (Summon Elemental) / Закл. 2</span> как врожденное природное заклинание 5-го уровня, но призываемый элементаль должен быть воздушным.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-summon-air-elemental",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2603\">Eternal Wings (Sylph)</a>) / 17",
+            "name": "Вечные крылья",
+            "originalName": "Eternal Wings",
+            "level": 17,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-sylph-wings-of-air\">Крылья воздуха (Wings of Air)  / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Ваши крылья теперь постоянная часть вашего тела.\nВы навсегда получаете эффекты <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-sylph-wings-of-air\">Крылья воздуха (Wings of Air)  / 9</span>, а не только на 10 минут раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-eternal-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Штормовая форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2604\">Storm Form</a>) / 17",
+            "name": "Штормовая форма",
+            "originalName": "Storm Form",
+            "level": 17,
+            "traits": [
+                "сильф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 115</p><hr class=\"docutils\"><p>Вы можете превращаться в элементаля.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-elemental-form\">Форма элементаля (Elemental Form) / Закл. 5</span> как врожденное природное заклинание 7-го уровня, но можете выбирать только форму воздушного элементаля.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 115",
+            "action": "",
+            "id": "ancestry-feat-sylph-storm-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Морская душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2606\">Brinesoul</a>) / 1",
+            "name": "Морская душа",
+            "originalName": "Brinesoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 118</p><hr class=\"docutils\"><p>Наследие вашего стихийного предка заявляет о себе солоноватой водой, как морская вода в океане.\nВы получаете реакцию \"Соляная рана (Salt Wound)\".</p><p><strong>Соляная рана (Salt Wound)</strong> <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> (ундина)</p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Существо имеющее кровь и не с максимальными ОЗ попадает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Эффект</strong>: Вы направляете соль и морскую воду из своей крови в раны существа.\nСущество должно совершить спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПри провале, существо получает 1d6 продолжительного урона кислотой и состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 1</span> из-за боли.\nПри критическом провале, вместо этого оно получает 2d6 продолжительного урона и состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 118",
+            "action": "реакция",
+            "id": "ancestry-feat-undine-brinesoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Туманная душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2607\">Mistsoul</a>) / 1",
+            "name": "Туманная душа",
+            "originalName": "Mistsoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 118</p><hr class=\"docutils\"><p>У вас есть связь с парообразными формами воды, такими как туман и дымка.\nВы получаете реакцию \"Слияние с дымкой (Mist Blending)\".</p><p><strong>Слияние с дымкой (Mist Blending)</strong> <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> (ундина)</p><p><strong>Триггер</strong>: Существо выполняет чистую проверку, чтобы целиться в вас потому что вы имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> из-за тумана, дымки, мглы или дыма</p><p><strong>Эффект</strong>: Вы покрываете себя дымкой, из-за чего вашим врагам тяжелее попасть по вам.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>, КС чистой проверки увеличивается с 5 до 7;\nесли вы \"спрятаны\", он увеличивается с 11 до 13.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 118",
+            "action": "реакция",
+            "id": "ancestry-feat-undine-mistsoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Душа инея (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2608\">Rimesoul</a>) / 1",
+            "name": "Душа инея",
+            "originalName": "Rimesoul",
+            "level": 1,
+            "traits": [
+                "род",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 118</p><hr class=\"docutils\"><p>Вода внутри вас холодная и замороженная, как ледяные пласты и ледники.\nВы получаете сопротивление холоду, равное половине вашего уровня (минимум 1), и считаете эффекты холода от окружающей среды, как если бы они были на одну ступень слабее (невероятный холод становится экстремальным, экстремальный становится сильным и т.д.)</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 118",
+            "action": "",
+            "id": "ancestry-feat-undine-rimesoul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Водные глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2605\">Aquatic Eyes</a>) / 1",
+            "name": "Водные глаза",
+            "originalName": "Aquatic Eyes",
+            "level": 1,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 118</p><hr class=\"docutils\"><p>По мере того, как ваша связь с водой растет, вам становится легче видеть в местах с меньшим количеством света, например в глубинах океана.\nВы получаете сумеречное зрение, или если ваша родословная уже обладает сумеречным зрением, то получаете ночное зрение.</p><p><strong>Особенность</strong>: Если ваша родословная не обладает ни сумеречным зрением, ни ночным зрением, то вы можете взять эту способность второй раз, чтобы получить ночное зрение.\nВы не можете переобучиться этой способности на другую.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 118",
+            "action": "",
+            "id": "ancestry-feat-undine-aquatic-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Закаленный приливом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2609\">Tide-Hardened</a>) / 1",
+            "name": "Закаленный приливом",
+            "originalName": "Tide-Hardened",
+            "level": 1,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 118</p><hr class=\"docutils\"><p>Вы чувствуете себя как дома в непредсказуемых приливах.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов холода и воды.\nЕсли при броске спасброска против эффекта холода или воды вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 118",
+            "action": "",
+            "id": "ancestry-feat-undine-tide-hardened",
+            "archetype": ""
+        },
+        {
+            "fullName": "Родные воды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3931\">Native Waters</a>) / 1",
+            "name": "Родные воды",
+            "originalName": "Native Waters",
+            "level": 1,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 31</p><hr class=\"docutils\"><p>Вы были рождены или получили особую связь либо с пресной, либо с соленой водой.\nПосле принятия этого решения, оно не может быть изменено.\nКаждый раз, когда вы полноценно отдыхаете в естественном водоеме того типа, который соответствует вашей связи, вы восстанавливаете дополнительные Очки Здоровья, равные своему уровню, а если у вас есть состояния <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обреченности</span> или <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомления</span>, то вы уменьшаете их на 2 вместо 1.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 31",
+            "action": "",
+            "id": "ancestry-feat-undine-native-waters",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жидкий акробат (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2610\">Fluid Contortionist</a>) / 5",
+            "name": "Жидкий акробат",
+            "originalName": "Fluid Contortionist",
+            "level": 5,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Вы можете игнорировать сложную местность вызванную движением через узкие пространства, которые недостаточно узкие, чтобы заставить вас <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span>.\nКогда при броске проверки <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span> вы получаете критический провал, то вместо этого получаете простой провал, а когда при броске получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "",
+            "id": "ancestry-feat-undine-fluid-contortionist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паровое заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2611\">Steam Spell</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Паровое заклинание",
+            "originalName": "Steam Spell",
+            "level": 5,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Вы превращаете свои огненные заклинания в пар, делая их более эффективными под водой.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> с признаком <span class=\"t-fire\">огонь</span>, то вы можете сотворять его под водой.\nКогда вы это делаете, оно принимает форму обжигающего пара.\nСущества под водой не получают обычное сопротивление огню против этого заклинания находясь в воде, но заклинания не поджигают вещи или не причиняют продолжительный огненный урон, а также не добавляют другие эффекты, которые применяются к огню, но не к пару (на усмотрение Мастера).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-undine-steam-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия маридов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2612\">Marid Magic</a>) / 9",
+            "name": "Магия маридов",
+            "originalName": "Marid Magic",
+            "level": 9,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Вы владеете магией маридов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-hydraulic-push\">Водный толчок (Hydraulic Push) / Закл. 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-o-obscuring-mist\">Непроглядный туман (Obscuring Mist) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "",
+            "id": "ancestry-feat-undine-marid-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сильный пловец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2613\">Strong Swimmer</a>) / 9",
+            "name": "Сильный пловец",
+            "originalName": "Strong Swimmer",
+            "level": 9,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Ваша Скорость плавания увеличивается и соответствует вашей наземной Скорости.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "",
+            "id": "ancestry-feat-undine-strong-swimmer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв водного элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2614\">Summon Water Elemental</a>) / 13",
+            "name": "Призыв водного элементаля",
+            "originalName": "Summon Water Elemental",
+            "level": 13,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Вы можете призывать союзника-элементаля.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-elemental\">Призыв элементаля (Summon Elemental) / Закл. 2</span> как врожденное природное заклинание 5-го уровня, но призываемый элементаль должен быть водным.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "",
+            "id": "ancestry-feat-undine-summon-water-elemental",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прозрачная кожа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2615\">Translucent Skin</a>) / 13",
+            "name": "Прозрачная кожа",
+            "originalName": "Translucent Skin",
+            "level": 13,
+            "traits": [
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Ваше тело прозрачно под водой.\nВсегда когда вы полностью погружены в воду, вы можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> от других существ, даже если у вас нет укрытия от них и вы не имеете относительно них состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "",
+            "id": "ancestry-feat-undine-translucent-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приливный щит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2616\">Tidal Shield</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Приливный щит",
+            "originalName": "Tidal Shield",
+            "level": 17,
+            "traits": [
+                "природный",
+                "преграждение",
+                "вода",
+                "концентрация",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 119</p><hr class=\"docutils\"><p>Вы вызываете силу приливов, чтобы получить бонус обстоятельства +4 к КБ до конца вашего следующего хода.\nЛюбые союзники находящиеся рядом с вами на время действия получают бонус обстоятельства +2 к КБ, пока остаются рядом с вами.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> этот эффект до максимальной продолжительности в 5 раундов.\nКогда существо получающее бонус обстоятельства к КБ от \"Приливного щита\" получило бы урон от атаки, вы в качестве реакции можете снизить урон этому существу на 40; после того как вы это делаете, \"Приливный щит\" заканчивается.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 119",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-undine-tidal-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойной разрез (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=356\">Double Slice</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Двойной разрез",
+            "originalName": "Double Slice",
+            "level": 1,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями ближнего боя, каждое в отдельной руке</p><hr class=\"docutils\"><p>Вы набрасываетесь на врага с обоими оружиями.\nСделайте 2 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strikes)</span>, по одному удару каждым из требуемых оружий ближнего боя, и для каждого используя ваш текущий штраф множественной атаки.\nОба Удара должны быть по одной и той же цели.\nЕсли второй Удар сделан оружием, без признака <span class=\"w-agile\">быстрое</span>, то он получает штраф -2.</p><p>Если обе атаки попадают, объедините их урон и потом добавляйте любые другие применимые эффекты от обоих оружий.\nВы добавляете любой точный урон только один раз, к атаке на свой выбор.\nОбъедините урон от обоих Ударов и примените сопротивления и слабости только один раз.\nПри расчете штрафа множественной атаки, это считается как 2 атаки.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-double-slice",
+            "archetype": ""
+        },
+        {
+            "fullName": "Точный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=357\">Exacting Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Точный удар",
+            "originalName": "Exacting Strike",
+            "level": 1,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете контролируемую атаку, полностью учитывая ее импульс.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЭтот Удар получает следующий эффект провала.</p><p><strong>Провал</strong>: Эта атака не считается при учете штрафа множественной атаки.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-exacting-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выстрел в упор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=358\">Point-blank Shot</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Выстрел в упор",
+            "originalName": "Point-blank Shot",
+            "level": 1,
+            "traits": [
+                "начальный",
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете дистанционным оружием</p><hr class=\"docutils\"><p>Вы прицеливаетесь, чтобы быстро подстрелить ближайшего врага.\nКогда в этой стойке используете дистанционное оружие с признаком <span class=\"w-volley\">залповое</span>, то вы не получаете штраф к своим броскам атак от признака <span class=\"w-volley\">залповое</span>.\nКогда используете дистанционное оружие, которое без признака <span class=\"w-volley\">залповое</span>, вы получаете бонус обстоятельства +2 к броскам урона, против целей в пределах первого шага дистанции оружия.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-point-blank-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мощная атака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=359\">Power Attack</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Мощная атака",
+            "originalName": "Power Attack",
+            "level": 1,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы проводите особенно мощную атаку, которая особенно сильно бьет вашего врага, но оставляет вас немного неустойчивым.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nПри подсчете вашего штрафа множественной атаки, он считается как 2 атаки.\nЕсли этот <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попадает, то вы наносите дополнительную кость урона оружия.\nЕсли вы хотя бы 10-го уровня, увеличьте количество дополнительных костей урона до 2, а если хотя бы 18-го уровня, то до 3.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-power-attack",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитная реакция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=360\">Reactive Shield</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Защитная реакция",
+            "originalName": "Reactive Shield",
+            "level": 1,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг попадает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Требования</strong>: Вы владеете щитом</p><hr class=\"docutils\"><p>Вы можете внезапно поднять щит, как если бы вы получили удар, избегая попадания в последнюю секунду.\nВы мгновенно используете действие <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span> и получаете бонус к КБ от своего щита.\nБонус обстоятельства от щита применяется к вашему КБ когда вы определяете результат спровоцировавшей атаки.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-fighter-reactive-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удар с захватом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=361\">Snagging Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Удар с захватом",
+            "originalName": "Snagging Strike",
+            "level": 1,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть одна свободная рука, и цель в досягаемости этой руки</p><hr class=\"docutils\"><p>Вы совмещаете атаку с быстрыми движениями для захвата, чтобы вывести врага из равновесия, пока он остается в вашей досягаемости.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, имея одну свободную руку.\nЕсли этот <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попадает, то цель <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> до начала вашего следующего хода, или пока она больше не будет в пределах досягаемости вашей руки, в зависимости от того, что произойдет раньше.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-snagging-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внезапное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=134\">Sudden Charge (Fighter)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Внезапное нападение",
+            "originalName": "Sudden Charge",
+            "level": 1,
+            "traits": [
+                "начальный",
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>С быстрым рывком вы бросаетесь к врагу и наносите удар.\nДважды сделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nЕсли вы закончили перемещение в досягаемости ближнего боя хотя бы от одного врага, то можете совершить по нему <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nВы можете использовать \"Внезапное нападение\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-sudden-charge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оценка боем (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1721\">Combat Assessment</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Оценка боем",
+            "originalName": "Combat Assessment",
+            "level": 1,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы делаете читаемую атаку, чтобы узнать о своем враге.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nПри попадании, вы можете мгновенно сделать проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о цели.\nПри крит.попадании, вы получаете бонус обстоятельства +2 к этой проверке.\nЦель временно иммунна к \"Оценке боем\" на 1 день.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-combat-assessment",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эверстэндская стойка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1087\">Everstand Stance (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Эверстэндская стойка",
+            "originalName": "Everstand Stance",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "стойка",
+                "воин"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Персонаж является членом <span class=\"card-link \">Рыцарей Ластволла</span></p><p><strong>Требования</strong>: Вы владеете щитом</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 90</p><hr class=\"docutils\"><p>Вы держите свой щит обеими руками, увеличивая его потенциал как для нападения, так и для защиты.\nВ этой стойке вы владеете щитом обеими руками.\nКогда вы владеете щитом таким образом, то увеличиваете кость урона оружия для умбона или шипов щита на один шаг, и используя реакцию <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> увеличиваете Твердость щита на 2.</p>",
+            "src": "Lost Omens: Character Guide pg. 90",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-everstand-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Агрессивное блокирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=363\">Aggressive Block</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Агрессивное блокирование",
+            "originalName": "Aggressive Block",
+            "level": 2,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы используете реакцию <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, и спровоцировавший противник, вашего или меньшего размера, находится рядом с вами</p><hr class=\"docutils\"><p>Вы отталкиваетесь, блокируя атаку, сбивая противника в сторону или выводя его из равновесия.\nВы используете щит, либо автоматически <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Отталкивая (Shoving)</span> спровоцировавшее существо на 5 футов, либо делая его <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутым врасплох</span> до начала вашего следующего хода.\nСпровоцировавшее существо выбирает, либо быть сдвинутым, либо стать <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутым врасплох</span>.\nЕсли оно выбирает быть сдвинутым, то вы выбираете направление.\nЕсли <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толчок (Shove)</span> передвинет существо в твердый объект, оно войдет в квадрат со сложной местностью или пространство другого существа, то оно должно стать <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутым врасплох</span>, вместо того чтобы быть передвинутым.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "class-feat-fighter-aggressive-block",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вспомогательный выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=364\">Assisting Shot</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Вспомогательный выстрел",
+            "originalName": "Assisting Shot",
+            "level": 2,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете дистанционным оружием</p><hr class=\"docutils\"><p>Быстрым выстрелом вы мешаете противнику в бою.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> дистанционным оружием.\nЕсли Удар попадает, то следующее существо, кроме вас, которое атакует ту же цель до начала вашего следующего хода получает бонус обстоятельства +1 к своему броску, или бонус обстоятельства +2, если ваш Удар был критическим попаданием.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Способность изменена, так как ее не переделали после плейтеста.</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-assisting-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Грубый толчок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=365\">Brutish Shove</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Грубый толчок",
+            "originalName": "Brutish Shove",
+            "level": 2,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двуручным оружием ближнего боя</p><hr class=\"docutils\"><p>Вкладывая свой вес в атаку, вы ударяете вашего противника с достаточной силой, чтобы он оступился.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> двуручным оружием ближнего боя.\nЕсли вы попадаете по цели своего или меньшего размера, это существо <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> до конца вашего текущего хода, и вы можете автоматически <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove)</span> его, с теми же преимуществами, что и действием Толкнуть (включая эффект критического успеха, если ваш Удар был критическим попаданием).\nЕсли вы двигаетесь следом за целью, то ваше движение не провоцирует реакции.</p><p>Этот Удар имеет следующий эффект провала.</p><p><strong>Провал</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> до конца вашего текущего хода.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-brutish-shove",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой захват (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=366\">Combat Grab</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Боевой захват",
+            "originalName": "Combat Grab",
+            "level": 2,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть одна свободная рука, и цель в досягаемости этой руки</p><hr class=\"docutils\"><p>Вы бьете противника и хватаете его.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя, имея одну свободную руку.\nЕсли атака попадает, то вы хватаете цель свободной рукой.\nСущество остается <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачено</span> до конца вашего следующего хода или пока не сможет <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>, в зависимости от того, что произойдет раньше.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-combat-grab",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дуэльное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=367\">Dueling Parry (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Дуэльное парирование",
+            "originalName": "Dueling Parry",
+            "level": 2,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и ваша другая рука(и) свободны</p><hr class=\"docutils\"><p>Вы можете парировать атаки против вас, своим одноручным оружием.\nВы получаете бонус обстоятельства +2 к КБ до начала вашего следующего хода, пока соответствуете требованиям.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-dueling-parry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Запугивающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=368\">Intimidating Strike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Запугивающий удар",
+            "originalName": "Intimidating Strike",
+            "level": 2,
+            "traits": [
+                "страх",
+                "эмоция",
+                "ментальный",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваш удар не только ранит существо, но так же вселяет в него неуверенность.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли вы попали и нанесли урон, цель получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>, или <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 2</span> при крит.попадании.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-intimidating-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выпад (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=369\">Lunge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Выпад",
+            "originalName": "Lunge",
+            "level": 2,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете оружием ближнего боя</p><hr class=\"docutils\"><p>Вытягивая своей тело до максимума, вы атакуете врага, который обычно был бы вне досягаемости.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием ближнего боя, увеличивая досягаемость этой атаки на 5 футов.\nЕсли оружие имеет признак <span class=\"w-disarm\">разоружение</span>, <span class=\"w-shove\">толчок</span> или <span class=\"w-trip\">опрокидывание</span>, вы можете использовать соответствующее действие вместо Удара.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-lunge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Протаскивающий удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1722\">Dragging Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Протаскивающий удар",
+            "originalName": "Dragging Strike",
+            "level": 2,
+            "traits": [
+                "натиск",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы прицеливаетесь своим оружием, чтобы зацепить доспех, одежду или плоть противника, для того, чтобы подтянуть его ближе.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли вы попадете по цели своего размера или меньше, это существо <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> до конца вашего текущего хода, и вы можете пододвинуть его к себе на 5 футов.\nДаже если вы рядом с целью, когда двигаете существо, вы можете сами передвинуться на ту же дистанцию и в том же направлении, что и оно.\nЭто движение не провоцирует реакции.</p><p>Этот Удар имеет следующий эффект провала.</p><p><strong>Провал</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> до конца вашего текущего хода.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-dragging-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бросок с отскоком (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1723\">Rebounding Toss</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Бросок с отскоком",
+            "originalName": "Rebounding Toss",
+            "level": 2,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете <span class=\"w-thrown\">метательным</span> оружием</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 126</p><hr class=\"docutils\"><p>Вы метаете оружие, чтобы оно отскочило от одного врага и поразило другого.\nСделайте дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> метательным оружием.\nЕсли этот Удар попадает, то оружие отскакивает во врага в пределах 10 футов от изначальной цели.\nСделайте дополнительный Удар по этой второй цели.\nОбе атаки считаются к вашему штрафу множественной атаки, но штраф не увеличивается пока вы не сделаете обе атаки.</p>",
+            "src": "Advanced Player's Guide pg. 126",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-rebounding-toss",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойной выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=370\">Double Shot</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Двойной выстрел",
+            "originalName": "Double Shot",
+            "level": 4,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете дистанционным оружием с перезарядкой 0</p><hr class=\"docutils\"><p>Вы ослепительно быстро стреляете два раза подряд.\nСделайте 2 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрела (Strikes)</span>, каждый по отдельной цели и со штрафом -2.\nОбе атаки считаются к вашему штрафу множественной атаки, но он не увеличивается пока вы не закончите эти атаки.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-double-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двуручное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=371\">Dual-Handed Assault</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Двуручное нападение",
+            "originalName": "Dual-Handed Assault",
+            "level": 4,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете одноручным оружием ближнего боя и имеете свободную руку</p><hr class=\"docutils\"><p>Вы фиксируете свободную руку на рукояти, чтобы сжать свое оружие достаточно долго, чтобы вложить больше силы, и нанести более мощный удар противнику.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> требуемым оружием.\nВы быстро меняете хватку во время Удара, чтобы сделать двуручную атаку.\nЕсли оружие обычно не имеет признака <span class=\"w-two-hand\">двуручное</span>, увеличьте его размер кости урона для этой атаки на один шаг (правила по увеличению размера кости урона описаны в сноске раздела <span class=\"card-link \">Урон (Damage)</span>).\nЕсли оружие имеет признак <span class=\"w-two-hand\">двуручное</span>, то вы получаете преимущество этого признака и бонус обстоятельства к урону, равный количеству костей урона оружия.\nКогда <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> завершен, вы продолжаете держать оружие только одной рукой.\nЭто действие не заканчивает стойки или эффект способности воина, который требует от вас наличия свободной руки.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-dual-handed-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нокдаун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=372\">Knockdown</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Нокдаун",
+            "originalName": "Knockdown",
+            "level": 4,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Вы делаете атаку, чтобы вывести противника из равновесия, а затем мгновенно продолжаете нападение, опрокидывая его.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли он попадает и наносит урон, вы можете совершить проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> это существо.\nЕсли вы владеете двуручным оружием ближнего боя, то можете игнорировать требование Опрокидывания о наличии свободной руки.\nОбе атаки считаются к вашему штрафу множественной атаки, но он не увеличивается пока вы не закончите эти атаки.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-knockdown",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мощный толчок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=373\">Powerful Shove</a>) / 4",
+            "name": "Мощный толчок",
+            "originalName": "Powerful Shove",
+            "level": 4,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-aggressive-block\">Агрессивное блокирование (Aggressive Block)  / 2</span> или <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-brutish-shove\">Грубый толчок (Brutish Shove)  / 2</span></p><hr class=\"docutils\"><p>Своей атакой, вы можете толкнуть противника бо́льшего размера.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-aggressive-block\">Агрессивное блокирование (Aggressive Block)  / 2</span> или <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-brutish-shove\">Грубый толчок (Brutish Shove)  / 2</span> против существа вплоть до 2 размеров больше вас.</p><p>Когда существо, которое вы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкаете (Shove)</span> должно остановиться из-за столкновения с объектом, оно получает урон равный вашему модификатору Силы (минимально 1).\nЭто происходит не зависимо от того, как вы Толкнули существо.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-powerful-shove",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый разворот (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=374\">Quick Reversal</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Быстрый разворот",
+            "originalName": "Quick Reversal",
+            "level": 4,
+            "traits": [
+                "натиск",
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы взяты в тиски минимум 2 врагами</p><hr class=\"docutils\"><p>Быстрым разворотом, вы оборачиваете взятие вас в тиски против самих врагов.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по одному из врагов, взявших вас в тиски, а потом второй Удар, тем же оружием или безоружной атакой, по другому врагу взявшему вас в тиски.\nВторой Удар имеет тот же штраф множественной атаки, что и начальная атака, и не считается к вашему штрафу множественной атаки.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-quick-reversal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитное перемещение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=375\">Shielded Stride</a>) / 4",
+            "name": "Защитное перемещение",
+            "originalName": "Shielded Stride",
+            "level": 4,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Когда вы за щитом, удары врагов не могут попасть по вам.\nКогда у вас поднят щит, вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаться (Stride)</span> вплоть до половины своей Скорости не провоцируя реакции, которые обычно срабатывают при движении (такие как <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>).\nВы можете использовать \"Защитное перемещение\" когда <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> если у вас есть соответствующий вид передвижения.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-fighter-shielded-stride",
+            "archetype": ""
+        },
+        {
+            "fullName": "Взмах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=142\">Swipe (Fighter)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Взмах",
+            "originalName": "Swipe",
+            "level": 4,
+            "traits": [
+                "размах",
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы делаете широкий удар по дуге.\nСделайте 1 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя и сравните результат броска атаки с КБ вплоть до 2 врагов, каждый из которых должен быть в пределах досягаемости вашей атаки ближнего боя, и находиться рядом друг с другом.\nСделайте бросок урона только 1 раз, и используйте это значение для каждого существа по которому вы попали.\nВзмах считается как 2 атаки для вашего штрафа множественной атаки.</p><p>Если вы используете оружие с признаком <span class=\"w-sweep\">размах</span>, то его модификатор применяется для всех атак Взмаха.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-fighter-swipe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=377\">Twin Parry (Fighter)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Парное парирование",
+            "originalName": "Twin Parry",
+            "level": 4,
+            "traits": [
+                "воин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями ближнего боя, по одному в каждой руке</p><hr class=\"docutils\"><p>Вы используете два оружия, чтобы парировать атаки.\nДо начала своего следующего хода вы получаете бонус обстоятельства +1 к КБ, или бонус обстоятельства +2, если одно из оружий имеет признак <span class=\"w-parry\">парирование</span>.\nВы теряете этот бонус обстоятельства, если больше не удовлетворяете требования способности.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-fighter-twin-parry",
+            "archetype": ""
+        }
+    ]
+}

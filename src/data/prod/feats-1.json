@@ -1,0 +1,1601 @@
+{
+    "feats": [
+        {
+            "fullName": "Заимствованная родословная (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=751\">Adopted Ancestry</a>) / 1",
+            "name": "Заимствованная родословная",
+            "originalName": "Adopted Ancestry",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы полностью погружены в культуру и традиции другой родословной, независимо от того, родились ли вы среди нее, заработали через обряд посвящения, или связаны глубокой дружбой или романом.\nВыберите распространенную (обычную) родословную.\nКогда вы выбираете способности родословной, то в дополнение к родословной своего персонажа, вы можете выбирать из выбранной вами здесь, если только способности родословной не требуют любых отсутствующих у вас физиологических особенностей (на усмотрение Мастера).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-adopted-ancestry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ношение доспехов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=755\">Armor Proficiency</a>) / 1",
+            "name": "Ношение доспехов",
+            "originalName": "Armor Proficiency",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы становитесь обучены ношению легких доспехов.\nЕсли вы уже были обучены легким доспехам, то обучаетесь средним доспехам.\nЕсли вы уже были обучены обоим видам доспехов, то обучаетесь тяжелым доспехам.</p><p><strong>Особенность</strong>: Вы можете выбирать эту способность более 1 раза.\nКаждый раз вы становитесь обучены ношению следующего вида доспехов.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-armor-proficiency",
+            "archetype": ""
+        },
+        {
+            "fullName": "Задержка дыхания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=763\">Breath Control</a>) / 1",
+            "name": "Задержка дыхания",
+            "originalName": "Breath Control",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы умеете невероятно задерживать дыхание, что дает вам преимущества когда воздух опасен или разряжен.\nВы можете задержать дыхание на время в 25 раз дольше, чем обычно, прежде чем начнете задыхаться.\nВы получаете бонус обстоятельства +1 к спасброскам против вдыхаемых угроз, таких как вдыхаемые яды, и если при броске такого спасброска вы получаете успех, то вместо этого он считается критическим успехом.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-breath-control",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проницательность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=764\">Canny Acumen</a>) / 1",
+            "name": "Проницательность",
+            "originalName": "Canny Acumen",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша проницательность или внимательность находится за пределами понимания большинства представителей вашей профессии.\nВыберите спасбросок Стойкости, Рефлекса, Воли, или Восприятие.\nВы получаете уровень мастерства эксперта для того что выбрали.\nНа 17-м уровне, вы становитесь мастером того что выбрали.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-canny-acumen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Несгибаемый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=774\">Diehard</a>) / 1",
+            "name": "Несгибаемый",
+            "originalName": "Diehard",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вас убить тяжелее, чем остальных.\nВы умираете при состоянии \"при смерти 5\", а не <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти 4</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-diehard",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое восстановление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=782\">Fast Recovery</a>) / 1",
+            "name": "Быстрое восстановление",
+            "originalName": "Fast Recovery",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Телосложение 14</p><hr class=\"docutils\"><p>Ваше тело быстрее восстанавливается от недугов.\nВы восстанавливаете в 2 раза больше Очков Здоровья от отдыха.\nКаждый раз, когда вы успешно проходите спасбросок Стойкости против действующей болезни или яда, то снижаете их стадию на 2, или на 1 против вирулентной болезни или яда.\nКаждый получаемый вами критический успех против действующей болезни или яда, снижает их стадию на 3, или на 2 против вирулентной болезни или яда.\nКроме того, когда вы отдыхаете целую ночь, то снижаете значение состояния <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span> на 2, а не на 1.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-fast-recovery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легкий шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=783\">Feather Step</a>) / 1",
+            "name": "Легкий шаг",
+            "originalName": "Feather Step",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Ловкость 14</p><hr class=\"docutils\"><p>Вы шагаете быстро и осторожно.\nВы можете сделать <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> на сложную местность.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-feather-step",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстроногий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=784\">Fleet</a>) / 1",
+            "name": "Быстроногий",
+            "originalName": "Fleet",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете двигаться быстрее.\nВаша Скорость увеличивается на 5 футов.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-fleet",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная инициатива (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=794\">Incredible Initiative</a>) / 1",
+            "name": "Невероятная инициатива",
+            "originalName": "Incredible Initiative",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы реагируете быстрее, чем могут другие.\nВы получаете бонус обстоятельства +2 к броскам инициативы.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-incredible-initiative",
+            "archetype": ""
+        },
+        {
+            "fullName": "Езда верхом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=835\">Ride</a>) / 1",
+            "name": "Езда верхом",
+            "originalName": "Ride",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Когда вы <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Командуете животному (Command an Animal)</span> на котором находитесь верхом, чтобы оно использовало действие с признаком <span class=\"t-move\">движение</span> (такое как <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>), то вы автоматически получаете успех без необходимости выполнять проверку.\nЛюбое животное, на котором вы верхом, действует в ваш ход как <span class=\"t-minion\">миньон</span>.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"action-mount\">Седлаете (Mount)</span> животное посреди столкновения, оно пропускает свой следующий ход и потом действует в ваш следующий ход (см. больше информации в описании действия <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-ride",
+            "archetype": ""
+        },
+        {
+            "fullName": "Блок щитом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=839\">Shield Block</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Блок щитом",
+            "originalName": "Shield Block",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получите урон от физической атаки когда у вас поднят щит</p><hr class=\"docutils\"><p>Вы выставляете свой щит, чтобы защититься от удара.\nВаш щит защищает вас от части урона, равной вплоть до значения Твердости щита.\nЩит и вы, вместе получаете любой оставшийся непоглощенный урон, возможно в результате чего щит ломается или уничтожается.</p><div class=\"admonition- clarification admonition\">\n<p class=\"admonition-title\">Официальное пояснение (4 издание)</p>\n<p><strong>Вопрос</strong>: Могу ли я использовать <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> если получаю физический урон идущий не от атаки?</p>\n<p><strong>Ответ</strong>: \"Блок щитом\" может быть использован только против физического урона от атак, так как эффекты не от атак не провоцируют триггер \"Блока щитом\".\nНапример, если вы идете по квадрату <span class=\"card-link \">опасной местности</span> наносящей вам колющий урон, то ваш поднятый щит не поможет, как и в случае когда вам надо совершать спасбросок Рефлекса против заклинания наносящего дробящий урон.\nНекоторые умения позволяют вам использовать \"Блок щитом\" с другими триггерами, как например в заклинании <span class=\"card-link std std-ref\" data-id=\"spell-s-shield\">Щит (Shield) / Чары 1</span> и способности воина <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-reflexive-shield\">Отражающий щит (Reflexive Shield) / 6</span>, но такие исключения говорят от этом явно.\nТакже обратите внимание на изменения <span class=\"card-link \">Щит от заклинаний (Spellguard Shield) / Предмет 6</span> в 4-й эррате \"Основной книги правил\", позволяющие применять его таким образом.</p>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "feat-shield-block",
+            "archetype": ""
+        },
+        {
+            "fullName": "Живучесть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=855\">Toughness</a>) / 1",
+            "name": "Живучесть",
+            "originalName": "Toughness",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете выдержать больше ударов, чем большинство.\nУвеличьте ваши максимальные Очки Здоровья на значение вашего уровня.\nВаш КС проверок восстановления становится равным 9 + ваше значения состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> (<span class=\"card-link \">Проверки восстановления (Recovery Checks)</span>).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Последнее предложение уточняет, что в КС проверки восстановления понижается базовое значение (10).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-toughness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Владение оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=866\">Weapon Proficiency</a>) / 1",
+            "name": "Владение оружием",
+            "originalName": "Weapon Proficiency",
+            "level": 1,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы становитесь обучены всему простому оружию.\nЕсли вы уже были обучены всему простому оружию, то обучаетесь обращению с воинским оружием.\nЕсли вы уже были обучены всему воинскому оружию, то обучаетесь 1 продвинутому оружию на свой выбор.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз когда вы это делаете, то обучаетесь дополнительному виду оружий, в соответствии с прогрессией из описания способности.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-weapon-proficiency",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раскрыть истинное имя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3028\">Reveal True Name</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Раскрыть истинное имя",
+            "originalName": "Reveal True Name",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "истинное имя",
+                "слуховой",
+                "эмоция",
+                "концентрация",
+                "ментальный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию и хотя бы одному навыку из: Аркана, Природа, Оккультизм или Религия</p><p><strong>Источник</strong>: Secrets of Magic pg. 246</p><hr class=\"docutils\"><p>Вы пытаетесь заставить существо сделать то что вы хотите, угрожая ему знанием его истинного имени.\nВы должны знать и назвать истинное имя существа, и сказать что вы хотите чтобы оно сделало.\nСовершите проверку Запугивания против КС Воли цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель делает то, что вы говорите, из чувства самосохранения и никоим образом не причинит себе вреда. Она становится <span class=\"card-link std std-ref\" data-id=\"c-unfriendly\">недружественной</span> (если она еще не была недружественной или <span class=\"card-link std std-ref\" data-id=\"c-hostile\">враждебной</span>), но продолжает подчиняться вплоть до 1 дня. Цель слишком напугана вами, чтобы нанести ответный удар или сбежать, уверенная, что вы найдете ее, куда бы она ни пошла.</div>\n<div class=\"line\"><strong>Успех</strong>: Как критический успех, но как только цель становится недружественной, она избегает вас и может действовать против вас косвенным способом, например, предупредив вашего врага о вашем местоположении.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель отказывается вам подчиняться и обычно сбегает от вас, чтобы избежать вашего дальнейшего использования ее истинного имени. Если она еще не была недружественной или враждебной, то становится недружественной. Она избегает вас в дальнейшем и скорее всего предпримет против вас косвенные действия.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель отказывается вам подчиняться и становится враждебной, если еще не была таковой. Если она считает вас слабым, то может напасть; иначе, она скорее сбежит, избегая использования вами ее истинного имени.</div>\n</div><p><strong>Правила</strong>: Это относится к специфичным правилам - <span class=\"card-link \">Истинные имена (True Names)</span>.</p>",
+            "src": "Secrets of Magic pg. 246",
+            "action": "активность из 2-х действий",
+            "id": "feat-reveal-true-name",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наследник рода (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=753\">Ancestral Paragon</a>) / 3",
+            "name": "Наследник рода",
+            "originalName": "Ancestral Paragon",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Будь то инстинкт, учеба или магия, но вы чувствуете более глубокую связь со своей родословной.\nВы получаете способность родословной 1-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-ancestral-paragon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Импровизация без тренировки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=861\">Untrained Improvisation</a>) / 3",
+            "name": "Импровизация без тренировки",
+            "originalName": "Untrained Improvisation",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились справляться с ситуациями которые вам не по зубам.\nВаш бонус мастерства для проверок навыков которым вы нетренированы, равняется половине вашего уровня, вместо +0.\nЕсли вы 7-го уровня или выше, то вместо этого бонус увеличивается до значения вашего уровня.\nЭто не позволяет вам использовать действия навыков для которых требуется быть обученным.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-untrained-improvisation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Менеджер наемных рабочих (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2130\">Hireling Manager</a>) / 3",
+            "name": "Менеджер наемных рабочих",
+            "originalName": "Hireling Manager",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>В отличие от большинства, вы можете найти и обеспечить лучшую рабочую силу.\nПри найме наемного рабочего для услуги (см. <span class=\"card-link \">Услуги (Services)</span>), этот наемник получает бонус обстоятельства +2 ко всем проверкам навыков.\nЭтот бонус обстоятельства применяется к обученным и необученным наемникам, и не имеет эффекта на стоимость услуги или выполняемой работы.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-hireling-manager",
+            "archetype": ""
+        },
+        {
+            "fullName": "Импровизированный ремонт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2132\">Improvised Repair</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 3",
+            "name": "Импровизированный ремонт",
+            "originalName": "Improvised Repair",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы умеете быстро чинить поврежденное снаряжение, но ваши исправления не должны длиться вечно.\nВы быстро чините <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломанный</span> немагический предмет в своем распоряжении.\nПока предмет снова не получит урон, вы все еще можете использовать его как <span class=\"card-link \">низкокачественный предмет</span> своего вида.\nЭтот ремонт не восстанавливает ОЗ, так что предмет легко уничтожить.\nКак только предмет <span class=\"card-link std std-ref\" data-id=\"skill-crafting-repair\">Отремонтирован (Repaired)</span> по нормальному, так что он больше не имеет состояния <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломан</span>, он перестает быть низкокачественным.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "активность из 3-х действий",
+            "id": "feat-improvised-repair",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проницательный ученик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2136\">Keen Follower</a>) / 3",
+            "name": "Проницательный ученик",
+            "originalName": "Keen Follower",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 207</p><hr class=\"docutils\"><p>Ваше пристальное наблюдение за союзниками помогло вам лучше следовать их примеру.\nИспользуя активность <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span> в режиме исследования, вы получаете бонус обстоятельства +3 если союзник, за которым вы повторяете - эксперт и бонус обстоятельства +4 если он мастер.</p>",
+            "src": "Advanced Player's Guide pg. 207",
+            "action": "",
+            "id": "feat-keen-follower",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подхватывать ритм (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2140\">Pick up the Pace</a>) / 3",
+            "name": "Подхватывать ритм",
+            "originalName": "Pick up the Pace",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Телосложение 14</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы подаете пример и можете помочь другим выйти за пределы своих обычных возможностей.\nКогда вы <span class=\"card-link \">Спешите (Hustling)</span> в группе во время режима исследования, ваша группа может Спешить вплоть до 20 минут дольше, до максимального значения времени, в течение которого в одиночку может Спешить персонаж с наибольшим модификатором Телосложения.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-pick-up-the-pace",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дальновидный планировщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2143\">Prescient Planner</a>) / 3",
+            "name": "Дальновидный планировщик",
+            "originalName": "Prescient Planner",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы не использовали это умение с последнего раза, когда могли купить вещи</p><p><strong>Стоимость</strong>: Цена выбранного предмета</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы регулярно создаете замысловатые планы на непредвиденные обстоятельства, используя свои ресурсы для их осуществления.\nУ вас занимает 1 минуту снять рюкзак и отыскать в нем предмет, который вы не говорили что покупали ранее, вы интуитивно предположили, что он вам понадобится и купили его в последний момент.\nПредмет должен быть частью снаряжения авантюриста (см. <span class=\"card-link std std-ref\" data-id=\"table-6-9\">Таблица 6-9: Снаряжение для приключений (Adventuring Gear)</span>), и не может быть оружием, доспехом, алхимическим предметом, магическим предметом или иным сокровищем.\nЭто должен быть обычный предмет уровня не более половины вашего уровня и достаточно малой Массы, чтобы не вызвать у вас состояние <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегружен</span>.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-prescient-planner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро ползать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2151\">Skitter</a>) / 3",
+            "name": "Быстро ползать",
+            "originalName": "Skitter",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Ловкость 16, <span class=\"card-link std std-ref\" data-id=\"feat-fleet\">Быстроногий (Fleet) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы можете быстро перемещаться по земле.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-crawl\">Ползти (Crawl) </span> вплоть до половины своей Скорости.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-skitter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тщательный поиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2154\">Thorough Search</a>) / 3",
+            "name": "Тщательный поиск",
+            "originalName": "Thorough Search",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Восприятия</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы не торопитесь во время поиска, чтобы убедиться, что ничего не пропустите.\nКогда вы <span class=\"card-link \">Ищете (Searching)</span> то тратите в 2 раза больше времени.\nОбычно это значит, что вы Ищете со Скоростью вплоть до 1/4 своей Скорости, до максимальных 150 футов/минуту, чтобы проверить все, или 75 футов/минуту, чтобы проверить все до того, как наткнетесь на это.\nЕсли вы так делаете, то получаете бонус обстоятельства +2 к своим проверкам Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-thorough-search",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укрепить решимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1211\">Steel Your Resolve</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 3",
+            "name": "Укрепить решимость",
+            "originalName": "Steel Your Resolve",
+            "level": 3,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Стоимость</strong>: 1 Очко Решимости</p><p><strong>Источник</strong>: Gamemastery Guide pg. 201</p><hr class=\"docutils\"><p>Восстановите Очки Выносливости, в количестве равном половине ваших максимальных ОВ.</p><p><strong>Примечание</strong>: Эта способность относится к вариации правил <span class=\"card-link \">Выносливость (Stamina)</span>.</p>",
+            "src": "Gamemastery Guide pg. 201",
+            "action": "одиночное действие",
+            "id": "feat-steel-your-resolve",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оперативный поиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=777\">Expeditious Search</a>) / 7",
+            "name": "Оперативный поиск",
+            "originalName": "Expeditious Search",
+            "level": 7,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Восприятия</p><hr class=\"docutils\"><p>У вас есть система, позволяющая искать с большой скоростью, находя подробности и секреты в 2 раза быстрее, чем могут другие.\nКогда вы <span class=\"card-link \">Ищете (Searching)</span>, то обыск области занимает половину обычного времени.\nЭто означает, что во время исследования вы удваиваете Скорость с которой можете двигаться, гарантируя, что вы Обыскали область прежде, чем наткнетесь на что-либо (вплоть до половины вашей скорости).\nЕсли у вас легендарное Восприятие, то вы обыскиваете области в 4 раза быстрее.</p><p>(прим.пер: В предпоследнем предложении имеется в виду, то, что если бы вы обыскивали область с ловушками и в результате проверки заметили бы их, или какую-то их часть, но не попали бы в них, заметите затаившегося противника и т.п.)</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-expeditious-search",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безразличие к смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1182\">Numb to Death</a>) / 7",
+            "name": "Безразличие к смерти",
+            "originalName": "Numb to Death",
+            "level": 7,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-diehard\">Несгибаемый (Diehard) / 1</span>, вы умирали хотя бы 1 раз</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Ваше прошлое сделало вас чуть более безразличным к зову смерти.\nКаждый день, первый раз когда вы восстанавливаете ОЗ имея состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, то восстанавливаете дополнительные ОЗ равные вашему уровню, и ни получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>, ни увеличиваете значение уже имеющегося состояния <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.</p>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "",
+            "id": "feat-numb-to-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Предусмотрительный расходник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2142\">Prescient Consumable</a>) / 7",
+            "name": "Предусмотрительный расходник",
+            "originalName": "Prescient Consumable",
+            "level": 7,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-prescient-planner\">Дальновидный планировщик (Prescient Planner) / 3</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы можете заранее предугадать, какой расходуемый предмет вам понадобится.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"feat-prescient-planner\">Дальновидный планировщик (Prescient Planner) / 3</span>, то можете вместо снаряжения авантюриста достать из своего рюкзака расходуемый предмет.\nРасходуемый предмет должен все еще быть обычной редкости, уровня не более половины вашего уровня, и достаточно малой Массы, чтобы не вызвать у вас состояние <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегружен</span>.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-prescient-consumable",
+            "archetype": ""
+        },
+        {
+            "fullName": "Супердегустатор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2152\">Supertaster</a>) / 7",
+            "name": "Супердегустатор",
+            "originalName": "Supertaster",
+            "level": 7,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Восприятия</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы усовершенствовали свой вкус и обладаете тонким чувством вкуса, которое позволяет обнаружить отклонения во вкусе и текстуре пищи и напитков.\nКогда едите пищу или пьете напитки, вы автоматически пытаетесь определить ингредиенты, которые могут предупредить вас о присутствии добавок, таких как яды.\nМастер делает бросок тайной проверки Восприятия используя уровень яда для определения КС; при успехе вы узнаете, что пища или напиток были отравлены, но не конкретный яд.</p><p>Если вы лижите или пробуете что-то, когда <span class=\"card-link \">Исследуете (Investigate)</span> или пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, чтобы идентифицировать что-либо, и если вкус предоставит дополнительную информацию (на усмотрение Мастера), то вы получаете бонус обстоятельства +2 к своей проверке.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-supertaster",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятное облачение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=795\">Incredible Investiture</a>) / 11",
+            "name": "Невероятное облачение",
+            "originalName": "Incredible Investiture",
+            "level": 11,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 16</p><hr class=\"docutils\"><p>У вас есть невероятное умение инвестировать больше магических предметов.\nУвеличьте ваше ограничение инвестируемых магических предметов с 10 до 12.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-incredible-investiture",
+            "archetype": ""
+        },
+        {
+            "fullName": "Везде как дома (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2105\">A Home in Every Port</a>) / 11",
+            "name": "Везде как дома",
+            "originalName": "A Home in Every Port",
+            "level": 11,
+            "traits": [
+                "отдых",
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 16</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 202</p><hr class=\"docutils\"><p>У вас есть репутация в городах и деревнях которые вы посетили, и жители всегда готовы открыть вам свои двери.\nКогда вы в городе или деревне во время режима отдыха, то можете потратить 8 часов, чтобы найти жителя желающего предоставить бесплатное жилье вам и вплоть до 6 союзникам на 24 часа.\nУровень предоставляемого жилья комфортный, а полноценная пища без дополнительной платы (см. <span class=\"card-link \">Услуги (Services)</span>).\nЧерез 24 часа вы должны оплатить стандартные цену за дальнейшее проживание и пищу, или снова использовать эту способность, чтобы найти нового жителя готового вас приютить.</p>",
+            "src": "Advanced Player's Guide pg. 202",
+            "action": "",
+            "id": "feat-a-home-in-every-port",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лидер каравана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2115\">Caravan Leader</a>) / 11",
+            "name": "Лидер каравана",
+            "originalName": "Caravan Leader",
+            "level": 11,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Телосложение 18, <span class=\"card-link std std-ref\" data-id=\"feat-pick-up-the-pace\">Подхватывать ритм (Pick up the Pace) / 3</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Вы знаете, как выжать из союзников максимум усилий во время путешествия.\nКогда вы <span class=\"card-link \">Спешите (Hustling)</span> в группе во время режима исследования, ваша группа может Спешить так долго, как и участник способный Спешить дольше всех + дополнительные 20 минут сверх этого.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-caravan-leader",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятный разведчик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2133\">Incredible Scout</a>) / 11",
+            "name": "Невероятный разведчик",
+            "originalName": "Incredible Scout",
+            "level": 11,
+            "traits": [
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Восприятия</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Когда вы занимаетесь разведкой, то особенно внимательны к опасности, давая своим союзникам драгоценное время на подготовку к бою.\nКогда вы используете активность исследования <span class=\"card-link \">Разведывать (Scout)</span>, то даете своим союзникам бонус обстоятельства +2 к их броскам инициативы вместо обычного бонуса обстоятельства +1.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-incredible-scout",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истинное восприятие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2155\">True Perception</a>) / 19",
+            "name": "Истинное восприятие",
+            "originalName": "True Perception",
+            "level": 19,
+            "traits": [
+                "откровение",
+                "общая"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Восприятия</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Ваши способности восприятия и обработки сенсорной информацию настолько выходят за рамки обыденного, что вы замечаете мельчайшие несоответствия во всевозможных иллюзиях и превращениях.\nВы постоянно находитесь под эффектами заклинания <span class=\"card-link std std-ref\" data-id=\"spell-t-true-seeing\">Истинное зрение (True Seeing) / Закл. 6</span> 6-го уровня, используя свой модификатор Восприятия для проверки противодействия.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-true-perception",
+            "archetype": ""
+        },
+        {
+            "fullName": "Уверенность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=756\">Assurance</a>) / 1",
+            "name": "Уверенность",
+            "originalName": "Assurance",
+            "level": 1,
+            "traits": [
+                "удача",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен хотя бы одному навыку</p><hr class=\"docutils\"><p>Вы можете выполнять основные задачи даже в худших обстоятельствах.\nВыберите навык которому вы обучены.\nВы можете отказаться от броска проверки навыка и вместо этого просто использовать результат 10 + ваш бонус мастерства (не применяйте другие бонусы, штрафы или модификаторы).</p><p><strong>Особенность</strong>: Вы можете выбирать эту способность несколько раз.\nКаждый раз выбирайте другой навык и получайте преимущества для него.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-assurance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сомнительные знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=776\">Dubious Knowledge</a>) / 1",
+            "name": "Сомнительные знания",
+            "originalName": "Dubious Knowledge",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен навыку с действием <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span></p><hr class=\"docutils\"><p>Вы - кладезь информации, но она не вся заслуживает доверия.\nКогда вы проваливаете проверку (но не критически проваливаете) при использовании <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> с любым навыком, то узнаете часть правдивой информации и часть ложной, но у вас нет способа отличить что есть что.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>Стало явно указано, что этот эффект не касается критического провала проверки.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-dubious-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрая идентификация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=824\">Quick Identification</a>) / 1",
+            "name": "Быстрая идентификация",
+            "originalName": "Quick Identification",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане, Природе, Оккультизму или Религии</p><hr class=\"docutils\"><p>Вы можете быстро <span class=\"card-link \">Идентификация магии (Identify Magic)</span>.\nВам требуется только 1 минута, вместо 10, на \"Идентификацию магии\" для выяснения свойств предмета, действующего эффекта или локации.\nЕсли вы мастер, для этого требуется активность в 3 действия (<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\">), а если вы легенда, то только 1 действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">).</p>",
+            "src": "",
+            "action": "активность из 3-х действий",
+            "id": "feat-quick-identification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Распознание заклинания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=834\">Recognize Spell</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Распознание заклинания",
+            "originalName": "Recognize Spell",
+            "level": 1,
+            "traits": [
+                "тайна",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане, Природе, Оккультизму или Религии</p><p><strong>Триггер</strong>: Существо в пределах линии обзора сотворяет заклинание, которое вы не подготовили или его нет в вашем репертуаре, или ловушка, или похожий объект сотворяет такое заклинание.\nВы должны быть осведомлены о сотворении заклинания.</p><hr class=\"docutils\"><p>Если вы обучены навыку соответствующему колдовскому обычаю заклинания, и это <span class=\"r-common\">обычное</span> заклинание 2-го уровня или ниже, то вы автоматически идентифицируете его (вы все еще можете совершить бросок в попытке получить критический успех, но не можете получить результат хуже простого успеха).\nНаивысшие уровни заклинания, которые вы можете автоматически идентифицировать увеличиваются до 4-го, если вы эксперт, 6-го если мастер, и 10-го если легенда навыка.\nМастер совершает тайный бросок Арканы, Природы, Оккультизма или Религии, в зависимости от соответствующего обычая сотворенного заклинания.\nЕсли вы нетренированы навыку, то не можете получить результат лучше провала.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы правильно распознаете заклинание и получаете против него бонус обстоятельства +1 к своему спасброску или КБ</div>\n<div class=\"line\"><strong>Успех</strong>: Вы правильно распознаете заклинание</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается распознать заклинание</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы ошибочно идентифицируете заклинание как другое, на усмотрение Мастера</div>\n</div>",
+            "src": "",
+            "action": "реакция",
+            "id": "feat-recognize-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обучение навыку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=841\">Skill Training</a>) / 1",
+            "name": "Обучение навыку",
+            "originalName": "Skill Training",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 12</p><hr class=\"docutils\"><p>Вы обучаетесь навыку по своему выбору.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз, каждый раз выбирая новый навык которому вы обучитесь.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-skill-training",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обмануть магический предмет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=857\">Trick Magic Item</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Обмануть магический предмет",
+            "originalName": "Trick Magic Item",
+            "level": 1,
+            "traits": [
+                "воздействие",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане, Природе, Оккультизму или Религии</p><hr class=\"docutils\"><p>Вы изучаете магический предмет, который обычно не можете использовать, чтобы обмануть его и временно активировать.\nНапример, это может позволять воину сотворять заклинание из волшебной палочки, или позволять волшебнику со свитка колдовать заклинание не находящееся в списке арканных.\nВы должны знать, что делает активация предмета, иначе вы не сможете обмануть его.</p><p>Совершите проверку, используя навык соответствующий магическому обычаю предмета или, если вы пытаетесь сотворять заклинание с помощью предмета, то проверку навыка соответствующую магическому обычаю, который имеет это заклинание в своем списке.\nСоответствующие навыки это Аркана для <span class=\"t-arcana\">арканного</span>, Природа для <span class=\"t-primal\">природного</span>, Оккультизм для <span class=\"t-occult\">оккультного</span>, Религия для <span class=\"t-divine\">сакрального</span>, или любой из четырех для предмета, который имеет признак <span class=\"t-magical\">магический</span> и не имеет признака магического обычая.\nМастер определяет КС на основе уровня предмета (возможно корректируя в зависимости от предмета или ситуации).</p><p>Если вы активируете магический предмет, для которого требуется атака заклинанием или КС заклинания, а у вас нет умения сотворять заклинания соответствующего обычая, то в качестве бонуса мастерства используйте свой уровень и наибольший из модификаторов Интеллекта, Мудрости или Харизмы.\nЕсли вы мастер навыка соответствующего обычаю предмета, то вместо этого вы используете бонус мастерства обученного (2 + уровень), а если вы легенда, то используете бонус мастерства эксперта (4 + уровень).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: До конца текущего хода, вы можете потратить действия, чтобы активировать предмет, как если бы вы могли это сделать по нормальному</div>\n<div class=\"line\"><strong>Провал</strong>: Вы не можете использовать предмет или снова попытаться обмануть его на этом ходу, но вы можете попытаться снова в последующих ходах</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы не можете использовать предмет, и вы не можете пытаться обмануть его снова до своих следующих ежедневных приготовлений</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "feat-trick-magic-item",
+            "archetype": ""
+        },
+        {
+            "fullName": "Помощь с доспехом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2109\">Armor Assist</a>) / 1",
+            "name": "Помощь с доспехом",
+            "originalName": "Armor Assist",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике или Знаниям Военного дела</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>После службы, помогая бойцам в доспехах, вы научились помогать себе и другим надевать тяжелое снаряжение.\nВы можете выполнить проверку Атлетики или Знаний Военного дела, со следующими Классами Сложности: КС 15 для обычных доспехов, КС 20 для необычных и КС 25 для редких доспехов, чтобы вдвое снизить время необходимое для надевания доспеха.\nВы можете снизить вдвое время для союзника, помогая ему надеть доспех, и совершив успешную проверку Атлетики или Знаний Военного дела с тем же КС.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Мастер не выносит решение об установлении КС для помощи с доспехом.\nОни такие как указаны по умолчанию в способности.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "",
+            "id": "feat-armor-assist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опытный повар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2149\">Seasoned</a>) / 1",
+            "name": "Опытный повар",
+            "originalName": "Seasoned",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Знанию Алкоголя (Alcohol), Знанию Кулинарии (Cooking) или Ремеслу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы освоили приготовление многих видов еды и напитков.\nВы получаете бонус обстоятельства +1 к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> еду и напитки, включая зелья.\nЕсли вы мастер в одном из навыком предварительного условия, то этот бонус увеличивается до +2.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-seasoned",
+            "archetype": ""
+        },
+        {
+            "fullName": "Автоматическое знание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=757\">Automatic Knowledge</a>) / 2",
+            "name": "Автоматическое знание",
+            "originalName": "Automatic Knowledge",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт в навыке с действием <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>; <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span> в этом навыке</p><hr class=\"docutils\"><p>Вы знаете основные факты, не задумываясь.\nВыберите навык, который имеет действие <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, в котором вы эксперт, и для которого у вас есть способность <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span>.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> с этим навыком, как свободное действие, раз в раунд.\nЕсли вы так делаете, то должны использовать <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span> для проверки навыка.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз, каждый раз выбирая другой навык.\nВы можете использовать \"Автоматическое знание\" с любыми выбранными вами навыками, но все еще только 1 раз в раунд.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-automatic-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магическая скоропись (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=813\">Magical Shorthand</a>) / 2",
+            "name": "Магическая скоропись",
+            "originalName": "Magical Shorthand",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Арканы, Природы, Оккультизма или Религии</p><hr class=\"docutils\"><p>Вам легко дается изучение заклинаний.\nЕсли вы эксперт навыка, связанного с колдовским обычаем, то тратите на изучение 10 минут за уровень заклинания, вместо 1 часа за уровень.\nЕсли вы проваливаете изучение заклинания, то можете попытаться снова через 1 неделю или после получения уровня, в зависимости от того, что произойдет раньше.\nЕсли вы мастер навыка, связанного с колдовским обычаем, то изучение занимает 5 минут за уровень заклинания, а если легенда, то это занимает 1 минуту за уровень заклинания.\nВы можете использовать время режима отдыха, чтобы выучить и записать новые заклинания.\nЭто работает так, как если бы вы выполняли <span class=\"card-link \">Заработок денег (Earn Income)</span> используя навык относящийся к колдовскому обычаю, но вместо получения денег, вы выбираете заклинание доступное вам для изучения и получаете скидку на изучение, или изучаете бесплатно, если ваш доход больше или равен стоимости заклинания.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-magical-shorthand",
+            "archetype": ""
+        },
+        {
+            "fullName": "Уверенная идентификация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2111\">Assured Identification</a>) / 2",
+            "name": "Уверенная идентификация",
+            "originalName": "Assured Identification",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Арканы, Природы, Оккультизма или Религии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>Вы редко ошибаетесь в идентификации предмета.\nКогда используете проверки Арканы, Природы, Оккультизма или Религии для <span class=\"card-link \">Идентификация магии (Identify Magic)</span>, если при броске получаете крит.провал, то он становится просто провалом.\nЕсли вы неверно идентифицируете проклятый предмет, потому что бросок был успешным но не крит.успешным (<a class=\"reference external\" href=\"https://2e.aonprd.com/Rules.aspx?ID=1094\">GMG pg. 90</a>), то вместо этого вы просто не можете его идентифицировать.</p>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "",
+            "id": "feat-assured-identification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осторожно расспрашивать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2121\">Discreet Inquiry</a>) / 2",
+            "name": "Осторожно расспрашивать",
+            "originalName": "Discreet Inquiry",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана или Дипломатии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Вы хитры в своих попытках узнать то, что вам нужно знать.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>, то можете скрыть истинную цель вашего интереса среди других тем, которые вас мало интересуют, не увеличивая сложность проверки или тратя больше времени на <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.\nЛюбой, кто пытается <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>, чтобы определить, спрашивал ли кто-то еще о рассматриваемой вами теме, должен превысить ваш КС Обмана или обычный КС для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> о ваших запросах (в зависимости от того что больше), иначе они не узнают о ваших попытках узнать информацию.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-discreet-inquiry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое распознавание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=826\">Quick Recognition</a>) / 7",
+            "name": "Быстрое распознавание",
+            "originalName": "Quick Recognition",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Арканы, Природы, Оккультизма или Религии; <span class=\"card-link std std-ref\" data-id=\"feat-recognize-spell\">Распознание заклинания (Recognize Spell)  / 1</span></p><hr class=\"docutils\"><p>Вы быстро используете <span class=\"card-link std std-ref\" data-id=\"feat-recognize-spell\">Распознание заклинания (Recognize Spell)  / 1</span>.\nВы можете раз в раунд применить <span class=\"card-link std std-ref\" data-id=\"feat-recognize-spell\">Распознание заклинания (Recognize Spell)  / 1</span> свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">), используя навык мастером которого являетесь.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "feat-quick-recognition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посоветоваться с духами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2117\">Consult the Spirits</a>) / 7",
+            "name": "Посоветоваться с духами",
+            "originalName": "Consult the Spirits",
+            "level": 7,
+            "traits": [
+                "тайна",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Природы, Оккультизма или Религии</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Вы изучили обряды или медитации, которые позволяют вам воспринимать небольших, невидимых духов в пределах места.\nПри выборе этой способности выберите Природу, Оккультизм или Религию.\n<strong>Природа</strong> позволяет вам вступать в контакт с духами природы, которые образуют леших, которые рождаются из чистой жизненной сущности а не духовной энергии и могут отвечать на вопросы о природных особенностях, таких как места с водой неподалеку или с растительностью.\n<strong>Религия</strong> раскрывает присутствие ангельских, демонических или других духов на службе у божественных сущностей, которые дают информацию о источниках мощной позитивной или негативной энергии, священном или нечестивом влиянии или присутствии нежити.\n<strong>Оккультизм</strong> позволяет вам общаться с задержавшимися здесь духами, психическими отголосками ушедших мертвых и духами за гранью реальности, которые говорят вам о таких вещах, как странные ауры, эффекты или присутствие неестественных оккультных существ.</p><p>Потратьте 10 минут и совершите проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> с выбранным навыком; КС определяется Мастером (обычно очень высокий КС для существа наивысшего уровня, которое вы можете встретить в этой области).\nЕсли вы легенда выбранного навыке, то можете использовать эту способность раз в час, а не раз в день, но вы не можете использовать ее снова любой области, которая пересекает предыдущую область.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Духи появляются перед вами и относятся к вам любезно. Они отвечают на 3 простых вопроса об окружении в пределах 100 футов от вас, в зависимости от выбранного навыка и вида духов с которыми вы вступили в контакт. Они почти всегда отвечают односложно, и их знания ограничены своей областью интересов.</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но духи безразличны к вам и отвечают только на 1 вопрос</div>\n<div class=\"line\"><strong>Провал</strong>: Вы не можете связаться с духами этого места</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы вступаете в контакт с одним или несколькими злыми духами. Они враждебны к вам, однако могут не сразу показать это. Они отвечают на вплоть до 3 простых вопроса, но на усмотрение Мастера дают вам информацию которая каким-либо образом навредит вам.</div>\n</div><p><strong>Особенность</strong>: Вы можете выбирать эту способность несколько раз, каждый раз выбирая другой навык, в котором вы мастер.\nВы можете использовать эту способность с каждым навыком раз в день (или раз в час, если вы имеете легенда навыка).</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-consult-the-spirits",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кошачье падение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=765\">Cat Fall</a>) / 1",
+            "name": "Кошачье падение",
+            "originalName": "Cat Fall",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Акробатике</p><hr class=\"docutils\"><p>Ваша кошачья воздушная акробатика позволяет смягчать падения.\nСчитайте падения на 10 футов короче.\nЕсли вы эксперт Акробатики - на 25 футов короче; мастер - 50 футов короче.\nЕсли вы легенда Акробатики, то всегда приземляетесь на ноги и не получаете урон, независимо от расстояния падения.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-cat-fall",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро протиснуться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=828\">Quick Squeeze</a>) / 1",
+            "name": "Быстро протиснуться",
+            "originalName": "Quick Squeeze",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Акробатике</p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span> на 5 футов за раунд (10 футов при критическом успехе).\nЕсли вы легенда Акробатики, то Протискиваетесь используя свою полную Скорость.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-squeeze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Твердое равновесие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=845\">Steady Balance</a>) / 1",
+            "name": "Твердое равновесие",
+            "originalName": "Steady Balance",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Акробатике</p><hr class=\"docutils\"><p>Вы можете легко сохранять равновесие, даже в неблагоприятных условиях.\nВсякий раз, когда вы при броске получаете успех проверки действия <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span>, то вместо этого получаете критический успех.\nВы не считаетесь <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, когда пытаетесь Балансировать на узкой и неровной земле.\nБлагодаря вашему невероятному чувству равновесия, вы можете совершать проверку Акробатики вместо спасброска Рефлекса, чтобы <span class=\"card-link std std-ref\" data-id=\"action-grab-an-edge\">Схватиться за уступ (Grab an Edge) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-steady-balance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Акробатическое выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2106\">Acrobatic Performer</a>) / 1",
+            "name": "Акробатическое выступление",
+            "originalName": "Acrobatic Performer",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Акробатике</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 202</p><hr class=\"docutils\"><p>Вы невероятный акробат, вызывающий удивление и восхищающий публику своим мастерством.\nЭто почти выступление!\nВы можете кидать проверку Акробатики вместо проверки Выступления, когда используете действие <span class=\"card-link std std-ref\" data-id=\"skill-performance-perform\">Выступить (Perform) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 202",
+            "action": "",
+            "id": "feat-acrobatic-performer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шустро ползать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=816\">Nimble Crawl</a>) / 2",
+            "name": "Шустро ползать",
+            "originalName": "Nimble Crawl",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Акробатики</p><hr class=\"docutils\"><p>Вы можете необычайно быстро <span class=\"card-link std std-ref\" data-id=\"action-crawl\">Ползти (Crawl) </span>, вплоть до половины вашей Скорости, а не на 5 футов.\nЕсли вы мастер Акробатики, то можете <span class=\"card-link std std-ref\" data-id=\"action-crawl\">Ползти (Crawl) </span> с полной Скоростью, а если вы легенда Акробатики, то не считаетесь застигнутым врасплох когда лежите ничком.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-nimble-crawl",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подъем разгибом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=799\">Kip Up</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Подъем разгибом",
+            "originalName": "Kip Up",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Акробатики</p><hr class=\"docutils\"><p>Вы встаете.\nЭто действие не провоцирует реакции.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "feat-kip-up",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мастерство воздушной акробатики (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2108\">Aerobatics Mastery</a>) / 7",
+            "name": "Мастерство воздушной акробатики",
+            "originalName": "Aerobatics Mastery",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Акробатики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 202</p><hr class=\"docutils\"><p>Вы грациозно двигаетесь в полете и можете выполнять удивительные воздушные трюки.\nВы получаете бонус обстоятельства +2 к проверкам Акробатики на <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-maneuver-in-flight\">Маневрирование в полете (Maneuver in Flight) </span> и можете объединять 2 маневра в одиночное действие, как например изменять направление на противоположное при крутом подъеме или спуске, или зависать при штормовом ветре.\nКС проверки Акробатики равен КС наиболее сложного маневра +5.\nЕсли вы легенда Акробатики, то можете объединить 3 таких маневра в одиночное действие; КС проверки Акробатики равен КС наиболее сложного маневра +10.\nНезависимо от сочетания, эти маневры редко позволяют вам двигаться быстрее вашей Скорости полета.</p>",
+            "src": "Advanced Player's Guide pg. 202",
+            "action": "",
+            "id": "feat-aerobatics-mastery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканное чутье (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=754\">Arcane Sense</a>) / 1",
+            "name": "Арканное чутье",
+            "originalName": "Arcane Sense",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане</p><hr class=\"docutils\"><p>Ваше изучение магии позволяет вам инстинктивно ощущать ее присутствие.\nВы можете по желанию колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> 1-го уровня, как врожденное арканное заклинание.\nЕсли вы мастер Арканы, то заклинание усиливается до 3-го уровня; если легенда - до 4-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-arcane-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Око Верховных Лордов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=870\">Eye of the Arclords</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Око Верховных Лордов",
+            "originalName": "Eye of the Arclords",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Арканы, <span class=\"card-link std std-ref\" data-id=\"feat-arcane-sense\">Арканное чутье (Arcane Sense) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Доступ</strong>: Вы член \"Верховных Лордов Некса (Arclords of Nex)\"</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 81</p><hr class=\"docutils\"><p>Вы открываете на своем лбу светящийся третий глаз.\nГлаз может оставаться открытым вплоть до 1 минуты, и вы можете закрыть его преждевременно использовав одиночное действие с признаком <span class=\"t-concentrate\">концентрация</span>.\nОн может оставаться открытым 2 минуты, если вы мастер Арканы или 5 минут, если вы легенда.\nПока этот глаз открыт, вы получаете следующие преимущества:</p><ul class=\"simple\">\n<li><p>в начале каждого своего хода вы получаете эффекты врожденного арканного <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> от вашей способности <span class=\"card-link std std-ref\" data-id=\"feat-arcane-sense\">Арканное чутье (Arcane Sense) / 1</span>, без необходимости сотворять это заклинание</p></li>\n<li><p>вы получаете ночное зрение</p></li>\n<li><p>вы получаете бонус состояния +2 к проверкам Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиска (Seek)</span> <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженных</span> и <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанных</span> существ, и к вашему КС Восприятия против <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span></p></li>\n</ul><p>После того, как ваш третий глаз закрывается, вы <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплены</span> на такой же период времени, сколько был открыт глаз.</p>",
+            "src": "Lost Omens: World Guide pg. 81",
+            "action": "одиночное действие",
+            "id": "feat-eye-of-the-arclords",
+            "archetype": ""
+        },
+        {
+            "fullName": "Единая теория (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=859\">Unified Theory</a>) / 15",
+            "name": "Единая теория",
+            "originalName": "Unified Theory",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Арканы</p><hr class=\"docutils\"><p>Вы начали создавать осмысленную связь между общими основами четырех магических обычаев и магических сущностей, что позволяет вам понять их все сквозь призму арканы.\nВсякий раз, когда вы используете действие навыка или способность навыка, требующую в зависимости от магического обычая совершить проверку Природы, Оккультизма или Религии, то вы вместо этого можете использовать Аркану.\nЕсли бы вы обычно получали штраф или имели более высокий КС при использовании Арканы для другой магии (как когда используете <span class=\"card-link \">Идентификация магии (Identify Magic)</span>), то вы больше не получаете его.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>Во 2-м предложении добавлено слово \"используете <strong>действие</strong> навыка\", чтобы уточнить для каких именно \"действий\" применяется эффект.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-unified-theory",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой альпинист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=768\">Combat Climber</a>) / 1",
+            "name": "Боевой альпинист",
+            "originalName": "Combat Climber",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Ваши приемы позволяют вам сражаться, когда вы карабкаетесь.\nВы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> когда карабкаетесь и можете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> с занятой рукой.\nВы все еще должны использовать другую руку и обе ноги, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-combat-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сильный носильщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=790\">Hefty Hauler</a>) / 1",
+            "name": "Сильный носильщик",
+            "originalName": "Hefty Hauler",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Вы можете нести больше, чем предполагает ваше телосложение.\nУвеличьте свои ограничения максимальной Массы и перегрузки на 2.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-hefty-hauler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=825\">Quick Jump</a>) / 1",
+            "name": "Быстрый прыжок",
+            "originalName": "Quick Jump",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Вы можете использовать <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> как одиночное действие, вместо 2 действий.\nЕсли вы так делаете, то не выполняете начальное <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> (и вы не получите провал, если не Переместитесь на 10 футов).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-jump",
+            "archetype": ""
+        },
+        {
+            "fullName": "Борец с титанами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=854\">Titan Wrestler</a>) / 1",
+            "name": "Борец с титанами",
+            "originalName": "Titan Wrestler",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Вы можете попытаться <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> существо вплоть до 2-х размеров больше вас или, если вы легенда Атлетики, то вплоть до 3-х размеров больше.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-titan-wrestler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подводный мародер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=858\">Underwater Marauder</a>) / 1",
+            "name": "Подводный мародер",
+            "originalName": "Underwater Marauder",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике</p><hr class=\"docutils\"><p>Вы научились сражаться под водой.\nВы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> когда в воде, и вы не получаете обычные штрафы используя в воде дробящее или рубящее оружие ближнего боя (см. подробности в разделе <span class=\"card-link \">Водный бой (Aquatic Combat)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-underwater-marauder",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мощный прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=820\">Powerful Leap</a>) / 2",
+            "name": "Мощный прыжок",
+            "originalName": "Powerful Leap",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><hr class=\"docutils\"><p>Когда вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, то можете прыгать на 5 футов вертикальным Прыжком, и на 5 футов увеличиваете расстояние на которое можете прыгать горизонтально.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-powerful-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро подтянуться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=832\">Rapid Mantel</a>) / 2",
+            "name": "Быстро подтянуться",
+            "originalName": "Rapid Mantel",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><hr class=\"docutils\"><p>Вы легко подтягиваетесь на выступах.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"action-grab-an-edge\">Схватиться за уступ (Grab an Edge) </span>, то можете подтянуться на эту поверхность и встать.\nВы можете использовать Атлетику вместо спасброска Рефлекса для <span class=\"card-link std std-ref\" data-id=\"action-grab-an-edge\">Схватиться за уступ (Grab an Edge) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-rapid-mantel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ведущий альпинист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2137\">Lead Climber</a>) / 2",
+            "name": "Ведущий альпинист",
+            "originalName": "Lead Climber",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 207</p><hr class=\"docutils\"><p>Во время восхождения вы можете подготовить маршруты для других, и можете подтянуть своих союзников, чтобы избежать катастрофы.\nКогда ваши союзники пытаются <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> по маршруту, установленному вами с помощью активности исследования <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span>, то если кто-то из них критически проваливает свои проверки, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, вы можете сделать проверку Атлетики с тем же КС.\nЕсли ваша проверка успешная, то ваш союзник просто проваливает вместо крит.провала.\nЕсли вы тоже крит.проваливаете, то оба терпите последствия крит.провала.</p>",
+            "src": "Advanced Player's Guide pg. 207",
+            "action": "",
+            "id": "feat-lead-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро карабкаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=821\">Quick Climb</a>) / 7",
+            "name": "Быстро карабкаться",
+            "originalName": "Quick Climb",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики</p><hr class=\"docutils\"><p>Во время <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабканья (Climbing)</span> вы двигаетесь на 5 футов дальше при успехе, и на 10 футов дальше при крит.успехе, вплоть до максимума равного вашей Скорости.</p><p>Если вы легенда Атлетики, то получаете Скорость карабканья, равную вашей Скорости.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-climb",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро плавать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=829\">Quick Swim</a>) / 7",
+            "name": "Быстро плавать",
+            "originalName": "Quick Swim",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики</p><hr class=\"docutils\"><p>Вы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swim)</span> на 5 футов дальше при успехе, и на 10 футов дальше при крит.успехе, вплоть до максимума равного вашей Скорости.\nЕсли вы легенда Атлетики, то получаете Скорость плавания, равную вашей Скорости.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-swim",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прыжок от стены (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=863\">Wall Jump</a>) / 7",
+            "name": "Прыжок от стены",
+            "originalName": "Wall Jump",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики</p><hr class=\"docutils\"><p>Вы можете использовать импульс своего прыжка, чтобы оттолкнуться от стены.\nЕсли вы рядом со стеной в конце прыжка (неважно, делая <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> или простой <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>), то вы не падаете, если ваше следующее действие является еще одним прыжком.\nКроме того, поскольку ваш предыдущий прыжок дает вам импульс, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> как одиночное действие, но вам не надо выполнять <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> как часть активности.</p><p>Вы можете использовать <span class=\"card-link std std-ref\" data-id=\"feat-wall-jump\">Прыжок от стены (Wall Jump) / 7</span> только раз в ход, если только вы не легенда Атлетики, в этом случае, вы можете использовать \"Прыжок от стены\" столько раз, сколько сможете сделать последовательных прыжков в этот ход.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-wall-jump",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бег по воде (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2157\">Water Sprint</a>) / 7",
+            "name": "Бег по воде",
+            "originalName": "Water Sprint",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Опыт и тренировки научили вас, что вода имеет достаточное поверхностное натяжение, чтобы мастер-спринтер мог пересечь водную поверхность.\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> по прямой линии, если прошли хотя бы половину Скорости по земле, то можете пройти любое оставшееся расстояние по ровной водной поверхности.\nЕсли вы не заканчиваете свое <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> на твердой земле, то падаете в воду.</p><p>Если вы легенда Атлетики, то пока вы начинаете движение на твердой земле, любая часть вашего <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> может пересекать водную поверхность, даже если вы не двигаетесь по прямой линии, однако вы все еще падаете в воду, если не заканчиваете свое передвижение на твердой земле.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-water-sprint",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облачный прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=767\">Cloud Jump</a>) / 15",
+            "name": "Облачный прыжок",
+            "originalName": "Cloud Jump",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Атлетики</p><hr class=\"docutils\"><p>Ваше непревзойденное мастерство атлетики позволяет вам прыгать на невозможные расстояния.\nУтройте дистанцию <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> (так что вы можете прыгать на 60 футов при успешной проверке с КС 20).\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span>, используйте расчеты как для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>, но без утроения дистанции.</p><p>Вы можете прыгать на расстояние больше своей Скорости, тратя дополнительные действия на <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span>.\nЗа каждое дополнительное потраченное действие, добавьте вашу Скорость к ограничению на то, как далеко вы можете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгать (Leap)</span>.</p><p><strong>Пример</strong>: Предположим ваша Скорость 40 футов и проверка Атлетики 25.\n\"Облачный прыжок\" утраивает 25 футов до 75 футов, но ограничение в 40 футов все еще применяется, поэтому вы прыгнете на 40 футов.\nЕсли потратите еще действие, то ограничение основанное на вашей Скорости поднимется с 40 футов до 80 футов, и вы можете прыгнуть на 75 футов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменен 2-й абзац, чтобы регламентировать как увеличивается макс.дальность при трате дополнительных действий.\nДобавлен пример.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-cloud-jump",
+            "archetype": ""
+        },
+        {
+            "fullName": "Алхимическое ремесло (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=752\">Alchemical Crafting</a>) / 1",
+            "name": "Алхимическое ремесло",
+            "originalName": "Alchemical Crafting",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><hr class=\"docutils\"><p>Вы можете использовать активность <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> для создания алхимических предметов.\nКогда вы выбираете эту способность, то мгновенно добавляете в свою книгу формул, формулы 4 <span class=\"r-common\">обычных</span> алхимических предметов 1-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-alchemical-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый ремонт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=827\">Quick Repair</a>) / 1",
+            "name": "Быстрый ремонт",
+            "originalName": "Quick Repair",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><hr class=\"docutils\"><p>Ваш <span class=\"card-link std std-ref\" data-id=\"skill-crafting-repair\">Ремонт (Repair)</span> предмета занимает 1 минуту.\nЕсли вы мастер Ремесла, это занимает 3 действия.\nЕсли легенда - 1 действие.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-repair",
+            "archetype": ""
+        },
+        {
+            "fullName": "Создание силков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=843\">Snare Crafting</a>) / 1",
+            "name": "Создание силков",
+            "originalName": "Snare Crafting",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><hr class=\"docutils\"><p>Вы можете использовать активность <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> для создания <span class=\"card-link \">силков</span>, используя общие правила создания предметов (см. описание действия <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span>).\nКогда вы выбираете эту способность, то добавляете формулы 4 <span class=\"r-common\">обычных</span> силков в свою книгу формул.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-snare-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Специализация в ремесле (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=844\">Specialty Crafting</a>) / 1",
+            "name": "Специализация в ремесле",
+            "originalName": "Specialty Crafting",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><hr class=\"docutils\"><p>Ваше обучение сосредотачивалось на создании одного конкретного вида предметов.\nВыберите одну из специализаций описанных далее; вы получаете бонус обстоятельства +1 к проверке Ремесла, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> предметы этого вида.\nЕсли вы мастер Ремесла, этот бонус увеличивается до +2.\nЕсли не ясно применима ли специализация, то решает Мастер.\nНекоторые специализации могут применяться только частично.\nНапример, если вы делали моргенштерн и имели специализацию в деревообработке, Мастер может дать вам половину бонуса, так как предмет требует и кузнечного дела и деревообработки.</p><table class=\"condensed-table docutils align-default\">\n<colgroup>\n<col style=\"width: 39%\">\n<col style=\"width: 61%\">\n</colgroup>\n<thead>\n<tr class=\"row-odd\"><th class=\"head\"><p>Специализация</p></th>\n<th class=\"head\"><p>Подходящие предметы</p></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-even\"><td><p>Алхимия *</p></td>\n<td><p>Алхимические предметы, такие как эликсиры</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Художество (Artistry)</p></td>\n<td><p>Изобразительное искусство, включая ювелирные изделия</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Кузнечное дело (Blacksmithing)</p></td>\n<td><p>Прочные металлические изделия,\nвключая металлические доспехи</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Изготовление книг (Bookmaking)</p></td>\n<td><p>Книги и бумага</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Производство стекла (Glassmaking)</p></td>\n<td><p>Стекло, включая изделия из стекла и окна</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Кожевничество (Leatherworking)</p></td>\n<td><p>Изделия из кожи, включая кожаные доспехи</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Гончарное дело (Pottery)</p></td>\n<td><p>Керамические изделия</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Кораблестроение (Shipbuilding)</p></td>\n<td><p>Корабли и лодки</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Каменная кладка (Stonemasonry)</p></td>\n<td><p>Изделия и сооружения из камня</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Портняжное дело (Tailoring)</p></td>\n<td><p>Одежда</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Ткачество (Weaving)</p></td>\n<td><p>Текстиль, корзины и ковры</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Деревообработка (Woodworking)</p></td>\n<td><p>Изделия и сооружения из дерева</p></td>\n</tr>\n</tbody>\n</table><p><strong>*</strong> - Вы должны иметь <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span> для создания алхимических предметов.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-specialty-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оценка ремесленником (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2118\">Crafter's Appraisal</a>) / 1",
+            "name": "Оценка ремесленником",
+            "originalName": "Crafter's Appraisal",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Ваше знание о устройстве предметов позволяет вам также распознавать их магические эффекты.\nВы можете использовать Ремесло для <span class=\"card-link \">Идентификация магии (Identify Magic)</span>, вместо навыка связанного с колдовским обычаем магического предмета, но не для любых других видов магии.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-crafters-appraisal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Импровизированный инструмент (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2131\">Improvise Tool</a>) / 1",
+            "name": "Импровизированный инструмент",
+            "originalName": "Improvise Tool",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы можете придумать решение из подручных средств, когда у вас под рукой нет подходящих инструментов.\nВы можете попытаться <span class=\"card-link std std-ref\" data-id=\"skill-crafting-repair\">Отремонтировать (Repair)</span> поврежденные предметы без <span class=\"card-link \">Набор для ремонта (Repair kit)</span>.</p><p>Если у вас есть доступное сырье, вы можете <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> простой набор чеснока, свечу, компас, ломик, рыболовные снасти, огниво, молоток, лестницу, альпинистский кол, веревку, 10-футовый шест, запасные отмычки вора, длинный или короткий инструмент, или факел, не сверяясь с <span class=\"card-link \">Основная книга ремесленника (Basic Crafter`s Book)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-improvise-tool",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магическое ремесло (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=812\">Magical Crafting</a>) / 2",
+            "name": "Магическое ремесло",
+            "originalName": "Magical Crafting",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла</p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> магические предметы, хотя некоторые из них имеют другие требования, как описано в Главе <span class=\"card-link \">11. Ремесла и сокровища (Crafting &amp; Treasure)</span>.\nКогда вы выбираете этот навык, то получаете формулы 4 <span class=\"r-common\">обычных</span> <span class=\"t-magical\">магических</span> предметов 2-го уровня или ниже.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-magical-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Татуировщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2962\">Tattoo Artist</a>) / 2",
+            "name": "Татуировщик",
+            "originalName": "Tattoo Artist",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Secrets of Magic pg. 164</p><hr class=\"docutils\"><p>Вы можете создавать татуировки, в том числе магические.\nКогда выбираете эту способность, вы получаете формулы 4 <span class=\"r-common\">обычных</span> <span class=\"t-magical\">магических</span> <span class=\"card-link \">татуировок</span> 2-го уровня или ниже.\nВы получаете бонус обстоятельства +1 к проверкам Ремесла, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> татуировки.\nЕсли вы мастер Ремесла, то этот бонус увеличивается до +2.</p>",
+            "src": "Secrets of Magic pg. 164",
+            "action": "",
+            "id": "feat-tattoo-artist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безукоризненное ремесло (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=792\">Impeccable Crafting</a>) / 7",
+            "name": "Безукоризненное ремесло",
+            "originalName": "Impeccable Crafting",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла, <span class=\"card-link std std-ref\" data-id=\"feat-specialty-crafting\">Специализация в ремесле (Specialty Crafting) / 1</span></p><hr class=\"docutils\"><p>Вы с большой эффективностью создаете безупречные творения.\nВсякий раз, когда вы при броске проверки Ремесла получаете успех создания предмета того вида, который вы выбрали для <span class=\"card-link std std-ref\" data-id=\"feat-specialty-crafting\">Специализация в ремесле (Specialty Crafting) / 1</span>, то вместо этого получаете критический успех.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-impeccable-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Освященный тоник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1175\">Bless Tonic</a>) / 7",
+            "name": "Освященный тоник",
+            "originalName": "Bless Tonic",
+            "level": 7,
+            "traits": [
+                "позитивный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла, божество которое предоставляет исцеляющую силу</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 104</p><hr class=\"docutils\"><p>Вы направляете позитивную энергию в восстанавливающие средства, которые защищают от вреда.\nКогда <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создаете (Craft)</span> алхимический предмет восстанавливающий Очки Здоровья (а не создаете его с помощью продвинутой алхимии, <span class=\"card-link std std-ref\" data-id=\"action-alchemist-quick-alchemy\">Быстрая алхимия (Quick Alchemy) </span> или другими способами), он становится освященным алхимическим предметом и получает признак <span class=\"t-positive\">позитивный</span>.\nНапример, <span class=\"card-link \">Эликсир жизни (Elixir of Life) / Предмет 1+</span> станет \"освященным эликсиром жизни\".\nКогда существо восстанавливает ОЗ используя освященный алхимический предмет, переполняющая энергия дает им на 1 раунд сопротивление 5 негативной энергии, или сопротивление 10 негативной энергии если вы легенда Ремесла.</p>",
+            "src": "Lost Omens: Gods & Magic pg. 104",
+            "action": "",
+            "id": "feat-bless-tonic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Освященный токсин (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1176\">Bless Toxin</a>) / 7",
+            "name": "Освященный токсин",
+            "originalName": "Bless Toxin",
+            "level": 7,
+            "traits": [
+                "негативный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла, божество которое предоставляет ранящую силу</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 104</p><hr class=\"docutils\"><p>Вы подпитываете создаваемый токсин негативной энергией, что еще сильнее ослабляет цель.\nКогда <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создаете (Craft)</span> алхимический яд (а не создаете его с помощью продвинутой алхимии, <span class=\"card-link std std-ref\" data-id=\"action-alchemist-quick-alchemy\">Быстрая алхимия (Quick Alchemy) </span> или другими способами), он становится освященным алхимическим ядом и получает признак <span class=\"t-negative\">негативный</span>.\nКогда существо поражено этим освященным алхимическим ядом, то на 1 раунд, любое восстановление ОЗ от \"позитивного\" эффекта снижается на 5, или на 10 если вы легенда Ремесла.</p>",
+            "src": "Lost Omens: Gods & Magic pg. 104",
+            "action": "",
+            "id": "feat-bless-toxin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изобретатель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=798\">Inventor</a>) / 7",
+            "name": "Изобретатель",
+            "originalName": "Inventor",
+            "level": 7,
+            "traits": [
+                "отдых",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла</p><hr class=\"docutils\"><p>Вы гений Ремесла, способный легко определить, как сделаны вещи и создавать новые изобретения.\nВы можете потратить время режима отдыха, чтобы изобрести обычную формулу которую не знаете.\nЭто работает точно так же как и активность <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span>: вы тратите половину цены формулы наперед, совершаете проверку Ремесла, и при успехе либо завершаете формулу платя разницу, либо работаете дольше для снижения Цены.\nРазница в том, что вы тратите дополнительное время на исследование, проектирование и разработку, а не на создание предмета.\nПо завершении вы добавляете изобретенную формулу в свою книгу формул.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-inventor",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое прикрепление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2145\">Rapid Affixture</a>) / 7",
+            "name": "Быстрое прикрепление",
+            "originalName": "Rapid Affixture",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вам нужна только 1 минута, чтобы <span class=\"card-link \">Прикрепить талисман (Affix a Talisman)</span>.\nЕсли вы легенда Ремесла, то можете \"Прикрепить талисман\" за активность в 3 действия (<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\">).</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "активность из 3-х действий",
+            "id": "feat-rapid-affixture",
+            "archetype": ""
+        },
+        {
+            "fullName": "Создание чего угодно (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=773\">Craft Anything</a>) / 15",
+            "name": "Создание чего угодно",
+            "originalName": "Craft Anything",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Ремесла</p><hr class=\"docutils\"><p>Вы умеете находить способы создавать почти все, несмотря на ограничения.\nДо тех пор, пока вы соответствуете требованиям уровня предмета, уровню мастерства, и у вас есть подходящий навык Ремесла (например, <span class=\"card-link std std-ref\" data-id=\"feat-magical-crafting\">Магическое ремесло (Magical Crafting) / 2</span> для создания магических предметов), то вы игнорируете почти любые другие требования, такие как быть определенной родословной или предоставление заклинаний.\nЕдинственными исключениями являются требования, увеличивающие стоимость предмета, включая сотворение заклинаний имеющих стоимость, и требования специальных предметов, таких как <span class=\"card-link \">Философский камень (Philosopher's Stone) / Предмет 20</span> и имеют особое значение для возможности изготовления и Ремесла.\nМастер решает, можете ли вы игнорировать требование.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-craft-anything",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очаровательный лжец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=766\">Charming Liar</a>) / 1",
+            "name": "Очаровательный лжец",
+            "originalName": "Charming Liar",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><hr class=\"docutils\"><p>Ваше обаяние позволяет вам победить тех, кому вы лжете.\nКогда вы получаете критический успех используя действие <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span>, то отношение цели к вам улучшается на одну ступень, как если бы вы преуспели в использовании Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span>.\nЭто работает только один раз за разговор, и если вы критически преуспели со многими целями с тем же результатом, вы выбираете 1 существо, чье отношение улучшится.\nВы должны лгать, чтобы передать, казалось бы, важную информацию, преувеличивать свой статус или льстить другим, чего нельзя достичь тривиальной или неуместной ложью.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-charming-liar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надолго отвлечь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=810\">Lengthy Diversion</a>) / 1",
+            "name": "Надолго отвлечь",
+            "originalName": "Lengthy Diversion",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><hr class=\"docutils\"><p>Когда вы критически преуспеваете в использовании <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span>, вы продолжаете оставаться <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span> после окончания своего хода.\nНа усмотрение Мастера, этот эффект длится период времени, зависящий от отвлечения и ситуации (минимум 1 дополнительный раунд).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-lengthy-diversion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обмани меня (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=811\">Lie to Me</a>) / 1",
+            "name": "Обмани меня",
+            "originalName": "Lie to Me",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><hr class=\"docutils\"><p>Вы можете использовать Обман, чтобы плести ловушки, и подловить любого, кто пытается обмануть вас.\nЕсли вы вступаете в разговор с кем-то пытающимся <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span> вам, то, чтобы узнать могут ли они преуспеть в обмане, используйте ваш КС Обмана, если он больше КС Восприятия.\nЭто не применимо, если вы не имеете двустороннего диалога, как когда кто-то пытается <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span> во время долгой речи.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-lie-to-me",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шарлатан (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1178\">Charlatan</a>) / 1",
+            "name": "Шарлатан",
+            "originalName": "Charlatan",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 104</p><hr class=\"docutils\"><p>Вы научились имитировать умения заклинателей, изучая их магические пасы и слова.\nКогда вы активируете магический предмет, чтобы произвести эффект заклинания, выполните проверку Обмана.\nЕсли вы преуспели против КС Восприятия очевидца, то ему кажется, что вместо этого вы совершали <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nОчевидцы, которые успешно использовали <span class=\"card-link std std-ref\" data-id=\"feat-recognize-spell\">Распознание заклинания (Recognize Spell)  / 1</span> понимают, что вы использовали магический предмет, хотя те, кто потом успешно использовал <span class=\"card-link \">Идентификация магии (Identify Magic)</span> все еще не могут определить того, что источником эффекта являлся магический предмет.</p>",
+            "src": "Lost Omens: Gods & Magic pg. 104",
+            "action": "",
+            "id": "feat-charlatan",
+            "archetype": ""
+        },
+        {
+            "fullName": "Патологический лжец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=769\">Confabulator</a>) / 2",
+            "name": "Патологический лжец",
+            "originalName": "Confabulator",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана</p><hr class=\"docutils\"><p>Даже когда вас поймали на неправде, вы продолжаете нагромождать одну ложь на другую.\nСнизьте получаемый целью бонус обстоятельства за ваши предыдущие попытки <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span> ей, с +4 до +2.\nЕсли вы мастер Обмана, снизьте бонус до +1, а если вы легенда, то ваши цели вовсе не получают эти бонусы.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-confabulator",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрая маскировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=823\">Quick Disguise</a>) / 2",
+            "name": "Быстрая маскировка",
+            "originalName": "Quick Disguise",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана</p><hr class=\"docutils\"><p>Вы можете сделать маскировку за половину обычного времени (обычно за 5 минут).\nЕсли вы мастер, это занимает одну десятую обычного времени (обычно 1 минуту).\nЕсли вы легенда, то можете создать полную маскировку и <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> за активность в 3 действия (<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\">)</p>",
+            "src": "",
+            "action": "активность из 3-х действий",
+            "id": "feat-quick-disguise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Запасная маскировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1064\">Backup Disguise</a>) / 2",
+            "name": "Запасная маскировка",
+            "originalName": "Backup Disguise",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: член <span class=\"card-link \">Смутьянов</span> второй метки</p><p><strong>Предварительные условия</strong>: эксперт Обмана</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 71</p><hr class=\"docutils\"><p>У вас есть определенная маскировка, которую вы держите наготове, нося под верхней одеждой.\nВы можете переодеться в эту маскировку, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> за активность в 3 действия (<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\">).\nЕсли вы мастер Обмана, то это активность в 2 действия (<img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">), а если вы легенда, то одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">).\nВы можете сделать новую запасную маскировку потратив стандартное кол-во времени, которое требуется, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span>, но у вас одновременно может быть только 1 запасная маскировка.\nНаличие запасной маскировки не позволяет вам быстрее снимать свой доспех или любые другие комплексные части одежды, но как только вы их сняли, маскировка готова к использованию.\nТак как маскировка у вас наготове, может случиться так, что при тщательном обыске могут найти некоторые части этой маскировки (см. <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span>).</p>",
+            "src": "Lost Omens: Character Guide pg. 71",
+            "action": "активность из 3-х действий",
+            "id": "feat-backup-disguise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посеять слух (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1065\">Sow Rumor</a>) / 2",
+            "name": "Посеять слух",
+            "originalName": "Sow Rumor",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "тайна",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: член <span class=\"card-link \">Смутьянов</span> второй метки</p><p><strong>Предварительные условия</strong>: эксперт Обмана</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 71</p><hr class=\"docutils\"><p>Вы распространяете слухи на конкретную тему, которые могут быть или не быть правдой.\nЕсли тема вашего слуха в данный момент не является предметом каких-либо противоречивых слухов, то это занимает столько же, как если бы вы, как обычно пытались <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> (обычно 2 часа), в конце чего Мастер кидает тайную проверку Обмана, чтобы понять как хорошо вы распространили слух.\nЕсли ваш слух соответствует любым текущим слухам по теме, то его распространение занимает меньше времени, и если вы пытаетесь опровергнуть особенно популярный и противоречивый слух, то это занимает дольше времени или может быть невозможно.\nКС так же увеличивается или снижается в зависимости от того насколько правдоподобен ваш слух.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваш слух расползается как лесной пожар. Любой, кто преуспевает в <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> о конкретной теме, узнает ваш слух в приоритете над другими слухами по этой теме. Ваш слух сохраняется 1 месяц.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы успешно распространили слух. Любой, кто преуспевает в <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> о конкретной теме, добавляет ваш слух в список слухов, которые они могут узнать по теме. Ваш слух сохраняется 1 неделю.</div>\n<div class=\"line\"><strong>Провал</strong>: Ваш слух утихает, никогда не становясь достаточно популярным для других людей, чтобы узнать его через <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы не способны распространить слух и получаете штраф обстоятельства -4 к проверкам Обмана на \"Посеять слух\" по той же теме в этом регионе на 1 неделю. Дополнительно, распространяется слух о ком-то, пытающемся распространить ложный слух по теме.</div>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 71",
+            "action": "",
+            "id": "feat-sow-rumor",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скользкие тайны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=842\">Slippery Secrets</a>) / 7",
+            "name": "Скользкие тайны",
+            "originalName": "Slippery Secrets",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Обмана</p><hr class=\"docutils\"><p>Вы избегаете и уклоняетесь от попыток раскрыть свою истинную природу или намерения.\nКогда заклинание или магический эффект пытается прочитать ваш разум, определить лжете ли вы, или выявить ваше мировоззрение, вы можете совершить проверку Обмана с КС заклинания или эффекта.\nВ случае успеха, эффект ничего не выявит.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-slippery-secrets",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойной смысл (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2124\">Doublespeak</a>) / 7",
+            "name": "Двойной смысл",
+            "originalName": "Doublespeak",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Обмана</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 205</p><hr class=\"docutils\"><p>Вы умеете говорить одно, а иметь в виду совсем другое.\nВы скрываете истинный смысл за другими словами и фразами, полагаясь на тонкое акцентирование и совместный опыт, чтобы передать смысл, который понимают только ваши союзники.\nЛюбые союзники, которые путешествовали с вами хотя бы 1 полную неделю автоматически понимают смысл ваших слов.\nДругие наблюдатели должны совершить успешную проверку Восприятия против вашего КС Обмана, чтобы понять, что вы передаете скрытое сообщение, и они должны крит.успешно пройти проверку, чтобы понять его смысл.</p>",
+            "src": "Advanced Player's Guide pg. 205",
+            "action": "",
+            "id": "feat-doublespeak",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искатель выгодных сделок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=758\">Bargain Hunter</a>) / 1",
+            "name": "Искатель выгодных сделок",
+            "originalName": "Bargain Hunter",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><hr class=\"docutils\"><p>Вы можете выполнять <span class=\"card-link \">Заработок денег (Earn Income)</span> используя Дипломатию, тратя свое время на поиски выгодных сделок и перепродавая их с прибылью.\nВы также можете потратить время, специально вынюхивая отличную сделку по предмету; это работает так, как если бы вы использовали <span class=\"card-link \">Заработок денег (Earn Income)</span> с Дипломатией, за исключением того, что вместо получения денег вы покупаете предмет со скидкой, равной деньгам, которые вы бы получили, или получая его бесплатно, если ваш полученный доход больше или равен стоимость предмета.\nИ наконец, если вы выбираете \"Искатель выгодных сделок\" при создании персонажа на 1-м уровне, то начинаете игру с дополнительными 2 зм.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-bargain-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Впечатлить группу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=789\">Group Impression</a>) / 1",
+            "name": "Впечатлить группу",
+            "originalName": "Group Impression",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><hr class=\"docutils\"><p>Когда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span>, то можете сравнить свой результат проверки Дипломатии с КС Воли 2 целей, вместо 1.\nВозможно получить разную степень успешности для каждой цели.\nКоличество целей увеличивается до 4 если вы эксперт, 10 если мастер и 25 если легенда.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-group-impression",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общительный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=791\">Hobnobber</a>) / 1",
+            "name": "Общительный",
+            "originalName": "Hobnobber",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><hr class=\"docutils\"><p>Вы умело выведываете информацию в разговоре.\nАктивность исследования <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> занимает у вас половину обычного времени (обычно сокращая время до 1 часа).\nЕсли вы мастер Дипломатии и используете \"Сбор информации\" с нормальной скоростью, и при броске проверки получаете критический провал, то вместо этого получаете просто провал.\nВсе еще нет гарантии, что слухи, которые вы узнали \"Сбором информации\" являются точными.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-hobnobber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Остро́та (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2114\">Bon Mot</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Остро́та",
+            "originalName": "Bon Mot",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "языковой",
+                "слуховой",
+                "ментальный",
+                "концентрация",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>Вы бросаете врагу проницательную шутку, отвлекая его.\nВыберите врага в пределах 30 футов и бросьте проверку Дипломатии против КС Воли цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель отвлечена и на 1 минуту получает штраф состояния -3 к Восприятию и спасброскам Воли. Цель может закончить эффект досрочно, ответив на вашу \"Остро́ту\". Это может быть одиночное действие, которое имеет признак <span class=\"t-concentrate\">концентрация</span> или действие подходящего навыка, чтобы в ответ парировать вашу остроту. Мастер решает какое действие навыка подходит, однако оно должно занимать хотя бы 1 действие. Обычно, чтобы парировать нужно использовать действие навыка основанного на Харизме с признаком <span class=\"t-linguistic\">языковой</span>.</div>\n<div class=\"line\"><strong>Успех</strong>: Как критический успех, но штраф -2</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваша шутка ужасна. Вы получаете тот же штраф, что и враг, если бы у вас был успех. Эффект заканчивается через 1 минуту или когда вы успешно используете \"Остро́ту\".</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "одиночное действие",
+            "id": "feat-bon-mot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Не надо пугаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2139\">No Cause for Alarm</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Не надо пугаться",
+            "originalName": "No Cause for Alarm",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "языковой",
+                "слуховой",
+                "ментальный",
+                "концентрация",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы пытаетесь унять панику.\nВыполните проверку Дипломатии, сравнивая ее с КС Воли существ в 10-футовой эманации вокруг вас, которые имеют состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>.\nКаждое из них временно иммунно на 1 час.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Уменьшаете у существа состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 2</div>\n<div class=\"line\"><strong>Успех</strong>: Уменьшаете у существа состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 1</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "активность из 3-х действий",
+            "id": "feat-no-cause-for-alarm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Радушный прием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=787\">Glad-Hand</a>) / 2",
+            "name": "Радушный прием",
+            "originalName": "Glad-Hand",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Дипломатии</p><hr class=\"docutils\"><p>Первое впечатление - ваша сильная сторона.\nКогда вы встречаете кого-то в повседневной или светской ситуации, вы можете мгновенно совершить проверку Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на это существо, без необходимости разговаривать с ним 1 минуту.\nВы получаете к проверке штраф -5.\nЕсли вы проваливаете или крит.проваливаете, то вы можете начать 1-минутную беседу, и по окончании этого времени предпринять новую проверку, вместо принятия результата провала или крит.провала.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-glad-hand",
+            "archetype": ""
+        }
+    ]
+}

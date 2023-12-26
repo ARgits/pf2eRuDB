@@ -1,0 +1,1738 @@
+{
+    "feats": [
+        {
+            "fullName": "Проводящая сфера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4259\">Conductive Sphere</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Проводящая сфера",
+            "originalName": "Conductive Sphere",
+            "level": 8,
+            "traits": [
+                "импульс",
+                "воздействие",
+                "металл",
+                "электричество",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>В пространстве в пределах 30 футов образуется парящий металлический шар, вспыхивающий электричеством.\nВ него нельзя целиться или наносить ему урон.\nВсе ваши союзники, находящиеся рядом с ним, получают сопротивление электричеству, равное вашему уровню, и ко всем своим <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударам (Strikes)</span> металлическими объектами добавляют руну <span class=\"card-link \">Шоковая (Shock) / Руна 8+</span>.\nСфера действует до конца вашего следующего хода, но вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> ее вплоть до 1 минуты.</p><p>Когда вы создаете сферу и когда в первый раз Поддерживаете этот импульс в последующие раунды, вы можете либо заставить ее <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly)</span> вплоть до 20 футов, либо нанести 1d12 урона электричеством находящемуся рядом существу с простым спасброском Рефлекса против вашего КС класса.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-conductive-sphere",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отрыгивание ржавчины (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4260\">Retch Rust</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Отрыгивание ржавчины",
+            "originalName": "Retch Rust",
+            "level": 8,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>Вы выдыхаете усики, образованные из чешуек ржавого металла.\nВсе существа в 30-футовом конусе получают 4d10 рубящего урона с простым спасброском Стойкости против вашего КС класса.\nМеталлическое существо провалившее спасбросок еще получает 2d4 продолжительного рубящего урона.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Рубящий урон конуса увеличивается на 1d10, а продолжительный урон увеличивается на 1d4.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-retch-rust",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дождь из лезвий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4261\">Rain of Razors</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Дождь из лезвий",
+            "originalName": "Rain of Razors",
+            "level": 12,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>С неба падают острые как бритва металлические осколки.\nКаждое существо в 20-футовом взрыве в пределах 60 футов получает 9d6 рубящего урона с простым спасброском Рефлекса против вашего КС класса.\nЛезвия впиваются во все поверхности в этой области, делая ее <span class=\"card-link \">опасной местностью</span> на 1 минуту.\nСущество, перемещающееся по этой опасной местности, получает 3 рубящего урона за каждый квадрат области, в который оно передвигается.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Начальный урон увеличивается на 1d6, а урон опасной местности увеличивается на 1.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-rain-of-razors",
+            "archetype": ""
+        },
+        {
+            "fullName": "Щиты из осколков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4262\">Shattershields</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Щиты из осколков",
+            "originalName": "Shattershields",
+            "level": 12,
+            "traits": [
+                "стойка",
+                "импульс",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>Вокруг вас парят 4 пластины из изъеденного металла, чтобы перехватывать атаки.\nВы и союзники в вашей кинетической ауре, получаете бонус обстоятельства +1 к КБ.\nКогда любое существо с этим бонусом получит урон от физической атаки, одна из пластин уменьшает урон на значение своей Твердости 5.\nЕсли урон превышает Твердость, то пластина уничтожается.\nВы можете восполнить все уничтоженные пластины одиночным действием (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">) с признаком <span class=\"t-concentrate\">концентрация</span>.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Твердость увеличивается на 1.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-shattershields",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сплав плоти и стали (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4263\">Alloy Flesh and Steel</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Сплав плоти и стали",
+            "originalName": "Alloy Flesh and Steel",
+            "level": 14,
+            "traits": [
+                "импульс",
+                "полиморф",
+                "воздействие",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>Стихийная энергия заменяет каждую клетку вашего тела необработанным металлом.\nВы получаете преимущества заклинания <span class=\"card-link std std-ref\" data-id=\"spell-ferrous-form\">Железная форма (Ferrous Form)  / Закл. 8</span> до конца своего следующего хода (за исключением того, что не можете творить <span class=\"card-link std std-ref\" data-id=\"spell-needle-darts\">Иглы-дротики (Needle Darts)  / Чары 1</span>).\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> этот импульс вплоть до 1 минуты, а когда это делаете, то можете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять (Raise)</span> металлический щит, если вы им владеете.\nВаши металлические <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удары стихии (Elemental Blasts)</span> наносят дополнительную кость урона.\nЕсли вы приостановили какое-то состояния с помощью \"Сплава плоти и стали\", то по его окончании вы временно иммунны к \"Сплаву плоти и стали\" на 1 час.</p><hr class=\"docutils\"><p><strong>Уровень (16-й)</strong>: Сопротивление равно 15.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-alloy-flesh-and-steel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чудовища дремлющей стали (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4264\">Beasts of Slumbering Steel</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Чудовища дремлющей стали",
+            "originalName": "Beasts of Slumbering Steel",
+            "level": 18,
+            "traits": [
+                "импульс",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>Вы создаете скакунов из стихии металла, состоящих из скрепленных между собой металлических частей.\nВыберите целями вплоть до 5 существ <span class=\"s-medium\">среднего</span> размера или меньше, в пределах 30 футов.\nПод ними появляются <span class=\"s-large\">большие</span> скакуны, и цели могут сразу же <span class=\"card-link std std-ref\" data-id=\"action-mount\">Оседлать (Mount) </span> их.\nКаждый скакун может принимать 4 различные формы.\nОдна из форм имеет только наземную Скорость 80 футов, а остальные - наземную Скорость 30 футов, со скоростью карабканья, полета или плавания 60 футов.\nКаждый всадник выбирает начальную форму и может изменить ее одиночным действием, которое имеет признак <span class=\"t-concentrate\">концентрация</span>.</p><p>У скакунов следующие показатели: КБ 40, Стойкость +30, Рефлекс +30, Воля +25 и 180 ОЗ.\nОни <span class=\"t-mindless\">неразумны</span> и иммунны к кровотечению, <span class=\"t-healing\">исцелению</span>, <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">параличу</span>, <span class=\"t-poison\">яду</span> и <span class=\"t-sleep\">сну</span>.\nОни не могут атаковать.\nОни существуют 1 минуту или пока вы снова не используете этот импульс.\nВы можете использовать этот импульс в виде 1-минутной активности <span class=\"t-exploration\">исследования</span>, чтобы сделать его продолжительность равной 1 часу, но это снижает защиты и ОЗ скакунов вдвое.</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-beasts-of-slumbering-steel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ад из миллиона игл (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4265\">Hell of 1.000.000 Needles</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Ад из миллиона игл",
+            "originalName": "Hell of",
+            "level": 1,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 31</p><hr class=\"docutils\"><p>Ландшафт покрывается монументальными металлическими нитями.\nИглы вонзаются в куб со стороной 30 футов, в пределах 500 футов.\nКаждое существо в этой области получает 13d6 колющего урона с простым спасброском Рефлекса против вашего КС класса.\nПри провале спасброска существо проколото и становится <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижено</span>, пока не сможет <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> (ваш КС класса); при критическом провале спасброска, оно еще <span class=\"card-link std std-ref\" data-id=\"c-off-guard\">застигнуто врасплох</span> пока остается проколото.</p><p>Этот ад остается до конца вашего следующего хода, но вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> его вплоть до 1 минуты.\nПовторное использование этого импульса прекращает действие предыдущего.\nКогда вы Поддерживаете его первый раз в раунд, по иглам проходит молния.\nКаждое существо в этой области получает 3d12 урона электричеством с простым спасброском Рефлекса против вашего КС класса.\nКвадраты в этой области являются <span class=\"card-link \">опасной местностью</span>.\nСущество получает 6 колющего урона за передвижение по каждому квадрату области.</p><hr class=\"docutils\"><p><strong>Уровень (20-й)</strong>: Начальный урон равен 17d6, а урон опасной местности равен 7.</p><p>⁯</p>",
+            "src": "Rage of Elements pg. 31",
+            "action": "активность из 3-х действий",
+            "id": "hell-of-1-000-000-needles-3-18",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свежий плод (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4281\">Fresh Produce</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Свежий плод",
+            "originalName": "Fresh Produce",
+            "level": 1,
+            "traits": [
+                "импульс",
+                "исцеление",
+                "жизненность",
+                "дерево",
+                "растение",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Вы выращиваете питательный орех, овощ, семя или фрукт.\nВыберите существо в своей кинетической ауре.\nПлод вырастает в его открытой руке или у его ног, если его руки заняты.\nПлод обладает легкой Массой.\nСущество может съесть его действием <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы восстановить 1d4+1 ОЗ; это <span class=\"t-vitality\">жизненный</span> <span class=\"t-healing\">исцеляющий</span> эффект.\nСущество чувствует себя сытым на 10 минут, в течение которых оно имеет сопротивление 2 к урону пустоты и не может съесть еще один такой плод.\nПлод, не съеденный к началу вашего следующего хода, увядает.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Исцеление увеличивается на 1d4+5, а сопротивление увеличивается на 2.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-fresh-produce",
+            "archetype": ""
+        },
+        {
+            "fullName": "Град щепок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4282\">Hail of Splinters</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Град щепок",
+            "originalName": "Hail of Splinters",
+            "level": 1,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>От вас летит залп зазубренных осколков.\nСущества в 30-футовом конусе получают 1d4 колющего урона и 1d4 продолжительного урона кровотечением с простым спасброском Рефлекса против вашего КС класса.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Каждый тип урона увеличивается на 1d4.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-hail-of-splinters",
+            "archetype": ""
+        },
+        {
+            "fullName": "Древесный доспех (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4283\">Hardwood Armor</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Древесный доспех",
+            "originalName": "Hardwood Armor",
+            "level": 1,
+            "traits": [
+                "импульс",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Древесина и кора покрывают ваше тело, как доспех.\nЭтот деревянный доспех является средним доспехом, но использующим ваше наивысшее мастерство доспеха.\nПоказатели деревянного доспеха следующие: бонус КБ +3; ограничение Ловкости +2; штраф проверок -2; штраф Скорости -5 футов; Сила +2; Масса 1; группа <span class=\"card-link \">дерево</span>.\nВсе бонусы, руны и магические возможности вашего настоящего доспеха подавляются, но все, которые могут быть применимы к древесному доспеху, копируются на него.</p><p>Когда вы используете этот импульс, то также можете создать в свободной руке деревянный щит, который использует показатели обычного <span class=\"card-link std std-ref\" data-id=\"table-6-5\">деревянного щита</span>.\nВы можете использовать с ним <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, даже если у вас нет этой способности.\nРука, владеющая этим щитом, считается свободной для использования <span class=\"t-impulse\">импульсов</span>.\nЕсли щит <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломается</span> или вы перестанете его держать, то он увядает.</p><p>Доспех существует 10 минут, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> этот импульс.\nЕсли вы снова используете этот импульс, то действие уже существующего заканчивается.</p><hr class=\"docutils\"><p><strong>Уровень (+3)</strong>: Твердость щита увеличивается на 1, его ОЗ на 4, а ПП на 2.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-hardwood-armor",
+            "archetype": ""
+        },
+        {
+            "fullName": "Деревянный страж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4284\">Timber Sentinel</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Деревянный страж",
+            "originalName": "Timber Sentinel",
+            "level": 1,
+            "traits": [
+                "импульс",
+                "дерево",
+                "растение",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Из Плана Дерева появляется стройное, симметричное дерево.\nВы создаете дерево в пределах 30 футов, как заклинание <span class=\"card-link std std-ref\" data-id=\"spell-protector-tree\">Дерево-защитник (Protector Tree) / Закл. 1</span> ранга, равного половине вашего уровня, округленной вверх.\nЕсли вы снова используете этот импульс, предыдущий заканчивается, и остается обычное дерево.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-timber-sentinel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Терновая путаница (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4285\">Ravel of Thorns</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Терновая путаница",
+            "originalName": "Ravel of Thorns",
+            "level": 4,
+            "traits": [
+                "стойка",
+                "импульс",
+                "дерево",
+                "растение",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Колючие лозы вырастают в виде геометрических узоров на поверхностях в вашей кинетической ауре.\nСущество, которое начинает свой ход в колючках, получает штраф обстоятельства -10 футов к своим Скоростям, пока не покинет область.\nТерновые лозы являются опасной местностью.\nСущество получает 2 колющего урона каждый раз, когда передвигается в один из этих квадратов.\nЕсли хотя бы в одном из квадратов, на котором растут колючки, есть вода или почва, то урон опасной местности всех шипов удваивается.\nЕсли вы двигаетесь, колючки исчезают; новые колючки вырастают в конце вашего хода.</p><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: Урон увеличивается на 1.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-ravel-of-thorns",
+            "archetype": ""
+        },
+        {
+            "fullName": "Катящиеся бревна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4286\">Tumbling Lumber</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Катящиеся бревна",
+            "originalName": "Tumbling Lumber",
+            "level": 4,
+            "traits": [
+                "импульс",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Из Плана Дерева вылетает множество бревен, которые врезаются в противников.\nОни катятся по линии шириной 10 футов и длиной 30 футов.\nКатящиеся бревна разравнивают немагическую сложную местность на любой земле, по которой катятся; особо сложная местность остается.\nКаждое существо в этой области получает 2d8 дробящего урона и может быть передвинуто бревнами, в зависимости от спасброска Рефлекса против вашего КС класса.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо.</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает половину урона.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо получает полный урон и выталкивается с линии по самому прямому из доступных путей.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо получает двойной урон и сбито <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</div>\n</div><hr class=\"docutils\"><p><strong>Уровень (+3)</strong>: Урон увеличивается на 1d8.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-tumbling-lumber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Щепотка трав (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4287\">Dash of Herbs</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Щепотка трав",
+            "originalName": "Dash of Herbs",
+            "level": 6,
+            "traits": [
+                "импульс",
+                "исцеление",
+                "жизненность",
+                "дерево",
+                "растение",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Небольшое облако лекарственных трав исцеляет существо.\nТип трав зависит от того, какое недомогание вы решили лечить: <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span>, <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота</span>, <span class=\"t-disease\">болезнь</span>, <span class=\"t-poison\">яд</span> или травмы.\nВыберите целью 1 живое существо в пределах 30 футов, которое восстанавливает 2d8+4 ОЗ и может попытаться совершить новый спасбросок против одного недомогания выбранного вида.\nЕсли вы выбрали травмы, то вместо этого увеличьте исцеляющие кости до d10.\nСущество становится временно иммунно к \"Щепотке трав\" на 10 минут.</p><p>Помимо этого, можно добавить травы в блюдо, приготовленное для вплоть до 6 человек.\nСущества, принимающие участие в трапезе, получают эти преимущества.\nЦелебные эффекты трав исчезают, если их не съесть в течение часа, но их вкус остается.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Исцеление увеличивается на 1d8.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-dash-of-herbs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Деревянный частокол (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4288\">Wooden Palisade</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Деревянный частокол",
+            "originalName": "Wooden Palisade",
+            "level": 6,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "воздействие",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 34</p><hr class=\"docutils\"><p>Деревянные брусья, украшенные резьбой, выскакивают вперед, образуют стену.\nЧастокол имеет длину вплоть до 30 футов, высоту 20 футов, толщину 1 дюйм (2.54 см).\nОн должен формироваться по прямой линии на свободном пространстве, не проходящем через существ или объекты, иначе импульс проваливается.\nПри создании стены вы можете выбрать создание уступов с одной стороны стены, в 4 футах от верха, с лестницами, ведущими к ним от низа стены.</p><p>Каждый участок стены размером 10 на 10 футов имеет КБ 10, Твердость 10 и 20 ОЗ, а также иммунитет к <span class=\"card-link \">критическим попаданиям</span> и точному урону.\nСтена действует до конца вашего следующего хода, но вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> ее вплоть до 1 минуты.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Максимальная длина стены увеличивается на 10 футов, а ОЗ каждого участка увеличивается на 10.</p>",
+            "src": "Rage of Elements pg. 34",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-wooden-palisade",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парящая пыльца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4289\">Drifting Pollen</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Парящая пыльца",
+            "originalName": "Drifting Pollen",
+            "level": 8,
+            "traits": [
+                "стойка",
+                "импульс",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Вокруг вас летает марево пыльцы.\nСущество, находящееся в вашей кинетической ауре, когда вы встаете в эту стойку, или то, которое позже попадет в ауру или закончит в ней свой ход, совершает спасбросок Стойкости против вашего КС класса.\nПри провале оно получает <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноту 1</span> (<span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span> при критическом провале) и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> до тех пор, пока сохраняется <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота</span>.\nСущество совершает этот спасбросок не более 1 раза в раунд и не совершает новый спасбросок, если оно уже было подвержено эффекту.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-drifting-pollen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровожадные корни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4290\">Sanguivolent Roots</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Кровожадные корни",
+            "originalName": "Sanguivolent Roots",
+            "level": 8,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Из земли, 15-футовым взрывом в пределах 120 футов, вырастают кровососущие лозы.\nУ каждого живого врага в этой области высасывается кровь, он получает 3d6 колющего урона с простым спасброском Стойкости против вашего КС класса.\nКаждый раз, когда лозы пьют кровь, живые существа в области, не являющиеся вашими врагами, восстанавливают ОЗ, равные половине урона, полученного одним существом; рассчитывайте его, используя самый высокий урон, полученный одним существом.\nЭто <span class=\"t-vitality\">жизненный</span> <span class=\"t-healing\">исцеляющий</span> эффект.\nВаши враги с <span class=\"card-link \">пустотным исцелением</span> в области, получают жизненный урон в количестве равном исцелению.</p><p>Лозы держатся до конца вашего следующего хода, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> импульс.\nПри первом Поддержании импульса в последующих ходах вы можете повторить эффект.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Урон увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-sanguivolent-roots",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лабиринт живой изгороди (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4291\">Hedge Maze</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Лабиринт живой изгороди",
+            "originalName": "Hedge Maze",
+            "level": 12,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "воздействие",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Вы создаете ухоженный лабиринт из живых изгородей.\nВы создаете <span class=\"card-link std std-ref\" data-id=\"spell-wall-of-shrubs\">Стена кустарников (Wall of Shrubs)  / Закл. 1</span> в квадрате со стороной 30 футов и стенами высотой 15 футов.\nВы можете разместить внутри еще вплоть до 4 стен, каждая шириной 10 футов и высотой 15 футов.\nЖивая изгородь держится до конца вашего следующего хода, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> импульс вплоть до 1 минуты.</p><p>Вы можете потратить 10 минут на применение этого импульса в качестве активности <span class=\"t-exploration\">исследования</span>, чтобы вместо этого создать <span class=\"card-link std std-ref\" data-id=\"spell-c-cozy-cabin\">Уютная хижина (Cozy Cabin) / Закл. 3</span> с живой изгородью в качестве стен.\nДействие такого импульса длится 12 часов, но заканчивается, если вы снова используете импульс.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-hedge-maze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Семя ведьмовского дерева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4292\">Witchwood Seed</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Семя ведьмовского дерева",
+            "originalName": "Witchwood Seed",
+            "level": 12,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "полиморф",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Вы прикасаетесь к существу, чтобы внедрить в его тело злокачественное семя.\nСущество получает 5d10 колющего урона и другие эффекты в зависимости спасброска Стойкости против вашего КС класса.\nЗатем существо временно иммунно на 24 часа.\nСущества с признаком <span class=\"t-fungus\">грибковый</span>, <span class=\"t-plant\">растение</span> или <span class=\"t-wood\">дерево</span> иммунны.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо.</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает половину урона и штраф состояния -10 футов ко всем Скоростям до конца своего следующего хода.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает полный урон и <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 2</span>, и <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижено</span> до конца своего следующего хода.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает двойной урон, <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 2</span> и <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижено</span>. Оно совершает новый спасбросок в конце каждого своего хода, при успехе завершая эффект.</div>\n</div><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: Урон увеличивается на 1d10.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-witchwood-seed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойкость рощи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4293\">Orchard's Endurance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Стойкость рощи",
+            "originalName": "Orchard's Endurance",
+            "level": 14,
+            "traits": [
+                "стойка",
+                "импульс",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>На коже у вас и у ваших ближайших союзников появляются участки коры.\nВы и ваши союзники, находящиеся в вашей кинетической ауре, получаете сопротивление 5 дробящему и колющему урону.\nКроме того, вы и ваши союзники, находящиеся под действием этого эффекта, кидаете чистые проверки восстановления от продолжительного урона дважды и берете наибольший результат; это эффект <span class=\"t-fortune\">удачи</span>.</p><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: Сопротивление увеличивается на 2.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-orchards-endurance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пробудить ярость леса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4294\">Rouse The Forest's Fury</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Пробудить ярость леса",
+            "originalName": "Rouse The Forest's Fury",
+            "level": 18,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "растение",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Ваших врагов атакуют ужасающие деревья.\nВ незанятом пространстве в пределах 500 футов появляются 3 <span class=\"s-large\">больших</span> дерева, на расстоянии не менее 15 футов друг от друга.\nКаждое дерево имеет КБ 40, Стойкость +33, Рефлекс +24, Воля +30 и 200 ОЗ.\nДеревья могут брать в тиски, но не могут двигаться.\nКогда деревья появляются, каждое из них наносит <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>; они имеют общий штраф множественной атаки.\nУдар дерева в ближнем бою это ветка с досягаемостью 10 футов; при попадании цель <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачена</span> деревом (<span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> КС 40).\nДистанционный удар это брошенный плод, тыква, семечко или камень с шагом дистанции 60 футов.\nЛюбой из этих Ударов имеет модификатор атаки +30 и наносит 4d10+9 дробящего урона.</p><p>Деревья держатся до конца вашего следующего хода, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> импульс.\nКаждый раз, когда вы Поддерживаете импульс, одно дерево может нанести Удар.</p><hr class=\"docutils\"><p><strong>Уровень (20-й)</strong>: Модификатор атаки +32, а урон Удара 5d10+9.</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-rouse-the-forests-fury",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поворот колеса сезонов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4295\">Turn the Wheel of Seasons</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Поворот колеса сезонов",
+            "originalName": "Turn the Wheel of Seasons",
+            "level": 18,
+            "traits": [
+                "переполнение",
+                "импульс",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 35</p><hr class=\"docutils\"><p>Времена года быстро меняются.\nЭтот импульс воздействует на куб со сторонами по 100 футов на расстоянии в пределах 1.000 футов.\nВыберите начальное время года.\nИмпульс длится 4 раунда, переходя в следующее время года в начале каждого вашего хода.\nВы не можете использовать этот импульс снова, пока не закончится действие предыдущего.</p><ul class=\"simple\">\n<li><p><strong>Весна</strong>: Каждый союзник в области получает 20 временных ОЗ, длящихся до начала вашего следующего хода. Любой союзник <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> бросает проверку восстановления, но не может получить результат хуже успеха.</p></li>\n<li><p><strong>Лето</strong> (<span class=\"t-light\">свет</span>): Каждый враг в области подвергается солнечному свету и должен совершить спасбросок Рефлекса против вашего КС класса. При крит.успехе он невредим, при успехе <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> до начала вашего следующего хода, при провале <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепнет</span> до начала вашего следующего хода.</p></li>\n<li><p><strong>Осень</strong>: Листья и дождь делают всё в области <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытым</span> до начала вашего следующего хода, а холодный ветер делает каждого врага в области <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедленным 1</span> до начала вашего следующего хода, если только он не совершит успешный спасбросок Стойкости против вашего КС класса.</p></li>\n<li><p><strong>Зима</strong>: Каждый враг в ауре получает 5d6 урона холодом с простым спасброском Рефлекса против вашего КС класса. При провале существо еще получает 2d6 продолжительного урона холодом.</p></li>\n</ul><p>⁯</p>",
+            "src": "Rage of Elements pg. 35",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-turn-the-wheel-of-seasons",
+            "archetype": ""
+        },
+        {
+            "fullName": "Засада пузырника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4296\">Ambush Bladderwort</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Засада пузырника",
+            "originalName": "Ambush Bladderwort",
+            "level": 4,
+            "traits": [
+                "составной",
+                "импульс",
+                "вода",
+                "дерево",
+                "растение",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Вы сажаете семя гигантского пузырника в незанятый квадрат земли или воды в пределах 30 футов.\nОно остается на 10 минут.\nПовторное использование этого импульса прекращает действие предыдущего.\nЕсли в его квадрат попадает существо, семя разрастается в объемное полупрозрачное растение, которое плотно смыкается вокруг спровоцировавшего существа и наполняется водой.\nСущество должно совершить успешный спасбросок Рефлекса против вашего КС класса, иначе оно будет <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижено</span> внутри пузырника и должно <span class=\"card-link \">задерживать дыхание</span>, иначе начнет тонуть.\nКС для <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> равен вашему КС класса.\nРастение имеет КБ 10 и 50 ОЗ.</p><p>Если существо умирает внутри него, растение сжимается, превращая себя и останки в водянистый плод.\nСущество может съесть его, чтобы восстановить 1d8+4 ОЗ, после чего оно временно иммунно на 10 минут.\nПлод сгнивает через 1 час.</p><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: ОЗ пузырника увеличиваются на 25, а исцеление фрукта на 1d8+4.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-ambush-bladderwort",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лавовый прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4297\">Lava Leap</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Лавовый прыжок",
+            "originalName": "Lava Leap",
+            "level": 4,
+            "traits": [
+                "составной",
+                "переполнение",
+                "импульс",
+                "земля",
+                "огонь",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Вы окутываете себя расплавленным камнем и устремляетесь на врага.\n<span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгните (Leap)</span> вплоть до своей Скорости.\nВ конце Прыжка волна лавы обрушивается на всех существ в 10-футовой эманации.\nКаждое существо в этой области получает 1d6 дробящего урона и 2d6 урона огнем с простым спасброском Рефлекса против вашего КС класса.</p><p>Остывающие остатки лавы образуют вокруг вас временную защитную оболочку, дающую вам бонус обстоятельства +2 к КБ до начала вашего следующего хода.</p><hr class=\"docutils\"><p><strong>Уровень (+3)</strong>: Каждый тип урона увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-lava-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Живой костер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4298\">Living Bonfire</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Живой костер",
+            "originalName": "Living Bonfire",
+            "level": 4,
+            "traits": [
+                "составной",
+                "импульс",
+                "огонь",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>По вашему приказу, корни и ветви живого дерева извиваются в элементальном огне, образуя костер, достаточно пугающий, чтобы отпугнуть хищников в ночи.\nВы создаете в пределах 30 футов костер в незанятом 10-футовом квадрате.\nКостер горит 10 часов, обеспечивая все преимущества обычного костра.\nЕсли вы снова используете этот импульс, то действие предыдущего заканчивается.</p><p>Когда вы наносите древесный дистанционный <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удар стихии (Elemental Blast)</span>, то можете сделать так, чтобы он исходил не от вас, а от костра, разбрасывая горящие поленья.\nЭтот удар наносит дополнительные 1d6 урона огнем.\nКаждый раз, когда вы так делаете, размер костра уменьшается на один 5-футовый квадрат.\nЕсли все квадраты кончаются, импульс заканчивается.</p><hr class=\"docutils\"><p><strong>Уровень (+5)</strong>: Урон огнем увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-living-bonfire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ржавый дождь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4299\">Rain of Rust</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Ржавый дождь",
+            "originalName": "Rain of Rust",
+            "level": 4,
+            "traits": [
+                "составной",
+                "импульс",
+                "металл",
+                "вода",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Вы вызываете красное дождевое облако в 10-футовом взрыве в пределах 60 футов, из которого льется дождь цвета ржавчины.\nЛюбое существо под дождем, имеющее признак <span class=\"t-metal\">металл</span>, сделанное из металла или облаченное в металлические доспехи, покрывается коррозийным налетом.\nЛюбое такое существо становится <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюже 1</span> пока находится в этой области.\nЕсли такое существо находится под дождем в начале своего хода, оно получает 3d6 урона с простым спасброском Стойкости против вашего КС класса, плюс 1d6 продолжительного урона при провале.\nУрон от этого импульса игнорирует Твердость.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Начальный урон увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-rain-of-rust",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вращающийся точильный камень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4300\">Whirling Grindstone</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Вращающийся точильный камень",
+            "originalName": "Whirling Grindstone",
+            "level": 4,
+            "traits": [
+                "атака",
+                "составной",
+                "импульс",
+                "земля",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>В незанятом квадрате в пределах 30 футов появляется вращающийся точильный камень из кремня.\nЭтот точильный камень кромсает плоть и высекает искры.\nСовершите бросок атаки импульса против КБ существа, находящегося рядом с точильным камнем.\nПри попадании существо получает 2d6 рубящего урона и 1d6 урона огнем (или двойной урон при критическом попадании).\nТочильный камень остается до конца вашего следующего хода и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> этот импульс вплоть до 1 минуты.\nВ последующие ходы, когда вы Поддерживаете этот импульс первый раз в ход, можете перекатить точильный камень на расстояние вплоть до 20 футов и повторить атаку.</p><p>Существо находящееся в досягаемости точильного камня может <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> с ним, чтобы заточить металлическое оружие.\nЭто дает бонус обстоятельства +2 к следующему броску урона, наносимому этим оружием в течение 1 минуты.</p><hr class=\"docutils\"><p><strong>Уровень (+5)</strong>: Урон точильного камня увеличивается на 1d6 рубящего и 1d6 урона огнем, а бонус к оружию увеличивается на 1.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-whirling-grindstone",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пепельный странник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4301\">Ash Strider</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Пепельный странник",
+            "originalName": "Ash Strider",
+            "level": 6,
+            "traits": [
+                "переполнение",
+                "составной",
+                "импульс",
+                "полиморф",
+                "воздух",
+                "огонь",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Вы превращаетесь в облако кружащегося пепла и <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>.\nЕсли у вас есть Скорость полета, вы вместо этого можете <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>.\nЭто движение не провоцирует реакций, вы можете передвигаться через занятые пространства и крошечные щели, а также игнорировать любую сложную и особо сложную местность, которая не мешают дыму.\nПервое существо, через которое вы пройдете во время этого передвижения, получает 3d6 урона огнем с простым спасброском Рефлекса против вашего КС класса.\nПосле завершения вашего передвижения, вокруг вас остается пепел, давая вам <span class=\"card-link std std-ref\" data-id=\"c-concealed\">сокрытие</span> до начала вашего следующего хода.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Урон увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-ash-strider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пустынный ветер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4302\">Desert Wind</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Пустынный ветер",
+            "originalName": "Desert Wind",
+            "level": 6,
+            "traits": [
+                "стойка",
+                "составной",
+                "импульс",
+                "воздух",
+                "земля",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Вас окружает вихрь песка и пыли.\nКаждое существо в вашей кинетической ауре (включая вас) <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыто</span> от любого существа вне вашей кинетической ауры, а существа вне ауры <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> от существ внутри ауры, кроме вас.</p><p>Ваши <span class=\"t-air\">воздушные</span> <span class=\"t-impulse\">импульсы</span> переносят песок, который режет с огромной скоростью.\nКогда вы используете наносящий урон воздушный импульс, влияющий хотя бы на 1 существо в вашей кинетической ауре, этот импульс наносит дополнительный 1 рубящий урон или 2, если у импульса только одна цель.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Дополнительный урон увеличивается на 1, или на 2 если у импульса одна цель.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-desert-wind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стихийная баллиста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4303\">Elemental Artillery</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Стихийная баллиста",
+            "originalName": "Elemental Artillery",
+            "level": 6,
+            "traits": [
+                "составной",
+                "импульс",
+                "металл",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 36</p><hr class=\"docutils\"><p>Сворачивая вместе дерево и металл, вы создаете прочную деревянную баллисту.\nБаллиста имеет <span class=\"s-medium\">средний</span> размер и появляется в незанятом пространстве в пределах 30 футов.\nОна сразу выстреливает болт с зазубренным наконечником из стихийного металла.\nСовершите бросок атаки импульса по КБ цели в пределах 120 футов.\nПри попадании цель получает 3d12 колющего урона (или двойной урон при критическом попадании).</p><p>Из баллисты можно выстрелить снова, но сначала ее нужно перезарядить 2 действиями <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nБаллиста остается до конца вашего следующего хода, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> этот импульс.\nКаждый раз, когда вы Поддерживаете его, вы можете перекатить баллисту на расстояние вплоть до 20 футов, выстрелить из нее, если она заряжена, либо поспособствовать ее перезарядке на 1 действие.</p><hr class=\"docutils\"><p><strong>Уровень (+3)</strong>: Урон увеличивается на 1d12.</p>",
+            "src": "Rage of Elements pg. 36",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-elemental-artillery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зубчатые насыпи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4304\">Jagged Berms</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Зубчатые насыпи",
+            "originalName": "Jagged Berms",
+            "level": 6,
+            "traits": [
+                "переполнение",
+                "составной",
+                "импульс",
+                "земля",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Вы создаете вплоть до 6 кубических насыпей утрамбованной земли.\nКаждая из них появляется в незанятом квадрате в пределах 120 футов, заполняет свой квадрат и служит укрытием.\nНасыпь имеет КБ 10, Твердость 10, 20 ОЗ и иммунна к <span class=\"card-link \">критическим попаданиям</span> и точному урону.\nЕсли насыпь уничтожена, то становится сложной местностью.\nНасыпи существуют неограниченное время, но если вы снова используете этот импульс, то действие предыдущего заканчивается.</p><p>Из каждой насыпи в соседние квадраты торчат заостренные деревянные колья.\nОни могут выступать с любой из сторон насыпи; вы выбираете стороны для каждой насыпи.\nЗа каждый квадрат с деревянными кольями, в который попадает существо, оно получает 2d6 колющего урона.\nРазрушение насыпи также уничтожает и ее колья.</p><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: ОЗ каждого участка стены увеличивается на 10, а колющий урон увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-jagged-berms",
+            "archetype": ""
+        },
+        {
+            "fullName": "Громоотвод (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4305\">Lightning Rod</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Громоотвод",
+            "originalName": "Lightning Rod",
+            "level": 6,
+            "traits": [
+                "составной",
+                "импульс",
+                "воздух",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Вы вонзаете в противника металлический стержень и призываете в него молнию.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удар стихии (Elemental Blast)</span> ближнего боя за 1 действие с помощью стихии металла.\nПри попадании цель пронзается металлическим стержнем, что дает ей штраф обстоятельства -1 к КБ и спасброскам от <span class=\"t-electricity\">электричества</span>; штраф равняется -2, если существо еще имеет признак <span class=\"t-metal\">металл</span>, сделано из металла или одето в металлический доспех.\nПораженное существо немедленно получает 1d12 урона электричеством с простым спасброском Рефлекса против вашего КС класса.\nСущество может <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы сделать проверку Атлетики КС 10 для вытаскивания громоотвода.</p><hr class=\"docutils\"><p><strong>Уровень (+6)</strong>: Урон электричеством увеличивается на 1d12.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-lightning-rod",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расплавленная проволока (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4306\">Molten Wire</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Расплавленная проволока",
+            "originalName": "Molten Wire",
+            "level": 6,
+            "traits": [
+                "составной",
+                "импульс",
+                "огонь",
+                "металл",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Вращая расплавленное железо в огненном вихре, вы опутываете противника обжигающей проволокой.\nСовершите бросок атаки импульса по существу в пределах 15 футов.\nПри успехе цель получает 2d6 рубящего урона и на 1 минуту опутана расплавленной проволокой.\nОна <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжа 1</span> и получает 2d4 урона огнем с простым спасброском Рефлекса в начале каждого своего хода.\nКС <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> равняется вашему КС класса.\nПроволока имеет КБ 10 и 75 ОЗ.\nИмпульс заканчивается если существо Вырывается или проволока будет уничтожена.</p><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: Рубящий урон увеличивается на 1d6, урон огнем увеличивается на 1d4, а ОЗ проволоки на 25.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-molten-wire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поднимающий ураган (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4307\">Rising Hurricane</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Поднимающий ураган",
+            "originalName": "Rising Hurricane",
+            "level": 6,
+            "traits": [
+                "переполнение",
+                "составной",
+                "импульс",
+                "воздух",
+                "вода",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Ураган поднимает ваших врагов в воздух, после чего обрушивает их кровавым дождем.\nВаш ураган появляется в пределах 120 футов, в виде цилиндра высотой 40 футов и диаметром 30 футов.\nВсе существа в этой области получают 2d6 дробящего урона с простым спасброском Стойкости против вашего КС класса.\nПоднимите любое существо, провалившее спасбросок, на любую выбранную вами высоту в пределах области, при желании переместите его на 5 футов в любом направлении, а затем сбросьте.\nОно получает обычный <span class=\"card-link \">урон от падения</span>, если только не обладает Скоростью полета.</p><hr class=\"docutils\"><p><strong>Уровень (+3)</strong>: Урон от дождя увеличивается на 1d6, а высота цилиндра увеличивается на 5 футов.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-rising-hurricane",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бурлящий оползень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4308\">Roiling Mudslide</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Бурлящий оползень",
+            "originalName": "Roiling Mudslide",
+            "level": 6,
+            "traits": [
+                "составной",
+                "импульс",
+                "земля",
+                "вода",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Вы собираете воду и землю в оползень, который врезается в ваших противников и покрывает их грязью.\nКаждое существо в области получает 2d8 дробящего урона с простым спасброском Стойкости против вашего КС класса.\nПри провале существо еще отталкивается на 5 футов (или 10 футов при критическом провале) и покрыто грязью до конца своего следующего хода.\nПока существо покрыто грязью, оно падает <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> в конце своего передвижения всякий раз, когда завершает действие <span class=\"t-move\">движения</span>, не являющееся <span class=\"card-link std std-ref\" data-id=\"action-crawl\">Ползти (Crawl) </span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.\nСущество может совершить проверку Акробатики или спасбросок Рефлекса против КС вашего класса, и в случае успеха избежать падения.</p><hr class=\"docutils\"><p><strong>Уровень (+4)</strong>: Урон увеличивается на 1d8.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>Ждем эррату с параметрами области (TODO).</p>\n</div>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-kineticist-roiling-mudslide",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паровой рыцарь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4309\">Steam Knight</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Паровой рыцарь",
+            "originalName": "Steam Knight",
+            "level": 6,
+            "traits": [
+                "стойка",
+                "составной",
+                "импульс",
+                "огонь",
+                "вода",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Вы формируете свою кинетическую ауру в вихрящийся доспех из пара, который ошпаривает ваших врагов и двигает вас перегретыми струями.\nСущество может получить урон от \"Парового рыцаря\" только 1 раз в раунд.\nВаш паровой доспех обладает следующими эффектами.</p><ul class=\"simple\">\n<li><p>Вы получаете бонус состояния +10 футов к своей Скорости.</p></li>\n<li><p>Когда вы <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгаете (Leap)</span>, то можете прыгнуть вплоть до своей Скорости. Вы не падаете сразу же в конце прыжка, при условии, что снова Прыгнете следующим действием. Если вы Прыгаете через существо и проноситесь в 10 футах от него, то оно получает 2d6 урона огнем с простым спасброском Рефлекса против вашего КС класса.</p></li>\n<li><p>В начале каждого своего хода, вы можете выпустить пар свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">). Это наносит 2d6 урона огнем всем существам в вашей кинетической ауре, с простым спасброском Рефлекса против вашего КС класса. При провале существо еще отталкивается на 5 футов.</p></li>\n</ul><hr class=\"docutils\"><p><strong>Уровень (+5)</strong>: Урон огнем от прыжка или удара паром увеличивается на 1d6.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "одиночное действие",
+            "id": "class-feat-kineticist-steam-knight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Древо двойственности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4310\">Tree of Duality</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Древо двойственности",
+            "originalName": "Tree of Duality",
+            "level": 6,
+            "traits": [
+                "составной",
+                "импульс",
+                "воздух",
+                "дерево",
+                "природный",
+                "кинетик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Rage of Elements pg. 37</p><hr class=\"docutils\"><p>Эфемерное дерево распускается, паря в воздухе на незанятом квадрате по вашему выбору в пределах 60 футов.\nРаспускающиеся цветы и грибковые наросты выбрасывают пыльцу и споры, которые вихревым порывом воздуха разносятся в 10-футовой эманации вокруг него.\nДерево остается до конца вашего следующего хода, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> его вплоть до 1 минуты.</p><ul class=\"simple\">\n<li><p><strong>Очищающая пыльца (Cleansing Pollen)</strong> (<span class=\"t-healing\">исцеление</span>, <span class=\"t-vitality\">жизненность</span>): Каждый живой союзник в области или попадающий в нее, восстанавливает 3d4 ОЗ и затем временно иммунен к восстановлению ОЗ от \"Древа двойственности\" на 10 минут.</p></li>\n<li><p><strong>Галлюциногенные споры (Hallucinogenic Spores)</strong> (<span class=\"t-mental\">ментальный</span>): Враги в области <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплены</span>. Враг покидающий область остается <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> до начала своего следующего хода.</p></li>\n</ul><hr class=\"docutils\"><p><strong>Уровень (+2)</strong>: Исцеление увеличивается на 1d4.</p>",
+            "src": "Rage of Elements pg. 37",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-kineticist-tree-of-duality",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания барда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=179\">Bardic Lore</a>) / 1",
+            "name": "Знания барда",
+            "originalName": "Bardic Lore",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span></p><hr class=\"docutils\"><p>Ваше обучение делает вас знающим по каждой теме.\nВы обучены Знаниям барда (Bardic), особому навыку Знаний, который может быть использован только для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, но по любой теме.\nЕсли вы имеете легендарное мастерство Оккультизма, то становитесь экспертом Знаний барда, но вы не можете увеличить свой уровень мастерства этого навыка любыми другими способами.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-bardic-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Затяжная композиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=180\">Lingering Composition</a>) / 1",
+            "name": "Затяжная композиция",
+            "originalName": "Lingering Composition",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Добавляя росчерк, вы делаете ваши композиции дольше.\nВы изучаете заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-lingering-composition\">Затяжная композиция (Lingering Composition) / Фокус. 1</span>.\nУвеличьте запас Очков Фокусировки на 1.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>У ряда способностей было предварительное условие на наличие запаса очков фокусировки, что осложняло мультиклассирование.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-lingering-composition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Досягаемое заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=181\">Reach Spell (Bard)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Досягаемое заклинание",
+            "originalName": "Reach Spell",
+            "level": 1,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете увеличить дистанцию своих заклинаний.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, у которого есть дистанция, увеличьте дистанцию заклинания на 30 футов.\nКак обычно при увеличении дистанций заклинания, если оно имеет дистанцию касания, то вы увеличиваете его дистанцию до 30 футов.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-reach-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разностороннее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=182\">Versatile Performance</a>) / 1",
+            "name": "Разностороннее выступление",
+            "originalName": "Versatile Performance",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Эрудит (Polymath)</span></p><hr class=\"docutils\"><p>Вы можете положиться на ваши великолепные выступления, а не на обычные социальные навыки.\nВы можете использовать Выступление вместо Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> и вместо Запугивания, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>.\nЕще вы можете использовать актёрское Выступление вместо Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span>.\nВы можете использовать свой уровень мастерства Выступления, чтобы соответствовать требованиям способностей навыков, которые требуют определенного уровня мастерства Обмана, Дипломатии, или Запугивания.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-versatile-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гимн исцеления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1632\">Hymn of Healing</a>) / 1",
+            "name": "Гимн исцеления",
+            "originalName": "Hymn of Healing",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Вы изучаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-hymn-of-healing\">Гимн исцеления (Hymn of Healing) / Фокус. 1</span>, которое наполняет вашу музыку богатыми мелодиями и помогают вашим союзникам восстанавливаться от вреда.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-hymn-of-healing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевое выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1633\">Martial Performance</a>) / 1",
+            "name": "Боевое выступление",
+            "originalName": "Martial Performance",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Ваша муза научила вас, в отличие от большинства бардов, обращаться с более широким спектром оружия давая возможность без особых усилий сочетать свое мастерство в бою даже с самыми неэлегантными инструментами.\nВы становитесь обучены всему воинскому оружию.\nЕсли вы получаете особенность класса <span class=\"card-link \">Опыт с оружием барда (Bard Weapon Expertise) / 11-й</span>, то ваш уровень мастерства воинского оружия увеличивается до эксперта.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-martial-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сведущий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1634\">Well-Versed</a>) / 1",
+            "name": "Сведущий",
+            "originalName": "Well-Versed",
+            "level": 1,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Вы устойчивы к влиянию выступлений, которые не являются вашими собственными.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов с признаками <span class=\"t-auditory\">слуховой</span>, <span class=\"t-visual\">визуальный</span>, <span class=\"t-linguistic\">языковой</span>, <span class=\"t-illusion\">иллюзия</span> или <span class=\"t-sonic\">звук</span>.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-well-versed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширение чар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=183\">Cantrip Expansion (Bard)</a>) / 2",
+            "name": "Расширение чар",
+            "originalName": "Cantrip Expansion",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Учеба расширяет ваш диапазон простых заклинаний.\nДобавьте в свой репертуар 2 дополнительных чар из вашего списка заклинаний.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-cantrip-expansion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эзотерический эрудит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=184\">Esoteric Polymath</a>) / 2",
+            "name": "Эзотерический эрудит",
+            "originalName": "Esoteric Polymath",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Эрудит (Polymath)</span></p><hr class=\"docutils\"><p>Вы храните книгу оккультных заклинаний, подобную книге заклинаний волшебника, и можете использовать ее заклинания, чтобы дополнить свой репертуар заклинаний.\nБесплатно добавьте все заклинания из своего репертуара в эту книгу.\nВы можете использовать навык Оккультизм, чтобы <span class=\"card-link \">Выучить заклинание (Learn a Spell)</span> и добавлять их в свою книгу заклинаний, платя соответствующую стоимость, подобно волшебнику.</p><p>Во время своих ежедневных приготовлений, выберите 1 любое заклинание из своей книги оккультных заклинаний.\nЕсли оно уже есть в вашем репертуаре, то вы можете считать его как дополнительное коронное заклинание на этот день.\nЕсли его нет в вашем репертуаре заклинаний, то вы можете считать, что оно в нем есть до ваших следующих ежедневных приготовлений.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-esoteric-polymath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновить умения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=185\">Inspire Competence</a>) / 2",
+            "name": "Вдохновить умения",
+            "originalName": "Inspire Competence",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Вы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-competence\">Вдохновить умения (Inspire Competence) / Ф.чары 1</span>, которая помогает навыкам ваших союзников.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-inspire-competence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Этюд хранителя знаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=186\">Loremaster's Etude</a>) / 2",
+            "name": "Этюд хранителя знаний",
+            "originalName": "Loremaster's Etude",
+            "level": 2,
+            "traits": [
+                "удача",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span></p><hr class=\"docutils\"><p>Вы волшебным образом высвобождаете воспоминания, что позволяет их легче вспомнить.\nВы изучаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-loremasters-etude\">Этюд хранителя знаний (Loremaster's Etude) / Фокус. 1</span>.\nУвеличьте запас Очков Фокусировки на 1.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>У ряда способностей было предварительное условие на наличие запаса очков фокусировки, что осложняло мультиклассирование.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-loremasters-etude",
+            "archetype": ""
+        },
+        {
+            "fullName": "Многогранная муза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=187\">Multifarious Muse</a>) / 2",
+            "name": "Многогранная муза",
+            "originalName": "Multifarious Muse",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вашей музе чуждо навешивание ярлыков.\nВыберите вид музы отличный от вашей.\nВы получаете способность 1-го уровня, требующую наличия этой музы, и ваша муза теперь также является музой этого типа, что позволяет брать способность с другой музой в качестве предварительного условия.\nВы не получаете других эффектов от выбранной музы.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз.\nКаждый раз, когда вы так делаете, вы должны выбрать другой вид музы, отличный от вашей.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-multifarious-muse",
+            "archetype": ""
+        },
+        {
+            "fullName": "Направленная аудитория (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1635\">Directed Audience</a>) / 2",
+            "name": "Направленная аудитория",
+            "originalName": "Directed Audience",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Вы можете формировать область своих заклинаний-композиций.\nВсякий раз, когда вы колдуете заклинание-композицию, которое имеет область эманацию, вы можете изменить область заклинания на конус, размер которого на 10 футов больше, но максимум вплоть до удвоения изначальной области.\nНапример, вы можете модифицировать заклинание-композицию, которое затрагивает 30-футовую эманацию, на 40-футовый конус, но 5-футовая эманация может стать только 10-футовым конусом.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-directed-audience",
+            "archetype": ""
+        },
+        {
+            "fullName": "Песня силы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1636\">Song of Strength</a>) / 2",
+            "name": "Песня силы",
+            "originalName": "Song of Strength",
+            "level": 2,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Ваши выступления вселяют силу в ваших союзников.\nВы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-song-of-strength\">Песня силы (Song of Strength) / Ф.чары 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-song-of-strength",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновить на защиту (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=188\">Inspire Defense</a>) / 4",
+            "name": "Вдохновить на защиту",
+            "originalName": "Inspire Defense",
+            "level": 4,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Вы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-defense\">Вдохновить на защиту (Inspire Defense) / Ф.чары 2</span>, которая защищает вас и союзников.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-inspire-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мелодичное заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=189\">Melodious Spell</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Мелодичное заклинание",
+            "originalName": "Melodious Spell",
+            "level": 4,
+            "traits": [
+                "метамагия",
+                "воздействие",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы неуловимо вплетаете свое колдовство в выступление.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, совершите проверку Выступления против КС Восприятия всех наблюдателей.\nЕсли ваша проверка успешна против КС Восприятия наблюдателя, то он не замечает, что вы делаете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, однако, обычно заклинания имеют сенсорные проявления, которые сделали бы колдовство заметным для окружающих, а словесные, жестовые и материальные компоненты чрезвычайно очевидны.\nВы скрываете все эти части в виде обычного выступления.</p><p>Это скрывает только заклинательские действия и проявления, а не его эффекты, так что наблюдатель все равно может увидеть исходящий от вас луч, или увидеть, как вы растворяетесь в воздухе.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-melodious-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Трехдольный размер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=190\">Triple Time</a>) / 4",
+            "name": "Трехдольный размер",
+            "originalName": "Triple Time",
+            "level": 4,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-triple-time\">Трехдольный размер (Triple Time) / Ф.чары 2</span>, которая на 1 раунд ускоряет вас и окружающих союзников.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-triple-time",
+            "archetype": ""
+        },
+        {
+            "fullName": "Многогранная натура (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=191\">Versatile Signature</a>) / 4",
+            "name": "Многогранная натура",
+            "originalName": "Versatile Signature",
+            "level": 4,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Эрудит (Polymath)</span></p><hr class=\"docutils\"><p>В то время, как большинство бардов известны за определенные фирменные выступления и заклинания, вы всегда подстраиваете свой доступный репертуар.\nВо время ежедневных приготовлений, вы можете поменять 1 из своих коронных заклинаний на другое заклинание, такого же уровня имеющееся в репертуаре.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-versatile-signature",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевое чтение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1637\">Combat Reading</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Боевое чтение",
+            "originalName": "Combat Reading",
+            "level": 4,
+            "traits": [
+                "тайна",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Вы используете техники холодного чтения, чтения ауры и другие уловки используемые исполнителем, чтобы раскрыть сильные и слабые стороны вашего врага.\nМастер кидает для вас тайную проверку Оккультизма против КС Обмана или КС Скрытности врага (в зависимости от того, что выше) по вашему выбору, который ввязан в бой и не имеет относительно вас состояния <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> или <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружен</span>.\nМастер может применить штраф в зависимости от дистанции между вами и врагом.\nПотом враг временно иммунен для вашего \"Боевого чтения\" на 1 день.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Мастер выбирает 2 кусочка информации, которые рассказывает вам о враге: какая из слабостей самая большая, спасбросок с наименьшим модификатором, один имеющийся у врага иммунитет, или какое из сопротивлений наибольшее. В случае равенства параметров, Мастер должен выбрать один случайным образом.</div>\n<div class=\"line\"><strong>Успех</strong>: Мастер сообщает вам 1 пункт из информации о враге перечисленной выше</div>\n<div class=\"line\"><strong>Критический провал</strong>: Мастер дает вам ложную информацию (Мастер придумывает информацию)</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-combat-reading",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смелое наступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1638\">Courageous Advance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Смелое наступление",
+            "originalName": "Courageous Advance",
+            "level": 4,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "слуховой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>С помощью воодушевляющего призыва вы побуждаете союзника к наступлению.\nЕсли ваше следующее действие - сотворять чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>, один союзник, который получает бонус состояния от этого заклинания может мгновенно использовать реакцию, чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-courageous-advance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изучающий ритуалы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1639\">Ritual Researcher</a>) / 4",
+            "name": "Изучающий ритуалы",
+            "originalName": "Ritual Researcher",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "бард"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span>, эксперт Оккультизма</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 112</p><hr class=\"docutils\"><p>Тщательное изучение искусства ритуалов, помогло вам лучше их выполнять.\nВы получаете бонус обстоятельства +2 ко всем первичным и вторичным проверкам, которые вы делаете, как часть выполнения ритуала.</p>",
+            "src": "Advanced Player's Guide pg. 112",
+            "action": "",
+            "id": "class-feat-bard-ritual-researcher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойка Маскарада Сезонов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4044\">Masquerade of Seasons Stance (Bard)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Стойка Маскарада Сезонов",
+            "originalName": "Masquerade of Seasons Stance",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "стойка",
+                "бард"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы освоили первые шаги Маскарада Сезонов - танца, который пропитан силой весны, лета, зимы и осени.\nВыберите один из следующих признаков: <span class=\"t-water\">вода</span>, <span class=\"t-fire\">огонь</span>, <span class=\"t-negative\">негативный</span> или <span class=\"t-cold\">холод</span>.\nВы получаете сопротивление 5 к урону, наносимому эффектами с выбранным признаком.\nВы можете в любое время использовать действие, чтобы снова принять эту стойку, изменив предоставляемый ей тип сопротивления на любой другой из доступных вариантов.\nЕсли вы 12-го уровня или выше, предоставляемое стойкой сопротивление увеличивается и становится равным половине вашего уровня.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-masquerade-of-seasons-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Роковая панихида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=192\">Dirge of Doom</a>) / 6",
+            "name": "Роковая панихида",
+            "originalName": "Dirge of Doom",
+            "level": 6,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-dirge-of-doom\">Роковая панихида (Dirge of Doom) / Ф.чары 3</span> которая пугает ваших врагов.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-dirge-of-doom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гармонизация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=193\">Harmonize</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Гармонизация",
+            "originalName": "Harmonize",
+            "level": 6,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "воздействие",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Вы можете одновременно исполнять несколько композиций.\nЕсли ваше следующее действие - сотворение композиции, она становится гармонизированной композицией.\nВ отличие от обычной композиции, гармонизированная не заканчивается, если вы сотворяете другую композицию, и вы можете сотворять другую композицию в тот же ход, что и гармонизированную.\nСотворение другой гармонизированной композиции заканчивает любую гармонизированную композицию которая уже действует.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-harmonize",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойкое колдовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=194\">Steady Spellcasting (Bard)</a>) / 6",
+            "name": "Стойкое колдовство",
+            "originalName": "Steady Spellcasting",
+            "level": 6,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы не теряете заклинания так просто.\nЕсли реакция прервет ваше заклинательское действие, совершите чистую проверку с КС 15.\nВ случае успеха, ваше действие не прерывается.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-steady-spellcasting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гарантированное знание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1640\">Assured Knowledge</a>) / 6",
+            "name": "Гарантированное знание",
+            "originalName": "Assured Knowledge",
+            "level": 6,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Вы можете с уверенностью получать информацию.\nВсякий раз, когда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> с любым навыком (в том числе с <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-bardic-lore\">Знания барда (Bardic Lore) / 1</span>), вы можете не делать бросок а получить результат 10 + ваш бонус мастерства (не применяйте любые другие бонусы, штрафы или модификаторы).\nПока вы эксперт навыка, то соответствуете предварительным условиям для способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-automatic-knowledge\">Автоматическое знание (Automatic Knowledge) / 2</span> с этим навыком, даже если у вас нет <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span> для этого навыка.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "",
+            "id": "class-feat-bard-assured-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитная координация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1641\">Defensive Coordination</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Защитная координация",
+            "originalName": "Defensive Coordination",
+            "level": 6,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "слуховой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span>, <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-inspire-defense\">Вдохновить на защиту (Inspire Defense) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Подобно легендарным героям, которые стоят перед подавляющим большинством, вы и ваши союзники будете держать оборону.\nЕсли ваше следующее действие - сотворять чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-defense\">Вдохновить на защиту (Inspire Defense) / Ф.чары 2</span>, вы можете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>, и один союзник, который получает от этого заклинания бонус состояния, может мгновенно использовать реакцию, чтобы тоже <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-defensive-coordination",
+            "archetype": ""
+        },
+        {
+            "fullName": "Просвещение союзников (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1642\">Educate Allies</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Просвещение союзников",
+            "originalName": "Educate Allies",
+            "level": 6,
+            "traits": [
+                "преграждение",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-well-versed\">Сведущий (Well-Versed) / 1</span></p><p><strong>Триггер</strong>: Союзник, получающий преимущество от одного из ваших заклинаний-композиций, подвергается эффекту с признаком <span class=\"t-auditory\">слуховой</span>, <span class=\"t-visual\">визуальный</span>, <span class=\"t-linguistic\">языковой</span>, <span class=\"t-illusion\">иллюзия</span> или <span class=\"t-sonic\">звук</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Вы настраиваете свойства своего заклинания-композиции, чтобы передать немного своих защитных знаний.\nВсе союзники, на которых действует ваше заклинание-композиция, получают бонус обстоятельства +1 от <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-well-versed\">Сведущий (Well-Versed) / 1</span> до начала вашего следующего хода.\nЕще обучение ваших союзников усиливает свои собственные навыки; также ваш личный бонус обстоятельства от <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-well-versed\">Сведущий (Well-Versed) / 1</span> увеличивается до +2, до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "реакция",
+            "id": "class-feat-bard-educate-allies",
+            "archetype": ""
+        },
+        {
+            "fullName": "Походная песня (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1643\">Song of Marching</a>) / 6",
+            "name": "Походная песня",
+            "originalName": "Song of Marching",
+            "level": 6,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Вы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-song-of-marching\">Походная песня (Song of Marching) / Ф.чары 3</span>, что позволяет вам и вашим союзникам не напрягаясь преодолевать огромные расстояния.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "",
+            "id": "class-feat-bard-song-of-marching",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пируэт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4045\">Pirouette (Bard)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Пируэт",
+            "originalName": "Pirouette",
+            "level": 6,
+            "traits": [
+                "редкий",
+                "бард"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-masquerade-of-seasons-stance\">Стойка Маскарада Сезонов (Masquerade of Seasons Stance (Bard))  / 4</span></p><p><strong>Триггер</strong>: Враг целится в вас <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span></p><p><strong>Требования</strong>: Вы в Стойке Маскарада Сезонов</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы грациозно прокручиваетесь на одной ноге, чтобы уклониться от атаки противника.\nВы получаете бонус обстоятельства +2 к КБ против спровоцировавшей атаки.\nЕсли атака промахивается по вам, то вы сразу можете сделать <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.\nЕсли атака все равно попадает по вам, уменьшите наносимый ею урон на величину, равную половине вашего уровня; это снижение урона применяется после подсчета иммунитетов, сопротивлений и слабостей.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "реакция",
+            "id": "class-feat-bard-pirouette",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эклектический навык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=195\">Eclectic Skill</a>) / 8",
+            "name": "Эклектический навык",
+            "originalName": "Eclectic Skill",
+            "level": 8,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Эрудит (Polymath)</span>, мастер Оккультизма</p><hr class=\"docutils\"><p>Ваш обширный опыт преобразуется в ряд навыков.\nВаш бонус мастерства, в проверках для нетренированных навыков, равен вашему уровню.\nДаже если вы нетренированы, то можете совершить любую проверку навыка, которая обычно требует быть обученным.\nЕсли вы обладаете легендарным мастерством Оккультизма, даже если вы нетренированы или обучены, то можете совершить любую проверку навыка, которая обычно требует быть экспертом.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Перефразировано второе предложение. Чтобы походить на общую способность <span class=\"card-link std std-ref\" data-id=\"feat-untrained-improvisation\">Импровизация без тренировки (Untrained Improvisation) / 3</span> и избежать суммирования преимуществ.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-eclectic-skill",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновить на героизм (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=196\">Inspire Heroics</a>) / 8",
+            "name": "Вдохновить на героизм",
+            "originalName": "Inspire Heroics",
+            "level": 8,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Ваши выступления вдохновляют ваших союзников на еще более великие дела.\nВы обучаетесь метамагическому заклинанию фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-heroics\">Вдохновить на героизм (Inspire Heroics) / Фокус. 4</span>.\nУвеличьте количество Очков Фокусировки в своем запасе на 1.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>У ряда способностей было предварительное условие на наличие запаса очков фокусировки, что осложняло мультиклассирование.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-inspire-heroics",
+            "archetype": ""
+        },
+        {
+            "fullName": "Всезнайка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=197\">Know-It-All (Bard)</a>) / 8",
+            "name": "Всезнайка",
+            "originalName": "Know-It-All",
+            "level": 8,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span></p><hr class=\"docutils\"><p>Когда вы успешно проходите проверку Знаний, то получаете дополнительную информацию или контекст.\nНа усмотрение Мастера, когда вы критически преуспеваете в проверке знаний, вы можете получить даже больше дополнительной информации или контекста, чем обычно.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-know-it-all",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аккомпанировать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1644\">Accompany</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Аккомпанировать",
+            "originalName": "Accompany",
+            "level": 8,
+            "traits": [
+                "воздействие",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник в пределах 30 футов делает <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Вы используете свои выступления, чтобы дополнить заклинание союзника, обеспечивая магическую энергию для его заклинаний.\nСделайте проверку Выступления, используя очень трудный КС для уровня союзника (см. <span class=\"card-link \">Классы сложности (Difficulty Classes)</span>), и либо потратьте Очко Фокусировки (если спровоцировавшее заклинание - фокусное), либо израсходуйте слот заклинания хотя бы на 1 уровень выше, чем спровоцировавшее заклинание.\nЕсли вы успешно делаете проверку Выступления, то заклинание вашего союзника не стоит ему Очка Фокусировки или слота заклинания.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "реакция",
+            "id": "class-feat-bard-accompany",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посыл-ответ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1645\">Call and Response</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Посыл-ответ",
+            "originalName": "Call and Response",
+            "level": 8,
+            "traits": [
+                "метамагия",
+                "слуховой",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Ваша композиция принимает форму посыл-ответ, что позволяет вашим союзникам продолжать эффект без вас.\nЕсли ваше следующее действие - колдовать чары-композицию, длительность которых 1 раунд, то оно становится посылом.\nПока заклинание активно, один союзник, на которого воздействовало заклинание, может ответить на ваш посыл за одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), которое имеет признаки <span class=\"t-auditory\">слуховой</span> и <span class=\"t-concentrate\">концентрация</span>, чтобы продлить продолжительность заклинания на 1 раунд.\nТолько один союзник может ответить на данный посыл, и ответ на ответ союзника не имеет дополнительного эффекта.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-call-and-response",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смелая возможность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1646\">Courageous Opportunity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Смелая возможность",
+            "originalName": "Courageous Opportunity",
+            "level": 8,
+            "traits": [
+                "слуховой",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует <span class=\"t-auditory\">слуховой</span> эффект, действие с признаком <span class=\"t-manipulate\">воздействие</span>, или действие с признаком <span class=\"t-move\">движение</span>; совершает дистанционную атаку; или покидает квадрат во время своего действия движения</p><p><strong>Требования</strong>: Вы под действием <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Вы выкрикиваете свирепый призыв к нападению, вдохновляя себя наброситься на врага.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли атака - крит.попадание и триггер был действием с признаком <span class=\"t-manipulate\">воздействие</span>, то это действие прервано.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "реакция",
+            "id": "class-feat-bard-courageous-opportunity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Духовный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1647\">Soulsight (Bard)</a>) / 8",
+            "name": "Духовный взор",
+            "originalName": "Soulsight",
+            "level": 8,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Ваша муза, раскрыла ваши сенсорные чувства потустороннему миру.\nВы получаете духовное чувство, как неточное сенсорное чувство с дальностью 60 футов.\nДуховное чувство позволяет вам в пределах указанной дальности чувствовать духов существ, включая живых существ, большинство не-неразумной нежити и призраков (haunts).\nКак в случае с вашим слухом и другими неточными чувствами, вам все еще надо делать <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, чтобы найти необнаруженное существо.\nТак как духовное чувство обнаруживает духовную сущность, а не физические тела, оно может обнаруживать духов проецируемых заклинаниями, такими как <span class=\"card-link std std-ref\" data-id=\"spell-p-project-image\">Проецирование образа (Project Image) / Закл. 7</span> или одержимости бездушными объектами.\nОно не может обнаружить бездушные тела, конструктов или объекты, и как большинство чувств, оно не проникает сквозь сплошные объекты.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "",
+            "id": "class-feat-bard-soulsight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Великий танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4046\">Grand Dance (Bard)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Великий танец",
+            "originalName": "Grand Dance",
+            "level": 8,
+            "traits": [
+                "редкий",
+                "бард"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-masquerade-of-seasons-stance\">Стойка Маскарада Сезонов (Masquerade of Seasons Stance (Bard))  / 4</span></p><p><strong>Требования</strong>: Вы в Стойке Маскарада Сезонов</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы можете призвать всю магию великого танца Бопана.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> вплоть до своей Скорости; во время этого Перемещения вы можете ходить по воздуху, как если бы это была твердая земля.\nТаким образом, вы можете подниматься и спускаться под углом не более 45 градусов. Вы должны закончить свое Перемещение на поверхности, которая способна удержать вас, иначе вы упадете.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-bard-grand-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дом воображаемых стен (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=198\">House of Imaginary Walls</a>) / 10",
+            "name": "Дом воображаемых стен",
+            "originalName": "House of Imaginary Walls",
+            "level": 10,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы воздвигаете воображаемый барьер, который другие считают реальным.\nВы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-house-of-imaginary-walls\">Дом воображаемых стен (House of Imaginary Walls) / Ф.чары 5</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-house-of-imaginary-walls",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ускоренное колдовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=199\">Quickened Casting (Bard)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Ускоренное колдовство",
+            "originalName": "Quickened Casting",
+            "level": 10,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><hr class=\"docutils\"><p>Если ваше следующее действие - сотворять чары барда или заклинание барда, которое хотя бы на 2 уровня ниже, чем наивысший слот заклинания барда который вы можете творить, то снизьте количество действий для его сотворения на 1 (до минимум 1 действия).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Перефразировано для решения ситуаций, когда у вас есть чары или заклинания фокусировки, разных уровней заклинаний, отличных от наибольшего слота заклинаний.</p>\n</div>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "class-feat-bard-quickened-casting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Необычная композиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=200\">Unusual Composition</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Необычная композиция",
+            "originalName": "Unusual Composition",
+            "level": 10,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "воздействие",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Эрудит (Polymath)</span></p><hr class=\"docutils\"><p>Вы можете передать эмоции и силу композиции другими средствами.\nЕсли ваше следующее действие - сотворять заклинание-композицию, то можете использовать другой вид выступления, нежели обычно для этой композиции, чтобы изменить любой из ее жестовых компонентов на словесные, или наоборот.\nКак обычно, для заклинания-композиции, это изменяет является ли композиция слуховой или визуальной.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-unusual-composition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Записать композицию (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1648\">Annotate Composition</a>) / 10",
+            "name": "Записать композицию",
+            "originalName": "Annotate Composition",
+            "level": 10,
+            "traits": [
+                "исследование",
+                "языковой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 113</p><hr class=\"docutils\"><p>Помещая композицию на бумагу, вы можете создать источник волнующих слов или песню, которые другие могут прочитать и понять.\nВы тратите 10 минут и 1 Очко Фокусировки, чтобы перенести заклинание-композицию на особый свиток, который позднее можете активировать вы или другое существо.\nСотворение этого заклинания-композиции должно занимать одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">).\nЕсли выбранное заклинание-композиция требует сделать проверку Выступления, как часть колдовства, то Мастер делает эту проверку тайно, когда вы записываете свое произведение.\nЕсли у вас есть <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-heroics\">Вдохновить на героизм (Inspire Heroics) / Фокус. 4</span> или <span class=\"card-link std std-ref\" data-id=\"spell-focus-lingering-composition\">Затяжная композиция (Lingering Composition) / Фокус. 1</span> и выбранное заклинание-композиция позволяет, то вы еще можете использовать одно из этих заклинаний, чтобы изменить записываемую композицию, и Мастер делает тайную проверку Выступления.\nЕсли вы это делаете, то тратите дополнительное Очко Фокусировки, даже если тайная проверка проваливается.</p><p>Любое существо, которое может прочитать язык использованный вами для записи композиции, может <span class=\"card-link \">Активировать предмет (Activate an Item)</span> потратив одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), которое имеет признак <span class=\"t-concentrate\">концентрация</span>.\nЭто воспроизводит эффекты композиции, как если бы активирующее существо делало <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.</p><p>Композиция, создаваемая таким способом, теряет свою силу при ваших следующих дневных приготовлениях.\nПока композиция находится в вашем распоряжении, вы можете сделать ее инертной, используя одно действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), которое имеет признак <span class=\"t-concentrate\">концентрация</span>.\nВы не можете восстановить Очко Фокусировки, которое потратили на создание записи композиции, пока она не будет активирована или не потеряет свою магию.</p>",
+            "src": "Advanced Player's Guide pg. 113",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-annotate-composition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Храброе нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1649\">Courageous Assault</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Храброе нападение",
+            "originalName": "Courageous Assault",
+            "level": 10,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "слуховой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Могучим криком вы можете заставить союзника атаковать.\nЕсли ваше следующее действие - колдовать чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>, то один союзник, который получает бонус состояния от этого заклинания, может мгновенно использовать реакцию, чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-courageous-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ода Уроборосу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1650\">Ode to Ouroboros</a>) / 10",
+            "name": "Ода Уроборосу",
+            "originalName": "Ode to Ouroboros",
+            "level": 10,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Вы изучаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-ode-to-ouroboros\">Ода Уроборосу (Ode to Ouroboros) / Фокус. 5</span>, которое позволяет вам временно избавить своих союзников от смерти.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "",
+            "id": "class-feat-bard-ode-to-ouroboros",
+            "archetype": ""
+        },
+        {
+            "fullName": "Симфония раскрепощенного сердца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1651\">Symphony of the Unfettered Heart</a>) / 10",
+            "name": "Симфония раскрепощенного сердца",
+            "originalName": "Symphony of the Unfettered Heart",
+            "level": 10,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Вы изучаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-symphony-of-the-unfettered-heart\">Симфония раскрепощенного сердца (Symphony of the Unfettered Heart) / Фокус. 5</span>, которое позволяет вам защитить союзника от состояний недееспособности.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "",
+            "id": "class-feat-bard-symphony-of-the-unfettered-heart",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эклектический эрудит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=201\">Eclectic Polymath</a>) / 12",
+            "name": "Эклектический эрудит",
+            "originalName": "Eclectic Polymath",
+            "level": 12,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-esoteric-polymath\">Эзотерический эрудит (Esoteric Polymath) / 2</span></p><hr class=\"docutils\"><p>Ваш гибкий ум может быстро менять заклинания.\nЕсли вы добавляете заклинание в свой репертуар во время ежедневных приготовлений используя <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-esoteric-polymath\">Эзотерический эрудит (Esoteric Polymath) / 2</span>, то при повторной подготовке, можете оставить новое заклинание \"Эзотерического эрудита\" в репертуаре, и вместо этого потерять доступ к другому заклинанию, того же уровня из репертуара.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-eclectic-polymath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновляющее сосредоточение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=202\">Inspirational Focus</a>) / 12",
+            "name": "Вдохновляющее сосредоточение",
+            "originalName": "Inspirational Focus",
+            "level": 12,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша связь с музой дает вам необычную фокусировку.\nЕсли вы потратили хотя бы 2 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 2 Очка Фокусировки вместо 1.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-inspirational-focus",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания загадки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1652\">Enigma's Knowledge</a>) / 12",
+            "name": "Знания загадки",
+            "originalName": "Enigma's Knowledge",
+            "level": 12,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-assured-knowledge\">Гарантированное знание (Assured Knowledge) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>В нужное время ваша муза нашептывает вам знания.\nВы получаете преимущества способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-automatic-knowledge\">Автоматическое знание (Automatic Knowledge) / 2</span> с любым навыком, который вы можете использовать для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.\nКак указано в особенности способности \"Автоматическое знание\", вы все еще можете использовать его только раз в раунд.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "",
+            "id": "class-feat-bard-enigmas-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Реверберировать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1653\">Reverberate</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Реверберировать",
+            "originalName": "Reverberate",
+            "level": 12,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получите урон звуком от заклинания</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Вы можете манипулировать акустикой вокруг вас, чтобы отразить урон звуком обратно в его источник.\nСделайте проверку Выступления против КС заклинания существа, которое колдует спровоцировавшее заклинание.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы снижаете спровоцировавший урон на значение, вплоть до своего учетверенного уровня. Заклинатель получает урон звуком, в количестве, на которое вы таким образом снизили урон.</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но вы снижаете спровоцировавший урон на значение, вплоть до своего удвоенного уровня</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы неправильно направляете звуковые волны на себя, получая удвоенный спровоцировавший урон</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "реакция",
+            "id": "class-feat-bard-reverberate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Совместное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1654\">Shared Assault</a>) / 12",
+            "name": "Совместное нападение",
+            "originalName": "Shared Assault",
+            "level": 12,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-courageous-assault\">Храброе нападение (Courageous Assault)  / 10</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>В торжестве битвы вы можете разделить славу с другим союзником.\nКогда союзник, которого вы выбрали для <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-courageous-assault\">Храброе нападение (Courageous Assault)  / 10</span> крит.успешно попадает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> полученным от этого действия, другой союзник под действием ваших чар-композиции <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>, может мгновенно использовать реакцию, чтобы нанести <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nПоскольку 2-й союзник не был тем, которого вы выбрали для <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-courageous-assault\">Храброе нападение (Courageous Assault)  / 10</span>, этот эффект не продолжается на 3-го союзника, даже если 2-й союзник тоже крит.успешно попал своим Ударом.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "",
+            "id": "class-feat-bard-shared-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аллегро (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=203\">Allegro</a>) / 14",
+            "name": "Аллегро",
+            "originalName": "Allegro",
+            "level": 14,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете ускорить своих союзников при помощи быстрого выступления.\nВы изучаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-allegro\">Аллегро (Allegro) / Ф.чары 7</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-allegro",
+            "archetype": ""
+        },
+        {
+            "fullName": "Успокаивающая баллада (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=204\">Soothing Ballad</a>) / 14",
+            "name": "Успокаивающая баллада",
+            "originalName": "Soothing Ballad",
+            "level": 14,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы успокаиваете раны своих союзников силой вашего выступления.\nВы изучаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-soothing-ballad\">Успокаивающая баллада (Soothing Ballad) / Фокус. 7</span>.\nУвеличьте количество Очков Фокусировки в своем запасе на 1.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>У ряда способностей было предварительное условие на наличие запаса очков фокусировки, что осложняло мультиклассирование.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-soothing-ballad",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истинная гиперкогнитивность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=205\">True Hypercognition</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Истинная гиперкогнитивность",
+            "originalName": "True Hypercognition",
+            "level": 14,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span></p><hr class=\"docutils\"><p>Ваш разум работает с невероятной скоростью.\nВы мгновенно используете вплоть до 5 действий <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.\nЕсли у вас есть любые специальные умения или свободные действия, которые обычно могут быть спровоцированны вашим использованием <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, то вы не можете использовать их с этими действиями.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-true-hypercognition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приставучая мелодия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1655\">Earworm</a>) / 14",
+            "name": "Приставучая мелодия",
+            "originalName": "Earworm",
+            "level": 14,
+            "traits": [
+                "исследование",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Бесконечно повторяя мотив, вы заражаете союзников навязчивой песней, которая снова и снова повторяется в их головах, подготавливая их к ответу на нее позже.\nВыберите чары-композицию и потратьте 10 минут повторяя мелодию, напев, речь, последовательность движений или подобное выступление, которое эти чары воплощают.\nЭта активность получает признаки соответствующие виду выступления.\nВы заражаете приставучей мелодией всех союзников, которые могут видеть или слышать вас (в зависимости от вида выступления), в течение всей активности.</p><p>Как только вы создали навязчивую мелодию, то можете активировать ее, сделав проверку Выступления за свободное действие (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">).\nЭта проверка использует очень трудный КС цели наибольшего уровня, которая заучила приставучую мелодию, присутствующей в момент активации (см. <span class=\"card-link \">Классы сложности (Difficulty Classes)</span>).\nПри успехе, вы сотворяете эти чары на всех союзников, которые выучили приставучую мелодию и могут воспринимать ваше выступление; при провале, приставучая мелодия испорчена и пропадает.\nТак как это основано на предварительной репетиции, вы не можете использовать дальнейшие свободные действия, такие как <span class=\"card-link std std-ref\" data-id=\"spell-focus-lingering-composition\">Затяжная композиция (Lingering Composition) / Фокус. 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-heroics\">Вдохновить на героизм (Inspire Heroics) / Фокус. 4</span>, чтобы модифицировать активированную мелодию.\nСоюзники забывают навязчивую песенку после того как она активирована, если вы тратите 10 минут, чтобы заразить их другой навязчивой песней, или во время ваших следующих ежедневных приготовлений, в зависимости от того, что произойдет раньше.</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "свободное действие",
+            "id": "class-feat-bard-earworm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Триумфальное вдохновение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1656\">Triumphant Inspiration</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Триумфальное вдохновение",
+            "originalName": "Triumphant Inspiration",
+            "level": 14,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Воин (Warrior)</span></p><p><strong>Триггер</strong>: Вы критически попадаете по врагу с помощью <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя или безоружной атакой ближнего боя</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 114</p><hr class=\"docutils\"><p>Вы вдохновляете своих союзников победным криком.\nВы сотворяете известные вам чары-композицию, которые обычно сотворяются за 1 действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">).</p>",
+            "src": "Advanced Player's Guide pg. 114",
+            "action": "свободное действие",
+            "id": "class-feat-bard-triumphant-inspiration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Энергичное вдохновение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1657\">Vigorous Inspiration</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Энергичное вдохновение",
+            "originalName": "Vigorous Inspiration",
+            "level": 14,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "слуховой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 115</p><hr class=\"docutils\"><p>Когда вдохновляете союзников на атаку, вы вселяете в них магическую энергию.\nЕсли ваше следующее действие - сотворять чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>, вы и все союзники по действием получаете временные ОЗ в количестве 3 + ваш модификатор Харизмы, которые длятся 1 минуту.</p>",
+            "src": "Advanced Player's Guide pg. 115",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-vigorous-inspiration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непринужденная концентрация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=206\">Effortless Concentration (Bard)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Непринужденная концентрация",
+            "originalName": "Effortless Concentration",
+            "level": 16,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Начинается ваш ход</p><hr class=\"docutils\"><p>Вы можете поддерживать заклинание едва подумав об этом.\nВы мгновенно получаете эффекты действия <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддержание заклинания (Sustain a Spell) </span>, что позволяет вам продлить длительность одного из ваших активных заклинаний барда.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изначально, у способности было указано \"Требование: Вы еще не действовали в свой ход\", что отличалось от аналогичных способностей других заклинателей.</p>\n</div>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "class-feat-bard-effortless-concentration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изумительная вместимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=207\">Studious Capacity</a>) / 16",
+            "name": "Изумительная вместимость",
+            "originalName": "Studious Capacity",
+            "level": 16,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span>, легенда Оккультизма</p><hr class=\"docutils\"><p>Ваше дальнейшее изучение оккультной магии увеличило ваши магические способности, позволяя вам сотворять заклинания даже тогда, когда это кажется невозможным.\nКаждый день, вы можете сотворять одно заклинание даже после того, как у вас закончились слоты заклинаний подходящего уровня, но вы не можете использовать эту способность, чтобы сотворять заклинание вашего наибольшего уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-studious-capacity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Храбрый натиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1658\">Courageous Onslaught</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Храбрый натиск",
+            "originalName": "Courageous Onslaught",
+            "level": 16,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "слуховой",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-courageous-advance\">Смелое наступление (Courageous Advance)  / 4</span>, <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-courageous-assault\">Храброе нападение (Courageous Assault)  / 10</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 115</p><hr class=\"docutils\"><p>Вы используете свое выступление, чтобы организовать нападение на ваших врагов.\nЕсли ваше следующее действие - сотворять чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>, то один союзник, который получает бонус состояния от заклинания, может мгновенно использовать реакцию, чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> и потом <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.</p>",
+            "src": "Advanced Player's Guide pg. 115",
+            "action": "одиночное действие",
+            "id": "class-feat-bard-courageous-onslaught",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оглушительный финал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1659\">Resounding Finale</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Оглушительный финал",
+            "originalName": "Resounding Finale",
+            "level": 16,
+            "traits": [
+                "преграждение",
+                "концентрация",
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><p><strong>Триггер</strong>: Вы или союзник получите звуковой урон, получая преимущество от заклинания-композиции</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 115</p><hr class=\"docutils\"><p>Вы доводите свое выступление до внезапного, драматического конца, заглушая другие звуки.\nВаше заклинание-композиция мгновенно заканчивается, и все союзники, которые получали преимущества от его эффектов, получают сопротивление звуку против спровоцировавшего урона, равное удвоенному уровню заклинания-композиции.</p>",
+            "src": "Advanced Player's Guide pg. 115",
+            "action": "реакция",
+            "id": "class-feat-bard-resounding-finale",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глубокие знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=208\">Deep Lore</a>) / 18",
+            "name": "Глубокие знания",
+            "originalName": "Deep Lore",
+            "level": 18,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Загадка (Enigma)</span>, легенда Оккультизма</p><hr class=\"docutils\"><p>Ваш репертуар огромен и содержит намного больше заклинаний, чем обычно.\nДобавьте одно заклинание к вашему репертуару на каждый уровень, который вы можете колдовать.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-deep-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечная композиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=209\">Eternal Composition</a>) / 18",
+            "name": "Вечная композиция",
+            "originalName": "Eternal Composition",
+            "level": 18,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: муза <span class=\"card-link \">Маэстро (Maestro)</span></p><hr class=\"docutils\"><p>Мир - это сцена, на которой вы всегда играете.\nВы постоянно ускорены; вы можете использовать это дополнительное действие только чтобы сотворять чары-композицию, которая требует 1 действие.\nВо время режима исследования вы можете объявить, что исполняете подходящую чары-композицию используя тактику исследования.\nДаже до вашего первого хода в боевом столкновении, эти чары активны, как если бы вы колдовали их в ваш прошлый ход.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-eternal-composition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невозможный эрудит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=210\">Impossible Polymath</a>) / 18",
+            "name": "Невозможный эрудит",
+            "originalName": "Impossible Polymath",
+            "level": 18,
+            "traits": [
+                "бард"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане, Природе или Религии; <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-esoteric-polymath\">Эзотерический эрудит (Esoteric Polymath) / 2</span></p><hr class=\"docutils\"><p>Ваши эзотерические формулы настолько необычны, что позволяют вам заниматься магией из различных обычаев, которые другие барды не понимают.\nПока вы обучены Аркане, вы можете добавить арканные заклинания в вашу книгу от <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-esoteric-polymath\">Эзотерический эрудит (Esoteric Polymath) / 2</span>;\nпока вы обучены Природе, вы можете добавить природные заклинания в вашу книгу;\nпока вы обучены Религии, вы можете добавить сакральные заклинания в вашу книгу.</p><p>Как и свои другие заклинания в книге, вы каждый день можете добавлять 1 из этих заклинаний из другого обычая в свой репертуар как оккультное заклинание используя <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-esoteric-polymath\">Эзотерический эрудит (Esoteric Polymath) / 2</span>, но вы не можете оставить любое заклинание из другого обычая когда повторно подготавливаетесь, даже если у вас есть <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-eclectic-polymath\">Эклектический эрудит (Eclectic Polymath) / 12</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-bard-impossible-polymath",
+            "archetype": ""
+        }
+    ]
+}

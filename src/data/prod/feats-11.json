@@ -1,0 +1,1563 @@
+{
+    "feats": [
+        {
+            "fullName": "Сильное усиления яда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4036\">Greater Enhance Venom</a>) / 17",
+            "name": "Сильное усиления яда",
+            "originalName": "Greater Enhance Venom",
+            "level": 17,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-moderate-enhance-venom\">Среднее усиление яда (Moderate Enhance Venom) / 9</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 63</p><hr class=\"docutils\"><p>Вы улучшаете яд вишканьи, который можете применить с помощью <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>, до сильного яда вишканьи.\nЧастота применения Отравления становится раз в минуту.</p><p><strong>Сильный яд вишканьи (Greater Vishkanyan Venom)</strong> (уровень 17)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Спасбросок</strong>: Стойкость</div>\n<div class=\"line\"><strong>Макс.продолжительность</strong>: 6 раундов</div>\n<div class=\"line\"><strong>Стадия 1</strong>: 7d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 2</strong>: 9d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 3</strong>: 11d6 урона ядом (1 раунд)</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 63",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-greater-enhance-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Беспощадный яд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4037\">Vicious Venom</a>) / 17",
+            "name": "Беспощадный яд",
+            "originalName": "Vicious Venom",
+            "level": 17,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 63</p><hr class=\"docutils\"><p>Вырабатываемый вами яд исключительно силен, и его трудно побороть.\nВаш яд вишканьи получает признак <span class=\"t-virulent\">вирулентный</span>, и для снижения стадии этого яда на 1 требуется два последовательных успешных спасброска.\nКритический успех снижает стадию вашего яда не на 2, а только на 1.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 63",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-vicious-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ангельский (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1348\">Angelkin</a>) / 1",
+            "name": "Ангельский",
+            "originalName": "Angelkin",
+            "level": 1,
+            "traits": [
+                "род",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Вы происходите от ангела, крылатого посланника Нирваны или другого небесного царства, что дает вам способность к культурам и языкам.\nВы становитесь обучены Обществу.\nЕсли вы автоматически станете обучены Обществу (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы знаете Небесный язык и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-multilingual\">Многоязычный (Multilingual) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-aasimar-angelkin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Законодатель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1352\">Lawbringer</a>) / 1",
+            "name": "Законодатель",
+            "originalName": "Lawbringer",
+            "level": 1,
+            "traits": [
+                "род",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Вы ведете свой род от архонтов: воплощений небесных добродетелей, хранителей семи-ступенчатой горы Небес и хранителей закона и добродетели среди смертных.\nВаша собственная добродетель и упорядоченный ум защищают вас от врагов, которые могут обратить ваши эмоции против вас.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов эмоций и если при броске против такого эффекта вы получаете успех, то вместо этого он становится критическим успехом.</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-aasimar-lawbringer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дитя музы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1353\">Musetouched</a>) / 1",
+            "name": "Дитя музы",
+            "originalName": "Musetouched",
+            "level": 1,
+            "traits": [
+                "род",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Ваша кровь поет с освобождающей силой азат, живых воплощений свободы, из дикого царства Элизиума.\nВы получаете бонус обстоятельства +1 к <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>.\nКогда при броске проверки <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> вы получаете крит.провал, то вместо этого получаете обычный провал, а если при броске получаете успех, то вместо этого он становится крит.успехом.</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-aasimar-musetouched",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тлеющий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2283\">Emberkin</a>) / 1",
+            "name": "Тлеющий",
+            "originalName": "Emberkin",
+            "level": 1,
+            "traits": [
+                "род",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 9</p><hr class=\"docutils\"><p>Ревущий дух пери горит в вашей душе.\nПери ведут постоянную борьбу, чтобы исправить ошибки своих падших предков, и эта борьба передалась вам.\nУ вас есть прямое стремление исправлять ошибки и улучшать мир.\nВы получаете бонус обстоятельства +1 к спасброскам от эффектов с признаком <span class=\"t-fire\">огонь</span>, и на ваше восприятие не влияют немагическое пламя, туман и дым.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 9",
+            "action": "",
+            "id": "ancestry-feat-aasimar-emberkin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оперенный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2285\">Plumekith</a>) / 1",
+            "name": "Оперенный",
+            "originalName": "Plumekith",
+            "level": 1,
+            "traits": [
+                "род",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 9</p><hr class=\"docutils\"><p>В вашей крови витает сила великолепных <span class=\"card-link \">гаруд</span>, гордых и стойких птичьих воинов.\nВы получаете только половину обычного урона от падения, и получаете бонус обстоятельства +2 к спасброскам против эффектов с признаком <span class=\"t-air\">воздух</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 9",
+            "action": "",
+            "id": "ancestry-feat-aasimar-plumekith",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесные глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1349\">Celestial Eyes</a>) / 1",
+            "name": "Небесные глаза",
+            "originalName": "Celestial Eyes",
+            "level": 1,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Вы можете видеть в темноте.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-aasimar-celestial-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесные знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1350\">Celestial Lore</a>) / 1",
+            "name": "Небесные знания",
+            "originalName": "Celestial Lore",
+            "level": 1,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Вы выросли с аазимаром или небесным родственником, либо вы посвятили себя исследованию секретов небесных царств.\nВы становитесь обучены Дипломатии и Религии.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nВы так же становитесь обучены Знаниям связанным с небесным царством от которого происходит ваш род (обычно Знания Элизиума, Небесные знания или Знания Нирваны).</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "",
+            "id": "ancestry-feat-aasimar-celestial-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нимб (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1351\">Halo</a>) / 1",
+            "name": "Нимб",
+            "originalName": "Halo",
+            "level": 1,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 35</p><hr class=\"docutils\"><p>Вы всегда окружены ореолом света и добра.\nВаш нимб дает свет с эффектами сакральных чар <span class=\"card-link std std-ref\" data-id=\"spell-l-light\">Свет (Light) / Чары 1</span>.\nЧары усиливаются до уровня, равного половине вашего уровня, округленного в большую сторону.\nВы можете убрать или восстановить нимб одиночным действием (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), которое получает признак <span class=\"t-concentrate\">концентрация</span>.</p>",
+            "src": "Advanced Player's Guide pg. 35",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-aasimar-halo",
+            "archetype": ""
+        },
+        {
+            "fullName": "Благословенная кровь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1354\">Blessed Blood</a>) / 5",
+            "name": "Благословенная кровь",
+            "originalName": "Blessed Blood",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваша свежепролитая кровь освящена, и ее употребление вызывает эффекты, подобные действию <span class=\"card-link \">святой воды</span>.\nВсякий раз, когда бес, нежить или существо со слабостью к урону добром, пьет вашу кровь или наносит вам колющий или рубящий урон с помощью челюстей, клыков или подобных атак, это существо получает 1d6 урона добром.\nВы получаете бонус обстоятельства +4 к проверкам Ремесла, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> <span class=\"card-link \">Святая вода (Holy Water) / Предмет 1</span> используя свою кровь как один из ингредиентов.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-blessed-blood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесное сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1355\">Celestial Resistance</a>) / 5",
+            "name": "Небесное сопротивление",
+            "originalName": "Celestial Resistance",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваша растущая связь со своими небесными предками также дала вам одно из их сопротивлений.\nВыберите один из следующих типов энергетического урона: кислота, холод, электричество, огонь или звук.\nВы получаете сопротивление 5 этому типу урона.</p><p>Хоть вы и можете выбрать любой из этих типов энергетического урона, обычно он соответствует небожителю связанному с вашим родом.\nНапример, ангельский аазимар с предком <span class=\"card-link \">кассисианом</span> может выбрать сопротивление холоду или огню, сопротивление огню с предком <span class=\"card-link \">балиссом</span>, или сопротивление звуку с предком <span class=\"card-link \">хоровым ангелом</span>.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-celestial-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неземное благословение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1356\">Empyreal Blessing</a>) / 5",
+            "name": "Неземное благословение",
+            "originalName": "Empyreal Blessing",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Вы можете ниспослать благословение на своих союзников, молитесь ли вы божеству небесных царств или просто находите силу внутри себя.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-bless\">Благословение (Bless) / Закл. 1-го</span>, как врожденное сакральное заклинание 1-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-empyreal-blessing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шквал гаруды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2286\">Garuda's Squall</a>) / 5",
+            "name": "Шквал гаруды",
+            "originalName": "Garuda's Squall",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-plumekith\">Оперенный (Plumekith) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Меткость и магия <span class=\"card-link \">гаруды</span> - ваша вторая натура.\nКаждый раз, когда вы совершаете критическое попадание из лука, вы применяете эффект критической специализации оружия.</p><p><strong>Заметка</strong>: Изначально у способности есть признак <span class=\"t-lineage\">род</span>.\nСогласно его описанию, он должен отсутствовать у этой способности, так как их можно брать только на 1-м уровне, и можно иметь только 1 способность с таким признаком (а у нее есть предварительное условие на наличие другой \"родовой\" способности).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-garudas-squall",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нимб целителя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2287\">Healer's Halo</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Нимб целителя",
+            "originalName": "Healer's Halo",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-halo\">Нимб (Halo) / 1</span></p><p><strong>Триггер</strong>: Вы или союзники в пределах 30 футов восстанавливаете ОЗ пока активен нимб</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Ваш нимб может усиливать позитивную энергию.\nСущества, восстановившие ОЗ от позитивного исцеляющего эффекта, восстанавливают дополнительные 1d6 ОЗ.\nСущества, которые получают преимущество от этой силы, становятся временно иммунны к этому эффекту на следующие 10 минут.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "реакция",
+            "id": "ancestry-feat-aasimar-healers-halo",
+            "archetype": ""
+        },
+        {
+            "fullName": "Спокойное убежище (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2288\">Tranquil Sanctuary</a>) / 5",
+            "name": "Спокойное убежище",
+            "originalName": "Tranquil Sanctuary",
+            "level": 5,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Идиллический (Idyllkin) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>По возможности вы следуете пути безмятежности и поощряете других делать то же самое.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-sanctuary\">Убежище (Sanctuary) / Закл. 1</span> как врожденное сакральное заклинание 1-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-tranquil-sanctuary",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ангельская магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1357\">Angelic Magic</a>) / 9",
+            "name": "Ангельская магия",
+            "originalName": "Angelic Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-angelkin\">Ангельский (Angelkin) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Вы можете использовать магию ангелов, которая течет в вашей крови.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-r-remove-fear\">Избавление от страха (Remove Fear) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-angelic-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия архонта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1358\">Archon Magic</a>) / 9",
+            "name": "Магия архонта",
+            "originalName": "Archon Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-lawbringer\">Законодатель (Lawbringer) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Вы можете использовать небесную магию, которая принадлежит вам по праву рождения.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-c-continual-flame\">Вечное пламя (Continual Flame) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-shield-other\">Защищать другого (Shield Other) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-archon-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия азаты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1359\">Azata Magic</a>) / 9",
+            "name": "Магия азаты",
+            "originalName": "Azata Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-musetouched\">Дитя музы (Musetouched) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваша родословная восходит к царству Элизиум, и с помощью этой связи вы можете использовать его магию.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-r-remove-paralysis\">Избавление от паралича (Remove Paralysis) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-azata-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1360\">Celestial Wings</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Небесные крылья",
+            "originalName": "Celestial Wings",
+            "level": 9,
+            "traits": [
+                "сакральный",
+                "трансмутация",
+                "трансформация",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Приложив усилие, вы можете вызвать из своей спины магические крылья, похожие по внешнему виду на крылья ваших небесных предков.\nЭти крылья остаются на 10 минут.\nПока крылья открыты, вы получаете Скорость полета, равную вашей Скорости.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-aasimar-celestial-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Божественная контрмера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1361\">Divine Countermeasures</a>) / 9",
+            "name": "Божественная контрмера",
+            "originalName": "Divine Countermeasures",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Вы изучили свое небесное наследие с намерением лучше защитить себя, и вы обнаружили, что ваши методы одинаково сильны против <span class=\"t-celestial\">небожителей</span>, <span class=\"t-fiend\">бесов</span> и других божественных сущностей.\nВы получаете бонус обстоятельства +1 ко всем спасброскам против <span class=\"t-divine\">сакральных</span> эффектов.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-divine-countermeasures",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия агатионов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2289\">Agathion Magic</a>) / 9",
+            "name": "Магия агатионов",
+            "originalName": "Agathion Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Идиллический (Idyllkin) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Сквозь вас течет гармоничная магия Нирваны.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-agathion-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов Элизиума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2290\">Call of Elysium</a>) / 9",
+            "name": "Зов Элизиума",
+            "originalName": "Call of Elysium",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-musetouched\">Дитя музы (Musetouched) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Внутри вас гармонирует дикое чудо Элизиума, и в тяжелом положении вы можете поделиться его преимуществами со своими союзниками.\nВаша Скорость увеличивается на 5 футов;\nувеличение Скорости от этой способности не складывается с любым увеличением Скорости от ваших способностей родословной (например, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-nimble-elf\">Проворный эльф (Nimble Elf) / 1</span>).\nСоюзники, начинающие свой ход в бою рядом с вами, получают на этот раунд бонус состояния +5 футов к своей Скорости.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-call-of-elysium",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия гаруд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2291\">Garuda Magic</a>) / 9",
+            "name": "Магия гаруд",
+            "originalName": "Garuda Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-plumekith\">Оперенный (Plumekith) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Вы произошли от удивительных <span class=\"card-link \">гаруд</span>, и их острые чувства проявляются в вашей магическом мастерстве.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-garuda-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия пери (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2292\">Peri Magic</a>) / 9",
+            "name": "Магия пери",
+            "originalName": "Peri Magic",
+            "level": 9,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-emberkin\">Тлеющий (Emberkin) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 10</p><hr class=\"docutils\"><p>Мерцающие угольки праведных пери потрескивают на кончиках ваших пальцев.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-status\">Состояние (Status) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 10",
+            "action": "",
+            "id": "ancestry-feat-aasimar-peri-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Милосердие аазимара (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1362\">Aasimar's Mercy</a>) / 13",
+            "name": "Милосердие аазимара",
+            "originalName": "Aasimar's Mercy",
+            "level": 13,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваши небесные силы позволяют вам с легкостью убирать несильные недуги.\nКаждый день, вы можете колдовать 2 врожденных сакральных заклинания 4-го уровня.\nКаждый раз, когда колдуете, вы можете выбрать из следующих заклинаний:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-r-remove-curse\">Снятие проклятия (Remove Curse) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-r-remove-disease\">Исцеление болезни (Remove Disease) / Закл. 3</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-n-neutralize-poison\">Нейтрализация яда (Neutralize Poison) / Закл. 3</span></p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-aasimars-mercy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесные удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1363\">Celestial Strikes</a>) / 13",
+            "name": "Небесные удары",
+            "originalName": "Celestial Strikes",
+            "level": 13,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваша связь с добром заряжает все ваши атаки против сил зла.\nВсе ваше оружие и безоружные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> наносят 1 дополнительного урона добром и имеют признаки <span class=\"t-good\">добро</span> и <span class=\"t-magical\">магический</span>.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-celestial-strikes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв небесного родственника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1364\">Summon Celestial Kin</a>) / 13",
+            "name": "Призыв небесного родственника",
+            "originalName": "Summon Celestial Kin",
+            "level": 13,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: любая способность аазимара с признаком \"род\"</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>У вас есть связь с небесным царством, позволяющая вам призывать небесного союзника.\nРаз в день, вы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-celestial\">Призыв небожителя (Summon Celestial) / Закл. 5</span> как врожденное сакральное заклинание 5-го уровня, но призванный небожитель должен быть из той же категории, что и ваш род, как например если вы <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-angelkin\">Ангельский (Angelkin) / 1</span> аазимар, то это существо с признаком <span class=\"t-angel\">ангел</span>.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-summon-celestial-kin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Принудительный порядок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2293\">Enforced Order</a>) / 13",
+            "name": "Принудительный порядок",
+            "originalName": "Enforced Order",
+            "level": 13,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-lawbringer\">Законодатель (Lawbringer) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 11</p><hr class=\"docutils\"><p>Вы никогда не упускаете возможность сразить бесконечно расширяющийся хаос.\nВсе ваше оружие и безоружные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> наносят 1 дополнительного принципиального урона и обладают признаками <span class=\"t-magical\">магический</span> и <span class=\"t-lawful\">принципиальный</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-aasimar-enforced-order",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пламенный прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2294\">Flame Jump</a>) / 13",
+            "name": "Пламенный прыжок",
+            "originalName": "Flame Jump",
+            "level": 13,
+            "traits": [
+                "исследование",
+                "сакральный",
+                "телепортация",
+                "огонь",
+                "воздействие",
+                "концентрация",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-emberkin\">Тлеющий (Emberkin) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 11</p><hr class=\"docutils\"><p>Ваша родословная пери раскрыла ваш разум чистой, очищающей сущности огня.\nВы можете потратить 1 минуту на сосредоточенную подготовку, потом войти в огонь своего или бо́льшего размера, чтобы мгновенно телепортироваться в любой огонь вашего или бо́льшего размера на расстоянии вплоть до 5 миль.\nПри использовании этого умения, вы не получаете урон от вхождения в огонь или при выходе из него.\nВойдя в огонь, вы мгновенно знаете примерные местоположения других больших огней в пределах указанного расстояния, и если хотите, то можете выйти из изначального огня.\nВы не можете переносить с собой во время телепортации межпространственные карманы; если вы пытаетесь это сделать, то активность проваливается.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-aasimar-flame-jump",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очищение грехов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2295\">Purge Sins</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Очищение грехов",
+            "originalName": "Purge Sins",
+            "level": 13,
+            "traits": [
+                "исцеление",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 11</p><hr class=\"docutils\"><p>Вы взываете к своим небесным предкам избавить свое тело от всех токсинов и нечистот.\nСовершите отдельную проверку Религии для противодействия каждой действующей на вас болезни или яду.\nКак обычно, ваш уровень противодействия равен половине вашего уровня, округленного до большего целого.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOAG-2: </span>Добавлен признак <span class=\"t-healing\">исцеление</span>.</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 11",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-aasimar-purge-sins",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истинная речь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2296\">Truespeech</a>) / 13",
+            "name": "Истинная речь",
+            "originalName": "Truespeech",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "аазимар"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-angelkin\">Ангельский (Angelkin) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 11</p><hr class=\"docutils\"><p>Крайне важно, чтобы понимали вас и вы понимали других; язык не должен мешать тому, что вы пытаетесь сообщить.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-t-tongues\">Языки (Tongues) / Закл. 5</span>, как врожденное сакральное заклинание 5-го уровня, только на себя.\nНа время действия этого заклинания, вы получаете бонус состояния +1 к проверкам Дипломатии когда говорите с существами, с которыми уже имеете общий язык до момента наложения заклинания.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-aasimar-truespeech",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небесные слова (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1365\">Celestial Word</a>) / 17",
+            "name": "Небесные слова",
+            "originalName": "Celestial Word",
+            "level": 17,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Вы можете призвать святое слово из небесных царств, чтобы наказать своих врагов.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-divine-decree\">Божественный указ (Divine Decree) / Закл. 7</span> как врожденное сакральное заклинание 7-го уровня.\nДля мировоззрения заклинания вы должны выбрать \"добро\", и можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> независимо от того поклоняетесь ли вы божеству, или того какое их мировоззрение.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-celestial-word",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1366\">Eternal Wings (Aasimar)</a>) / 17",
+            "name": "Вечные крылья",
+            "originalName": "Eternal Wings",
+            "level": 17,
+            "traits": [
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-celestial-wings\">Небесные крылья (Celestial Wings)  / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 36</p><hr class=\"docutils\"><p>Ваши крылья теперь постоянная часть вашего тела.\nВы навсегда получаете эффекты <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aasimar-celestial-wings\">Небесные крылья (Celestial Wings)  / 9</span>, а не только на 10 минут раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 36",
+            "action": "",
+            "id": "ancestry-feat-aasimar-eternal-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Излучение великолепия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2297\">Radiate Glory</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Излучение великолепия",
+            "originalName": "Radiate Glory",
+            "level": 17,
+            "traits": [
+                "сакральный",
+                "эвокация",
+                "свет",
+                "визуальный",
+                "аазимар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 11</p><hr class=\"docutils\"><p>Ваша прирожденное великолепие излучается в мир всей божественной силой небесных планов в течение 1 минуты.\nЛюбое существо, которое может видеть вас, пока вы \"Излучаете великолепие\", должно совершить спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что выше.\nЗатем существо становится временно иммунно к этому эффекту на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Для существа вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> сияющим светом на 1 раунд, но не можете использовать это скрытие, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>, как и обычно, когда ваше местоположение очевидно</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, но пока действует способность вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> для существа</div>\n<div class=\"line\"><strong>Критический провал</strong>: Пока действует способность, вы \"спрятаны\" для существа, затерявшись в венце сияния. Ваше местоположение все еще очевидно, поэтому вы не можете использовать это, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.</div>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 11",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-aasimar-radiate-glory",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дитя мрака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1380\">Grimspawn</a>) / 1",
+            "name": "Дитя мрака",
+            "originalName": "Grimspawn",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Ваша родословная восходит к <span class=\"card-link \">дэймону</span>, одному из проявлений ужасных форм смерти, пожирающих души в своем отвратительном доме - Абаддоне.\nВ результате вы цепко цепляетесь за последние клочки собственной жизненной силы.\nВы получаете общую способность <span class=\"card-link std std-ref\" data-id=\"feat-diehard\">Несгибаемый (Diehard) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-grimspawn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адское отродье (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1381\">Hellspawn</a>) / 1",
+            "name": "Адское отродье",
+            "originalName": "Hellspawn",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Ваш род происходит от <span class=\"card-link \">дьяволов</span>, коварных интриганов злобной иерархии Ада.\nВы умеете замечать ложь и искаженные формулировки так же хорошо, как и строить их.\nВы обучены Обману и Юридическим Знаниям.\nЕсли вы автоматически станете обучены Обману (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-lie-to-me\">Обмани меня (Lie to Me) / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-hellspawn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дитя преисподней (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1383\">Pitborn</a>) / 1",
+            "name": "Дитя преисподней",
+            "originalName": "Pitborn",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Ваша кровь несет на себе метку <span class=\"card-link \">демона</span>, живого воплощения греха из зловонных глубин Бездны.\nДемоническая сила пульсирует в ваших венах и проявляется по-разному для каждого, есть ли у вас перепончатые пальцы и вы как рыба в воде, большие руки, способные бороться с большими врагами, или какое-то другое проявление.\nВы обучены Атлетике.\nЕсли вы автоматически станете обучены Атлетике (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.</p><p>Еще вы получаете 1 любую способность навыка 1-го уровня, с предварительным условием быть обученным Атлетике, что отражает проявление вашей крови Бездны.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-pitborn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Звериное дитя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2449\">Beastbrood</a>) / 1",
+            "name": "Звериное дитя",
+            "originalName": "Beastbrood",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 61</p><hr class=\"docutils\"><p>Одни из ваших предков были <span class=\"card-link \">ракшасами</span>, развращенным и аристократическими переродившимися душами, которые называют Голарион своим домом.\nУ вас есть смутное эхо воспоминаний вашего предка, достаточное, чтобы при необходимости играть роль благородного человека, независимо от вашего происхождения.\nВы обучены Обществу.\nЕсли вы уже обучены Обществу (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-courtly-graces\">Аристократическое изящество (Courtly Graces) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 61",
+            "action": "",
+            "id": "ancestry-feat-tiefling-beastbrood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Меченый разломом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2450\">Riftmarked</a>) / 1",
+            "name": "Меченый разломом",
+            "originalName": "Riftmarked",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 61</p><hr class=\"docutils\"><p>Давным-давно <span class=\"card-link \">клиппот</span> отметил кого-то в вашем роду, скорее всего, через их древние рунические камни, которые усеивают поверхность Голариона.\nУ вас древняя родословная, исконная и извращенная, и у вас есть чутье на такие же извращенные вещи.\nВы обучены Оккультизму.\nЕсли вы уже обучены Оккультизму (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-oddity-identification\">Определение странностей (Oddity Identification) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 61",
+            "action": "",
+            "id": "ancestry-feat-tiefling-riftmarked",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рожденный в оковах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2451\">Shackleborn</a>) / 1",
+            "name": "Рожденный в оковах",
+            "originalName": "Shackleborn",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 61</p><hr class=\"docutils\"><p>На вашу родословную указывают признаки вмешательств <span class=\"card-link \">вельстрака</span>, в том числе некоторые любопытные причуды, оставленные в наследство этими теневыми хирургами душ и плоти.\nВаша плоть заживает чисто и быстро - тем лучше для вас, если вы станете предметом их ужасного искусства.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-fast-recovery\">Быстрое восстановление (Fast Recovery) / 1</span> даже если не соответствуете ее предварительным условиям.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 61",
+            "action": "",
+            "id": "ancestry-feat-tiefling-shackleborn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Порождение изъяна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3937\">Faultspawn</a>) / 1",
+            "name": "Порождение изъяна",
+            "originalName": "Faultspawn",
+            "level": 1,
+            "traits": [
+                "род",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 32</p><hr class=\"docutils\"><p>Вы несете в себе обиду на определенное божество и его дела, унаследованную от богохульного предка <span class=\"card-link \">асура</span> в вашей родословной.\nЕще у вас есть некоторые рудиментарные признаки вашей предыдущей инкарнации, такие как вторая пара лопаток без пригодных для использования рук, пара прикрытых глаз, без самих глаз, или странные шрамы, напоминающие рот.\nВы получаете реакцию \"Найти изъян (Find Fault)\".</p><p><strong>Найти изъян (Find Fault)</strong> <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> (<span class=\"t-concentrate\">концентрация</span>)\n<strong>Триггер</strong>: Вы совершаете спасбросок против заклинания или <span class=\"t-magical\">магического</span> эффекта, но еще не совершили бросок;\n<strong>Эффект</strong>: Вы находите в магии некий изъян, который используете для защиты от данного эффекта.\nВы получаете бонус обстоятельства +1 к спасброску от спровоцировавшего эффекта, который увеличивается до +2 если эффекта является <span class=\"t-divine\">сакральным</span> и исходит от того, кто поклоняется божеству выбранному вами для обиды.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 32",
+            "action": "реакция",
+            "id": "ancestry-feat-tiefling-faultspawn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовские глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1377\">Fiendish Eyes</a>) / 1",
+            "name": "Бесовские глаза",
+            "originalName": "Fiendish Eyes",
+            "level": 1,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 39</p><hr class=\"docutils\"><p>Вы можете видеть в темноте так же легко, как бес.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Advanced Player's Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiendish-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовские знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1378\">Fiendish Lore</a>) / 1",
+            "name": "Бесовские знания",
+            "originalName": "Fiendish Lore",
+            "level": 1,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 39</p><hr class=\"docutils\"><p>Вас вырастил тифлинг или родственник-бес, или вы посвятили себя исследованию тайн царств бесов.\nВы становитесь обучены Религии и Запугиванию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям связанным с бесовским планом к которому восходит ваш род (обычно Знания Абаддона, Знания Бездны или Знания Ада)</p>",
+            "src": "Advanced Player's Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiendish-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Форма беса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1379\">Form of the Fiend</a>) / 1",
+            "name": "Форма беса",
+            "originalName": "Form of the Fiend",
+            "level": 1,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Часть вашего тела имеет очевидный, бесовской вид.\nВаши руки заканчиваются острыми как бритва когтями, у вас есть копыта вместо ног, острые зубы заполняют ваш рот, или хлесткий хвост идет от вашего позвоночника.\nВы получаете одну из следующих безоружных атак на свой выбор.\nАтака относится к группе \"драка\" и имеет указанный кости урона и признаки.</p><ul class=\"simple\">\n<li><p><strong>Когти</strong>: 1d4 рубящий (<span class=\"w-agile\">быстрое</span>, <span class=\"w-finesse\">точное</span>, <span class=\"w-unarmed\">безоружное</span>, <span class=\"w-versatile\">универсальное К</span>)</p></li>\n<li><p><strong>Копыта</strong>: 1d6 дробящий (<span class=\"w-finesse\">точное</span>, <span class=\"w-unarmed\">безоружное</span>)</p></li>\n<li><p><strong>Челюсти</strong>: 1d6 колющий (<span class=\"w-finesse\">точное</span>, <span class=\"w-unarmed\">безоружное</span>)</p></li>\n<li><p><strong>Хвост</strong>: 1d4 дробящий (<span class=\"w-agile\">быстрое</span>, <span class=\"w-finesse\">точное</span>, <span class=\"w-unarmed\">безоружное</span>)</p></li>\n</ul><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту, либо изменить вид атаки который получили.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-form-of-the-fiend",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проворные копыта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1382\">Nimble Hooves</a>) / 1",
+            "name": "Проворные копыта",
+            "originalName": "Nimble Hooves",
+            "level": 1,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Ваши ноги заканчиваются копытами, а не ступнями, с суставами и сухожилиями, которые позволяют вам двигаться с большой скоростью.\nВаша Скорость увеличивается на 5 футов.</p><p><strong>Особенность</strong>: Увеличение Скорости от этой способности не складывается с любым увеличением Скорости от способностей родословной (как например <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-nimble-elf\">Проворный эльф (Nimble Elf) / 1</span>).</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-nimble-hooves",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовское сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1384\">Fiendish Resistance</a>) / 5",
+            "name": "Бесовское сопротивление",
+            "originalName": "Fiendish Resistance",
+            "level": 5,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Ваша связь с вашими дьявольскими предками также дала вам одно из их сопротивлений.\nВыберите один из следующих типов энергетического урона: кислота, холод, электричество, огонь или звук.\nВы получаете сопротивление 5 этому типу урона.</p><p>Хоть вы и можете выбрать любой из этих типов энергетического урона, обычно он соответствует бесу связанному с вашим родом.\nНапример, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-hellspawn\">Адское отродье (Hellspawn) / 1</span> может выбрать сопротивление огню, или <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-pitborn\">Дитя преисподней (Pitborn) / 1</span> с предком <span class=\"card-link \">вроком</span> может выбрать сопротивление электричеству.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiendish-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Злобное проклятие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1385\">Malicious Bane</a>) / 5",
+            "name": "Злобное проклятие",
+            "originalName": "Malicious Bane",
+            "level": 5,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Чисто ли ваше сердце или развращено, вы можете наложить проклятие на своих врагов.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-bane\">Проклятие (Bane) / Закл. 1</span> как врожденное сакральное заклинание 1-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-malicious-bane",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкий хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1386\">Skillful Tail (Tiefling)</a>) / 5",
+            "name": "Ловкий хвост",
+            "originalName": "Skillful Tail",
+            "level": 5,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>У вас всегда был хвост, но с практикой вы научились использовать его не только для того, чтобы сигнализировать о своем настроении.\nВы можете совершать простые действия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> хвостом, как например открывать незапертую дверь.\nВаш хвост не может выполнять действия, для которых нужны пальцы или значительная ловкость рук, включая любые действия, которые для выполнения потребуют совершить проверку, и вы не можете использовать его, чтобы держать предметы.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-skillful-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дьявол на виду (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2452\">Devil in Plain Sight</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Дьявол на виду",
+            "originalName": "Devil in Plain Sight",
+            "level": 5,
+            "traits": [
+                "сакральный",
+                "трансмутация",
+                "полиморф",
+                "концентрация",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 62</p><hr class=\"docutils\"><p>Вы научились собирать свою бесовскую натуру в маленький комок порчи и прятать его в своей душе.\nВаши очевидные бесовские черты исчезают, включая хвосты, рога и раздвоенные копыта, однако оставляя намеки на них (например, когти превращаются в неровные ногти или глаза сохраняют странный оттенок).\nВы все еще являетесь похожим на себя, но выглядите как не-тифлинг типичный представитель вашей основной родословной.\nИспользование \"Дьявол на виду\" считается созданием маскировки при использовании Обмана для <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> и ваше превращение автоматически побеждает КС Восприятия на определение являетесь ли вы нормальным представителем своей основной родословной;\nтолько существа активно изучающие вас и бросающие Восприятие могу заметить маскировку.\nПока вы в своей измененной форме, то не можете использовать безоружные атаки, врожденные заклинания или другие умения требующие физических особенностей, полученных от родословной тифлинга, например, вы не можете использовать способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-skillful-tail\">Ловкий хвост (Skillful Tail (Tiefling)) / 5</span>.\nВы можете оставаться в своей альтернативной форме неограниченное время, и можете вернуться в свою форму тифлинга снова используя это действие.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 62",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-tiefling-devil-in-plain-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дьявольские козни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2453\">Devilish Wiles</a>) / 5",
+            "name": "Дьявольские козни",
+            "originalName": "Devilish Wiles",
+            "level": 5,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 62</p><hr class=\"docutils\"><p>Традиционно бесы исключительно хороши в убеждении людей что-то сделать, даже если их жертвы знают, что это плохая идея.\nУ вас тоже неплохо получается, побуждая слабых и безвольных к вашим приказам.\nВы можете раз в день, сотворять <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span> как врожденное сакральное заклинание 1-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 62",
+            "action": "",
+            "id": "ancestry-feat-tiefling-devilish-wiles",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раскрыть истинное я (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3938\">Reveal Hidden Self</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Раскрыть истинное я",
+            "originalName": "Reveal Hidden Self",
+            "level": 5,
+            "traits": [
+                "сакральный",
+                "иллюзия",
+                "концентрация",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-beastbrood\">Звериное дитя (Beastbrood) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Требования</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> хотя бы для 1 врага</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 32</p><hr class=\"docutils\"><p>Пока <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span>, вы проявляете свою звериную сущность.\nВы создаете иллюзию существа <span class=\"s-large\">большого</span> размера или меньше, в пределах 60 футов от вашего местоположения с эффектами заклинания <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-creature\">Иллюзорное существо (Illusory Creature) / Закл. 2</span>.\nЭто существо разделяет звериные черты вашего рода.\nВ отличие от большинства действий, совершаемых в <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанном</span> состоянии, использование \"Раскрытие истинного я\" и <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддержание (Sustaining)</span> его заклинания не приводит к автоматическому прекращению вашего <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанного</span> состояния.\nПротив попыток не поверить в эту иллюзию, используйте ваш КС класса из КС заклинания, в зависимости от того, что больше.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> существом, оно автоматически не верит в эту иллюзию, и если вы больше не <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> хотя бы для 1 врага, то эффект заканчивается.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 32",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-tiefling-reveal-hidden-self",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возвышающееся присутствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3939\">Towering Presence</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Возвышающееся присутствие",
+            "originalName": "Towering Presence",
+            "level": 5,
+            "traits": [
+                "сакральный",
+                "трансмутация",
+                "иллюзия",
+                "полиморф",
+                "концентрация",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-faultspawn\">Порождение изъяна (Faultspawn) / 1</span></p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 33</p><hr class=\"docutils\"><p>Вы заполняете пространство своей силой воли, возвышаясь над тем местом, где должна находиться ваша истинная форма.\nДо начала своего следующего хода ваш размер увеличивается до <span class=\"s-large\">большого</span>.\nВаше снаряжение растет вместе с вами, но возвращается к нормальному размеру, если его снять.\nВы <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжи 1</span>.\nВаша досягаемость увеличивается на 5 футов (или на 10 футов, если ваш изначальный размер <span class=\"s-tiny\">крошечный</span>), и вы получаете бонус состояния +2 к урону ближнего боя.\n\"Возвышающееся присутствие\" не имеет эффекта, если ваш размер уже был <span class=\"s-large\">большим</span> или более.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 33",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-tiefling-towering-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дэймоническая магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1387\">Daemon Magic</a>) / 9",
+            "name": "Дэймоническая магия",
+            "originalName": "Daemon Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-grimspawn\">Дитя мрака (Grimspawn) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>Магия Абаддона течет в вашей крови и вы можете овладеть этой мощью.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-death-knell\">Погребальный звон (Death Knell) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-f-false-life\">Ложная жизнь (False Life) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-daemon-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Демоническая магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1388\">Demon Magic</a>) / 9",
+            "name": "Демоническая магия",
+            "originalName": "Demon Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-pitborn\">Дитя преисподней (Pitborn) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 40</p><hr class=\"docutils\"><p>С помощью своего наследия, вы можете направлять силу Бездны, создавая ужасные ощутимые эффекты.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-p-paranoia\">Паранойя (Paranoia) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-shatter\">Разбивающий звук (Shatter) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 40",
+            "action": "",
+            "id": "ancestry-feat-tiefling-demon-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дьявольская магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1389\">Devil Magic</a>) / 9",
+            "name": "Дьявольская магия",
+            "originalName": "Devil Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: род <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-hellspawn\">Адское отродье (Hellspawn) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Используя адскую силу своих зловещих предков, вы магическим обманом вводите своих врагов в заблуждение.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-m-misdirection\">Перенаправление (Misdirection) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-devil-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовские крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1390\">Fiendish Wings</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Бесовские крылья",
+            "originalName": "Fiendish Wings",
+            "level": 9,
+            "traits": [
+                "сакральный",
+                "трансмутация",
+                "трансформация",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Вы можете напрячься, чтобы вызвать из спины крылья летучей мыши или другие бесовские крылья, похожие по внешнему виду на крылья ваших предков-бесов.\nЭти крылья остаются на 10 минут.\nПока крылья открыты, вы получаете Скорость полета, равную вашей Скорости.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-tiefling-fiendish-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свет из тьмы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1391\">Light from Darkness</a>) / 9",
+            "name": "Свет из тьмы",
+            "originalName": "Light from Darkness",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Вы боролись с бесовской силой своего происхождения и победили; что бы вы ни решили сделать со своей жизнью, к добру или злу, это будет ваш, и только вам выбор.\nЭта борьба дала вам мощное сопротивление всему сакральному.\nВы получаете бонус обстоятельства +1 ко всем спасброскам против сакральных эффектов.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-light-from-darkness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия клиппотов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2454\">Qlippoth Magic</a>) / 9",
+            "name": "Магия клиппотов",
+            "originalName": "Qlippoth Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-riftmarked\">Меченый разломом (Riftmarked) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 62</p><hr class=\"docutils\"><p>Вы глубоко изучили секреты своей крови и можете заставить реальность действовать против ее собственных желаний.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-silence\">Тишина (Silence) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 62",
+            "action": "",
+            "id": "ancestry-feat-tiefling-qlippoth-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия ракшас (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2455\">Rakshasa Magic</a>) / 9",
+            "name": "Магия ракшас",
+            "originalName": "Rakshasa Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-beastbrood\">Звериное дитя (Beastbrood) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 62</p><hr class=\"docutils\"><p>Вы помните секреты своих предков ракшас и знаете, как применять эти воспоминания для достижения результатов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-creature\">Иллюзорное существо (Illusory Creature) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 62",
+            "action": "",
+            "id": "ancestry-feat-tiefling-rakshasa-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия вельстраков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2456\">Velstrac Magic</a>) / 9",
+            "name": "Магия вельстраков",
+            "originalName": "Velstrac Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-shackleborn\">Рожденный в оковах (Shackleborn) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 63</p><hr class=\"docutils\"><p>Вы знаете, что ощущения - это гораздо больше, чем кнуты и цепи, но кнуты и цепи тоже имеют свое место.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-t-telekinetic-maneuver\">Телекинетический прием (Telekinetic Maneuver) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-w-web\">Паутина (Web) / Закл. 2</span>, как врожденные сакральные заклинания 2-го уровня, каждое раз в день;\nв обоих случаях, заклинания проявляются как теневые цепи, а не своими обычными визуальными признаками.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 63",
+            "action": "",
+            "id": "ancestry-feat-tiefling-velstrac-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия асуров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3940\">Asura Magic</a>) / 9",
+            "name": "Магия асуров",
+            "originalName": "Asura Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-faultspawn\">Порождение изъяна (Faultspawn) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 33</p><hr class=\"docutils\"><p>Вы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-b-blood-vendetta\">Кровавая вендетта (Blood Vendetta) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-d-death-knell\">Погребальный звон (Death Knell) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 33",
+            "action": "",
+            "id": "ancestry-feat-tiefling-asura-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия джалмерэйских ракшас (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3941\">Jalmeri Rakshasa Magic</a>) / 9",
+            "name": "Магия джалмерэйских ракшас",
+            "originalName": "Jalmeri Rakshasa Magic",
+            "level": 9,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-beastbrood\">Звериное дитя (Beastbrood) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 33</p><hr class=\"docutils\"><p>Вы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-r-reapers-lantern\">Фонарь жнеца (Reaper's Lantern) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.\n<em>Фонарь жнеца</em> проявляется как фонарь в форме головы вашей инкарнации <span class=\"t-rakshasa\">ракшаса</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 33",
+            "action": "",
+            "id": "ancestry-feat-tiefling-jalmeri-rakshasa-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дверь беса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1392\">Fiend's Door</a>) / 13",
+            "name": "Дверь беса",
+            "originalName": "Fiend's Door",
+            "level": 13,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Как и многие демоны, вы обладаете сверхъестественным умением телепортироваться в безопасное место.\nРаз в день, вы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span> как врожденное сакральное заклинание 5-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiends-door",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовские удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1393\">Fiendish Strikes</a>) / 13",
+            "name": "Бесовские удары",
+            "originalName": "Fiendish Strikes",
+            "level": 13,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Ваша изнуряющая связь с силами зла наполняет ваше оружие истощающей злобой, с каждой атакой уничтожая добрых существ.\nВсе ваше оружие и безоружные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> наносят 1 дополнительного урона злом и имеют признаки <span class=\"t-evil\">зло</span> и <span class=\"t-magical\">магический</span>.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiendish-strikes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв родственника-беса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1394\">Summon Fiendish Kin</a>) / 13",
+            "name": "Призыв родственника-беса",
+            "originalName": "Summon Fiendish Kin",
+            "level": 13,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: любая способность тифлинга с признаком <span class=\"t-lineage\">род</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>У вас есть глубокая связь с мирами бесов, которая позволяет вам призывать беса, соответствующего вашему собственному роду.\nРаз в день, вы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-fiend\">Призыв беса (Summon Fiend) / Закл. 5</span> как врожденное сакральное заклинание 5-го уровня.\nПризываемый бес должен соответствовать вашему роду.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-summon-fiendish-kin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лучший трюк (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2457\">Finest Trick</a>) / 13",
+            "name": "Лучший трюк",
+            "originalName": "Finest Trick",
+            "level": 13,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-devil-in-plain-sight\">Дьявол на виду (Devil in Plain Sight)  / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 63</p><hr class=\"docutils\"><p>Многие бесы, из них наиболее известные, ракшасы раджи и демонические суккубы, могут принимать формы других.\nПопрактиковавшись, вы можете делать так же.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-devil-in-plain-sight\">Дьявол на виду (Devil in Plain Sight)  / 5</span>, то можете изменять свою внешность, чтобы она соответствовала рядовому представителю вашей основной родословной, а не той, что выглядит как вы но без очевидных черт тифлинга.\nДополнительно, вы можете имитировать внешность конкретной личности (любой родословной того же размера и вида, что и ваша основная родословная, для большинства родословных - гуманоида) если как часть действия поглотите частичку их крови, локон волос или подходящий эквивалент.\nВы все еще должны знать как выглядит существо и должны быть осведомлены, что поглощенная часть принадлежит его телу.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 63",
+            "action": "",
+            "id": "ancestry-feat-tiefling-finest-trick",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесовское слово (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1395\">Fiendish Word</a>) / 17",
+            "name": "Бесовское слово",
+            "originalName": "Fiendish Word",
+            "level": 17,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Вы взываете к кощунственному слову из царств бесов, чтобы наказать своих врагов.\nРаз в день, вы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-divine-decree\">Божественный указ (Divine Decree) / Закл. 7</span> как врожденное сакральное заклинание 7-го уровня.\nДля мировоззрения заклинания вы должны выбрать \"зло\", и можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> независимо от того поклоняетесь ли вы божеству, или того какое их мировоззрение.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-fiendish-word",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неустанные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1396\">Relentless Wings</a>) / 17",
+            "name": "Неустанные крылья",
+            "originalName": "Relentless Wings",
+            "level": 17,
+            "traits": [
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-fiendish-wings\">Бесовские крылья (Fiendish Wings)  / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 41</p><hr class=\"docutils\"><p>Ваши крылья теперь постоянная часть вашего тела.\nВы навсегда получаете эффекты <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-fiendish-wings\">Бесовские крылья (Fiendish Wings)  / 9</span>, а не только на 10 минут раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 41",
+            "action": "",
+            "id": "ancestry-feat-tiefling-relentless-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Финальная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2458\">Final Form</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Финальная форма",
+            "originalName": "Final Form",
+            "level": 17,
+            "traits": [
+                "сакральный",
+                "эвокация",
+                "трансмутация",
+                "трансформация",
+                "концентрация",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 63</p><hr class=\"docutils\"><p>Вы принимаете вашу чудовищную кровь и делаете ее своей, крича как в небеса, так и в ад, от ярости, боли и неповиновения.\nРеальность сгибается и скручивается под вашей внезапной силой, с уникальной трансформацией у каждого тифлинга, но она может включать в себя серное пламя, визжащий хор или извилистые змеевидные молнии.\nКаждое существо в пределах 10 футов от вас получает на 1 раунд состояния <span class=\"card-link std std-ref\" data-id=\"c-deafened\">глухота</span> и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span>, если только не совершит успешный спасбросок Стойкости с вашим КС класса или КС заклинания, в зависимости от того, что больше.\nВаша финальная форма обладает эффектами <span class=\"card-link std std-ref\" data-id=\"spell-d-divine-vessel\">Божественный сосуд (Divine Vessel) / Закл. 7</span> для божества, которое разделяет мировоззрение с вашим бесовским родом.\nВаша финальная форма напоминает существо из вашего бесовского рода, и вы остаетесь в этой форме на 1 минуту.\nПока вы в финальной форме, то можете сотворять:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-chilling-darkness\">Леденящая тьма (Chilling Darkness) / Закл. 3</span>,</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-f-fireball\">Огненный шар (Fireball) / Закл. 3</span>,</p></li>\n<li><p>и <span class=\"card-link std std-ref\" data-id=\"spell-l-lightning-bolt\">Удар молнии (Lightning Bolt) / Закл. 3</span></p></li>\n</ul><p>как врожденные сакральные заклинания 6-го уровня, каждое по разу за использование этой способности.</p><p>Когда вы выходите из своей финальной формы, то получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 3</span>.\nДополнительно, если у вас есть эта способность, то вы получаете слабость 10 к добру, даже когда вы не в финальной форме, и получаете урон добром даже если не злой.</p><p><strong>Особенность</strong>: На усмотрение Мастера, определенные элементы этой способности могут быть скорректированны, чтобы лучше подходить роду тифлинга, например, Мастер может решить, что определенный <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-beastbrood\">звериный</span> тифлинг вместо <em>огненного шара</em> может колдовать <span class=\"card-link std std-ref\" data-id=\"spell-p-phantasmal-killer\">Призрачный убийца (Phantasmal Killer) / Закл. 4</span> 6-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 63",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-tiefling-final-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аура доминиона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3943\">Dominion Aura</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Аура доминиона",
+            "originalName": "Dominion Aura",
+            "level": 17,
+            "traits": [
+                "аура",
+                "сакральный",
+                "эвокация",
+                "сила",
+                "тифлинг"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-tiefling-faultspawn\">Порождение изъяна (Faultspawn) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 33</p><hr class=\"docutils\"><p>На короткое время вы полностью воплощаете в себе ожидания бога-разрушителя.\nВсе существа в пределах 10-футовой эманации получают 8d6 урона силой с простым спаброском Стойкости.\nПри провале, существо еще сбито <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.\nВ течение 1 минуты, любое существо, которое заканчивает свой ход в пределах этой 10-футовой эманации, получает 5d6 урона силой с простым спаброском Стойкости.\nЕсли вы не <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощены</span>, то можете при использовании \"Ауры доминиона\" стать <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощенным 2</span>, чтобы увеличить радиус этой эманации с 10 до 20 футов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 33",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-tiefling-dominion-aura",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аксиоматические знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2476\">Axiomatic Lore</a>) / 1",
+            "name": "Аксиоматические знания",
+            "originalName": "Axiomatic Lore",
+            "level": 1,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Вы хорошо разбираетесь в процессах как среди смертных, так и среди принципиальных потусторонних.\nИсточником этого знания может быть интуиция, обучение или детство, проведенное среди других афоритов.\nВы становитесь обучены Дипломатии и Обществу.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям Оси.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "",
+            "id": "ancestry-feat-aphorite-axiomatic-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренняя сплоченность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2477\">Internal Cohesion</a>) / 1",
+            "name": "Внутренняя сплоченность",
+            "originalName": "Internal Cohesion",
+            "level": 1,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Порядок Оси наполняет ваше тело и помогает ему поддерживать логическую связность.\nВы и ваши союзники можете осуществлять <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ваших ран (Treat your Wounds)</span> без набора лекаря.\nРаз в день, когда кто-либо при броске получает провал или критический провал проверки \"Лечения ваших ран\", вы можете сосредоточиться на своей внутренней сплоченности, чтобы увеличить степень успеха на одну ступень.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "",
+            "id": "ancestry-feat-aphorite-internal-cohesion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Интуитивное ремесленничество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2478\">Intuitive Crafting</a>) / 1",
+            "name": "Интуитивное ремесленничество",
+            "originalName": "Intuitive Crafting",
+            "level": 1,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Ваша близость к процессу и порядку делает вас прирожденным ремесленником.\nВы становитесь обучены Ремеслу (или другому навыку на свой выбор, если вы уже обучены Ремеслу).\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-specialty-crafting\">Специализация в ремесле (Specialty Crafting) / 1</span> со специализацией на ваш выбор.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "",
+            "id": "ancestry-feat-aphorite-intuitive-crafting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лемма зрения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2479\">Lemma of Vision</a>) / 1",
+            "name": "Лемма зрения",
+            "originalName": "Lemma of Vision",
+            "level": 1,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Вы преодолели крошечную ступеньку в своем самопознании, пробуждая новые глубины своего зрения.\nВы получаете ночное зрение.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "",
+            "id": "ancestry-feat-aphorite-lemma-of-vision",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хрустальная пыль (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2480\">Crystalline Dust</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Хрустальная пыль",
+            "originalName": "Crystalline Dust",
+            "level": 5,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Вы научились рассеивать дымкой кристаллические частицы, покрывающие ваше тело.\nВы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, но как и обычно для скрытия когда ваша позиция очевидна, вы не можете использовать его, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.\nПылинки остаются в дюйме от вашей кожи, двигаются с вами, и это длится количество раундов, равное половине вашего уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-aphorite-crystalline-dust",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренняя целостность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2481\">Intercorporate</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Внутренняя целостность",
+            "originalName": "Intercorporate",
+            "level": 5,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Требования</strong>: На вас действует болезнь или яд, или вы получаете продолжительный урон</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 76</p><hr class=\"docutils\"><p>Ваша упорядоченная физиология отвергает нежелательные элементы.\nВыбери одно из следующего.</p><p><strong>Болезнь или Яд</strong>: Совершите спасбросок против недуга с его текущей стадией.\nПри провале, стадия недуга не увеличивается, но вы страдаете от эффектов той стадии на которой уже находитесь.\nПри критическом провале стадия увеличивается лишь на 1.</p><p><strong>Продолжительный урон</strong>: Совершите чистую проверку с КС 10 для восстановления от продолжительного урона.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 76",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-aphorite-intercorporate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наступательный анализ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2482\">Offensive Analysis</a>) / 5",
+            "name": "Наступательный анализ",
+            "originalName": "Offensive Analysis",
+            "level": 5,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Вы можете усилить свои чувства и психическое состояние, чтобы рассмотреть каждый аспект атаки.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span> как врожденное сакральное заклинание.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "",
+            "id": "ancestry-feat-aphorite-offensive-analysis",
+            "archetype": ""
+        },
+        {
+            "fullName": "Анализ информации (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2483\">Analyze Information</a>) / 9",
+            "name": "Анализ информации",
+            "originalName": "Analyze Information",
+            "level": 9,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Вы можете пробудить в своем уме вспышку аналитического мастерства.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-hypercognition\">Гиперкогнитивность (Hypercognition) / Закл. 3</span> как врожденное сакральное заклинание 3-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "",
+            "id": "ancestry-feat-aphorite-analyze-information",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дополнительные частицы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2484\">Ancillary Motes</a>) / 9",
+            "name": "Дополнительные частицы",
+            "originalName": "Ancillary Motes",
+            "level": 9,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Вы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span> еще 1 раз в день.</p><p><strong>Особенность</strong>: Вы можете взять эту способность более одного раза, каждый раз получая еще 1 использование <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span> в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "",
+            "id": "ancestry-feat-aphorite-ancillary-motes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хрустальное облако (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2485\">Crystalline Cloud</a>) / 9",
+            "name": "Хрустальное облако",
+            "originalName": "Crystalline Cloud",
+            "level": 9,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Когда используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span>, то вместо создания дымки, можете потратить 1 дополнительное действие, чтобы рассеять частицы в виде облака радиусом 10 футов с центром на вас; эта активность получает признак <span class=\"t-concentrate\">концентрация</span>.\nВсе существа внутри облака получают состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, а все существа вне облака становятся \"скрытыми\" для существ внутри облака.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "",
+            "id": "ancestry-feat-aphorite-crystalline-cloud",
+            "archetype": ""
+        },
+        {
+            "fullName": "Превентивная реконфигурация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2486\">Preemptive Reconfiguration</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Превентивная реконфигурация",
+            "originalName": "Preemptive Reconfiguration",
+            "level": 9,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы получите дробящий, колющий или рубящий урон</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Ваше тело ожидает удара.\nОбласть удара на мгновение реорганизуется в усиленную тканевую сетку, которая притупляет атаку.\nВы получаете сопротивление к типу спровоцировавшего урона, равное вашему уровню, которое применяется к спровоцировавшему урону.</p><p>Если у вас есть способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span>, то вы можете использовать \"Превентивную реконфигурацию\" не тратя использование реакции, вместо этого расходуя частоту использования частиц.\nПрименение считается к вашему количеству использований <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-aphorite-crystalline-dust\">Хрустальная пыль (Crystalline Dust)  / 5</span> в день, как если бы вы использовали ее вместо этого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "реакция",
+            "id": "ancestry-feat-aphorite-preemptive-reconfiguration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наведение порядка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2487\">Impose Order (Aphorite)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Наведение порядка",
+            "originalName": "Impose Order",
+            "level": 13,
+            "traits": [
+                "удача",
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы критически провалите проверку навыка или пострадаете от эффекта с признаком <span class=\"t-misfortune\">неудача</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Вы изменяете основную ткань реальности, чтобы установить основополагающий порядок.\nЕсли триггером была проверка навыка, то вы вместо этого получаете результат 10 + ваш бонус мастерства (не применяйте никакие другие бонусы, штрафы или модификаторы).\nЕсли триггером был эффект с признаком <span class=\"t-misfortune\">неудача</span>, то эффекты удачи и неудачи как обычно отменяют друг друга, нивелируя спровоцировавший эффект неудачи.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "реакция",
+            "id": "ancestry-feat-aphorite-impose-order",
+            "archetype": ""
+        },
+        {
+            "fullName": "Связь с Божественным Разумом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2488\">Channel the Godmind</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Связь с Божественным Разумом",
+            "originalName": "Channel the Godmind",
+            "level": 17,
+            "traits": [
+                "афорит"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 77</p><hr class=\"docutils\"><p>Вы подключаетесь к коллективному мыслительному колодцу Божественного Разума, быстро анализируя почти бесконечное количество переменных, чтобы считать свое окружение.\nНа 1 минуту вы получаете чувство точного движения на 60 футов, можете видеть невидимых существ и объекты, и получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-t-true-seeing\">Истинное зрение (True Seeing) / Закл. 6</span> 9-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 77",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-aphorite-channel-the-godmind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Творческий вундеркинд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2532\">Creative Prodigy</a>) / 1",
+            "name": "Творческий вундеркинд",
+            "originalName": "Creative Prodigy",
+            "level": 1,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>У вас есть мощный творческий драйв, полезный для увиливания и выступления.\nВы становитесь обучены Обману и Выступлению.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям искусства.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-creative-prodigy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пристальный взгляд ганзи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2533\">Ganzi Gaze</a>) / 1",
+            "name": "Пристальный взгляд ганзи",
+            "originalName": "Ganzi Gaze",
+            "level": 1,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>Вы обладаете необычными сенсорными способностями, переданными от ваших хаотичных предков.\nВы получаете сумеречное зрение.\nЕсли у вас уже есть сумеречное зрение, то вместо этого вы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность второй раз, чтобы после сумеречного зрения получить ночное.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-ganzi-gaze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неугомонный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2534\">Irrepressible (Ganzi)</a>) / 1",
+            "name": "Неугомонный",
+            "originalName": "Irrepressible",
+            "level": 1,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>Ваша своевольная природа означает, что вы оправляетесь от предрассудков.\nКогда при броске спасброска вы получаете успех против эффекта эмоции или страха, то место этого вы получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-irrepressible",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сокрушительный хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2535\">Smashing Tail</a>) / 1",
+            "name": "Сокрушительный хвост",
+            "originalName": "Smashing Tail",
+            "level": 1,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>У вас есть хвост, который служит мощным оружием.\nВы получаете безоружную атаку хвостом, которая наносит 1d6 дробящего урона, имеет признак <span class=\"w-sweep\">размах</span> и относится к группе оружия \"драка\".</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-smashing-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рудиментарные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2536\">Vestigal Wings</a>) / 1",
+            "name": "Рудиментарные крылья",
+            "originalName": "Vestigal Wings",
+            "level": 1,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>Вы обладаете маленькими, слабыми крыльями, которые помогают сохранять равновесие.\nВы получаете бонусные способности навыков <span class=\"card-link std std-ref\" data-id=\"feat-steady-balance\">Твердое равновесие (Steady Balance) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"feat-cat-fall\">Кошачье падение (Cat Fall) / 1</span>, даже если вы не обучены Акробатике.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-vestigal-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аморфный аспект (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2537\">Amorphous Aspect</a>) / 5",
+            "name": "Аморфный аспект",
+            "originalName": "Amorphous Aspect",
+            "level": 5,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>Ваше тело в высшей степени гибкое.\nВы получаете бонус обстоятельства +1 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span>, а когда вы получаете критический провал <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span>, то вместо этого получаете просто провал.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-amorphous-aspect",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкий хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2538\">Skillful Tail (Ganzi)</a>) / 5",
+            "name": "Ловкий хвост",
+            "originalName": "Skillful Tail",
+            "level": 5,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 96</p><hr class=\"docutils\"><p>У вас есть хвост или подобная часть тела, которая всегда готова, так сказать, дать вам руку.\nВы можете совершать простые действия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> хвостом, как например открывать незапертую дверь.\nВаш хвост не может выполнять действия, для которых нужны пальцы или значительная ловкость рук, включая любые действия, которые для выполнения потребуют совершить проверку, и вы не можете использовать его, чтобы держать предметы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 96",
+            "action": "",
+            "id": "ancestry-feat-ganzi-skillful-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Беспорядочная аркана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2539\">Anarchic Arcana</a>) / 9",
+            "name": "Беспорядочная аркана",
+            "originalName": "Anarchic Arcana",
+            "level": 9,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Магия в вашей крови непредсказуема.\nКогда вы совершаете свои ежедневные приготовления, киньте 1d12 дважды и сверьтесь со списком:</p><ol class=\"arabic simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-acid-arrow\">Кислотная стрела (Acid Arrow) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-h-hideous-laughter\">Безудержный смех (Hideous Laughter) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-object\">Иллюзорный объект (Illusory Object) / Закл. 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-shatter\">Разбивающий звук (Shatter) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-sound-burst\">Взрыв звука (Sound Burst) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-spider-climb\">Паучьи лапы (Spider Climb) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-t-telekinetic-maneuver\">Телекинетический прием (Telekinetic Maneuver) / Закл. 2</span></p></li>\n</ol><p>В этот день вы можете сотворять каждое из этих заклинаний по разу (или одно заклинание 2 раза, если оно выпало дважды) как врожденные сакральные заклинания 2-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "",
+            "id": "ancestry-feat-ganzi-anarchic-arcana",
+            "archetype": ""
+        },
+        {
+            "fullName": "Слава и доблесть! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2540\">Glory and Valor!</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Слава и доблесть!",
+            "originalName": "Glory and Valor",
+            "level": 9,
+            "traits": [
+                "природный",
+                "некромантия",
+                "исцеление",
+                "слуховой",
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Вы произошли от эйнхерий, достойных воинов хаоса.\nВы взываете к своей имеющей влияние крови могучим криком, который наполняет вас восстанавливающей энергией на 1 минуту или до тех пор, пока вы критически не провалите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, в зависимости от того, что произойдет раньше.\nВ течение продолжительности, когда вы первый раз в раунд совершаете успешный Удар по существу вашего уровня или выше, то восстанавливаете ОЗ в количестве, равном половине вашего уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-ganzi-glory-and-valor",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вороватый хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2541\">Larcenous Tail</a>) / 9",
+            "name": "Вороватый хвост",
+            "originalName": "Larcenous Tail",
+            "level": 9,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ganzi-skillful-tail\">Ловкий хвост (Skillful Tail (Ganzi)) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Хаотичная и независимая природа вашего хвоста заставляет его проказничать даже тогда, когда вы этого не хотите, и он может каким-то образом красть вещи, с которыми не должен быть в состоянии справляться.\nВы можете использовать свой хвост, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> объект, хотя ваш хвост все еще не может удержать его по окончании вашего действия.\nЕсли у вас есть свободная рука, то вы можете перенести украденный предмет себе в руку.\nВ противном случае ваш хвост втихаря роняет его на землю в вашем пространстве, где вы позже можете схватить его.\nНаблюдатели, не являющиеся вашей целью, которые не видели, как вы крадете что-то своим хвостом, обычно отвлечены, а это означает, что Мастер обычно уменьшает их КС Восприятия, как обычно для <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Кражи (Stealing)</span> чего-либо.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "",
+            "id": "ancestry-feat-ganzi-larcenous-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изменение сопротивления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2542\">Alter Resistance</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Изменение сопротивления",
+            "originalName": "Alter Resistance",
+            "level": 13,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы получаете урон кислотой, электричеством или звуком</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Вы сосредотачиваетесь на своих протейских предках, чтобы изменить свое энергетическое сопротивление.\nЭнергетическое сопротивление, получаемое от вашего наследия ганзи, изменяется, чтобы соответствовать спровоцировавшему урону.\nЭто изменение происходит после нанесения урона.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "реакция",
+            "id": "ancestry-feat-ganzi-alter-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вставай, достойный! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2543\">Arise, ye Worthy!</a>) / 13",
+            "name": "Вставай, достойный!",
+            "originalName": "Arise",
+            "level": 13,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Вы произошли от валькирий, которые защищают достойные души и могут сдерживать хватку смерти.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-breath-of-life\">Дыхание жизни (Breath of Life) / Закл. 5</span> как врожденное сакральное заклинание.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "",
+            "id": "ancestry-feat-ganzi-arise-ye-worthy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шаловливый хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2544\">Mischievous Tail</a>) / 13",
+            "name": "Шаловливый хвост",
+            "originalName": "Mischievous Tail",
+            "level": 13,
+            "traits": [
+                "ганзи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ganzi-skillful-tail\">Ловкий хвост (Skillful Tail (Ganzi)) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 97</p><hr class=\"docutils\"><p>Ваш хвост может изводить ваших врагов.\nВы можете своим хвостом <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокидывать (Trip)</span> существ, даже если у вас нет свободной руки.\nВсе остальные ограничения <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ganzi-skillful-tail\">Ловкий хвост (Skillful Tail (Ganzi)) / 5</span> продолжают применяться.\nЕсли вы обладаете способностью <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ganzi-smashing-tail\">Сокрушительный хвост (Smashing Tail) / 1</span>, то ваша безоружная атака хвостом получает признаки <span class=\"w-disarm\">разоружение</span> и <span class=\"w-trip\">опрокидывание</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 97",
+            "action": "",
+            "id": "ancestry-feat-ganzi-mischievous-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Морская дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1323\">Brine May</a>) / 1",
+            "name": "Морская дева",
+            "originalName": "Brine May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Ваша мать была морской каргой, что дало вам один глаз голубого цвета или цвета морской зелени.\nВам комфортно как в море, так и на берегу.\nВсякий раз, когда при броске вы получаете успех проверки Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span>, вместо этого вы получаете крит.успех.\nЕсли вы заканчиваете свой ход в воде не пройдя успешную проверку действия Плавать в этом раунде, то вы не тонете (но вас все еще может унести течением).</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-brine-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Болотная дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1324\">Callow May</a>) / 1",
+            "name": "Болотная дева",
+            "originalName": "Callow May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Вы один из самых обычных подменышей - рожденных от зеленой карги, и ярко-зеленый глаз указывает на ваше происхождение.\nМанипулятивный характер вашей матери и универсальный голос дают вам преимущество, когда вы обманываете других.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-charming-liar\">Очаровательный лжец (Charming Liar) / 1</span>.\nЕсли вы кидаете инициативу с помощью Обмана, враги в боевом столкновении, которые еще не действовали считаются для вас застигнутыми врасплох.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-callow-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дева сна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1326\">Dream May</a>) / 1",
+            "name": "Дева сна",
+            "originalName": "Dream May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Вы ребенок ночной карги, что делает один из ваших глаз фиолетовым или даже черным.\nВласть вашей матери над сном и сновидениями дала вам некоторую устойчивость к этим эффектам, предоставляя бонус обстоятельства +2 ко всем спасброскам против эффектов сна и эффектов, которые которые вызывают или меняют сны.</p><p>Дополнительно, сон для вас более восстанавливающий.\nВы восстанавливаете ОЗ, равные модификатору Телосложения умноженному на удвоенный уровень (вместо просто умножения на уровень), и вы снижаете любое имеющееся у вас состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span> и <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> на 2, а не на 1.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-dream-may",
+            "archetype": ""
+        }
+    ]
+}

@@ -1,0 +1,1587 @@
+{
+    "feats": [
+        {
+            "fullName": "Предупреждение оракула (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1497\">Oracular Warning</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Предупреждение оракула",
+            "originalName": "Oracular Warning",
+            "level": 10,
+            "traits": [
+                "сакральный",
+                "прорицание",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы готовы кидать инициативу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>У вас появляется озарение о надвигающейся опасности, связанной с одним союзником, и вы можете крикнуть или жестом предупредить этого союзника об угрозе за мгновение до того, как она материализуется.\nОдин союзник на ваш выбор, может сделать бросок инициативы дважды и использовать лучший результат; это эффект с признаком <span class=\"t-fortune\">удача</span>.\nЕсли вы легенда Религии, то получаете 2 видения и можете предупредить двух союзников, давая им обоим это преимущество.</p><p>Однако, божественное озарение, на мгновение сбивает вас с толку, и вы должны сделать два броска инициативы и использовать худший результат.\nЭто эффект \"неудачи\".\nЭти два эффекта связаны друг с другом;\nесли вы по какой-либо причине избежите эффекта неудачи, или любой из ваших союзников нивелирует свой эффект удачи, то ваше \"Предупреждение оракула\" ничего не делает.\nВ зависимости от того, используете вы жесты или голос, это действие получает признак либо <span class=\"t-visual\">визуальный</span>, либо <span class=\"t-auditory\">слуховой</span> соответственно.</p>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "свободное действие",
+            "id": "class-feat-oracle-oracular-warning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ускоренное колдовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=199\">Quickened Casting (Oracle)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Ускоренное колдовство",
+            "originalName": "Quickened Casting",
+            "level": 10,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>Если ваше следующее действие - сотворять чары оракула или заклинание оракула, которое хотя бы на 2 уровня ниже, чем наивысший слот заклинания оракула который вы можете творить, то снизьте количество действий для его сотворения на 1 (до минимум 1 действия).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Перефразировано для решения ситуаций, когда у вас есть чары или заклинания фокусировки, разных уровней заклинаний, отличных от наибольшего слота заклинаний.</p>\n</div><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-APG-r2: </span>Формулировка \"наибольший уровень заклинаний\" изменена на \"наивысший слот заклинания\".\nСоответствует изменения эрраты \"errata-CR-r2\".</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "свободное действие",
+            "id": "class-feat-oracle-quickened-casting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рвущаяся мощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1499\">Surging Might</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Рвущаяся мощь",
+            "originalName": "Surging Might",
+            "level": 10,
+            "traits": [
+                "метамагия",
+                "воздействие",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>С помощью сложного жеста, вы фокусируете божественную силу своего заклинания, чтобы преодолеть сопротивления врагов.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, то заклинание игнорирует у цели сопротивление урону, равное вашему уровню, против всех следующих типов урона: добро, зло, хаос, порядок, негативный и позитивный.\nЭто применяется ко всему урону наносимому заклинанием, включая продолжительный урон и урон от продолжающегося эффекта заклинания, такого как урон позитивной энергией от <span class=\"card-link std std-ref\" data-id=\"spell-f-field-of-life\">Поле жизни (Field of Life) / Закл. 6</span>.\nЭто не заставляет заклинание игнорировать иммунитеты, а работает только на сопротивления.</p>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "одиночное действие",
+            "id": "class-feat-oracle-surging-might",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свободное владение доменом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1500\">Domain Fluency</a>) / 12",
+            "name": "Свободное владение доменом",
+            "originalName": "Domain Fluency",
+            "level": 12,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: начальное доменное заклинание</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>Вы обладаете глубоким пониманием божественных доменов, связанных с вашим таинством.\nВыберите один из доменов, связанных с вашим таинством, для которого у вас есть начальное доменное заклинание.\nВы получаете улучшенное доменное заклинание этого домена, которое вы колдуете как заклинание-откровение, из-за чего оно получает признак <span class=\"t-cursebound\">проклятое</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "",
+            "id": "class-feat-oracle-domain-fluency",
+            "archetype": ""
+        },
+        {
+            "fullName": "Великое откровение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1501\">Greater Revelation</a>) / 12",
+            "name": "Великое откровение",
+            "originalName": "Greater Revelation",
+            "level": 12,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: начальное заклинание-откровение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>Вы изучаете великое заклинание-откровение связанное с вашим таинством.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "",
+            "id": "class-feat-oracle-greater-revelation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ощущение магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=622\">Magic Sense (Oracle)</a>) / 12",
+            "name": "Ощущение магии",
+            "originalName": "Magic Sense",
+            "level": 12,
+            "traits": [
+                "сакральный",
+                "прорицание",
+                "обнаружение",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>У вас буквально есть шестое чувство на магию в вашем окружении.\nВы можете ощущать присутствие магических аур, как если бы вы всегда использовали <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> 1-го уровня.\nЭто обнаруживает магию только в вашем поле зрения.\nКогда вы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Ищете (Seek)</span>, то получаете преимущества <em>обнаружения магии</em> 3-го уровня для того что вы видите (в дополнение к обычным преимуществам Поиска).\nВы можете отключить или включить это чувство свободным действием в начале или конце своего хода.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-oracle-magic-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облик некроманта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3484\">Necromancer's Visage</a>) / 12",
+            "name": "Облик некроманта",
+            "originalName": "Necromancer's Visage",
+            "level": 12,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "оракул"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возможность создавать или контролировать <span class=\"t-undead\">нежить</span>; оракул таинства <span class=\"card-link \">костей</span></p><p><strong>Источник</strong>: Book of the Dead pg. 33</p><hr class=\"docutils\"><p>Некромантическая энергия демонстрирует вашу власть над нежитью, создавая образ, вызывающий у них страх и уважение.\nСущества-<span class=\"t-undead\">нежить</span> могут мгновенно почувствовать ваш \"Облик некроманта\" и склонны действовать соответственно.\nЕсли вы совершаете враждебное действие против существа-<span class=\"t-undead\">нежити</span>, оно становится навсегда иммунным к вашему \"Облику некроманта\", и действие вашего \"Облика некроманта\" заканчивается.\nВы можете потратить 10 минут, чтобы восстановить свой \"Облик некроманта\", но любые существа, ставшие навсегда иммунными, остаются таковыми.</p><p>Каждый раз, когда вас атакует существо-<span class=\"t-undead\">нежить</span> на 2 или более уровней ниже вас, оно должно совершить спасбросок Воли против вашего КС заклинания.\nЕсли на вас еще действует <span class=\"card-link std std-ref\" data-id=\"spell-s-sanctuary\">Убежище (Sanctuary) / Закл. 1</span> или аналогичный эффект, то на атакующего подействует только 1 из них (вы выбираете, какой).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо навсегда иммунно к вашему \"Облику некроманта\".</div>\n<div class=\"line\"><strong>Успех</strong>: Существо может совершить свою атаку и любые другие атаки по вам в этом ходу.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо не может атаковать вас и впустую тратит свое действие. Оно не может пытаться наносить вам дальнейшие атаки в этом ходу.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо впустую расходует это действие и не может атаковать вас пока действует ваш \"Облик некроманта\".</div>\n</div><p><strong>Особенность</strong>: Эта способность обладает признаком, соответствующим вашему магическому обычаю.</p>",
+            "src": "Book of the Dead pg. 33",
+            "action": "",
+            "id": "class-feat-oracle-necromancers-visage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Предотвращение проклятия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1503\">Forestall Curse</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Предотвращение проклятия",
+            "originalName": "Forestall Curse",
+            "level": 14,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 80</p><hr class=\"docutils\"><p>Вы научились в некоторой степени предотвращаться эффекты своего проклятия.\nЕсли ваше следующее действие - колдовать заклинание-откровение, то сила вашего проклятия не увеличивается.</p>",
+            "src": "Advanced Player's Guide pg. 80",
+            "action": "одиночное действие",
+            "id": "class-feat-oracle-forestall-curse",
+            "archetype": ""
+        },
+        {
+            "fullName": "Таинственный репертуар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1504\">Mysterious Repertoire</a>) / 14",
+            "name": "Таинственный репертуар",
+            "originalName": "Mysterious Repertoire",
+            "level": 14,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Ваше таинство содержит непознанные глубины магии, не всегда связанные с божественным.\nВ дополнение к заклинаниям, которые вы добавили в свой список заклинаний с помощью способностей наподобие <span class=\"card-link std std-ref\" data-id=\"class-feat-oracle-divine-access\">Божественный доступ (Divine Access) / 4</span>, вы можете иметь в своем репертуаре 1 заклинание не из сакрального списка заклинаний.\nВы колдуете это заклинание как сакральное.\nВы можете заменять какое заклинание вы добавляете и из какого обычая так же, как и с любыми другими заклинаниями оракула, но вы не можете использовать эту способность, чтобы одновременно иметь в своем репертуаре более 1 заклинания из другого обычая.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-mysterious-repertoire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Замогильное очищение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3485\">Sepulchral Sublimation</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Замогильное очищение",
+            "originalName": "Sepulchral Sublimation",
+            "level": 14,
+            "traits": [
+                "необычный",
+                "метамагия",
+                "некромантия",
+                "концентрация",
+                "оракул"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возможность навсегда создавать и контролировать <span class=\"t-undead\">нежить</span>; оракул таинства <span class=\"card-link \">костей</span></p><p><strong>Требования</strong>: У вас есть хотя бы 1 <span class=\"t-minion\">миньон</span>-<span class=\"t-undead\">нежить</span> которого вы постоянно контролируете</p><p><strong>Источник</strong>: Book of the Dead pg. 33</p><hr class=\"docutils\"><p>Вы в мгновение ока перерабатываете негативную энергию, протекающую через ваших миньонов.\nМгновенно уничтожьте 1 <span class=\"t-minion\">миньона</span>-<span class=\"t-undead\">нежить</span> в пределах 60 футов, который постоянно находится под вашим контролем.\nЕсли ваше следующее действие - сотворение заклинания <span class=\"t-necromancy\">некромантии</span> из слота заклинания, то вы не тратите этот слот.\nУровень этого заклинания должен быть хотя бы в 2 раза ниже уровня уничтоженного миньона, и заклинание не может иметь продолжительности.</p><p><strong>Особенность</strong>: Эта способность обладает признаком, соответствующим вашему магическому обычаю.</p>",
+            "src": "Book of the Dead pg. 33",
+            "action": "одиночное действие",
+            "id": "class-feat-oracle-sepulchral-sublimation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сакральный монарх (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3838\">Sacral Monarch (Oracle)</a>) / 14",
+            "name": "Сакральный монарх",
+            "originalName": "Sacral Monarch",
+            "level": 14,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Оккультизма или Религии, <span class=\"card-link std std-ref\" data-id=\"class-feat-oracle-sacral-lord\">Сакральный лорд (Sacral Lord (Oracle)) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 177</p><hr class=\"docutils\"><p>Вы обрели полную силу и стали настоящим монархом своих владений, по крайней мере, по вашему собственному определению.\nНаходясь на своей территории, вы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-b-banishment\">Изгнание (Banishment) / Закл. 5</span> и <span class=\"card-link std std-ref\" data-id=\"spell-inevitable-disaster\">Неминуемая беда (Inevitable Disaster) / Закл. 5</span> как врожденные сакральные заклинания, каждое раз в день.</p>",
+            "src": "Dark Archive pg. 177",
+            "action": "",
+            "id": "class-feat-oracle-sacral-monarch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разнообразное таинство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1505\">Diverse Mystery</a>) / 16",
+            "name": "Разнообразное таинство",
+            "originalName": "Diverse Mystery",
+            "level": 16,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-oracle-advanced-revelation\">Продвинутое откровение (Advanced Revelation) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Вы расширили свое понимание божественного и можете приобщиться к чудесам другого таинства.\nВыберите 1 заклинание-откровение из другого таинства.\nВы можете выбрать только начальное или продвинутое заклинание-откровение.</p><p>Когда вы сотворяете это заклинание-откровение, то в дополнение к своим обычным эффектам проклятия, вы получаете эффекты слабого проклятия той тайны.\nЭтот дополнительный эффект слабого проклятия остается с вами до ваших следующих ежедневных приготовлений.\nЛюбые умения, которые позволяют вам колдовать заклинание-откровение не увеличивая силу вашего проклятия, так же предотвращают получение эффекта этого дополнительного проклятия.</p><p>Вы не можете сотворять выбранное заклинание-откровение, если любое из следующих условий является истинным:\nэффекты его проклятия напрямую конфликтуют с вашим проклятием или нивелируют его эффекты;\nпроклятие не окажет на вас эффекта (например, убирая возможность вашего первоначального таинства, которой вам не хватает), либо эти критерии будут соблюдены как только вы закончите <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-diverse-mystery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поразительное заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1506\">Portentous Spell</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Поразительное заклинание",
+            "originalName": "Portentous Spell",
+            "level": 16,
+            "traits": [
+                "метамагия",
+                "воздействие",
+                "ментальный",
+                "визуальный",
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Ваше сотворение заклинаний изобилует странными огнями, эзотерическими жестами и другими захватывающими эффектами, которые сбивают с толку ваших врагов.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, то любое существо, которое пытается использовать реакцию спровоцированную вашей активностью \"Сотворение заклинания\", получает штраф обстоятельства -2 к броскам атаки и проверкам навыков бросаемым как часть этой реакции.\nДополнительно, если заклинание включает атаку заклинанием или осуществление спасброска, то существа по которым вы попали или которые провалили свои спасброски, получают состояние <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожен</span> на вас, до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "одиночное действие",
+            "id": "class-feat-oracle-portentous-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зарево откровения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1507\">Blaze of Revelation</a>) / 18",
+            "name": "Зарево откровения",
+            "originalName": "Blaze of Revelation",
+            "level": 18,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Ваш разум и тело на короткое время могут противостоять опустошительным последствиям преодоления вашего проклятия.\nКогда вы бы стали подавлены своим проклятием, то можете предотвратить эти эффекты на время вплоть до 1 минуты.\nКаждый свой ход в течение этого времени, вы можете колдовать 1 заклинание-откровение полученное от вашего таинства (но не доменные заклинания, не заклинания от <span class=\"card-link std std-ref\" data-id=\"class-feat-oracle-diverse-mystery\">Разнообразное таинство (Diverse Mystery) / 16</span>, или другие заклинания-откровения полученные от других умений) не тратя Очки Фокусировки или получая любые дальнейшие негативные эффекты.</p><p>По окончанию этой минуты, завершаются продолжительности любых заклинаний-откровений, которые вы колдовали во время этого промежутка времени, вы получаете обычные эффекты подавления своего проклятия и должны сделать спасбросок Стойкости с КС 40.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы не пострадали</div>\n<div class=\"line\"><strong>Успех</strong>: Вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 2</span> и не можете снизить его или убрать до ваших следующих ежедневных приготовлений</div>\n<div class=\"line\"><strong>Провал</strong>: Вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 4</span> и не можете снизить его или убрать до ваших следующих ежедневных приготовлений</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы умираете</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-blaze-of-revelation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Божественное излияние (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1508\">Divine Effusion</a>) / 18",
+            "name": "Божественное излияние",
+            "originalName": "Divine Effusion",
+            "level": 18,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Сила вашего таинства струится через вас, как купель божественной энергии, даже когда иссякает ваша собственная магия.\nДважды в день, вы можете колдовать заклинание, даже после того как у вас кончились слоты заклинаний подходящего уровня;\n2 сотворяемых этой способностью заклинания, должны быть разных уровней заклинаний.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-divine-effusion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Таинственный проводник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1509\">Mystery Conduit</a>) / 20",
+            "name": "Таинственный проводник",
+            "originalName": "Mystery Conduit",
+            "level": 20,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Сила вашего таинства позволяет вам сотворять больше, чем просто заклинания-откровения.\nКогда вы сотворяете заклинание 5-го уровня или ниже, которое не имеет продолжительности, вместо того, чтобы тратить слот заклинания, вы можете усилить эффекты вашего проклятия оракула, таким же образом, как и когда сотворяете заклинание-откровение.\nЗаклинание, произносимое таким образом получает признак <span class=\"t-cursebound\">проклятое</span>.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-mystery-conduit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Провиденье оракула (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1510\">Oracular Providence</a>) / 20",
+            "name": "Провиденье оракула",
+            "originalName": "Oracular Providence",
+            "level": 20,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Ясность оракула (Oracular Clarity) / 19-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Ваше таинство дает вам доступ к глубоким запасам поистине чудесной божественной силы.\nВы получаете дополнительный слот заклинания 10-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-oracular-providence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парадоксальное таинство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1511\">Paradoxical Mystery</a>) / 20",
+            "name": "Парадоксальное таинство",
+            "originalName": "Paradoxical Mystery",
+            "level": 20,
+            "traits": [
+                "оракул"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-oracle-greater-revelation\">Великое откровение (Greater Revelation) / 12</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 81</p><hr class=\"docutils\"><p>Истинные глубины вашего божественного таинства непостижимы и противоречивы, даруя вам изменяющиеся силы, которые даже вы едва можете постичь.\nКаждый день, во время ваших ежедневных приготовлений, вы можете выбрать 1 начальное или улучшенное доменное заклинание из любого домена \"Основной книги правил (CR)\" или другого домена к которому у вас есть доступ, или любому начальному или продвинутому заклинанию-откровению другого таинства.\nВы получаете это заклинание как заклинание-откровение до ваших следующих ежедневных приготовлений и оно имеет признак <span class=\"t-cursebound\">проклятое</span>.</p>",
+            "src": "Advanced Player's Guide pg. 81",
+            "action": "",
+            "id": "class-feat-oracle-paradoxical-mystery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканные кулаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3033\">Arcane Fists</a>) / 1",
+            "name": "Арканные кулаки",
+            "originalName": "Arcane Fists",
+            "level": 1,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Ваша физическая подготовка включает в себя формы рукопашного боя.\nКость урона, наносимая вашими кулаками меняется на 1d6, вместо 1d4.\nВы не получаете обычного штрафа обстоятельства -2 при совершении смертельной атаки кулаком или любыми другими безоружными атаками.\nВаши безоружные атаки приобретают признак <span class=\"t-arcana\">аркана</span>, что делает их <span class=\"t-magical\">магическими</span>.\nНа 5-м уровне вы также получаете эффект критической специализации безоружных атак и оружия в группе \"драка\".</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "",
+            "id": "class-feat-magus-arcane-fists",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=604\">Familiar (Magus)</a>) / 1",
+            "name": "Фамильяр",
+            "originalName": "Familiar",
+            "level": 1,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Вы заключаете договор с существом, которое помогает вам в ваших боевых начинаниях и ассистирует вашему колдовству.\nВы получаете фамильяра (см. <span class=\"card-link \">Фамильяры (Familiars)</span>).</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "",
+            "id": "class-feat-magus-familiar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Анализ магуса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2847\">Magus's Analysis</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Анализ магуса",
+            "originalName": "Magus's Analysis",
+            "level": 1,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Вы делаете оценку, основанную на ваших знаниях о том, как сражается существо.\nСовершите проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о существе.\nВы получаете бонус обстоятельства +1 к своей проверке, если ранее в этот ход попали по этому существу <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span>.\nЕсли ваша проверка прошла успешно, зарядите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>.\nСубъект вашей проверки временно иммунен к \"Анализу магуса\" на 1 день.</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "одиночное действие",
+            "id": "class-feat-magus-maguss-analysis",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поднять том (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2848\">Raise a Tome</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Поднять том",
+            "originalName": "Raise a Tome",
+            "level": 1,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: вы держите книгу</p><p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Вы поднимаете книгу, которую держите в руках, и раскрываете ее, чтобы защитить себя и ускорить учебу.\nКнига остается поднятой до начала вашего следующего хода.\nПока у вас поднята книга, вы получаете бонус обстоятельства +2 к КБ и бонус обстоятельства +1 к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> для идентификации существ, используя навык связанный с темой книги (Аркана, если вы используете свою книгу заклинаний).\nЭтот бонус является дополнением к любому бонусу предмета, который книга обычно дает к такой проверке.</p><p>Если у вас есть <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, то вы можете использовать том для этой способности (Твердость 3, ОЗ 12, ПП 6), как если бы это был щит.\nВсякий раз, когда вы используете умение, позволяющее вам <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>, такое как <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-emergency-targe\">Экстренный щит (Emergency Targe)  / 4</span>, вы можете вместо этого \"Поднять том\", изменив любые требования, которые обычно требуют применения щита на использование книги.</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "одиночное действие",
+            "id": "class-feat-magus-raise-a-tome",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширение чар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=183\">Cantrip Expansion (Magus)</a>) / 2",
+            "name": "Расширение чар",
+            "originalName": "Cantrip Expansion",
+            "level": 2,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Специализированное обучение позволяет вам подготовить более широкий диапазон простых заклинаний.\nВы можете подготавливать 2 дополнительных чар каждый день.</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "",
+            "id": "class-feat-magus-cantrip-expansion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Усиленный фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=318\">Enhanced Familiar (Magus)</a>) / 2",
+            "name": "Усиленный фамильяр",
+            "originalName": "Enhanced Familiar",
+            "level": 2,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: фамильяр</p><p><strong>Источник</strong>: Secrets of Magic pg. 42</p><hr class=\"docutils\"><p>Вы наполняете своего фамильяра дополнительной магической энергией.\nВы можете выбрать 4 способности фамильяра или хозяина каждый день, вместо 2.</p>",
+            "src": "Secrets of Magic pg. 42",
+            "action": "",
+            "id": "class-feat-magus-enhanced-familiar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обширный зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2849\">Expansive Spellstrike</a>) / 2",
+            "name": "Обширный зачарованный удар",
+            "originalName": "Expansive Spellstrike",
+            "level": 2,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 43</p><hr class=\"docutils\"><p>Вы адаптировали более широкий спектр заклинаний для работы с вашими атаками.\nВместо того, чтобы использовать в <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованном ударе (Spellstrike)</span> заклинание с броском атаки, вы можете использовать вредоносное заклинание, которое может быть нацелено на существо или имеет область взрыва, конуса или линии (соблюдая любые другие ограничения \"Зачарованного удара\").\nКогда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> заклинание, у которого нет броска атаки заклинания как части \"Зачарованного удара\", оно работает следующим образом.</p><ul class=\"simple\">\n<li><p>Если ваш Удар критически провален, заклинание теряется без эффекта.</p></li>\n<li><p>Существа используют против этого заклинания свою обычную защиту, такую как спасброски.</p></li>\n<li><p>Если это заклинание позволяет вам выбрать несколько целей, вместо этого оно нацелено только на существо, которое вы атаковали своим Ударом.</p></li>\n<li><p>Если у заклинания есть область, цель должна находиться в этой области. Взрыв центрируется в углу квадрата цели или, если цель <span class=\"s-large\">большая</span> или больше, то в углу квадрата ближайшего к центру цели; если подходит более одного условия, то вы выбираете угол. Конус или линия исходят от вас и должны включать цель; если вы не находитесь рядом с целью (например используя <span class=\"w-reach\">длинное</span> оружие или гибридное обучение <span class=\"card-link \">Звездный диапазон (Starlit Span)</span>), выберите в качестве источника любой квадрат, прилегающий к цели. Заклинание действует на всех существ в этой области как обычно, но Удар по-прежнему нацелен только на 1 существо.</p></li>\n</ul>",
+            "src": "Secrets of Magic pg. 43",
+            "action": "",
+            "id": "class-feat-magus-expansive-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Силовой клык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2850\">Force Fang</a>) / 2",
+            "name": "Силовой клык",
+            "originalName": "Force Fang",
+            "level": 2,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки</p><p><strong>Источник</strong>: Secrets of Magic pg. 43</p><hr class=\"docutils\"><p>Вы можете превратить свою атаку в безошибочное пятно силы.\nВы изучаете заклинание слияния <span class=\"card-link std std-ref\" data-id=\"spell-focus-force-fang\">Силовой клык (Force Fang) / Фокус. 1</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 43",
+            "action": "",
+            "id": "class-feat-magus-force-fang",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парирование заклинаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2851\">Spell Parry</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Парирование заклинаний",
+            "originalName": "Spell Parry",
+            "level": 2,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас свободна одна или несколько рук</p><p><strong>Источник</strong>: Secrets of Magic pg. 43</p><hr class=\"docutils\"><p>Вы вливаете магическую силу в свое тело или оружие, чтобы парировать как физические, так и магические атаки.\nВы повышаете свою защиту, до начала своего следующего хода получая бонус обстоятельства +1 к КБ и спасброскам против заклинаний нацеленных на вас, пока вы продолжаете соответствовать требованиям.</p>",
+            "src": "Secrets of Magic pg. 43",
+            "action": "одиночное действие",
+            "id": "class-feat-magus-spell-parry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Духовные ножны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2852\">Spirit Sheath</a>) / 2",
+            "name": "Духовные ножны",
+            "originalName": "Spirit Sheath",
+            "level": 2,
+            "traits": [
+                "аркана",
+                "воплощение",
+                "межпространственный",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 44</p><hr class=\"docutils\"><p>Вы волшебным образом создали межпространственные ножны для своего оружия, доступ к которому вы получаете через одежду, обычно через карман, рукав или шов.\nЭти ножны трудно заметить, они дают вам бонус обстоятельства +2 к вашим проверкам Скрытности, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span> внутри.\nДуховные ножны могут вместить только одно оружие за раз, и оружие должно быть 1 Массы или меньше.</p><p>Во время <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованного удара</span> вы можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы выхватить оружие перед тем, как <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание.\nВы можете выхватить и вернуть оружие в духовные ножны в качестве действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, как и любой другой, держащий ножны или носящий одежду с ними.\nЗаклинание <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">Рассеять магию (Dispel Magic) / Закл. 2</span> может быть использовано против духовных ножен, чтобы вытолкнуть оружие.\nПроверка противодействия производится против вашего КС заклинаний и использует уровень противодействия ножен 1.\nОружие также выталкивается, если вы <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">теряете сознание</span>.</p>",
+            "src": "Secrets of Magic pg. 44",
+            "action": "",
+            "id": "class-feat-magus-spirit-sheath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрушительный зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2853\">Devastating Spellstrike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Разрушительный зачарованный удар",
+            "originalName": "Devastating Spellstrike",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Неумолимое железо (Inexorable Iron)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span>, <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Вы стоите в стойке <span class=\"card-link \">Арканного каскада (Arcane Cascade)</span> и ваш <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span> заряжен</p><p><strong>Источник</strong>: Secrets of Magic pg. 44</p><hr class=\"docutils\"><p>Ваш \"Зачарованный удар\" настолько широк и разрушителен, что он обрушивается на ближайших врагов.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>.\nВраги находящиеся рядом с целью, получают урон от брызг, равный 2 + дополнительный урон от \"Арканного каскада\".\nТип урона такой же, как у \"Арканного каскада\"; если заклинание уже наносит урон от брызг того же типа, объедините урон вместе, прежде чем применять слабости или сопротивление.</p>",
+            "src": "Secrets of Magic pg. 44",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-magus-devastating-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отвлекающий зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2854\">Distracting Spellstrike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Отвлекающий зачарованный удар",
+            "originalName": "Distracting Spellstrike",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Смеющаяся тень (Laughing Shadow)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span>, <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Вы стоите в стойке <span class=\"card-link \">Арканного каскада (Arcane Cascade)</span> и у вас есть свободная рука</p><p><strong>Источник</strong>: Secrets of Magic pg. 44</p><hr class=\"docutils\"><p>Вы плетете отвлекающую магию одной рукой, чтобы усилить свой \"Зачарованный удар\".\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span> и сделайте <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span> против цели вашего Удара.\nСделайте его непосредственно перед нанесением <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, но после выбора цели.\nФинт приобретает признаки <span class=\"t-arcana\">аркана</span>, <span class=\"t-illusion\">иллюзия</span> и <span class=\"t-visual\">визуальное</span>, и он всегда имеет основные эффекты Финта, а не применяет какие-либо корректировки или альтернативные эффекты от других способностей или умений.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>В оригинале, предварительные условия не указывают \"Арканный каскад\", но дальше он упоминается в требовании.</p>\n</div>",
+            "src": "Secrets of Magic pg. 44",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-magus-distracting-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Экстренный щит (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2855\">Emergency Targe</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Экстренный щит",
+            "originalName": "Emergency Targe",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Сверкающий щит (Sparkling Targe)</span></p><p><strong>Триггер</strong>: Враг попадает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя или броском атаки заклинания ближнего боя, или вы проваливаете спасбросок против заклинания врага</p><p><strong>Требования</strong>: Вы владеете щитом или подготовили заклинание <span class=\"card-link std std-ref\" data-id=\"spell-s-shield\">Щит (Shield) / Чары 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 44</p><hr class=\"docutils\"><p>Вы немедленно применяете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span> или сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-s-shield\">Щит (Shield) / Чары 1</span>.\nБонус обстоятельства применяется к вашим защитам при определении результата спровоцировавшей атаки или заклинания.</p>",
+            "src": "Secrets of Magic pg. 44",
+            "action": "реакция",
+            "id": "class-feat-magus-emergency-targe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Звездные глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2856\">Starlit Eyes</a>) / 4",
+            "name": "Звездные глаза",
+            "originalName": "Starlit Eyes",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Звездный диапазон (Starlit Span)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Источник</strong>: Secrets of Magic pg. 44</p><hr class=\"docutils\"><p>Звездный свет сияет в вашем поле зрения, усиливая ваше восприятие и дистанцию.\nКогда вы совершаете дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span>, находясь в стойке <span class=\"card-link \">Арканного каскада</span>, вы понижаете КС своей чистой проверки, чтобы нацелиться на существо, которое <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыто</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятано</span> от вас.\nКС уменьшается до 3 вместо 5 против <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытого</span> существа и до 9 вместо 11 против <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанного</span>.\nКогда вы сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-focus-shooting-star\">Падающая звезда (Shooting Star) / Фокус. 1</span> и нацеливаетесь в <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанное</span> существо, то вам не нужно выполнять чистую проверку на прицеливание в спрятанное существо Ударом дальнего боя.</p>",
+            "src": "Secrets of Magic pg. 44",
+            "action": "",
+            "id": "class-feat-magus-starlit-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойкое колдовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2857\">Steady Spellcasting (Magus)</a>) / 4",
+            "name": "Стойкое колдовство",
+            "originalName": "Steady Spellcasting",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Вы уверены в своих колдовских приемах и способны легче восстановить свою концентрацию когда выполняете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nЕсли реакция прервет ваше заклинательское действие, совершите чистую проверку с КС 15.\nВ случае успеха, ваше действие не прерывается.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-steady-spellcasting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свиток нападающего (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2858\">Striker's Scroll</a>) / 4",
+            "name": "Свиток нападающего",
+            "originalName": "Striker's Scroll",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Вы можете прикрепить <span class=\"t-scroll\">свиток</span> к своему оружию или <span class=\"card-link \">Повязки могучих ударов (Handwraps of Mighty Blows) / Предмет 2+</span>, чтобы смешать его заклинание с атакой, аккуратно сложив его вокруг части оружия или запечатав его на поверхности оружия.\nПрикрепление свитка требует использовать действие <span class=\"card-link \">Прикрепить талисман (Affix a Talisman)</span>.\nВы можете прикреплять к оружию только 1 свиток за раз, и вы не можете прикреплять одновременно <span class=\"t-talisman\">талисман</span> и <span class=\"t-scroll\">свиток</span>.</p><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворить (Cast)</span> это заклинание из свитка как часть <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованного удара (Spellstrike)</span>, предполагая, что это заклинание, которое вы обычно могли бы использовать с \"Зачарованным ударом\".\nВы не можете Сотворить это заклинание каким-либо другим способом, пока оно прикреплено, хотя вы можете снова применить действие \"Прикрепить талисман\", чтобы снять свиток и использовать его как обычный, пусть и немного помятый, свиток.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-strikers-scroll",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ученик посоха (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2859\">Student of the Staff</a>) / 4",
+            "name": "Ученик посоха",
+            "originalName": "Student of the Staff",
+            "level": 4,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Извилистое древо (Twisting Tree)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Вы тщательно изучили посох, чтобы узнать скрытые возможности своего избранного оружия.\nКогда вы совершаете критически успешный бросок атаки с посохом, то применяете эффект критической специализации группы оружия \"дубинка\".\nПока вы находитесь в стойке <span class=\"card-link \">Арканного каскада (Arcane Cascade)</span>, ваш посох получает признак <span class=\"w-deadly\">смертельное d6</span>, при этом урон <span class=\"w-deadly\">смертельной</span> кости того же типа, что и дополнительный урон \"Арканного каскада\".</p><p>Кроме того вы можете поместить руны свойств в подготовленный вами магический посох, хотя обычно магический посох не может содержать руны свойств.\nСначала вы должны записать руны свойств в свою книгу заклинаний, используя тот же процесс, что и при переносе руны (см. <span class=\"card-link \">Перенос рун (Transferring Runes)</span>).\nВ вашей книге заклинаний руна принимает форму специализированной диаграммы, занимающей одну страницу.\nВы не можете начертать руны, которые нельзя поместить на немагический посох, и вы не можете начертать руну <span class=\"card-link \">Изменяющая (Shifting) / Руна 6</span>.\nКогда вы готовите посох, вы можете передать посоху любое количество рун свойств из вашей книги заклинаний, вплоть до предела, установленного <span class=\"card-link \">Руна мощи оружия (Weapon Potency) / Руна 2+</span>.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-student-of-the-staff",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возможность для атаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=145\">Attack of Opportunity (Magus)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Возможность для атаки",
+            "originalName": "Attack of Opportunity",
+            "level": 6,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует действие <span class=\"t-move\">движения</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия <span class=\"t-move\">движения</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, который открылся для удара.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли ваша атака является крит.попаданием, и спровоцировавшее действие было <span class=\"t-manipulate\">воздействием</span>, то вы прерываете это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "реакция",
+            "id": "class-feat-magus-attack-of-opportunity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каскадная контрмера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2860\">Cascade Countermeasure</a>) / 6",
+            "name": "Каскадная контрмера",
+            "originalName": "Cascade Countermeasure",
+            "level": 6,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки, <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Когда вы находитесь в \"Арканном каскаде\", вы можете сделать себя устойчивым к магии.\nВы изучаете заклинание слияния <span class=\"card-link std std-ref\" data-id=\"spell-focus-cascade-countermeasure\">Каскадная контрмера (Cascade Countermeasure) / Фокус. 3</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-cascade-countermeasure",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знание - сила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2861\">Knowledge is Power</a>) / 6",
+            "name": "Знание - сила",
+            "originalName": "Knowledge is Power",
+            "level": 6,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Когда вы совершаете критически успешную проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о существе, вы получаете бонус обстоятельства +1 к вашему следующему броску атаки против этого существа, к вашему КБ против его следующего броска атаки и к вашему спасброску против его следующего эффекта, требующего спасброска.\nЕсли вы делитесь этой информацией со своими союзниками, они тоже получают эти преимущества.\nЕсли они не использованы, эти бонусы заканчиваются через 1 минуту.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-knowledge-is-power",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защищенный том (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2862\">Shielded Tome</a>) / 6",
+            "name": "Защищенный том",
+            "originalName": "Shielded Tome",
+            "level": 6,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-raise-a-tome\">Поднять том (Raise a Tome)  / 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Во время ежедневных приготовлений вы можете волшебным образом встроить щит в свою любимую книгу, где он появится в виде сложной закладки.\nВ то время как они соединены, книга разделяет Твердость, ОЗ и ПП щита, и ее можно использовать для <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, если у вас есть такая реакция, с требованием \"Вы Подняли том\" вместо обычных требований.</p><p>Вы можете переключать форму слитого предмета с книги на щит с мотивом в форме книги в качестве одиночного действия, которое обладает признаком <span class=\"t-concentrate\">концентрация</span>.\nКогда предмет находится в форме книги, вы можете читать книгу и <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-raise-a-tome\">Поднять том (Raise a Tome)  / 1</span>, а когда он находится в форме щита, вы можете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>, <span class=\"card-link \">Активировать (Activate)</span> его, и получить любые другие преимущества или эффекты, которые обычно имеет щит (например, бонус <span class=\"card-link \">Щит от заклинаний (Spellguard Shield) / Предмет 6</span> к спасброскам против заклинаний).\nСлияние длится до ваших следующих ежедневных приготовлений.</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "",
+            "id": "class-feat-magus-shielded-tome",
+            "archetype": ""
+        },
+        {
+            "fullName": "Захват магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2863\">Capture Magic</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Захват магии",
+            "originalName": "Capture Magic",
+            "level": 8,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Триггер</strong>: Вы совершаете успешный спасбросок от вредящего заклинания противника или враг проваливает бросок атаки заклинания против вас, используя вредящее заклинание</p><p><strong>Источник</strong>: Secrets of Magic pg. 45</p><hr class=\"docutils\"><p>Когда вы сопротивляетесь заклинанию, вы улавливаете часть его магии для собственного использования.\nВы входите в свою стойку \"Арканного каскада\", используя вызвавшее реакцию заклинание, чтобы определить, какой тип урона наносит ваш \"Арканный каскад\".\nВ качестве альтернативы, если вы уже в стойке \"Арканного каскада\", вы можете вместо этого временно усилить его эффекты.\nДо конца вашего следующего хода вы получаете бонус состояния +2 к урону вашего \"Арканного каскада\".</p>",
+            "src": "Secrets of Magic pg. 45",
+            "action": "реакция",
+            "id": "class-feat-magus-capture-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сплавленный посох (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2864\">Fused Staff</a>) / 8",
+            "name": "Сплавленный посох",
+            "originalName": "Fused Staff",
+            "level": 8,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 46</p><hr class=\"docutils\"><p>Когда вы подготавливаете посох, вы можете поднести его к оружию, чтобы объединить два предмета.\nВы можете переключить форму сплавленного предмета с оружия на посох или наоборот, в качестве одиночного действия, которое имеет признак <span class=\"t-concentrate\">концентрация</span>.\nКогда предмет находиться в форме посоха, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> посоха и использовать любые другие возможности, предоставляемые посохом.\nПосох и оружие имеют общие фундаментальные руны, используя свои самые сильные <span class=\"card-link \">Руна мощи оружия (Weapon Potency) / Руна 2+</span> и <span class=\"card-link \">Разящая (Striking) / Руна 4+</span>.\nОни не делят между собой никакие другие руны или особые возможности.</p><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять Заклинания (Cast Spells)</span> из посоха, как часть \"Зачарованного удара\", даже когда посох находится в форме оружия.\nВ противном случае вы не можете сотворять заклинания посоха, пока он находится в форме оружия.</p><p>Слияние длится до ваших следующих ежедневных приготовлений, хотя вы можете потратить 10 минут, чтобы разделить два предмета и объединить посох с другим оружием.\nСлияние работает только для вас.\nДругой владелец может использовать посох в его текущей форме, но не может преобразовать его, воспользоваться преимуществами общих рун или использовать его заклинания для нанесения \"Зачарованного удара\", если он находится в форме оружия.</p>",
+            "src": "Secrets of Magic pg. 46",
+            "action": "",
+            "id": "class-feat-magus-fused-staff",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рунический оттиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2865\">Runic Impression</a>) / 8",
+            "name": "Рунический оттиск",
+            "originalName": "Runic Impression",
+            "level": 8,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки</p><p><strong>Источник</strong>: Secrets of Magic pg. 46</p><hr class=\"docutils\"><p>Вы можете временно воспроизвести эффекты руны свойства для вашего оружия или безоружных атак.\nВы изучаете заклинание слияния <span class=\"card-link std std-ref\" data-id=\"spell-focus-runic-impression\">Рунический оттиск (Runic Impression) / Фокус. 4</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 46",
+            "action": "",
+            "id": "class-feat-magus-runic-impression",
+            "archetype": ""
+        },
+        {
+            "fullName": "Размах заклинанием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2866\">Spell Swipe</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Размах заклинанием",
+            "originalName": "Spell Swipe",
+            "level": 8,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Ваш \"Зачарованный удар\" заряжен</p><p><strong>Источник</strong>: Secrets of Magic pg. 46</p><hr class=\"docutils\"><p>Вы атакуете по дуге и применяете свое заклинание против всех, кого вы поражаете.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>, но кидайте отдельные Удары, чтобы атаковать 2 существ, каждое из которых должно находится в пределах досягаемости вашего ближнего боя и рядом друг с другом.\nЕсли ваше заклинание может повлиять на 2 или более цели, то ваше заклинание влияет на тех врагов, по которым вы попали, а не только на первую цель; в противном случае выберите 1 цель, на которую будет воздействовать заклинание.\n\"Размах заклинанием\" засчитывается за 2 атаки для вашего штрафа множественной атаки, но штраф не увеличивается до тех пор, пока вы не совершите обе атаки.</p><p>Если вы используете оружие, обладающее признаком <span class=\"w-sweep\">размах</span>, его бонус обстоятельства применяется против обеих целей.\nВы можете использовать эту активность только с Ударами ближнего боя, даже если у вас есть гибридное обучение <span class=\"card-link \">Звездный диапазон (Starlit Span)</span> или аналогичное умение.</p><p>Если вы используете способность <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-expansive-spellstrike\">Обширный зачарованный удар (Expansive Spellstrike) / 2</span> для \"Зачарованного удара\" с заклинанием по области, примените область как описано в \"Обширном зачарованном ударе\", выбрав одно из <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударяемых (Strike)</span> вами существ, чтобы определить область, и то, не сработает ли заклинание из-за критического провала Удара.\nЕсли вы используете \"Обширный зачарованный удар\" для \"Зачарованного удара\" нацеливаемым заклинанием, то заклинание полностью теряется, только если оба Удара являются критическими провалами.</p>",
+            "src": "Secrets of Magic pg. 46",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-magus-spell-swipe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ожидающее заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2867\">Standby Spell</a>) / 8",
+            "name": "Ожидающее заклинание",
+            "originalName": "Standby Spell",
+            "level": 8,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Вы отточили 1 заклинание как свою излюбленную боевую технику, и вы практиковали его достаточно, чтобы вам больше не нужно было готовить его к использованию.\nВыберите заклинание из своей книги заклинаний, которое вы могли бы использовать с \"Зачарованным ударом\", и уровень которого не выше, чем у вашего слота заклинаний магуса самого высокого уровня.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять (Cast)</span> это заклинание, не подготовив его заранее, израсходовав слот заклинания достаточного уровня, чтобы сотворить выбранное вами заклинание.\nВы можете изменить это заклинание всякий раз, когда добавляете новые заклинания в свою книгу заклинаний, или 1 час изучая свою книгу заклинаний.</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "",
+            "id": "class-feat-magus-standby-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каскадный луч (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2868\">Cascading Ray</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Каскадный луч",
+            "originalName": "Cascading Ray",
+            "level": 10,
+            "traits": [
+                "атака",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Ваше последнее действие было успешным \"Зачарованным ударом\", и сотворенное заклинание нанесло энергетический урон (кислота, холод, электричество, огонь, сила, звук, негативный или позитивный)</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Магическая энергия выплескивается наружу, чтобы выйти за пределы существа, которого вы ударили.\nТекучая энергия формирует луч с дистанцией 60 футов от существа, которого вы повредили.\nВы не можете нацелиться этим лучом ни на одно из существ, которым вы нанести урон \"Зачарованным ударом\".\nСделайте бросок атаки заклинанием против КБ новой цели с тем же штрафом множественной атаки, что был у <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>.\nПри попадании цель луча получает 1d4 урона за уровень заклинания, того же типа энергии, который наносит заклинание (двойной урон при критическом попадании).\nЕсли вы сотворяете это заклинание в своем \"Зачарованном ударе\" из слота, то урон \"Каскадного луча\" увеличивается до 1d8 за уровень заклинания.</p><p>Если заклинание наносит более одного типа энергетического урона, то для луча вы выбираете только один из них.\nЭтот луч обладает признаком <span class=\"t-attack\">атака</span>, признаками школы и обычая оригинального заклинания и признаком соответствующего типа урона.</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "одиночное действие",
+            "id": "class-feat-magus-cascading-ray",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ослепительный блок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2869\">Dazzling Block</a>) / 10",
+            "name": "Ослепительный блок",
+            "originalName": "Dazzling Block",
+            "level": 10,
+            "traits": [
+                "эвокация",
+                "свет",
+                "визуальное",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Сверкающий щит (Sparkling Targe)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Требования</strong>: Вы в стойке \"Арканного каскада\"</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>При использовании <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span>, вы можете создать вспышку яркого разноцветного света в 15-футовом конусе.\nКаждое существо в этой области должно совершить спасбросок Стойкости со следующими эффектами.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: У существа <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 1 раунд и оно <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 минуту. Существо может потратить действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, протирая глаза, чтобы покончить с этим состоянием <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепоты</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: У существа <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 1 раунд и оно <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 час</div>\n</div>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "",
+            "id": "class-feat-magus-dazzling-block",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пространственное исчезновение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2870\">Dimensional Disappearance</a>) / 10",
+            "name": "Пространственное исчезновение",
+            "originalName": "Dimensional Disappearance",
+            "level": 10,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Смеющаяся тень (Laughing Shadow)</span>,\nфокусное заклинание <span class=\"card-link std std-ref\" data-id=\"spell-focus-dimensional-assault\">Пространственное нападение (Dimensional Assault) / Фокус. 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Вы пользуетесь преимуществами телепортации, чтобы лучше скрыть свое местоположение.\nКогда вы сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-focus-dimensional-assault\">Пространственное нападение (Dimensional Assault) / Фокус. 1</span>, по окончании телепорта на вас действует заклинание <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>.\nВы можете отказаться от нанесения <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, который обычно является частью <em>пространственного нападения</em>.\nЕсли вы нанесете Удар, ваша невидимость закончится после Удара, как обычно для <em>невидимости</em>.</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "",
+            "id": "class-feat-magus-dimensional-disappearance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Устремляющийся зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2871\">Lunging Spellstrike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Устремляющийся зачарованный удар",
+            "originalName": "Lunging Spellstrike",
+            "level": 10,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Извилистое древо (Twisting Tree)</span>,\n<span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Вы владеете посохом</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Ваше заклинание разматывает структуру вашего посоха, чтобы сделать его исключительно длинным, или даже разделить его на осколки, удерживаемые вместе магической силой.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span> посохом, применяя заклинание не являющееся чарами или фокусным заклинанием.\nУвеличьте досягаемость посоха на 5 футов за уровень заклинания.</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-magus-lunging-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Метеоритный зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2872\">Meteoric Spellstrike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Метеоритный зачарованный удар",
+            "originalName": "Meteoric Spellstrike",
+            "level": 10,
+            "traits": [
+                "аркана",
+                "эвокация",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Звездный диапазон (Starlit Span)</span>,\n<span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Вы владеете оружием дальнего боя, <span class=\"w-thrown\">метательным</span> оружием или имеете дистанционную безоружную атаку</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Поток энергии течет от вашей цели обратно к вам.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span> оружием дальнего боя или дистанционной безоружной атакой по цели в пределах первого шага дистанции оружия или безоружной атаки.\nСотворяемое для \"Зачарованного удара\" заклинание, не может быть чарами или фокусным заклинанием.\nКаждое существо на линии между вами и целью, за исключением вас и цели, получает урон, равный удвоенному уровню заклинания.\nОпределите тип урона, как описано в <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span>.</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-magus-meteoric-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрая перезарядка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2873\">Rapid Recharge</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Быстрая перезарядка",
+            "originalName": "Rapid Recharge",
+            "level": 10,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Частота</strong>: Раз в день</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Вы прибегаете к арканному трюку, чтобы восстановить свою способность сочетать заклинания и атаки.\nВы заряжаете свой \"Зачарованный удар\".</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "свободное действие",
+            "id": "class-feat-magus-rapid-recharge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поддерживающая сталь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2874\">Sustaining Steel</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Поддерживающая сталь",
+            "originalName": "Sustaining Steel",
+            "level": 10,
+            "traits": [
+                "аркана",
+                "некромантия",
+                "исцеление",
+                "позитивное",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: гибридное обучение <span class=\"card-link \">Неумолимое железо (Inexorable Iron)</span>,\n<span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Триггер</strong>: Вы используете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> из слота заклинаний</p><p><strong>Требования</strong>: Вы в стойке \"Арканного каскада\"</p><p><strong>Источник</strong>: Secrets of Magic pg. 47</p><hr class=\"docutils\"><p>Вы втягиваете магию в свое оружие, используя его субстанцию, чтобы превратить магию в восстанавливающую энергию.\nВы восстанавливаете ОЗ, равные удвоенному уровню заклинания, и совершаете бросок, чтобы закончить любой имеющийся продолжительный <span class=\"t-negative\">негативный</span> урон.</p><p>Если заклинание было школы <span class=\"t-necromancy\">некромантии</span>, то любой имеющийся продолжительный негативный урон заканчивается автоматически, и если хотите, то вы можете изменить тип урона <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span> на позитивный (он обычно наносит урон только <span class=\"t-undead\">нежити</span> или другим существам с <span class=\"card-link \">негативным исцелением</span>).</p>",
+            "src": "Secrets of Magic pg. 47",
+            "action": "свободное действие",
+            "id": "class-feat-magus-sustaining-steel",
+            "archetype": ""
+        },
+        {
+            "fullName": "Слияние фокусировки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2875\">Conflux Focus</a>) / 12",
+            "name": "Слияние фокусировки",
+            "originalName": "Conflux Focus",
+            "level": 12,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Заклинания слияния (Conflux Spells)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 48</p><hr class=\"docutils\"><p>Вы представляете, как будете переплетать магию и бой в будущих сражениях, улучшая свою сосредоточенность.\nЕсли вы потратили хотя бы 2 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 2 Очка Фокусировки вместо 1.</p>",
+            "src": "Secrets of Magic pg. 48",
+            "action": "",
+            "id": "class-feat-magus-conflux-focus",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магическое чувство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=622\">Magic Sense (Magus)</a>) / 12",
+            "name": "Магическое чувство",
+            "originalName": "Magic Sense",
+            "level": 12,
+            "traits": [
+                "аркана",
+                "прорицание",
+                "обнаружение",
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 48</p><hr class=\"docutils\"><p>У вас есть буквальное шестое чувство окружающей магии в вашем окружении.\nВы можете ощущать присутствие магических аур, как если бы всегда использовали <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> 1-го уровня.\nЭто обнаруживает магию только в вашем поле зрения.\nКогда вы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Ищете (Seek)</span>, то получаете преимущества заклинания <em>обнаружения магии</em> 3-го уровня на том что видите (в дополнение к обычным преимуществам Поиска).\nВы можете отключить и включить это чувство с помощью свободного действия в начале или конце вашего хода.</p>",
+            "src": "Secrets of Magic pg. 48",
+            "action": "",
+            "id": "class-feat-magus-magic-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ошеломляющий зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2876\">Overwhelming Spellstrike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Ошеломляющий зачарованный удар",
+            "originalName": "Overwhelming Spellstrike",
+            "level": 12,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Ваш \"Зачарованный удар\" заряжен</p><p><strong>Источник</strong>: Secrets of Magic pg. 48</p><hr class=\"docutils\"><p>Вы пробиваетесь сквозь сопротивление своего врага.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>.\nЗаклинание, которое вы сотворяете как часть \"Зачарованного удара\", игнорирует у цели величину сопротивления кислоте, холоду, электричеству, огню или звуку, равный вашему уровню.\nЭто относится ко всему урону, наносимому заклинанием, включая продолжительный урон и урон, вызванный продолжающимся эффектом заклинания.\nИммунитеты существа не затрагивается.</p>",
+            "src": "Secrets of Magic pg. 48",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-magus-overwhelming-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканная пелена (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2877\">Arcane Shroud</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Арканная пелена",
+            "originalName": "Arcane Shroud",
+            "level": 14,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span>, <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Частота</strong>: раз в ход</p><p><strong>Требования</strong>: Ваше последнее действие было <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> с помощью слота заклинаний или выполнение <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span> с помощью слота заклинаний</p><p><strong>Источник</strong>: Secrets of Magic pg. 48</p><hr class=\"docutils\"><p>Ваше заклинание обладает мощным постэффектом, ненадолго предоставляя вам определенное заклинание в зависимости от того, какое заклинание вы сотворили.\nВы используете <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span> и подвергаетесь дополнительному заклинанию постэффекта в зависимости от школы вашего последнего заклинания.\nПродолжительность этого заклинания постэффекта длится до конца вашего следующего хода или его обычной продолжительности, в зависимости от того, что дольше.\nИспользование \"Арканной пелены\" снова, завершает любое существующее заклинание, которое вы получили от \"Арканной пелены\".</p><ul class=\"simple\">\n<li><p><span class=\"t-abjuration\">Преграждение</span>: <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span></p></li>\n<li><p><span class=\"t-conjuration\">Воплощение</span>: <span class=\"card-link std std-ref\" data-id=\"spell-b-blink\">Мерцание (Blink) / Закл. 4</span></p></li>\n<li><p><span class=\"t-divination\">Прорицание</span>: <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></p></li>\n<li><p><span class=\"t-enchantment\">Очарование</span>: <span class=\"card-link std std-ref\" data-id=\"spell-h-heroism\">Героизм (Heroism) / Закл. 3</span></p></li>\n<li><p><span class=\"t-evocation\">Эвокация</span>: <span class=\"card-link std std-ref\" data-id=\"spell-f-fire-shield\">Огненный щит (Fire Shield) / Закл. 4</span></p></li>\n<li><p><span class=\"t-illusion\">Иллюзия</span>: <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> (заканчивается после враждебного действия, как обычно)</p></li>\n<li><p><span class=\"t-necromancy\">Некромантия</span>: <span class=\"card-link std std-ref\" data-id=\"spell-f-false-life\">Ложная жизнь (False Life) / Закл. 2</span></p></li>\n<li><p><span class=\"t-transmutation\">Трансмутация</span>: <span class=\"card-link std std-ref\" data-id=\"spell-f-fleet-step\">Быстрый шаг (Fleet Step) / Закл. 1</span></p></li>\n</ul>",
+            "src": "Secrets of Magic pg. 48",
+            "action": "одиночное действие",
+            "id": "class-feat-magus-arcane-shroud",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ускоренное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2878\">Hasted Assault</a>) / 14",
+            "name": "Ускоренное нападение",
+            "originalName": "Hasted Assault",
+            "level": 14,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки</p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы можете ускорить себя, чтобы двигаться и атаковать быстрее.\nВы изучаете заклинание слияния <span class=\"card-link std std-ref\" data-id=\"spell-focus-hasted-assault\">Ускоренное нападение (Hasted Assault) / Фокус. 7</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "",
+            "id": "class-feat-magus-hasted-assault",
+            "archetype": ""
+        },
+        {
+            "fullName": "Противоестественное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2879\">Preternatural Parry</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Противоестественное парирование",
+            "originalName": "Preternatural Parry",
+            "level": 14,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-spell-parry\">Парирование заклинаний (Spell Parry)  / 2</span></p><p><strong>Триггер</strong>: Вы являетесь целью <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span> или броска атаки заклинания, или вы собираетесь совершить спасбросок против эффекта заклинания</p><p><strong>Требования</strong>: У вас свободна одна или несколько рук</p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы щелкаете своим оружием или конечностью перед опасностью, чтобы предотвратить вред в последнюю секунду.\nВы, до начала вашего следующего хода, получаете бонус обстоятельства +2 к КБ и спасброскам против спровоцировавшего эффекта.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "реакция",
+            "id": "class-feat-magus-preternatural-parry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рассеивающий зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2880\">Dispelling Spellstrike</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Рассеивающий зачарованный удар",
+            "originalName": "Dispelling Spellstrike",
+            "level": 16,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Ваш \"Зачарованный удар\" заряжен</p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Заклинание, которое вы доставляете, пытается вытеснить магию, воздействующую на вашего врага.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>.\nЕсли он попадет, вы также попытаетесь <span class=\"card-link \">Противодействие (Counteracting)</span> одному заклинанию (по вашему выбору), действующему на цель.\nУровень противодействия равен половине вашего уровня, округленного до больше целого, а модификатор проверки противодействия является стандартным модификатором для противодействия с помощью заклинания (ваш модификатор Интеллекта + бонус мастерства колдовства, + любые бонусы или штрафы, которые конкретно применяются для проверки противодействия).</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-magus-dispelling-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оглушительный каскад (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2881\">Resounding Cascade</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Оглушительный каскад",
+            "originalName": "Resounding Cascade",
+            "level": 16,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Арканный каскад (Arcane Cascade) </span></p><p><strong>Триггер</strong>: Вы используете \"Арканный каскад\"</p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Когда вы входите в свою стойку \"Арканного каскада\", вы распределяете магическое подкрепление по ближайшим союзникам.\nВы даруете дополнительный урон \"Арканного каскада\" в ауре, воздействующей на всех союзников в 5-футовой эманации.\nПри этом используется только базовый урон стойки, основанный на специализации в оружии союзника; это не использует никакого увеличения, которое вы получаете от бонусов, гибридного обучения <span class=\"card-link \">Смеющаяся тень (Laughing Shadow)</span> или тому подобного.\nКак обычно для повторяющихся эффектов, несколько \"Арканных каскадов\", влияющих на одно и то же существо, не складываются.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "свободное действие",
+            "id": "class-feat-magus-resounding-cascade",
+            "archetype": ""
+        },
+        {
+            "fullName": "Источник слияния (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2882\">Conflux Wellspring</a>) / 18",
+            "name": "Источник слияния",
+            "originalName": "Conflux Wellspring",
+            "level": 18,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-conflux-focus\">Слияние фокусировки (Conflux Focus) / 12</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы достигли идеального магического и физического равновесия, позволяя магии легче проникать в вас и проходить через вас.\nЕсли вы потратили хотя бы 3 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 3 Очка Фокусировки вместо 1.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "",
+            "id": "class-feat-magus-conflux-wellspring",
+            "archetype": ""
+        },
+        {
+            "fullName": "Универсальный зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2883\">Versatile Spellstrike</a>) / 18",
+            "name": "Универсальный зачарованный удар",
+            "originalName": "Versatile Spellstrike",
+            "level": 18,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы можете направить всю сферу возможностей вашей книги заклинаний в атаку.\nОдин раз во время ежедневных приготовлений вы можете использовать слот заклинания, чтобы сохранить этот бесконечный потенциал, вместо того, чтобы использовать его для подготовки заклинаний.\nКогда вы наносите <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>, вы можете потратить этот специальный слот заклинания, чтобы немедленно подготовить и сотворить заклинание из своей книги, которое на 2 уровня ниже уровня этого слота (как обычно для подготовки заклинаний, вы можете использовать заклинание еще более низкого уровня, соответственно повышая его).\nУ вас нет никакого заклинания, подготовленного в этом слоте, пока вы не сотворите заклинание из этого слота.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "",
+            "id": "class-feat-magus-versatile-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Высший зачарованный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2884\">Supreme Spellstrike</a>) / 20",
+            "name": "Высший зачарованный удар",
+            "originalName": "Supreme Spellstrike",
+            "level": 20,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы почти без усилий объединили заклинания и атаки.\nВы навсегда <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span>.\nВы можете использовать это дополнительное действие только для <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span> или, чтобы перезарядить <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "",
+            "id": "class-feat-magus-supreme-spellstrike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ураганное заклинание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2885\">Whirlwind Spell</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 20",
+            "name": "Ураганное заклинание",
+            "originalName": "Whirlwind Spell",
+            "level": 20,
+            "traits": [
+                "магус"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Зачарованный удар (Spellstrike)</span></p><p><strong>Требования</strong>: Ваш \"Зачарованный удар\" заряжен</p><p><strong>Источник</strong>: Secrets of Magic pg. 49</p><hr class=\"docutils\"><p>Вы сочетаете мощь многоцелевого заклинания с вихревым шквалом атак.\nВы используете <span class=\"card-link std std-ref\" data-id=\"action-magus-spellstrike\">Зачарованный удар (Spellstrike) </span>, нанося <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по каждому врагу в пределах вашей досягаемости, а не по одному врагу.\nЕсли ваше заклинание может воздействовать на несколько целей, то оно влияет на всех врагов, по которым вы попали, а не только на первую цель, вплоть до обычного количества максимальных целей заклинаний.\nЕсли вы Ударили больше врагов, чем может быть целей у заклинания, выберите, на каких врагов влияет заклинание.\nКаждая атака считается в ваш штраф множественной атаки, но не увеличивает ваш штраф до тех пор, пока вы не совершите все атаки.</p><p>Если вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-expansive-spellstrike\">Обширный зачарованный удар (Expansive Spellstrike) / 2</span>, чтобы выполнить \"Зачарованный удар\" с заклинанием по области, используя область как описано в \"Обширном зачарованном ударе\", выбирая одно из существ по которому вы попали Ударом, чтобы определить область и то, не сработает ли заклинание из-за критического провала Удара.\nЕсли вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-magus-expansive-spellstrike\">Обширный зачарованный удар (Expansive Spellstrike) / 2</span>, чтобы нанести \"Зачарованный удар\" с целящимся заклинанием, то каждое существо, по которому вы критически промахиваетесь Ударом, невредимо заклинанием, но это заклинание не теряется полностью из-за одного критического провала.</p><p>Вы можете использовать эту активность только с Ударами ближнего боя, даже если у вас есть гибридное обучение <span class=\"card-link \">Звездный диапазон (Starlit Span)</span> или аналогичное умение.</p>",
+            "src": "Secrets of Magic pg. 49",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-magus-whirlwind-spell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенное вооружение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2886\">Advanced Weaponry</a>) / 1",
+            "name": "Улучшенное вооружение",
+            "originalName": "Advanced Weaponry",
+            "level": 1,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>Атаки вашего эйдолона эволюционируют.\nВыберите одну из начальных безоружных атак эйдолона.\nОна получает один из следующих признаков, в момент выбора этой способности: <span class=\"w-disarm\">разоружение</span>, <span class=\"w-grapple\">захват</span>, <span class=\"w-shove\">толчок</span>, <span class=\"w-trip\">опрокидывание</span>, <span class=\"w-nonlethal\">несмертельное</span>, либо <span class=\"w-versatile\">универсальное</span> с дробящим, колющим или рубящим уроном.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "",
+            "id": "class-feat-summoner-advanced-weaponry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойное обучение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2887\">Dual Studies</a>) / 1",
+            "name": "Двойное обучение",
+            "originalName": "Dual Studies",
+            "level": 1,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>У вас и вашего эйдолона есть некоторые навыки, в которых практиковались сами по себе.\nВыберите 2 навыка.\nВаш эйдолон становится обучен одному из них, а вы становитесь обучены другому.\nНа 7-м уровне каждый из вас становится экспертом выбранного навыка.\nЭти уровни мастерства навыков не являются общими между вами и вашим эйдолоном.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "",
+            "id": "class-feat-summoner-dual-studies",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сердце энергии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2888\">Energy Heart</a>) / 1",
+            "name": "Сердце энергии",
+            "originalName": "Energy Heart",
+            "level": 1,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>Сердце вашего эйдолона бьется энергией.\nВыберите энергетический тип урона, кроме <span class=\"t-force\">силы</span>.\nОдна из его безоружных атак меняется свой тип урона на выбранный, и эйдолон получает сопротивление этому типу урона, равное половине вашего уровня (минимум 1).</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "",
+            "id": "class-feat-summoner-energy-heart",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширенные чувства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2889\">Expanded Senses</a>) / 1",
+            "name": "Расширенные чувства",
+            "originalName": "Expanded Senses",
+            "level": 1,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>Ваш эйдолон развивает более острые чувства.\nОн получает сумеречное зрение и ночное зрение, а также нюх как неточное чувство с дальностью 30 футов.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "",
+            "id": "class-feat-summoner-expanded-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Продление усиления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2890\">Extend Boost</a>) / 1",
+            "name": "Продление усиления",
+            "originalName": "Extend Boost",
+            "level": 1,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>Вы можете увеличить продолжительность усилений эйдолона.\nВы изучаете заклинание связи <span class=\"card-link std std-ref\" data-id=\"spell-focus-extend-boost\">Продление усиления (Extend Boost) / Фокус. 1</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "",
+            "id": "class-feat-summoner-extend-boost",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парящая форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2891\">Glider Form</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Парящая форма",
+            "originalName": "Glider Form",
+            "level": 1,
+            "traits": [
+                "эволюция",
+                "движение",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>У вашего эйдолона развиваются крылья, тело способное удерживаться в воздухе или другие способы управлять снижением.\nОн медленно планирует по воздуху к земле, со скоростью 5 футов вниз и вплоть до 25 футов вперед.\nПока он тратит хотя бы 1 действие, планируя каждый раунд и не достигнув земли, то он остаетесь в воздухе в конце своего хода.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-glider-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Слияние с эйдолоном (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2892\">Meld Into Eidolon</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Слияние с эйдолоном",
+            "originalName": "Meld Into Eidolon",
+            "level": 1,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 67</p><hr class=\"docutils\"><p>Ваша физическая форма может объединяться с формой эйдолона, давая преимущества, но ограничивая ваши возможности.\nВы <span class=\"card-link \">Проявляете (Manifest)</span> своего эйдолона, но вместо призыва его на соседнее свободное пространство, вы становитесь им.\nПока он Проявлен таким способом, вы используете его показатели и не можете действовать, кроме как заставить его использовать <span class=\"card-link \">Проявление эйдолона (Manifest Eidolon) </span> чтобы отозваться.\nПоскольку вы не можете действовать - вы не можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять заклинания (Cast Spells)</span>, активировать магические предметы или получать от них преимущества, если они дают их вам, а не эйдолону, выполнять действия имеющие признак <span class=\"t-tandem\">тандем</span>, или использовать другие умения, требующие действовать вас, а не эйдолона.\nВ вас нельзя целиться порознь когда вы слились таким способом.\nКогда ваши ОЗ снижаются до 0, ваш эйдолон отзывается, оставляя ваше тело, <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> и <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.</p>",
+            "src": "Secrets of Magic pg. 67",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-summoner-meld-into-eidolon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Освободить эйдолона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2893\">Unfetter Eidolon</a>) / 1",
+            "name": "Освободить эйдолона",
+            "originalName": "Unfetter Eidolon",
+            "level": 1,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Вы можете позволить своему эйдолону уходить далеко от вас.\nВы изучаете заклинание связи <span class=\"card-link std std-ref\" data-id=\"spell-focus-unfetter-eidolon\">Освободить эйдолона (Unfetter Eidolon) / Фокус. 1</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-unfetter-eidolon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ретивое поведение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2894\">Alacritous Action</a>) / 2",
+            "name": "Ретивое поведение",
+            "originalName": "Alacritous Action",
+            "level": 2,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Ваш эйдолон двигается быстрее.\nОн получает бонус состояния +10 футов к своей Скорости.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-alacritous-action",
+            "archetype": ""
+        },
+        {
+            "fullName": "Земноводная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2895\">Amphibious Form</a>) / 2",
+            "name": "Земноводная форма",
+            "originalName": "Amphibious Form",
+            "level": 2,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Ваш эйдолон адаптируется к жизни на земле и под водой.\nОн получает признак <span class=\"t-amphibious\">земноводный</span>, что позволяет ему дышать в воде и на воздухе, и избегать обычного штрафа -2 на совершение под водой дробящих и рубящих безоружных <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударов (Strikes)</span>.\nОн получает Скорость плавания равную его наземной Скорости или 25 футов, в зависимости от того, что меньше;\nили если он обычно <span class=\"t-aquatic\">водный</span>, то получает наземную Скорость, равную его Скорости плавания или 25 футам, в зависимости от того, что меньше.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-amphibious-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магический дублёр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2896\">Magical Understudy</a>) / 2",
+            "name": "Магический дублёр",
+            "originalName": "Magical Understudy",
+            "level": 2,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Ваш эйдолон эволюционирует для сотворения заклинаний.\nОн получает активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> и изучает 2 чар своего обычая, которые он может сотворять как врожденные заклинания.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-magical-understudy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боец дальнего боя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2897\">Ranged Combatant</a>) / 2",
+            "name": "Боец дальнего боя",
+            "originalName": "Ranged Combatant",
+            "level": 2,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Шипы, струи пламени и священные взрывы - вот лишь некоторые из способов, которыми ваш эйдолон может атаковать на расстоянии.\nОн получает дистанционную безоружную атаку с шагом дистанции 30 футов, которая наносит 1d4 урона и имеет признаки <span class=\"t-magical\">магический</span> и <span class=\"w-propulsive\">тяговое</span>.\nКогда выбираете эту способность, выберите тип урона: дробящий, колющий, рубящий, кислота, холод, электричество, огонь, негативный или позитивный.\nЕсли ваш эйдолон <span class=\"t-celestial\">небожитель</span>, <span class=\"t-fiend\">бес</span> или <span class=\"t-monitor\">наблюдатель</span> с мировоззрением отличным от истинно нейтрального, то вы можете выбирать тип урона из его мировоззрения.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-ranged-combatant",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укрепление эйдолона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2898\">Reinforce Eidolon</a>) / 2",
+            "name": "Укрепление эйдолона",
+            "originalName": "Reinforce Eidolon",
+            "level": 2,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Вы защищаете своего эйдолона.\nВы получаете чары связи <span class=\"card-link std std-ref\" data-id=\"spell-focus-reinforce-eidolon\">Укрепление эйдолона (Reinforce Eidolon) / Ф.чары. 1</span>.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-reinforce-eidolon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Форма жеребца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2899\">Steed Form</a>) / 2",
+            "name": "Форма жеребца",
+            "originalName": "Steed Form",
+            "level": 2,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>Ваш эйдолон меняется, чтобы стать особенно эффективным скакуном.\nКогда вы верхом на эйдолоне, то каждый раунд получаете свое полное кол-во действий, вместо снижения их до 2.\nЭто применяется только когда вы сами верхом на эйдолоне, а не кто-то другой (см. сноску <span class=\"card-link \">Верхом на разумных существах</span>).\nЧтобы ездить на нем, ваш эйдолон все еще должен быть больше вас хотя бы на 1 размер.\nТак как вы координируете действия, то когда вы на нем верхом, действия <span class=\"t-move\">движения</span> эйдолона получают признак <span class=\"t-tandem\">тандем</span>.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-steed-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровопускающие когти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2900\">Bloodletting Claws</a>) / 4",
+            "name": "Кровопускающие когти",
+            "originalName": "Bloodletting Claws",
+            "level": 4,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 68</p><hr class=\"docutils\"><p>При сильных ударах ваш эйдолон причиняет кровоточащие раны.\nЕсли эйдолон критически попадает безоружным <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span>, наносящим рубящий или колющий урон, то цель получает 1d6 продолжительного урона кровотечением.\nВаш эйдолон получает бонус предмета к этому урону, равняющийся бонусу предмета броска на попадание этой безоружной атаки.\nЭто эффект критической специализации.</p>",
+            "src": "Secrets of Magic pg. 68",
+            "action": "",
+            "id": "class-feat-summoner-bloodletting-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защищать призывателя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2901\">Defend Summoner</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Защищать призывателя",
+            "originalName": "Defend Summoner",
+            "level": 4,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон блокирует атаки по вам.\nПосле того, как ваш эйдолон использует это действие, вы до начала своего следующего хода получаете бонус обстоятельства +2 к КБ.\nЭтот бонус применяется только когда вы в пределах досягаемости своего эйдолона (в большинстве случаев, это значит, что ваш эйдолон рядом с вами или в вашем пространстве).</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-defend-summoner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сердце двойной энергии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2902\">Dual Energy Heart</a>) / 4",
+            "name": "Сердце двойной энергии",
+            "originalName": "Dual Energy Heart",
+            "level": 4,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-energy-heart\">Сердце энергии (Energy Heart) / 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>В вашем эйдолоне обитает вторая энергия.\nВыберите дополнительный тип энергетического урона.\nВаша безоружная атака наносящая энергетический урон получает признак <span class=\"w-versatile\">универсальное</span> для второго энергетического типа урона, а ваш эйдолон получает сопротивление второму типу энергетического урона, равное половине вашего уровня.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-dual-energy-heart",
+            "archetype": ""
+        },
+        {
+            "fullName": "Всплеск жизненной связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2903\">Lifelink Surge</a>) / 4",
+            "name": "Всплеск жизненной связи",
+            "originalName": "Lifelink Surge",
+            "level": 4,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Вы изучаете заклинание связи <span class=\"card-link std std-ref\" data-id=\"spell-focus-lifelink-surge\">Всплеск жизненной связи (Lifelink Surge) / Фокус. 2</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-lifelink-surge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ответное развоплощение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2904\">Reactive Dismissal</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Ответное развоплощение",
+            "originalName": "Reactive Dismissal",
+            "level": 4,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваш эйдолон получит урон</p><p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Вы резко развоплощаете своего эйдолона, чтобы уменьшить получаемый им урон, хоть это и усложняет его повторный призыв.\nСнизьте спровоцировавший урон вашему эйдолону на величину своего удвоенного уровня, а ваш эйдолон отзывается.\nВы не можете снова использовать <span class=\"card-link \">Проявление эйдолона (Manifest Eidolon) </span> до конца своего следующего хода.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "реакция",
+            "id": "class-feat-summoner-reactive-dismissal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Уменьшение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2905\">Shrink Down</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Уменьшение",
+            "originalName": "Shrink Down",
+            "level": 4,
+            "traits": [
+                "эволюция",
+                "трансмутация",
+                "эйдолон",
+                "концентрация",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон может уменьшиться, чтобы помещаться в маленькие пространства.\nВаш эйдолон уменьшается в размере, минимум до <span class=\"s-small\">маленького</span>.\nБудучи уменьшенным, он может использовать это действие еще раз, чтобы вернуться к своему нормальному размеру.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-shrink-down",
+            "archetype": ""
+        },
+        {
+            "fullName": "Умелый напарник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2906\">Skilled Partner</a>) / 4",
+            "name": "Умелый напарник",
+            "originalName": "Skilled Partner",
+            "level": 4,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон получает способность навыка 1-го уровня и 2-го уровня или ниже.\nНа 7-м уровне ваш эйдолон получает дополнительную способность навыка 7-го уровня или ниже.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-skilled-partner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Движение в тандеме (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2907\">Tandem Movement</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Движение в тандеме",
+            "originalName": "Tandem Movement",
+            "level": 4,
+            "traits": [
+                "тандем",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Вы с эйдолоном двигаетесь вместе.\nКаждый из вас использует одиночное действие, чтобы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span>.\nЛюбой из вас, у кого есть соответствующий тип движения, вместо этого может <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span>.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-tandem-movement",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ощущение вибраций (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2908\">Vibration Sense</a>) / 4",
+            "name": "Ощущение вибраций",
+            "originalName": "Vibration Sense",
+            "level": 4,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон получает <span class=\"card-link \">Виброчувствительность (Tremorsense)</span>, как неточное чувство с дальностью 30 футов.\nЕсли он <span class=\"t-aquatic\">водный</span>, то вместо этого получает <span class=\"card-link \">Волночувствительность (Wavesense)</span>, как неточное чувство с дальностью 30 футов.\nЕсли он <span class=\"t-amphibious\">земноводный</span>, то получает оба.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-vibration-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровавое неистовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2909\">Blood Frenzy</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Кровавое неистовство",
+            "originalName": "Blood Frenzy",
+            "level": 6,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-bloodletting-claws\">Кровопускающие когти (Bloodletting Claws) / 4</span></p><p><strong>Требования</strong>: Последнее действие вашего эйдолона нанесло живому существу урон кровотечением</p><p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон впадает в неистовство.\nОн получает преимущества <span class=\"card-link std std-ref\" data-id=\"spell-focus-boost-eidolon\">Усиление эйдолона (Boost Eidolon) / Ф.чары. 1</span> и временные ОЗ равные вашему уровню, но получает штраф -2 к КБ.\nОн не может добровольно закончить неистовство или начать новое, пока уже имеющееся не закончится.\nЭто неистовство длится 1 минуту, после чего он <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span> на 1 минуту и не может начать новое неистовство в течение 1 минуты.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-blood-frenzy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возможность эйдолона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2910\">Eidolon's Opportunity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Возможность эйдолона",
+            "originalName": "Eidolon's Opportunity",
+            "level": 6,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах досягаемости эйдолона использует действие <span class=\"t-move\">движения</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия <span class=\"t-move\">движения</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон совершает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли эта атака является крит.попаданием, и спровоцировавшее действие было <span class=\"t-manipulate\">воздействием</span>, то эйдолон прерывает это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "реакция",
+            "id": "class-feat-summoner-eidolons-opportunity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гнев эйдолона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2911\">Eidolon's Wrath</a>) / 6",
+            "name": "Гнев эйдолона",
+            "originalName": "Eidolon's Wrath",
+            "level": 6,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Ваш эйдолон получает заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-eidolons-wrath\">Гнев эйдолона (Eidolon's Wrath) / Фокус. 3</span>, которое он сотворяет вместо вас.\nВы определяете тип урона когда получаете эту способность: кислота, холод, электричество, огонь, звук, негативный или позитивный.\nЕсли ваш эйдолон <span class=\"t-celestial\">небожитель</span>, <span class=\"t-fiend\">бес</span> или <span class=\"t-monitor\">наблюдатель</span> с мировоззрением отличным от истинно нейтрального, то вы можете выбирать тип урона из его мировоззрения.\nУвеличьте запас Очков Фокусировки на 1.\nКак обычно, у вас эйдолоном общий запас ОФ.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-eidolons-wrath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мастерский призыватель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2912\">Master Summoner</a>) / 6",
+            "name": "Мастерский призыватель",
+            "originalName": "Master Summoner",
+            "level": 6,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Во время своих ежедневных приготовлений, вы можете обозначить 1 из своих слотов заклинаний, чтобы они стали 2 слотами призыва того же уровня заклинания, с помощью которых вы можете сотворять только заклинания <span class=\"t-summoned\">призыва</span> или <span class=\"t-incarnate\">инкарнации</span>.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "",
+            "id": "class-feat-summoner-master-summoner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Демонстративное появление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2913\">Ostentatious Arrival</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Демонстративное появление",
+            "originalName": "Ostentatious Arrival",
+            "level": 6,
+            "traits": [
+                "метамагия",
+                "воздействие",
+                "концентрация",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 69</p><hr class=\"docutils\"><p>Если ваше следующее действие - <span class=\"card-link \">Проявление эйдолона (Manifest Eidolon) </span> в виде активности из 3 действий, или <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение (Cast)</span> заклинания призыва за 3 действия, то существо появляется во взрыве.\nВсе существа в 10-футовой эманации вокруг призванного или проявленного вами существа получают 1d4 огненного урона за уровень заклинания призыва или 1d4 урона за каждые 2 уровня при Проявлении вашего эйдолона.\nЕсли призванное или проявленное вами существо имеет признак <span class=\"t-acid\">кислота</span>, <span class=\"t-cold\">холод</span>, <span class=\"t-electricity\">электричество</span>, <span class=\"t-fire\">огонь</span>, <span class=\"t-water\">вода</span>, или <span class=\"t-sonic\">звук</span>, то урон будет этого же типа (холодом для признака воды).\nЕсли у этого существа более одного из этих признаков, то вы выбираете какой тип урона нанести.</p>",
+            "src": "Secrets of Magic pg. 69",
+            "action": "свободное действие",
+            "id": "class-feat-summoner-ostentatious-arrival",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фазирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2914\">Phase Out</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Фазирование",
+            "originalName": "Phase Out",
+            "level": 6,
+            "traits": [
+                "эволюция",
+                "трансмутация",
+                "концентрация",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: ваш эйдолон - <span class=\"t-phantom\">фантом</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 70</p><hr class=\"docutils\"><p>Ваш эйдолон немного фазируется из реальности, получая сопротивление всему урону (кроме силы и негативного урона) равное половине вашего уровня.\nОн не <span class=\"t-incorporeal\">бестелесный</span>, но не может применять <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> или действия требующие полной физической формы, как например <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>.\nВаш эйдолон может вернуться в свою обычную форму одиночным действием, которое имеет признак <span class=\"t-concentrate\">концентрация</span>.</p>",
+            "src": "Secrets of Magic pg. 70",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-summoner-phase-out",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удар в тандеме (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2915\">Tandem Strike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Удар в тандеме",
+            "originalName": "Tandem Strike",
+            "level": 6,
+            "traits": [
+                "тандем",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Существо находится в вашей досягаемости и досягаемости вашего эйдолона</p><p><strong>Источник</strong>: Secrets of Magic pg. 70</p><hr class=\"docutils\"><p>Вы и ваш эйдолон атакуете по отдельности, целясь в одного и того же противника, не мешая движениям друг друга.\nВаш эйдолон совершает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя и потом вы делаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по тому же существу.\nОбе атаки считаются к вашему штрафу множественной атаки, но он не увеличивается пока не закончатся обе атаки.</p>",
+            "src": "Secrets of Magic pg. 70",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-summoner-tandem-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Усиление призванных (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2916\">Boost Summons</a>) / 8",
+            "name": "Усиление призванных",
+            "originalName": "Boost Summons",
+            "level": 8,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 70</p><hr class=\"docutils\"><p>Усиление вашего эйдолона распространяется на призываемых вами существ.\nКогда вы сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-focus-boost-eidolon\">Усиление эйдолона (Boost Eidolon) / Ф.чары. 1</span>, то помимо вашего эйдолона, его эффект еще берет целями призванных вами существ в пределах 60 футов.</p>",
+            "src": "Secrets of Magic pg. 70",
+            "action": "",
+            "id": "class-feat-summoner-boost-summons",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сжимающая хватка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2917\">Constricting Hold</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Сжимающая хватка",
+            "originalName": "Constricting Hold",
+            "level": 8,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вашего эйдолона есть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченное</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемое</span> существо</p><p><strong>Источник</strong>: Secrets of Magic pg. 70</p><hr class=\"docutils\"><p>Ваш эйдолон сжимает существо, нанося ему дробящий урон, равный уровню эйдолона + его модификатор Силы, с простым спасброском Стойкости против вашего КС заклинания.</p>",
+            "src": "Secrets of Magic pg. 70",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-constricting-hold",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сопротивление энергии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2918\">Energy Resistance</a>) / 8",
+            "name": "Сопротивление энергии",
+            "originalName": "Energy Resistance",
+            "level": 8,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-energy-heart\">Сердце энергии (Energy Heart) / 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон обладает более сильным сопротивлением.\nЕго сопротивление от <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-energy-heart\">Сердце энергии (Energy Heart) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-dual-energy-heart\">Сердце двойной энергии (Dual Energy Heart) / 4</span> увеличивается до вашего уровня.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-energy-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Громадный размер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2919\">Hulking Size</a>) / 8",
+            "name": "Громадный размер",
+            "originalName": "Hulking Size",
+            "level": 8,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон существенно вырастет.\nВместо его предыдущего размера, он становится большим, а его досягаемость увеличивается до 10 футов.\nЭто не меняет никакие из его других характеристик.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-hulking-size",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знаток магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2920\">Magical Adept</a>) / 8",
+            "name": "Знаток магии",
+            "originalName": "Magical Adept",
+            "level": 8,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-understudy\">Магический дублёр (Magical Understudy) / 2</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон получает больше магии.\nВыберите 1 заклинание 2-го уровня и 1 заклинание 1-го уровня из магического обычая вашего эйдолона.\nОн может сотворять их как врожденные заклинания, каждое раз в день.\nНа каждом четном уровне после получения этой способности, ваш эйдолон может заменять одно из этих врожденных заклинаний на новое врожденное заклинание, которое на 2 или более уровней ниже вашего слота заклинания наибольшего уровня.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-magical-adept",
+            "archetype": ""
+        },
+        {
+            "fullName": "Миниатюризация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2921\">Miniaturize</a>) / 8",
+            "name": "Миниатюризация",
+            "originalName": "Miniaturize",
+            "level": 8,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-shrink-down\">Уменьшение (Shrink Down)  / 4</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон может уменьшаться еще сильнее.\nПри использовании <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-shrink-down\">Уменьшение (Shrink Down)  / 4</span>, ваш эйдолон может уменьшаться до крошечного размера.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-miniaturize",
+            "archetype": ""
+        },
+        {
+            "fullName": "Роющая форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2922\">Burrowing Form</a>) / 10",
+            "name": "Роющая форма",
+            "originalName": "Burrowing Form",
+            "level": 10,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон может рыть сквозь рыхлую почву.\nОн получает Скорость рытья 15 футов.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-burrowing-form",
+            "archetype": ""
+        }
+    ]
+}

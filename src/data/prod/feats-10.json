@@ -1,0 +1,1539 @@
+{
+    "feats": [
+        {
+            "fullName": "Рука помощи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3537\">Well-Armed</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Рука помощи",
+            "originalName": "Well-Armed",
+            "level": 5,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Ваши отсоединяемые конечности обеспечивают гибкость.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span> чтобы отсоединить свою руку и владеете ей в другой руке, увеличивая свою досягаемость на 5 футов для любого одноручного оружия, находящегося в этой руке.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> этим оружием, то существа, которые были вне вашей досягаемости и которых вы теперь можете поразить, становятся <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> для вашей первой атаки.\nПока вы держите эту руку, у вас нет свободной руки.\nВы можете Взаимодействовать, чтобы заново прикрепить руку, пока держите ее.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-skeleton-well-armed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Костяной снаряд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3538\">Bone Missile</a>) / 9",
+            "name": "Костяной снаряд",
+            "originalName": "Bone Missile",
+            "level": 9,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Вы можете убирать ребра, чтобы использовать их в качестве стрел или болтов.\nКогда достаете ребро, вы теряете 2 ОЗ, а снаряд наносит дополнительные 2 негативного урона, если вы нанесете им <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> до конца своего следующего хода.\nПотеря ОЗ и дополнительный урон увеличиваются до 3 на 12-м уровне и до 4 на 19-м.\nВаша грудная клетка магически восстанавливается, а любое ребро, которое вы достанете, рассыпается в пыль после использования для Удара или в конце вашего следующего хода, в зависимости от того, что наступит раньше.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "",
+            "id": "ancestry-feat-skeleton-bone-missile",
+            "archetype": ""
+        },
+        {
+            "fullName": "Восстанавливающий символ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3539\">Rejuvenation Token</a>) / 9",
+            "name": "Восстанавливающий символ",
+            "originalName": "Rejuvenation Token",
+            "level": 9,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "скелет"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Вы привязываете себя к <span class=\"card-link \">Материальному Плану</span>, имплантируя частичку своего сознания в оружие, элемент доспеха или другой предмет, который вам дорог.\nПока этот предмет цел, даже если ваше тело разрушено, вы можете быть восстановлены в точном состоянии, в котором вы были в последний раз, когда совершали ежедневные приготовления обладая этим объектом.\nЭтот привязанный к душе объект можно использовать как особый фокус для <span class=\"card-link std std-ref\" data-id=\"spell-r-raise-dead\">Вернуть к жизни (Raise Dead) / Закл. 6</span>, <span class=\"card-link \">Воскрешение (Resurrect) / Ритуал 5</span> или подобной магии.\nЭто искажает заклинание, чтобы не оживить вас, а вернуть вас в состояние скелетной нежити.\n<span class=\"card-link \">Фаразма (Pharasma)</span> не может помешать вам вернуться, если заклинание изменено таким образом.</p><p>Когда вы возвращаетесь, в дополнение к любым другим побочным эффектам заклинания, которое вас вернуло, вы навсегда теряете память, которая была вам дорога.\nВаш связанный с душой предмет становится инертным, пока вы не потратите 1 неделю отдыха, чтобы снова привязать себя к нему, что еще больше раздробит ваш разум.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "",
+            "id": "ancestry-feat-skeleton-rejuvenation-token",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скелетное сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3540\">Skeletal Resistance</a>) / 9",
+            "name": "Скелетное сопротивление",
+            "originalName": "Skeletal Resistance",
+            "level": 9,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 57</p><hr class=\"docutils\"><p>Ваше тело становится устойчивым, ваши укрепленные кости отклоняют оружие и другие виды урона.\nВы получаете сопротивление 2 холоду, электричеству, огню, колющему и рубящему урону.\nЭто сопротивление увеличивается до 3 на 13-м уровне и до 4 на 17-м.</p>",
+            "src": "Book of the Dead pg. 57",
+            "action": "",
+            "id": "ancestry-feat-skeleton-skeletal-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скелетная трансформация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3541\">Skeletal Transformation</a>) / 13",
+            "name": "Скелетная трансформация",
+            "originalName": "Skeletal Transformation",
+            "level": 13,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 57</p><hr class=\"docutils\"><p>Вы перестраиваете свои кости в звериную форму.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span> как врожденное сакральное заклинание.\nПри сотворении вы выбираете 3-й, 4-й или 5-й уровень заклинания.\nВаша боевая форма выглядит как скелетная версия этого животного.\nВ этой форме вы сохраняете преимущества любых способностей скелета, для которых не требуется использование рук или возможность говорить.</p>",
+            "src": "Book of the Dead pg. 57",
+            "action": "",
+            "id": "ancestry-feat-skeleton-skeletal-transformation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Командир скелетов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3542\">Skeleton Commander</a>) / 13",
+            "name": "Командир скелетов",
+            "originalName": "Skeleton Commander",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "скелет"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Религии</p><p><strong>Источник</strong>: Book of the Dead pg. 57</p><hr class=\"docutils\"><p>Вы получаете возможность призывать своих собственных скелетов-миньонов.\nВы изучаете ритуалы <span class=\"card-link \">Создание нежити (Create Undead) / Ритуал 2</span> для создания 3 видов нежити, для которых вы соответствуете предварительным условиям.\nЭта нежить должна иметь признак <span class=\"t-skeleton\">скелет</span> или быть другой скелетной нежитью, на которую согласен Мастер.\nВы не можете обучать этим ритуалам никого другого, и вы не можете участвовать ни в одном из ритуалов, позволяя кому-то другому выступать в качестве основного заклинателя, если только он тоже не знает этот ритуал.</p><p>Вы получаете бонус обстоятельства +2 к проверкам Религии для ритуалов <span class=\"card-link \">Создание нежити (Create Undead) / Ритуал 2</span>.\nВы также можете выполнить этот ритуал без помощи вторичного заклинателя; в этом случае вы совершаете вторичную проверку, обычно выполняемую этим заклинателем.</p>",
+            "src": "Book of the Dead pg. 57",
+            "action": "",
+            "id": "ancestry-feat-skeleton-skeleton-commander",
+            "archetype": ""
+        },
+        {
+            "fullName": "Костяной рой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3543\">Bone Swarm</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Костяной рой",
+            "originalName": "Bone Swarm",
+            "level": 17,
+            "traits": [
+                "трансмутация",
+                "полиморф",
+                "концентрация",
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Book of the Dead pg. 57</p><hr class=\"docutils\"><p>Вы разбрасываете свое тело и превращаетесь в вихрящийся шторм из костей, на 1 минуту или пока не потратите одиночное действие, чтобы вернуться в свою обычную форму.\nВы становитесь <span class=\"s-huge\">огромного</span> размера, получаете признак <span class=\"t-swarm\">рой</span> и Скорость полета 40 футов.\nКак рой, вы обладаете следующими характеристиками.</p><ul class=\"simple\">\n<li><p>Вы иммунны к состояниям <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> и <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.</p></li>\n<li><p>У вас слабость 5 к урону по области и урону <span class=\"t-splash\">брызгами</span>.</p></li>\n<li><p>Вы можете занимать тоже пространство, что и другие существа и должны так делать для применения своих умений наносящих урон.</p></li>\n<li><p>Активностью в 2 действия (<img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">) вы можете нанести 10d6 дробящего урона всем существам в пространствах которых вы находитесь (простой спасбросок Рефлекса против вашего КС класса или КС заклинания, в зависимости от того, что больше).</p></li>\n<li><p>Вы не можете говорить, <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять заклинания (Cast Spells)</span>, использовать действия <span class=\"t-manipulate\">воздействия</span> требующие ваших рук, <span class=\"card-link \">Активировать (Activate)</span> магические предметы или наносить какие-либо <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> своим обычным телом.</p></li>\n<li><p>Вы не получаете умение <span class=\"card-link \">Разум роя (Swarm Mind)</span>, поэтому <span class=\"t-mental\">ментальные</span> эффекты действуют на вас как обычно. Еще вы сохраняете преимущества любых способностей скелета, для которых не требуется использование рук или возможность общаться.</p></li>\n</ul>",
+            "src": "Book of the Dead pg. 57",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-skeleton-bone-swarm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наследник некромантии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3544\">Necromantic Heir</a>) / 17",
+            "name": "Наследник некромантии",
+            "originalName": "Necromantic Heir",
+            "level": 17,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 57</p><hr class=\"docutils\"><p>Ваше сродство с негативной энергией выплескивается наружу и дает вам возможность пополнить источник некромантической сущности.\nВы можете раз в час творить <span class=\"card-link std std-ref\" data-id=\"spell-h-harm\">Нанесение ран (Harm) / Закл. 1</span> как врожденное сакральное заклинание 6-го уровня.</p>",
+            "src": "Book of the Dead pg. 57",
+            "action": "",
+            "id": "ancestry-feat-skeleton-necromantic-heir",
+            "archetype": ""
+        },
+        {
+            "fullName": "Древние воспоминания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3944\">Ancient Memories</a>) / 1",
+            "name": "Древние воспоминания",
+            "originalName": "Ancient Memories",
+            "level": 1,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>За долгие годы, прошедшие со дня Горуса, вы в то или иное время занимались практически всем.\nВо время своих ежедневных приготовлений вы можете изучить свои воспоминания о прошлых жизнях, чтобы стать обученным 1 навыку по своему выбору.\nЭтот уровень мастерства действует до тех пор, пока вы снова не подготовитесь.\nПоскольку это мастерство временное, вы не можете использовать его в качестве предварительного условия для увеличения навыка или постоянной опции персонажа, такой как способность.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "",
+            "id": "ancestry-feat-ghoran-ancient-memories",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гибкая форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3945\">Flexible Form</a>) / 1",
+            "name": "Гибкая форма",
+            "originalName": "Flexible Form",
+            "level": 1,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: любое наследие кроме <span class=\"card-link \">Сильный дуб (Strong Oak)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>Ваше тело гибкое, как саженец, способное сгибаться и не ломаться.\nВы обучаетесь Акробатике, и если вы получаете успех при броске <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протискивания (Squeeze)</span>, то вместо этого получаете критический успех.\nЕсли вы автоматически становитесь обучены Акробатике (например, благодаря своей предыстории или классу), то вместо этого становитесь обучены другому навыку на свой выбор.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "",
+            "id": "ancestry-feat-ghoran-flexible-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания горанов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3946\">Ghoran Lore</a>) / 1",
+            "name": "Знания горанов",
+            "originalName": "Ghoran Lore",
+            "level": 1,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>Самые первые воспоминания горанов - это воспоминания об их создании, и даже спустя тысячи лет эти воспоминания для вас не померкли.\nВы становитесь обучены Аркане и Природе.\nЕсли вы автоматически становитесь обучены одному из этих навыков (например, благодаря своей предыстории или классу), то вместо этого становитесь обучены другому навыка по своему выбору.\nЕще вы становитесь обучены Знаниям горанов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "",
+            "id": "ancestry-feat-ghoran-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием горанов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3947\">Ghoran Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием горанов",
+            "originalName": "Ghoran Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>За время своего долгого-предолгого существования вы успели попрактиковаться с традиционным горанским оружием.\nВы обучены владению глефой, двуручной дубиной, топориком, косой и серпом.\nКроме того, вы получаете доступ ко всему <span class=\"r-uncommon\">необычному</span> <span class=\"t-ghoran\">горанскому</span> оружию.\nС целью определения вашего уровня мастерства с этим оружием, воинское горанское оружие считается простым, а продвинутое горанское оружие считается воинским.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "",
+            "id": "ancestry-feat-ghoran-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Спрятанные шипы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3948\">Hidden Thorn</a>) / 1",
+            "name": "Спрятанные шипы",
+            "originalName": "Hidden Thorn",
+            "level": 1,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 37</p><hr class=\"docutils\"><p>Некоторые цветы могут прятать свои шипы, и ваши оказались спрятаны на руках.\nВы получаете безоружную атаку шипами, которая наносит 1d6 колющего урона.\nВаши шипы относятся к группе оружия \"<span class=\"card-link \">нож</span>\" и обладают признаками <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 37",
+            "action": "",
+            "id": "ancestry-feat-ghoran-hidden-thorn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опыт с оружием горанов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3949\">Ghoran Weapon Practice</a>) / 5",
+            "name": "Опыт с оружием горанов",
+            "originalName": "Ghoran Weapon Practice",
+            "level": 5,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-weapon-familiarity\">Знакомство с оружием горанов (Ghoran Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38</p><hr class=\"docutils\"><p>При достаточной практике, на вас нахлынывают воспоминания о предыдущих боях из прошлых жизней.\nКогда вы наносите критическое попадание глефой, двуручной дубиной, топориком, косой, серпом или <span class=\"t-ghoran\">горанским</span> оружием, то вы применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38",
+            "action": "",
+            "id": "ancestry-feat-ghoran-weapon-practice",
+            "archetype": ""
+        },
+        {
+            "fullName": "Убийственные шипы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3950\">Murderous Thorns</a>) / 5",
+            "name": "Убийственные шипы",
+            "originalName": "Murderous Thorns",
+            "level": 5,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-hidden-thorn\">Спрятанные шипы (Hidden Thorn) / 1</span> или наследие <span class=\"card-link \">Колючая роза (Thorned Rose)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38</p><hr class=\"docutils\"><p>Ваши шипы многочисленны, опасны и остры.\nЕсли у вас есть способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-hidden-thorn\">Спрятанные шипы (Hidden Thorn) / 1</span>, то ваша атака шипами получает признак <span class=\"w-deadly\">смертельное d6</span>.\nЕсли у вас есть наследие <span class=\"card-link \">Колючая роза (Thorned Rose)</span>, то можете использовать реакцию <span class=\"card-link std std-ref\" data-id=\"action-ghoran-wicked-thorns\">Опасные шипы (Wicked Thorns) </span> раз в час.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38",
+            "action": "",
+            "id": "ancestry-feat-ghoran-murderous-thorns",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разговор с цветами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3951\">Speak with Flowers</a>) / 5",
+            "name": "Разговор с цветами",
+            "originalName": "Speak with Flowers",
+            "level": 5,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38</p><hr class=\"docutils\"><p>В самой своей сердцевине, вы - цветок, оживленный древней магией, и, приложив немного усилий, вы можете разговаривать со своими сородичами.\nВы можете задавать вопросы, получать ответы и использовать навык Дипломатии с цветущими растениями всех видов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38",
+            "action": "",
+            "id": "ancestry-feat-ghoran-speak-with-flowers",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опека дерева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3952\">Tree's Ward</a>) / 5",
+            "name": "Опека дерева",
+            "originalName": "Tree's Ward",
+            "level": 5,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38</p><hr class=\"docutils\"><p>Вы так долго живете среди деревьев, что они распознают ваше присутствие и стремятся защитить вас от вреда.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-protector-tree\">Дерево-защитник (Protector Tree) / Закл. 1</span> как врожденное природное заклинание.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38",
+            "action": "",
+            "id": "ancestry-feat-ghoran-trees-ward",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бесконечные воспоминания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3953\">Endless Memories</a>) / 9",
+            "name": "Бесконечные воспоминания",
+            "originalName": "Endless Memories",
+            "level": 9,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-ancient-memories\">Древние воспоминания (Ancient Memories) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38-39</p><hr class=\"docutils\"><p>Вы прожили тысячу жизней и совершили сто тысяч поступков.\nКогда вы выбираете навык, которому становитесь обучены с помощью <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-ancient-memories\">Древние воспоминания (Ancient Memories) / 1</span>, вы еще можете выбрать навык, которому уже обучены, и стать экспертом этого навыка.\nЭто длится до тех пор, пока не истечет срок действия \"Древних воспоминаний\".\nКогда эффекты \"Древних воспоминаний\" и \"Бесконечных воспоминаний\" заканчиваются, вы можете переобучиться одному из своих увеличений навыка.\nЭто увеличение навыка, получаемое в результате этого переобучения, должно либо сделать вас обученным навыку, который вы выбрали в \"Древних воспоминаниях\", либо сделать вас экспертом навыка, который вы выбрали в \"Бесконечных воспоминаниях\".</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38-39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-endless-memories",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цветочная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3954\">Flower Magic</a>) / 9",
+            "name": "Цветочная магия",
+            "originalName": "Flower Magic",
+            "level": 9,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38-39</p><hr class=\"docutils\"><p>Некоторая магия мира легко проходит через ваш сок.\nВы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-b-barkskin\">Дубовая кожа (Barkskin) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-t-tree-shape\">Форма дерева (Tree Shape) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.\nЗаклинание <em>форма дерева</em>, сотворяемое таким образом, превращает вас не в дерево, а в цветущее растение <span class=\"s-large\">большого</span> размера, такое как куст роз или куст сирени.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 38-39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-flower-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облако парфюма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3955\">Perfume Cloud</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Облако парфюма",
+            "originalName": "Perfume Cloud",
+            "level": 9,
+            "traits": [
+                "болезнь",
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 38-39</p><hr class=\"docutils\"><p>Вы словно чихаете всем телом, выпуская облако своего аромата - но это может спасти вам жизнь, поскольку мощный парфюм, заставляет глаза нападающих щипать и слезиться.\n<span class=\"t-plant\">Растения</span> и <span class=\"t-fungus\">грибковые</span> иммунны к этому эффекту, но все остальные существа, находящиеся в 10-футовой эманации, должны совершить спасбросок Стойкости против вашего КС класса или КС заклинания (в зависимости от того, что больше) со следующими результатами.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Нет эффекта.</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 раунд.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо на 1 раунд <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> и может видеть только в пределах 10 футов.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепнет</span> на 1 раунд.</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 38-39",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-ghoran-perfume-cloud",
+            "archetype": ""
+        },
+        {
+            "fullName": "Солнечное восстановление сил (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3956\">Solar Rejuvenation (Ghoran)</a>) / 9",
+            "name": "Солнечное восстановление сил",
+            "originalName": "Solar Rejuvenation",
+            "level": 9,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>Тепло и свет солнца дают вам жизнь.\nЕсли вы отдыхаете на открытом воздухе, 10 минут в течение дня, то восстанавливаете Очки Здоровья, в количестве, равном вашему модификатору Телосложения × на половину вашего уровня.\nВы получаете это преимущество в дополнение к любому лечению от <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-solar-rejuvenation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечные воспоминания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3957\">Eternal Memories</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Вечные воспоминания",
+            "originalName": "Eternal Memories",
+            "level": 13,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-endless-memories\">Бесконечные воспоминания (Endless Memories) / 9</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>Вы прожили дольше, чем многие думают, и благодаря своей многолетней практике, вы сейчас помните почти все из своих предыдущих перерождений.\nВы изучаете свои воспоминания, изменяя навыки, выбранные вами с помощью <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-ancient-memories\">Древние воспоминания (Ancient Memories) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-endless-memories\">Бесконечные воспоминания (Endless Memories) / 9</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-ghoran-eternal-memories",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия горанов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3958\">Ghoran Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия горанов",
+            "originalName": "Ghoran Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-ghoran-weapon-familiarity\">Знакомство с оружием горанов (Ghoran Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>Вы как будто тренировались тысячу лет.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его с глефой, двуручной дубиной, топориком, косой, серпом или <span class=\"t-ghoran\">горанским</span> оружием которому вы обучены.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смотри, но не трогай (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3959\">Look but Don't Touch</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Смотри, но не трогай",
+            "originalName": "Look but Don't Touch",
+            "level": 13,
+            "traits": [
+                "яд",
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>Многие цветы прекрасны на вид, но смертельно опасны при прикосновении - и вы один из них.\nВ течение 1 минуты, любое существо, которое прикасается к вам, либо наносит вам урон оружием ближнего боя без признака <span class=\"w-reach\">длинное</span> или безоружной атакой ближнего боя, получает 3d6 урона ядом.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-ghoran-look-but-dont-touch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жестокие лозы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3960\">Violent Vines</a>) / 13",
+            "name": "Жестокие лозы",
+            "originalName": "Violent Vines",
+            "level": 13,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>Когда вы разгневаны, вы можете напитать своим гневом лозы неподалеку, провоцируя их на убийственное буйство.\nВы можете раз в час творить <span class=\"card-link std std-ref\" data-id=\"spell-murderous-vine\">Убийственная лоза (Murderous Vine) / Закл. 4</span> как врожденное природное заклинание.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-violent-vines",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гнев горана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3961\">Ghoran's Wrath</a>) / 17",
+            "name": "Гнев горана",
+            "originalName": "Ghoran's Wrath",
+            "level": 17,
+            "traits": [
+                "горан"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 39</p><hr class=\"docutils\"><p>У вас настолько сильная связь с природой, что вы можете побудить ее напасть на тех, кто вам угрожает.\nВы можете раз в час творить <span class=\"card-link std std-ref\" data-id=\"spell-natures-reprisal\">Возмездие природы (Nature's Reprisal) / Закл. 6</span> как врожденное природное заклинание.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 39",
+            "action": "",
+            "id": "ancestry-feat-ghoran-ghorans-wrath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания общества (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3962\">Community Knowledge</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Знания общества",
+            "originalName": "Community Knowledge",
+            "level": 1,
+            "traits": [
+                "оккультный",
+                "прорицание",
+                "концентрация",
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы совершаете проверку навыка, требующую 3 или менее действий</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 42</p><hr class=\"docutils\"><p>Вы общаетесь с психическими отголосками своих предков и общины, направляя их опыт в себя.\nВы получаете бонус состояния +2 к спровоцировавшей проверке навыка.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 42",
+            "action": "реакция",
+            "id": "ancestry-feat-kashrishi-community-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кристаллическое свечение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3963\">Crystal Luminescence</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Кристаллическое свечение",
+            "originalName": "Crystal Luminescence",
+            "level": 1,
+            "traits": [
+                "свет",
+                "концентрация",
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>Ваш рог светится биолюминесцентным цветом, излучая яркий свет в 20-футовой эманации (и тусклый свет на следующие 20 футов).\nЭтот свет может быть любого цвета.\nНаиболее распространенные цвета - синий и фиолетовый, за исключением наследия <span class=\"card-link \">Троглоши (Trogloshi)</span>, которые обычно излучают белый свет.\nСвет гаснет, когда вы снова совершаете это действие или оказываетесь <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>.</p><p>Если заклинание или умение активирует ваш светящийся рог во время действия \"Кристаллического свечения\", то вместо этого, оно до начала вашего следующего хода увеличивает радиус яркого и тусклого света на 10 футов.\nЭто не накапливающийся эффект, поэтому использование другой подобной возможности не увеличивает радиус снова.</p><p><strong>Особенность</strong>: Если у вас есть наследие <span class=\"card-link \">Троглоши (Trogloshi)</span>, то вы можете выбрать эту способность второй раз (в дополнение к тому, что вы получаете его автоматически от вашего наследия).\nЕсли вы это сделаете, то увеличиваете область действия до 40-футовой эманации (и тусклый свет на следующие 40 футов).\nКроме того, вы можете использовать \"Кристаллическое свечение\" свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) при первом использовании в каждом из ваших ходов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-kashrishi-crystal-luminescence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эмоциональные преграды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3964\">Emotional Partitions</a>) / 1",
+            "name": "Эмоциональные преграды",
+            "originalName": "Emotional Partitions",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>Вы создали в своем разуме прочные ментальные преграды, чтобы отсеивать негативные эмоциональные влияния.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов <span class=\"t-emotion\">эмоций</span>.\nЕсли при броске спасброска против эффекта <span class=\"t-emotion\">эмоции</span> вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-emotional-partitions",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ментальное пропитание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3965\">Mental Sustenance</a>) / 1",
+            "name": "Ментальное пропитание",
+            "originalName": "Mental Sustenance",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>Вы можете поддерживать себя силой разума.\nВам нужна лишь 1 порция еды и воды в неделю, чтобы избежать <span class=\"card-link \">голода или обезвоживания</span>.\nВы можете <span class=\"card-link \">задерживать дыхание</span> на дополнительные 5 раундов, прежде чем закончится воздух.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-mental-sustenance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Открытый разум (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3966\">Open Mind</a>) / 1",
+            "name": "Открытый разум",
+            "originalName": "Open Mind",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>У вас есть врожденные экстрасенсорные способности, которые позволяют вам использовать силу своего разума.\nВыберите 1 <span class=\"t-cantrip\">чары</span> из <span class=\"card-link \">списка оккультных заклинаний</span>.\nВы можете по желанию сотворять эти чары как врожденное оккультное заклинание.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-open-mind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прокалывающий рог (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3967\">Puncturing Horn</a>) / 1",
+            "name": "Прокалывающий рог",
+            "originalName": "Puncturing Horn",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>Хотя многие кашриши никогда не используют свои рога для чего-то большего, чем вскрывания фруктов в твердой скорлупе или усиления своих экстрасенсорных способностей, вы практиковались в использовании своего рога для сражений.\nВы получаете безоружную атаку рогом, которая наносит 1d6 колющего урона.\nВаш рог относится к группе оружия \"<span class=\"card-link \">драка</span>\" и имеет признаки <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.</p><p><strong>Особенность</strong>: Если у нас наследие <span class=\"card-link \">Зилоши (Xyloshi)</span>, то вместо этого ваш рог наносит 1d8 колющего урона.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-puncturing-horn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вскарабкивание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3968\">Scuttle Up</a>) / 1",
+            "name": "Вскарабкивание",
+            "originalName": "Scuttle Up",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Атамаси (Athamasi)</span> или <span class=\"card-link \">Зилоши (Xyloshi)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 43</p><hr class=\"docutils\"><p>Окружающая среда требует от вас регулярного лазания по стенам пещер или стволам деревьев.\nВы получаете Скорость карабканья 10 футов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 43",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-scuttle-up",
+            "archetype": ""
+        },
+        {
+            "fullName": "Толстая кожа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3969\">Tough Skin</a>) / 1",
+            "name": "Толстая кожа",
+            "originalName": "Tough Skin",
+            "level": 1,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Летоси (Lethoci)</span> или <span class=\"card-link \">Зилоши (Xyloshi)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Ваша шкура является средним доспехом из группы <span class=\"card-link \">латных</span>, дающая бонус предмета +4 к КБ, и ограничение модификатора Ловкости к КБ равное +1, штраф проверки -2, штраф Скорости -5 футов, значение Силы 16 и признак <span class=\"a-comfort\">удобный</span>.\nВы никогда не сможете надевать другие доспехи или снять шкуру.\nВы можете гравировать на шкуру руны доспехов.</p><p>Если у вас наследие <span class=\"card-link \">Летоси (Lethoci)</span>, то ваши модификации также делают вас более плавучим, позволяя вам <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плавать (Swim)</span> по поверхности даже бурных водоемов без необходимости совершать проверку Атлетики.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться на нее.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-tough-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эмпатическое спокойствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3970\">Empathic Calm</a>) / 5",
+            "name": "Эмпатическое спокойствие",
+            "originalName": "Empathic Calm",
+            "level": 5,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Вы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span> либо <span class=\"card-link std std-ref\" data-id=\"spell-s-sanctuary\">Убежище (Sanctuary) / Закл. 1</span> как врожденное оккультное заклинание, усиленное до половины вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-empathic-calm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой рог (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3971\">Fighting Horn</a>) / 5",
+            "name": "Боевой рог",
+            "originalName": "Fighting Horn",
+            "level": 5,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-puncturing-horn\">Прокалывающий рог (Puncturing Horn) / 1</span> или наследие <span class=\"card-link \">Зилоши (Xyloshi)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Используя свои ментальные силы, вы можете изменять размер и форму своего рога с течением времени.\nВыберите 2 из следующих признака оружия: <span class=\"w-disarm\">разоружение</span>, <span class=\"w-grapple\">захват</span>, <span class=\"w-trip\">опрокидывание</span>, и <span class=\"w-shove\">толчок</span>.\nВаш рог получает выбранные признаки.</p><p><strong>Особенность</strong>: Вы можете взять эту способность второй раз, добавляя признаки не выбранные в первый раз.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-fighting-horn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Умелый верхолаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3972\">Skilled Climber</a>) / 5",
+            "name": "Умелый верхолаз",
+            "originalName": "Skilled Climber",
+            "level": 5,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Атамаси (Athamasi)</span> или <span class=\"card-link \">Зилоши (Xyloshi)</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Вы можете с легкостью перемещаться по вертикальным поверхностям.\nВы получаете Скорость карабканья 10 футов.\nЕсли у вас еще есть способность родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-scuttle-up\">Вскарабкивание (Scuttle Up) / 1</span>, то когда вы взбираетесь на деревья или стены пещер - ваша Скорость карабканья увеличивается до вашей наземной Скорости.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-skilled-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раскрыть секрет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3973\">Unlock Secret</a>) / 5",
+            "name": "Раскрыть секрет",
+            "originalName": "Unlock Secret",
+            "level": 5,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-open-mind\">Открытый разум (Open Mind) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Вы глубже погружаетесь в свой экстрасенсорный потенциал.\nВыберите оккультное заклинание 1-го уровня, являющееся <span class=\"r-common\">обычным</span> либо другим, к которому у вас есть доступ.\nВы можете творить это заклинание 1 раз в день как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-unlock-secret",
+            "archetype": ""
+        },
+        {
+            "fullName": "Колодец потенциала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3974\">Well of Potential</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Колодец потенциала",
+            "originalName": "Well of Potential",
+            "level": 5,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас Очков Фокусировки, хотя бы 1 врожденное заклинание от наследия кашриши или способности родословной имеющее общий магический обычай с хотя бы один из ваших заклинаний фокусировки</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Ваш разум - глубокий колодец экстрасенсорного потенциала.\nВы восстанавливаете 1 Очко Фокусировки, вплоть до вашего обычного максимума.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-kashrishi-well-of-potential",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укрепленный разум (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3975\">Fortified Mind</a>) / 9",
+            "name": "Укрепленный разум",
+            "originalName": "Fortified Mind",
+            "level": 9,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 44</p><hr class=\"docutils\"><p>Ваш разум необычайно устойчив и сопротивляется влиянию.\nКогда вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожен</span> или <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен</span>, вы можете совершить чистую проверку КС 17.\nПри успехе вы не получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожен</span> или <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 44",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-fortified-mind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Телекинетическое выскальзывание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3976\">Telekinetic Slip</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Телекинетическое выскальзывание",
+            "originalName": "Telekinetic Slip",
+            "level": 9,
+            "traits": [
+                "оккультный",
+                "эвокация",
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Начинается ваш ход и вы <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачены</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемы</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Тонкая оболочка телекинетической энергии отталкивается от вашей кожи, расширяя хватку врага настолько, что вы можете выскользнуть.\nВы получаете бонус состояния +2 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> против того, кто вас <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схватил</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживает</span>.\nЭтот бонус длится до тех пор, пока вы не перестанете быть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченным</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемым</span>, или пока вы не окажетесь <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "реакция",
+            "id": "ancestry-feat-kashrishi-telekinetic-slip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Трансцендентное осознание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3977\">Transcendent Realization</a>) / 9",
+            "name": "Трансцендентное осознание",
+            "originalName": "Transcendent Realization",
+            "level": 9,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-unlock-secret\">Раскрыть секрет (Unlock Secret) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Вы раскрыли еще более безграничный потенциал своего разума.\nВыберите оккультное заклинание 3-го уровня, являющееся <span class=\"r-common\">обычным</span> либо другим, к которому у вас есть доступ, в том числе низкоуровневое заклинание усиленное до 3-го уровня.\nВы можете творить это заклинание 1 раз в день как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-transcendent-realization",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оживление кашриши (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3978\">Kashrishi Revivification</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Оживление кашриши",
+            "originalName": "Kashrishi Revivification",
+            "level": 13,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: У вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и вы готовы совершить проверку восстановления.\nВы можете использовать \"Оживление кашриши\" даже, если не можете действовать.</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Источник психической энергии, хранящийся в вашем разуме, может превысить ограничения вашего физического тела.\nВы восстанавливаетесь до 1 ОЗ, теряете состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> и можете нормально действовать в этот ход.\nВы, как обычно, получаете или увеличиваете состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> за потерю состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "свободное действие",
+            "id": "ancestry-feat-kashrishi-kashrishi-revivification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Переосмысление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3979\">Reimagine</a>) / 13",
+            "name": "Переосмысление",
+            "originalName": "Reimagine",
+            "level": 13,
+            "traits": [
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-transcendent-realization\">Трансцендентное осознание (Transcendent Realization) / 9</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Вы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-d-dreaming-potential\">Спящий потенциал (Dreaming Potential) / Закл. 5</span> как врожденное оккультное заклинание.\nВы можете накладывать это заклинание на себя в качестве своей последней активности перед сном, чтобы получить его обычные преимущества и эффекты.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-reimagine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изгибание пространства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3980\">Bend Space</a>) / 17",
+            "name": "Изгибание пространства",
+            "originalName": "Bend Space",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "кашриши"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-kashrishi-transcendent-realization\">Трансцендентное осознание (Transcendent Realization) / 9</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Даже само пространство не может тягаться с высвобожденной силой вашего разума.\nВы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-t-teleport\">Телепортация (Teleport) / Закл. 6</span> как врожденное оккультное заклинание.\nЧтобы выбирать существ целями этого врожденного заклинания, вам не нужно касаться их, при условии, что они находятся в досягаемости вашего чувства эмпатии.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "",
+            "id": "ancestry-feat-kashrishi-bend-space",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очищающий свет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3981\">Cleansing Light</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Очищающий свет",
+            "originalName": "Cleansing Light",
+            "level": 17,
+            "traits": [
+                "оккультный",
+                "некромантия",
+                "свет",
+                "концентрация",
+                "кашриши"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 45</p><hr class=\"docutils\"><p>Вспышка света из вашего рога очищает союзников от недугов и повергает врагов в ужас.\nВы и все союзники в 20-футовой эманации получаете эффект преимущества от заклинания <span class=\"card-link std std-ref\" data-id=\"spell-r-restoration\">Восстановление (Restoration) / Закл. 2</span> 4-го уровня.\nВсе враги в пределах этой эманации <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплены</span> до конца вашего следующего хода.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 45",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-kashrishi-cleansing-light",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сдержанный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3982\">Cold Minded</a>) / 1",
+            "name": "Сдержанный",
+            "originalName": "Cold Minded",
+            "level": 1,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 48</p><hr class=\"docutils\"><p>Тонкие нити манящей магии не оказывают на ваш разум никакого впечатления.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов <span class=\"t-emotion\">эмоций</span>, и каждый раз, когда вы при броске спасброска против эффекта <span class=\"t-emotion\">эмоций</span> получаете успеха, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 48",
+            "action": "",
+            "id": "ancestry-feat-nagaji-cold-minded",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания нагаджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3983\">Nagaji Lore</a>) / 1",
+            "name": "Знания нагаджи",
+            "originalName": "Nagaji Lore",
+            "level": 1,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Вы вассал или ученик учёной наги, и вы изучили секреты магии наг и приготовления сложных ядов.\nВы становитесь обучены Ремеслу и Оккультизму.\nЕсли вы автоматически становитесь обучены одному из этих навыков (например, благодаря своей предыстории или классу), то вместо этого становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены по своему выбору Знаниям нагаджи или Знаниям наг.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "",
+            "id": "ancestry-feat-nagaji-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с магией нагаджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3984\">Nagaji Spell Familiarity</a>) / 1",
+            "name": "Знакомство с магией нагаджи",
+            "originalName": "Nagaji Spell Familiarity",
+            "level": 1,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Из-за обучения, воздействия или семейной посвященности, в вашей крови бурлит магия наг.\nВо время своих ежедневных приготовлений выберите <span class=\"card-link std std-ref\" data-id=\"spell-d-daze\">Ступор (Daze) / Чары 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-m-mage-hand\">Магическая рука (Mage Hand) / Чары 1</span>.\nДо следующих ежедневных приготовлений вы можете творить выбранные чары как оккультное врожденное заклинание.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "",
+            "id": "ancestry-feat-nagaji-spell-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Язык змеи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3985\">Serpent's Tongue</a>) / 1",
+            "name": "Язык змеи",
+            "originalName": "Serpent's Tongue",
+            "level": 1,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Вы подсознательно водите языком по воздуху, пробуя окружающий мир на вкус.\nВы получаете неточный нюх с дальностью 30 футов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "",
+            "id": "ancestry-feat-nagaji-serpents-tongue",
+            "archetype": ""
+        },
+        {
+            "fullName": "Водный нагаджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3986\">Water Nagaji</a>) / 1",
+            "name": "Водный нагаджи",
+            "originalName": "Water Nagaji",
+            "level": 1,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Подобно водной наге, вы установили связь со священным или нетронутым водоемом, либо в качестве дома, либо как с местом, которое нужно защищать.\nВы получаете бонусную общую способность <span class=\"card-link std std-ref\" data-id=\"feat-breath-control\">Задержка дыхания (Breath Control) / 1</span> и Скорость плавания 10 футов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "",
+            "id": "ancestry-feat-nagaji-water-nagaji",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гипнотическое приманивание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3987\">Hypnotic Lure</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Гипнотическое приманивание",
+            "originalName": "Hypnotic Lure",
+            "level": 5,
+            "traits": [
+                "оккультный",
+                "очарование",
+                "визуальный",
+                "ментальный",
+                "концентрация",
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Ваш немигающий взгляд настолько интенсивен, что может сбить с толку разум других, притягивая к вам жертву даже вопреки ее здравому смыслу.\nВы пристально смотрите на существо в пределах 30 футов.\nЦель должна совершить спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Провал</strong>: В свой ход цель должна потратить свое первое действие, чтобы приблизиться к вам. Она не может <span class=\"card-link std std-ref\" data-id=\"action-delay\">Выждать (Delay) </span> или использовать реакции, пока не сделает это.</div>\n<div class=\"line\"><strong>Критический провал</strong>: В свой ход цель должна потратить все свои действия, чтобы приблизиться к вам. Она не может <span class=\"card-link std std-ref\" data-id=\"action-delay\">Выждать (Delay) </span> или использовать реакции, пока не достигнет пространства находящегося рядом с вами (или так близко к вам как только возможно, если она достигает непроходимой преграды).</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-nagaji-hypnotic-lure",
+            "archetype": ""
+        },
+        {
+            "fullName": "Таинства магии нагаджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3988\">Nagaji Spell Mysteries</a>) / 5",
+            "name": "Таинства магии нагаджи",
+            "originalName": "Nagaji Spell Mysteries",
+            "level": 5,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Хотя бы 1 врожденное заклинание от наследия нагаджи или способности родословной</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Вы изучили больше магии наг.\nВо время своих ежедневных приготовлений выберите <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-f-fleet-step\">Быстрый шаг (Fleet Step) / Закл. 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span>.\nВы можете раз в день творить его как врожденное оккультное заклинание 1-го уровня.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "",
+            "id": "ancestry-feat-nagaji-spell-mysteries",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрывание кожи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3989\">Skin Split</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Разрывание кожи",
+            "originalName": "Skin Split",
+            "level": 5,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 49</p><hr class=\"docutils\"><p>Вы вскрываете верхний слой своей чешуи и счищаете преждевременную линьку, чтобы удалить со своей кожи вредные вещества.\nВы мгновенно прекращаете весь продолжительный урон от эффектов, покрывающих вашу кожу (например, огонь и большинство продолжительного урона кислотной).\nЕсли вы страдаете от эффекта, отличного от продолжительного урона, который зависит от постоянного контакта с вашей кожей, и если этот эффект позволяет спасбросок, то немедленно совершите новый спасбросок против этого эффекта.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 49",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-nagaji-skin-split",
+            "archetype": ""
+        },
+        {
+            "fullName": "Плевок ядом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3990\">Venom Spit</a>) / 5",
+            "name": "Плевок ядом",
+            "originalName": "Venom Spit",
+            "level": 5,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 50</p><hr class=\"docutils\"><p>Вы научились искусству метания ядовитых плевков в уязвимые места противника, особенно в глаза.\nВы получаете безоружную дистанционную атаку ядовитого плевка, имеющую шаг дистанции 10 футов и наносящую 1d4 урона ядом.\nПри критическом попадании, цель получает продолжительный урон ядом, равный количеству костей урона оружия.\nУ вашего плевка нет группы оружия или эффекта критической специализации.</p><p><strong>Особенность</strong>: Если вы обладаете наследием нагаджи <span class=\"card-link \">С капюшоном (Hooded Nagaji)</span>, то в дополнение к вашему нормальному эффекту критического попадания ядовитого плевка, цель еще <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплена</span> до начала вашего следующего хода.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 50",
+            "action": "",
+            "id": "ancestry-feat-nagaji-venom-spit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отравление удара (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3991\">Envenom Strike</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Отравление удара",
+            "originalName": "Envenom Strike",
+            "level": 9,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Вы обладаете Ударом, наносящим урон ядом, от наследия нагаджи или способности родословной</p><p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 50</p><hr class=\"docutils\"><p>Вы выплевываете яд на оружие, которое вы держите в руках, или на оружие, которое держит готовое существо в пределах 30 футов; еще вы можете использовать это умение для отравления ядом своей безоружной атаки клыками нагаджи.\nЕсли до начала вашего следующего хода, следующий <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> выбранным оружием попадает и наносит урон, то этот Удар наносит дополнительные 2d6 урона ядом.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 50",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-nagaji-envenom-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защищенные мысли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3992\">Guarded Thoughts</a>) / 9",
+            "name": "Защищенные мысли",
+            "originalName": "Guarded Thoughts",
+            "level": 9,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 50</p><hr class=\"docutils\"><p>Ваш разум, подобно разуму <span class=\"card-link \">темной наги</span>, пресекает попытки прочесть ваши мысли.\nЛюбой эффект, который именно пытается прочитать ваш разум, чтобы удачно получить информацию, должен совершить успешную проверку <span class=\"card-link \">противодействия</span> против вашего КС класса или КС заклинания, в зависимости от того, что больше; в противном случае он не получает никакой информации.\nУровень противодействия равен половине вашего уровня, округленной до большего.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 50",
+            "action": "",
+            "id": "ancestry-feat-nagaji-guarded-thoughts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Змеиный бросок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3993\">Serpentcoil Slam</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Змеиный бросок",
+            "originalName": "Serpentcoil Slam",
+            "level": 9,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 50</p><hr class=\"docutils\"><p>Древнее и легендарное соперничество вашего народа с <span class=\"card-link \">гарудами</span>, заставило вас разработать специальные приемы против летающих врагов.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по летающему существу, которое больше вас вплоть до 1 размера; при попадании, вы используете свою шею или кольца, чтобы ударить существо о землю.\nВ дополнение к обычным эффектам вашего Удара, существо перемещается в ближайшее незанятое наземное пространство рядом с вами и не может <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"spell-l-levitate\">левитировать</span> или иным образом покидать землю в течение 1 раунда.\nПри критическом попадании, оно не может Летать, <em>левитировать</em> или иным образом покидать землю в течение 1 минуты.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 50",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-nagaji-serpentcoil-slam",
+            "archetype": ""
+        },
+        {
+            "fullName": "Змеиный пловец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3994\">Serpentine Swimmer</a>) / 9",
+            "name": "Змеиный пловец",
+            "originalName": "Serpentine Swimmer",
+            "level": 9,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-nagaji-water-nagaji\">Водный нагаджи (Water Nagaji) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 50</p><hr class=\"docutils\"><p>Во время плавания вы извиваете тело змеевидными движениями, что значительно увеличивает скорость передвижения в воде.\nВаша Скорость плавания увеличивается с 10 до 25 футов.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 50",
+            "action": "",
+            "id": "ancestry-feat-nagaji-serpentine-swimmer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прерывающий взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3995\">Disruptive Stare</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Прерывающий взгляд",
+            "originalName": "Disruptive Stare",
+            "level": 13,
+            "traits": [
+                "визуальный",
+                "ментальный",
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах 30 футов пытается <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворить заклинание (Cast a Spell)</span> с признаком <span class=\"t-concentrate\">концентрации</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 51</p><hr class=\"docutils\"><p>Ваш холодный взгляд может превратить кровь врага в лед.\nСпровоцировавшее существо должно совершить спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПосле этого оно временно иммунно на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Провал</strong>: Спровоцировавшее заклинание получает штраф состояния -2 к своим броскам атак и КС.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Спровоцировавшее заклинание прервано.</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 51",
+            "action": "реакция",
+            "id": "ancestry-feat-nagaji-disruptive-stare",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт заклинаний нагаджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3996\">Nagaji Spell Expertise</a>) / 13",
+            "name": "Эксперт заклинаний нагаджи",
+            "originalName": "Nagaji Spell Expertise",
+            "level": 13,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-nagaji-spell-mysteries\">Таинства магии нагаджи (Nagaji Spell Mysteries) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 51</p><hr class=\"docutils\"><p>Ваше магическое мастерство может соперничать с опытными нагами-заклинателями.\nВо время своих ежедневных приготовлений выберите <span class=\"card-link std std-ref\" data-id=\"spell-b-blink\">Мерцание (Blink) / Закл. 4</span>, <span class=\"card-link std std-ref\" data-id=\"spell-c-control-water\">Управление водой (Control Water) / Закл. 5</span> или <span class=\"card-link std std-ref\" data-id=\"spell-s-subconscious-suggestion\">Подсознательное внушение (Subconscious Suggestion) / Закл. 5</span>.\nВы можете раз в день творить его как врожденное оккультное заклинание 5-го уровня.\nВы становитесь экспертом КС оккультных заклинаний и бросков атак оккультными заклинаниями.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 51",
+            "action": "",
+            "id": "ancestry-feat-nagaji-spell-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яма со змеями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3997\">Pit of Snakes</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Яма со змеями",
+            "originalName": "Pit of Snakes",
+            "level": 13,
+            "traits": [
+                "оккультный",
+                "воплощение",
+                "воздействие",
+                "концентрация",
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 51</p><hr class=\"docutils\"><p>Обычные змеи повинуются вашему призыву.\nПоднимая свою руку, вы призываете извивающуюся массу змей, появляющихся из земли 20-футовым взрывом в пределах 120 футов.\nЗмеи появляются на всех наземных квадратах в этой области и остаются там в течение 1 минуты.\nКогда вы используете \"Яму со змеями\", все существа в этой области должны совершить спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПри провале, существо будет <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачено</span> змеей и получает 3d6 дробящего урона.\nКаждый раз, когда существо заканчивает свой ход в этой области, змеи пытаются Схватить это существо, если оно еще не <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачено</span>.\nЛюбое уже <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченное</span> существо получает 2d6 дробящего урона.</p><p>КС <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> от змей равен вашему КС класса или КС заклинания, в зависимости от того, что больше.\nСущество может атаковать змею, пытаясь освободиться от ее хватки.\nКБ змеи равен вашему КС класса или КС заклинания, в зависимости от того, что больше, и она уничтожается, если получает 12 или более урона.\nДаже если конкретная змея уничтожена, другие змеи продолжают бродить в этой области до окончания продолжительности эффекта.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> этот эффект.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 51",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-nagaji-pit-of-snakes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дыхание катастрофы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3998\">Breath of Calamity</a>) / 17",
+            "name": "Дыхание катастрофы",
+            "originalName": "Breath of Calamity",
+            "level": 17,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 51</p><hr class=\"docutils\"><p>Ваш рев сотрясает землю и раскалывает небеса.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-c-chain-lightning\">Цепь молний (Chain Lightning) / Закл. 6</span> как врожденное оккультное заклинание 7-го уровня.\nЛюбое существо, критически провалившее спасбросок против этого заклинания, <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепнет</span> и <span class=\"card-link std std-ref\" data-id=\"c-deafened\">глохнет</span> на 1 раунд.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 51",
+            "action": "",
+            "id": "ancestry-feat-nagaji-breath-of-calamity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призматическая чешуя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3999\">Prismatic Scales</a>) / 17",
+            "name": "Призматическая чешуя",
+            "originalName": "Prismatic Scales",
+            "level": 17,
+            "traits": [
+                "нагаджи"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 51</p><hr class=\"docutils\"><p>Вы можете заставить свою чешую светиться сверкающими, многоцветными красками, защищая себя от энергии и ослепляя врагов.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-prismatic-armor\">Призматический доспех (Prismatic Armor) / Закл. 7</span> как врожденное оккультное заклинание, только заклинание изменяет окраску вашей чешуи, а не облачает вас в доспех.\nЭто различие лишь косметическое, и заклинание имеет те же эффекты, что и обычное.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 51",
+            "action": "",
+            "id": "ancestry-feat-nagaji-prismatic-scales",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лесное зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4000\">Canopy Sight</a>) / 1",
+            "name": "Лесное зрение",
+            "originalName": "Canopy Sight",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 55</p><hr class=\"docutils\"><p>Вы можете одинаково хорошо видеть даже в густых джунглях, куда проникает лишь небольшое количество света.\nВы получаете сумеречное зрение.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 55",
+            "action": "",
+            "id": "ancestry-feat-vanara-canopy-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хвост для лазания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4001\">Climbing Tail</a>) / 1",
+            "name": "Хвост для лазания",
+            "originalName": "Climbing Tail",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Ваш хвост значительно облегчает вам лазание.\nВы получаете бонус обстоятельства +2 к проверкам Атлетики чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-combat-climber\">Боевой альпинист (Combat Climber) / 1</span> и уменьшаете количество свободных рук, необходимых для Карабканья или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>, на одну.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-climbing-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внезапная внимательность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4002\">Sudden Mindfulness</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Внезапная внимательность",
+            "originalName": "Sudden Mindfulness",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получаете успех при броске спасброска против эффекта, который сделает вас <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">завороженным</span> или <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослепленным</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Ваш разум сохраняет полное внимание, несмотря на все попытки других, и ваша сосредоточенность выводит других из равновесия.\nВы получаете критический успех спровоцировавшего спасброска, и если этот эффект был вызван существом, то оно становится для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> до конца вашего следующего хода.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "реакция",
+            "id": "ancestry-feat-vanara-sudden-mindfulness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания ванара (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4003\">Vanara Lore</a>) / 1",
+            "name": "Знания ванара",
+            "originalName": "Vanara Lore",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы достигли культурной подготовки ба-садхака, искателя сокровищ и редких удовольствий.\nВы становитесь обучены Выживанию и Воровству.\nЕсли вы автоматически становитесь обучены одному из этих навыков (например, благодаря своей предыстории или классу), то вместо этого становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям ванара.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием ванаров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4004\">Vanara Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием ванаров",
+            "originalName": "Vanara Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы предпочитаете оружие, основанное на ванарских традициях.\nВы получаете доступ и становитесь обучены посоху-бо, чакраму, катару, панабасу и уруми.\nКроме того, вы получаете доступ ко всему <span class=\"r-uncommon\">необычному</span> оружию <span class=\"t-vanara\">ванаров</span>.\nДля определения мастерства обращения с ним, воинское ванарское оружие считается простым, а продвинутое ванарское оружие считается воинским.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Белобрысый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4005\">Whitecape</a>) / 1",
+            "name": "Белобрысый",
+            "originalName": "Whitecape",
+            "level": 1,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы ниже и шире многих ванаров вашего наследия, а волосы на плечах и голове особенно густые и роскошные, как величественная накидка.\nЭти волосы сверхъестественно быстро отрастают, если их постричь.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-steady-balance\">Твердое равновесие (Steady Balance) / 1</span> даже если вы не обучены Акробатике, и можете <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагать (Step)</span> на сложную местность, вызванную <span class=\"card-link \">неровной землей</span>.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-whitecape",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стремительная обезьяна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4006\">Darting Monkey</a>) / 5",
+            "name": "Стремительная обезьяна",
+            "originalName": "Darting Monkey",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 55</p><hr class=\"docutils\"><p>Вы обладаете повышенным вниманием в бою, и ваши стремительные удары не позволяют противникам отвлечь вас или нарушить вашу сосредоточенность.\nКогда вы попадаете по существу вашего уровня или ниже, пока оно берет вас в тиски, то взятие в тиски не делает вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутым врасплох</span> для этого существа.\nЭто преимущество длится до начала вашего следующего хода или пока существо не сдвинется с места, в зависимости от того, что произойдет раньше.\nСущество все еще может помогать своим союзникам брать в тиски.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 55",
+            "action": "",
+            "id": "ancestry-feat-vanara-darting-monkey",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бегущий по джунглям (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4007\">Jungle Runner</a>) / 5",
+            "name": "Бегущий по джунглям",
+            "originalName": "Jungle Runner",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 55</p><hr class=\"docutils\"><p>Вы бежите по джунглям так же легко, как по открытому полю.\nВы игнорируете сложную местность из подлеска, находящуюся в лесах и джунглях.\nНаходясь в лесу или джунглях, вы всегда можете использовать действие <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span>, чтобы получить укрытие, даже если рядом с вами нет препятствия, за которым можно Укрыться.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 55",
+            "action": "",
+            "id": "ancestry-feat-vanara-jungle-runner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пиршество Рагдьи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4008\">Ragdya's Revelry</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Пиршество Рагдьи",
+            "originalName": "Ragdya's Revelry",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Находящееся рядом существо, которое вы можете видеть, проваливает по вам бросок атаки</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы уворачиваетесь от атаки противника с непринужденным смехом, используя эту возможность для озорства.\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> предмет у спровоцировавшего существа, игнорируя обычное ограничение, что существо не может находиться в бою.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "реакция",
+            "id": "ancestry-feat-vanara-ragdyas-revelry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Умелый верхолаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4009\">Skillful Climber</a>) / 5",
+            "name": "Умелый верхолаз",
+            "originalName": "Skillful Climber",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы можете с легкостью карабкаться вверх и вниз, также проворно как и обезьяна.\nВы получаете Скорость карабканья 10 футов.\nЕсли у вас еще есть способность родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vanara-climbing-tail\">Хвост для лазания (Climbing Tail) / 1</span>, то когда вы взбираетесь на деревья - ваша Скорость карабканья увеличивается до вашей наземной Скорости.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-skillful-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разоружение хвостом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4010\">Tail Snatch</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Разоружение хвостом",
+            "originalName": "Tail Snatch",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы можете взмахнуть хвостом, чтобы вырывать предметы у зазевавшегося противника.\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> существо, игнорируя требование наличия хотя бы одной свободной руки.\nКак обычно, ваш хвост не может удерживать предметы, которые он разоружает.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-vanara-tail-snatch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрость оружия ванаров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4011\">Vanara Weapon Trickery</a>) / 5",
+            "name": "Хитрость оружия ванаров",
+            "originalName": "Vanara Weapon Trickery",
+            "level": 5,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vanara-weapon-familiarity\">Знакомство с оружием ванаров (Vanara Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Вы научились одурачивать врагов используя ванарское оружие.\nВы получаете эффект критической специализации для посоха-бо, чакрама, катара, панабаса, уруми или всего <span class=\"t-vanara\">ванарского</span> оружия.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-weapon-trickery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свисать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4012\">Dangle (Vanara)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Свисать",
+            "originalName": "Dangle",
+            "level": 9,
+            "traits": [
+                "движение",
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vanara-climbing-tail\">Хвост для лазания (Climbing Tail) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Обычно, во время карабканья вы можете свисать на хвосте с любой подходящей точки опоры, например, с ветки дерева, балкона или скального выступа (на усмотрение Мастера).\nКогда висите, вы свободно используете все остальные конечности, поэтому можете выполнять задачи, требующие обеих рук, например, стрелять из лука или размахивать посохом-бо.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-release\">Отпустить (Release) </span> хвост, чтобы упасть, а также вы перестаете висеть, если совершите действие с признаком <span class=\"t-move\">движения</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-vanara-dangle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный размер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4013\">Legendary Size</a>) / 9",
+            "name": "Легендарный размер",
+            "originalName": "Legendary Size",
+            "level": 9,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Ванары древности были трикстерами, способными переходить широкие реки или проскальзывать в невероятно маленькие пространства.\nВы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-shrink\">Уменьшить (Shrink) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.\nЦелями этих заклинаний вы можете выбирать только себя или других <span class=\"t-vanara\">ванаров</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "",
+            "id": "ancestry-feat-vanara-legendary-size",
+            "archetype": ""
+        },
+        {
+            "fullName": "Танец Рагдьи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4014\">Ragdya's Dance</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Танец Рагдьи",
+            "originalName": "Ragdya's Dance",
+            "level": 9,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Находящееся рядом <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченное</span> существо совершает по вам успешный бросок атаки</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 56</p><hr class=\"docutils\"><p>Даже столкнувшись со смертельной опасностью, вы сражаетесь с восторженным смехом Рагдьи в своем сердце и можете совершать невозможные трюки.\nПосле определения результата успешной атаки, спровоцировавшее существо должно совершить спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПри провале, вы и спровоцировавшее существо меняетесь местами.\nВы и спровоцировавшее существо, оба должны помещаться в новом пространстве, и ваши места должны быть не заняты.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 56",
+            "action": "реакция",
+            "id": "ancestry-feat-vanara-ragdyas-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разоренный ракшасами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4015\">Rakshasa Ravaged</a>) / 9",
+            "name": "Разоренный ракшасами",
+            "originalName": "Rakshasa Ravaged",
+            "level": 9,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Оккультизма</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>Вы и ваша семья хорошо осведомлены о разрушительных действиях <span class=\"t-rakshasa\">ракшасов</span>, и знаете, как лучше всего защищаться от их растущей порчи в мире.\nВы получаете бонус обстоятельства +1 к спасброскам против <span class=\"t-occult\">оккультных</span> заклинаний.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-rakshasa-ravaged",
+            "archetype": ""
+        },
+        {
+            "fullName": "Духи обезьян (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4016\">Monkey Spirits</a>) / 13",
+            "name": "Духи обезьян",
+            "originalName": "Monkey Spirits",
+            "level": 13,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>Ванары обычно считают духов ушедших обезьян менее полезными или интересными, чем их собственные предки, путешествующие по кругам бытия, однако в тяжелой ситуации эти обезьяньи духи могут оказаться полезными.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-m-mad-monkeys\">Обезумевшие обезьяны (Mad Monkeys) / Закл. 3</span> как врожденное природное заклинание 5-го уровня.\nВы становитесь экспертом КС и бросков атак природных заклинаний.\nЕсли вы выберете для этого заклинания <em>обезумевших обезьян</em> действие \"Вопиющая кража (Flagrant Burglary)\", то можете использовать ваш модификатор Воровства вместо КС заклинания - 10.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-monkey-spirits",
+            "archetype": ""
+        },
+        {
+            "fullName": "Необузданная свобода (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4017\">Unbound Freedom</a>) / 13",
+            "name": "Необузданная свобода",
+            "originalName": "Unbound Freedom",
+            "level": 13,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>Ваше будущее не подвержено влиянию других, а когда этот контроль может быть отнят у вас, то циклы вашей судьбы иногда встают на вашу защиту.\nВсякий раз, когда вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-controlled\">под контролем</span>, вы можете сделать чистую проверку КС 17.\nПри успехе, вы не получите это состояние.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-unbound-freedom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевая ясность ванара (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4018\">Vanara Battle Clarity</a>) / 13",
+            "name": "Боевая ясность ванара",
+            "originalName": "Vanara Battle Clarity",
+            "level": 13,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>В бою, ваша сосредоточенность практически непоколебима.\nПока вы можете действовать, вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> для <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанных</span>, <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженных</span>, или берущих в тиски существ, если они вашего уровня или меньше, или существ, совершающих <span class=\"card-link \">Неожиданная атака (Surprise Attack)</span>, которые вашего уровня или меньше.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-battle-clarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия ванаров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4019\">Vanara Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия ванаров",
+            "originalName": "Vanara Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vanara-weapon-familiarity\">Знакомство с оружием ванаров (Vanara Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>Благодаря многочисленным радостным тренировкам вы стали экспертом в оружии ванаров.\nКаждый раз, когда вы получаете классовую особенность дающую вам экспертное или выше мастерство владения каким-либо оружием или оружиями, вы также получаете такое же мастерство с посохом-бо, чакрамом, катаром, панабасом, уруми и всем <span class=\"t-vanara\">ванарским</span> оружием которому обучены.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неистовый проказник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4020\">Unfettering Prankster</a>) / 17",
+            "name": "Неистовый проказник",
+            "originalName": "Unfettering Prankster",
+            "level": 17,
+            "traits": [
+                "ванар"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 57</p><hr class=\"docutils\"><p>Своими выходками вы можете воодушевлять всех окружающих, благодаря чему вы с союзниками получаете божественное наставление во всех ваших движениях, чтобы без труда избегать препятствий окружающей среды.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-u-unfettered-pack\">Свободная стая (Unfettered Pack) / Закл. 7</span> как врожденное сакральное заклинание.\nКогда вы это делаете, то произносите заклинание совершая божественно вдохновленный розыгрыш.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 57",
+            "action": "",
+            "id": "ancestry-feat-vanara-unfettering-prankster",
+            "archetype": ""
+        },
+        {
+            "fullName": "Алебастровые глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4021\">Alabaster Eyes</a>) / 1",
+            "name": "Алебастровые глаза",
+            "originalName": "Alabaster Eyes",
+            "level": 1,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 60</p><hr class=\"docutils\"><p>Вместо обычных золотых глаз как у большинства вишканий вы родились с особенно чуткими белоснежными глазами.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 60",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-alabaster-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Малое усиление яда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4022\">Lesser Enhance Venom</a>) / 1",
+            "name": "Малое усиление яда",
+            "originalName": "Lesser Enhance Venom",
+            "level": 1,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>Ваш яд становится все более смертоносным и обильным.\nВы улучшаете силу яда вишканьи, который можете применить с помощью <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>, до малого яда вишканьи.\nЧастота применения Отравления становится раз в час.</p><p><strong>Малый яд вишканьи (Lesser Vishkanyan Venom)</strong> (уровень 1)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Спасбросок</strong>: Стойкость</div>\n<div class=\"line\"><strong>Макс.продолжительность</strong>: 6 раундов</div>\n<div class=\"line\"><strong>Стадия 1</strong>: 1d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 2</strong>: 1d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 3</strong>: 2d6 урона ядом (1 раунд)</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-lesser-enhance-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Социальный камуфляж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4023\">Social Camouflage</a>) / 1",
+            "name": "Социальный камуфляж",
+            "originalName": "Social Camouflage",
+            "level": 1,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>У вас есть удивительная способность быстро влиться в образ жизни любого поселения, в котором вы оказываетесь.\nПрожив в конкретном поселении не менее 1 дня, вы получаете бонус обстоятельства +1 к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span>, чтобы выдавать себя за жителя этого поселения.\nЕще вы можете использовать Обман вместо Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> в этом поселении.\nМастер может решить, что, чтобы получить эти преимущества в особенно крупных поселениях вам нужно провести больше времени, или посчитать, что вы получаете эти преимущества только в определенном районе или части поселения.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-social-camouflage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания вишканьи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4024\">Vishkanya Lore</a>) / 1",
+            "name": "Знания вишканьи",
+            "originalName": "Vishkanya Lore",
+            "level": 1,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>Вы глубоко понимаете сильные стороны и культурные традиции вишканий.\nВы становитесь обучены Выступлению и Скрытности.\nЕсли вы автоматически обучены одному из этих навыков (например, благодаря вашей предыстории или классу), то вместо этого становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям вишканьи.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием вишканий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4025\">Vishkanya Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием вишканий",
+            "originalName": "Vishkanya Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>Вы предпочитаете оружие, исторически используемое в тонкой работе и церемониях.\nВы получаете доступ и становитесь обучены обращению с духовой трубкой, боевым веером, крисом, кукри и сюрикеном.\nКроме того, вы получаете доступ ко всему <span class=\"r-uncommon\">необычному</span> <span class=\"t-vishkanya\">вишканскому</span> оружию.\nДля определения вашего мастерства, воинское вишканское оружие считается простым, а продвинутое вишканское оружие - воинским.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ослабляющий яд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4026\">Debilitating Venom</a>) / 5",
+            "name": "Ослабляющий яд",
+            "originalName": "Debilitating Venom",
+            "level": 5,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>Ваш яд особенно силен и по-разному действует на цели.\nКогда вы получаете эту способность, выберите 1 из следующих ослаблений.\nПри использовании <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>, вы можете применить ослабление к своему яду, чтобы скорректировать его эффекты.\nДалее перечислены изменения каждой стадии яда.\nВы можете применить к своему яду только одно ослабление.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Задерживающий (Hampering)</strong> (уровень 5)</div>\n<div class=\"line\"><strong>Стадия 1</strong>: штраф состояния -5 футов к Скорости</div>\n<div class=\"line\"><strong>Стадия 2</strong>: штраф состояния -5 футов к Скорости</div>\n<div class=\"line\"><strong>Стадия 3</strong>: штраф состояния -10 футов к Скорости</div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Запинающийся (Stumbling)</strong> (уровень 5)</div>\n<div class=\"line\"><strong>Стадия 1</strong>: нет корректировки</div>\n<div class=\"line\"><strong>Стадия 2</strong>: <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span></div>\n<div class=\"line\"><strong>Стадия 3</strong>: штраф состояния -5 футов к Скорости и <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span></div>\n</div><p><strong>Особенность</strong>: Вы можете взять эту способность второй раз, чтобы получить другое ослабление.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-debilitating-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Восстанавливающая кровь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4027\">Restoring Blood</a>) / 5",
+            "name": "Восстанавливающая кровь",
+            "originalName": "Restoring Blood",
+            "level": 5,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 61</p><hr class=\"docutils\"><p>Ваш организм может вырабатывать альтернативу вашему яду, который заживляет раны.\nВы можете использовать свое действие <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>, чтобы вместо яда вишканьи произвести тонизирующее средство.\nВы можете сделать тонизирующее средство не чаще 1 раза в 10 минут, даже если ваше действие Отравления можно использовать чаще.\nВы или находящееся рядом существо можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы употребить тонизирующее средство и восстановить 3d6 ОЗ.\nЭто <span class=\"t-positive\">позитивный</span> эффект <span class=\"t-healing\">исцеления</span>.\nТонизирующее средство портится в начале вашего следующего хода.</p><p>Когда вы достигаете 15-го уровня, то вместо этого тонизирующее средство восстанавливает 5d6 ОЗ.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 61",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-restoring-blood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оружейное искусство вишканьи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4028\">Vishkanya Weapon Arts</a>) / 5",
+            "name": "Оружейное искусство вишканьи",
+            "originalName": "Vishkanya Weapon Arts",
+            "level": 5,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-weapon-familiarity\">Знакомство с оружием вишканий (Vishkanya Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Вы изящны и эффективны в использовании оружия вишканий.\nВсякий раз, когда вы совершаете критическое попадание духовой трубкой, боевым веером, крисом, кукри, сюрикеном или <span class=\"t-vishkanya\">вишканским</span> оружием, то применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-weapon-arts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Манящее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4029\">Alluring Performance</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Манящее выступление",
+            "originalName": "Alluring Performance",
+            "level": 9,
+            "traits": [
+                "недееспособность",
+                "визуальный",
+                "ментальный",
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выступлению</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Вы привлекаете внимание окружающих элегантной демонстрацией.\nСовершите проверку Выступления и сравните ее с КС Воли каждого существа в 15-футовой эманации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожена</span> вами пока вы выступаете (если только она не прервет <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">завороженность</span> как обычно для этого состояния) и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплена</span> на 1 раунд или пока <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожена</span>, в зависимости от того, что дольше.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожена</span> на 1 раунд и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплена</span> на 1 раунд.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплена</span> на 1 раунд.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель невредима.</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-vishkanya-alluring-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Среднее усиление яда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4030\">Moderate Enhance Venom</a>) / 9",
+            "name": "Среднее усиление яда",
+            "originalName": "Moderate Enhance Venom",
+            "level": 9,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-lesser-enhance-venom\">Малое усиление яда (Lesser Enhance Venom) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Вы улучшаете яд вишканьи, который можете применить с помощью <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>, до среднего яда вишканьи.\nЧастота применения Отравления становится раз в 10 минут.</p><p><strong>Средний яд вишканьи (Moderate Vishkanyan Venom)</strong> (уровень 9)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Спасбросок</strong>: Стойкость</div>\n<div class=\"line\"><strong>Макс.продолжительность</strong>: 6 раундов</div>\n<div class=\"line\"><strong>Стадия 1</strong>: 3d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 2</strong>: 4d6 урона ядом (1 раунд)</div>\n<div class=\"line\"><strong>Стадия 3</strong>: 5d6 урона ядом (1 раунд)</div>\n</div>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-moderate-enhance-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое нанесение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4031\">Swift Application</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Быстрое нанесение",
+            "originalName": "Swift Application",
+            "level": 9,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Вы умело сочетаете движения атаки и покрытия оружия ядом.\nВы <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравляете (Envenom)</span> ядом оружие или единицу амуниции, а затем наносите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> этим оружием.\nЭто действие засчитывается за ваше обычное использование Отравления и не может быть использовано если ваш яд исчерпан.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-vishkanya-swift-application",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удар гадюки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4032\">Viper Strike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Удар гадюки",
+            "originalName": "Viper Strike",
+            "level": 9,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Вы двигаетесь и атакуете со стремительностью, за которой многие не могут угнаться.\nВы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>, а затем наносите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nВаше передвижение не провоцирует реакции, основанные на передвижении.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-vishkanya-viper-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сильно ослабляющий яд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4033\">Stronger Debilitating Venom</a>) / 13",
+            "name": "Сильно ослабляющий яд",
+            "originalName": "Stronger Debilitating Venom",
+            "level": 13,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-debilitating-venom\">Ослабляющий яд (Debilitating Venom) / 5</span>, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-moderate-enhance-venom\">Среднее усиление яда (Moderate Enhance Venom) / 9</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 62</p><hr class=\"docutils\"><p>Добавьте одно из следующих ослаблений, из которых вы можете выбирать при использовании <span class=\"card-link std std-ref\" data-id=\"action-vishkanya-envenom\">Отравить (Envenom) </span>.\nЭти ослабления снижают урон всех стадий, как указано.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Неуклюжести (Bungling)</strong> (уровень 13) Снижает урон на 1 кость</div>\n<div class=\"line\"><strong>Стадия 1</strong>: нет эффекта</div>\n<div class=\"line\"><strong>Стадия 2</strong>: <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 1</span></div>\n<div class=\"line\"><strong>Стадия 3</strong>: <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Ослабления (Weakening)</strong> (уровень 13) Снижает урон на 1 кость</div>\n<div class=\"line\"><strong>Стадия 1</strong>: <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 1</span></div>\n<div class=\"line\"><strong>Стадия 2</strong>: <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 1</span></div>\n<div class=\"line\"><strong>Стадия 3</strong>: <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Тошноты (Nauseating)</strong> (уровень 13) Снижает урон на 2 кости</div>\n<div class=\"line\"><strong>Стадия 1</strong>: нет эффекта</div>\n<div class=\"line\"><strong>Стадия 2</strong>: <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 1</span></div>\n<div class=\"line\"><strong>Стадия 3</strong>: <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span></div>\n</div><div class=\"line-block\">\n<div class=\"line\"><strong>Безжизненности (Devitalizing)</strong> (уровень 13) Снижает урон на 3 кости</div>\n<div class=\"line\"><strong>Стадия 1</strong>: нет эффекта</div>\n<div class=\"line\"><strong>Стадия 2</strong>: <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 1</span></div>\n<div class=\"line\"><strong>Стадия 3</strong>: <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 2</span></div>\n</div><p><strong>Особенность</strong>: Вы можете взять эту способность несколько раз, каждый раз выбирая другое ослабление.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 62",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-stronger-debilitating-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очищение ядом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4034\">Venom Purge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Очищение ядом",
+            "originalName": "Venom Purge",
+            "level": 13,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 63</p><hr class=\"docutils\"><p>Вы вырабатываете специальный яд, который сжигает в вашем теле другие токсины и нечистоты.\nСовершите проверку Медицины для каждых воздействующих на вас в данный момент <span class=\"t-disease\">болезни</span> или <span class=\"t-poison\">яда</span>, чтобы <span class=\"card-link \">противодействовать</span> этой <span class=\"t-disease\">болезни</span> или <span class=\"t-poison\">яду</span>.\nКак обычно, ваш уровень противодействия равен половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 63",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-vishkanya-venom-purge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия вишканий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4035\">Vishkanya Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия вишканий",
+            "originalName": "Vishkanya Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "вишканья"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-vishkanya-weapon-familiarity\">Знакомство с оружием вишканий (Vishkanya Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 63</p><hr class=\"docutils\"><p>В результате длительных тренировок вы научились изящно владеть оружием вишканий.\nКаждый раз, когда вы получаете классовую особенность дающую вам экспертное или выше мастерство владения каким-либо оружием или оружиями, вы также получаете такое же мастерство с духовым ружьем, боевым веером, крисом, кукри, сюрикеном и всем <span class=\"t-vishkanya\">вишканским</span> оружием которому обучены.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 63",
+            "action": "",
+            "id": "ancestry-feat-vishkanya-weapon-expertise",
+            "archetype": ""
+        }
+    ]
+}

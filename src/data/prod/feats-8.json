@@ -1,0 +1,1540 @@
+{
+    "feats": [
+        {
+            "fullName": "Водомер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2307\">Water Strider</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Водомер",
+            "originalName": "Water Strider",
+            "level": 9,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "вода",
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вода убаюкивает каждый ваш шаг, позволяя ходить по ее поверхности.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> вплоть до своей Скорости.\nВо время своего движения вы можете перемещаться по жидкостям, которые не выдерживают ваш вес.\nЕсли вы заканчиваете свое движение на поверхности, которая не может вас выдержать, то падаете в жидкость в конце своего движения.\nВы можете увеличить количество действий до 3, чтобы Переместиться вплоть до своей утроенной Скорости.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-azarketi-water-strider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт азаркетского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2680\">Azarketi Weapon Expertise</a>) / 13",
+            "name": "Эксперт азаркетского оружия",
+            "originalName": "Azarketi Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-azarketi-weapon-familiarity\">Знакомство с азаркетским оружием (Azarketi Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Azarketi Ancestry Web Supplement pg. 5</p><hr class=\"docutils\"><p>Ваше мастерство обращения с оружием как над водой, так и под водой не имеет себе равных.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его с арбалетами, ручными арбалетами, длинными копьями, копьями и трезубцами, а так же со всем азаркетским оружием с которым обучены.</p>",
+            "src": "Azarketi Ancestry Web Supplement pg. 5",
+            "action": "",
+            "id": "ancestry-feat-azarketi-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Водная адаптация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2308\">Aquatic Adaptation</a>) / 13",
+            "name": "Водная адаптация",
+            "originalName": "Aquatic Adaptation",
+            "level": 13,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "концентрация",
+                "вода",
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Если вы и еще вплоть до 4 других существа контактируете с водоемом, достаточно глубоким, чтобы вы могли полностью погрузиться в него, то вы можете потратить 10 минут на адаптацию существ к этому конкретному водоему.\nЭто позволяет им нормально дышать в этом водоеме, пока находятся в нем, и защищает их от океанического давления на глубине.\nЭти эффекты длятся пока существа не перестанут контактировать с этим водоемом или пока вы снова не используете это умение, в зависимости от того, что произойдет раньше для каждого существа.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-azarketi-aquatic-adaptation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Водный камуфляж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2309\">Aquatic Camouflage</a>) / 13",
+            "name": "Водный камуфляж",
+            "originalName": "Aquatic Camouflage",
+            "level": 13,
+            "traits": [
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вы сливаетесь с волнами.\nКогда вы полностью погружены в воду, и наблюдатель хотя бы в 20 футах от вас, то вам не нужно укрытие относительно этого наблюдателя, чтобы использовать <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-azarketi-aquatic-camouflage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гидравлические приемы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2310\">Hydraulic Maneuvers</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Гидравлические приемы",
+            "originalName": "Hydraulic Maneuvers",
+            "level": 13,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "воздействие",
+                "концентрация",
+                "вода",
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вы бьете своих врагов потоком воды, выкачиваемой из вашего окружения.\nЕсли используемое вами следующее действие - проверка Атлетики для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>, то это действие имеет дистанцию 15 футов.\nВы не получаете к этой проверке никакие бонусы предмета или бонусы обстоятельства относящиеся к вашему физическому телу, но если при броске проверки Атлетики вы получаете критический провал, то вместо этого получаете просто провал.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-azarketi-hydraulic-maneuvers",
+            "archetype": ""
+        },
+        {
+            "fullName": "Туманный странник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2311\">Mist Strider</a>) / 13",
+            "name": "Туманный странник",
+            "originalName": "Mist Strider",
+            "level": 13,
+            "traits": [
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-azarketi-water-strider\">Водомер (Water Strider)  / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вы конденсируете влагу в воздухе, делая ее более твердой, чтобы она могла выдержать ваш вес.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-azarketi-water-strider\">Водомер (Water Strider)  / 9</span>, то можете ходить по воздуху.\nВы можете подниматься и спускаться под углом максимум 45 градусов.\nКак и обычно для способности \"Водомер\", вы все равно падаете в конце своего движения, если не остановитесь на поверхности, которая может выдержать вас.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-azarketi-mist-strider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Регидрация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2312\">Rehydration</a>) / 13",
+            "name": "Регидрация",
+            "originalName": "Rehydration",
+            "level": 13,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "вода",
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вы окружаете свое тело тонким слоем воды, полученной из влаги воздуха.\nВы можете провести 1 час в покое, чтобы увлажнить свои жабры и кожу, что считается погружением вашего тела в воду.\nНа усмотрение Мастера, в особо засушливых местах, таких как пустыни, в воздухе может быть недостаточно влаги, чтобы ваша \"Регидрация\" сработала.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-azarketi-rehydration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подводный вулкан (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2313\">Underwater Volcano</a>) / 17",
+            "name": "Подводный вулкан",
+            "originalName": "Underwater Volcano",
+            "level": 17,
+            "traits": [
+                "азаркет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 15</p><hr class=\"docutils\"><p>Вы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-v-volcanic-eruption\">Извержение вулкана (Volcanic Eruption) / Закл. 7</span> как врожденное природное заклинание 7-го уровня, кроме того, что вы можете вызывать вулкан только на дне водоема, а эффекты, которые обычно происходят с летающими существами, происходят с плавающими существами.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-azarketi-underwater-volcano",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ездовой корги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2631\">Corgi Mount</a>) / 1",
+            "name": "Ездовой корги",
+            "originalName": "Corgi Mount",
+            "level": 1,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 129</p><hr class=\"docutils\"><p>Самые маленькие из фей ездили верхом на корги с незапамятных времен, что привело к узору на спине корги, который называется \"седло феи\".\nВы установили магическую связь с корги, который может служить вашим ездовым животным.\nВаш фамильяр-корги <span class=\"s-small\">маленького</span> размера, а не <span class=\"s-tiny\">крошечного</span>, и в отличие от большинства фамильяров, его можно использовать в качестве вашего ездового животного.\nУ него есть способность <span class=\"card-link \">Нюх (Scent)</span>, которая как обычно считается к вашему ограничению способностей фамильяра и хозяина.\nКроме того, он никогда не может получить способность фамильяра, которая дает ему любые Скорости, кроме наземной Скорости.\nЕсли вы <span class=\"card-link \">Пикси (Pixie)</span>, то не можете ездить на корги из-за вашего размера, но можете взять эту способность, чтобы получить фамильяра-корги.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 129",
+            "action": "",
+            "id": "ancestry-feat-sprite-corgi-mount",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мимолетные крылья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2632\">Evanescent Wings</a>) / 1",
+            "name": "Мимолетные крылья",
+            "originalName": "Evanescent Wings",
+            "level": 1,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>У вас появились крылья, которыми можно порхать короткими рывками.\nВам не нужно тратить никаких дополнительных действий, чтобы достать до чего-то в своем пространстве, что могло бы достать существо среднего размера.\nНапример, если вы хотите открыть банку с печеньем, расположенную в 4 футах от земли, то для этого вам нужно потратить всего 1 действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nКогда вы применяете \"Мимолетные крылья\", чтобы порхнуть на более высокое место в вашем пространстве, ваше действие получает признак <span class=\"t-move\">движение</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "",
+            "id": "ancestry-feat-sprite-evanescent-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фейские чары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2633\">Fey Cantrips</a>) / 1",
+            "name": "Фейские чары",
+            "originalName": "Fey Cantrips",
+            "level": 1,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>Вы научились чарам, которые спрайты использовали с незапамятных времен.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-d-dancing-lights\">Пляшущие огоньки (Dancing Lights) / Чары 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-g-ghost-sound\">Призрачный звук (Ghost Sound) / Чары 1</span> как врожденные природные чары.\nЕсли вы обладаете наследием <span class=\"card-link \">Григ (Grig)</span>, то вы еще получаете <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span>, а если вы обладаете наследием <span class=\"card-link \">Дракси (Draxie)</span>, то получаете <span class=\"card-link std std-ref\" data-id=\"spell-p-prestidigitation\">Престидижитация (Prestidigitation) / Чары 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "",
+            "id": "ancestry-feat-sprite-fey-cantrips",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разговор с летучими мышами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2634\">Speak with Bats</a>) / 1",
+            "name": "Разговор с летучими мышами",
+            "originalName": "Speak with Bats",
+            "level": 1,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Никтера (Nyktera)</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>Вы можете задавать вопросы и получать ответы, а также использовать навык Дипломатии с летучими мышами.\nВы получаете бонус обстоятельства +2 ко всем проверкам Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на летучих мышей и <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Попросить (Request)</span> у них что-либо.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "",
+            "id": "ancestry-feat-sprite-speak-with-bats",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искра спрайта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2635\">Sprite's Spark</a>) / 1",
+            "name": "Искра спрайта",
+            "originalName": "Sprite's Spark",
+            "level": 1,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>Вы можете запустить во врага частичку своей магии.\nВы получаете дистанционную безоружную атаку, относящуюся к группе оружия \"праща\", имеющую максимальную дальность 20 футов и наносящую 1d4 урона (к броску урона не добавляется никакой модификатор характеристики).\nТип урона и название безоружной атаки зависит от вашего наследия; большинство наследий спрайтов не представленных в \"Lost Omens: Ancestry Guide\" используют атаку \"светящаяся искра\".\nКак и другие безоружные атаки, вы можете улучшать эту атаку с помощью <span class=\"card-link \">Повязки могучих ударов (Handwraps of Mighty Blows) / Предмет 2+</span>.</p><ul class=\"simple\">\n<li><p><span class=\"card-link \">Дракси (Draxie)</span>: эйфорическая искра (ментальный)</p></li>\n<li><p><span class=\"card-link \">Светящийся (Luminous Sprite)</span> (aka Firefly): светящаяся искра (огонь)</p></li>\n<li><p><span class=\"card-link \">Григ (Grig)</span>: диссонирующая искра (звук)</p></li>\n<li><p><span class=\"card-link \">Меликси (Melixie)</span>: жалящий бросок (яд)</p></li>\n<li><p><span class=\"card-link \">Никтера (Nyktera)</span>: импульс ультразвука (звук)</p></li>\n<li><p><span class=\"card-link \">Пикси (Pixie)</span>: пыль пикси (ментальный)</p></li>\n</ul>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "",
+            "id": "ancestry-feat-sprite-sprites-spark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Собеседник животных (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2636\">Animal Speaker</a>) / 5",
+            "name": "Собеседник животных",
+            "originalName": "Animal Speaker",
+            "level": 5,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение общаться с каким-либо видом животных (таким как летучие мыши или членистоногие)</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>Вы можете разговаривать со всеми животными, а не только с определенной группой.\nВы получаете бонус обстоятельства +1 к <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на животных (что обычно использует навык Дипломатии).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "",
+            "id": "ancestry-feat-sprite-animal-speaker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цепляющий мотив (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2637\">Catchy Tune</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Цепляющий мотив",
+            "originalName": "Catchy Tune",
+            "level": 5,
+            "traits": [
+                "эмоция",
+                "слуховой",
+                "концентрация",
+                "ментальный",
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 130</p><hr class=\"docutils\"><p>Вы создаете такую запоминающуюся мелодию, что ваши враги не могут не танцевать.\nСовершите проверку Выступления против КС Воли всех врагов в 30-футовой эманации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель получает штраф состояния -10 футов Скорости и застигнуто врасплох, и то и другое на 1 раунд</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает штраф состояния -5 футов Скорости на 1 раунд</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель временно иммунна на 1 час</div>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 130",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-sprite-catchy-tune",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маскировка феи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2638\">Fey Disguise</a>) / 5",
+            "name": "Маскировка феи",
+            "originalName": "Fey Disguise",
+            "level": 5,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Вы можете замаскировать себя магическими иллюзиями.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span> как врожденное природное заклинание 1-го уровня.\nНа 7-м уровне, заклинание усиливается до 2-го уровня, и каждые 2 уровня после этого, оно усиливается на дополнительный уровень заклинания.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "",
+            "id": "ancestry-feat-sprite-fey-disguise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Придать крыльям энергии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2639\">Energize Wings</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Придать крыльям энергии",
+            "originalName": "Energize Wings",
+            "level": 9,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "трансформация",
+                "концентрация",
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-sprite-evanescent-wings\">Мимолетные крылья (Evanescent Wings) / 1</span></p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Вы подпитываете свою магию, чтобы придать своим крыльям энергии, временно преобразуя их в сияющую величественную форму.\nНа 1 минуту вы получаете Скорость полета 30 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-sprite-energize-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия феи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2640\">Fey Magic</a>) / 9",
+            "name": "Магия феи",
+            "originalName": "Fey Magic",
+            "level": 9,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Вы можете использовать магию фей, чтобы спрятаться и раскрыть спрятанных врагов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-f-faerie-fire\">Фейское сияние (Faerie Fire) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span>, как врожденные природные заклинания, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "",
+            "id": "ancestry-feat-sprite-fey-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кожа феи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2641\">Fey Skin</a>) / 13",
+            "name": "Кожа феи",
+            "originalName": "Fey Skin",
+            "level": 13,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Хотя вы и более восприимчивы к холодному железу, чем большинство Бескрылых, вы также обладаете невероятной стойкостью и более глубокой связью с целительными энергиями Первого мира.\nУвеличьте свои максимальные Очки Здоровья на значение, равное вашему уровню.\nЕсли вы отдыхаете 10 минут, яркий свет Первого мира просачивается в вашу форму из ваших крыльев (или места, где они были быть), благодаря чему вы восстанавливаете количество ОЗ, равное вашему уровню;\nони суммируются с любыми ОЗ, которые вы восстанавливаете от <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.\nОднако вы получаете слабость 5 к холодному железу.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "",
+            "id": "ancestry-feat-sprite-fey-skin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невидимый трикстер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2642\">Invisible Trickster</a>) / 13",
+            "name": "Невидимый трикстер",
+            "originalName": "Invisible Trickster",
+            "level": 13,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Вы узнали как становиться невидимым и оставаться таким.\nВы можете раз в час сотворять <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> как врожденное природное заклинание 4-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "",
+            "id": "ancestry-feat-sprite-invisible-trickster",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крылья героя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2643\">Hero's Wings</a>) / 17",
+            "name": "Крылья героя",
+            "originalName": "Hero's Wings",
+            "level": 17,
+            "traits": [
+                "спрайт"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-sprite-energize-wings\">Придать крыльям энергии (Energize Wings)  / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 131</p><hr class=\"docutils\"><p>Вы начали последние шаги к раскрытию своего потенциала.\nВаши крылья всегда в своей величественной форме, и вам не нужно применять <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-sprite-energize-wings\">Придать крыльям энергии (Energize Wings)  / 9</span>, что дает вам постоянную Скорость полета.\nКроме того, спрайты узнают вас как могущественного героя (или злодея) по вашим уникальным крыльям и впечатлены должным образом.\nВы получаете бонус обстоятельства +2 ко всем проверкам Дипломатии и Запугивания против спрайтов, и получаете преимущества способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-glad-hand\">Радушный прием (Glad-Hand) / 2</span> против других спрайтов, не получая штрафа -5 к вашей проверке Дипломатии.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 131",
+            "action": "",
+            "id": "ancestry-feat-sprite-heros-wings",
+            "archetype": ""
+        },
+        {
+            "fullName": "Падение из гнезда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2644\">Nestling Fall</a>) / 1",
+            "name": "Падение из гнезда",
+            "originalName": "Nestling Fall",
+            "level": 1,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Вы доверяете силе своих крыльев и можете расправить их, чтобы безопасно парить к земле.\nПока вы можете действовать, то не получаете урона от падения, независимо от высоты падения.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "",
+            "id": "ancestry-feat-strix-nestling-fall",
+            "archetype": ""
+        },
+        {
+            "fullName": "Исполнитель историй (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2645\">Story Crooner</a>) / 1",
+            "name": "Исполнитель историй",
+            "originalName": "Story Crooner",
+            "level": 1,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Вы талантливый рассказчик и эффективно используете свой голос.\nВы обучены Выступлению.\nЕсли вы автоматически станете обучены Выступлению, то вместо этого обучаетесь навыку на свой выбор.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-impressive-performance\">Впечатляющее выступление (Impressive Performance) / 1</span> и бонус обстоятельства +1 когда <span class=\"card-link std std-ref\" data-id=\"skill-performance-perform\">Выступаете (Performing)</span> перед аудиторией стриксов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "",
+            "id": "ancestry-feat-strix-story-crooner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стрикс-защитник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2646\">Strix Defender</a>) / 1",
+            "name": "Стрикс-защитник",
+            "originalName": "Strix Defender",
+            "level": 1,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Ваша родовая вражда с людьми дает вам опыт борьбы со злобными врагами, а ваша месть не знает границ.\nВы получаете бонус обстоятельства +1 к проверкам Восприятия, Запугивания и Выживания против людей, а также к броскам урона оружием и безоружными атаками против людей.\nОднако ваша ненависть к людям сразу же очевидна, что дает вам штраф обстоятельства -2 к проверкам Дипломатии против них и обычно их отношение к вам начинается на один шаг хуже.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "",
+            "id": "ancestry-feat-strix-defender",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания стриксов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2647\">Strix Lore</a>) / 1",
+            "name": "Знания стриксов",
+            "originalName": "Strix Lore",
+            "level": 1,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Вы хорошо связаны со своим племенем и, возможно, даже с общинами стриксов помимо вашей собственной, где вы узнали о земле и приемах грациозного движения.\nВы становитесь обучены Акробатике и Природе.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям стриксов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "",
+            "id": "ancestry-feat-strix-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пернатый плащ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2648\">Feathered Cloak</a>) / 5",
+            "name": "Пернатый плащ",
+            "originalName": "Feathered Cloak",
+            "level": 5,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Чтобы слиться с приземленными и бескрылыми, вы складываете крылья прямо за спиной, создавая иллюзию пернатого плаща.\nВы получаете бонус обстоятельства +2 к проверкам Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> в свою версию не являющуюся стриксом.</p><p>Дополнительно, ваши сложенные крылья помогают вам скрывать на себе объекты, давая бонус обстоятельства +2 к проверкам Скрытности для <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "",
+            "id": "ancestry-feat-strix-feathered-cloak",
+            "archetype": ""
+        },
+        {
+            "fullName": "Полет птенца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2649\">Fledgling Flight</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Полет птенца",
+            "originalName": "Fledgling Flight",
+            "level": 5,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 136</p><hr class=\"docutils\"><p>Вы можете летать по воздуху короткими рывками с половиной вашей наземной Скорости.\nЕсли вы не закончите свое движение на твердой земле, то падаете в конце своего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 136",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-strix-fledgling-flight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Месть стрикса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2650\">Strix Vengeance</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Месть стрикса",
+            "originalName": "Strix Vengeance",
+            "level": 5,
+            "traits": [
+                "эмоция",
+                "ментальный",
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Триггер</strong>: Вы или союзник-стрикс, которого вы можете видеть, получает урон от критического попадания врага</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Вы посвящаете себя уничтожению тех, кто причиняет вред вашей родне.\nДо конца вашего следующего хода, вы наносите дополнительные 1d6 урона <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span> по спровоцировавшему врагу.\nБонус увеличивается до 2d6 если вы используете <span class=\"card-link \">разящее</span> оружие или безоружную атаку, и до 3d6 если вы используете <span class=\"card-link \">старшее разящее</span> оружие или безоружную атаку.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "реакция",
+            "id": "ancestry-feat-strix-vengeance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чревовещание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2651\">Thrown Voice</a>) / 5",
+            "name": "Чревовещание",
+            "originalName": "Thrown Voice",
+            "level": 5,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Вы научились чревовещать сквозь ветры, обманывая других относительно вашего местоположения.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-v-ventriloquism\">Чревовещание (Ventriloquism) / Закл. 1</span> как врожденное природное заклинание.\nЕсли вы обладаете наследием <span class=\"card-link \">Певчий (Songbird Strix)</span>, то вместо этого можете сотворять его дважды в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "",
+            "id": "ancestry-feat-strix-thrown-voice",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свирепый порыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2652\">Ferocious Gust</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Свирепый порыв",
+            "originalName": "Ferocious Gust",
+            "level": 9,
+            "traits": [
+                "воздействие",
+                "воздух",
+                "концентрация",
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Сильными ударами крыльев вы вызываете яростный порыв ветра и направляете его на своих противников.\nЭтот удар воздуха обладает эффектами <span class=\"card-link std std-ref\" data-id=\"spell-g-gust-of-wind\">Порыв ветра (Gust of Wind) / Закл. 1</span> с КС равным вашему КС класса или КС заклинания, в зависимости от того, что больше.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-strix-ferocious-gust",
+            "archetype": ""
+        },
+        {
+            "fullName": "Юношеский полет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2653\">Juvenile Flight</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Юношеский полет",
+            "originalName": "Juvenile Flight",
+            "level": 9,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Вы раскрываете свои крылья для путешествия и можете держать их в раскрытом состоянии в течение 10 минут.\nПока крылья раскрыты, вы получаете Скорость полета, равную вашей наземной Скорости.\nЕсли у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-strix-fledgling-flight\">Полет птенца (Fledgling Flight)  / 5</span>, то вы получаете бонус состояния +10 футов к своей Скорости полета \"Юношеского полета\".\nКак обычно, так как ваша Скорость полета зависит от наземной Скорости, этот бонус состояния не складывается с бонусами состояния к вашей наземной Скорости, если вдруг они у вас есть.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-strix-juvenile-flight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искусства рокоа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2654\">Rokoan Arts</a>) / 9",
+            "name": "Искусства рокоа",
+            "originalName": "Rokoan Arts",
+            "level": 9,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Духи предков начали связываться с вами, давая вам силы, характерные для рокоа.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-speak-with-animals\">Разговор с животными (Speak with Animals) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-status\">Состояние (Status) / Закл. 2</span> как врожденные природные заклинания, каждое раз в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "",
+            "id": "ancestry-feat-strix-rokoan-arts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шаг крыла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2655\">Wing Step</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Шаг крыла",
+            "originalName": "Wing Step",
+            "level": 9,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Резко взмахнув крыльями, вы легко держишься на ногах.\nВы дважды <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span> на 5 футов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOAG-2: </span>Явно указано, что Шаг по 5 футов.</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-strix-wing-step",
+            "archetype": ""
+        },
+        {
+            "fullName": "Превращение предка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2656\">Ancestor's Transformation</a>) / 13",
+            "name": "Превращение предка",
+            "originalName": "Ancestor's Transformation",
+            "level": 13,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Вы можете общаться с духами предков, чтобы принять форму огромного первобытного стрикса.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-aerial-form\">Воздушная форма (Aerial Form) / Закл. 4</span> как врожденное природное заклинание 5-го уровня, но вы принимаете форму первобытного стрикса, используя характеристики формы птицы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "",
+            "id": "ancestry-feat-strix-ancestors-transformation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Постоянный полет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2657\">Fully Flighted</a>) / 13",
+            "name": "Постоянный полет",
+            "originalName": "Fully Flighted",
+            "level": 13,
+            "traits": [
+                "стрикс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-strix-juvenile-flight\">Юношеский полет (Juvenile Flight)  / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 137</p><hr class=\"docutils\"><p>Вы все время получаете эффекты <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-strix-juvenile-flight\">Юношеский полет (Juvenile Flight)  / 9</span>, а не только раз в день на 10 минут.\nЭто в том числе включает бонус состояния к вашей Скорости, если у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-strix-fledgling-flight\">Полет птенца (Fledgling Flight)  / 5</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 137",
+            "action": "",
+            "id": "ancestry-feat-strix-fully-flighted",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания андроидов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2459\">Android Lore</a>) / 1",
+            "name": "Знания андроидов",
+            "originalName": "Android Lore",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 71</p><hr class=\"docutils\"><p>Вы очень заинтересованы в происхождении вашего народа.\nВы становитесь обучены Ремеслу и Воровству.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям андроидов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 71",
+            "action": "",
+            "id": "ancestry-feat-android-android-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подпрограмма очистки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2460\">Cleansing Subroutine</a>) / 1",
+            "name": "Подпрограмма очистки",
+            "originalName": "Cleansing Subroutine",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 71</p><hr class=\"docutils\"><p>Наниты помогают очистить ваш организм от вредных химикатов и токсинов.\nКаждый раз, когда вы получаете успех спасброска Стойкости против действующего <span class=\"t-poison\">яда</span>, то снижаете его стадию на 2, или на 1 для <span class=\"t-virulent\">вирулентного</span> яда.\nКаждый раз, когда вы получаете критический успех спасброска против действующего яда, то снижаете его стадию на 3, или на 2 для вирулентного яда.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 71",
+            "action": "",
+            "id": "ancestry-feat-android-cleansing-subroutine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лишенный эмоций (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2461\">Emotionless</a>) / 1",
+            "name": "Лишенный эмоций",
+            "originalName": "Emotionless",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Ваши сбоящие эмоциональные процессоры мешают вам испытывать сильные эмоции.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов эмоций и страха.\nЕсли при броске спасброска против эффекта эмоции или страха вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-emotionless",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренний отсек (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2462\">Internal Compartment</a>) / 1",
+            "name": "Внутренний отсек",
+            "originalName": "Internal Compartment",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Вы можете спрятать небольшой объект размером вплоть до легкой Массы внутри полости на одном из предплечий.\nЧтобы убрать туда предмет, требуется 3 действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nВы получаете бонус обстоятельства +4 к КС против проверок от других, чтобы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> объекты хранящиеся внутри вашей руки.\nЕсли вы храните в вашей руке оружие, то можете использовать одиночное действие, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> для вытаскивания оружия в руку, в которой находится полость, а потом <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударить (Strike)</span> этим оружием.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-internal-compartment",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нанитовый всплеск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2463\">Nanite Surge</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Нанитовый всплеск",
+            "originalName": "Nanite Surge",
+            "level": 1,
+            "traits": [
+                "концентрация",
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы совершаете проверку навыка, требующую 3 действия или меньше</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Вы стимулируете свои наниты, заставляя ваше тело временно увеличить его эффективность.\nВы получаете бонус состояния +2 к спровоцировавшей проверке навыка.\nДополнительно, ваша схема светится, излучая тусклый свет в 10-футовой эманации на 1 раунд.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "реакция",
+            "id": "ancestry-feat-android-nanite-surge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адаптивное ночное зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2464\">Nightvision Adaptation</a>) / 1",
+            "name": "Адаптивное ночное зрение",
+            "originalName": "Nightvision Adaptation",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Наниты в ваших глазных процессорах адаптировались к темноте, увеличивая вашу способность видеть во тьме.\nВы получаете ночное зрение.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-nightvision-adaptation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опасность сближения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2465\">Proximity Alert</a>) / 1",
+            "name": "Опасность сближения",
+            "originalName": "Proximity Alert",
+            "level": 1,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Вы неестественно гармонируете со своим окружением и инстинктивно реагируете на опасность.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия, совершенным в качестве бросков инициативы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-proximity-alert",
+            "archetype": ""
+        },
+        {
+            "fullName": "Светящаяся схема (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2466\">Radiant Circuitry</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Светящаяся схема",
+            "originalName": "Radiant Circuitry",
+            "level": 1,
+            "traits": [
+                "свет",
+                "концентрация",
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Ваша биологическая схема излучает свет как факел, отбрасывая яркий свет в радиусе 20 футов (и тусклый свет на следующие 20 футов).\nСвет выключается, когда вы снова совершаете это действие или теряете сознание.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-android-radiant-circuitry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенная система наведения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2467\">Advanced Targeting System</a>) / 5",
+            "name": "Улучшенная система наведения",
+            "originalName": "Advanced Targeting System",
+            "level": 5,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Ваши глазные процессоры улучшены продвинутыми системами наведения, которые позволяют вам легче засекать вашего врага и читать его движения.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span> как врожденное арканное заклинание 1-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-advanced-targeting-system",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подпрограмма прививки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2468\">Inoculation Subroutine</a>) / 5",
+            "name": "Подпрограмма прививки",
+            "originalName": "Inoculation Subroutine",
+            "level": 5,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 72</p><hr class=\"docutils\"><p>Ваши наниты с легкостью отторгают болезни.\nКаждый раз, когда вы получаете успех спасброска Стойкости против действующей болезни, то снижаете ее стадию на 2, или на 1 для вирулентной болезни.\nКаждый раз, когда вы получаете критический успех спасброска против действующей болезни, то снижаете ее стадию на 3, или на 2 для вирулентной болезни.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 72",
+            "action": "",
+            "id": "ancestry-feat-android-inoculation-subroutine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Покров нанитов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2469\">Nanite Shroud</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Покров нанитов",
+            "originalName": "Nanite Shroud",
+            "level": 5,
+            "traits": [
+                "концентрация",
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Наниты вылетают из вашего тела, роясь облаком вокруг вас.\nВы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> на количество раундов, равное половине вашего уровня.\nКак и обычно для скрытия которое делает вашу позицию очевидно, вы не можете использовать это сокрытие чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.\nПока \"Покров нанитов\" активен, вы не можете использовать другие умения, которые требуют использования ваших нанитов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-android-nanite-shroud",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитная подпрограмма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2470\">Protective Subroutine</a>) / 5",
+            "name": "Защитная подпрограмма",
+            "originalName": "Protective Subroutine",
+            "level": 5,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Ваши наниты могут усилить защиту.\nВы можете активировать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span> когда совершаете спасбросок, вместо выполнения проверки навыка.\nЕсли вы так делаете, то получаете бонус состояния +2 к спровоцировавшему спасброску.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "",
+            "id": "ancestry-feat-android-protective-subroutine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внутренний респиратор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2471\">Internal Respirator</a>) / 9",
+            "name": "Внутренний респиратор",
+            "originalName": "Internal Respirator",
+            "level": 9,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Ваше тело может ограниченное время синтезировать кислород.\nКогда вы задерживаете дыхание, то благодаря вашим встроенным резервуарам с воздухом, можете задерживать его на дополнительный час.\nПо истечении этого часа ваши воздушные резервуары опустошаются.\nНаполнение пустых резервуаров воздухом занимает 10 минут на воздухе, пригодном для дыхания.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "",
+            "id": "ancestry-feat-android-internal-respirator",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наступательная подпрограмма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2472\">Offensive Subroutine</a>) / 9",
+            "name": "Наступательная подпрограмма",
+            "originalName": "Offensive Subroutine",
+            "level": 9,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Наниты усиливают ваши атаки.\nВы можете активировать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span> при совершении броска атаки, вместо проверки навыка.\nЕсли вы так делаете, то получаете бонус состояния +1 к спровоцировавшему броску атаки.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "",
+            "id": "ancestry-feat-android-offensive-subroutine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ремонтный модуль (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2473\">Repair Module</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Ремонтный модуль",
+            "originalName": "Repair Module",
+            "level": 9,
+            "traits": [
+                "концентрация",
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Вы запускаете программу восстановления своего тела, заставляя наниты в своем теле залечивать раны.\nВы на 1 минуту получаете быстрое исцеление, равное половине своего уровня.\nПока активен \"Ремонтный модуль\", вы не можете использовать другие умения, которые требуют использования ваших нанитов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-android-repair-module",
+            "archetype": ""
+        },
+        {
+            "fullName": "Регулярный всплеск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2474\">Consistent Surge</a>) / 13",
+            "name": "Регулярный всплеск",
+            "originalName": "Consistent Surge",
+            "level": 13,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Ваши наниты невероятно эффективны, они способны регулярно повышать работоспособность вашего тела.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-android-nanite-surge\">Нанитовый всплеск (Nanite Surge)  / 1</span> с частотой раз в 10 минут, а не раз в час.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "",
+            "id": "ancestry-feat-android-consistent-surge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Протокол оживления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2475\">Revivification Protocol</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Протокол оживления",
+            "originalName": "Revivification Protocol",
+            "level": 13,
+            "traits": [
+                "андроид"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: У вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и вы готовы совершать проверку восстановления</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 73</p><hr class=\"docutils\"><p>Ваши наниты запрограммированы на ваше автоматическое оживление.\nВы восстанавливаетесь до 1 ОЗ, теряете состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>, и можете нормально действовать в этот ход.\nВы, как обычно при потере состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> таким способом, получаете или увеличиваете состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 73",
+            "action": "свободное действие",
+            "id": "ancestry-feat-android-revivification-protocol",
+            "archetype": ""
+        },
+        {
+            "fullName": "Родство с аберрациями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2516\">Aberration Kinship</a>) / 1",
+            "name": "Родство с аберрациями",
+            "originalName": "Aberration Kinship",
+            "level": 1,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Ваш разум резонирует с непостижимыми мыслительными процессами, которые нечеловеческие аберрации используют для общения.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-m-mindlink\">Мысленная связь (Mindlink) / Закл. 1</span> как врожденное оккультное заклинание, но вы можете выбирать целью только аберраций.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-aberration-kinship",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глубинное зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2517\">Deep vision</a>) / 1",
+            "name": "Глубинное зрение",
+            "originalName": "Deep vision",
+            "level": 1,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Ваше зрение подходит для ночи или подземелья.\nВы получаете ночное зрение.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-deep-vision",
+            "archetype": ""
+        },
+        {
+            "fullName": "Живое оружие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2518\">Living Weapon</a>) / 1",
+            "name": "Живое оружие",
+            "originalName": "Living Weapon",
+            "level": 1,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Вы научились использовать часть своей формы как оружие.\nКогда вы выбираете эту способность, то получаете безоружную атаку когтями, которая наносит 1d4 рубящего урона и имеет признаки <span class=\"w-agile\">быстрое</span> и <span class=\"w-finesse\">точное</span>;\nбезоружную атаку рогами, челюстями или бивнями, которая наносит 1d6 колющего урона и имеет признак <span class=\"w-versatile\">универсальное Р</span>;\nили безоружную атаку хвостом, которая наносит 1d6 дробящего урона и имеет признак <span class=\"w-backswing\">обратный замах</span>.\nКаждая из этих безоружных атак относится к группе оружия \"драка\".</p><p>Ваши черты изменчивы; поэтому вы можете взять эту способность на любом уровне, и можете переобучиться ей, или заменить другую способность на нее, или изменить вид вашей атаки.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз.\nКаждый раз когда вы это делаете, выберите новую атаку из представленных вариантов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-living-weapon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поразительная внешность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2519\">Startling Appearance</a>) / 1",
+            "name": "Поразительная внешность",
+            "originalName": "Startling Appearance",
+            "level": 1,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Вы обучены Запугиванию (или другому навыку на свой выбор, если вы уже были обучены Запугиванию) и получаете бонусную способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-intimidating-glare\">Запугивающий взгляд (Intimidating Glare) / 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-startling-appearance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воплощенная субъективность легионера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3926\">Embodied Legionary Subjectivity</a>) / 1",
+            "name": "Воплощенная субъективность легионера",
+            "originalName": "Embodied Legionary Subjectivity",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "флэшворп"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Катафракт (Cataphract)</span></p><p><strong>Доступ</strong>: Вы из Некса</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 29</p><hr class=\"docutils\"><p>Формирующие плоть из Некса сформировали вас не для достижения индивидуального величия в бою, а скорее для того, чтобы вы стали частью легиона - деталью, неотъемлемой для объединенных боевых стратагем нексианских боевых магов.\nВы становитесь обучены Аркане и Атлетике.\nЕсли вы автоматически становитесь обучены одному из этих навыков, то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям военного дела (Warfare).</p>",
+            "src": "Lost Omens: Impossible Lands pg. 29",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-embodied-legionary-subjectivity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ребристые гребни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2520\">Finned Ridges</a>) / 5",
+            "name": "Ребристые гребни",
+            "originalName": "Finned Ridges",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Гребни и лоскуты вашей кожи направляют вас в воде.\nВы получаете Скорость плавания 15 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-finned-ridges",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зияющая плоть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2521\">Gaping Flesh</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Зияющая плоть",
+            "originalName": "Gaping Flesh",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Существо, о котором вы осведомлены, наносит вам урон <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Ваша рана раскрывается, ужасая нападающего.\nАтакующий должен совершить успешный спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше, иначе получает состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 1</span> (при критическом провале <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span>).\nПока он находится рядом с вами, то не может оправиться от <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноты</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "реакция",
+            "id": "ancestry-feat-fleshwarp-gaping-flesh",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мутирующее оружие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2522\">Mutate Weapon</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Мутирующее оружие",
+            "originalName": "Mutate Weapon",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-fleshwarp-living-weapon\">Живое оружие (Living Weapon) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Выберите одну безоружную атаку полученную с <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-fleshwarp-living-weapon\">Живое оружие (Living Weapon) / 1</span>.\nДо конца вашего хода, кость урона этой атаки увеличивается на один шаг.\nДополнительно, выберите либо атака получает признак <span class=\"w-reach\">длинное 10 фт</span> до конца вашего хода, либо вы получаете бонус состояния +1 к броскам атак выбранной безоружной атакой до конца вашего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-fleshwarp-mutate-weapon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крепкие кишки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2523\">Powerful Guts</a>) / 5",
+            "name": "Крепкие кишки",
+            "originalName": "Powerful Guts",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 92</p><hr class=\"docutils\"><p>Ваш желудок особенно крепок.\nКогда вы получаете успех спасброска Стойкости, чтобы снизить значение <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноты</span>, то снижаете его на 2 (или на 3 при критическом успехе).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 92",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-powerful-guts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сверхъестественная настороженность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2524\">Uncanny Awareness</a>) / 5",
+            "name": "Сверхъестественная настороженность",
+            "originalName": "Uncanny Awareness",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Вы остро ощущаете движение вокруг себя.\nВы получаете неточное сенсорное чувство движения на расстоянии до 30 футов.\nЧувство движения позволяет вам обнаруживать движение поблизости по вибрации и движению воздуха.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-uncanny-awareness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воплощенная субъективность дредноута (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3927\">Embodied Dreadnought Subjectivity</a>) / 5",
+            "name": "Воплощенная субъективность дредноута",
+            "originalName": "Embodied Dreadnought Subjectivity",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "флэшворп"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Катафракт (Cataphract)</span></p><p><strong>Доступ</strong>: Вы из Некса</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 29</p><hr class=\"docutils\"><p>Ваша колоссальная мощь характеризует вас как исполина, гордость формовщиков плоти из Некса, а самая тяжелая артиллерия - детская игрушка в вашей монументальной хватке.\nВы - дредноут, живое осадное орудие, хотя и использующее в бою другие осадные орудия по мере того, как крепнет ваш эндоскелет и плоть.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-hefty-hauler\">Сильный носильщик (Hefty Hauler) / 1</span>, и ваше максимальное ограничение Массы увеличивается еще на 3; итого на 2 к вашему ограничению <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегруженности</span> и на 5 к вашему максимальному ограничению Массы.\nПодробности о расчете переносимой массы находятся в разделе <span class=\"card-link \">Ограничения массы (Bulk Limits)</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 29",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-embodied-dreadnought-subjectivity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Транспозируемая совместимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3928\">Transposable Compliance</a>) / 5",
+            "name": "Транспозируемая совместимость",
+            "originalName": "Transposable Compliance",
+            "level": 5,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 29</p><hr class=\"docutils\"><p>Ваша изменчивая жизнеспособность плодородна и приносит много пользы: по вашим венам течет живительный ихор, который адаптируется к крови и физиологии любого тела, а ваша кожа линяет по команде, создавая защитные оболочки тканей для себя и других.\nВы становитесь обучены Медицине.\nЕсли вы уже были обучены Медицине, то вместо этого становитесь обученным навыку на свой выбор.\nВы можете оказывать <span class=\"card-link std std-ref\" data-id=\"skill-medicine-first-aid\">Первую помощь (First Aid)</span> без <span class=\"card-link \">набора лекаря</span>, используя вместо него свою физиологию, но чтобы совершить попытку, вы должны получить 1 урон.\nАналогично, вы можете применять <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> без набора лекаря, но при этом получаете 2d8 урона.\nПри использовании своей физиологии, вы получаете бонус обстоятельства +1 ко всем проверкам Медицины для оказания \"Первой помощи\" и \"Лечения ран\".</p>",
+            "src": "Lost Omens: Impossible Lands pg. 29",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-transposable-compliance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Завораживающее любопытство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2525\">Captivating Curiosity</a>) / 9",
+            "name": "Завораживающее любопытство",
+            "originalName": "Captivating Curiosity",
+            "level": 9,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Вы можете привлечь внимание посторонних своей неповторимой внешностью.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-enthrall\">Захватывающая речь (Enthrall) / Закл. 3</span> как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-captivating-curiosity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Слизевое покрытие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2526\">Coating of Slime</a>) / 9",
+            "name": "Слизевое покрытие",
+            "originalName": "Coating of Slime",
+            "level": 9,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Ваши конечности покрывает едкая слизь.\nПри критическом попадании, ваши безоружные атаки наносят дополнительные 1d4 продолжительного урона кислотой.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-coating-of-slime",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жуткое сжатие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2527\">Eerie Compression</a>) / 9",
+            "name": "Жуткое сжатие",
+            "originalName": "Eerie Compression",
+            "level": 9,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"s-medium\">Средний</span> размер</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Ваши конечности и даже туловище могут сжиматься сами по себе, позволяя вам проходить через ограниченное пространство, как если бы вы были существом маленького размера.\nВо время <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протискивания (Squeezing)</span> вы можете двигаться с полной Скоростью.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-LOAG-2: </span>Добавлено предварительное условие размера.</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-eerie-compression",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цепкие конечности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2528\">Gripping Limbs</a>) / 9",
+            "name": "Цепкие конечности",
+            "originalName": "Gripping Limbs",
+            "level": 9,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Наросты, крючки или когти на ваших конечностях позволяют вам легко цепляться за поверхности.\nВы получаете Скорость карабканья 15 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-gripping-limbs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выскользнуть из хватки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2529\">Slip the Grasp</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Выскользнуть из хватки",
+            "originalName": "Slip the Grasp",
+            "level": 9,
+            "traits": [
+                "размах",
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы имеете состояние <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>У вас есть особенность, позволяющая быстро избегать сдерживающих вас эффектов.\nСовершите проверку, чтобы <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>.\nВ случае успеха, вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span>, <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагнуть (Step)</span> или сделать <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> безоружной атакой ближнего боя, целясь в существо от которого вы Вырвались.\nПри провале, вместо этого вы пытаетесь Вырваться второй раз.</p><p>Вы увеличиваете свой штраф множественной атаки как положено для применяемых действий, но только после завершения обоих действий.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-fleshwarp-slip-the-grasp",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воплощенная субъективность драгуна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3929\">Embodied Dragoon Subjectivity</a>) / 9",
+            "name": "Воплощенная субъективность драгуна",
+            "originalName": "Embodied Dragoon Subjectivity",
+            "level": 9,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 29</p><hr class=\"docutils\"><p>Когда ваши союзники просят быстрого подкрепления или молниеносного рейда, вы уже тут как тут.\nВаша титаническая форма воплощает и конницу, и всадника, так что вы способны преодолевать огромные расстояния и пользоваться возможностями театра военных действий.\nВаши поры расширяются и выделяют огромное количество крови, подкожного жира и лимфы, которые могут застывать и превращаться в крылья или стремительного скакуна.\nВы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-f-feather-fall\">Плавное падение (Feather Fall) / Закл. 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-p-phantom-steed\">Фантомный скакун (Phantom Steed) / Закл. 2</span> как врожденные оккультные заклинания, каждое раз в день.\nКогда вы таким образом сотворяете <em>плавное падение</em>, скользящие крылья замедляют ваше падение, а когда вы таким образом сотворяете <em>фантомного скакуна</em>, он физически выступает из вашей нижней части тела.\nНи одно из этих косметических изменений не меняет эффектов данных заклинаний; например, враги по-прежнему могут атаковать <em>фантомного скакуна</em>, как обычно.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 29",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-embodied-dragoon-subjectivity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Усиление чувств (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2530\">Augment Senses</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Усиление чувств",
+            "originalName": "Augment Senses",
+            "level": 13,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Вы открываете рудиментарные глаза, распускаете барабанные перепонки кожи или иным образом усиливаете свои чувства.\nДо начала вашего следующего хода вы получаете следующие преимущества:</p><ul class=\"simple\">\n<li><p>вас нельзя взять в тиски</p></li>\n<li><p>когда вы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Ищете (Seek)</span> существ, то можете сканировать 60-футовый конус или 30-футовый взрыв, вместо обычных областей</p></li>\n<li><p>когда вы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Ищете (Seek)</span> спрятанные объекты, то можете искать в 15-футовом квадрате вместо обычной области</p></li>\n</ul>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-fleshwarp-augment-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изрыгание щупалец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2531\">Spew Tentacles</a>) / 13",
+            "name": "Изрыгание щупалец",
+            "originalName": "Spew Tentacles",
+            "level": 13,
+            "traits": [
+                "флэшворп"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 93</p><hr class=\"docutils\"><p>Вы можете открыть свой рот до огромных размеров и извергнуть невероятно большое поле щупалец.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-black-tentacles\">Черные щупальцы (Black Tentacles) / Закл. 5</span> как врожденное оккультное заклинание, однако когда вы это делаете, то извергаете их изо рта на соответствующее расстояние, где они укореняются и как обычно начинают <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Хватать (Grappling)</span> существ.\nЩупальцы узнают вас как часть самих себя и не пытаются Захватить вас, даже если вы находитесь в области.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 93",
+            "action": "",
+            "id": "ancestry-feat-fleshwarp-spew-tentacles",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хруст (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2790\">Crunch</a>) / 1",
+            "name": "Хруст",
+            "originalName": "Crunch",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Ваши челюсти могут дробить кости и прокусывать доспех.\nВаши безоружные атаки челюстями наносят 1d8 колющего урона, вместо 1d6, и получают признак <span class=\"w-grapple\">захват</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-crunch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гнолльские знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2791\">Gnoll Lore</a>) / 1",
+            "name": "Гнолльские знания",
+            "originalName": "Gnoll Lore",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Вы обращали внимание на своих старших охотников, чтобы научиться их уловкам.\nВы становитесь обучены Скрытности и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям гноллов.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием гноллов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2792\">Gnoll Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием гноллов",
+            "originalName": "Gnoll Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Вас учили быть охотником и рейдером.\nВы обучены с цепами, хопешами, молниями, копьями и двуручными цепами.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фамильяр-гиена (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2793\">Hyena Familiar</a>) / 1",
+            "name": "Фамильяр-гиена",
+            "originalName": "Hyena Familiar",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Гиены служат гноллам питомцами, ищейками, и в вашем случае сосудом для духов.\nВы получаете гиену крошечного размера в качестве фамильяра.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-hyena-familiar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стайный охотник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2794\">Pack Hunter</a>) / 1",
+            "name": "Стайный охотник",
+            "originalName": "Pack Hunter",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Вы были обучены охотиться в стае.\nВы получаете бонус обстоятельства +2 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, а ваши союзники получают бонус обстоятельства +2 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощи (Aid)</span> вам.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-pack-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чувствительный нос (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2795\">Sensitive Nose</a>) / 1",
+            "name": "Чувствительный нос",
+            "originalName": "Sensitive Nose",
+            "level": 1,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Ваш большой нос не только для вида.\nВы получаете неточное чувство нюха дальностью 30 футов.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-sensitive-nose",
+            "archetype": ""
+        },
+        {
+            "fullName": "Далекий гогот (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2796\">Distant Cackle</a>) / 5",
+            "name": "Далекий гогот",
+            "originalName": "Distant Cackle",
+            "level": 5,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Ведьминский (Witch)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 112</p><hr class=\"docutils\"><p>Нужен очень смелый человек, чтобы войти в лес, наполненный гоготом, в котором вы обитаете.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-v-ventriloquism\">Чревовещание (Ventriloquism) / Закл. 1</span> как врожденное оккультное заклинание 1-го уровня.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 112",
+            "action": "",
+            "id": "ancestry-feat-gnoll-distant-cackle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Практичность гнолльского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2797\">Gnoll Weapon Practicality</a>) / 5",
+            "name": "Практичность гнолльского оружия",
+            "originalName": "Gnoll Weapon Practicality",
+            "level": 5,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnoll-weapon-familiarity\">Знакомство с оружием гноллов (Gnoll Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Когда вы критически попадаете цепами, хопешами, молниями, копьями и двуручными цепами, то применяете эффект критической специализации этого оружия.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-weapon-practicality",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стайный лазутчик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2798\">Pack Stalker</a>) / 5",
+            "name": "Стайный лазутчик",
+            "originalName": "Pack Stalker",
+            "level": 5,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Скрытности, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnoll-pack-hunter\">Стайный охотник (Pack Hunter) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Засады - почетная гнолльская традиция.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-terrain-stalker\">Лазутчик местности (Terrain Stalker) / 1</span> и можете расширить ее эффекты на 1 союзника, пока он остается в пределах 10 футов от вас.\nЕсли вы мастер Скрытности, то можете расширить этот эффект на 2 союзников.\nЕсли вы легенда Скрытности, то можете расширить этот эффект на 4 союзников.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-pack-stalker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Правокровка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2799\">Right-hand Blood</a>) / 5",
+            "name": "Правокровка",
+            "originalName": "Right-hand Blood",
+            "level": 5,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Говорят, что плоть с правой стороны гиены может лечить болезни, но левая часть ядовита.\nВы можете получить 1 урона, чтобы дать кому-то отведать свою кровь с правой стороны и оказать <span class=\"card-link std std-ref\" data-id=\"skill-medicine-first-aid\">Первая помощь (Administer First Aid) </span>, либо получить 2d8 урона, чтобы применить <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-disease\">Лечение болезни (Treat Disease)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>;\nв обоих случаях, вам не нужен набор лекаря и вы получаете бонус предмета +1.\nКровь с вашей левой стороны заставляет эту проверку автоматически критически проваливаться.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-right-hand-blood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Медовое дыхание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2800\">Breath Like Honey</a>) / 9",
+            "name": "Медовое дыхание",
+            "originalName": "Breath Like Honey",
+            "level": 9,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Свежего дыхания (Sweetbreath)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Вы пахнете медом и пикантными вещами.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-enthrall\">Захватывающая речь (Enthrall) / Закл. 3</span> как врожденное оккультное заклинание 3-го уровня, за исключением того, что его дистанция 30 футов и оно имеет признак <span class=\"t-inhaled\">вдыхаемый</span> вместо <span class=\"t-auditory\">слуховой</span>.\nЦели не получают никого бонуса обстоятельства за несогласие с вами.\nЕсли цель может чуять ваше дыхание, то ваш бонус обстоятельства к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> увеличивается до +2.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-breath-like-honey",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бабушкина мудрость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2801\">Grandmother's Wisdom</a>) / 9",
+            "name": "Бабушкина мудрость",
+            "originalName": "Grandmother's Wisdom",
+            "level": 9,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Вы носите с собой кости своих предков и можете попросить у них совета.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span> как врожденное оккультное заклинание 2-го уровня.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-grandmothers-wisdom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смеющийся гнолл (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2802\">Laughing Gnoll</a>) / 9",
+            "name": "Смеющийся гнолл",
+            "originalName": "Laughing Gnoll",
+            "level": 9,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Запугивания</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Зловещее хихиканье гнолла - звук предупреждения и угрозы.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-battle-cry\">Боевой клич (Battle Cry) / 7</span>.\nВы не получаете штраф, когда пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> существо, не понимающее ваш язык.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-laughing-gnoll",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ярость предка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2803\">Ancestor's Rage</a>) / 13",
+            "name": "Ярость предка",
+            "originalName": "Ancestor's Rage",
+            "level": 13,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Вы превращаетесь в огромную потустороннюю гиену.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span> (только собака/волк) как врожденное оккультное заклинание 5-го уровня.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-ancestors-rage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия гноллов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2804\">Gnoll Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия гноллов",
+            "originalName": "Gnoll Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "гнолл"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnoll-weapon-practicality\">Практичность гнолльского оружия (Gnoll Weapon Practicality) / 5</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 113</p><hr class=\"docutils\"><p>Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnoll-weapon-practicality\">Практичность гнолльского оружия (Gnoll Weapon Practicality) / 5</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 113",
+            "action": "",
+            "id": "ancestry-feat-gnoll-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2817\">Grippli Lore</a>) / 1",
+            "name": "Знания гриппли",
+            "originalName": "Grippli Lore",
+            "level": 1,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 119</p><hr class=\"docutils\"><p>Вы хорошо разбираетесь в культуре и тактике гриппли.\nВы становитесь обучены Природе и Скрытности.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям гриппли.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 119",
+            "action": "",
+            "id": "ancestry-feat-grippli-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2818\">Grippli Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием гриппли",
+            "originalName": "Grippli Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 119</p><hr class=\"docutils\"><p>Вы тренировались с оружием, идеально подходящим для болот и густых лесов.\nВы обучены обращению с духовыми трубками, топориками, косами, короткими луками и композитными короткими луками.</p><p>Вы так же получаете доступ ко всему необычному оружию гриппли.\nС целью определения уровня мастерства, воинское оружие гриппли считается простым оружием, а продвинутое оружие гриппли считается воинским оружием.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 119",
+            "action": "",
+            "id": "ancestry-feat-grippli-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защита охотника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2819\">Hunter's Defense</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Защита охотника",
+            "originalName": "Hunter's Defense",
+            "level": 1,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе</p><p><strong>Триггер</strong>: Вас атакует существо с признаком <span class=\"t-animal\">животное</span>, <span class=\"t-beast\">чудовище</span>, <span class=\"t-elemental\">элементаль</span>, <span class=\"t-fey\">фея</span>, <span class=\"t-fungus\">грибковой</span> или <span class=\"t-plant\">растение</span>, и вы можете видеть атакующего</p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Ваше практичное понимание природных и первородных существ помогает вам предугадывать их атаки и уклоняться от них.\nСпровоцировавший бросок атаки целится в ваш КС Природы вместо вашего КБ.\nХотя это и позволяет вам избежать получения штрафов к вашему КБ, но не убирает никакие состояния или другие эффекты вызывающие такие штрафы.\nНапример, враг с <span class=\"card-link \">внезапной атакой</span> все еще нанесет вам дополнительный урон из-за того, что вы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, хотя вы не получите штраф обстоятельства -2 против этой атаки.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "реакция",
+            "id": "ancestry-feat-grippli-hunters-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Странник джунглей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2820\">Jungle Strider</a>) / 1",
+            "name": "Странник джунглей",
+            "originalName": "Jungle Strider",
+            "level": 1,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Вы умеете уворачиваться от корней, листвы и других препятствий в джунглях.\nВы игнорируете сложную местность в лесах и джунглях.\nДополнительно, когда вы используете навык Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> на узких поверхностях или неровной земле состоящей из растительного материала, вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, и когда при броске такой проверки Акробатики получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "",
+            "id": "ancestry-feat-grippli-jungle-strider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ночной гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2821\">Nocturnal Grippli</a>) / 1",
+            "name": "Ночной гриппли",
+            "originalName": "Nocturnal Grippli",
+            "level": 1,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Как правило, вы большую часть своей охоты и работы выполняете ночью и адаптировались к требованиям ночной жизни.\nВы получаете ночное зрение, что позволяет вам видеть в темноте и тусклом свете также хорошо как и при ярком.\nОднако, в темноте вы видите в черно-белом спектре.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "",
+            "id": "ancestry-feat-grippli-nocturnal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Планирование гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2822\">Grippli Glide</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Планирование гриппли",
+            "originalName": "Grippli Glide",
+            "level": 5,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Невесомый (Windweb)</span></p><p><strong>Требования</strong>: У вас должна быть свободная хотя бы 1 рука</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Вы можете использовать свои перепончатые ступни, чтобы направлять падение.\nВы медленно планируете по воздуху к земле, со скоростью 5 футов вниз (10 футов, если у вас не свободны обе руки) и вплоть до 25 футов вперед.\nПока вы тратите хотя бы 1 действие, планируя каждый раунд и не достигнув земли, то вы остаетесь в воздухе в конце своего хода.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-grippli-glide",
+            "archetype": ""
+        },
+        {
+            "fullName": "Новатор оружия гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2823\">Grippli Weapon Innovator</a>) / 5",
+            "name": "Новатор оружия гриппли",
+            "originalName": "Grippli Weapon Innovator",
+            "level": 5,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-grippli-weapon-familiarity\">Знакомство с оружием гриппли (Grippli Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Вы научились хитроумным способам максимально применять свое оружие гриппли.\nВсякий раз, когда вы критически попадаете с духовой трубкой, топориком, косой, коротким луком и композитным коротким луком или оружием гриппли, то применяете эффект критической специализации этого оружия.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "",
+            "id": "ancestry-feat-grippli-weapon-innovator",
+            "archetype": ""
+        },
+        {
+            "fullName": "Длинный язык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2824\">Long Tongue</a>) / 5",
+            "name": "Длинный язык",
+            "originalName": "Long Tongue",
+            "level": 5,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Хватающий языком (Snaptongue)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 120</p><hr class=\"docutils\"><p>Вы научились вытягивать свой исключительно длинный язык сверх его изначальных пределов.\nКогда вы используете свой язык, чтобы доставлять заклинания с дистанцией касания или выполнять чрезвычайно простые действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, то вы можете делать это с расстояния на 5 футов дальше вашей обычной досягаемости.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 120",
+            "action": "",
+            "id": "ancestry-feat-grippli-long-tongue",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цепкая сеть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2825\">Tenacious Net</a>) / 5",
+            "name": "Цепкая сеть",
+            "originalName": "Tenacious Net",
+            "level": 5,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>Выпутаться из ваших сетей - непростая задача.\nКС Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-force-open\">Открыть силой (Force Open) </span> или <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> из ваших <span class=\"card-link \">сетей</span> увеличивается с 16 до 18.\nПосле того, как существо, которое вы схватили сетью, Вырывается или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-force-open\">Выбирается силой (Force Open)</span> из сети, отдельные нити сетки цепляются за существо, заставляя его оставаться <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнутым врасплох</span> до начала его следующего хода.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "",
+            "id": "ancestry-feat-grippli-tenacious-net",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поглощение токсина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2826\">Absorb Toxin</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Поглощение токсина",
+            "originalName": "Absorb Toxin",
+            "level": 9,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Вы не иммунны к болезням или ядам</p><p><strong>Триггер</strong>: Вы совершаете спасбросок против эффекта <span class=\"t-disease\">болезни</span> или <span class=\"t-poison\">яда</span>, действующего на область</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>Ваша кожа охотно впитывает яд и может сознательно втягивать токсины в ваше тело, чтобы спасти других.\nСовершите проверку противодействия против спровоцировавшего эффекта;\nваш уровень противодействия равен половине вашего уровня (округленного до большего целого), а для броска используется либо ваш КС класса - 10, либо ваш модификатор характеристики колдовства + бонус мастерства заклинательства.\nЕсли вы успешно противодействовали спровоцировавшему эффекту, то завершаете его для всех других существ в области;\nоднако вы все еще должны спастись от этого эффекта со штрафом -2 к начальному спасброску.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "реакция",
+            "id": "ancestry-feat-grippli-absorb-toxin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рикошетящий прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2827\">Ricocheting Leap</a>) / 9",
+            "name": "Рикошетящий прыжок",
+            "originalName": "Ricocheting Leap",
+            "level": 9,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики, <span class=\"card-link std std-ref\" data-id=\"feat-wall-jump\">Прыжок от стены (Wall Jump) / 7</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>Вы быстро используете свою инерцию, чтобы опрокинуть врагов и отскочить от них.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"feat-wall-jump\">Прыжок от стены (Wall Jump) / 7</span>, чтобы совершить дополнительные отскоки от существ больше вас, как если бы они были стенами.\nРаз в ход, когда вы таким способом совершаете дополнительный отскок от существа, вы еще свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) можете попытаться <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> это существо.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "свободное действие",
+            "id": "ancestry-feat-grippli-ricocheting-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опутывающий язык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2828\">Tongue Tether</a>) / 9",
+            "name": "Опутывающий язык",
+            "originalName": "Tongue Tether",
+            "level": 9,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Хватающий языком (Snaptongue)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>Ваш язык может так же легко мгновенно сцепиться, как и ваши руки.\nДо тех пор, пока вы можете свободно открывать рот, вам не нужны свободные руки, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> или <span class=\"card-link std std-ref\" data-id=\"action-grab-an-edge\">Схватиться за уступ (Grab an Edge) </span>.\nЕсли у вас есть способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-grippli-long-tongue\">Длинный язык (Long Tongue) / 5</span>, то вы можете выполнять перечисленные действия с расстояния на 5 футов больше вашей нормальной досягаемости.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "",
+            "id": "ancestry-feat-grippli-tongue-tether",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ядовитое преимущество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2829\">Envenomed Edge</a>) / 13",
+            "name": "Ядовитое преимущество",
+            "originalName": "Envenomed Edge",
+            "level": 13,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>С помощью комбинации ваших ядовитых желез и травяных отваров вы можете регулярно наносить ядовитые атаки, когда поражаете в слабые места врага.\nКогда вы критически попадаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> оружия или безоружной атакой и наносите ей рубящий или колющий урон, то причиняете своей цели дополнительные 1d4 продолжительного урона ядом.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "",
+            "id": "ancestry-feat-grippli-envenomed-edge",
+            "archetype": ""
+        }
+    ]
+}

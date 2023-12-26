@@ -1,0 +1,1578 @@
+{
+    "feats": [
+        {
+            "fullName": "Обнуление прошлого (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3857\">Reset The Past</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Обнуление прошлого",
+            "originalName": "Reset The Past",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-chronoskimmer-dedication\">Посвящение хроноскиммера (Chronoskimmer Dedication) / 2</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Dark Archive pg. 187</p><hr class=\"docutils\"><p>Вы манипулируете временем, чтобы перезарядить один из своих темпоральных приемов - пересматривая свое прошлое, где вы ее еще не использовали.\nВыберите 1 из своих способностей хроноскиммера с частотой использования раз в день (или чаще), которую вы уже использовали.\nВы можете снова использовать эту способность, как если бы еще ее не использовали.</p>",
+            "src": "Dark Archive pg. 187",
+            "action": "свободное действие",
+            "id": "arch-feat-chronoskimmer-reset-the-past",
+            "archetype": "Хроноскиммер (Chronoskimmer)"
+        },
+        {
+            "fullName": "Посвящение экстрасенсорного дуэлянта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3858\">Psychic Duelist Dedication</a>) / 4",
+            "name": "Посвящение экстрасенсорного дуэлянта",
+            "originalName": "Psychic Duelist Dedication",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "посвящение",
+                "архетип"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму, вы участвовали в <span class=\"card-link \">эксрасенсорной дуэли</span></p><p><strong>Источник</strong>: Dark Archive pg. 203</p><hr class=\"docutils\"><p>Благодаря опыту и глубким визуализациям ментальных сражений, вы стали искусным в экстрасенсорных дуэлях.\nВы получаете бонус обстоятельства +2 к вашим броскам инициативы в экстрасенсорных дуэлях.\nКаждый раз, когда вы участвуете в экстрасенсорной дуэли, выбирайте одно из следующих преимуществ на время этой дуэли.</p><ul class=\"simple\">\n<li><p><strong>Ментальная булава (Mind Mace)</strong>: Вы получаете бонус состояния к ментальному урону <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяемых (Cast)</span> заклинаний, равный их уровням.</p></li>\n<li><p><strong>Экстрасенсорный кулак (Psychic Fist)</strong>: Вы можете использовать свой стандартный модификатор характеристики для урона <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span>, вместо наивысшего ментального модификатора, и вы можете использовать свой полный КБ вместо использования КС Воли, заменяющего ваш КБ.</p></li>\n</ul><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа экстрасенсорного дуэлянта.</p>",
+            "src": "Dark Archive pg. 203",
+            "action": "",
+            "id": "arch-feat-psychic-duelist-dedication",
+            "archetype": "Экстрасенсорный дуэлянт (Psychic Duelist)"
+        },
+        {
+            "fullName": "Преимущество дуэльного колдовства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3859\">Duel Spell Advantage</a>) / 6",
+            "name": "Преимущество дуэльного колдовства",
+            "originalName": "Duel Spell Advantage",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-psychic-duelist-dedication\">Посвящение экстрасенсорного дуэлянта (Psychic Duelist Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 203</p><hr class=\"docutils\"><p>Когда вы начинаете экстрасенсорную дуэль, вы получаете третье натуральное экстрасенсорное заклинание.\nВы не можете выбрать одно и то же заклинание дважды.</p><p>Если вы 9-го уровня или выше, добавьте следующие заклинания в список натуральных экстрасенсорных заклинаний:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-confusion\">Замешательство (Confusion) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-crushing-despair\">Сокрушительное отчаяние (Crushing Despair) / Закл. 5</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-h-hallucination\">Галлюцинация (Hallucination) / Закл. 5</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-suggestion\">Внушение (Suggestion) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-synaptic-pulse\">Синаптический импульс (Synaptic Pulse) / Закл. 5</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-synesthesia\">Синестезия (Synesthesia) / Закл. 5</span></p></li>\n</ul>",
+            "src": "Dark Archive pg. 203",
+            "action": "",
+            "id": "arch-feat-psychic-duelist-duel-spell-advantage",
+            "archetype": "Экстрасенсорный дуэлянт (Psychic Duelist)"
+        },
+        {
+            "fullName": "Превосходное экстрасенсорное средоточие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3860\">Supreme Psychic Center</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Превосходное экстрасенсорное средоточие",
+            "originalName": "Supreme Psychic Center",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-psychic-duelist-dedication\">Посвящение экстрасенсорного дуэлянта (Psychic Duelist Dedication) / 4</span></p><p><strong>Триггер</strong>: Начинается ваш ход в экстрасенсорной дуэли</p><p><strong>Источник</strong>: Dark Archive pg. 203</p><hr class=\"docutils\"><p>С помощью малейшей мысли вы перестраиваете свою ментальную защиту в соответствии с обстоятельствами дуэли.\nВы <span class=\"card-link std std-ref\" data-id=\"action-da-recenter\">Сосредотачиваетесь (Recenter)</span>.</p>",
+            "src": "Dark Archive pg. 203",
+            "action": "свободное действие",
+            "id": "arch-feat-psychic-duelist-supreme-psychic-center",
+            "archetype": "Экстрасенсорный дуэлянт (Psychic Duelist)"
+        },
+        {
+            "fullName": "Спровоцировать экстрасенсорную дуэль (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3861\">Instigate Psychic Duel</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Спровоцировать экстрасенсорную дуэль",
+            "originalName": "Instigate Psychic Duel",
+            "level": 12,
+            "traits": [
+                "архетип",
+                "оккультный",
+                "иллюзия",
+                "недееспособность",
+                "ментальный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-psychic-duelist-dedication\">Посвящение экстрасенсорного дуэлянта (Psychic Duelist Dedication) / 4</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Dark Archive pg. 203</p><hr class=\"docutils\"><p>Вы пытаетесь вступить в экстрасенсорную дуэль с существом в пределах 100 футов.\nЦель может совершить спасбросок Воли против наивысшего из ваших КС заклинаний или КС класса.\nЕсли она готова вступить в дуэль, используйте результат критического провала.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы двое вступаете в экстрасенсорную дуэль, но она автоматически заканчивается в конце вашего следующего хода. Как обычно для экстрасенсорной дуэли, она завершается, если один из участников в нокауте, а также при любых других условиях, с которыми согласны оба участника. Если вы уже в порядке инициативы когда \"Провоцируете экстрасенсорную дуэль\", вы сохраняете ту же позицию инициативы. Каждый из вас может выбрать экстрасенсорное средоточие для навыков которым обучены, как если бы вы использовали этот навык для броска инициативы в дуэли.</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, за исключением того, что вместо завершения в конце вашего следующего хода, цель в конце каждого вашего хода может совершать новый спасбросок для завершения дуэли, начиная с вашего следующего хода.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как успех, за исключением того, что дуэль не завершается, пока не будет достигнуто одно из обычных условий завершения экстрасенсорной дуэли.</div>\n</div>",
+            "src": "Dark Archive pg. 203",
+            "action": "активность из 3-х действий",
+            "id": "arch-feat-psychic-duelist-instigate-psychic-duel",
+            "archetype": "Экстрасенсорный дуэлянт (Psychic Duelist)"
+        },
+        {
+            "fullName": "Посвящение кузнеца разума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3862\">Mind Smith Dedication</a>) / 2",
+            "name": "Посвящение кузнеца разума",
+            "originalName": "Mind Smith Dedication",
+            "level": 2,
+            "traits": [
+                "посвящение",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 204</p><hr class=\"docutils\"><p>Вы научились воображать очертание в своем разуме, представлять его так сильно, что оно обретает форму в материальном мире.\nВы получаете 1 оружие ближнего боя по вашему выбору, называемое ментальным оружием.\nВаше ментальное оружие - воинское оружие ближнего боя.\nОбщая форма и дизайн вашего ментального оружия полностью зависит от вас, но у него есть одни из следующих четырех основных характеристик:</p><ul class=\"simple\">\n<li><p>Одноручное оружие, наносящее 1d4 урона и обладающее признаками <span class=\"w-agile\">быстрое</span> и <span class=\"w-finesse\">точное</span></p></li>\n<li><p>Одноручное оружие, наносящее 1d6 урона и обладающее признаком <span class=\"w-finesse\">точное</span></p></li>\n<li><p>Одноручное оружие, наносящее 1d8 урона</p></li>\n<li><p>Двуручное оружие, наносящее 1d10 урона и обладающее признаком <span class=\"w-reach\">длинное</span></p></li>\n</ul><p>Каждый день во время своих ежедневных приготовлений вы можете решить, хотите ли вы, чтобы ваше оружие наносило дробящий урон и относилось к группе \"дубинка\", наносило колющий урон и относилось к группе \"копье\" или наносило рубящий урон и относилось к группе \"меч\".\nВаше ментальное оружие является продолжением вашего разума - у него нет Твердости и любое умение, способное повредить ваше ментальное оружие, вместо этого наносит прямой урон вам, отталкиваясь от материальной формы оружия и нанося вам ментальный урон в том же количество, который получило бы оружие.</p><p>Вы можете спроецировать свое ментальное оружие, используя действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, точно так же, как вы выхватили бы любое другое оружие.\nТолько вы можете держать, носить или владеть своим ментальным оружием; если его берет другой, оно быстро исчезает из его рук, трансформируясь в ваше сознание, чтобы вы смогли его спроецировать снова.\nЕсли вас лишили вашего ментального оружия, оно дематериализуется, но вы можете достать его снова с помощью действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, начиная с начала своего следующего хода.</p><p>Создавая ментальное оружие, вы также учитесь использовать сувенир кузнеца разума - объект легкой Массы, такой как браслет или статуэтка, который вы носите или держите при себе и на который наносите оружейные руны.\nВаш сувенир не может быть магическим предметом, и он не может иметь какой-либо стоимости, кроме стоимости любых рун, которые вы на нем начертите.\nВы можете купить и нанести основные руны и руны свойств оружия на свой сувенир так же, как на обычное оружие, и вы можете перемещать руны на свой сувенир и с него на другое оружие или <span class=\"card-link \">рунные камни</span> за обычную стоимость.\nЛюбые руны, начертанные на сувенире, применяются к вашему ментальному оружию, когда вы его создаете.\nЕсли ваш сувенир когда-либо будет потерян или уничтожен, вы можете потратить 1 неделю отдыха на запечатление нового объекта со свойствами вашего ментального оружия, однако на этом новом сувенире не будет ни одной из рун, которые были начертаны на предыдущем сувенире.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа кузнеца разума.</p>",
+            "src": "Dark Archive pg. 204",
+            "action": "",
+            "id": "arch-feat-mind-smith-dedication",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Гибкое движение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3863\">Malleable Movement</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Гибкое движение",
+            "originalName": "Malleable Movement",
+            "level": 2,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики, <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Триггер</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгаете (Leap)</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы меняете форму своего ментального оружия, чтобы оно помогало вам прыгать дальше и быстрее.\nВы изменяете свое оружие в длинный гибкий шест, альпинистский крюк или подобное приспособление, добавляя дополнительные 5 футов к расстоянию, на которые вы способны <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгнуть (Leap)</span>.\nКак обычно, это не может увеличить расстояние вашего <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжка (Leap)</span> сверх вашей Скорости.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "свободное действие",
+            "id": "arch-feat-mind-smith-malleable-movement",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Призрачный клинок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3864\">Ghost Blade</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Призрачный клинок",
+            "originalName": "Ghost Blade",
+            "level": 4,
+            "traits": [
+                "концентрация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы изменяете фазу своего ментального оружия, чтобы ему было легче поражать <span class=\"t-incorporeal\">бестелесных</span> существ.\nВаше ментальное оружие на 1 минуту получает эффект руны свойства <span class=\"card-link \">Призрачное касание (Ghost Touch) / Руна 4</span>.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "одиночное действие",
+            "id": "arch-feat-mind-smith-ghost-blade",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Просто инструмент (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3865\">Just the Tool</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Просто инструмент",
+            "originalName": "Just the Tool",
+            "level": 4,
+            "traits": [
+                "концентрация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы временно меняете форму своего ментального оружия, чтобы оно помогало вам в полевых условиях.\nВы превращаете оружие свое в один простой <span class=\"card-link \">инструмент</span>, такой как лопата или <span class=\"card-link \">лом</span>, чтобы помочь в выполнении рутинной задачи.\nВы не можете с помощью этой способности копировать целые наборы инструментов (такие как <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>, <span class=\"card-link \">Набор для ремонта (Repair kit)</span>, <span class=\"card-link \">Набор алхимика (Alchemist`s tools)</span> и т.п.).\nВы можете использовать это действие еще раз, чтобы превратить его обратно в оружие.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "одиночное действие",
+            "id": "arch-feat-mind-smith-just-the-tool",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Ментальная кузница (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3866\">Mental Forge</a>) / 4",
+            "name": "Ментальная кузница",
+            "originalName": "Mental Forge",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Ваш боевой опыт формирует способность вашего разума укреплять и формировать ментальное оружие в соответствии с тем, как вы двигаетесь в бою.\nВыберите 2 из следующих признаков оружия, давая их своему ментальному оружию: <span class=\"w-grapple\">захват</span>, <span class=\"w-shove\">толчок</span>, <span class=\"w-trip\">опрокидывание</span>, <span class=\"w-modular\">модульное (Д, Р, К)</span> или <span class=\"w-nonlethal\">несмертельное</span>.\nПосле выбора, эти признаки оружия нельзя изменить, пока вы не потратите 1 неделю на переподготовку своего стиля боя, чтобы поменять 1 признак на другой из списка.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-mental-forge",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Осколки разума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3867\">Mind Shards</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Осколки разума",
+            "originalName": "Mind Shards",
+            "level": 6,
+            "traits": [
+                "магический",
+                "очарование",
+                "концентрация",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Одним взмахом и мыслью вы взрываете свое ментальное оружие психическими осколками, разносящими разум в клочья.\nВы концентрируетесь и выпускаете 15-футовый конус, наносящий всем существам в области 3d6 ментального урона, с простым спасброском Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nПосле этой атаки ваше ментальное оружие автоматически переформируется и вы не можете снова использовать эту способность 1 минуту.\nУрон от \"Осколков разума\" увеличивается на 1d6 на 7-м уровне и каждые 2 уровня после этого.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-mind-smith-mind-shards",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Ковкая ментальная кузница (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3868\">Malleable Mental Forge</a>) / 8",
+            "name": "Ковкая ментальная кузница",
+            "originalName": "Malleable Mental Forge",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-mental-forge\">Ментальная кузница (Mental Forge) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы раскрываете свой разум для дальнейшей настройки ментального оружия.\nВо время своих ежедневных приготовлений вы можете выбрать 2 любых признака оружия от способности <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-mental-forge\">Ментальная кузница (Mental Forge) / 4</span>, чтобы поместить их на 24 часа или до следующих ежедневных приготовлений (в зависимости от того, что наступит раньше), заменяя признаки оружия выбранные способностью <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-mental-forge\">Ментальная кузница (Mental Forge) / 4</span>.\nКаждый день вы можете менять варианты местами с любыми другими вариантами из списка.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-malleable-mental-forge",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Снаряды разума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3869\">Mind Projectiles</a>) / 8",
+            "name": "Снаряды разума",
+            "originalName": "Mind Projectiles",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы научились усиливать влияние своего разума, выпуская снаряды взмахом своего ментального оружия.\nВы можете совершать ментальным оружием <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> дальнего боя; это дистанционные Удары с максимальной дистанцией 30 футов, наносящие 1d6 урона того же типа, что у вашего ментального оружия.\nВаш дистанционный Удар ментальным оружием получает все преимущества оружейных рун ментального оружия, пока они применимы к оружию дальнего боя.\nНапример, если бы у вашего оружия были руны <span class=\"card-link \">мощи +1</span>, <span class=\"card-link \">разящая</span> и <span class=\"card-link \">хранения заклинаний</span>, то вы бы получали бонус предмета +1 к попаданию дистанционным Ударом ментального оружия, и оно нанесло бы дополнительный урон от <em>разящей</em> руны, но не смогло бы высвободить заклинание из руны <em>хранения заклинаний</em>, поскольку эта руна может быть выгравирована только на оружие ближнего боя.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-mind-projectiles",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Руническое ментальное кузнечество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3870\">Runic Mind Smithing</a>) / 10",
+            "name": "Руническое ментальное кузнечество",
+            "originalName": "Runic Mind Smithing",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы фокусируете свой разум на мыслеформах фундаментальных магических сил, формируя их в руну свойства, мысленно гравируемую на своем ментальном оружии.\nВо время своих ежедневных приготовлений выберите 1 руну из следующего списка рун свойств оружия:</p><ul class=\"simple\">\n<li><p><span class=\"card-link \">Разрушающая (Disrupting) / Руна 5+</span></p></li>\n<li><p><span class=\"card-link \">Разъедающая (Corrosive) / Руна 8+</span></p></li>\n<li><p><span class=\"card-link \">Огненная (Flaming) / Руна 8+</span></p></li>\n<li><p><span class=\"card-link \">Морозная (Frost) / Руна 8+</span></p></li>\n<li><p><span class=\"card-link \">Шоковая (Shock) / Руна 8+</span></p></li>\n<li><p><span class=\"card-link \">Грохочущая (Thundering) / Руна 8+</span></p></li>\n</ul><p>Вы улучшаете свое ментальное оружие выбранной руной до ваших следующих ежедневных приготовлений.\nЭта руна засчитывается в ваш максимальный лимит рун, как обычно.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-runic-mind-smithing",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Металлическое видение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3871\">Metallic Envisionment</a>) / 12",
+            "name": "Металлическое видение",
+            "originalName": "Metallic Envisionment",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-dedication\">Посвящение кузнеца разума (Mind Smith Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Вы всегда учитываете каждую слабость, позволяя своему разуму представить правильную физическую форму, чтобы воспользоваться преимуществами против ваших противников.\nВыберите между <span class=\"card-link \">холодным железом</span> или <span class=\"card-link \">серебром</span>; все ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> ментальным оружием считаются с применением выбранного типа металла.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-metallic-envisionment",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Продвинутое руническое ментальное кузнечество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3872\">Advanced Runic Mind-Smithing</a>) / 16",
+            "name": "Продвинутое руническое ментальное кузнечество",
+            "originalName": "Advanced Runic Mind-Smithing",
+            "level": 16,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-runic-mind-smithing\">Руническое ментальное кузнечество (Runic Mind Smithing) / 10</span></p><p><strong>Источник</strong>: Dark Archive pg. 205</p><hr class=\"docutils\"><p>Ваш разум может удерживать более сложные шаблоны, чем когда-либо прежде.\nВы можете выгравировать отличные версии любых рун из списка способности <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-runic-mind-smithing\">Руническое ментальное кузнечество (Runic Mind Smithing) / 10</span> и добавить их в список вариантов выбираемых во время своих ежедневных приготовлений, а также добавить к ним руны:</p><ul class=\"simple\">\n<li><p><span class=\"card-link \">Анархическая (Anarchic) / Руна 11</span></p></li>\n<li><p><span class=\"card-link \">Аксиоматическая (Axiomatic) / Руна 11</span></p></li>\n<li><p><span class=\"card-link \">Святая (Holy) / Руна 11</span></p></li>\n<li><p><span class=\"card-link \">Нечестивая (Unholy) / Руна 11</span></p></li>\n</ul><p>Дополнительно, раз в день, вы можете провести 10 минут в постоянном сосредоточении, чтобы заменить подготовленную на день руну от <span class=\"card-link std std-ref\" data-id=\"arch-feat-mind-smith-runic-mind-smithing\">Руническое ментальное кузнечество (Runic Mind Smithing) / 10</span> другой руной из того же списка.\nПосле этой замены, вторая руна остается на оружии до ваших следующих ежедневных приготовлений.</p>",
+            "src": "Dark Archive pg. 205",
+            "action": "",
+            "id": "arch-feat-mind-smith-advanced-runic-mind-smithing",
+            "archetype": "Кузнец разума (Mind Smith)"
+        },
+        {
+            "fullName": "Посвящение сновидца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3873\">Sleepwalker Dedication</a>) / 4",
+            "name": "Посвящение сновидца",
+            "originalName": "Sleepwalker Dedication",
+            "level": 4,
+            "traits": [
+                "посвящение",
+                "архетип",
+                "оккультный",
+                "очарование",
+                "ментальный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>посвящение</p></li>\n<li><p>архетип</p></li>\n</ul><p><strong>Предварительные условия</strong>: эксперт Оккультизма</p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Вы научились манипулировать состояниями сознания, начиная со своего собственного.\nВы можете отправить себя в полудремотное, грезящее состояние и получаете действие <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящий транс (Daydream Trance) </span>.</p><hr class=\"docutils\"><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа сновидца.</p><section class=\"description\" id=\"daydream-trance-1\">\n<span id=\"action-sleepwalker-daydream-trance\"></span><h3>Грезящий транс (Daydream Trance) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"></h3>\n<ul class=\"simple traits\">\n<li><p>оккультный</p></li>\n<li><p>очарование</p></li>\n<li><p>ментальный</p></li>\n</ul>\n<p><strong>Источник</strong>: Dark Archive pg. 206</p>\n<hr class=\"docutils\">\n<p>Вы впадаете в полудремотный транс.\nОн длится 1 минуту или до тех пор, пока вы не окажетесь <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>, в зависимости от того, что наступит раньше.\nВы можете добровольно выйти из транса, выполнив одиночное действие с признаком <span class=\"t-concentrate\">концентрация</span> и совершив успешный спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nКак только транс завершается, вы не можете снова войти в \"Грезящий транс\" 1 минуту.\nПока вы находитесь в трансе, вы получаете следующие эффекты.</p>\n<ul class=\"simple\">\n<li><p>Вы получаете бонус состояния +1 к спасброскам Воли. Этот бонус увеличивается до +2 против <span class=\"t-mental\">ментальных</span> эффектов. Если вы легендарны в Оккультизме, бонус против <span class=\"t-mental\">ментальных</span> эффектов увеличивается до +3.</p></li>\n<li><p>Вы получаете штраф -1 к проверкам Восприятия и броскам инициативы.</p></li>\n</ul>\n</section>",
+            "src": "Dark Archive pg. 206",
+            "action": "одиночное действие",
+            "id": "arch-feat-sleepwalker-dedication",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Проникновение в сон (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3874\">Infiltrate Dream</a>) / 6",
+            "name": "Проникновение в сон",
+            "originalName": "Infiltrate Dream",
+            "level": 6,
+            "traits": [
+                "оккультный",
+                "очарование",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Войти в сон для вас так же естественно, как переступить порог.\nЕсли вы находитесь рядом со спящим существом, вы можете войти в осознанное сновидческое состояние, процесс занимает 10 минут, чтобы ментально войти в сновидение существа.\nНаходясь во сне цели, вы наблюдаете его содержание, сюжеты и эмоциональные переживания в качестве наблюдателя, однако ничто в сновидении не может воспринимать вас или взаимодействовать с вами.\nВаша цель становится временно иммунной к \"Проникновению в сон\" на 1 неделю.\nВы не можете входить в сны существа, не обладающего сознанием или не видящего сны.</p><p>Находясь во сне, вы можете совершить проверку Оккультизма против КС Воли цели, чтобы интерпретировать символику и узнать информацию по одной теме.\nЕсли цель не обладает знаниями по теме, вы узнаете об этом, если только ваш результатом не является критическим провалом.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы узнаете часть информации, непосредственно относящуюся к теме, если только цель не захочет ее скрыть. Если это так, вы узнаете что-то связанное с темой, но не получаете прямого ответа.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы получаете подсказку или зацепку по теме. Эта подсказка не будет неточной, но она загадочна, расплывчата или может быть понятна только при наличие дополнительной информации.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Сны вводят вас в заблуждение, и вы усваиваете ошибочную информацию.</div>\n</div>",
+            "src": "Dark Archive pg. 206",
+            "action": "",
+            "id": "arch-feat-sleepwalker-infiltrate-dream",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Виденье предвиденья (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3875\">Vision of Foresight</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Виденье предвиденья",
+            "originalName": "Vision of Foresight",
+            "level": 6,
+            "traits": [
+                "удача",
+                "оккультный",
+                "прорицание",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Требования</strong>: Вы в <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящем трансе (Daydream Trance)</span></p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Вы используете свои грезы, чтобы предсказать успех действий, быстро представляя себе возможности.\nОдин раз, до конца вашего следующего хода, вы можете воспользоваться этими предсказаниями, прежде чем бросать спасбросок или совершать проверку навыка.\nВы можете дважды бросить спасбросок или проверку навыка и выбрать лучший результат.</p>",
+            "src": "Dark Archive pg. 206",
+            "action": "одиночное действие",
+            "id": "arch-feat-sleepwalker-vision-of-foresight",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Магия грез (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3876\">Dream Magic</a>) / 8",
+            "name": "Магия грез",
+            "originalName": "Dream Magic",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Вы изучаете магию, связанную со сновидениями, чтобы помочь своим занятиям.\nВзяв эту способность выберите <span class=\"card-link std std-ref\" data-id=\"spell-d-dream-message\">Послание во сне (Dream Message) / Закл. 3</span> или <span class=\"card-link std std-ref\" data-id=\"spell-s-sleep\">Сон (Sleep) / Закл. 1</span>; вы изучаете это заклинание, как врожденное оккультное заклинание 4-го уровня.\nЕсли выбираете <span class=\"card-link std std-ref\" data-id=\"spell-s-sleep\">Сон (Sleep) / Закл. 1</span>, вы можете сотворить это заклинание только в <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящем трансе (Daydream Trance)</span>.\nВы становитесь обучены броскам атак и КС оккультных заклинаний и ваша колдовская характеристика для этих заклинаний - Мудрость.</p><p><strong>Особенность</strong>: Вы можете взять эту способность во второй раз, получив заклинание, которое вы не выбрали в первый раз.</p>",
+            "src": "Dark Archive pg. 206",
+            "action": "",
+            "id": "arch-feat-sleepwalker-dream-magic",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Сон наяву (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3877\">Waking Dream</a>) / 8",
+            "name": "Сон наяву",
+            "originalName": "Waking Dream",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Находясь в трансе, вы можете стирать грань между грезами и реальностью для других.\nВы получаете заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-waking-dream\">Сон наяву (Waking Dream) / Фокус. 4</span>, которое вы можете сотворять лишь находясь в <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящем трансе (Daydream Trance)</span>.\nВы получаете запас Очков Фокусировки с 1 ОФ, и вы можете <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, вздремнув 10 минут.\nВы становитесь обучены броскам атак и КС оккультных заклинаний, и ваша колдовская характеристика для этих заклинаний - Мудрость.</p>",
+            "src": "Dark Archive pg. 206",
+            "action": "",
+            "id": "arch-feat-sleepwalker-waking-dream",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Онейрическое влияние (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3878\">Oneiric Influence</a>) / 12",
+            "name": "Онейрическое влияние",
+            "originalName": "Oneiric Influence",
+            "level": 12,
+            "traits": [
+                "недееспособность",
+                "оккультный",
+                "очарование",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-infiltrate-dream\">Проникновение в сон (Infiltrate Dream) / 6</span></p><p><strong>Источник</strong>: Dark Archive pg. 206</p><hr class=\"docutils\"><p>Проникая в сон, вы также можете внедрить внушение в разум цели.\nЦель должна совершить спасбросок Воли против вашего КС класса или КС заклинаний, в зависимости от того, что выше, чтобы противостоять вашему изменению, которое имеет эффект заклинания <span class=\"card-link std std-ref\" data-id=\"spell-s-subconscious-suggestion\">Подсознательное внушение (Subconscious Suggestion) / Закл. 5</span>, но даже при критическом успехе цель не осознает, что вы пытались контролировать ее, и может не распознать ваше присутствие во сне.\nВнушение остается в подсознании цели в течение 1 недели или пока не сработает.\nВоспоминания о выполнении внушения туманны и похожи на грезы, и цель может не помнить, что делала это, если позже не ей не напомнить.</p>",
+            "src": "Dark Archive pg. 206",
+            "action": "",
+            "id": "arch-feat-sleepwalker-oneiric-influence",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Огражденный сон (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3879\">Ward Slumber</a>) / 12",
+            "name": "Огражденный сон",
+            "originalName": "Ward Slumber",
+            "level": 12,
+            "traits": [
+                "оккультный",
+                "преграждение",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 207</p><hr class=\"docutils\"><p>Непосредственно перед сном, вы можете за 10 минут установить защиту, чтобы оберегать сон вплоть до 8 существ в пределах 30 футов от вас.\nВсе существа, затронутые данным ритуалом, получают бонус состояния +4 к спасброскам против <span class=\"card-link std std-ref\" data-id=\"spell-n-nightmare\">Кошмар (Nightmare) / Закл. 4</span>, кошмарным грезам <span class=\"card-link \">ночной карги</span> или других эффектов влияющих на сны (например, предоставляемых этим архетипом), до ваших следующих ежедневных приготовлений.\nОни исцеляют вдвое больше обычного количества ОЗ от <span class=\"card-link \">отдыха</span>.</p>",
+            "src": "Dark Archive pg. 207",
+            "action": "",
+            "id": "arch-feat-sleepwalker-ward-slumber",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Логика снов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3880\">Dream Logic</a>) / 14",
+            "name": "Логика снов",
+            "originalName": "Dream Logic",
+            "level": 14,
+            "traits": [
+                "оккультный",
+                "очарование",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 207</p><hr class=\"docutils\"><p>Вы можете передать ощущение сонной беззаботности.\nЕсли вы делаете что-то особенно странное или опасное, находясь в <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящем трансе (Daydream Trance)</span>, например, входите в запретную зону или сражаетесь с кем-то на улице, любое существо, не являющееся вашим союзником, должно совершить проверку Восприятия против вашего КС класса или КС заклинания, в зависимости от того, что выше.\nПри успехе, существо понимает, что что-то не так, а при провале считает, что не происходит ничего необычного.\nСущество может совершить новую проверку, если вы начнете делать еще что-то странное, но не в том случае, если вы продолжаете следовать тем же действиям, которые цель уже не считает своеобразными.</p><p>Любое враждебное действие с вашей стороны или ваших союзников против подверженного влиянию существа, автоматически прекращает действие этого эффекта на существо.\nМастер может разрешить существу новую проверку, если кто-то другой привлечет его внимание к вашим действиям, например, если кто-то на кого вы нападаете, позовет на помощь.\nКогда ваш транс завершается, затронутые существа сохраняют свои воспоминания о событиях, но вероятно, по-прежнему считают их ничем не примечательными; если только им не будет предложено рассказать о событиях, они могут не сообщать о них.</p>",
+            "src": "Dark Archive pg. 207",
+            "action": "",
+            "id": "arch-feat-sleepwalker-dream-logic",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Общие сновидения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3881\">Shared Dream</a>) / 16",
+            "name": "Общие сновидения",
+            "originalName": "Shared Dream",
+            "level": 16,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 207</p><hr class=\"docutils\"><p>Вы научились создавать общий сновидческий пейзаж для общения с другими.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-dream-council\">Совещание во сне (Dream Council) / Закл. 8</span> как врожденное оккультное заклинание.</p>",
+            "src": "Dark Archive pg. 207",
+            "action": "",
+            "id": "arch-feat-sleepwalker-shared-dream",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Вечная дрёма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3882\">Ever Dreaming</a>) / 18",
+            "name": "Вечная дрёма",
+            "originalName": "Ever Dreaming",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sleepwalker-dedication\">Посвящение сновидца (Sleepwalker Dedication) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 207</p><hr class=\"docutils\"><p>Вы не различаете миры сна и яви.\nВаш <span class=\"card-link std std-ref\" data-id=\"action-sleepwalker-daydream-trance\">Грезящий транс (Daydream Trance)</span> получает неограниченную продолжительность и вам больше не нужно предпринимать никаких действий, чтобы войти в него.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> из-за сна, вы не получаете штраф -4 к КБ, Восприятию и спасброскам Рефлекса, и вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.\nВы все еще <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепы</span> во сне.\nВы можете действовать в свой ход во время сна, но вы <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлены 2</span> пока полностью не проснетесь.</p>",
+            "src": "Dark Archive pg. 207",
+            "action": "",
+            "id": "arch-feat-sleepwalker-ever-dreaming",
+            "archetype": "Сновидец (Sleepwalker)"
+        },
+        {
+            "fullName": "Посвящение шилдмаршала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4040\">Shieldmarshal Dedication</a>) / 2",
+            "name": "Посвящение шилдмаршала",
+            "originalName": "Shieldmarshal Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "посвящение",
+                "архетип"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Персонаж из Алкенстара</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 109</p><hr class=\"docutils\"><p>Благодаря своей элитной шилдмаршальской подготовке вы одинаково хорошо чувствуете себя и в убожестве Смоуксайда, и в великолепии Скайсайда.\nВы хорошо знакомы с лабиринтами городских улиц и уставами.\nВы становитесь обучены Обществу; если вы уже были ему обучены, то вместо этого становитесь экспертом Общества.\nВ городской среде вы можете совершать проверки Общества чтобы <span class=\"card-link std std-ref\" data-id=\"skill-survival-sense-direction\">Определить направление (Sense Direction)</span>.\nЕще вы получаете способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-courtly-graces\">Аристократическое изящество (Courtly Graces) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"feat-streetwise\">Уличная жизнь (Streetwise) / 1</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа шалдмаршала.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 109",
+            "action": "",
+            "id": "arch-feat-shieldmarshal-dedication",
+            "archetype": "Шилдмаршал (Shieldmarshal)"
+        },
+        {
+            "fullName": "Объединенный оверлей Паноптикум (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4041\">Consolidated Overlay Panopticon</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Объединенный оверлей Паноптикум",
+            "originalName": "Consolidated Overlay Panopticon",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-shieldmarshal-dedication\">Посвящение шилдмаршала (Shieldmarshal Dedication) / 2</span></p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 109</p><hr class=\"docutils\"><p>Вы добровольно согласились на неоднозначную экспериментальную процедуру по установке заводных протезов глаз.\nЭти глаза передают информацию о том, что вы видите, в штаб шилдмаршалов, который собирает и анализирует данные об окружении - вероятность наступления Бронзового Времени* или Времени Всплеска*, давление, температуру, ветер и так далее - и возвращает их вам.\nЖелезный Магистр периодически просматривает архивы информации в рамках своей постоянной работы по искоренению полицейской коррупции.\nКогда вы используете свой Объединенный оверлей Паноптикум, вы усиливаете глазные протезы; на следующую минуту вы получаете ночное зрение и сумеречное зрение, а также бонус состояния +1 к визуальным проверкам Восприятия.\nДаже когда протезы глаз не усилены, вы сохраняете нормальное зрение.</p><p>* - Примечание переводчика: В Алкенстаре есть часы Бронзового Времени, когда магический фон более стабилен и погода предсказуема, а во Время Всплеска возрастает вероятность магических выбросов и перемен погоды.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 109",
+            "action": "одиночное действие",
+            "id": "arch-feat-shieldmarshal-consolidated-overlay-panopticon",
+            "archetype": "Шилдмаршал (Shieldmarshal)"
+        },
+        {
+            "fullName": "Эквивалентная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4042\">Equitable Defense</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Эквивалентная защита",
+            "originalName": "Equitable Defense",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-shieldmarshal-dedication\">Посвящение шилдмаршала (Shieldmarshal Dedication) / 2</span></p><p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Триггер</strong>: Вы получаете урон от критического попадания</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 109</p><hr class=\"docutils\"><p>Стиснув зубы от боли, вы готовитесь к контратаке.\nВы получаете сопротивление урону от этого критического попадания, равное половине вашего уровня.\nПока вы остаетесь в сознании после данной атаки, вы можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы перезарядить оружие которым владеете в данный момент, или <span class=\"card-link std std-ref\" data-id=\"action-stand\">Встать (Stand) </span>.\nВы получаете бонус обстоятельства +1 к следующему <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удару (Strike)</span> по существу, которое нанесло вам критическое попадание, при условии, что вы нанесете его до конца своего следующего хода.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 109",
+            "action": "реакция",
+            "id": "arch-feat-shieldmarshal-equitable-defense",
+            "archetype": "Шилдмаршал (Shieldmarshal)"
+        },
+        {
+            "fullName": "Антизаводное сосредоточение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4043\">Counterclockwork Focus</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Антизаводное сосредоточение",
+            "originalName": "Counterclockwork Focus",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-shieldmarshal-dedication\">Посвящение шилдмаршала (Shieldmarshal Dedication) / 2</span></p><p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 109</p><hr class=\"docutils\"><p>Вы понимаете необходимость адаптации правоохранительной доктрины к постоянно меняющимся инновациям в области технологий и арканы.\nВаша подготовка в области специального оружия и тактики дает вам доступ к необычным методам реагирования на преступления, связанные с заводными механизмами и магией.\nВы применяете специальные добавки к заряженному огнестрельному оружию.\nПри вашем следующем <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударе (Strike)</span> этим огнестрельным оружием до конца вашего хода вы наносите дополнительные 2d6 урона, если цель - <span class=\"t-construct\">конструкт</span>, и по своему выбору можете считать амуницию <span class=\"card-link \">холодным железом</span> или <span class=\"card-link \">адамантином</span>.\nНа 18-м уровне этот дополнительный урон увеличивается до 3d6, и вы можете по своему выбору считать амуницию <span class=\"card-link \">орихалком</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 109",
+            "action": "одиночное действие",
+            "id": "arch-feat-shieldmarshal-counterclockwork-focus",
+            "archetype": "Шилдмаршал (Shieldmarshal)"
+        },
+        {
+            "fullName": "Посвящение Джалмерэйского Искателя Небес (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2198\">Jalmeri Heavenseeker Dedication</a>) / 4",
+            "name": "Посвящение Джалмерэйского Искателя Небес",
+            "originalName": "Jalmeri Heavenseeker Dedication",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "посвящение",
+                "архетип"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span> или вы обучались у чемпиона Испытания Небесной Тверди</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78</p><hr class=\"docutils\"><p>Вы становитесь обучены либо Акробатике, либо Оккультизму; если вы уже обучены обоим этим навыкам, то вместо этого становитесь экспертом одного из них.\nВы получаете либо способность монаха <span class=\"card-link std std-ref\" data-id=\"class-feat-monk-ki-rush\">Рывок ки (Ki Rush) / 1</span>, либо <span class=\"card-link std std-ref\" data-id=\"class-feat-monk-ki-strike\">Удар ки (Ki Strike) / 1</span>, которая дает вам заклинание ки и запас Очков Фокусировки с 1 очком, которое вы можете восстановить с помощью активности <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, как это делает монах.\nЕсли у вас уже есть обе способности, то вместо этого можете выбрать 1 <span class=\"card-link \">способность монаха</span> 1-го уровня.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипов Джалмерэйского Искателя Небес или <span class=\"card-link \">Ученика Совершенства (Student of Perfection)</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78",
+            "action": "",
+            "id": "arch-feat-jalmeri-heavenseeker-dedication",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Гром Небес (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2199\">Heaven's Thunder</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Гром Небес",
+            "originalName": "Heaven's Thunder",
+            "level": 6,
+            "traits": [
+                "эвокация",
+                "электричество",
+                "звук",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-dedication\">Посвящение Джалмерэйского Искателя Небес (Jalmeri Heavenseeker Dedication) / 4</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78</p><hr class=\"docutils\"><p>До конца вашего следующего хода ваши безоружные атаки и любое оружие с признаком <span class=\"t-monk\">монах</span>, которым вы владеете, наносят дополнительный урон электричеством и звуком; количество урона каждого типа равно количеству костей урона оружия или безоружной атаки.\nЛюбое существо, которое успешно <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватывает (Grapple)</span> вас или успешно Захвачено вами, получает этот урон сразу же после завершения проверки Захвата (для определения нанесенного урона используется количество костей урона вашей безоружной атаки).</p><p>Если вы еще знаете заклинание ки <span class=\"card-link std std-ref\" data-id=\"spell-focus-ki-blast\">Взрыв ки (Ki Blast) / Фокус. 3</span>, то можете изменить тип наносимого им урона с урона силой на урон электричеством или звуком, пока этот эффект активен (<em>взрыв ки</em> теряет признак <span class=\"t-force\">сила</span>, вместо этого получая признак <span class=\"t-electricity\">электричество</span> или <span class=\"t-sonic\">звук</span>).</p>",
+            "src": "Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78",
+            "action": "одиночное действие",
+            "id": "arch-feat-jalmeri-heavenseeker-heavens-thunder",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Стойка Небесной Тверди (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2200\">Sky and Heaven Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Стойка Небесной Тверди",
+            "originalName": "Sky and Heaven Stance",
+            "level": 6,
+            "traits": [
+                "стойка",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-dedication\">Посвящение Джалмерэйского Искателя Небес (Jalmeri Heavenseeker Dedication) / 4</span></p><p><strong>Требования</strong>: Вы не носите доспех</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78</p><hr class=\"docutils\"><p>Ваши отрывистые удары подобны молнии.\nЕдинственные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span>, которые вы можете совершать - безоружные атаки \"восходящее рассечение\".\nОни наносят 1d10 рубящего урона, относятся к группе \"драка\" и имеют признаки <span class=\"w-versatile\">универсальное К</span>, <span class=\"w-nonlethal\">несмертельное</span> и <span class=\"w-unarmed\">безоружное</span>.</p><p>Находясь в \"Стойке Небесной Тверди\", вы получаете сопротивление 2 электричеству и сопротивление 2 урону звуком.\nЭти сопротивления увеличиваются до 5 на 12 уровне и до 8 на 18 уровне.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 224, Pathfinder #158: Sixty Feet Under pg. 78",
+            "action": "одиночное действие",
+            "id": "arch-feat-jalmeri-heavenseeker-sky-and-heaven-stance",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Искатель небес (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2201\">Skyseeker</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Искатель небес",
+            "originalName": "Skyseeker",
+            "level": 8,
+            "traits": [
+                "эвокация",
+                "электричество",
+                "звук",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-sky-and-heaven-stance\">Стойка Небесной Тверди (Sky and Heaven Stance)  / 6</span></p><p><strong>Требования</strong>: Вы в \"Стойке Небесной Тверди\"</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79</p><hr class=\"docutils\"><p>Вы <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыгаете (Leap)</span> к противнику.\nВ любой момент этого Прыжка вы можете совершить один <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по существу в пределах своей досягаемости.\nНа 12-м уровне, если вы попадаете этим Ударом, то вместо окончания своего Прыжка вы можете мгновенно совершить второй Прыжок из пространства, в котором вы попали по цели Ударом.\nВо время второго Прыжка вы также можете совершить один Удар по цели в пределах досягаемости.\nНа 16-м уровне вы можете совершить третий Прыжок, если ваш второй Удар попадает, и вы можете атаковать цель в любой момент третьего Прыжка.\nВсе Прыжки, совершенные во время этой активности, получают бонус состояния +10 футов к итоговой высоте или дистанции вашего прыжка, и каждый Удар должен быть совершен по разным существам.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-jalmeri-heavenseeker-skyseeker",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Украсть небосвод (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2202\">Steal the Sky</a>) / 10",
+            "name": "Украсть небосвод",
+            "originalName": "Steal the Sky",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-dedication\">Посвящение Джалмерэйского Искателя Небес (Jalmeri Heavenseeker Dedication) / 4</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79</p><hr class=\"docutils\"><p>Вы можете забрать воздух, поддерживающий врага в полете.\nВы получаете заклинание ки <span class=\"card-link std std-ref\" data-id=\"spell-focus-steal-the-sky\">Украсть небосвод (Steal the Sky) / Фокус. 5</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79",
+            "action": "",
+            "id": "arch-feat-jalmeri-heavenseeker-steal-the-sky",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Шепчущие небеса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2204\">Speaking Sky</a>) / 12",
+            "name": "Шепчущие небеса",
+            "originalName": "Speaking Sky",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-dedication\">Посвящение Джалмерэйского Искателя Небес (Jalmeri Heavenseeker Dedication) / 4</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79</p><hr class=\"docutils\"><p>Вы можете слышать движения воздуха подобно мягкому шепоту.\nВы получаете заклинание ки <span class=\"card-link std std-ref\" data-id=\"spell-focus-speaking-sky\">Шепчущие небеса (Speaking Sky) / Фокус. 6</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79",
+            "action": "",
+            "id": "arch-feat-jalmeri-heavenseeker-speaking-sky",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Пересечь Последний Горизонт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2205\">Cross the Final Horizon</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 20",
+            "name": "Пересечь Последний Горизонт",
+            "originalName": "Cross the Final Horizon",
+            "level": 20,
+            "traits": [
+                "эвокация",
+                "электричество",
+                "звук",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-jalmeri-heavenseeker-sky-and-heaven-stance\">Стойка Небесной Тверди (Sky and Heaven Stance)  / 6</span></p><p><strong>Требования</strong>: Вы в \"Стойке Небесной Тверди\"</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79</p><hr class=\"docutils\"><p>Вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span> вплоть до своей Скорости, и ки окутывает ваши конечности ужасающей силой шторма, увеличивая досягаемость ваших безоружных атак \"Стойки Небесной Тверди\" на 5 футов.\nВ конце этого движения совершите вплоть до 3 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударов (Strikes)</span> со штрафом -2 по цели, находящейся в вашей досягаемости.\nКаждая атака считается к вашему штрафу множественной атаки, но он не увеличивается пока вы не закончите эти атаки.\nВместо обычного рубящего или колющего урона эти Удары наносят урон либо электричеством, либо звуком - вы можете выбрать тип урона для каждого Удара.\nЕсли вы успешно попадаете всеми тремя Ударами, цель становится <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощена 3</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 225, Pathfinder #158: Sixty Feet Under pg. 79",
+            "action": "активность из 3-х действий",
+            "id": "arch-feat-jalmeri-heavenseeker-cross-the-final-horizon",
+            "archetype": "Джалмерэйский Искатель Небес (Jalmeri Heavenseeker)"
+        },
+        {
+            "fullName": "Посвящение дуэлянта Алдори (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=876\">Aldori Duelist Dedication</a>) / 2",
+            "name": "Посвящение дуэлянта Алдори",
+            "originalName": "Aldori Duelist Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен обращению с дуэльным мечом Алдори</p><p><strong>Доступ</strong>: Вы из региона \"Разоренные Земли (Broken Lands)\"</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Ваша тренировка дуэлянта Алдори учит вас боевым приемам и увеличивает вашу приверженность дуэльному мечу Алдори.\nВы становитесь обучены Акробатике или Атлетике на свой выбор, и Дуэльным Знаниям (Dueling); если вы уже обучены, то вместо этого становитесь экспертом.\nВсякий раз, когда ваше мастерство с любым оружием увеличивается до эксперта или выше, вы так же получаете такой же уровень мастерства владения дуэльным мечом Алдори.\nВы получаете доступ к дуэльному мечу Алдори.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа Дуэлянт Алдори.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "",
+            "id": "arch-feat-aldori-duelist-dedication",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Парирование Алдори (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=877\">Aldori Parry</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Парирование Алдори",
+            "originalName": "Aldori Parry",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-dedication\">Посвящение дуэлянта Алдори (Aldori Duelist Dedication) / 2</span></p><p><strong>Требования</strong>: Вы владеете только дуэльным мечом Алдори и ваша другая рука(и) свободна</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Вы можете своим дуэльным мечом Алдори парировать атаки по вам.\nВы получаете бонус обстоятельства +2 к КБ до начала своего следующего хода, пока соответствуете требованиям.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "одиночное действие",
+            "id": "arch-feat-aldori-duelist-parry",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Преимущество дуэлянта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=878\">Duelist's Edge</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Преимущество дуэлянта",
+            "originalName": "Duelist's Edge",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-dedication\">Посвящение дуэлянта Алдори (Aldori Duelist Dedication) / 2</span></p><p><strong>Триггер</strong>: Вы делаете бросок инициативы и можете <span class=\"card-link std std-ref\" data-id=\"c-observed\">заметить</span> хотя бы одного противника</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Вы оттачиваете свое время реакции в дуэлях и учитесь быстро вытаскивать оружие как только начинается бой.\nВы получаете бонус обстоятельства +2 к спровоцировавшему броску инициативы и можете мгновенно <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы вынуть свой дуэльный меч Алдори.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "свободное действие",
+            "id": "arch-feat-aldori-duelist-duelists-edge",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Контратака Алдори (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=879\">Aldori Riposte</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Контратака Алдори",
+            "originalName": "Aldori Riposte",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-parry\">Парирование Алдори (Aldori Parry)  / 4</span></p><p><strong>Требования</strong>: Вы получаете преимущество от <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-parry\">Парирование Алдори (Aldori Parry)  / 4</span></p><p><strong>Триггер</strong>: Противник в пределах вашей досягаемости критически провалил <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по вам</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Когда противник открывается для удара, вы контратакуете его дуэльным мечом Алдори.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя или используйте <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> против спровоцировавшего противника, используя дуэльный меч Алдори.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "реакция",
+            "id": "arch-feat-aldori-duelist-riposte",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Нервирующее мастерство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=880\">Unnerving Prowess</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Нервирующее мастерство",
+            "originalName": "Unnerving Prowess",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-dedication\">Посвящение дуэлянта Алдори (Aldori Duelist Dedication) / 2</span></p><p><strong>Триггер</strong>: Вы критически успешно <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударяете (Strike)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружаете (Disarm)</span> с помощью дуэльного меча Алдори</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Ваш невероятные навык обращения с клинком нервирует противников.\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> цель вашего Удара или Разоружения.\nЭта попытка Деморализовать не имеет признака <span class=\"t-auditory\">слуховой</span>, и вы не получаете штраф проверки, если цель не понимает ваш язык.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "свободное действие",
+            "id": "arch-feat-aldori-duelist-unnerving-prowess",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Спасительный взмах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=881\">Saving Slash</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Спасительный взмах",
+            "originalName": "Saving Slash",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-aldori-duelist-dedication\">Посвящение дуэлянта Алдори (Aldori Duelist Dedication) / 2</span></p><p><strong>Триггер</strong>: Противник критически попадает по вам атакой ближнего боя</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 35</p><hr class=\"docutils\"><p>Вы быстро закручиваете свой клинок, пытаясь отразить достаточно инерции, чтобы избежать худшей атаки.\nСделайте чистую проверку с КС 16.\nВ случае успеха, атака становится обычным попаданием вместо критического.</p>",
+            "src": "Lost Omens: World Guide pg. 35",
+            "action": "реакция",
+            "id": "arch-feat-aldori-duelist-saving-slash",
+            "archetype": "Дуэлянт Алдори (Aldori Duelist)"
+        },
+        {
+            "fullName": "Посвящение покрытого рунами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=912\">Runescarred Dedication</a>) / 2",
+            "name": "Посвящение покрытого рунами",
+            "originalName": "Runescarred Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане</p><p><strong>Доступ</strong>: Вы из Земель Сказаний</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 119</p><hr class=\"docutils\"><p>Будь то через кровь (если вы Варисиец, Шоантиец или Новотассилонец) или под воздействием рунной магии, вы становитесь покрыты видимыми, светящимися на вашем теле рунами в виде татуировок или шрамов.\nВозможно, вы обладали этими отметками до того, как обрели архетип, но вы по-настоящему стали покрытым рунами, только когда решили изучать и использовать силу рун.\nВы становитесь экспертом Арканы и еще становитесь обучены Знаниям Тассилона (Thassilon) или экспертом Знаний Тассилона, если уже были им обучены.</p><p>Выберите одни чары из арканного списка заклинаний (<span class=\"card-link \">Арканные чары</span>).\nОдна из рун на вашем теле соответствует этим чарам и вы можете колдовать эти выбранные чары как врожденное арканное заклинание.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа покрытый рунами.</p>",
+            "src": "Lost Omens: World Guide pg. 119",
+            "action": "",
+            "id": "arch-feat-runescarred-dedication",
+            "archetype": "Покрытый рунами (Runescarred)"
+        },
+        {
+            "fullName": "Руны заклинаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=913\">Spell Runes</a>) / 4",
+            "name": "Руны заклинаний",
+            "originalName": "Spell Runes",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-runescarred-dedication\">Посвящение покрытого рунами (Runescarred Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 119</p><hr class=\"docutils\"><p>Руны на вашем теле дают некоторые магические умения.\nВыберите арканное заклинание 1-го уровня.\nВы получаете руну заклинания на вашем теле, соответствующую этому выбранному заклинанию, которое вы можете сотворять раз в день как врожденное.\nНа 6-м уровне вы получаете руну заклинания соответствующую арканному заклинанию 2-го уровня, а на 8-м уровне вы получаете руну заклинания соответствующую арканному заклинанию 3-го уровня.</p>",
+            "src": "Lost Omens: World Guide pg. 119",
+            "action": "",
+            "id": "arch-feat-runescarred-spell-runes",
+            "archetype": "Покрытый рунами (Runescarred)"
+        },
+        {
+            "fullName": "Живая руна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=914\">Living Rune</a>) / 6",
+            "name": "Живая руна",
+            "originalName": "Living Rune",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-runescarred-dedication\">Посвящение покрытого рунами (Runescarred Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 119</p><hr class=\"docutils\"><p>Вы установили связь между рунами на своем теле и магией рунных камней, что позволяет вам поместить руну доспеха на вашу живую плоть.\nВаше тело может удержать одну руну свойства; вы не можете гравировать руну свойства на свое тело, если у нее есть требование к виду или категории доспеха, или если свойство будет воздействовать на доспех, а не на носящего его.\nЕсли вы носите доспех, то получаете эффекты руны свойства в дополнение к любым эффектам этого доспеха.</p>",
+            "src": "Lost Omens: World Guide pg. 119",
+            "action": "",
+            "id": "arch-feat-runescarred-living-rune",
+            "archetype": "Покрытый рунами (Runescarred)"
+        },
+        {
+            "fullName": "Отражающая руна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=915\">Warding Rune</a>) / 6",
+            "name": "Отражающая руна",
+            "originalName": "Warding Rune",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-runescarred-dedication\">Посвящение покрытого рунами (Runescarred Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 119</p><hr class=\"docutils\"><p>Ваши руны дают отражающий эффект, который защищает вас от определенной школы магии.\nВыберите школу магии, кроме <span class=\"t-divination\">прорицания</span>.\nВы получаете на своем теле руну, соответствующую этой школе и бонус обстоятельства +2 ко всем спасброскам против эффектов этой школы.</p>",
+            "src": "Lost Omens: World Guide pg. 119",
+            "action": "",
+            "id": "arch-feat-runescarred-warding-rune",
+            "archetype": "Покрытый рунами (Runescarred)"
+        },
+        {
+            "fullName": "Великие руны заклинаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=916\">Greater Spell Runes</a>) / 10",
+            "name": "Великие руны заклинаний",
+            "originalName": "Greater Spell Runes",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-runescarred-spell-runes\">Руны заклинаний (Spell Runes) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 119</p><hr class=\"docutils\"><p>Вы получаете более сильные руны заклинаний.\nВы получаете руну заклинания соответствующую арканному заклинанию 4-го уровня.\nНа 12-м уровне вы получаете руну заклинания соответствующую арканному заклинанию 5-го уровня, а на 14-м уровне руну заклинания соответствующую арканному заклинанию 6-го уровня.</p>",
+            "src": "Lost Omens: World Guide pg. 119",
+            "action": "",
+            "id": "arch-feat-runescarred-greater-spell-runes",
+            "archetype": "Покрытый рунами (Runescarred)"
+        },
+        {
+            "fullName": "Посвящение ученика совершенства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=900\">Student of Perfection Dedication</a>) / 2",
+            "name": "Посвящение ученика совершенства",
+            "originalName": "Student of Perfection Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Мощный кулак (Powerful Fist)</span> или эксперт безоружных атак; член \"Дома Совершенства\"</p><p><strong>Доступ</strong>: Вы из Джалмерэя</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 83</p><hr class=\"docutils\"><p>Вы научились техникам боевых искусств своего \"Дома Совершенства\".\nВы становитесь обучены Акробатике или Атлетике на свой выбор, и Знаниям военного дела (Warfare); если вы уже обучены, то вместо этого становитесь экспертом.\nВы получаете классовую способность монаха <span class=\"card-link std std-ref\" data-id=\"class-feat-monk-ki-strike\">Удар ки (Ki Strike) / 1</span>, которая дает вам заклинание ки <span class=\"card-link std std-ref\" data-id=\"spell-focus-ki-strike\">Удар ки (Ki Strike) / Фокус. 1</span> и запас очков фокусировки равный 1, которое вы можете восстановить при использовании <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> как это делает монах.\nВаши заклинания ки \"Ученика Совершенства\" являются оккультными заклинаниями.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа ученик совершенства.</p>",
+            "src": "Lost Omens: World Guide pg. 83",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-dedication",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Совершенный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=901\">Perfect Strike</a>) / 4",
+            "name": "Совершенный удар",
+            "originalName": "Perfect Strike",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 83</p><hr class=\"docutils\"><p>Вы получаете заклинание ки <span class=\"card-link std std-ref\" data-id=\"spell-focus-perfect-strike\">Совершенный удар (Perfect Strike) / Фокус. 2</span>.\nУвеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Lost Omens: World Guide pg. 83",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-strike",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Совершенное оружие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4059\">Perfect Weaponry</a>) / 4",
+            "name": "Совершенное оружие",
+            "originalName": "Perfect Weaponry",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 222</p><hr class=\"docutils\"><p>Вы получаете классовую способность монаха <span class=\"card-link std std-ref\" data-id=\"class-feat-monk-monastic-weaponry\">Монашеское оружие (Monastic Weaponry) / 1</span>.\nВы можете использовать оружие ближнего боя с признаком <span class=\"t-monk\">монах</span> с любыми способностями или заклинаниями фокусировки Ученика Совершенства, для которых обычно требуются безоружные атаки.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 222",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-weaponry",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Адепт совершенного ки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=902\">Perfect Ki Adept</a>) / 6",
+            "name": "Адепт совершенного ки",
+            "originalName": "Perfect Ki Adept",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 83</p><hr class=\"docutils\"><p>Вы получаете соответствующее заклинание ки вашей \"Школы Совершенства\":</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unblinking-flame-revelation\">Откровение вечного пламени (Unblinking Flame Revelation) / Фокус. 3</span> для \"Вечного пламени\" (Unblinking Flame),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unbreaking-wave-advance\">Наступление несокрушимой волны (Unbreaking Wave Advance) / Фокус. 3</span> для \"Несокрушимых волн\" (Unbreaking Waves),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unfolding-wind-rush\">Порыв несворачивающего ветра (Unfolding Wind Rush) / Фокус. 3</span> для \"Несворачивающего ветра\" (Unfolding Wind),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-untwisting-iron-buffer\">Защита несгибаемого железа (Untwisting Iron Buffer) / Фокус. 3</span> для \"Несгибаемого железа\" (Untwisting Iron)</p></li>\n</ul><p>Увеличьте запас Очков Фокусировки на 1.</p>",
+            "src": "Lost Omens: World Guide pg. 83",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-ki-adept",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Совершенное сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4060\">Perfect Resistance</a>) / 8",
+            "name": "Совершенное сопротивление",
+            "originalName": "Perfect Resistance",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 222</p><hr class=\"docutils\"><p>Вы получаете сопротивление, равное половине вашего уровня ко всему урону от эффектов с признаком, соответствующим вашей Школе Совершенства: <span class=\"t-fire\">огонь</span> для \"Вечного пламени\" (Unblinking Fire), <span class=\"t-water\">вода</span> для \"Несокрушимых волн\" (Unbreakable Waves), <span class=\"t-air\">воздух</span> для \"Несворачивающего ветра\" (Unfolding Wind) и <span class=\"t-earth\">земля</span> для \"Несгибаемого железа\" (Untwisting Iron).\nПосле использования заклинания ки Ученика Совершенства, на 1 раунд это сопротивление увеличивается до значения равного вашему уровню.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 222",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-resistance",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Эксперт совершенного ки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4061\">Perfect Ki Expert</a>) / 10",
+            "name": "Эксперт совершенного ки",
+            "originalName": "Perfect Ki Expert",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 222</p><hr class=\"docutils\"><p>Вы получаете соответствующее заклинание ки вашей \"Школы Совершенства\":</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unblinking-flame-aura\">Аура вечного пламени (Unblinking Flame Aura) / Фокус. 5</span> для \"Вечного пламени\" (Unblinking Flame),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unbreaking-wave-vapor\">Туман несокрушимой волны (Unbreaking Wave Vapor) / Фокус. 5</span> для \"Несокрушимых волн\" (Unbreaking Waves),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unfolding-wind-buffet\">Шквал несворачивающего ветра (Unfolding Wind Buffet) / Фокус. 5</span> для \"Несворачивающего ветра\" (Unfolding Wind),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-untwisting-iron-roots\">Корни несгибаемого железа (Untwisting Iron Roots) / Фокус. 5</span> для \"Несгибаемого железа\" (Untwisting Iron)</p></li>\n</ul><p>Увеличьте запас Очков Фокусировки на 1.\nВы становитесь экспертом атак оккультными заклинаниями и КС оккультных заклинаний.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 222",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-ki-expert",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Образец совершенного ки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4062\">Perfect Ki Exemplar</a>) / 14",
+            "name": "Образец совершенного ки",
+            "originalName": "Perfect Ki Exemplar",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-dedication\">Посвящение ученика совершенства (Student of Perfection Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 222</p><hr class=\"docutils\"><p>Вы получаете соответствующее заклинание ки вашей \"Школы Совершенства\":</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unblinking-flame-emblem\">Эмблема вечного пламени (Unblinking Flame Emblem) / Фокус. 7</span> для \"Вечного пламени\" (Unblinking Flame),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unbreaking-wave-barrier\">Барьер несокрушимой волны (Unbreaking Wave Barrier) / Фокус. 7</span> для \"Несокрушимых волн\" (Unbreaking Waves),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unfolding-wind-blitz\">Рывок несворачивающего ветра (Unfolding Wind Blitz) / Фокус. 7</span> для \"Несворачивающего ветра\" (Unfolding Wind),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-untwisting-iron-augmentation\">Усиление несгибаемого железа (Untwisting Iron Augmentation) / Фокус. 7</span> для \"Несгибаемого железа\" (Untwisting Iron)</p></li>\n</ul><p>Увеличьте запас Очков Фокусировки на 1.\nВы становитесь экспертом атак оккультными заклинаниями и КС оккультных заклинаний.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 222",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-ki-exemplar",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Магистр совершенного ки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4063\">Perfect Ki Grandmaster</a>) / 18",
+            "name": "Магистр совершенного ки",
+            "originalName": "Perfect Ki Grandmaster",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-perfect-ki-expert\">Эксперт совершенного ки (Perfect Ki Expert) / 10</span> или <span class=\"card-link std std-ref\" data-id=\"arch-feat-student-of-perfection-perfect-ki-exemplar\">Образец совершенного ки (Perfect Ki Exemplar) / 14</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 222</p><hr class=\"docutils\"><p>Вы получаете соответствующее заклинание ки вашей \"Школы Совершенства\":</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unblinking-flame-ignition\">Возгорание вечного пламени (Unblinking Flame Ignition) / Фокус. 9</span> для \"Вечного пламени\" (Unblinking Flame),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unbreaking-wave-containment\">Удержание несокрушимой волны (Unbreaking Wave Containment) / Фокус. 9</span> для \"Несокрушимых волн\" (Unbreaking Waves),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-unfolding-wind-crash\">Сокрушение несворачивающего ветра (Unfolding Wind Crash) / Фокус. 9</span> для \"Несворачивающего ветра\" (Unfolding Wind),</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-untwisting-iron-pillar\">Столп несгибаемого железа (Untwisting Iron Pillar) / Фокус. 9</span> для \"Несгибаемого железа\" (Untwisting Iron)</p></li>\n</ul><p>Увеличьте запас Очков Фокусировки на 1.\nВы становитесь мастером атак оккультными заклинаниями и КС оккультных заклинаний.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 222",
+            "action": "",
+            "id": "arch-feat-student-of-perfection-perfect-ki-grandmaster",
+            "archetype": "Ученик Совершенства (Student of Perfection)"
+        },
+        {
+            "fullName": "Посвящение живого монолита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=888\">Living Monolith Dedication</a>) / 2",
+            "name": "Посвящение живого монолита",
+            "originalName": "Living Monolith Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Осирийский язык, обучен Ремеслу</p><p><strong>Доступ</strong>: Вы из региона \"Золотого пути (Golden Road)\"</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы начали начертать магический камень, называемый <em>камнем ка</em>, который вы когда-нибудь свяжете со своей душой.\nВы получаете знания древнего Осириона и связь с вашим формирующимся <em>камнем ка</em>.\nЕсли вы проваливаете проверку восстановления находясь <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, то ваше состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> не увеличивается; если вы крит.проваливаете, ваше состояние увеличивается лишь на 1.\nВы становитесь обучены Знаниям древнего Осириона (Ancient Osirion), или экспертом, если уже были обучены.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа живой монолит.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Предварительные условия должны быть: \"Осирийский язык, обучен Ремеслу\", без сфинского и <strong>древне</strong>-осирийского языков.</p>\n</div>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-dedication",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Ритуал камня ка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=889\">Ka Stone Ritual</a>) / 4",
+            "name": "Ритуал камня ка",
+            "originalName": "Ka Stone Ritual",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "архетип"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-dedication\">Посвящение живого монолита (Living Monolith Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы начертаете свое истинное имя на вашем <em>камне ка</em>, а также клятвы богам и фараонам, и вставляете его себе в лоб во время специального ритуала со сфинксом или живым монолитом, у которого уже есть эта способность.\n<em>Камень ка</em> - инвестируемый магический предмет, который вы автоматически инвестируете каждый день.\nЕго нельзя убрать без вашего разрешения или лишить магии, и вы никогда не можете лишиться инвестирования этого <em>камня ка</em>.\nОн имеет незначительную Массу.</p><p><em>Камень ка</em> дает вам бонус предмета +1 к спасброскам против эффектов <span class=\"t-death\">смерти</span> и <span class=\"t-negative\">негативных</span> эффектов, увеличиваясь до +2 на 8-м уровне, +3 на 14-м уровне и +4 на 20-м уровне.</p><p><strong>Активация</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> (вообразить), или другая активация если указано иначе (см. далее)</p><p><strong>Частота</strong>: количество раз в день, равное имеющемуся у вас количеству классовых способностей архетипа \"Живого монолита\"</p><p><strong>Эффект</strong>: Вы накладываете на себя <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span>, либо используете одно из других активируемых умений, полученных более поздней способностью \"Живого монолита\".</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>В предварительных условиях не должно быть \"Сфинкс или живой монолит с этой способностью выполняет с вами ритуал\".\nПерсонаж с <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-dedication\">Посвящение живого монолита (Living Monolith Dedication) / 2</span> имеет доступ к ритуалу камня ка.</p>\n</div>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-living-monolith-ka-stone-ritual",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Каменная кровь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=890\">Stone Blood</a>) / 6",
+            "name": "Каменная кровь",
+            "originalName": "Stone Blood",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-ka-stone-ritual\">Ритуал камня ка (Ka Stone Ritual) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы с легкостью можете избирательно остановить кровотечение.\nУменьшите КС чистых проверок для остановки имеющегося у вас продолжительного урона кровотечением, с 15 до 10, и вы можете использовать одиночное действие, которое имеет признак <span class=\"t-concentrate\">концентрация</span>, чтобы получить чистую проверку досрочно, без физической перевязки ран.\nВы естественным образом восстанавливаетесь от состояния <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span> в два раза быстрее нормы.</p>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-stone-blood",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Укрепленная плоть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=891\">Fortified Flesh</a>) / 8",
+            "name": "Укрепленная плоть",
+            "originalName": "Fortified Flesh",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-ka-stone-ritual\">Ритуал камня ка (Ka Stone Ritual) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Ваша плоть приобретает твердость камня.\nВы получаете сопротивление физическому урону (кроме адамантина) равное вашему кол-ву классовых способностей архетипа \"Живой монолит\".</p>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-fortified-flesh",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Гармонизация с камнем (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=892\">Attunement to Stone</a>) / 10",
+            "name": "Гармонизация с камнем",
+            "originalName": "Attunement to Stone",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-ka-stone-ritual\">Ритуал камня ка (Ka Stone Ritual) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы гармонизируете с камнями вокруг вас.\nКогда вы соприкасаетесь с каменной поверхностью, то получаете виброчувствительность (неточное) на 5 футов вдоль этой поверхности и можете активировать свой <em>камень ка</em>, чтобы сотворять <span class=\"card-link std std-ref\" data-id=\"spell-m-meld-into-stone\">Слияние с камнем (Meld into Stone) / Закл. 3</span>.</p>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-attunement-to-stone",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Правосудие монолита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=893\">Judgement of the Monolith</a>) / 12",
+            "name": "Правосудие монолита",
+            "originalName": "Judgement of the Monolith",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-ka-stone-ritual\">Ритуал камня ка (Ka Stone Ritual) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы можете использовать клятвы, заключенные в вашем <em>камне ка</em>, чтобы добиться истины от живых и мертвых.\nВы можете активировать свой <em>камень ка</em>, выбрав целью 1 живое существо, заставляя это существо испытывать эффекты <span class=\"card-link std std-ref\" data-id=\"spell-z-zone-of-truth\">Зона истины (Zone of Truth) / Закл. 3</span>.\nЕще вы можете активировать его за 10 минут (вообразить), чтобы сотворять <span class=\"card-link std std-ref\" data-id=\"spell-t-talking-corpse\">Говорящий труп (Talking Corpse) / Закл. 4</span>.</p>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-judgement-of-the-monolith",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Каменная общность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=894\">Stone Communion</a>) / 14",
+            "name": "Каменная общность",
+            "originalName": "Stone Communion",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-living-monolith-ka-stone-ritual\">Ритуал камня ка (Ka Stone Ritual) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 59</p><hr class=\"docutils\"><p>Вы получаете уникальную общность с землей и камнями.\nВы изучаете Земляной язык и можете Активировать свой <em>камень ка</em> за 10 минут (вообразить), чтобы сотворять <span class=\"card-link std std-ref\" data-id=\"spell-s-stone-tell\">Разговор с камнями (Stone Tell) / Закл. 6</span>.</p>",
+            "src": "Lost Omens: World Guide pg. 59",
+            "action": "",
+            "id": "arch-feat-living-monolith-stone-communion",
+            "archetype": "Живой монолит (Living Monolith)"
+        },
+        {
+            "fullName": "Посвящение Львиного клинка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=917\">Lion Blade Dedication</a>) / 2",
+            "name": "Посвящение Львиного клинка",
+            "originalName": "Lion Blade Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: член \"Львиных клинков\", обучен Выступлению</p><p><strong>Доступ</strong>: Вы из Талдора</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Ваша шпионская тренировка львиного клинка помогает вам скрывать себя и свою личность.\nВы становитесь обучены Обману или Скрытности на свой выбор, и Знаниям шпионажа (Espionage); если вы уже были обучены, то становитесь экспертом.\nВы никогда не получаете штрафы обстоятельства к попыткам замаскироваться под другую родословную, возраст и т.д, пока вид маскировки соответствует вашему размеру.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа Львиного клинка.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "",
+            "id": "arch-feat-lion-blade-dedication",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Затерявшийся в толпе (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=918\">Lost in the Crowd</a>) / 4",
+            "name": "Затерявшийся в толпе",
+            "originalName": "Lost in the Crowd",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-lion-blade-dedication\">Посвящение Львиного клинка (Lion Blade Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Вы научились двигаться как единое целое с толпой и прятаться среди нее, исчезая на переполненной улице в мгновение ока.\nВы двигаетесь с полной Скоростью в толпах и можете использовать создаваемое толпами укрытие, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, получая бонус обстоятельства +2 к ваши проверкам Скрытности, когда вы в толпе хотя бы 10 существ и бонус обстоятельства +4 к проверкам Скрытности когда вы в толпе хотя бы 100 существ.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "",
+            "id": "arch-feat-lion-blade-lost-in-the-crowd",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Мастерство толпы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=919\">Crowd Mastery</a>) / 6",
+            "name": "Мастерство толпы",
+            "originalName": "Crowd Mastery",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-lion-blade-lost-in-the-crowd\">Затерявшийся в толпе (Lost in the Crowd) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Вы используете толпу для своего преимущества, отвлекая внимание врагов на потенциальные скрытые в толпе опасности.\nКогда определяете является ли враг взятым в тиски, считайте все квадраты занятые толпой, как если бы все они были заняты союзниками с досягаемостью ближнего боя 5 футов.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "",
+            "id": "arch-feat-lion-blade-crowd-mastery",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Ускоренное продвижение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=920\">Expeditious Advance</a>) / 6",
+            "name": "Ускоренное продвижение",
+            "originalName": "Expeditious Advance",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-lion-blade-dedication\">Посвящение Львиного клинка (Lion Blade Dedication) / 2</span></p><p><strong>Требования</strong>: Вы без доспеха или носите легкий доспех</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Вы быстро продвигаетесь и отступаете.\nВы получаете бонус состояния +10 футов Скорости.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "",
+            "id": "arch-feat-lion-blade-expeditious-advance",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Противодействия шпиона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=921\">Spy's Countermeasures</a>) / 10",
+            "name": "Противодействия шпиона",
+            "originalName": "Spy's Countermeasures",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-lion-blade-dedication\">Посвящение Львиного клинка (Lion Blade Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Вы научились анализировать и подделывать свои реакции на наиболее распространенную магию, используемую против шпионов.\nВсякий раз, когда вы совершаете успешный спасбросок против эффекта <span class=\"t-divination\">прорицания</span> или <span class=\"t-mental\">ментального</span>, то в качестве свободного действия (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) с триггером успешного прохождения спасброска, можете сделать <span class=\"card-link \">Идентификация магии (Identify Magic)</span>, чтобы идентифицировать это заклинание, даже если не заметили, что это заклинание было сотворено.</p><p>Если вы успешно идентифицировали нацеленный на вас эффект <span class=\"t-divination\">прорицания</span> и заклинание обычно провалится или не будет иметь эффекта, то вы можете создать замещающий результат, заставляя заклинателя думать, что заклинание было успешным с результатом на ваш выбор.\nЕсли вы успешно идентифицировали нацеленный на вас <span class=\"t-mental\">ментальный</span> эффект и заклинание обычно провалится или не будет иметь эффекта, то вы можете сделать так, что будет казаться будто вы под воздействием и пытаться притворяться, подыгрывая заклинателю; если заклинание обычно устанавливает ментальную связь, оно действует как обычно, но вы можете не соблюдать любые команды, которые получаете через эту связь.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "свободное действие",
+            "id": "arch-feat-lion-blade-spys-countermeasures",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Мелькание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=922\">Flicker</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Мелькание",
+            "originalName": "Flicker",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-lion-blade-dedication\">Посвящение Львиного клинка (Lion Blade Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 131</p><hr class=\"docutils\"><p>Вы используете свои движения и маскировки, чтобы стать мелькающим и размытым.\nВы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> до своего следующего хода.\nКак обычно для <span class=\"card-link std std-ref\" data-id=\"c-concealed\">сокрытия</span> связанного с очевидным визуальным проявлением, вы не можете использовать его, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>.</p>",
+            "src": "Lost Omens: World Guide pg. 131",
+            "action": "одиночное действие",
+            "id": "arch-feat-lion-blade-flicker",
+            "archetype": "Львиный клинок (Lion Blade)"
+        },
+        {
+            "fullName": "Посвящение ассасина красного богомола (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=895\">Red Mantis Assassin Dedication</a>) / 2",
+            "name": "Посвящение ассасина красного богомола",
+            "originalName": "Red Mantis Assassin Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен обращению с зазубренной саблей, божество Ачакек, принципиально злое мировоззрение, член ассасинов \"Красного богомола\"</p><p><strong>Доступ</strong>: Вы с острова Медиогальти (Mediogalti Island)</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 71</p><hr class=\"docutils\"><p>Вы научились выслеживать своих врагов и убивать их зазубренной саблей.\nВы становитесь обучены Скрытности и Знаниям ассасинов; если вы уже были обучены, то вместо этого становитесь экспертом.\nВсякий раз, когда ваше мастерство обращения с любым оружием увеличивается до эксперта или выше, вы также получаете этот новый уровень мастерства для зазубренной сабли.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа ассасина Красного богомола.</p>",
+            "src": "Lost Omens: World Guide pg. 71",
+            "action": "",
+            "id": "arch-feat-red-mantis-assassin-dedication",
+            "archetype": "Ассасин Красного богомола (Red Mantis Assassin)"
+        },
+        {
+            "fullName": "Основная магия красного богомола (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=896\">Basic Red Mantis Magic</a>) / 4",
+            "name": "Основная магия красного богомола",
+            "originalName": "Basic Red Mantis Magic",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Религии, <span class=\"card-link std std-ref\" data-id=\"arch-feat-red-mantis-assassin-dedication\">Посвящение ассасина красного богомола (Red Mantis Assassin Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 71</p><hr class=\"docutils\"><p>Из вашего обучения Красного богомола вы научились ограниченной сакральной магии.\nВы получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы подготавливающийся заклинатель, способный каждый день подготавливать 2 чар и 1 заклинание 1-го уровня.\nВы готовите эти заклинания из книги заклинаний ассасина Красного богомола, подобной той, что у волшебников, но содержащей 3 чар и 2 заклинания 1-го уровня.\nВсе эти заклинания, в вашей книге заклинаний ассасина Красного богомола из этой и последующих способностей, должны быть либо заклинаниями <span class=\"t-transmutation\">трансмутации</span>, либо заклинаниями <span class=\"t-illusion\">иллюзии</span> из арканного списка или заклинаниями из следующего списка:</p><div class=\"line-block\">\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-d-darkness\">Тьма (Darkness) / Закл. 2</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-o-obscuring-mist\">Непроглядный туман (Obscuring Mist) / Закл. 2</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-c-clairaudience\">Яснослышание (Clairaudience) / Закл. 3</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-p-paralyze\">Паралич (Paralyze) / Закл. 3</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-m-modify-memory\">Изменение памяти (Modify Memory) / Закл. 4</span></div>\n<div class=\"line\"><span class=\"card-link std std-ref\" data-id=\"spell-c-clairvoyance\">Ясновидение (Clairvoyance) / Закл. 4</span></div>\n</div><p>Независимо от их обычного магического обычая, ваши заклинания ассасина Красного богомола являются сакральными, как и любые заклинания фокусировки Красного богомола, которые вы получаете.</p><p>Каждый день, вы можете подготавливать 2 чар и 1 заклинание 1-го уровня, из тех, которые находятся в вашей книге заклинаний ассасина Красного богомола.\nВы обучены атаке заклинаниями и КС заклинаний для сотворения сакральных заклинаний.\nВаша ключевая характеристика колдовства для этих заклинаний - Харизма.</p>",
+            "src": "Lost Omens: World Guide pg. 71",
+            "action": "",
+            "id": "arch-feat-red-mantis-assassin-basic-magic",
+            "archetype": "Ассасин Красного богомола (Red Mantis Assassin)"
+        },
+        {
+            "fullName": "Продвинутая магия красного богомола (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=897\">Advanced Red Mantis Magic</a>) / 6",
+            "name": "Продвинутая магия красного богомола",
+            "originalName": "Advanced Red Mantis Magic",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-red-mantis-assassin-basic-magic\">Основная магия красного богомола (Basic Red Mantis Magic) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 71</p><hr class=\"docutils\"><p>Ваша магическая подготовка Красного богомола улучшилась.\nДобавьте 2 заклинания 2-го уровня в вашу книгу заклинаний ассасина Красного богомола.\nВы получаете слот заклинания 2-го уровня, который вы можете использовать, чтобы подготавливать заклинание из вашей книги заклинаний ассасина Красного богомола.</p><p>На 8-м уровне, добавьте в свою книгу заклинаний ассасина Красного богомола 2 заклинания 3-го уровня.\nВы получаете слот заклинания 3-го уровня, который вы можете использовать, чтобы подготавливать заклинание из вашей книги заклинаний ассасина Красного богомола.</p><p>На 10-м уровне, добавьте в свою книгу заклинаний ассасина Красного богомола 2 заклинания 4-го уровня.\nВы получаете слот заклинания 4-го уровня, который вы можете использовать, чтобы подготавливать заклинание из вашей книги заклинаний ассасина Красного богомола.</p>",
+            "src": "Lost Omens: World Guide pg. 71",
+            "action": "",
+            "id": "arch-feat-red-mantis-assassin-advanced-magic",
+            "archetype": "Ассасин Красного богомола (Red Mantis Assassin)"
+        },
+        {
+            "fullName": "Алый покров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=898\">Crimson Shroud</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Алый покров",
+            "originalName": "Crimson Shroud",
+            "level": 6,
+            "traits": [
+                "магический",
+                "некромантия",
+                "исцеление",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-red-mantis-assassin-dedication\">Посвящение ассасина красного богомола (Red Mantis Assassin Dedication) / 2</span></p><p><strong>Частота</strong>: количество раз в день, равное имеющемуся у вас количеству классовых способностей архетипа ассасина Красного богомола</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 71</p><hr class=\"docutils\"><p>Вы окутываете себя пеленой красного тумана на 1 минуту.\nПока покров активен, вы получаете быстрое исцеление равное половине вашего уровня.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> со своим покровом, завихряя его вокруг себя, чтобы получить бонус обстоятельства +1 к КБ до начала своего следующего хода.\nНаконец, если вы умираете когда покров активен, то можете выбрать, чтобы все ваше тело исчезло в красном тумане, оставив после вас только вашу экипировку; вы делаете этот выбор когда активируете \"Алый покров\".</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOWG-2: </span>Это магическое умение и должно иметь соответствующие признаки.\nДобавлены \"магический\", \"некромантия\", \"исцеление\".</p>\n</div>",
+            "src": "Lost Omens: World Guide pg. 71",
+            "action": "одиночное действие",
+            "id": "arch-feat-red-mantis-assassin-crimson-shroud",
+            "archetype": "Ассасин Красного богомола (Red Mantis Assassin)"
+        },
+        {
+            "fullName": "Форма богомола (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=899\">Mantis Form</a>) / 8",
+            "name": "Форма богомола",
+            "originalName": "Mantis Form",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-red-mantis-assassin-basic-magic\">Основная магия красного богомола (Basic Red Mantis Magic) / 4</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 71</p><hr class=\"docutils\"><p>Вы получаете заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-mantis-form\">Форма богомола (Mantis Form) / Фокус. 4</span>.\nЕсли у вас еще не было запаса Очков Фокусировки, то вы получаете его и 1 очко, которое вы можете восстановить при использовании <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> молясь Ачакеку или исследуя назначенное вам убийство.</p>",
+            "src": "Lost Omens: World Guide pg. 71",
+            "action": "",
+            "id": "arch-feat-red-mantis-assassin-mantis-form",
+            "archetype": "Ассасин Красного богомола (Red Mantis Assassin)"
+        },
+        {
+            "fullName": "Посвящение хвастуна Смутьянов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1067\">Firebrand Braggart Dedication</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Посвящение хвастуна Смутьянов",
+            "originalName": "Firebrand Braggart Dedication",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "неудача",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14, член \"Смутьянов\" второй метки (прим.пер: система рангов в организации)</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 74</p><hr class=\"docutils\"><p>Ваше обучение \"Смутьянов\" научило вас, что достижение чего-то приносит большее удовлетворение, если вы сначала этим хвастаетесь.\nВы хвастаетесь определенным действием навыка, как например <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.\nВ первый раз, когда вы попытаетесь выполнить это действие в течение следующей минуты, в контексте, который Мастер считает подходящим чтобы бросить вызов и значимым, вы должны сделать бросок дважды и использовать более низкий результат.\nЕсли вы преуспеваете в этой проверке, то на 10 минут получаете бонус обстоятельства +1 к проверкам этого же действия.\nЕсли вы проваливаете эту проверку или не делаете действие в течение 1 минуты, то вместо этого на 1 час получаете штраф обстоятельства -1 на проверки этого же действия.</p><p>Если выбранное действие может быть использовано с несколькими навыками, как например <span class=\"card-link \">Идентификация магии (Identify Magic)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, то вы должны уточнить какой навык вы используете для действия, как например Аркану для \"Идентификации магии\", и ваш бонус или штраф после хвастовства применяется только к проверкам использующим это сочетание навыка с действием.\nПосле того, как вы хвастаетесь определенным действием, вы не можете хвастаться тем же действием до своих следующих ежедневные приготовления, независимо от провала или успеха проверки.</p><p>Обычно, задача бросающая вызов это такая, которая как минимум имеет стандартный КС для вашего уровня, однако сложность может быть и выше в зависимости от ситуации.\nЗначимый контекст это такой, когда успех или провал действия имеют отношение к достижению ваших целей, а не для хвастовства, которое вы сделали, чтобы потом получить бонус.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа хвастуна Смутьянов.</p>",
+            "src": "Lost Omens: Character Guide pg. 74",
+            "action": "одиночное действие",
+            "id": "arch-feat-firebrand-braggart-dedication",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Вызов хвастуна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1068\">Boaster's Challenge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Вызов хвастуна",
+            "originalName": "Boaster's Challenge",
+            "level": 6,
+            "traits": [
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана, Дипломатии или Запугивания; <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 74</p><hr class=\"docutils\"><p>Вы вызываете врага, заставляя его волноваться, и его легче победить.\nВыберите одно существо, которое вы видите, и объявите ему вызов.\nДля вызова, сделайте проверку Обмана, Дипломатии или Запугивания против КС Воли существа.\nВаш вызов должен иметь <span class=\"t-linguistic\">языковой</span>, <span class=\"t-auditory\">слуховой</span> или <span class=\"t-visual\">визуальный</span> компонент и получает соответствующий признак.\nПри успешной проверке, вы до конца своего следующего хода получаете бонус состояния +2 на броски урона по этому врагу, со своим оружием или безоружными <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span>;\nесли вы мастер используемого навыка, то вместо этого получаете бонус состояния +4, а если вы легенда, то вместо этого получаете бонус состояния +6.\nПри критическом успехе, бонус состояния длится 3 раунда.\nНезависимо от вашего успеха или провала, существа, которые были свидетелями вашего вызова, на 1 минуту получат бонус обстоятельства +4 к их КС Воли против ваших попыток сделать вызов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Добавлен признак \"ментальный\".</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 74",
+            "action": "одиночное действие",
+            "id": "arch-feat-firebrand-braggart-boasters-challenge",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Дерзкий поступок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1069\">Daring Act</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Дерзкий поступок",
+            "originalName": "Daring Act",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Акробатике или Атлетике, <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 74</p><hr class=\"docutils\"><p>Вы пытаетесь совершить смертельный маневр, чтобы отвлечь своих врагов.\nВыберите одного врага в пределах досягаемости и сделайте проверку Акробатики, либо Атлетики, против его КС Рефлекса.\nПри успехе вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> вплоть до половины своей Скорости (или вплоть до полной Скорости при критическом успехе), не провоцируя от цели реакции, срабатывающие на ваше движение, и она <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> для следующей атаки ближнего боя, которую вы совершаете до конца вашего хода.</p>",
+            "src": "Lost Omens: Character Guide pg. 74",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-firebrand-braggart-daring-act",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Решимость смельчака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1070\">Bravo's Determination</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Решимость смельчака",
+            "originalName": "Bravo's Determination",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана, <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span></p><p><strong>Триггер</strong>: <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> врага снижает ваши ОЗ до 0; у вас не было 1 ОЗ, и вы не будете убиты</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 75</p><hr class=\"docutils\"><p>Ваша уверенность граничит с самообманом, но она заставляет вас идти наперекор превосходящим трудностям.\nСделайте проверку Обмана против КС атаки спровоцировавшего <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранены</span>, то к этой проверке получаете штраф равный величине <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранения</span>.\nЕсли спровоцировавшая атака была критическим попаданием, используйте результат на одну степень успеха хуже, чем та, которая выпала при вашем броске.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы избегаете потери сознания и остаетесь с 1 ОЗ</div>\n<div class=\"line\"><strong>Успех</strong>: Вы избегаете потери сознания и остаетесь с 1 ОЗ, но увеличиваете значение своего состояния <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> на 1</div>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 75",
+            "action": "реакция",
+            "id": "arch-feat-firebrand-braggart-bravos-determination",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Великий хвастун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1071\">Great Boaster</a>) / 8",
+            "name": "Великий хвастун",
+            "originalName": "Great Boaster",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 16, <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 75</p><hr class=\"docutils\"><p>Ваше хвастовство особенно эффективно.\nЕсли вы успешно хвастаетесь, то можете попытаться похвастаться еще сильнее тем же навыком, используя действие от <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span> с тем же действием, в течение продолжительности вашего оригинального бонуса обстоятельства от хвастовства;\nэто исключение из правила, согласно которому вы не можете еще раз похвастаться тем же действием до своих следующих ежедневных приготовлений.\nБольшое хвастовство использует действие от <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-dedication\">Посвящение хвастуна Смутьянов (Firebrand Braggart Dedication)  / 4</span>, но в случае успеха, ваш бонус обстоятельства увеличивается до +2 и остается на 1 час.\nЕсли вы проваливаете большое хвастовство, то на 4 часа получаете штраф обстоятельства -2 к попыткам выполнения того же действия.\nКак только вы объявляете большим хвастовством об определенном действии, то не можете объявить большое хвастовство о том же действии до своих следующих ежедневных приготовлений, независимо от результата проверки.\nМинимальная бросающая вызов задача для большого хвастовства имеет хотя бы сложный КС для вашего уровня.</p>",
+            "src": "Lost Omens: Character Guide pg. 75",
+            "action": "",
+            "id": "arch-feat-firebrand-braggart-great-boaster",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Дерзкий размах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1072\">Daring Flourish</a>) / 10",
+            "name": "Дерзкий размах",
+            "originalName": "Daring Flourish",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-daring-act\">Дерзкий поступок (Daring Act)  / 6</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 75</p><hr class=\"docutils\"><p>Вы быстро пользуетесь возможностью от своих смелых трюков.\nВ конце успешного <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-daring-act\">Дерзкий поступок (Daring Act)  / 6</span>, вы можете сделать по цели <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя, или попытаться <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> цель.\nОна <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> для Удара, который вы делаете во время <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-daring-act\">Дерзкий поступок (Daring Act)  / 6</span>, а также для следующей атаки ближнего боя, которую вы предпринимаете до конца своего хода.</p>",
+            "src": "Lost Omens: Character Guide pg. 75",
+            "action": "",
+            "id": "arch-feat-firebrand-braggart-daring-flourish",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Требовательный вызов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1073\">Demanding Challenge</a>) / 10",
+            "name": "Требовательный вызов",
+            "originalName": "Demanding Challenge",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-boasters-challenge\">Вызов хвастуна (Boaster's Challenge)  / 6</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 75</p><hr class=\"docutils\"><p>Если ваша проверка навыка для вызова оппоненту была успешной, то до конца вашего следующего хода, цель вашего вызова получает штраф обстоятельства -1 к броскам атак (или -2, если ваша проверка была крит.успешной).</p>",
+            "src": "Lost Omens: Character Guide pg. 75",
+            "action": "",
+            "id": "arch-feat-firebrand-braggart-demanding-challenge",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Гамбит смельчака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1074\">Daredevil's Gambit</a>) / 12",
+            "name": "Гамбит смельчака",
+            "originalName": "Daredevil's Gambit",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-daring-act\">Дерзкий поступок (Daring Act)  / 6</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 75</p><hr class=\"docutils\"><p>Если вы критически успешно сделали <span class=\"card-link std std-ref\" data-id=\"arch-feat-firebrand-braggart-daring-act\">Дерзкий поступок (Daring Act)  / 6</span>, то можете войти в пространство цели и оставаться там до начала своего следующего хода, или пока цель не уйдет, в зависимости от того, что случит раньше.\nПока вы находитесь в пространстве цели, то получаете бонус обстоятельства +2 к КБ, а ваша цель <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> для ваших атак.\nЕсли любое существо, кроме вашей цели, попадает по вам броском атаки, когда вы находитесь в общем пространстве с целью, сделайте чистую проверку с КС 15.\nПри успехе, вместо вас, атака пойдет по вашей цели, используя тот же результат броска атаки, что попадает по вам.</p>",
+            "src": "Lost Omens: Character Guide pg. 75",
+            "action": "",
+            "id": "arch-feat-firebrand-braggart-daredevils-gambit",
+            "archetype": "Смутьян хвастун (Firebrand Braggart)"
+        },
+        {
+            "fullName": "Посвящение магического воина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=903\">Magic Warrior Dedication</a>) / 2",
+            "name": "Посвящение магического воина",
+            "originalName": "Magic Warrior Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение сотворять заклинания фокусировки</p><p><strong>Доступ</strong>: Вы из Просторов Муанги</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 95</p><hr class=\"docutils\"><p>Вы взяли безымянную маску и дали клятву магических воинов.\nВы становитесь обучены, Аркане или Природе на свой выбор, и Знаниям Магических воинов (Magic Warrior Lore); если вы уже были обучены навыку, то вместо этого становитесь экспертом.</p><p>Вы скрываете свою личность под маской, представляющей выбранное вами животное, соответствующее одному из общих видов животных из заклинания <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span>.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов <span class=\"t-divination\">прорицания</span>, однако иногда отказ снять свою маску, может вызвать проблемы в тех местах, где не уважают или не понимают обычаи магических воинов.</p><p>Как только вы берете эту способность, если другое существо когда-либо узнает ваше истинное лицо или имя, то вы теряете свои умения этого архетипа.\nБлизкие союзники, которые знали о вашем решении взять маску до вашего посвящения, не нарушают это табу, если только не расскажут кому-то еще.\nЧтобы восстановить ваши умения, вы должны сбросить свою маску и получить новую другого животного, потом переобучиться \"Посвящению магического воина\" с новой маской.</p><p>Ваши заклинания фокусировки от архетипа Магического воина имеют тот же магический обычай, что и ваши другие заклинания (выберите один, если у вас есть заклинания нескольких обычаев).</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа \"Магического воина\".</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOWG-2: </span>Посвящение Магического война должно иметь признак \"необычный\".</p>\n</div>",
+            "src": "Lost Omens: World Guide pg. 95",
+            "action": "",
+            "id": "arch-feat-magic-warrior-dedication",
+            "archetype": "Магический воин (Magic Warrior)"
+        },
+        {
+            "fullName": "Аспект магического воина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=904\">Magic Warrior Aspect</a>) / 4",
+            "name": "Аспект магического воина",
+            "originalName": "Magic Warrior Aspect",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-magic-warrior-dedication\">Посвящение магического воина (Magic Warrior Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 95</p><hr class=\"docutils\"><p>Вы можете изменять свою форму, чтобы получать аспект животного, которое представляет ваша маска.\nВы получаете заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-magic-warrior-aspect\">Аспект магического воина (Magic Warrior Aspect) / Фокус. 2</span>.</p>",
+            "src": "Lost Omens: World Guide pg. 95",
+            "action": "",
+            "id": "arch-feat-magic-warrior-aspect",
+            "archetype": "Магический воин (Magic Warrior)"
+        },
+        {
+            "fullName": "Превращение магического воина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=905\">Magic Warrior Transformation</a>) / 4",
+            "name": "Превращение магического воина",
+            "originalName": "Magic Warrior Transformation",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-magic-warrior-dedication\">Посвящение магического воина (Magic Warrior Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 95</p><hr class=\"docutils\"><p>Вы можете полностью превращаться в животное, которое представляет ваша маска.\nВы получаете заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-magic-warrior-transformation\">Превращение магического воина (Magic Warrior Transformation) / Фокус. 2</span>.</p>",
+            "src": "Lost Omens: World Guide pg. 95",
+            "action": "",
+            "id": "arch-feat-magic-warrior-transformation",
+            "archetype": "Магический воин (Magic Warrior)"
+        },
+        {
+            "fullName": "Безымянная анонимность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=906\">Nameless Anonymity</a>) / 6",
+            "name": "Безымянная анонимность",
+            "originalName": "Nameless Anonymity",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-magic-warrior-dedication\">Посвящение магического воина (Magic Warrior Dedication) / 2</span></p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 95</p><hr class=\"docutils\"><p>Ваша маска еще сильнее защищает вас от <span class=\"t-divination\">прорицаний</span>.\nРаз в день, вы можете сотворять на себя <span class=\"card-link std std-ref\" data-id=\"spell-n-nondetection\">Необнаружимость (Nondetection) / Закл. 3</span>, усиленное до наибольшего уровня заклинания, который вы можете сотворять; это заклинание мгновенно заканчивается, если ваша маска снята даже на мгновение.\nЭто заклинание имеет тот же магический обычай, что и ваши заклинания фокусировки.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOWG-2: </span>Добавлено предложение про магический обычай <span class=\"card-link std std-ref\" data-id=\"spell-n-nondetection\">Необнаружимость (Nondetection) / Закл. 3</span>.</p>\n</div>",
+            "src": "Lost Omens: World Guide pg. 95",
+            "action": "",
+            "id": "arch-feat-magic-warrior-nameless-anonymity",
+            "archetype": "Магический воин (Magic Warrior)"
+        },
+        {
+            "fullName": "Посвящение охотника за привидениями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2277\">Ghost Hunter Dedication</a>) / 2",
+            "name": "Посвящение охотника за привидениями",
+            "originalName": "Ghost Hunter Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму или Религии</p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>Вы сосредоточили свое обучение на охоте и победе над привидениями, духами и всевозможными призраками.\nВыберите Знание Духов (Spirit) или Знание Призраков (Haunt); вы станете обученным этому навыку.\nЕсли вы уже обучены обоим навыкам, то становитесь обучены новому навыку Знания по вашему выбору.</p><p>Выберите 2 чар из списка оккультных заклинаний.\nКаждые чары должны обладать признаком <span class=\"t-divination\">прорицание</span>, <span class=\"t-enchantment\">очарование</span> или <span class=\"t-necromancy\">некромантия</span>.\nВы можете колдовать их, как врожденные оккультные заклинания.\nВы получаете доступ к активности <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, если у вас ее еще не было.\nВы обучены атакам оккультными заклинаниями и КС заклинаний.\nОбычно вы можете заменить материальные компоненты жестовыми компонентами, поэтому вам не нужна сумка с материальными компонентами.\nВаша ключевая характеристика колдовства этих заклинаний - Харизма.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа Охотника за привидениями.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "",
+            "id": "arch-feat-ghost-hunter-dedication",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Голос могилы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2278\">Grave's Voice</a>) / 4",
+            "name": "Голос могилы",
+            "originalName": "Grave's Voice",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ghost-hunter-dedication\">Посвящение охотника за привидениями (Ghost Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>Вы можете использовать выбранное вами Знание Духов или Знание Призраков, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Попросить (Request)</span> что-то бестелесных существ.\nПо усмотрению Мастера, бестелесный дух может быть готов выслушать вас.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "",
+            "id": "arch-feat-ghost-hunter-graves-voice",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Разбираться в призраках (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2279\">Investigate Haunting</a>) / 4",
+            "name": "Разбираться в призраках",
+            "originalName": "Investigate Haunting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ghost-hunter-dedication\">Посвящение охотника за привидениями (Ghost Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>Вы умеете замечать явные признаки привидений и призраков.\nДаже когда вы не <span class=\"card-link \">Исследуете (Investigating)</span> в режиме исследования, вы получаете проверку, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о бестелесной нежити и призраках, действующих в этой области.\nВы также получаете бонус обстоятельства +2 к проверкам навыков, чтобы обезвредить призраков.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "",
+            "id": "arch-feat-ghost-hunter-investigate-haunting",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Духовные заклинания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2280\">Spirit Spells</a>) / 4",
+            "name": "Духовные заклинания",
+            "originalName": "Spirit Spells",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ghost-hunter-dedication\">Посвящение охотника за привидениями (Ghost Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>Ваше умение противостоять бестелесным угрозам перерастает в полноценное колдовство.\nВыберите оккультное заклинание 1-го уровня.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять (Cast this Spell)</span> его как врожденное оккультное заклинание.\nНа 6-м уровне вы получаете оккультное заклинание 2-го уровня, а на 8-м уровне вы получаете оккультное заклинание 3-го уровня.\nКаждое из этих заклинаний должно обладать признаком <span class=\"t-divination\">прорицание</span>, <span class=\"t-enchantment\">очарование</span> или <span class=\"t-necromancy\">некромантия</span>.\nВы можете накладывать каждое из этих заклинаний один раз в день.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "",
+            "id": "arch-feat-ghost-hunter-spirit-spells",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Призрачный удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2281\">Ghost Strike</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Призрачный удар",
+            "originalName": "Ghost Strike",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ghost-hunter-dedication\">Посвящение охотника за привидениями (Ghost Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>Один раз в день вы можете наполнить оружие, которое вы держите, магической энергией позволяющей ему нанести истинный удар по бестелесной нежити.\nОружие на 10 минут получает эффекты руны <span class=\"card-link \">Призрачное касание (Ghost Touch) / Руна 4</span>.</p><p>На 10-м уровне вы можете применить этот эффект к двум оружиям вместо одного.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-ghost-hunter-ghost-strike",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Заглянуть за пределы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2282\">Peer Beyond</a>) / 8",
+            "name": "Заглянуть за пределы",
+            "originalName": "Peer Beyond",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ghost-hunter-dedication\">Посвящение охотника за привидениями (Ghost Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #163: Ruins of Gauntlight pg. 81</p><hr class=\"docutils\"><p>У вас есть сверхъестественное понимание того, как привидения и призраки проявляются, манипулируют разумами и восстанавливаются.\nВы получаете бонус обстоятельства +2 к спасброскам против <span class=\"t-mental\">ментальных</span> эффектов, вызванных бестелесной нежитью и призраками, и если вы знаете, что присутствует бестелесная нежить или призрак, то можете совершить бросок инициативы с помощью Знания Духов или Знания Призраков.</p><p>Если вы присутствуете, когда дух или призрак побежден, вы мгновенно получаете проблеск понимания того, как его можно навсегда упокоить.\nКак правило, эта вспышка проявляется как видение, которое представляет собой быструю сцену, связанную с происхождением духа или появлением призрака.\nСовершите проверку Знания Духов или Знания Призраков с КС соответствующему уровню духа или призрака.\nПри успехе вы получаете подсказку о том, как упокоить дух или навсегда обезвредить призрака; при критическом успехе вы узнаете точный способ как это сделать.</p>",
+            "src": "Pathfinder #163: Ruins of Gauntlight pg. 81",
+            "action": "",
+            "id": "arch-feat-ghost-hunter-peer-beyond",
+            "archetype": "Охотник за привидениями (Ghost Hunter)"
+        },
+        {
+            "fullName": "Посвящение исследователя сверхъестественного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2658\">Eldritch Researcher Dedication</a>) / 2",
+            "name": "Посвящение исследователя сверхъестественного",
+            "originalName": "Eldritch Researcher Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане и Оккультизму</p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Вы получаете умение накладывать одни арканные или оккультные чары по вашему выбору (которые усиливаются до уровня заклинания, равного половине вашего уровня округленного до большего целого).\nЕсли вы еще не имеете этого, вы обучаетесь КС заклинаний и броскам атаки заклинаний этого обычая, с Интеллектом в качестве вашей колдовской характеристики.</p><p>Независимо от того, выберете ли вы арканные или оккультные чары, вы также станете экспертом по вашему выбору в Аркане или Оккультизме.\nВы также получаете бонус обстоятельства +1 к проверкам, которые совершаете с выбранным навыком при <span class=\"card-link \">Исследуете (Investigating)</span> или <span class=\"card-link \">Идентифицируете магию (Identify Magic)</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа Исследователя сверхъестественного.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-dedication",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Искатель истин (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2659\">Seeker of Truths</a>) / 4",
+            "name": "Искатель истин",
+            "originalName": "Seeker of Truths",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Ваша преданность обнаружению и накоплению заумных истин граничит с фанатизмом, и вы можете использовать эту преданность.\nВы получаете способность жреца <span class=\"card-link std std-ref\" data-id=\"class-feat-cleric-domain-initiate\">Посвящение домену (Domain Initiate) / 1</span>, но должны выбрать домен тайны, знания или правды в качестве своего домена.\nВы накладываете это доменное заклинание, как заклинание фокусировки того же обычая, что и ваши чары из <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span>, и вы <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> созерцая заумные тайны, а не молясь богу.\nКогда умение требует божественный символ, например заклинание фокусировки <span class=\"card-link std std-ref\" data-id=\"spell-focus-word-of-truth\">Слово правды (Word of Truth) / Фокус. 1</span>, оно вместо этого проявляется как странная форма, уникальная для вас, которая, кажется, бросает вызов геометрии.</p><p><strong>Особенность</strong>: Вы можете взять эту способность вплоть до 3 раз, каждый раз выбирая другой домен.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-seeker-of-truths",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Почерк странности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2660\">Strange Script</a>) / 4",
+            "name": "Почерк странности",
+            "originalName": "Strange Script",
+            "level": 4,
+            "traits": [
+                "архетип",
+                "прорицание"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Вы настолько знакомы с непонятными текстами, что можете заставить их раскрыть свои секреты.\nОдин раз в день вы можете прикоснуться к одному тексту (например к книге, стене с иероглифами или чему-то подобному), и понимать его смысл в течение 1 часа.\nЕсли текст написан на нескольких языках, вы получаете возможность понимать их все только для целей чтения текста.\nЕсли текст закодирован или зашифрован, вы автоматически не понимаете текст, но получаете бонус обстоятельства +2, чтобы расшифровать его.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-strange-script",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Научная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2661\">Scholarly Defense</a>) / 6",
+            "name": "Научная защита",
+            "originalName": "Scholarly Defense",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Ваши знания о странных существах и их причудливой анатомии позволяют вам предвидеть их физические атаки и уменьшить урон, который вы получаете от них.\nВы получаете сопротивление к физическому урону от атак ближнего боя, совершенных аберрациями и слизью.\nЭто сопротивление равно одной трети вашего уровня.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-scholarly-defense",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Способный ритуалист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2662\">Able Ritualist</a>) / 8",
+            "name": "Способный ритуалист",
+            "originalName": "Able Ritualist",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Ваша начитанность о ритуалах делают вас в них опытным участником.\nВы получаете бонус обстоятельства +2 к первичным и вторичным проверкам, которые вы совершаете в рамках выполнения ритуала.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-able-ritualist",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Находящий знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2663\">Lorefinder</a>) / 8",
+            "name": "Находящий знания",
+            "originalName": "Lorefinder",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Вы знаете, что судьба иногда замышляет скрыть опасные знания или предметы от глаз тех, кто способен их понять.\nВы отказываете судьбе в способности скрывать от вас правду.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-l-locate\">Обнаружение (Locate) / Закл. 3</span> как врожденное оккультное заклинание 3-го уровня.\nКогда вы достигаете 14-го уровня, это заклинание усиливается до 5-го уровня.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-lorefinder",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Знать все (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2664\">Know it All</a>) / 10",
+            "name": "Знать все",
+            "originalName": "Know it All",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Ваши познания в заумных темах не имеют себе равных.\nКогда вы преуспеваете в проверке <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, вы получаете дополнительную информацию или контекст.\nКогда вы критически преуспеваете в этой проверке, по усмотрению Мастера вы можете получить даже больше дополнительной информации или контекста, чем обычно.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-know-it-all",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        },
+        {
+            "fullName": "Продвинутый искатель истины (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2665\">Advanced Seeker of Truths</a>) / 12",
+            "name": "Продвинутый искатель истины",
+            "originalName": "Advanced Seeker of Truths",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-dedication\">Посвящение исследователя сверхъестественного (Eldritch Researcher Dedication) / 2</span>, <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-seeker-of-truths\">Искатель истин (Seeker of Truths) / 4</span></p><p><strong>Источник</strong>: Pathfinder #164: Hands of the Devil pg. 76</p><hr class=\"docutils\"><p>Вы открыли более глубокие способы раскрытия и накопления знаний.\nВы получаете продвинутое доменное заклинание из одного домена, выбранного вами вместе с <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-seeker-of-truths\">Искатель истин (Seeker of Truths) / 4</span>.\nУвеличьте количество очков фокусировки в вашем запасе фокусировки на 1.</p><p><strong>Особенность</strong>: Вы можете взять эту способность вплоть до 3 раз, каждый раз выбирая другое продвинутое доменное заклинание из домена, выбранного вами с помощью <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-researcher-seeker-of-truths\">Искатель истин (Seeker of Truths) / 4</span>.</p>",
+            "src": "Pathfinder #164: Hands of the Devil pg. 76",
+            "action": "",
+            "id": "arch-feat-eldritch-researcher-advanced-seeker-of-truths",
+            "archetype": "Исследователь сверхъестественного (Eldritch Researcher)"
+        }
+    ]
+}

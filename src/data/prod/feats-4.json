@@ -1,0 +1,1534 @@
+{
+    "feats": [
+        {
+            "fullName": "Подрывник (способность) (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3287\">Demolitionist (Dwarf feat)</a>) / 9",
+            "name": "Подрывник",
+            "originalName": "Demolitionist",
+            "level": 9,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Вы знаете, как с помощью правильно совершенного взрыва разрушать объекты.\nКогда вы наносите бомбой <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по ловушке или ничейному объекту, вы игнорируете первые 5 очков Твердости объекта.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "",
+            "id": "ancestry-feat-dwarf-demolitionist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зрение в дыму (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3288\">Smoke Sight</a>) / 9",
+            "name": "Зрение в дыму",
+            "originalName": "Smoke Sight",
+            "level": 9,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Вы привыкли сражаться и прятаться в обволакивающем дыму и пламени.\nВы получаете автоматический успех чистой проверки КС 5, чтобы прицелиться в <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытое</span> существо, если оно скрыто только из-за дыма.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> в дыму, увеличьте КС чистой проверки, чтобы целиться в вас, до КС 6, если вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>, или до КС 12, если вы <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span>.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "",
+            "id": "ancestry-feat-dwarf-smoke-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт дварфийского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=11\">Dwarven Weapon Expertise</a>) / 13",
+            "name": "Эксперт дварфийского оружия",
+            "originalName": "Dwarven Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-weapon-familiarity\">Знакомство с оружием дварфов (Dwarven Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваше родство с дварфами сочетается с вашей классовой тренировкой, что дает вам отличное умение в обращении с оружием дварфов.\nВсякий раз, когда вы получаете особенность класса, которая дает вам уровень мастерства эксперта или выше в обращении с определенным оружием, вы также получаете этот уровень мастерства для боевого топора, клевца, боевого молота и всего оружия дварфов с которым вы обучены.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dwarven-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Земная мощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1405\">Telluric Power</a>) / 13",
+            "name": "Земная мощь",
+            "originalName": "Telluric Power",
+            "level": 13,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы направляете силу из земли под ногами, чтобы колотить своих врагов.\nКогда делаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по цели, которая стоит на той же земляной или каменной поверхности, что и вы, то получаете бонус обстоятельства к броску урона, равный количеству костей урона оружия.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-telluric-power",
+            "archetype": ""
+        },
+        {
+            "fullName": "Инстинкт ремесленника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3289\">Crafters Instinct</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Инстинкт ремесленника",
+            "originalName": "Crafters Instinct",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "удача",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла</p><p><strong>Триггер</strong>: У вас случилась осечка огнестрельного оружия или вы при броске провалили <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> дистанционным оружием</p><p><strong>Частота</strong>: раз в день</p><p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Вы чувствуете незначительный недостаток оружия при стрельбе из него, и быстро на лету корректируете прицел, чтобы избежать этого недостатка.\nЕсли спровоцировавший <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> был осечкой, то вместо него вы получаете нормальный провал.\nЕсли спровоцировавший <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> был провалом, он становится скользящим ударом, который наносит минимальный урон для данного Удара (добавляя любые бонусы, как обычно, но для всех костей урона, которые были бы брошены при успехе, получая результат 1).\nЭто скользящее попадание не применяет другие эффекты, которые обычно происходят только при попадании.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "реакция",
+            "id": "ancestry-feat-dwarf-crafters-instinct",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт взрывчатки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3290\">Explosive Expert</a>) / 13",
+            "name": "Эксперт взрывчатки",
+            "originalName": "Explosive Expert",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-explosive-savant\">Специалист взрывчатых веществ (Explosive Savant) / 1</span></p><p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Вы продолжили обучаться владению взрывоопасным оружием и достигли более глубокого понимания.\nКаждый раз, когда вы получаете классовую особенность, дающую вам экспертное или более высокое мастерство владения определенным оружием, вы также получаете это мастерство для простых и воинских бомб и огнестрельного оружия.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "",
+            "id": "ancestry-feat-dwarf-explosive-expert",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скрупулёзный взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3291\">Scrutinizing Gaze</a>) / 13",
+            "name": "Скрупулёзный взгляд",
+            "originalName": "Scrutinizing Gaze",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Традиции вашей семьи по защите от нежити Геба наделили вас шестым чувством для обнаружения духов, призраков и других неупокоенных мертвецов, независимо от их формы или силы их присутствия.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия на <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span>, когда пытаетесь определить, <span class=\"t-possession\">одержимо</span> ли существо или находится под влиянием эффекта, который делает его <span class=\"card-link std std-ref\" data-id=\"c-controlled\">подконтрольным</span>, бонус обстоятельства +2 к проверкам Восприятия, чтобы видеть через маскировку, которую носит <span class=\"t-undead\">нежить</span>, и бонус обстоятельства +2 при использовании действия <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, чтобы найти <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанных</span> или <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженных</span> <span class=\"t-haunt\">призраков</span> или <span class=\"t-undead\">нежить</span> в пределах 30 футов от вас.</p><p>Если вы не используете действие <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> или не ищете, Мастер автоматически бросает для вас <span class=\"t-secret\">тайную</span> проверку для обнаружения <span class=\"t-haunt\">призраков</span> или <span class=\"t-undead\">нежити</span> в пределах 30 футов.\nЭта проверка не получает обычного бонуса обстоятельства +2, а вместо этого на нее накладывается штраф обстоятельства -2.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "",
+            "id": "ancestry-feat-dwarf-scrutinizing-gaze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменные врата (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1406\">Stonegate</a>) / 17",
+            "name": "Каменные врата",
+            "originalName": "Stonegate",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-stonewalker\">Каменщик (Stonewalker) / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Земляные преграды больше не мешают вашему продвижению.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-p-passwall\">Проход сквозь стену (Passwall) / Закл. 5</span> как врожденное сакральное заклинание 7-го уровня, которое вы можете сотворять раз в день.\nОднако, в отличие от заклинания, это умение может быть использовано только для открытия прохода в земляных или каменных преградах.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-APG-r2: </span>Добавлен признак \"необычный\".</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-stonegate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выстрел благословленный кузней (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3292\">Forge-Blessed Shot</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Выстрел благословленный кузней",
+            "originalName": "Forge-Blessed Shot",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "сакральный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: поклоняющийся <span class=\"card-link \">Торагу</span> или <span class=\"card-link \">Ангреду</span></p><p><strong>Триггер</strong>: Вы совершаете дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Вы произносите молитву дварфийским божествам <span class=\"card-link \">Торагу</span> или <span class=\"card-link \">Ангреду</span>, желая, чтобы в пылу битвы высшие силы направляли ваш прицел.\nДо конца вашего хода, при следующем <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударе (Strike)</span> дистанционным оружием, вы получаете бонус обстоятельства +2 к своему броску атаки и игнорируете у цели состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, а также небольшое, стандартное и большое укрытие цели.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "свободное действие",
+            "id": "ancestry-feat-dwarf-forge-blessed-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отвлекающие тени (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=52\">Distracting Shadows</a>) / 1",
+            "name": "Отвлекающие тени",
+            "originalName": "Distracting Shadows",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились оставаться спрятанным используя высоких людей для отвлечения внимания, чтобы не привлекать к себе внимание.\nВы можете использовать существ, которые хотя бы на 1 размер больше вас (обычно среднего или более) как укрытие для действий <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, однако вы все еще не можете использовать таких существ в качестве укрытия для других целей, как например <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-distracting-shadows",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания полуросликов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=53\">Halfling Lore</a>) / 1",
+            "name": "Знания полуросликов",
+            "originalName": "Halfling Lore",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы покорно научились сохранять равновесие и держаться в тени, где безопасно, важные навыки, которые передавались из поколения в поколение традиции полуросликов.\nВы становитесь обучены Акробатике и Скрытности.\nЕсли вы будете автоматически обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям полуросликов (Halfling Lore).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удача полурослика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=54\">Halfling Luck</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Удача полурослика",
+            "originalName": "Halfling Luck",
+            "level": 1,
+            "traits": [
+                "удача",
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы проваливаете проверку навыка или спасброска</p><hr class=\"docutils\"><p>Из-за вашей беззаботной натуры кажется, что неудача избегает вас, и в какой-то степени это даже может быть правдой.\nВы можете перебросить спровоцировавшую проверку, но обязаны использовать новый результат, даже если он хуже, чем ваш первый бросок.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "ancestry-feat-halfling-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием полуросликов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=55\">Halfling Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием полуросликов",
+            "originalName": "Halfling Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы предпочитаете традиционное оружие полуросликов, поэтому научились использовать его более эффективно.\nВы обучены обращению с пращей, посохом-пращей полуросликов и коротким мечом.</p><p>Дополнительно, вы получаете доступ ко всему необычному оружию полуросликов.\nС целью определения вашего уровня мастерства, воинское оружие полуросликов считается простым оружием, а продвинутое оружие полуросликов считается воинским оружием.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Перефразировано последнее предложение, уточняя, что речь идет о используемом уровне мастерства, и вид оружия не становится вдруг другой категории.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надежные ноги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=56\">Sure Feet</a>) / 1",
+            "name": "Надежные ноги",
+            "originalName": "Sure Feet",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Независимо от того, удерживаете ли вы равновесие или карабкаетесь вверх по сложному подъему, ваши волосатые мозолистые ноги легко находят опору.\nЕсли при броске вы получаете успех проверки Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> или проверки Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, то вместо этого вы получаете крит.успех.\nКогда Балансируете или Карабкаетесь, вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-sure-feet",
+            "archetype": ""
+        },
+        {
+            "fullName": "Убийца титанов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=57\">Titan Slinger</a>) / 1",
+            "name": "Убийца титанов",
+            "originalName": "Titan Slinger",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились использовать свою пращу, чтобы сражать огромных существ.\nКогда вы попадаете атакой из пращи по существу большого размера или больше, увеличьте размер кости оружия на один шаг (см. <span class=\"card-link \">Увеличение размера кости (Increasing Die Size)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-titan-slinger",
+            "archetype": ""
+        },
+        {
+            "fullName": "Освобожденный полурослик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=58\">Unfettered Halfling</a>) / 1",
+            "name": "Освобожденный полурослик",
+            "originalName": "Unfettered Halfling",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вас заставляли служить в качестве чернорабочего, либо отдали в рабство по контракту, либо держали рабом в кандалах, но с тех пор, как вы бежали и научились тому, что вас никогда больше не поймают.\nКогда при броске вы получаете успех проверки <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> или спасброска против эффекта, который наложит на вас состояние <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span>, вместо этого вы получаете крит.успех.\nВсякий раз, когда существо при броске проверки <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span> получает провал, то оно получает крит.провал.\nЕсли существо использует на вас умение <span class=\"card-link \">Захват (Grab) </span>, то оно должно совершить успешную проверку Атлетики, чтобы схватить вас, вместо автоматического срабатывания.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-unfettered-halfling",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бдительный полурослик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=59\">Watchful Halfling</a>) / 1",
+            "name": "Бдительный полурослик",
+            "originalName": "Watchful Halfling",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваш общинный образ жизни заставляет вас обращать пристальное внимание на окружающих вас людей, что позволяет вам легче замечать, когда они нехарактерно себя ведут.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия когда используете простое действие <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span>, чтобы заметить <span class=\"t-enchantment\">очарованного</span> или <span class=\"t-possession\">одержимого</span> персонажа.\nЕсли вы сами не используете <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span> на <span class=\"t-enchantment\">очарованном</span> или <span class=\"t-possession\">одержимом</span> персонаже, Мастер кидает за вас <span class=\"t-secret\">тайную</span> проверку без обычного бонуса обстоятельства и со штрафом обстоятельства -2, чтобы как-то потенциально заметить очарование или одержимость.</p><p>В дополнение к использованию с проверками навыка, вы можете использовать простое действие <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, чтобы дать бонус спасброску другого существа или другой проверки, чтобы преодолеть <span class=\"t-enchantment\">очарование</span> или <span class=\"t-possession\">одержимость</span>.\nКак обычно для <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, вам надо подготовиться используя действие в ваш ход, чтобы поддержать существо в борьбе против этого эффекта.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-watchful",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкие манипуляции (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1012\">Adroit Manipulation</a>) / 1",
+            "name": "Ловкие манипуляции",
+            "originalName": "Adroit Manipulation",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "полурослик"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Мирини</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Вы с детства возитесь с узлами, замками и кузнечными головоломками, чтобы хоть чем-то занять свои руки.\nВы становитесь обучены Воровству (или другому навыку на свой выбор, если вы уже обучены Воровству).\nЕсли при броске вы получаете успех проверки Воровства для <span class=\"card-link std std-ref\" data-id=\"skill-thievery-pick-a-lock\">Вскрытие замка (Pick a Lock) </span>, то вместо этого он становится крит.успехом.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-adroit-manipulation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безобидный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1013\">Innocuous</a>) / 1",
+            "name": "Безобидный",
+            "originalName": "Innocuous",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Полурослики на протяжении многих веков были ненавязчивыми помощниками более высокого народа, и ваш народ полагается на это предположение о невиновности.\nВы становитесь обучены Обману (или другому навыку на свой выбор, если вы уже обучены Обману).\nЕсли вы проваливаете проверку Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span>, то гуманоидные существа не знают что вы пытались отвлечь их, если только при броске вы не получаете крит.провал.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-innocuous",
+            "archetype": ""
+        },
+        {
+            "fullName": "Интуитивное сотрудничество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1014\">Intuitive Cooperation</a>) / 1",
+            "name": "Интуитивное сотрудничество",
+            "originalName": "Intuitive Cooperation",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "полурослик"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Джарик</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Вы привыкли работать вместе с другими, полагаясь друг на друга, чтобы сводить концы с концами.\nВы получаете бонус обстоятельства +2 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, а ваши союзники получают бонус обстоятельства +2 для своих проверок, чтобы <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помочь (Aid)</span> вам.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-intuitive-cooperation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скромная увлеченность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1015\">Unassuming Dedication</a>) / 1",
+            "name": "Скромная увлеченность",
+            "originalName": "Unassuming Dedication",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "полурослик"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Улам</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Ваша семья с юных лет прививала вам такие ценности, как забота и терпеливость.\nВы получаете бонус обстоятельства +1 к проверкам на выполнение активности во время режима отдыха.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-unassuming-dedication",
+            "archetype": ""
+        },
+        {
+            "fullName": "Народный жаргон (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1430\">Folksy Patter</a>) / 1",
+            "name": "Народный жаргон",
+            "originalName": "Folksy Patter",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Вы знаток в маскировке тайных сообщений под народные идиомы.\nИспользуя сленг, шутки, заимствованные слова полуросликов и тому подобное, вы передаете простое сообщение, состоящее из трех основных слов (таких как \"Опасность убийцы бежать\" или \"Встреть меня на восходе луны\").\nВаш предполагаемый слушатель может сделать проверку Восприятия, чтобы распознать сообщение (КС 20 если союзник, КС 15 если союзник-полурослик, КС 10 если союзник-полурослик с \"Народным жаргоном\").\nЧтобы понять ваше сообщение, подслушивающие тоже могут попытаться сделать проверку Восприятия с вашим КС Обмана.\nПрименимы любые бонусы и штрафы на проверки Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-folksy-patter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Степной наездник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1431\">Prairie Rider</a>) / 1",
+            "name": "Степной наездник",
+            "originalName": "Prairie Rider",
+            "level": 1,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Вы выросли катаясь на мохнатых пони своего клана и на ездовых собаках.\nВы становитесь обучены Природе.\nЕсли вы будете автоматически обучены Природе (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы получаете бонус обстоятельства +1 к <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, если целью является традиционное ездовое животное полуросликов, такое как пони и ездовая собака.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-prairie-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приспосабливаемость к культуре (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=60\">Cultural Adaptability</a>) / 5",
+            "name": "Приспосабливаемость к культуре",
+            "originalName": "Cultural Adaptability",
+            "level": 5,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Во время ваших приключений вы оттачивали свою способность адаптироваться к культуре преобладающего вокруг вас народа.\nВы получаете общую способность <span class=\"card-link std std-ref\" data-id=\"feat-adopted-ancestry\">Заимствованная родословная (Adopted Ancestry) / 1</span> а также 1 способность 1-го уровня выбранной родословной.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-cultural-adaptability",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкач оружия полуросликов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=61\">Halfling Weapon Trickster</a>) / 5",
+            "name": "Ловкач оружия полуросликов",
+            "originalName": "Halfling Weapon Trickster",
+            "level": 5,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-weapon-familiarity\">Знакомство с оружием полуросликов (Halfling Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы особенно искусны в сражении с любимым оружием вашего народа.\nВсякий раз, когда вы крит.успешно совершаете бросок атаки используя короткий меч, пращу или посох-пращу полуросликов, вы применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-weapon-trickster",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легко не заметить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1016\">Easily Dismissed</a>) / 5",
+            "name": "Легко не заметить",
+            "originalName": "Easily Dismissed",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "полурослик"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: национальность Челиец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Вы учились смешиваться с фоном улиц и толпами высоких людей, чтобы вас не замечали.\nКогда вы в толпе или переполненной области города, вы можете попытаться использовать <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, даже когда <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>.\nПри успехе, вы не <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> или <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span>, но другие существа просто не обращают на вас особого внимания, даже если они могут видеть вас.\nВы не можете использовать это умение на наблюдателях, которые уже видели, как вы выполняете нескрытые или заметные действия.\nЕсли вы совершаете любое действие, отличное от <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, или другим образом совершаете особо заметные действия (на усмотрение Мастера), то наблюдатели сразу замечают вас.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-easily-dismissed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Полуросличья изобретательность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1017\">Halfling Ingenuity</a>) / 5",
+            "name": "Полуросличья изобретательность",
+            "originalName": "Halfling Ingenuity",
+            "level": 5,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>В то время как ваша готовность углубиться в малоизвестную задачу, может втянуть вас в неприятности, невероятная удача часто спасает вас от опасности.\nДаже если вы не обучены навыку, вы можете попытаться выполнить действия навыка, которые обычно требуют, чтобы вы были ему обучены.\nЕсли вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span> при провале проверки навыка, которому вы нетренированы, то при перебрасывании спровоцировавшей проверки навыка, вы можете добавить бонус мастерства равный вашему уровню, вместо 0.\nВы получаете бонус обстоятельства +4 к этому перебросу проверки навыка.</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-ingenuity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общая удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1018\">Shared Luck (Halfling)</a>) / 5",
+            "name": "Общая удача",
+            "originalName": "Shared Luck",
+            "level": 5,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 44</p><hr class=\"docutils\"><p>Вы доказательство того, что путешествовать с полуросликом к удаче.\nВместо того, чтобы перебрасывать свою проваленную проверку, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span> когда союзник в пределах 30 футов проваливает проверку навыка или спасбросок, чтобы позволить ему перебросить спровоцировавшую проверку.\nКак обычно, ваш союзник обязан использовать новый результат, даже если он хуже первого броска.\nЕсли у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-guiding-luck\">Направляющая удача (Guiding Luck) / 9</span>, вы не можете использовать ее эффект, который применяется к броскам атаки и проверкам Восприятия, чтобы дать союзнику преимущество \"Общей удачи\".</p>",
+            "src": "Lost Omens: Character Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-halfling-shared-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Поторапливаться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1432\">Step Lively</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Поторапливаться",
+            "originalName": "Step Lively",
+            "level": 5,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Враг большого размера или больше закончил рядом с вами свое действие <span class=\"t-move\">движения</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Вы - эксперт в том, чтобы избегать неуклюжих шагов более крупных существ.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> в другое пространство, рядом с этим врагом.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "реакция",
+            "id": "ancestry-feat-halfling-step-lively",
+            "archetype": ""
+        },
+        {
+            "fullName": "Направляющая удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=62\">Guiding Luck</a>) / 9",
+            "name": "Направляющая удача",
+            "originalName": "Guiding Luck",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span></p><hr class=\"docutils\"><p>Ваша удача ведет вас, чтобы вы смотрели в правильном направлении и безошибочно направляли свои удары.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span> дважды в день; один раз с обычным триггером, а еще один раз, вместо обычного триггера, когда вы проваливаете проверку Восприятия или бросок атаки.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-guiding-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неугомонный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=63\">Irrepressible (Halfling)</a>) / 9",
+            "name": "Неугомонный",
+            "originalName": "Irrepressible",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете легко отбить попытки играть на своих страхах и эмоциях.\nКогда при броске спасброска вы получаете успех против <span class=\"t-emotion\">эмоционального</span> эффекта, то вместо этого получаете крит.успех.\nЕсли ваше наследие - <span class=\"card-link \">Бесстрашный полурослик (Gutsy Halfling)</span>, когда при броске спасброска против <span class=\"t-emotion\">эмоционального</span> эффекта вы получаете крит.провал, то вместо этого получаете простой провал.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-irrepressible",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрый скалолаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1019\">Cunning Climber</a>) / 9",
+            "name": "Хитрый скалолаз",
+            "originalName": "Cunning Climber",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 45</p><hr class=\"docutils\"><p>Взбираетесь ли вы на корабельные снасти, на дерево в джунглях или на часовую башню, у вас есть поразительное умение находить опоры для ног и рук там, где не могут более крупные существа.\nВы получаете Скорость карабканья 10 футов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Удалено последнее предложение про способность \"Легендарный скалолаз (Legendary Climber)\" из плэй-теста, объединенная на релизе вместе с <span class=\"card-link std std-ref\" data-id=\"feat-quick-climb\">Быстро карабкаться (Quick Climb) / 7</span>.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-halfling-cunning-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Исчезновение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1020\">Fade Away</a>) / 9",
+            "name": "Исчезновение",
+            "originalName": "Fade Away",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-easily-dismissed\">Легко не заметить (Easily Dismissed) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 45</p><hr class=\"docutils\"><p>Ваша способность сливаться с фоном позволяет вам полностью исчезнуть или казаться безвредным даже для магических эффектов.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-m-misdirection\">Перенаправление (Misdirection) / Закл. 2</span> как врожденные оккультные заклинания 2-го уровня.\nДля <em>невидимости</em> вы можете выбрать целью только себя, а для <em>перенаправления</em> вы должны быть основной целью.\nВы можете сотворять каждое из этих заклинаний раз в день.</p>",
+            "src": "Lost Omens: Character Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-halfling-fade-away",
+            "archetype": ""
+        },
+        {
+            "fullName": "Полезный полурослик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1021\">Helpful Halfling</a>) / 9",
+            "name": "Полезный полурослик",
+            "originalName": "Helpful Halfling",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 45</p><hr class=\"docutils\"><p>Когда вы помогаете другу с задачей, то находите много способов помочь и избежать пагубного вмешательства.\nПри крит.успехе <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span> вы даете своему союзнику бонус обстоятельства +3 если вы эксперт навыка (вместо обычных +2), и вы даете своему союзнику бонус обстоятельства +4 если вы мастер (вместо обычных +3).\nЕсли при броске проверки Помощи вы получаете крит.провал, то не даете своему союзнику штраф обстоятельства -1 к его проверке.</p>",
+            "src": "Lost Omens: Character Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-halfling-helpful-halfling",
+            "archetype": ""
+        },
+        {
+            "fullName": "Танец под ногами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1433\">Dance Underfoot</a>) / 9",
+            "name": "Танец под ногами",
+            "originalName": "Dance Underfoot",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-step-lively\">Поторапливаться (Step Lively)  / 5</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Во время боя вы проскакиваете под ногами своего противника.\nВы можете закончить успешное действие <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span> в пространстве существа большого размера или больше.\nТак же, когда используете способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-step-lively\">Поторапливаться (Step Lively)  / 5</span>, вы можете сделать <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> в пространство спровоцировавшего противника.\nНа усмотрение Мастера, у врага должны быть конечности или он должен другим образом оставить вам достаточно места для этого маневра.\nНапример, вы можете занять место с <span class=\"t-giant\">гигантом</span> или <span class=\"t-dragon\">драконом</span>, но не со <span class=\"t-ooze\">слизью</span>.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-dance-underfoot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Беспрепятственный проход (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1434\">Unhampered Passage</a>) / 9",
+            "name": "Беспрепятственный проход",
+            "originalName": "Unhampered Passage",
+            "level": 9,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Вы не позволяете другим удерживать вас.\nВы можете раз в день сотворять на себя <span class=\"card-link std std-ref\" data-id=\"spell-f-freedom-of-movement\">Свобода движений (Freedom of Movement) / Закл. 4</span> как врожденное природное заклинание.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-unhampered-passage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непрерывные тени (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=64\">Ceaseless Shadows</a>) / 13",
+            "name": "Непрерывные тени",
+            "originalName": "Ceaseless Shadows",
+            "level": 13,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-distracting-shadows\">Отвлекающие тени (Distracting Shadows) / 1</span></p><hr class=\"docutils\"><p>Вы прекрасно умеете оставаться незамеченным, особенно в толпе.\nВам больше не нужно укрытие или быть <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытым</span>, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.\nЕсли у вас будет небольшое укрытие от существ, то вы получаете стандартное укрытие и можете <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span>, а если у вас будет стандартное укрытие от существ, то вы получаете большое укрытие.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-ceaseless-shadows",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия полуросликов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=65\">Halfling Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия полуросликов",
+            "originalName": "Halfling Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-weapon-familiarity\">Знакомство с оружием полуросликов (Halfling Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваше родство с полуросликами сочетается с вашей классовой тренировкой, что дает вам отличное умение в обращении с оружием полуросликов.\nВсякий раз, когда вы получаете особенность класса, которая дает вам уровень мастерства эксперта или выше, в определенном оружии или оружиях, вы также получаете этот уровень мастерства для короткого меча, пращи, посоха-пращи и всего оружия полуросликов с которым вы обучены.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfling-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Танцующий по гальке (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1022\">Cobble Dancer</a>) / 13",
+            "name": "Танцующий по гальке",
+            "originalName": "Cobble Dancer",
+            "level": 13,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 45</p><hr class=\"docutils\"><p>Вы знаете как воспользоваться преимуществом, когда враг потерял равновесие из-за неустойчивого пола, сыпучей гальки или подобных препятствий.\nНаходясь на открытом воздухе в городской среде, вы можете <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагать (Step)</span> на сложной местности, а враги на сложной местности для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-halfling-cobble-dancer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1023\">Incredible Luck</a>) / 13",
+            "name": "Невероятная удача",
+            "originalName": "Incredible Luck",
+            "level": 13,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 45</p><hr class=\"docutils\"><p>Даже другие полурослики считают вас особенно везучим.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-luck\">Удача полурослика (Halfling Luck)  / 1</span> раз в час, а не раз в день.\nЕсли у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-guiding-luck\">Направляющая удача (Guiding Luck) / 9</span>, вы все еще можете использовать \"Удачу полурослика\" только раз в день при провале своей проверки Восприятия или броска атаки (однако можете использовать ее в тот же час, когда использовали \"Удачу полурослика\") и, если у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-shared-luck\">Общая удача (Shared Luck (Halfling)) / 5</span>, то все еще можете использовать \"Удачу полурослика\" на союзнике только раз в день.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>В конце последнего предложения имелось в виду не <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-helpful-halfling\">Полезный полурослик (Helpful Halfling) / 9</span>, а <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-shared-luck\">Общая удача (Shared Luck (Halfling)) / 5</span>.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-halfling-incredible-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опрокидывающий танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1435\">Toppling Dance</a>) / 13",
+            "name": "Опрокидывающий танец",
+            "originalName": "Toppling Dance",
+            "level": 13,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-dance-underfoot\">Танец под ногами (Dance Underfoot) / 9</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Когда вы занимаете пространство существа используя <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halfling-dance-underfoot\">Танец под ногами (Dance Underfoot) / 9</span>, ваше оружие и безоружные атаки получают признак <span class=\"w-trip\">опрокидывание</span>, но только против того существа, с которым вы делите пространство.\nВы можете быть в том же пространстве, что и лежащее <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> существо большого размера и более, даже если это не ваш союзник.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-toppling-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Своя тень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1436\">Shadow Self</a>) / 17",
+            "name": "Своя тень",
+            "originalName": "Shadow Self",
+            "level": 17,
+            "traits": [
+                "полурослик"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Скрытности</p><p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы успешно используете Скрытность, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и стать <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span> от всех своих текущих врагов, или использовали Скрытность, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> и стать <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> для всех своих текущих врагов</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 46</p><hr class=\"docutils\"><p>Обладая талантом к дезориентированию, вы ускользаете от внимания своих противников так тщательно, что кажется, будто вы где-то в другом месте.\nВы становитесь <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимы</span> на 1 минуту или пока не совершите враждебное действие, в зависимости от того, что произойдет раньше.\nВыберите место в пределах 10 футов от вас.\nПока не закончится ваша невидимость, для всех, кто пытается вас найти, кажется, что вы <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> в этом месте.\nЕсли ищущий имеет ясное доказательство того, что вы не там, он больше не думает, что вы спрятаны там, но и не узнает вашего актуального местоположения.</p>",
+            "src": "Advanced Player's Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-halfling-shadow-self",
+            "archetype": ""
+        },
+        {
+            "fullName": "Заимствованные чары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=66\">Adapted Cantrip</a>) / 1",
+            "name": "Заимствованные чары",
+            "originalName": "Adapted Cantrip",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: заклинательская особенность класса</p><hr class=\"docutils\"><p>Изучая множество магических обычаев, вы изменили заклинание в соответствии со своим стилем колдовства.\nВыберите одни чары не из вашего колдовского обычая.\nЕсли у вас есть репертуар заклинаний или книга заклинаний, замените одни из чар, которые вы знаете или храните в книге, на выбранные чары.\nЕсли вы подготавливаете заклинания без книги заклинаний (например, если вы жрец или друид), одни из ваших чар всегда должны быть выбранными для этой способности, а остальные вы подготавливаете как обычно.\nВы можете сотворять эти чары как заклинание магического обычая своего класса.</p><p>Если вы позже меняете или перетренируете эти чары, то можете выбрать замену из этого же магического обычая или из другого.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-adapted-cantrip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Коллективный характер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=67\">Cooperative Nature</a>) / 1",
+            "name": "Коллективный характер",
+            "originalName": "Cooperative Nature",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Короткая человеческая жизнь дает другие взгляды и научила вас с юных лет пренебрегать различиями и работать с другими для того, чтобы преуспевать.\nВы получаете бонус обстоятельства +4 к проверкам действия <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-cooperative-nature",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общая тренировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=68\">General Training</a>) / 1",
+            "name": "Общая тренировка",
+            "originalName": "General Training",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша адаптируемость проявляется в овладении целым рядом полезных умений.\nВы получаете общую способность 1-го уровня.\nВы должны соответствовать предварительным условиям способности, но если вы выбираете эту способность во время создания персонажа, то можете отложить ее выбор на более поздние стадии создания, чтобы определить по каким предварительным условиям вы подходите.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность много раз, каждый раз выбирая другую способность.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-general-training",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надменное высокомерие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=69\">Haughty Obstinacy</a>) / 1",
+            "name": "Надменное высокомерие",
+            "originalName": "Haughty Obstinacy",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваше сильное эго мешает другим помыкать вами.\nЕсли при броске против <span class=\"t-mental\">ментального</span> эффекта, который пытается взять ваши действия под прямое управление, вы получаете успех спасброска, то вместо этого получаете критический успех.\nЕсли существо при броске проваливает проверку <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> используя Запугивание, то вместо этого оно получает критический провал (и не может снова использовать на вас Принуждение 1 неделю).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-haughty-obstinacy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Природные амбиции (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=70\">Natural Ambition</a>) / 1",
+            "name": "Природные амбиции",
+            "originalName": "Natural Ambition",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы росли амбициозным и тянулись к звездам, что приводит вас к быстрому прогрессу в выбранной области.\nВы получаете способность своего класса 1-го уровня.\nВы должны соответствовать предварительным условиям способности, но если вы выбираете эту способность во время создания персонажа, то можете отложить ее выбор на более поздние стадии создания, чтобы определить по каким предварительным условиям вы подходите.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-natural-ambition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Природный навык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=71\">Natural Skill</a>) / 1",
+            "name": "Природный навык",
+            "originalName": "Natural Skill",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша находчивость позволяет вам изучать большое разнообразие навыков.\nВы становитесь обучены двум навыкам на свой выбор.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-natural-skill",
+            "archetype": ""
+        },
+        {
+            "fullName": "Необычное оружие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=72\">Unconventional Weaponry</a>) / 1",
+            "name": "Необычное оружие",
+            "originalName": "Unconventional Weaponry",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы знакомы с определенным оружием, возможно принадлежащим другой родословной или культуре.\nВыберите <span class=\"r-uncommon\">необычное</span> простое или воинское оружие, с признаком, соответствующим родословной (дварф, гоблин, орк, и т.п.) или распространенным в другой культуре.\nВы получаете доступ к этому оружию, а с целью определения вашего мастерства обращения с ним, это оружие считается простым оружием.</p><p>Если вы обучены обращению со всем воинским оружием, то можете выбрать <span class=\"r-uncommon\">необычное</span> продвинутое оружие с таким признаком.\nВы получаете доступ к этому оружию, а с целью определения вашего мастерства обращения с ним, это оружие считается воинским оружием.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-unconventional-weaponry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканные татуировки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=938\">Arcane Tattoos</a>) / 1",
+            "name": "Арканные татуировки",
+            "originalName": "Arcane Tattoos",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Вариссиец или национальность Новотассилонец.</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 11</p><hr class=\"docutils\"><p>У вас на теле есть татуировки относящиеся к одной из древних Тассилонских школ магии.\nВыберите одну из школ магии:</p><ul class=\"simple\">\n<li><p>преграждение - <span class=\"card-link std std-ref\" data-id=\"spell-s-shield\">Щит (Shield) / Чары 1</span></p></li>\n<li><p>воплощение - <span class=\"card-link std std-ref\" data-id=\"spell-t-tanglefoot\">Липкая лоза (Tanglefoot) / Чары 1</span></p></li>\n<li><p>очарование - <span class=\"card-link std std-ref\" data-id=\"spell-d-daze\">Ступор (Daze) / Чары 1</span></p></li>\n<li><p>эвокация - <span class=\"card-link std std-ref\" data-id=\"spell-e-electric-arc\">Электрическая дуга (Electric Arc) / Чары 1</span></p></li>\n<li><p>иллюзия - <span class=\"card-link std std-ref\" data-id=\"spell-g-ghost-sound\">Призрачный звук (Ghost Sound) / Чары 1</span></p></li>\n<li><p>некромантия - <span class=\"card-link std std-ref\" data-id=\"spell-c-chill-touch\">Ледяное прикосновение (Chill Touch) / Чары 1</span></p></li>\n<li><p>трансмутация - <span class=\"card-link std std-ref\" data-id=\"spell-s-sigil\">Сигил (Sigil) / Чары 1</span></p></li>\n</ul><p>Вы можете по желанию сотворять соответствующие чары (перечислены после школы), как врожденное арканное заклинание.</p>",
+            "src": "Lost Omens: Character Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-human-arcane-tattoos",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вежливо выкрутиться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=939\">Courteous Comeback</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Вежливо выкрутиться",
+            "originalName": "Courteous Comeback",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "удача",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: национальность Келешиец</p><p><strong>Триггер</strong>: Вы критически проваливаете проверку Дипломатии</p><p><strong>Требования</strong>: Вы в поселении или общине, и вы не использовали <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-courteous-comeback\">Вежливо выкрутиться (Courteous Comeback)  / 1</span> в этом поселении или общине в течение прошедшего месяца</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 11</p><hr class=\"docutils\"><p>Вы выросли в гордой Падишахской Империи, где даже оскорбления обладают определенным поэтическим остроумием.\nПеребросьте спровоцировавшую проверку Дипломатии, и используйте второй результат.</p>",
+            "src": "Lost Omens: Character Guide pg. 11",
+            "action": "свободное действие",
+            "id": "ancestry-feat-human-courteous-comeback",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адвокат дьявола (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=940\">Devil's Advocate</a>) / 1",
+            "name": "Адвокат дьявола",
+            "originalName": "Devil's Advocate",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: национальность Челиец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 11</p><hr class=\"docutils\"><p>Вы знаете о привычках <span class=\"t-devil\">дьяволов</span> больше, чем следовало бы.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия против дьяволов и спасбросков против их умений.\nДополнительно, всякий раз, когда вы встречаете дьявола в социальной обстановке, вы можете мгновено сделать проверку Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на это существо, вместо необходимости общаться с ним в течение 1 минуты.\nВы получаете штраф -5 к этой проверке.\nЕсли вы проваливаете, то можете начать диалог длиной в 1 минуту и попытаться сделать новую проверку по окончанию этого времени, вместо того, чтобы принимать провал или крит.провал.</p><p><strong>Особенность</strong>: Если у вас есть способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-glad-hand\">Радушный прием (Glad-Hand) / 2</span>, то вы не получаете этот штраф к вашей мгновенной проверке Дипломатии, если цель дьявол.</p>",
+            "src": "Lost Omens: Character Guide pg. 11",
+            "action": "",
+            "id": "ancestry-feat-human-devils-advocate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Драконий плевок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=941\">Dragon Spit</a>) / 1",
+            "name": "Драконий плевок",
+            "originalName": "Dragon Spit",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Тянь-Дань</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Многие Тянь-Дань утверждают, что в их жилах течет драконья кровь, и в вашем случае это правда.\nВы можете выплевывать энергию, и у вас может быть особенно заметный признак вашего драконьего наследия.\nВыберите одни из следующих чар:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-acid-splash\">Кислотный всплеск (Acid Splash) / Чары 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-e-electric-arc\">Электрическая дуга (Electric Arc) / Чары 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-p-produce-flame\">Сотворение пламени (Produce Flame) / Чары 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-r-ray-of-frost\">Морозный луч (Ray of Frost) / Чары 1</span></p></li>\n</ul><p>Вы можете по желанию сотворять это заклинание, как врожденное арканное заклинание, и когда вы его колдуете, энергия заклинания вырывается у вас изо рта.</p>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "",
+            "id": "ancestry-feat-human-dragon-spit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Видящий во мраке (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=942\">Gloomseer</a>) / 1",
+            "name": "Видящий во мраке",
+            "originalName": "Gloomseer",
+            "level": 1,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Нидалец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Мрак не таит в себе ничего страшного для вас, а завеса тьмы над Нидалом заставила вас чувствовать себя комфортно при тусклом свете.\nВы получаете сумеречное зрение.</p>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "",
+            "id": "ancestry-feat-human-gloomseer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Не подавать виду (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=943\">Keep Up Appearances</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Не подавать виду",
+            "originalName": "Keep Up Appearances",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: национальность Талданец</p><p><strong>Триггер</strong>: На вас воздействует <span class=\"t-emotion\">эмоциональный</span> эффект</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Талданская гордость означает, что вы никогда не проявляете слабости.\nКиньте проверку Обмана и сравните результат с КС Восприятия любых наблюдающих существ.\nПри успехе это существо верит, что <span class=\"t-emotion\">эмоциональный</span> эффект не подействовал на вас.\nСущество, обманутое таким образом, не может получать преимущество от этого эмоционального эффекта и не может использовать умения, для которых требуется, чтобы вы были под действием этого эмоционального эффекта;\nнапример, если вы успешно используете это умение, чтобы обмануть <span class=\"card-link \">Блуждающий огонек (Will-o'-Wisp) / Существо 6</span>, будто вы не под действием эффекта <span class=\"t-fear\">страха</span>, то он не может использовать на вас свое умение \"Питаться страхом\".</p>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "реакция",
+            "id": "ancestry-feat-human-keep-up-appearances",
+            "archetype": ""
+        },
+        {
+            "fullName": "Самопознание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=944\">Know Oneself</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Самопознание",
+            "originalName": "Know Oneself",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "удача",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Вудранец</p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы при броске критически проваливаете спасбросок против <span class=\"t-emotion\">эмоционального</span> эффекта</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Вы сосредотачиваетесь и вспоминаете монашеские идеалы Вудранцев о внимательности и самопознании.\nВместо критического провала, вы просто проваливаете спасбросок против <span class=\"t-emotion\">эмоционального</span> эффекта.</p>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "реакция",
+            "id": "ancestry-feat-human-know-oneself",
+            "archetype": ""
+        },
+        {
+            "fullName": "Связь куа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=945\">Quah Bond</a>) / 1",
+            "name": "Связь куа",
+            "originalName": "Quah Bond",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Шоантиец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Вы выросли среди племен Шоанти, где за вами наблюдают духи, и они дают вам наставления.\nВы становитесь обучены навыку указанному для вашего куа (прим.пер.: переводится как \"племя\" с их родного языка) (или другого навыка на свой выбор, если вы уже обучены этому навыку).\nВы получаете для него способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span>, так как помощь духов направляет ваши действия.</p><ul class=\"simple\">\n<li><p><strong>Шаддэ-Куа (Shadde-Quah)</strong>: Атлетика</p></li>\n<li><p><strong>Тамир-Куа (Tamiir-Quah)</strong>: Акробатика</p></li>\n<li><p><strong>Шандар-Куа (Shundar-Quah)</strong>: Дипломатия</p></li>\n<li><p><strong>Склар-Куа (Sklar-Quah)</strong>: Запугивание</p></li>\n<li><p><strong>Лайрун-Куа (Lyrune-Quah)</strong>: Религия</p></li>\n<li><p><strong>Шриикирри-Куа (Shriikirri-Quah)</strong>: Природа</p></li>\n<li><p><strong>Скон-Куа (Skoan-Quah)</strong>: Медицина</p></li>\n</ul>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "",
+            "id": "ancestry-feat-human-quah-bond",
+            "archetype": ""
+        },
+        {
+            "fullName": "Астрология Саока (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=946\">Saoc Astrology</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Астрология Саока",
+            "originalName": "Saoc Astrology",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "концентрация",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: национальность Лиргиец</p><p><strong>Частота</strong>: 3 раза в день</p><p><strong>Требования</strong>: Вы должны потратить 10 минут сразу после ваших ежедневных приготовлений изучая небо или сверяясь со звездной картой, иначе вы не можете использовать это действие в этот день.</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 12</p><hr class=\"docutils\"><p>Древние Собратья Саока были мастерами астрологии, и хотя ваши знания лишь как бледная тень их мудрости, они все же пригождаются.\nВы вспоминаете предсказания звезд о вашей текущей ситуации.\nЕсли ваше следующее действие требует совершить одну или несколько проверок навыков, бросьте 1d8.\nПри результате 6, 7 или 8 вы получаете бонус обстоятельства +2 к первой такой проверке навыка.\nПри результате 3, 4 или 5, вы получаете бонус обстоятельства +1.\nПри результате 2 вы ничего не получаете.\nПри результате 1 вы получаете штраф обстоятельства -1 к проверке навыка.</p>",
+            "src": "Lost Omens: Character Guide pg. 12",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-human-saoc-astrology",
+            "archetype": ""
+        },
+        {
+            "fullName": "Резчик тупилаков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=947\">Tupilaq Carver</a>) / 1",
+            "name": "Резчик тупилаков",
+            "originalName": "Tupilaq Carver",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: У вас есть заклинательская особенность класса, использующая сакральный или природный обычай</p><p><strong>Доступ</strong>: этнос Эрутакец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p>Вы знаете правду, скрывающуюся за старыми историями о том, как для отмщения посылают фетиш из костей и сухожилий.\nЭти старые магии позволяют вам с легкостью зачаровывать <span class=\"t-construct\">конструктов</span>.\nДобавьте <span class=\"card-link std std-ref\" data-id=\"spell-s-summon-construct\">Призыв конструкта (Summon Construct) / Закл. 1</span> в свой список заклинаний.\nКонструкты, которых вы призываете, имеют отчетливый вид резной костяной фигурки, и если вы добавляете каплю крови, локон волос, или другую часть тела существа в качестве материального компонента заклинания, то призванный конструкт получает бонус состояния +4 к проверкам Восприятия, чтобы почувствовать или обнаружить это существо.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-tupilaq-carver",
+            "archetype": ""
+        },
+        {
+            "fullName": "Щитоносец викингов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=948\">Viking Shieldbearer</a>) / 1",
+            "name": "Щитоносец викингов",
+            "originalName": "Viking Shieldbearer",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Улфэн</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p>Вы тренировались с щитами и оружием, как только стали достаточно взрослым, чтобы держать их в руках, стремясь завоевать себе честь и славу.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> и на свой выбор обучены в обращении с боевым топором или длинным мечом.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-viking-shieldbearer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Борец с ведьмами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=949\">Witch Warden</a>) / 1",
+            "name": "Борец с ведьмами",
+            "originalName": "Witch Warden",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "человек"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Келлидец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p>Вы и ваша семья долго и упорно сражались против ведьм, особенно зимних ведьм Иррисена, и вы научились остерегаться их проклятий и потусторонних сил, дарованных их покровителями.\nВы получаете бонус обстоятельства +1 к спасброскам от <span class=\"t-curse\">проклятий</span>, и к спасброскам против заклинаний сотворяемых <span class=\"t-witch\">ведьмой</span> или <span class=\"t-hag\">каргой</span>.\nЕсли при броске спасброска, против <span class=\"t-curse\">проклятия</span> или заклинания сотворяемого <span class=\"t-witch\">ведьмой</span> или <span class=\"t-hag\">каргой</span> вы получаете успех, то вместо этого вы получаете крит.успех.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-witch-warden",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знаток заимствования (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=73\">Adaptive Adept</a>) / 5",
+            "name": "Знаток заимствования",
+            "originalName": "Adaptive Adept",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-adapted-cantrip\">Заимствованные чары (Adapted Cantrip) / 1</span>, можете сотворять заклинания 3-го уровня</p><hr class=\"docutils\"><p>Вы продолжили адаптировать свою магию, чтобы смешать обычай вашего класса с заимствованным.\nВыберите чары или заклинание 1-го уровня из того же магического обычая, что и чары из способности <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-adapted-cantrip\">Заимствованные чары (Adapted Cantrip) / 1</span>.\nВы получаете это заклинание, добавляя его в свой репертуар заклинаний, книгу заклинаний, или подготавливаемые заклинания, так же как и чары от способности \"Заимствованные чары\".\nВы можете сотворять это заклинание, как заклинание магического обычая вашего класса.\nЕсли вы выбираете заклинание 1-го уровня, то не получаете доступ к его усиленным версиям, а значит не можете подготовить его, если вы подготавливаете заклинания, и не можете выучить его либо, если у вас имеется репертуар заклинаний, то не можете выбирать его коронным заклинанием.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-adaptive-adept",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смышленый импровизатор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=74\">Clever Improviser</a>) / 5",
+            "name": "Смышленый импровизатор",
+            "originalName": "Clever Improviser",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились справляться с ситуациями которые вам не по зубам.\nВы получаете общую способность <span class=\"card-link std std-ref\" data-id=\"feat-untrained-improvisation\">Импровизация без тренировки (Untrained Improvisation) / 3</span>.\nЕще вы можете использовать действия навыков, для которых обычно требуется быть обученным навыку, даже если вы нетренированы.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-clever-improviser",
+            "archetype": ""
+        },
+        {
+            "fullName": "Видящий во тьме (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=950\">Darkseer</a>) / 5",
+            "name": "Видящий во тьме",
+            "originalName": "Darkseer",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-gloomseer\">Видящий во мраке (Gloomseer) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p><span class=\"card-link \">Зон-Кутон (Zon-Kuthon)</span> улыбается вам, даже если вы проклинаете его имя, даруя вам черные как смоль глаза, которые позволяют видеть в тенях и тьме.\nВы получаете ночное зрение.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-darkseer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Витиеватая татуировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=951\">Ornate Tattoo</a>) / 5",
+            "name": "Витиеватая татуировка",
+            "originalName": "Ornate Tattoo",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-arcane-tattoos\">Арканные татуировки (Arcane Tattoos) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p>Вы дополняете свои татуировки, чтобы охватить больше магии.\nВыберите арканное заклинание 1-го уровня из той же школы, что и ваши <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-arcane-tattoos\">Арканные татуировки (Arcane Tattoos) / 1</span> из числа обычных заклинаний, либо других к которым у вас есть доступ.\nВы можете сотворять это заклинание раз в день, как врожденное арканное заклинание.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-ornate-tattoo",
+            "archetype": ""
+        },
+        {
+            "fullName": "Благословленный волнами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=952\">Wavetouched Paragon</a>) / 5",
+            "name": "Благословленный волнами",
+            "originalName": "Wavetouched Paragon",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Бонуватец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 13</p><hr class=\"docutils\"><p>Вы были благословлены морем, что дает вам умение плавать как рыба.\nВы получаете Скорость плавания 15 футов.</p><p><strong>Особенность</strong>: Если ваша предыстория - <span class=\"card-link std std-ref\" data-id=\"bg-bonuwat-wavetouched\">Благословленный волнами бонуватец (Bonuwat Wavetouched) / Предыстория</span>, то вы можете взять эту способность на 1-м уровне вместо 5-го.</p>",
+            "src": "Lost Omens: Character Guide pg. 13",
+            "action": "",
+            "id": "ancestry-feat-human-wavetouched-paragon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ощущение союзников (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1437\">Sense Allies</a>) / 5",
+            "name": "Ощущение союзников",
+            "originalName": "Sense Allies",
+            "level": 5,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Как и многие люди, выросшие в тесном сообществе, вы всегда были привычны к присутствию других.\nГотовые союзники в пределах 60 футов, о которых вы знаете, которые в противном случае были бы <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> вами, вместо этого лишь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятаны</span> для вас.\nЧтобы выбрать целью готового союзника в пределах 60 футов, для вас чистая проверка становится КС 5 вместо КС 11.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-human-sense-allies",
+            "archetype": ""
+        },
+        {
+            "fullName": "Душа компании (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=75\">Cooperative Soul</a>) / 9",
+            "name": "Душа компании",
+            "originalName": "Cooperative Soul",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-cooperative-nature\">Коллективный характер (Cooperative Nature) / 1</span></p><hr class=\"docutils\"><p>Вы развили глубокую душевную связь со своими товарищами и еще лучше сотрудничаете с ними.\nЕсли вы, хотя бы, эксперт навыка для которого вы используете <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, то получаете успех при любом результате броска Помощи, кроме критического успеха (критический успех останется критическим успехом).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-cooperative-soul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная импровизация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=76\">Incredible Improvisation</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Невероятная импровизация",
+            "originalName": "Incredible Improvisation",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-clever-improviser\">Смышленый импровизатор (Clever Improviser) / 5</span></p><p><strong>Частота</strong>: Раз в день</p><p><strong>Триггер</strong>: Вы делаете проверку, используя навык которому нетренированы</p><hr class=\"docutils\"><p>Блестящая идея дает вам значительное преимущество в навыке, несмотря на неопытность.\nВы получаете бонус обстоятельства +4 для спровоцированной проверки навыка.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "ancestry-feat-human-incredible-improvisation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Многогранный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=77\">Multitalented</a>) / 9",
+            "name": "Многогранный",
+            "originalName": "Multitalented",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились с легкостью сосредотачиваться на нескольких классах.\nВы получаете <span class=\"card-link \">мультиклассовую способность посвящения</span> 2-го уровня (больше подробностей про архетипы смотрите в разделе <span class=\"card-link \">Архетипы (Archetypes)</span>), даже если вы не можете сейчас брать другую способность посвящения, пока не возьмете больше способностей вашего текущего архетипа.</p><p>Если вы <span class=\"t-half-elf\">полуэльф</span>, то вам не надо соответствовать предварительным условиям способности по очкам характеристик.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-multitalented",
+            "archetype": ""
+        },
+        {
+            "fullName": "Драконий принц (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=953\">Dragon Prince</a>) / 9",
+            "name": "Драконий принц",
+            "originalName": "Dragon Prince",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-dragon-spit\">Драконий плевок (Dragon Spit) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>Кровь \"Королей драконов\" течет в ваших венах.\nВаше драконье наследие хорошо видно, по волосам, которые почти полностью багровые, лазурные и т.п, и которые блестят, как чешуя дракона.\nВы можете раз в день сотворять чародейское заклинание наследия крови <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-breath\">Драконье дыхание (Dragon Breath) / Фокус. 3</span>, как врожденное арканное заклинание, но можете использовать только то драконье дыхание, которое связано с вашим наследием и соответствует виду энергии у способности <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-dragon-spit\">Драконий плевок (Dragon Spit) / 1</span>.\nНа 12-м уровне и каждые 3 уровня после этого, заклинание усиливается на 1 дополнительный уровень.</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-dragon-prince",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наследник Саока (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=954\">Heir of the Saoc</a>) / 9",
+            "name": "Наследник Саока",
+            "originalName": "Heir of the Saoc",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-saoc-astrology\">Астрология Саока (Saoc Astrology)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>В прошлом вы были бы гордым посвященным Собратом Саока.\nСегодня же, вы продолжаете их наследие.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-saoc-astrology\">Астрология Саока (Saoc Astrology)  / 1</span> бросьте 1d4 (вместо 1d8); при 1 вы получаете штраф -1 к проверке навыка.\nПри других результатах, вы получаете бонус обстоятельства равный этому значению (например, бонус обстоятельства +3 при 3 на кости).</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-heir-of-the-saoc",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аэромант Шори (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=955\">Shory Aeromancer</a>) / 9",
+            "name": "Аэромант Шори",
+            "originalName": "Shory Aeromancer",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Гарундиец, Маушиец или Тянь-Йэ</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>Ваши предки были родом из летающих городов Шори, и сквозь века до вас дошли несколько простых трюков.\nВы можете раз в день сотворять на себя <span class=\"card-link std std-ref\" data-id=\"spell-f-fly\">Полет (Fly) / Закл. 4</span>, как врожденное арканное заклинание 4-го уровня.</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-shory-aeromancer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Действенные татуировки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=956\">Virtue-Forged Tattoos</a>) / 9",
+            "name": "Действенные татуировки",
+            "originalName": "Virtue-Forged Tattoos",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-ornate-tattoo\">Витиеватая татуировка (Ornate Tattoo) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>Ваши татуировки - работа сверхъестественного гения, шедевр искусства и магии выполненный на коже.\nВыберите арканное заклинание 3-го уровня из той же школы, что и <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-arcane-tattoos\">Арканные татуировки (Arcane Tattoos) / 1</span> из числа обычных заклинаний, либо других к которым у вас есть доступ, включая низкоуровневые заклинания, усиленные до 3-го уровня, если хотите.\nВы можете один раз в день сотворять это заклинание, как врожденное арканное заклинание.</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-virtue-forged-tattoos",
+            "archetype": ""
+        },
+        {
+            "fullName": "Групповая помощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1438\">Group Aid</a>) / 9",
+            "name": "Групповая помощь",
+            "originalName": "Group Aid",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Ваше воспитание подчеркивало командную работу, и для вас естественна помощь своим союзникам.\nПосле того, как вы <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помогли (Aid)</span> союзнику с проверкой навыка, которая не имеет признака <span class=\"t-attack\">атака</span>, то вы так же можете <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помочь (Aid)</span> любому другому союзнику, который в этом раунде совершает проверку того же навыка с тем же намерением.\nВы делаете это свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">), а не реакцией.</p><p>Приготовление, которое вы совершили для помощи, должно все еще применяться к другим союзникам и вы можете Помочь каждому союзнику только один раз.\nНапример, если вы помогли подсадить союзника, чтобы Помочь ему с проверкой Атлетики при подъеме на стену, вы можете сохранить то же положение, чтобы ускорить других союзников, пытающихся взобраться на стену в том же раунде.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "свободное действие",
+            "id": "ancestry-feat-human-group-aid",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выносливый путешественник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1439\">Hardy Traveler</a>) / 9",
+            "name": "Выносливый путешественник",
+            "originalName": "Hardy Traveler",
+            "level": 9,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Не бывает слишком дальнего путешествия или слишком тяжелой ноши, когда ваши друзья рядом.\nУвеличьте ваш лимит максимальной массы и лимит перегруженности на 1 Массу.\nДополнительно, вы получаете бонус обстоятельства +10 футов Скорости к наземному путешествию.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-human-hardy-traveler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Необычная опытность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=78\">Unconventional Expertise</a>) / 13",
+            "name": "Необычная опытность",
+            "originalName": "Unconventional Expertise",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-unconventional-weaponry\">Необычное оружие (Unconventional Weaponry) / 1</span>, обучен обращению с оружием выбранным для \"Необычного оружия\"</p><hr class=\"docutils\"><p>Вы продолжаете совершенствоваться в использовании необычного оружия.\nКогда вы получаете особенность класса, которая дает вам мастерство эксперта или выше, в обращении с определенным оружием, вы также получаете это мастерство для оружия, которое выбрали для <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-unconventional-weaponry\">Необычное оружие (Unconventional Weaponry) / 1</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-human-unconventional-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ледяная ведьма Иррисена (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=957\">Irriseni Ice-Witch</a>) / 13",
+            "name": "Ледяная ведьма Иррисена",
+            "originalName": "Irriseni Ice-Witch",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Ядвига, наследие <span class=\"card-link \">Зимостойкий (Wintertouched Human)</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>Вы можете проследить свое прямое происхождение от одной из Цариц Иррисена и, следовательно, от самой Бабы-Яги.\nВаше сопротивление холоду увеличивается до 5 + половина вашего уровня, и вы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-w-wall-of-ice\">Стена льда (Wall of Ice) / Закл. 5</span> как врожденное арканное заклинание 5-го уровня.</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-irriseni-ice-witch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Теневой пакт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=958\">Shadow Pact</a>) / 13",
+            "name": "Теневой пакт",
+            "originalName": "Shadow Pact",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Нидалец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 14</p><hr class=\"docutils\"><p>Тысячи лет назад ваши предки заключили договор с Зон-Кутоном.\nОн не забыт, даже если бы вам этого очень хотелось.\nВы можете получить 1 урона, чтобы смешать кровь и тени, для сотворения <span class=\"card-link std std-ref\" data-id=\"spell-c-creation\">Созидание (Creation) / Закл. 4</span> как врожденное сакральное заклинание 5-го уровня.\nВы можете использовать это умение так часто как хотите, но одновременно вы можете иметь только один такой объект.\nЕсли объект сталкивается с ярким светом, то заклинание заканчивается и объект распадается на тени.</p>",
+            "src": "Lost Omens: Character Guide pg. 14",
+            "action": "",
+            "id": "ancestry-feat-human-shadow-pact",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воздушный акробат Шори (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=959\">Shory Aerialist</a>) / 13",
+            "name": "Воздушный акробат Шори",
+            "originalName": "Shory Aerialist",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Гарундиец, Маушиец или Тянь-Йэ; <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-human-shory-aeromancer\">Аэромант Шори (Shory Aeromancer) / 9</span> или умение сотворять <span class=\"card-link std std-ref\" data-id=\"spell-f-fly\">Полет (Fly) / Закл. 4</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 15</p><hr class=\"docutils\"><p>Уникальный в истории Голариона, народ Шори, разработал боевые стили, посвященные сражению в воздухе.\nВы получаете бонус обстоятельства +2 к проверкам Акробатики для <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-maneuver-in-flight\">Маневрирование в полете (Maneuver in Flight) </span> и бонус состояния +5 футов к вашей Скорости полета когда вы летаете благодаря магии.</p>",
+            "src": "Lost Omens: Character Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-human-shory-aerialist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Продвинутая общая тренировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1440\">Advanced General Training</a>) / 13",
+            "name": "Продвинутая общая тренировка",
+            "originalName": "Advanced General Training",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>В ходе приключений ваша адаптация позволила вам приобрести множество полезных способностей.\nВы получаете общую способность 7-го уровня или ниже.\nВы должны соответствовать предварительным условиям способности.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз, каждый раз выбирая разную способность.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-human-advanced-general-training",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прийти в норму (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1441\">Bounce Back</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Прийти в норму",
+            "originalName": "Bounce Back",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы потеряли состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Вы оправляетесь от почти смертельного опыта с поразительной стойкостью.\nНе увеличивайте значение вашего состояния <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> из-за потери состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "свободное действие",
+            "id": "ancestry-feat-human-bounce-back",
+            "archetype": ""
+        },
+        {
+            "fullName": "Упрямая настойчивость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1442\">Stubborn Persistence</a>) / 13",
+            "name": "Упрямая настойчивость",
+            "originalName": "Stubborn Persistence",
+            "level": 13,
+            "traits": [
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Люди славятся своей способностью выдерживать самые изнурительные испытания.\nКогда вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомление</span>, сделайте чистую проверку с КС 17.\nПри успехе вы не получаете <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомление</span>.\nЕсли состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомление</span> имеет в своей основе причину, которую вы не устраняете, такую как недостаток отдыха, то вы должны снова сделать проверку с интервалом определенным Мастером, пока не провалите ее или устраните базовую причину.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-human-stubborn-persistence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Героическое присутствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1443\">Heroic Presence</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Героическое присутствие",
+            "originalName": "Heroic Presence",
+            "level": 17,
+            "traits": [
+                "эмоция",
+                "ментальный",
+                "человек"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Кровь героев течет по вашим венам, и вы вдохновляете своих союзников продолжать и находить в себе решимость.\nВы даете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-z-zealous-conviction\">Фанатичная убежденность (Zealous Conviction) / Закл. 6</span> 6-го уровня, вплоть до 10 готовым союзным существам в пределах 30 футов, однако этот эффект автоматически заканчивается на цели, если вы дадите ей команду, которую они обычно считаются противоречивой.\nЭто действие обладает признаком <span class=\"t-auditory\">слуховой</span> или <span class=\"t-visual\">визуальный</span>, в зависимости от того, как вы вдохновляете своих союзников.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-human-heroic-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийский атавизм (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=79\">Elf Atavism</a>) / 1",
+            "name": "Эльфийский атавизм",
+            "originalName": "Elf Atavism",
+            "level": 1,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша эльфийская кровь в особенности сильна, давая вам более эльфийские черты нежели у обычных полуэльфов.\nВозможно, вы также выросли среди эльфов, впитав в себя наследие ваших эльфийских предков.\nВы получаете преимущества <span class=\"card-link \">эльфийского наследия</span> от своего эльфийского родителя или предков.\nКак правило, вы не можете выбрать наследие, которое зависит от эльфийской особенности (или улучшает ее) которой у вас нет.\nНапример, вы не можете получить ночное зрение пещерного эльфа, если у вас не было сумеречного зрения.\nВ этом случае, на усмотрение Мастера вы можете получить другое преимущество.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfelf-elf-atavism",
+            "archetype": ""
+        },
+        {
+            "fullName": "Круглые уши (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=960\">Round Ears</a>) / 1",
+            "name": "Круглые уши",
+            "originalName": "Round Ears",
+            "level": 1,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 15</p><hr class=\"docutils\"><p>Ваша эльфийская родословная едва уловима, чтобы вы едва ли отличаетесь от других людей, и вы научился использовать это в своих интересах.\nВы становитесь обучены Обману (или другому навыку на свой выбор, если вы уже были обучены Обману).\nВы получаете бонус обстоятельства +4 к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> притворяясь, что вы не полуэльф.\nНаблюдатели никогда не получают бонусы обстоятельств для проверок Восприятия из-за того, что вы выдаете себя за полнокровного человека, и вы никогда не получаете штрафы обстоятельств из-за того, что выдаете себя за полнокровного человека.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Character Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-halfelf-round-ears",
+            "archetype": ""
+        },
+        {
+            "fullName": "Компанейский (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=961\">Sociable</a>) / 1",
+            "name": "Компанейский",
+            "originalName": "Sociable",
+            "level": 1,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 15</p><hr class=\"docutils\"><p>Вы чрезвычайно экстравертны и часто проводите свое время кутя или социализируясь иным образом.\nВы обучены Дипломатии (или другому навыку на свой выбор, если вы уже были обучены Дипломатии) и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-hobnobber\">Общительный (Hobnobber) / 1</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-halfelf-sociable",
+            "archetype": ""
+        },
+        {
+            "fullName": "Заработанная слава (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1444\">Earned Glory</a>) / 1",
+            "name": "Заработанная слава",
+            "originalName": "Earned Glory",
+            "level": 1,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>Эльфы часто скептически относятся к своим полуэльфийским сородичам, а вы умеете рассказывать истории о своих достижениях, чтобы завоевывать их уважение.\nВы становитесь обучены Выступлению.\nЕсли вы будете автоматически обучены Выступлению (например, из-за вашей предыстории или класса), то вместо этого вы обучаетесь навыку на свой выбор.</p><p>Вы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-impressive-performance\">Впечатляющее выступление (Impressive Performance) / 1</span>.\nКогда вы совершаете проверку Выступления, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на эльфа, то если при броске получаете крит.провал, то вместо этого он становится просто провалом.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-halfelf-earned-glory",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вдохновляющее подражание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=80\">Inspire Imitation</a>) / 5",
+            "name": "Вдохновляющее подражание",
+            "originalName": "Inspire Imitation",
+            "level": 5,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши действия вдохновляют ваших союзников на великие достижения.\nВсякий раз, когда вы получаете критический успех в проверке навыка, то вы автоматически допускаетесь к использованию реакции <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, чтобы помочь союзнику, использующему тот же навык, даже не тратя действие на подготовку к этому.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfelf-inspire-imitation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сверхъестественное обаяние (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=81\">Supernatural Charm</a>) / 5",
+            "name": "Сверхъестественное обаяние",
+            "originalName": "Supernatural Charm",
+            "level": 5,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Эльфийская магия в вашей крови проявляется как сила, которую вы можете использовать, чтобы становиться более привлекательным или соблазнительным.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span> как врожденное арканное заклинание 1-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halfelf-supernatural-charm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Щепотка времени (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1445\">Pinch Time</a>) / 9",
+            "name": "Щепотка времени",
+            "originalName": "Pinch Time",
+            "level": 9,
+            "traits": [
+                "полуэльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 47</p><hr class=\"docutils\"><p>У одного из ваших родителей человеческая продолжительность жизни, у другого эльфийская, а у вас где-то посередине.\nВ результате у вас появляется необычный взгляд на время, который вы научились проявлять, чтобы помочь себе в стрессовые моменты.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span> как врожденное арканное заклинание 3-го уровня, однако вы можете выбрать целью только себя.\nВы можете сотворять это заклинание раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-halfelf-pinch-time",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чудовищный миротворец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=82\">Monstrous Peacemaker</a>) / 1",
+            "name": "Чудовищный миротворец",
+            "originalName": "Monstrous Peacemaker",
+            "level": 1,
+            "traits": [
+                "полуорк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша двойная человеческая и орочья природа дала вам уникальную перспективу на мир, позволяя вам преодолеть разрыв между людьми и многими разумными существами, которых люди считают монстрами.\nВы получаете бонус обстоятельства +1 к проверкам Дипломатии против негуманоидных разумных существ и против гуманоидных которые вытеснены человеческих обществом (на усмотрение Мастера, но обычно это по меньшей мере включает <span class=\"t-giant\">гигантов</span>, <span class=\"t-goblin\">гоблинов</span>, <span class=\"t-kobold\">кобольдов</span>, и <span class=\"t-orc\">орков</span>).\nЕще вы получаете этот бонус к проверкам Восприятия для действия <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span> такого существа.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-monstrous-peacemaker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Орочья свирепость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=83\">Orc Ferocity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Орочья свирепость",
+            "originalName": "Orc Ferocity",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Ваши ОЗ были бы снижены до 0, но вы не убиты сразу</p><hr class=\"docutils\"><p>Ярость битвы течет в вашей крови, и вы отказываетесь падать из-за ранений.\nВы избегаете нокаута и остаетесь с 1 ОЗ, а ваше состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span> увеличивается на 1.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "ancestry-feat-halforc-orc-ferocity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Орочье зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=84\">Orc Sight</a>) / 1",
+            "name": "Орочье зрение",
+            "originalName": "Orc Sight",
+            "level": 1,
+            "traits": [
+                "полуорк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><hr class=\"docutils\"><p>Ваша орочья кровь достаточно сильна, чтобы дать вам острое зрение ваших предков.\nВы получаете ночное зрение, которое позволяет вам видеть во тьме и при тусклом свете так же хорошо как и при ярком.\nОднако ночным зрением вы видите только в черно-белом.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-orc-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Орочье суеверие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=85\">Orc Superstition</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Орочье суеверие",
+            "originalName": "Orc Superstition",
+            "level": 1,
+            "traits": [
+                "концентрация",
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы совершаете спасбросок против заклинания или магического эффекта, но еще не сделали бросок</p><hr class=\"docutils\"><p>Вы защищаете себя от магии, полагаясь на приемы орочьих народных суеверий.\nВы получаете бонус обстоятельства +1 к спасброскам против спровоцировавшего заклинания или магического эффекта.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "ancestry-feat-halforc-orc-superstition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с орочьим оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=86\">Orc Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с орочьим оружием",
+            "originalName": "Orc Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>В бою вы предпочитаете жестокое оружие, традиционное для ваших орочьих предков.\nВы обучены владению фальшионом и двуручным топором.\nВдобавок, вы получаете доступ ко всему необычному орочьему оружию.</p><p>С целью определения вашего уровня мастерства, воинское орочье оружие считается простым, а продвинутое орочье оружие считается воинским.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Перефразировано последнее предложение, уточняя, что речь идет о используемом уровне мастерства, и вид оружия не становится вдруг другой категории.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-orc-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неприметный лидер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=962\">Overlooked Mastermind</a>) / 1",
+            "name": "Неприметный лидер",
+            "originalName": "Overlooked Mastermind",
+            "level": 1,
+            "traits": [
+                "полуорк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 15</p><hr class=\"docutils\"><p>Многие считают полуорков не более, чем тупыми громилами.\nДля вас это оскорбительно, но иногда может быть полезно.\nВы становитесь обучены Обману (или другому навыку на свой выбор, если вы уже были обучены Обману) и получаете бонус обстоятельства +2 к проверкам Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span>, когда притворяетесь невеждой, и к КС Обмана против <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span> для раскрытия такой лжи.</p>",
+            "src": "Lost Omens: Character Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-halforc-overlooked-mastermind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=963\">Tusks</a>) / 1",
+            "name": "Клыки",
+            "originalName": "Tusks",
+            "level": 1,
+            "traits": [
+                "полуорк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 15</p><p><strong>Заметка</strong>: Смотрите более актуальный вариант этой способности из APG - <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-orc-tusks\">Клыки (Tusks) / 1</span></p><hr class=\"docutils\"><p>У большинства полуорков есть заметные клыки, но ваши особенно большие и острые, способные оставлять глубокие раны.\nВы получаете безоружную атаку челюстями, которая наносит 1d6 колющего урона.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Character Guide pg. 15",
+            "action": "",
+            "id": "ancestry-feat-halforc-tusks",
+            "archetype": ""
+        },
+        {
+            "fullName": "Резня орочьим оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=87\">Orc Weapon Carnage</a>) / 5",
+            "name": "Резня орочьим оружием",
+            "originalName": "Orc Weapon Carnage",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-weapon-familiarity\">Знакомство с орочьим оружием (Orc Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы жесточайшим образом эффективны с оружием своих орочьих предков.\nКогда вы критически попадаете используя фальшион, двуручный топор, или орочье оружие, вы применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-orc-weapon-carnage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Победоносная сила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=88\">Victorious Vigor</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Победоносная сила",
+            "originalName": "Victorious Vigor",
+            "level": 5,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы снизили ОЗ врага до 0</p><hr class=\"docutils\"><p>Ваши победы в битве наполняют вас гордостью и силой, чтобы сражаться еще дольше, несмотря на свои раны.\nВы до конца своего следующего хода получаете временные Очки Здоровья, равные вашему модификатору Телосложения.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "ancestry-feat-halforc-victorious-vigor",
+            "archetype": ""
+        }
+    ]
+}

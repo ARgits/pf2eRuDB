@@ -1,0 +1,1520 @@
+{
+    "feats": [
+        {
+            "fullName": "Эксперт оружия гриппли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2830\">Grippli Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия гриппли",
+            "originalName": "Grippli Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "гриппли"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-grippli-weapon-familiarity\">Знакомство с оружием гриппли (Grippli Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 121</p><hr class=\"docutils\"><p>Вы без особых усилий сражаетесь с оружием гриппли.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-grippli-weapon-familiarity\">Знакомство с оружием гриппли (Grippli Weapon Familiarity) / 1</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 121",
+            "action": "",
+            "id": "ancestry-feat-grippli-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания анади (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2762\">Anadi Lore</a>) / 1",
+            "name": "Знания анади",
+            "originalName": "Anadi Lore",
+            "level": 1,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Вы узнали, как обеспечить свое сообщество, будь то с трудом заработанные средства к существованию или полезные ремесла.\nВы становитесь обучены Ремеслу и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям анади.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Успокаивающее присутствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2763\">Reassuring Presence</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Успокаивающее присутствие",
+            "originalName": "Reassuring Presence",
+            "level": 1,
+            "traits": [
+                "анади",
+                "слуховой",
+                "визуальный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник в пределах 30 футов получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Вы служите опорой для своих близких товарищей, успокаивая их во время стресса.\nСнизьте у спровоцировавшего союзника значение состояния <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 1.\nПосле этого союзник иммунен к вашему \"Успокаивающему присутствию\" на 1 час.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "реакция",
+            "id": "ancestry-feat-anadi-reassuring-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паучий разговор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2764\">Skittertalk</a>) / 1",
+            "name": "Паучий разговор",
+            "originalName": "Skittertalk",
+            "level": 1,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Вы можете задавать вопросы, получать ответы и использовать навык Дипломатия с пауками и другими паукообразными.\nМастер решает какие существа применимы для этого умения.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-skittertalk",
+            "archetype": ""
+        },
+        {
+            "fullName": "Усердная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2765\">Studious Magic</a>) / 1",
+            "name": "Усердная магия",
+            "originalName": "Studious Magic",
+            "level": 1,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Вы заинтересовались арканными традициями анади.\nВыберите 1 чары из арканного списка заклинаний.\nВы можете по желанию сотворять его как врожденное арканное заклинание.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-studious-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гуляющий в паутине (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2766\">Web Walker</a>) / 1",
+            "name": "Гуляющий в паутине",
+            "originalName": "Web Walker",
+            "level": 1,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>У вас большой опыт ориентирования в паутине.\nВы получаете бонус обстоятельства +2 к спасброскам и КБ против заклинания <span class=\"card-link std std-ref\" data-id=\"spell-w-web\">Паутина (Web) / Закл. 2</span>, естественной паутины и эффектов, которые хватают вас в паутину, а также бонус обстоятельства +1 против других эффектов, которые ловят и опутывают вас, как например, заклинание <span class=\"card-link std std-ref\" data-id=\"spell-e-entangle\">Опутывание (Entangle) / Закл. 2</span>.\nКаждый раз, когда при броске спасброска против эффекта связанного с паутиной вы получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-web-walker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паутинный ткач (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2767\">Web Weaver</a>) / 1",
+            "name": "Паутинный ткач",
+            "originalName": "Web Weaver",
+            "level": 1,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Вы можете производить полезные предметы из мягкого шелка.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-specialty-crafting\">Специализация в ремесле (Specialty Crafting) / 1</span> для ткачества.\nВы можете использовать свою паутину, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> простые, нерасходуемые предметы из нитей или волокон, как например одежду и веревку, без затрат по стоимости, если их базовая Цена 1 см или менее.\nЭти предметы не имеют ценности для перепродажи и естественным образом портятся через 24 часа, без регулярного обслуживания (незначительного).\nВы можете одновременно поддерживать вплоть до 10 таких предметов; если вы создаете новый, то ваше самое старое творение распадается.\nДля Создания этих временных предметов нужен лишь 1 день, вместо 4.\nЕсли вы эксперт Ремесла, то можете Создавать эти предметы за 1 час;\nесли вы мастер, то можете Создавать их за 10 минут;\nесли вы легенда, то можете Создавать их за 1 минуту.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-web-weaver",
+            "archetype": ""
+        },
+        {
+            "fullName": "Форма друга (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2768\">Friendform</a>) / 5",
+            "name": "Форма друга",
+            "originalName": "Friendform",
+            "level": 5,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 104</p><hr class=\"docutils\"><p>Общая связь между вами и вашими союзниками позволяет вам действовать от их имени.\nВо время ваших ежедневных приготовлений вы можете провести простой ритуал с вплоть до 5 готовыми гуманоидами маленького или среднего размера, при котором участники обмениваются небольшими символами личной значимости.\nПока вы держите символ участника, то можете принимать их форму с помощью своего умения <span class=\"card-link \">Изменение формы (Change Shape) </span>, получая бонус состояния +4 к проверкам Обмана, чтобы выдать себя за эту личность, и добавляя к проверке ваш уровень, даже если вы необучены.\nВы теряете доступ к форме участника, если у него нет вашего символа или, если вы снова выполняете ритуал.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 104",
+            "action": "",
+            "id": "ancestry-feat-anadi-friendform",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клыки охотника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2769\">Hunter's Fangs</a>) / 5",
+            "name": "Клыки охотника",
+            "originalName": "Hunter's Fangs",
+            "level": 5,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Ваши клыки особенно болезненны.\nКогда вы критически попадаете своей безоружной атакой клыками, то применяете эффект критической специализации этой атаки.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-hunters-fangs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гибридная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2770\">Hybrid Shape</a>) / 5",
+            "name": "Гибридная форма",
+            "originalName": "Hybrid Shape",
+            "level": 5,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Ваше мастерство смены форм позволяет вам сочетать лучшие черты ваших гуманоидной и паучьей формы.\nИспользуя свое умение <span class=\"card-link \">Изменение формы (Change Shape) </span>, вы можете принять двуногую гибридную форму.\nЭта форма приобретает все преимущества вашей формы паука, а также возможность использовать предметы и выполнять <span class=\"t-manipulate\">воздействующие</span> действия так же легко, как и в вашей человеческой форме.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-hybrid-shape",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дезориентирующий яд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2771\">Disorienting Venom</a>) / 9",
+            "name": "Дезориентирующий яд",
+            "originalName": "Disorienting Venom",
+            "level": 9,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Ядовитый (Venomous Anadi)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Введенный вами яд дезориентирует врагов.\nСущество, получившее урон вашим ядом анади должно совершить успешный спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше, иначе станет <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуто врасплох</span> на 1 раунд.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-disorienting-venom",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паутинный странник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2772\">Strand Strider</a>) / 9",
+            "name": "Паутинный странник",
+            "originalName": "Strand Strider",
+            "level": 9,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Ваши восемь ног хорошо служат вам при лазании по стенам и паутине.\nВ паучьей форме вы получаете Скорость карабканья 25 футов.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-strand-strider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Усердный адепт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2773\">Studious Adept</a>) / 9",
+            "name": "Усердный адепт",
+            "originalName": "Studious Adept",
+            "level": 9,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-anadi-studious-magic\">Усердная магия (Studious Magic) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Вы достигаете прорыва в своем исследовании магии.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-studious-adept",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паутинный охотник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2774\">Web Hunter</a>) / 9",
+            "name": "Паутинный охотник",
+            "originalName": "Web Hunter",
+            "level": 9,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Благодаря тщательному выращиванию высокочувствительных волосков, вы развили умение чувствовать существ, не видя их.\nВы получаете неточное чувство виброчувствительность с дистанцией 15 футов.\nКогда вы и существо касаетесь одного и того же закрепленного нитевидного объекта (такого как веревка, паутина или проволока), ваше неточная виброчувствительность может ощущать это существо на расстоянии 60 футов.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "",
+            "id": "ancestry-feat-anadi-web-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паутиньщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2775\">Webslinger</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Паутиньщик",
+            "originalName": "Webslinger",
+            "level": 13,
+            "traits": [
+                "анади"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 105</p><hr class=\"docutils\"><p>Ваше естественное умение делать шелковые паутины сочетается с вашими магическими силами, позволяя вам часто создавать невероятно большие паутины.\nЭто имеет эффект заклинания <span class=\"card-link std std-ref\" data-id=\"spell-w-web\">Паутина (Web) / Закл. 2</span> 2-го уровня, использующего ваш КС класса или КС заклинания, в зависимости от того, что больше.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 105",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-anadi-webslinger",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония защиты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2776\">Ceremony of Protection</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Церемония защиты",
+            "originalName": "Ceremony of Protection",
+            "level": 1,
+            "traits": [
+                "воздействие",
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы управляете своим экзоскелетом, чтобы прикрыть себя.\nВы получаете бонус обстоятельства +1 к КБ до начала своего следующего хода.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-conrasu-ceremony-of-protection",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония выровненной руки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2777\">Ceremony of the Evened Hand</a>) / 1",
+            "name": "Церемония выровненной руки",
+            "originalName": "Ceremony of the Evened Hand",
+            "level": 1,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы развили форму своего экзоскелета для ближнего боя, используя сучки, завитки и усиленные ветви.\nПри выборе этой способности вы получаете либо безоружную атаку когтями, наносящую 1d4 рубящего урона и признаки <span class=\"w-finesse\">точное</span> и <span class=\"w-agile\">быстрое</span>, либо безоружную атаку ветвью, наносящую 1d6 дробящего урона и признак <span class=\"w-backswing\">обратный замах</span>.\nКаждая из этих безоружных атак относится к группе \"драка\" и использует одну из ваших рук.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность дважды, второй раз выбирая другую безоружную атаку.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-the-evened-hand",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием конрасов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2778\">Conrasu Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием конрасов",
+            "originalName": "Conrasu Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы взяли на себя обязательство изучить способы ведения боя, чтобы помочь в выполнении ваших задач, возможно, в роли корректора.\nВы обучены обращению с копьем, длинным копьем, глефой, длинным мечом, коротким луком и композитным коротким луком.\nЕще вы получаете доступ ко всему необычному оружию конрасов.\nС целью определения уровня мастерства, воинское оружие конрасов считается простым оружием, а продвинутое оружие конрасов считается воинским оружием.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "",
+            "id": "ancestry-feat-conrasu-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания конраса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2779\">Conrasu Lore</a>) / 1",
+            "name": "Знания конраса",
+            "originalName": "Conrasu Lore",
+            "level": 1,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы узнали о своей истории и народе от формовщиков.\nВы становитесь обучены Ремеслу и Оккультизму.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы так же становитесь обучены Знаниям конраса.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "",
+            "id": "ancestry-feat-conrasu-conrasu-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2780\">Ceremony of Knowledge</a>) / 5",
+            "name": "Церемония знания",
+            "originalName": "Ceremony of Knowledge",
+            "level": 5,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы подключаетесь к знаниям <span class=\"t-aeon\">эона</span>.\nВы получаете общую способность <span class=\"card-link std std-ref\" data-id=\"feat-untrained-improvisation\">Импровизация без тренировки (Untrained Improvisation) / 3</span>.\nВ дополнение, вы можете использовать действия навыков, для которых обычно требуется быть обученным навыку, даже если вы нетренированы.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония солнечного света (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2781\">Ceremony of Sunlight</a>) / 5",
+            "name": "Церемония солнечного света",
+            "originalName": "Ceremony of Sunlight",
+            "level": 5,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 108</p><hr class=\"docutils\"><p>Вы научились в совершенстве управлять силой, содержащейся в солнечном свете, точно так же, как деревья, из которых состоит ваше тело.\nВаше \"Исцеление солнечным светом\" восстанавливает 1d8 ОЗ за уровень.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 108",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-sunlight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Понимание оружия конрасов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2782\">Conrasu Weapon Understanding</a>) / 5",
+            "name": "Понимание оружия конрасов",
+            "originalName": "Conrasu Weapon Understanding",
+            "level": 5,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-weapon-familiarity\">Знакомство с оружием конрасов (Conrasu Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Вы познали оружие конрасов так же хорошо, как знаете самого себя.\nВсякий раз, когда вы критически попадаете копьем, длинным копьем, глефой, длинным мечом, коротким луком, композитным коротким луком или оружием конрасов, то применяете эффект критической специализации этого оружия.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-conrasu-weapon-understanding",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония наставления эона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2783\">Ceremony of Aeon's Guidance</a>) / 9",
+            "name": "Церемония наставления эона",
+            "originalName": "Ceremony of Aeon's Guidance",
+            "level": 9,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Ваш <span class=\"t-aeon\">эон</span>-покровитель позволил вам призывать его дары, чтобы служить его целям.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-aeons-guidance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония щита эона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2784\">Ceremony of Aeon's Shield</a>) / 9",
+            "name": "Церемония щита эона",
+            "originalName": "Ceremony of Aeon's Shield",
+            "level": 9,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Ваш <span class=\"t-aeon\">эон</span>-покровитель дал вам силу защиты.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-shield-other\">Защищать другого (Shield Other) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-aeons-shield",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония укрепления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2785\">Ceremony of Fortification</a>) / 9",
+            "name": "Церемония укрепления",
+            "originalName": "Ceremony of Fortification",
+            "level": 9,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-ceremony-of-protection\">Церемония защиты (Ceremony of Protection)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Ваш экзоскелет принимает оптимальную защитную форму.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-ceremony-of-protection\">Церемония защиты (Ceremony of Protection)  / 1</span>, то до начала вашего следующего хода еще получаете сопротивление дробящему, колющему или рубящему урону, равное половине вашего уровня, против следующего <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span> попадающего по вам и наносящего один из этих типов урона.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-fortification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония усиленной руки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2786\">Ceremony of the Strengthened Hand</a>) / 9",
+            "name": "Церемония усиленной руки",
+            "originalName": "Ceremony of the Strengthened Hand",
+            "level": 9,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-ceremony-of-the-evened-hand\">Церемония выровненной руки (Ceremony of the Evened Hand) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Оружие вашего экзоскелета еще более мощное.\nЕсли у вас есть безоружная атака когтями, она получает признак <span class=\"w-deadly\">смертельное d8</span>.\nЕсли у вас есть безоружная атака ветвью, она получает признаки <span class=\"w-shove\">толчок</span> и <span class=\"w-trip\">опрокидывание</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-the-strengthened-hand",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия конрасов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2787\">Conrasu Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия конрасов",
+            "originalName": "Conrasu Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-weapon-familiarity\">Знакомство с оружием конрасов (Conrasu Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Всякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия, с которым вы обучены от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-conrasu-weapon-familiarity\">Знакомство с оружием конрасов (Conrasu Weapon Familiarity) / 1</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония роста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2788\">Ceremony of Growth</a>) / 13",
+            "name": "Церемония роста",
+            "originalName": "Ceremony of Growth",
+            "level": 13,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Вы можете менять размер своего экзоскелета.\nВы постоянно получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span>.\nВы можете развеять или возобновить эти эффекты действием, которое получает признак <span class=\"t-concentrate\">концентрация</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-growth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Церемония дара солнца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2789\">Ceremony of Sun's Gift</a>) / 17",
+            "name": "Церемония дара солнца",
+            "originalName": "Ceremony of Sun's Gift",
+            "level": 17,
+            "traits": [
+                "конрас"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 109</p><hr class=\"docutils\"><p>Ваша связь с солнцем стала неразрывна.\nВы не становитесь временно иммунны к эффектам своего \"Исцеления солнечным светом\" и вместо совершения бросков для восстановления ОЗ, вы получаете максимально возможное кол-во ОЗ (например, 64 ОЗ вместо 8d8).</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 109",
+            "action": "",
+            "id": "ancestry-feat-conrasu-ceremony-of-suns-gift",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подмечать детали (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2805\">Catch the Details</a>) / 1",
+            "name": "Подмечать детали",
+            "originalName": "Catch the Details",
+            "level": 1,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 116</p><hr class=\"docutils\"><p>Вы быстро распознаете общие детали о людях и вещах вокруг вас.\nВы обучены Обществу и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-eye-for-numbers\">Человек дождя (Eye for Numbers)  / 1</span>.\nЕсли вы автоматически станете обучены Обществу (например, из-за вашей предыстории или класса), то вместо этого вы становитесь обучены другому навыку на свой выбор,</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 116",
+            "action": "",
+            "id": "ancestry-feat-goloma-catch-the-details",
+            "archetype": ""
+        },
+        {
+            "fullName": "Храбрость голомы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2806\">Goloma Courage</a>) / 1",
+            "name": "Храбрость голомы",
+            "originalName": "Goloma Courage",
+            "level": 1,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 116</p><hr class=\"docutils\"><p>Наиболее важное, что вы узнали живя в страхе, так это то, как преодолеть его.\nКогда при броске спасброска против эффекта <span class=\"t-fear\">страха</span>, вы получаете успех, то вместо этого получаете критический успех.\nВ дополнение, вы получаете бонус обстоятельства +1 к спасброскам Воли против эффектов <span class=\"t-fear\">страха</span> и бонус обстоятельства +2 к вашему КС Воли против попыток <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> вас.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 116",
+            "action": "",
+            "id": "ancestry-feat-goloma-courage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания голомы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2807\">Goloma Lore</a>) / 1",
+            "name": "Знания голомы",
+            "originalName": "Goloma Lore",
+            "level": 1,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 116</p><hr class=\"docutils\"><p>Вы жили изолированной жизнью, сосредоточенной на избежании опасности.\nВы становитесь обучены Скрытности и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы также становитесь обучены Знаниям голомы.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 116",
+            "action": "",
+            "id": "ancestry-feat-goloma-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пронзить тьму (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2808\">Pierce the Darkness</a>) / 1",
+            "name": "Пронзить тьму",
+            "originalName": "Pierce the Darkness",
+            "level": 1,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 116</p><hr class=\"docutils\"><p>Ваши глаза приспособились видеть в любых обстоятельствах, даже без помощи света.\nВы получаете ночное зрение, что позволяет вам видеть в темноте и при тусклом свете так же хорошо, как и при ярком свете.\nОднако в темноте вы видите только в черно-белом спектре.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 116",
+            "action": "",
+            "id": "ancestry-feat-goloma-pierce-the-darkness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бдительный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2809\">Watchful Gaze</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Бдительный взор",
+            "originalName": "Watchful Gaze",
+            "level": 1,
+            "traits": [
+                "концентрация",
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 116</p><hr class=\"docutils\"><p>Вы используете свои многочисленные глаза, чтобы смотреть сразу во всех направлениях, что делает вас чрезвычайно наблюдательным на короткое время.\nВы получаете <span class=\"card-link \">Круговое зрение (All-Around Vision)</span> до начала своего следующего хода.\nЭто позволяет вам видеть во всех направлениях и не дает брать вас в тиски.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 116",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goloma-watchful-gaze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осведомленность о засаде (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2810\">Ambush Awareness</a>) / 5",
+            "name": "Осведомленность о засаде",
+            "originalName": "Ambush Awareness",
+            "level": 5,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Вы получаете бонус обстоятельства +2 к проверкам Восприятия совершаемым как броски инициативы.\nДополнительно, если ваш результат броска инициативы равен брошенному оппонентом, то вы ходите первым независимо от того, делали ли вы бросок Восприятием или нет.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "",
+            "id": "ancestry-feat-goloma-ambush-awareness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитные когти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2811\">Protective Claws</a>) / 5",
+            "name": "Защитные когти",
+            "originalName": "Protective Claws",
+            "level": 5,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Беспощадный (Vicious Goloma)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Хитин на ваших когтях так крепок, что вы можете защищаться ими от атак.\nВаша безоружная атака когтями от голомского наследия <span class=\"card-link \">Беспощадный (Vicious Goloma)</span> получает признак оружия <span class=\"w-parry\">парирование</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "",
+            "id": "ancestry-feat-goloma-protective-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пристальный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2812\">Constant Gaze</a>) / 9",
+            "name": "Пристальный взор",
+            "originalName": "Constant Gaze",
+            "level": 9,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goloma-watchful-gaze\">Бдительный взор (Watchful Gaze)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Ваши глаза постоянно наблюдают за опасностями со всех сторон.\nСущества вашего уровня или менее не могут взять вас в тиски, даже когда вы не использовали <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goloma-watchful-gaze\">Бдительный взор (Watchful Gaze)  / 1</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "",
+            "id": "ancestry-feat-goloma-constant-gaze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитные инстинкты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2813\">Defensive Instincts</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Защитные инстинкты",
+            "originalName": "Defensive Instincts",
+            "level": 9,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы находитесь рядом хотя бы с 2 врагами</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Когда вас окружают, ваше тело напрягается, заставляя вас нервничать ровно настолько, чтобы предвидеть нападение.\nВы получаете бонус обстоятельства +1 к КБ до начала вашего следующего хода и <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goloma-defensive-instincts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканный взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2814\">Arcane Sight</a>) / 13",
+            "name": "Арканный взгляд",
+            "originalName": "Arcane Sight",
+            "level": 13,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение сотворять чары <span class=\"card-link std std-ref\" data-id=\"spell-d-detect-magic\">Обнаружение магии (Detect Magic) / Чары 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Вы научились всегда быть на чеку о магических эффектах, даже когда сосредотачиваетесь на других вещах.\nКогда вы <span class=\"card-link \">Ищете (Searching)</span>, то еще всегда получаете преимущества <span class=\"card-link \">Обнаружение магии (Detect Magic)</span>, если только выбирает не делать этого.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "",
+            "id": "ancestry-feat-goloma-arcane-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Видеть незримое (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2815\">See the Unseen</a>) / 13",
+            "name": "Видеть незримое",
+            "originalName": "See the Unseen",
+            "level": 13,
+            "traits": [
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Вы замечаете то, что другие вообще не видят.\nКогда вы находитесь рядом с <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span> существом вашего уровня или менее, то оно для вас всего лишь <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятано</span>.\nЧтобы прицелить в <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанное</span> существо, вам нужно совершить только успешную чистую проверку КС 5.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "",
+            "id": "ancestry-feat-goloma-see-the-unseen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истинный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2816\">True Gaze</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Истинный взор",
+            "originalName": "True Gaze",
+            "level": 17,
+            "traits": [
+                "аркана",
+                "прорицание",
+                "концентрация",
+                "голома"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 117</p><hr class=\"docutils\"><p>Когда вы осторожно сосредотачиваете свои глаза, ваш взгляд может пронзать все помутнения, даже магические.\nКогда вы используете \"Истинный взор\", то получаете эффекты заклинания <span class=\"card-link std std-ref\" data-id=\"spell-t-true-seeing\">Истинное зрение (True Seeing) / Закл. 6</span> 6-го уровня, используя для проверки противодействия свой модификатор Восприятия.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 117",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goloma-true-gaze",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эйдетический слух (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2831\">Eidetic Ear</a>) / 1",
+            "name": "Эйдетический слух",
+            "originalName": "Eidetic Ear",
+            "level": 1,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>У вас удивительная память на звуки.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-assurance\">Уверенность (Assurance) / 1</span> (Выступление).\nПри успешной чистой проверке с КС 8, вы можете точно вспомнить звук или часть разговора услышанного в течение прошлой недели.\nВы запоминаете это наизусть а не само содержание, и не можете использовать это для запоминания фактов, поэтому умение не дает вам дополнительную возможность <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "",
+            "id": "ancestry-feat-shisk-eidetic-ear",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания шисков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2832\">Shisk Lore</a>) / 1",
+            "name": "Знания шисков",
+            "originalName": "Shisk Lore",
+            "level": 1,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>Вы копите знания, как дракон копит золото.\nВы становитесь обучены 3 навыкам Знаний на свой выбор.\nВы также становитесь обучены Знаниям шиска.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "",
+            "id": "ancestry-feat-shisk-shisk",
+            "archetype": ""
+        },
+        {
+            "fullName": "Спелеолог (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2833\">Spelunker</a>) / 1",
+            "name": "Спелеолог",
+            "originalName": "Spelunker",
+            "level": 1,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>Живя под землей, вы научились находить дорогу без ориентиров и даже без твердой почвы.\nЕсли вы получаете успех при броске проверки Выживания для <span class=\"card-link std std-ref\" data-id=\"skill-survival-sense-direction\">Определить направление (Sense Direction)</span> или Атлетики для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, то вместо этого получаете критический успех.\nВы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> во время Карабканья.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "",
+            "id": "ancestry-feat-shisk-spelunker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бьющий шипами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2834\">Spine Stabber</a>) / 1",
+            "name": "Бьющий шипами",
+            "originalName": "Spine Stabber",
+            "level": 1,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>Иглы на ваших руках особенно острые и прочные.\nВы получаете безоружную атаку иглами, наносящую 1d6 колющего урона.\nВаши иглы относятся к группе \"нож\" и имеют признаки <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "",
+            "id": "ancestry-feat-shisk-spine-stabber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ощетиниться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2835\">Bristle</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Ощетиниться",
+            "originalName": "Bristle",
+            "level": 5,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>Вы сгибаетесь в позу, которая расширяет ваши шипы.\nВы до начала своего следующего хода получаете бонус обстоятельства +1 к КБ.</p><p><strong>Особенность</strong>: Если у вас есть реакция <span class=\"card-link \">Колючие иглы (Barbed Quills) </span> или безоружная атака иглами, то все они до начала вашего следующего хода получают бонус обстоятельства +1 к броскам урона.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-shisk-bristle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Привыкший к жаре (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2836\">Inured to the Heat</a>) / 5",
+            "name": "Привыкший к жаре",
+            "originalName": "Inured to the Heat",
+            "level": 5,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 124</p><hr class=\"docutils\"><p>Вы любите экстремальную жару.\nВы получаете сопротивление 4 к огню.\nВы считаете эффекты жаркой окружающей среды так, как если бы они были на одну ступень ниже (невероятная жара становится экстремальной, экстремальная жара становится суровой и так далее).</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 124",
+            "action": "",
+            "id": "ancestry-feat-shisk-inured-to-the-heat",
+            "archetype": ""
+        },
+        {
+            "fullName": "Восстановление игл (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2837\">Renewing Quills</a>) / 5",
+            "name": "Восстановление игл",
+            "originalName": "Renewing Quills",
+            "level": 5,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Покрытый иглами (Quillcoat Shisk)</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Ваши шипы вырастают значительно быстрее, чем у других шисков.\nВы можете использовать реакцию <span class=\"card-link \">Колючие иглы (Barbed Quills) </span> раз в 10 минут.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-renewing-quills",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раскапывание секретов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2838\">Dig Up Secrets</a>) / 9",
+            "name": "Раскапывание секретов",
+            "originalName": "Dig Up Secrets",
+            "level": 9,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Вы - бездонный колодец знаний и можете разом вспомнить несколько жизненно важных кусочков информации.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-hypercognition\">Гиперкогнитивность (Hypercognition) / Закл. 3</span> как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-dig-up-secrets",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пронзающие иглы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2839\">Piercing Quills</a>) / 9",
+            "name": "Пронзающие иглы",
+            "originalName": "Piercing Quills",
+            "level": 9,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-shisk-spine-stabber\">Бьющий шипами (Spine Stabber) / 1</span></p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Ваши иглы могут проникать особенно глубоко в плоть оппонентов.\nПри критическом попадании, ваша безоружная атака иглами наносит 1d4 продолжительного урона кровотечением.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-piercing-quills",
+            "archetype": ""
+        },
+        {
+            "fullName": "Веер игл (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2840\">Quill Spray</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Веер игл",
+            "originalName": "Quill Spray",
+            "level": 9,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Покрытый иглами (Quillcoat Shisk)</span> или безоружная атака иглами</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Вы можете выпустить в оппонента массу игл.\nВы распыляете иглы в 30-футовом конусе, нанося 5d8 колющего урона.\nКаждое существо в области должно совершить простой спасбросок Рефлекса против вашего КС класса или КС заклинания (в зависимости от того, что больше).\nПри критическом провале, существо еще получает 5 продолжительного урона кровотечением.\nНа 11-м уровне и каждые 2 уровня после, колющий урон увеличивается на 1d8, а продолжительный урон кровотечением на 1.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-shisk-quill-spray",
+            "archetype": ""
+        },
+        {
+            "fullName": "Копатель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2841\">Delver</a>) / 13",
+            "name": "Копатель",
+            "originalName": "Delver",
+            "level": 13,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Подземная жизнь научила вас плавать сквозь землю, как в воде.\nВы получаете Скорость рытья 10 футов в рыхлой почве или грязи.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-delver",
+            "archetype": ""
+        },
+        {
+            "fullName": "Никто не должен знать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2842\">None Shall Know</a>) / 13",
+            "name": "Никто не должен знать",
+            "originalName": "None Shall Know",
+            "level": 13,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Из вас трудно вытянуть информацию даже магическими методами.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-n-nondetection\">Необнаружимость (Nondetection) / Закл. 3</span> как врожденное оккультное заклинание, но только на себя самого и оно автоматически усиливается до половины вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-none-shall-know",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тайные глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2843\">Secret Eyes</a>) / 13",
+            "name": "Тайные глаза",
+            "originalName": "Secret Eyes",
+            "level": 13,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Вы можете вызвать невидимое око, чтобы подглядеть в секреты.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-p-prying-eye\">Пытливый глаз (Prying Eye) / Закл. 5</span> как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "",
+            "id": "ancestry-feat-shisk-secret-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фонтан тайн (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2844\">Fountain of Secrets</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Фонтан тайн",
+            "originalName": "Fountain of Secrets",
+            "level": 17,
+            "traits": [
+                "шиск"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 125</p><hr class=\"docutils\"><p>Вы постоянно вспоминаете подробности о мире.\nВы совершаете проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.\nВ случае успеха вы получаете дополнительную информацию или контекст.\nПри критическом успехе, на усмотрение Мастера вы можете получить даже больше дополнительной информации или контекста чем обычно.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 125",
+            "action": "свободное действие",
+            "id": "ancestry-feat-shisk-fountain-of-secrets",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вооружение автоматона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3090\">Automaton Armament</a>) / 1",
+            "name": "Вооружение автоматона",
+            "originalName": "Automaton Armament",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 39</p><hr class=\"docutils\"><p>Вам предоставили часть тела, предназначенную для боя.\nВы получаете безоружную атаку когтями или клешней.\nКогти наносят 1d4 рубящего урона, относятся к группе \"драка\" и обладают признаками <span class=\"w-agile\">быстрое</span>, <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.\nКлешня наносит 1d6 колющего урона относится к группе \"драка\" и обладает признаками <span class=\"w-grapple\">захват</span> и <span class=\"w-unarmed\">безоружное</span>.</p><p>Ваше тело может быть перестроено; вы можете выбрать эту способность на любом уровне и переобучиться ей на другую, или другой на нее, либо сменить тип полученной атаки.</p><p><strong>Усовершенствование</strong>: Ваша атакующая часть укреплена.\nУвеличьте кость урона полученной от этой способности безоружной атаки на один шаг (с d4 до d6 или с d6 до d8).</p>",
+            "src": "Guns & Gears pg. 39",
+            "action": "",
+            "id": "ancestry-feat-automaton-armament",
+            "archetype": ""
+        },
+        {
+            "fullName": "Энергетический луч (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3094\">Energy Beam</a>) / 1",
+            "name": "Энергетический луч",
+            "originalName": "Energy Beam",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Вы можете направлять силу своего ядра через магический самоцвет, который служит вам глазом.\nВы получаете безоружную дистанционную атаку энергетическим лучом, которая наносит 1d4 урона огнем.\nЭнергетический луч имеет шаг дистанции 20 футов.\nПри критическом попадании, цель получает продолжительный урон огнем, равный количеству костей урона оружия.\nК вашему лучу из глаза не добавляется эффект критической специализации.</p><p><strong>Усовершенствование</strong>: Вы направляете больше мощности.\nУвеличьте кость урона энергетического луча на один шаг, с d4 до d6.</p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "",
+            "id": "ancestry-feat-automaton-energy-beam",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укрепленный корпус (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3095\">Reinforced Chassis</a>) / 1",
+            "name": "Укрепленный корпус",
+            "originalName": "Reinforced Chassis",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Ваше тело сконструировано так, чтобы быть особенно прочным.\nВаш корпус - средний доспех из группы латных, дающий бонус предмета к КБ +4, мод.Лвк +1, штраф проверки -2, штраф Скорости -5 футов и Сила 16.\nВы никогда не можете надет другой доспех или снять свой корпус; однако, вы не <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомляетесь</span> во время сна.\nИ наконец, вы можете гравировать руны доспехов на своем корпусе как обычно.</p><p><strong>Усовершенствование</strong>: Становится труднее преодолеть ваш корпус.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-automaton-chassis-deflection\">Отклонение корпусом (Chassis Deflection) </span></p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "",
+            "id": "ancestry-feat-automaton-reinforced-chassis",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканная коммуникация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3091\">Arcane Communication</a>) / 1",
+            "name": "Арканная коммуникация",
+            "originalName": "Arcane Communication",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Вы можете отправлять беззвучные сообщения.\nВы получаете <span class=\"card-link \">Телепатия (Telepathy)</span> касанием, позволяющую вам молча и ментально общаться с существом, которого вы касаетесь, если вы говорите на одном языке.</p><p><strong>Усовершенствование</strong>: Вы можете отправить свое сообщение еще дальше.\nВаша телепатия получает дальность 10 футов, но вам все еще надо иметь с целью общий язык.</p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "",
+            "id": "ancestry-feat-automaton-arcane-communication",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканный глаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3092\">Arcane Eye</a>) / 1",
+            "name": "Арканный глаз",
+            "originalName": "Arcane Eye",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Ваш глаз был магически усилен, чтобы пронзать тьму.\nВы получаете ночное зрение.</p><p><strong>Усовершенствование</strong>: Ваш глаз может короткими вспышками видеть <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимых</span> существ.\nВы можете раз в час творить <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> как врожденное арканное заклинание.</p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "",
+            "id": "ancestry-feat-automaton-arcane-eye",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания автоматона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3093\">Automaton Lore</a>) / 1",
+            "name": "Знания автоматона",
+            "originalName": "Automaton Lore",
+            "level": 1,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 40</p><hr class=\"docutils\"><p>Вы стали лучше понимать процесс создания своего тела и магию, которая его питает.\nВы становитесь обучены Аркане и Ремеслу.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям автоматона.</p><p><strong>Усовершенствование</strong>: Ваше понимание становится более глубоким.\nУвеличьте мастерство Арканы или Ремесла, а также Знания автоматона до эксперта.\nЕсли вы уже эксперт выбранного навыка, тогда увеличьте его до мастера.</p>",
+            "src": "Guns & Gears pg. 40",
+            "action": "",
+            "id": "ancestry-feat-automaton-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Интегрированное вооружение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3097\">Integrated Armament</a>) / 5",
+            "name": "Интегрированное вооружение",
+            "originalName": "Integrated Armament",
+            "level": 5,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>В вашем механическом теле помещается оружие или щит, который вы можете быстро достать и убрать, чтобы всегда быть готовым к бою.</p><p>Вы можете использовать активность длительностью в 1 минуту, имеющую признак <span class=\"t-manipulate\">воздействие</span>, чтобы интегрировать в свою руку 1 одноручное оружие или щит.\nВы можете вынимать или убирать этот предмет действием <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nСущества автоматически не видят этот интегрированный предмет когда он убран, и должны делать активный <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, чтобы обнаружить его.\nДля любой такой проверки, они получают штраф обстоятельства -2.\nПока вы владеете этим предметом, его нельзя <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> и вы не можете бросить или <span class=\"card-link std std-ref\" data-id=\"action-release\">Отпустить (Release) </span> его; вы должны Взаимодействовать, чтобы убрать его и освободить эту руку.\nСущество решившее достать этот предмет может это сделать, но для его вытаскивания потребуется либо 1 минута, либо чрезвычайное насилие над вашей рукой, такое как физическое удаление части конечности.\nВы можете одновременно иметь только 1 интегрированное вооружение, однако выполнив активность в 1 минуту, можете изменить предмет или поменять руку в которой он хранится.</p><p><strong>Усовершенствование</strong>: Ваше тело имеет больше места для интеграции.\nТеперь вы можете интегрировать либо 2 одноручных оружия, либо одноручное оружие и щит, либо 1 двуручное оружие помещающееся в обе руки.\nВы можете использовать 1 действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы достать или убрать оба интегрированных оружия.\nКогда вы достаете одно оружие, то можете выбрать, как держать его - одной или двумя руками.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "",
+            "id": "ancestry-feat-automaton-integrated-armament",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканные защиты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3096\">Arcane Safeguards</a>) / 5",
+            "name": "Арканные защиты",
+            "originalName": "Arcane Safeguards",
+            "level": 5,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Питающая вас магия, затрудняет воздействие на вас внешней магии.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-automaton-resist-magic\">Сопротивляться магии (Resist Magic) </span>.</p><p><strong>Усовершенствование</strong>: Ваши защиты улучшаются.\nКогда \"Сопротивляетесь магии\", вы получаете количество временных ОЗ, равное уровню заклинания спровоцировавшего эффекта.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "",
+            "id": "ancestry-feat-automaton-arcane-safeguards",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магическое сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3098\">Magical Resistance</a>) / 5",
+            "name": "Магическое сопротивление",
+            "originalName": "Magical Resistance",
+            "level": 5,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Оживляющая вас магия дает немного защиты.\nВыберите 1 из следующих типов энергетического урона: холод, электричество или звук.\nВы получаете сопротивление 5 этому типу урона.</p><p><strong>Усовершенствование</strong>: Вы сильнее подключаетесь к оживляющей вас магии и ваше сопротивление улучшается.\nВыберите 1 из следующих преимуществ: вы получаете сопротивление 5 двум оставшимся типам урона перечисленным выше, либо выбранное вами сопротивление увеличивается до значения 1 + половина вашего уровня.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "",
+            "id": "ancestry-feat-automaton-magical-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Небольшое улучшение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3103\">Lesser Augmentation</a>) / 9",
+            "name": "Небольшое улучшение",
+            "originalName": "Lesser Augmentation",
+            "level": 9,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 42</p><hr class=\"docutils\"><p>Вы сосредоточились на самосовершенствовании и получили улучшение одного из имеющихся умений.\nВы получаете преимущества усовершенствования одной из ваших способностей родословной автоматона 1-го или 5-го уровня.</p><p>Еще вы способны перенастраивать свои усовершенствования под ваши нужны.\nВы можете провести 1 неделю отдыха, чтобы заменить усовершенствование полученное от этой способности.</p><p><strong>Усовершенствование</strong>: Вы получаете преимущества усовершенствования другой способности родословной автоматона 1-го или 5-го уровня.\nЕще ваше перенастройка занимает меньше времени.\nВам нужно потратить лишь 1 день отдыха, чтобы заменить любое из своих усовершенствований.\nЕсли у вас несколько усовершенствований, изменение каждого из них требует отдельного дня.</p>",
+            "src": "Guns & Gears pg. 42",
+            "action": "",
+            "id": "ancestry-feat-automaton-lesser-augmentation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканный камуфляж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3099\">Arcane Camouflage</a>) / 9",
+            "name": "Арканный камуфляж",
+            "originalName": "Arcane Camouflage",
+            "level": 9,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие автоматона <span class=\"card-link \">Охотник (Hunter Automaton)</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Вы выработали магические приемы для помощи в преследовании добычи.\nВы можете творить <span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> как врожденные арканные заклинания 2-го уровня, каждое раз в день.</p><p><strong>Усовершенствование</strong>: Ваш камуфляж стал сильнее.\nВаше заклинание <span class=\"card-link std std-ref\" data-id=\"spell-b-blur\">Расплывчатость (Blur) / Закл. 2</span> теперь длится 10 минут, а когда вы накладываете <span class=\"card-link std std-ref\" data-id=\"spell-i-invisibility\">Невидимость (Invisibility) / Закл. 2</span> то можете на свой выбор получить эффекты версии заклинания 4-го уровня.\nКроме того, вы можете сотворять <em>расплывчатость</em> и <em>невидимость</em> по 2 раза в день каждое.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "",
+            "id": "ancestry-feat-automaton-arcane-camouflage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканное придавливание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3101\">Arcane Slam</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Арканное придавливание",
+            "originalName": "Arcane Slam",
+            "level": 9,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие автоматона <span class=\"card-link \">Воин (Warrior Automaton)</span></p><p><strong>Требования</strong>: У вас есть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченное</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаемое</span> существо</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Вы направляете магическую силу из своего ядра в руку, усиливая вашу атаку, когда вы пытаетесь впечатать противника в землю.\nСовершите проверку Атлетики против КС Стойкости противника.\nВы получаете к этой проверке штраф обстоятельства -2, если цель на 1 размер больше вас и штраф обстоятельства -4, если она еще больше.\nВы получаете к этой проверке бонус обстоятельства +2, если цель на 1 размер меньше вас и бонус обстоятельства +4, если она еще меньше.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы придавливаете противника к земле и магическая энергия переполняет его. Существо сбито <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>, становится <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 раунд и получает урон, равный 2d6 + ваш модификатор Силы. Противник больше не <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> вами.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы придавливаете противника к земле. Существо сбито <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> и получает урон, равный вашему модификатору Силы. Противник больше не <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> вами.</div>\n<div class=\"line\"><strong>Провал</strong>: Ваш не удается придавить существо, но вы не выпускаете существо из своего хвата.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо освобождается и больше не <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схваченно</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживается</span> вами.</div>\n</div><p><strong>Усовершенствование</strong>: Ваши руки лучше проводят силу ядра.\nВы больше не получаете штрафы за попытку придавливания существ большего размера.\nПри успехе, ваш противник получает урон равный 2d6 + ваш модификатор Силы (или двойной при критическом успехе).</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-automaton-arcane-slam",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сонастройка с ядром (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3102\">Core Attunement</a>) / 9",
+            "name": "Сонастройка с ядром",
+            "originalName": "Core Attunement",
+            "level": 9,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие автоматона <span class=\"card-link \">Маг (Mage Automaton)</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 42</p><hr class=\"docutils\"><p>Ваше ядро позволяет черпать от него больше силы.\nВыберите 1 арканное заклинание 1-го уровня и 1 арканное заклинание 2-го уровня или ниже, из тех, к которым у вас есть доступ.\nВы можете творить выбранные вами заклинания как врожденные арканные, каждое раз в день.</p><p><strong>Усовершенствование</strong>: Ваша сонастройка становится сильнее.\nВыберите 1 арканное заклинание 5-го уровня или ниже и 1 арканное заклинание 6-го уровня или ниже, из тех, к которым у вас есть доступ.\nВы можете творить выбранные вами заклинания как врожденные арканные в дополнение к изначальным, каждое раз в день.</p>",
+            "src": "Guns & Gears pg. 42",
+            "action": "",
+            "id": "ancestry-feat-automaton-core-attunement",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ливень болтов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3104\">Rain of Bolts</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Ливень болтов",
+            "originalName": "Rain of Bolts",
+            "level": 9,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие автоматона <span class=\"card-link \">Меткий стрелок (Sharpshooter Automaton)</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 42</p><hr class=\"docutils\"><p>В течение дня ваше тело производит в своем корпусе мощные снаряды.\nВы выстреливаете их все сразу 30-футовым конусом, либо 10-футовой эманацией.\nПротивники в области получают 6d6 колющего урона.\nОн увеличивается до 7d6 на 12-м уровне, 8d6 на 15-м уровне и 9d6 на 18-м уровне.</p><p><strong>Усовершенствование</strong>: Снаряды восстанавливаются быстрее, они гораздо мощнее, и вы можете вырабатывать металлический состав для нанесения вреда определенным существам.\nВы можете использовать \"Ливень болтов\" раз в час, вместо раза в день.\nУрон увеличивается до 12d6 и каждый раз, когда вы используете это действие, можете выбрать <span class=\"card-link \">Адамантин (Adamantine) / Материал 8+</span>, <span class=\"card-link \">Холодное железо (Cold Iron) / Материал 2+</span> или <span class=\"card-link \">Серебро (Silver) / Материал 2+</span>.\nУрон от \"Ливня болтов\" считается выбранным металлом.\nНа 20-м уровне урон увеличивается до 13d6.</p>",
+            "src": "Guns & Gears pg. 42",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-automaton-rain-of-bolts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканная тяга (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3100\">Arcane Propulsion</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Арканная тяга",
+            "originalName": "Arcane Propulsion",
+            "level": 9,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 41</p><hr class=\"docutils\"><p>Вы перенаправляете энергию из своего ядра в порты на спине или ногах, что на короткое время позволяет вам летать.\nВы можете поддерживать эту перенаправленную энергию в течение 5 минут.\nВо время перенаправления энергии вы получаете Скорость полета, равную вашей Скорости.</p><p><strong>Усовершенствование</strong>: Вы можете дольше поддерживать полет.\nВы можете всегда перенаправлять энергию, что позволяет вам летать когда захотите, а не только раз в день на 5 минут.</p>",
+            "src": "Guns & Gears pg. 41",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-automaton-arcane-propulsion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арканное передвижение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3105\">Arcane Locomotion</a>) / 13",
+            "name": "Арканное передвижение",
+            "originalName": "Arcane Locomotion",
+            "level": 13,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 42</p><hr class=\"docutils\"><p>Вы модифицировали свое тело так, чтобы оно могло дополнять ваше передвижение.\nВы получаете на свой выбор либо Скорость карабканья 20 футов, либо Скорость плавания 20 футов.</p><p><strong>Усовершенствование</strong>: Ваше тело позволяет еще больше форм передвижения.\nВы можете либо выбрать еще не взятый вариант из этой способности (Скорость карабканья или Скорость плавания), либо увеличить на 5 футов свою наземную Скорость и увеличить Скорость, выбранную с этой способностью, чтобы она была равна вашей скорректированной наземной Скорости.</p>",
+            "src": "Guns & Gears pg. 42",
+            "action": "",
+            "id": "ancestry-feat-automaton-arcane-locomotion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Астральное мерцание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3106\">Astral Blink</a>) / 13",
+            "name": "Астральное мерцание",
+            "originalName": "Astral Blink",
+            "level": 13,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 42</p><hr class=\"docutils\"><p>Вы настроили свое ядро так, чтобы оно позволяло вам фазироваться через Астральный План, что позволяет вам периодически телепортироваться.\nВы можете раз в час творить <span class=\"card-link std std-ref\" data-id=\"spell-d-dimension-door\">Дверь в пространстве (Dimension Door) / Закл. 4</span> как врожденное арканное заклинание 4-го уровня.</p><p><strong>Усовершенствование</strong>: Ваша сонастройка позволяет телепортироваться серией быстрых прыжков, а не одни длинным.\nВы можете в начале своего хода потратить дневное использование <em>двери в пространстве</em> свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">).\nЕсли вы это делаете, то ваши <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещения (Stride)</span> усилены до конца вашего хода, что позволяет вам мгновенно телепортироваться в любую точку, которую можете достичь со своей Скоростью, вместо обычного перемещения в это место.\nПока усилены, ваши Перемещения получают признаки <span class=\"t-conjuration\">воплощение</span> и <span class=\"t-teleportation\">телепортация</span>.\nВаши усиленные Перемещения не провоцируют реакции, срабатывающие на действия <span class=\"t-move\">движения</span> или из-за выхода из квадрата или вхождения в него, если только эти реакции не срабатывают на <span class=\"t-teleportation\">телепортацию</span>.</p>",
+            "src": "Guns & Gears pg. 42",
+            "action": "свободное действие",
+            "id": "ancestry-feat-automaton-astral-blink",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оживление ядра (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3107\">Core Rejuvenation</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Оживление ядра",
+            "originalName": "Core Rejuvenation",
+            "level": 13,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: У вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и вы готовы совершить проверку восстановления</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 43</p><hr class=\"docutils\"><p>Ваша душа использует силу своего ядра, чтобы противостоять хватке смерти и позволить вам вернуться в сознание.\nВы восстанавливаетесь до 1 ОЗ, теряете состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>, и можете нормально действовать в этот ход.\nВы получаете или увеличиваете состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>, как обычно, когда теряете состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> таким образом.</p><p><strong>Усовершенствование</strong>: Ваша душа может черпать еще больше силы от ядра, давая вам дополнительные преимущества.\nКогда вы используете \"Оживление ядра\", то еще получаете временные ОЗ в количестве, равном своему утроенному уровню.\nЭти ОЗ остаются на 1 минуту.</p>",
+            "src": "Guns & Gears pg. 43",
+            "action": "свободное действие",
+            "id": "ancestry-feat-automaton-core-rejuvenation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Увеличенный корпус (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3108\">Enlarged Chassis</a>) / 13",
+            "name": "Увеличенный корпус",
+            "originalName": "Enlarged Chassis",
+            "level": 13,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"s-medium\">Средний</span> или <span class=\"s-small\">маленький</span> размер</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 43</p><hr class=\"docutils\"><p>Вы усилили свое ядро для поддержания большего тела, что дает вам размер и дополнительную досягаемость.\nВы постоянно получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span>.</p><p><strong>Усовершенствование</strong>: Усиление вашего ядра стабилизировалось, что дает вам больше содействия.\nВы больше не <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжи</span> из-за эффектов <em>увеличения</em>.</p>",
+            "src": "Guns & Gears pg. 43",
+            "action": "",
+            "id": "ancestry-feat-automaton-enlarged-chassis",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отличное улучшение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3111\">Greater Augmentation</a>) / 17",
+            "name": "Отличное улучшение",
+            "originalName": "Greater Augmentation",
+            "level": 17,
+            "traits": [
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 43</p><hr class=\"docutils\"><p>Вы значительно улучшили свои умения и ваше ядро может поддерживать дальнейшие усовершенствования.\nВы получаете преимущества усовершенствования одной из ваших способностей родословной автоматона 1-го, 5-го, 9-го или 13-го уровня.</p><p>Еще вы способны перенастраивать свои улучшения под ваши нужны.\nВы можете провести 1 неделю отдыха, чтобы заменить усовершенствование полученное от этой способности.</p>",
+            "src": "Guns & Gears pg. 43",
+            "action": "",
+            "id": "ancestry-feat-automaton-greater-augmentation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возвращение в Оси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3109\">Axial Recall</a>) / 17",
+            "name": "Возвращение в Оси",
+            "originalName": "Axial Recall",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "автоматон"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 43</p><hr class=\"docutils\"><p>Вы перенастроили магический резонанс своего ядра, чтобы настроиться на планарные энергии Осей.\nВы можете 2 раза в неделю творить <span class=\"card-link std std-ref\" data-id=\"spell-p-plane-shift\">Планарный переход (Plane Shift) / Закл. 7</span> как врожденное арканное заклинание, которое может выбирать целью только вас;\nвы можете путешествовать только в Оси или Материальный План, а ваше тело служит фокусным компонентом.</p>",
+            "src": "Guns & Gears pg. 43",
+            "action": "",
+            "id": "ancestry-feat-automaton-axial-recall",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ядерная пушка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3110\">Core Cannon</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Ядерная пушка",
+            "originalName": "Core Cannon",
+            "level": 17,
+            "traits": [
+                "аркана",
+                "трансмутация",
+                "полиморф",
+                "концентрация",
+                "автоматон"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 43</p><hr class=\"docutils\"><p>Ваше тело превращается в мощную магическую пушку.\nСтоя неподвижно в виде пушки, вы можете стрелять зарядами энергии прямо из своего ядра, уничтожая врагов.\nВы становитесь <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижены</span>, пока не используете действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы вернуться к своей стандартной форме.\nПока вы в форме пушки, единственные действия, которые вы можете использовать - <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударить (Strike)</span> безоружной атакой энергетического взрыва или <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы вернуться в стандартную форму.\nВы можете оставаться в своей пушечной форме вплоть до 1 минуты или до тех пор, пока не выполните действие, чтобы вернуться в обычную форму, в зависимости от того, что произойдет раньше.</p><p>Энергетические взрывы являются специальной дистанционной безоружной атакой.\nВы можете наносить Удары энергетического взрыва только в форме пушки.\nВаши энергетические взрывы наносят 3d8 огненного урона и 3d6 урона силой, и он увеличивается до 4d8 огненного и 3d6 урона силой на 20-м уровне.\nВы получаете бонус предмета к броскам атак энергетических взрывов от наибольшей <span class=\"card-link \">Руна мощи оружия (Weapon Potency) / Руна 2+</span> на надетых <span class=\"card-link \">Повязки могучих ударов (Handwraps of Mighty Blows) / Предмет 2+</span> или оружия, которым владеете, но <span class=\"card-link \">Разящая (Striking) / Руна 4+</span> и руны свойств не имеют эффекта на ваши энергетические взрывы.\nЭнергетические взрывы имеют шаг дистанции 120 футов.\nПри критическом попадании энергетическим взрывом, цель получает 10 продолжительного урона огнем.\nВаш энергетический взрыв не добавляет эффект критической специализации.\nЕсли для эффекта важно количество костей урона оружия, то у энергетического взрыва 3 кости урона, или 4 на 20-м уровне.</p>",
+            "src": "Guns & Gears pg. 43",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-automaton-core-cannon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безвредная кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3340\">Harmless Doll</a>) / 1",
+            "name": "Безвредная кукла",
+            "originalName": "Harmless Doll",
+            "level": 1,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 63</p><hr class=\"docutils\"><p>Вы выглядите просто как обычная игрушка, куколка или статуэтка и можете обмануть других своей безобидной внешностью.\nВы становитесь обучены Обману (или другому навыку, если вы уже обучены Обману) и можете <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Притворяться (Impersonate)</span> неодушевленной игрушкой или <span class=\"t-mindless\">неразумной</span> куклой.\nВы можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> без какого-либо укрытия от существ, которые не знают, что вы живой, если только вы находитесь в месте, где игрушка вашей формы была бы уместна, например, в ярмарочной палатке, на городской улице или в магазине игрушек (на усмотрение Мастера).\nВ случае успеха, наблюдающие все равно увидят вас, но примут за неодушевленную игрушку.\nПосле того, как они один раз обмануты, они поймут, что вы живой, и вы больше не сможете Спрятаться от них таким образом.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 63",
+            "action": "",
+            "id": "ancestry-feat-poppet-harmless-doll",
+            "archetype": ""
+        },
+        {
+            "fullName": "Полезная кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3341\">Helpful Poppet</a>) / 1",
+            "name": "Полезная кукла",
+            "originalName": "Helpful Poppet",
+            "level": 1,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 63</p><hr class=\"docutils\"><p>Вы особенно искусны в оказании помощи другим.\nВы получаете бонус обстоятельства +2 к проверкам <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощи (Aid)</span>, и в случае своего критического провала попытки Помочь, вы не даете союзнику штраф обстоятельства -1 к его проверке.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 63",
+            "action": "",
+            "id": "ancestry-feat-poppet-helpful",
+            "archetype": ""
+        },
+        {
+            "fullName": "Четвероногий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3342\">Quadruped</a>) / 1",
+            "name": "Четвероногий",
+            "originalName": "Quadruped",
+            "level": 1,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 63</p><hr class=\"docutils\"><p>Вы были созданы в форме с четырьмя ногами, а не двумя.\nВаша Скорость равна 30 футов.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 63",
+            "action": "",
+            "id": "ancestry-feat-poppet-quadruped",
+            "archetype": ""
+        },
+        {
+            "fullName": "Блестящие глазки-пуговки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3343\">Shiny Button Eyes</a>) / 1",
+            "name": "Блестящие глазки-пуговки",
+            "originalName": "Shiny Button Eyes",
+            "level": 1,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Вы отполировали свои глаза, чтобы отражать мельчайшие детали в тусклом свете.\nВы получаете бонусную способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-canny-acumen\">Проницательность (Canny Acumen) / 1</span>, но вы обязаны выбрать Восприятие.\nЕще вы получаете бонус обстоятельства +1 к проверкам Восприятия против <span class=\"t-visual\">визуальных</span> <span class=\"t-illusion\">иллюзий</span>.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "",
+            "id": "ancestry-feat-poppet-shiny-button-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вымывание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3344\">Wash Out</a>) / 1",
+            "name": "Вымывание",
+            "originalName": "Wash Out",
+            "level": 1,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Токсины быстрее выходят из вашего искусственного тела.\nКаждый раз, когда вы получаете успех спасброска Стойкости против действующего <span class=\"t-poison\">яда</span>, то снижаете его стадию на 2, или на 1 для <span class=\"t-virulent\">вирулентного</span> яда.\nКаждый раз, когда вы получаете критический успех спасброска против действующего яда, то снижаете его стадию на 3, или на 2 для вирулентного яда.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "",
+            "id": "ancestry-feat-poppet-wash-out",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрый умелец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3345\">Cunning Tinker</a>) / 5",
+            "name": "Хитрый умелец",
+            "originalName": "Cunning Tinker",
+            "level": 5,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Время, потраченное на уход за собственной формой, открыло в вас талант чинить другие вещи.\nВы можете 1 раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-m-mending\">Починка (Mending) / Закл. 1</span> 1-го уровня как врожденное арканное заклинание.\nНа 7-м уровне это заклинание усиливается до 2-го уровня, а каждые последующие 3 уровня оно усиливается на 1 уровень заклинания.\nНесмотря на то, что вы живой, а не объект, и вы не можете восстанавливать ОЗ от эффектов чинящих объекты (как например <span class=\"card-link std std-ref\" data-id=\"skill-crafting-repair\">Ремонт (Repair)</span>), вы можете выбирать себя целью этого врожденного заклинания и использовать его для восстановления ОЗ.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "",
+            "id": "ancestry-feat-poppet-cunning-tinker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наигранное ранение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3346\">Histrionic Injury</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Наигранное ранение",
+            "originalName": "Histrionic Injury",
+            "level": 5,
+            "traits": [
+                "ментальный",
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо которое вы можете видеть, наносит вам урон <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Вы отвечаете изумленным взглядом, драматическим падением или театральным взмахом руки, что ставит нападающего в тупик.\nНападающий должен успешно совершить спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что выше, иначе будет <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 1</span> на 1 раунд (<span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 2</span> при критическом провале).</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "реакция",
+            "id": "ancestry-feat-poppet-histrionic-injury",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ничего кроме пуха (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3347\">Nothing but Fluff</a>) / 5",
+            "name": "Ничего кроме пуха",
+            "originalName": "Nothing but Fluff",
+            "level": 5,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Набивной (Stuffed Poppet)</span></p><p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>В ваших набитых пухом внутренностях отсутствуют конкретные органы и каркас, и там мало уязвимых мест, чтобы их можно было ранить.\nВы получаете сопротивление точному урону, равное половине вашего уровня.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "",
+            "id": "ancestry-feat-poppet-nothing-but-fluff",
+            "archetype": ""
+        },
+        {
+            "fullName": "Герметичная кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3348\">Sealed Poppet</a>) / 5",
+            "name": "Герметичная кукла",
+            "originalName": "Sealed Poppet",
+            "level": 5,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Вы укрепили свои внутренние детали герметиком или другими огнестойкими материалами, защищающими вас от огня.\nУ вас больше нет слабости к огню от умения \"Легковоспламеняющийся (Flammable)\".</p><p><strong>Особенность</strong>: Вы не можете взять эту способность если у вас наследие <span class=\"card-link \">Набивной (Stuffed Poppet)</span>.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "",
+            "id": "ancestry-feat-poppet-sealed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искра независимости (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3349\">Spark of Independence</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Искра независимости",
+            "originalName": "Spark of Independence",
+            "level": 5,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 64</p><hr class=\"docutils\"><p>Вы касаетесь существа с признаком <span class=\"t-minion\">миньон</span> и передаете ему открывшееся вам возвышенное чувство самостоятельности.\nЭтот миньон <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span> на 1 раунд, а затем временно иммунен на 10 минут.\nОн может использовать это дополнительное действие на <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>, <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> или <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 64",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-poppet-spark-of-independence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Плавающая кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3350\">Swimming Poppet</a>) / 5",
+            "name": "Плавающая кукла",
+            "originalName": "Swimming Poppet",
+            "level": 5,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Ваши плавники, ласты или другие приспособления помогают перемещаться по воде.\nВы получаете Скорость плавания 15 футов.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-swimming",
+            "archetype": ""
+        },
+        {
+            "fullName": "Взвешенная кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3351\">Scaling Poppet</a>) / 9",
+            "name": "Взвешенная кукла",
+            "originalName": "Scaling Poppet",
+            "level": 9,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>В вашу конструкцию встроены веревки, крючки или другие приспособления, помогающие вам передвигаться по крутым поверхностям.\nВы получаете Скорость карабканья 15 футов.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-scaling",
+            "archetype": ""
+        },
+        {
+            "fullName": "Забросить и подсечь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3352\">Wheedle and Jig</a>) / 9",
+            "name": "Забросить и подсечь",
+            "originalName": "Wheedle and Jig",
+            "level": 9,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Вы делаете дурашливые движения и издаете глупые звуки, чтобы привлечь внимание посторонних.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-e-enthrall\">Захватывающая речь (Enthrall) / Закл. 3</span> как врожденное арканное заклинание 3-го уровня.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-wheedle-and-jig",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невозможные сплетни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3353\">Impossible Gossip</a>) / 13",
+            "name": "Невозможные сплетни",
+            "originalName": "Impossible Gossip",
+            "level": 13,
+            "traits": [
+                "необычный",
+                "кукла"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Вы можете разговаривать с неодушевленными объектами, находя в них магическую искру, подобную той, что оживила вас.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-s-stone-tell\">Разговор с камнями (Stone Tell) / Закл. 6</span> как врожденное арканное заклинание, но вместо того, чтобы говорить с природным или обработанным камнем, вы говорите с игрушками, статуями или другими трехмерными неодушевленными объектами, созданными для подражания внешнего вида существа, независимо от их состава.\nМастер на свое усмотрение определяет, с какими объектами вы можете говорить и что они знают, хотя объекты обычно имеют хорошее мнение о тех, кто о них заботился, и плохое - о тех, кто ими пренебрегал или игнорировал.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-impossible-gossip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оживляющая искра (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3354\">Reanimating Spark</a>) / 13",
+            "name": "Оживляющая искра",
+            "originalName": "Reanimating Spark",
+            "level": 13,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: У вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и вы готовы совершить проверку восстановления</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Оживляющая вас магия усиливается, чтобы сохранить вам жизнь.\nВы восстанавливаетесь до 1 ОЗ, теряете состояния <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> и <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> и можете в этот ход действовать нормально.\nКогда вы теряете состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> таким образом, то как обычно получаете или увеличиваете состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>Предположительно это должно быть реакцией <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">.</p>\n</div>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "реакция",
+            "id": "ancestry-feat-poppet-reanimating-spark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свободно извиваться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3355\">Squirm Free</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Свободно извиваться",
+            "originalName": "Squirm Free",
+            "level": 13,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">хватает</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвиживает</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживает</span> вас</p><p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Вы привыкли выскальзывать из хватки более крупного существа или избегать излишне восторженных объятий ребенка.\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "реакция",
+            "id": "ancestry-feat-poppet-squirm-free",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сшить заново (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3356\">Restitch</a>) / 17",
+            "name": "Сшить заново",
+            "originalName": "Restitch",
+            "level": 17,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>Вы научились сшивать вместе даже самые ужасные разрывы и раны.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-r-regenerate\">Регенерация (Regenerate) / Закл. 7</span> как врожденное арканное заклинание 7-го уровня.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-restitch",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парящая кукла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3357\">Soaring Poppet</a>) / 17",
+            "name": "Парящая кукла",
+            "originalName": "Soaring Poppet",
+            "level": 17,
+            "traits": [
+                "кукла"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Grand Bazaar pg. 65</p><hr class=\"docutils\"><p>В вашей конструкции есть лоскуты ткани или плетения, которые могут удерживать вас в воздухе.\nВы получаете Скорость полета 15 футов.</p>",
+            "src": "Lost Omens: Grand Bazaar pg. 65",
+            "action": "",
+            "id": "ancestry-feat-poppet-soaring",
+            "archetype": ""
+        },
+        {
+            "fullName": "Как в жизни, так и в смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3532\">As in Life, So in Death</a>) / 1",
+            "name": "Как в жизни, так и в смерти",
+            "originalName": "As in Life",
+            "level": 1,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Конкретные воспоминания о вашей прежней жизни трудно удержать, но вы знаете вещи, не помня почему.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-adopted-ancestry\">Заимствованная родословная (Adopted Ancestry) / 1</span>.\nВы можете выбрать любую родословную, но, скорее всего, она должна соответствовать как вашему наследию скелета, так и тому, кем вы были в жизни.\nПока ваше тело полностью закрыто доспехами или одеждой, вам не нужно совершать проверок Обмана против КС Восприятия существа, чтобы успешно <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Притвориться (Impersonate)</span> представителем этой родословной.\nЭто немагическая маскировка, которая не защищает от <span class=\"t-divination\">прорицания</span>.\nЭта маскировка не дает никаких преимуществ против существ, активно выполняющих против вас проверку Восприятия.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "",
+            "id": "ancestry-feat-skeleton-as-in-life-so-in-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Распасться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3533\">Collapse</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Распасться",
+            "originalName": "Collapse",
+            "level": 1,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Триггер</strong>: <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> врага по вам был критическим попаданием</p><p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Вы рассыпаетесь грудой костей, смягчая тяжелейший урон, который вы могли бы получить, а спровоцировавшая атака наносит только тот урон, который она нанесла бы при обычном попадании (обычно полный урон вместо двойного).\nЛюбые другие эффекты, вызванные критическим попаданием, все еще происходят.\nВ распавшемся состоянии вы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> и не можете действовать, кроме как <span class=\"card-link std std-ref\" data-id=\"action-stand\">Встать (Stand) </span>, что пересобирает вас в скелета в положении стоя.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "реакция",
+            "id": "ancestry-feat-skeleton-collapse",
+            "archetype": ""
+        },
+        {
+            "fullName": "Притвориться мертвым (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3534\">Play Dead</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Притвориться мертвым",
+            "originalName": "Play Dead",
+            "level": 1,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Вы лежите <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> и притворитесь обычным скелетом.\nПока вы не двигаетесь и не предпринимаете никаких действий, кроме требующих только вашего сознания, вы кажетесь мертвым.\nЧтобы раскусить вашу уловку, другое существо должно совершить успешную проверку против вашего КС Обмана, либо с помощью <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиска (Seeking)</span>, либо <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> (обычно с помощью Религии или соответствующего навыка Знаний).\nЭто умение не действует против существ, которые уже знают, что вы оживленная нежить, если только вы не изменили свой облик.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-skeleton-play-dead",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эмпатия нежити (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3535\">Undead Empathy</a>) / 1",
+            "name": "Эмпатия нежити",
+            "originalName": "Undead Empathy",
+            "level": 1,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Ваша связь с нежизнью дает вам более сильную связь с другой нежитью.\nВы можете использовать Дипломатию, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на <span class=\"t-mindless\">неразумную</span> <span class=\"t-undead\">нежить</span> или обратиться к ним с простой <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьбой (Request)</span>.\nЕсли поблизости нет живых существ, они обычно позволяют вам говорить.\nЕсли эта нежить в данный момент находится под властью существа, чей уровень выше вашего, то вам обычно требуется критический успех проверки навыка Дипломатии.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "",
+            "id": "ancestry-feat-skeleton-undead-empathy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прошлая жизнь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3536\">Past Life</a>) / 5",
+            "name": "Прошлая жизнь",
+            "originalName": "Past Life",
+            "level": 5,
+            "traits": [
+                "скелет"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Book of the Dead pg. 56</p><hr class=\"docutils\"><p>Вспышки вашей жизни становятся все более четкими и частыми, позволяя вам применять навыки, развитые при жизни.\nВы становитесь обучены навыку на свой выбор и получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-additional-lore\">Дополнительные знания (Additional Lore) / 1</span> для подраздела Знаний, связанного с вашей жизнью.</p>",
+            "src": "Book of the Dead pg. 56",
+            "action": "",
+            "id": "ancestry-feat-skeleton-past-life",
+            "archetype": ""
+        }
+    ]
+}

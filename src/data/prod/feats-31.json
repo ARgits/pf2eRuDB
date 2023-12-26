@@ -1,0 +1,1585 @@
+{
+    "feats": [
+        {
+            "fullName": "Рабочие инструменты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1915\">Tools of the Trade</a>) / 4",
+            "name": "Рабочие инструменты",
+            "originalName": "Tools of the Trade",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bounty-hunter-dedication\">Посвящение охотника за головами (Bounty Hunter Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 163</p><hr class=\"docutils\"><p>Вы хорошо разбираетесь в оружии позволяющим вам приводить свои цели живыми.\nВы обучены обращению с болой, мягкой дубинкой и хлыстом.\nВы получаете доступ к болам.\nВсякий раз, когда вы получаете особенность класса дающую вам экспертное или выше мастерство владения определенным оружием или оружиями, то вы еще получаете его для всего оружия перечисленного в этом списке.</p><p>Дополнительно, вы не получаете штрафа за несмертельные атаки, когда используете оружие без признака <span class=\"w-nonlethal\">несмертельное</span>.</p>",
+            "src": "Advanced Player's Guide pg. 163",
+            "action": "",
+            "id": "arch-feat-bounty-hunter-tools-of-the-trade",
+            "archetype": "Охотник за головами (Bounty Hunter)"
+        },
+        {
+            "fullName": "Компания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1916\">Posse</a>) / 4",
+            "name": "Компания",
+            "originalName": "Posse",
+            "level": 4,
+            "traits": [
+                "исследование",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bounty-hunter-dedication\">Посвящение охотника за головами (Bounty Hunter Dedication) / 2</span></p><p><strong>Требования</strong>: У вас есть обозначенная добыча с помощью <span class=\"card-link std std-ref\" data-id=\"action-ranger-hunt-prey\">Выслеживать добычу (Hunt Prey) </span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 163</p><hr class=\"docutils\"><p>Потратив 1 минуту, давая указания, чтобы помочь выследить свою добычу, вы инструктируете вплоть до 5 готовых существ, чтобы помочь вам.\nОни получают бонус обстоятельства +1 на <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживание (Track)</span> вашей добычи и <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> о ней.\nВы и помогающие вам существа получаете бонус обстоятельства +1 к броскам инициативы, когда вступаете в бой с вашей добычей.</p><p>Это преимущество длится пока вы не обозначите новую добычу или ваша добыча не умрет, в зависимости от того, что произойдет раньше.\nИндивидуальное существо, помогающее вам, теряет это преимущество, если оно не находит рядом с вами достаточно долго, чтобы пользоваться вашими инструкциями.\nОбычно это 1 час, но оставляется на усмотрение Мастера.</p>",
+            "src": "Advanced Player's Guide pg. 163",
+            "action": "",
+            "id": "arch-feat-bounty-hunter-posse",
+            "archetype": "Охотник за головами (Bounty Hunter)"
+        },
+        {
+            "fullName": "Держать темп (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1917\">Keep Pace</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Держать темп",
+            "originalName": "Keep Pace",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bounty-hunter-dedication\">Посвящение охотника за головами (Bounty Hunter Dedication) / 2</span></p><p><strong>Триггер</strong>: Ваша добыча в пределах вашей досягаемости и пытается уйти от вас</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 163</p><hr class=\"docutils\"><p>Ваша добыча не может сбежать.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до вашей Скорости, следуя за противником и держа его в досягаемости в течение этого движения, пока он не перестанет двигаться или вы не пройдете свою полную Скорость.\nВы можете \"Держать темп\" с <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> вместо Перемещения, если у вас есть соответствующий вид движения.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-APG-r2: </span>В первом предложении слово \"Сбежать (Escape)\" было написано с большой буквы, ссылаясь на одноименное действие и подразумевая игровую механику, что было ошибкой и являлось просто красочным описанием.\nВ переводе это изначально не было выделено как действие <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 163",
+            "action": "реакция",
+            "id": "arch-feat-bounty-hunter-keep-pace",
+            "archetype": "Охотник за головами (Bounty Hunter)"
+        },
+        {
+            "fullName": "Возможность для захвата (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1918\">Opportunistic Grapple</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Возможность для захвата",
+            "originalName": "Opportunistic Grapple",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bounty-hunter-dedication\">Посвящение охотника за головами (Bounty Hunter Dedication) / 2</span></p><p><strong>Требования</strong>: Ваша добыча в пределах вашей досягаемости, у вас свободна хотя бы одна свободная рука, и ваша цель не более чем на один размера больше вас</p><p><strong>Триггер</strong>: Ваша добыча критически проваливает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя при совершении броска атаки</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 163</p><hr class=\"docutils\"><p>Вы совершаете проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span> свою добычу.</p>",
+            "src": "Advanced Player's Guide pg. 163",
+            "action": "реакция",
+            "id": "arch-feat-bounty-hunter-opportunistic-grapple",
+            "archetype": "Охотник за головами (Bounty Hunter)"
+        },
+        {
+            "fullName": "Посвящение кавалериста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1919\">Cavalier Dedication</a>) / 2",
+            "name": "Посвящение кавалериста",
+            "originalName": "Cavalier Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе или Обществу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы получаете молодого зверя-компаньона, который служит вам ездовым животным.\nВы можете выбрать из числа зверей-компаньонов с особенностью \"ездовое животное\", а так же на усмотрение Мастера, любые дополнительные варианты от вашей клятвы.\nВы должны выбрать зверя-компаньона, который хотя бы на один размер больше вас, но если изначальный размер зверя обычно маленький, то вы можете начать со зверем среднего размера (не меняя его характеристики кроме размера).</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа кавалериста.\nЭто ограничение отменяется, если вы дали клятву организации, связанной с другой способностью посвящения.\nНапример, если вы дали клятву ордену \"Хеллнайтов\", то можете взять способности посвящения \"Хеллнайтов\" (см. <span class=\"card-link \">Архетипы Хеллнайтов (Hellknight Archetypes)</span>) без необходимости сначала получать другие способности архетипа кавалериста.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "",
+            "id": "arch-feat-cavalier-dedication",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Знамя кавалериста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1920\">Cavalier's Banner</a>) / 4",
+            "name": "Знамя кавалериста",
+            "originalName": "Cavalier's Banner",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "эмоция",
+                "визуальный",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Требования</strong>: Вы дали клятву служить определенной организации или идеалу (см. сноску)</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы развеваете знамя своей клятвы с вашего ездового животного, поднимая дух своих союзников.\nВы и все союзники в пределах 30 футов, получаете бонус обстоятельства +1 к спасброскам Воли и КС против эффектов страха.\nЕсли ваше знамя уничтожено или убрано, союзники в пределах 30 футов получают состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "",
+            "id": "arch-feat-cavalier-cavaliers-banner",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Атака кавалериста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1921\">Cavalier's Charge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Атака кавалериста",
+            "originalName": "Cavalier's Charge",
+            "level": 4,
+            "traits": [
+                "размах",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Требования</strong>: Вы верхом на своем ездовом животном</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы используете <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, чтобы скакун дважды выполнил <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nВ любой момент этого движения, вы можете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударить (Strike)</span> одного врага в пределах досягаемости или в пределах первого шага дистанционного оружия.\nВы получаете бонус обстоятельства +1 к своему броску атаки.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-cavalier-cavaliers-charge",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Впечатляющий скакун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1922\">Impressive Mount</a>) / 4",
+            "name": "Впечатляющий скакун",
+            "originalName": "Impressive Mount",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы натренировали своего скакуна, чтобы стать мощной силой на поле боя.\nЕздовое животное, которого вы получили от <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span>, становится взрослым зверем-компаньоном, что дает ему дополнительные возможности.\nВо время столкновения, даже если вы не используете действие <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, то ваш зверь-компаньон все еще может в ваш ход использовать 1 действие за раунд, чтобы выполнить <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> или <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "",
+            "id": "arch-feat-cavalier-impressive-mount",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Быстро оседлать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1923\">Quick Mount</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Быстро оседлать",
+            "originalName": "Quick Mount",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Природы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Требования</strong>: Вы рядом с существом, которое хотя бы на один размер больше вас и готово быть вашим скакуном</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы и ваш скакун можете начать действовать в любой момент.\nВы <span class=\"card-link std std-ref\" data-id=\"action-mount\">Седлаете (Mount)</span> существо и используете <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, чтобы дать команду на ваше усмотрение.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "одиночное действие",
+            "id": "arch-feat-cavalier-quick-mount",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Защитить скакуна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1924\">Defend Mount</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Защитить скакуна",
+            "originalName": "Defend Mount",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Триггер</strong>: Когда вы верхом на скакуне, враг совершает бросок атаки по вашему скакуну</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы вклиниваетесь между нападающим и своим скакуном, защищая его от вреда.\nДля спровоцировавшей атаки вы используете свой КБ, вместо КБ вашего скакуна.\nЕсли спровоцировавшая атака попадает, то вы получаете эффекты атаки вместо вашего скакуна.</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "реакция",
+            "id": "arch-feat-cavalier-defend-mount",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Защита верхом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1925\">Mounted Shield</a>) / 6",
+            "name": "Защита верхом",
+            "originalName": "Mounted Shield",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 164</p><hr class=\"docutils\"><p>Вы тренировались со своим щитом, чтобы защитить себя и своего скакуна.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span> находясь верхом, вы и ваш скакун получаете бонус обстоятельства к КБ от щита.\nЕсли у вас есть реакция <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> и пока вы верхом на скакуне, то можете использовать ее в ответ на урон по вашему скакуну.\nЕсли вы это делаете, то щит защищает от урона вашего скакуна вместо вас, далее следуя обычным правилам для \"Блока щитом\".</p>",
+            "src": "Advanced Player's Guide pg. 164",
+            "action": "",
+            "id": "arch-feat-cavalier-mounted-shield",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Невероятный скакун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1926\">Incredible Mount</a>) / 8",
+            "name": "Невероятный скакун",
+            "originalName": "Incredible Mount",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-impressive-mount\">Впечатляющий скакун (Impressive Mount) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 165</p><hr class=\"docutils\"><p>С вашим присмотром и тренировкой, ваш скакун реализовал свой врожденный потенциал.\nЕздовое животное, которое вы получили от <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span> становится ловким или свирепым зверем-компаньоном (на ваш выбор), получая дополнительные возможности в зависимости от вида компаньона (см. <span class=\"card-link \">Виды компаньонов (Companion Types)</span>).</p>",
+            "src": "Advanced Player's Guide pg. 165",
+            "action": "",
+            "id": "arch-feat-cavalier-incredible-mount",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Растаптывающее нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1927\">Trampling Charge</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Растаптывающее нападение",
+            "originalName": "Trampling Charge",
+            "level": 10,
+            "traits": [
+                "размах",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Требования</strong>: Вы верхом на ездовом животном, которое имеет <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя своими ногами (когтями, лапой, копытом, и т.п.)</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 165</p><hr class=\"docutils\"><p>Вы подгоняете вашего скакуна вперед, топча врагов на своем пути.\nВы командуете своему скакуну сделать <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до его Скорости (или <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> если у него есть подходящий вид передвижения), двигаясь через пространства любых врагов на своем пути, вплоть до одного размера меньше вашего ездового животного.\nВаш скакун наносит своими ногами урон, каждому существу, через чье пространство вы прошли, равный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удару (Strike)</span> ближнего боя, заставляя сделать простой спасбросок Рефлекса против КС Атлетики вашего скакуна.\nПри крит.провале, существо еще становится застигнутым врасплох до конца вашего следующего хода.\nВо время этого движения, вы можете нанести урон каждому существу только раз.</p>",
+            "src": "Advanced Player's Guide pg. 165",
+            "action": "активность из 3-х действий",
+            "id": "arch-feat-cavalier-trampling-charge",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Выбить из седла (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1928\">Unseat</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Выбить из седла",
+            "originalName": "Unseat",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Требования</strong>: Вы верхом на своем скакуне и владеете оружием с признаком <span class=\"w-jousting\">кавалерийское</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 165</p><hr class=\"docutils\"><p>Вы пытаетесь сбить противника с его ездового животного.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по противнику верхом на ездовом животном.\nЕсли ваша атака попадает, сделайте проверку Атлетики против КС Стойкости оппонента.\nВ случае успеха, противник будет сброшен со своего скакуна в пространство на его выбор, рядом с его ездовым животным.\nВ случае вашего крит.успеха, он падает <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> на землю.</p>",
+            "src": "Advanced Player's Guide pg. 165",
+            "action": "одиночное действие",
+            "id": "arch-feat-cavalier-unseat",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Специализация скакуна (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1929\">Specialized Mount</a>) / 14",
+            "name": "Специализация скакуна",
+            "originalName": "Specialized Mount",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-incredible-mount\">Невероятный скакун (Incredible Mount) / 8</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 165</p><hr class=\"docutils\"><p>Вы натренировали своего скакуна действовать в необычных или даже экстремальных обстоятельствах, наделив его умениями намного превосходящими способности других его собратьев.\nОн получает 1 специализацию по вашему выбору (см. <span class=\"card-link \">Специализация зверя-компаньона (Specialized Animal Companions)</span>).</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность вплоть до 3 раз.\nКаждый раз добавляете другую специализацию своему скакуну.\nВаш скакун может иметь не более 3 специализаций.</p>",
+            "src": "Advanced Player's Guide pg. 165",
+            "action": "",
+            "id": "arch-feat-cavalier-specialized-mount",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Легендарный всадник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1930\">Legendary Rider</a>) / 20",
+            "name": "Легендарный всадник",
+            "originalName": "Legendary Rider",
+            "level": 20,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cavalier-dedication\">Посвящение кавалериста (Cavalier Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 165</p><hr class=\"docutils\"><p>Вы и ваше ездовое животное двигаетесь как одно существо, легко понимая сигналы друг друга.\nКогда вы верхом на своем скакуне, то получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span>;\nвы можете использовать это дополнительное действие только на <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 165",
+            "action": "",
+            "id": "arch-feat-cavalier-legendary-rider",
+            "archetype": "Кавалерист (Cavalier)"
+        },
+        {
+            "fullName": "Посвящение знаменитости (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1931\">Celebrity Dedication</a>) / 2",
+            "name": "Посвящение знаменитости",
+            "originalName": "Celebrity Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>архетип</p></li>\n<li><p>посвящение</p></li>\n</ul><p><strong>Источник</strong>: Advanced Player's Guide pg. 166</p><hr class=\"docutils\"><p>Чем больше людей смотрят на вас, тем больше вы довольны, и вы используете любую возможность, чтобы показать другим, когда их выступления менее совершенны.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-celebrity-upstage\">Превзойти (Upstage) </span>.\nЕще, когда вы <span class=\"card-link \">Зарабатываете деньги (Earn Income)</span>, и уровень этой задачи выше вашего уровня, то вы получаете бонус обстоятельства +1 к своей проверке \"Заработка денег\".</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа знаменитости.</p><section class=\"description\" id=\"upstage\">\n<span id=\"action-celebrity-upstage\"></span><h3>Превзойти (Upstage) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"></h3>\n<p><strong>Триггер</strong>: Враг совершает проверку навыка, и не получает критический успех</p>\n<hr class=\"docutils\">\n<p>После того, как ваш враг сделал все возможное, вы показываете всем, как это делается на самом деле.\nСделайте проверку, используя тот же навык, который спровоцировал эту реакцию.</p>\n<div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: До конца своего следующего хода вы получаете бонус состояния +1 к броскам атак, проверкам Восприятия, спасброскам и проверкам навыков</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но вы получаете эти преимущества только если спровоцировавшее существо провалило свою проверку навыка</div>\n</div>\n</section>",
+            "src": "Advanced Player's Guide pg. 166",
+            "action": "реакция",
+            "id": "arch-feat-celebrity-dedication",
+            "archetype": "Знаменитость (Celebrity)"
+        },
+        {
+            "fullName": "Не уставать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1932\">Never Tire</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Не уставать",
+            "originalName": "Never Tire",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-celebrity-dedication\">Посвящение знаменитости (Celebrity Dedication) / 2</span></p><p><strong>Триггер</strong>: Вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span></p><p><strong>Требования</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> хотя бы для 3 существ, которые не ваши противники</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 166</p><hr class=\"docutils\"><p>Пока у вас есть аудитория, вы можете продолжать выступать.\nДействительно, вы должны - у вас есть обязательства перед вашими поклонниками!\nВы откладываете эффекты состояния <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span> на 1 минуту или пока вы больше не на виду у требуемых существ, в зависимости от того, что произойдет раньше.\nЕсли у состояния <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span> есть продолжительность, то она начинает истекать только после задержки.\nВы не можете больше задерживать или предотвращать состояние <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлен</span> после того, как заканчивается это умение.</p>",
+            "src": "Advanced Player's Guide pg. 166",
+            "action": "реакция",
+            "id": "arch-feat-celebrity-never-tire",
+            "archetype": "Знаменитость (Celebrity)"
+        },
+        {
+            "fullName": "Завораживающий взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1933\">Mesmerizing Gaze</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Завораживающий взгляд",
+            "originalName": "Mesmerizing Gaze",
+            "level": 6,
+            "traits": [
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "визуальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-celebrity-dedication\">Посвящение знаменитости (Celebrity Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 166</p><hr class=\"docutils\"><p>Когда вы встречаетесь с кем-то взглядом, то они не могут отвести взгляд.\nВыберите целью 1 существо.\nЭто существо должно успешно совершить спасбросок Воли или будет \"заворожено\" до конца вашего следующего хода; КС этого спасброска равен вашему КС класса или КС заклинания, в зависимости от того, что больше.\nЕсли существо успешно делает свой спасбросок или его заворожение проходит из-за враждебного действия, оно становится временно иммунным к вашему \"Завораживающему взгляду\" на 1 день.</p><p>Когда вы выбираете эту способность, она получает либо признак <span class=\"t-arcana\">аркана</span>, либо <span class=\"t-occult\">оккультный</span>; как только вы сделали этот выбор, то не можете изменить его.</p>",
+            "src": "Advanced Player's Guide pg. 166",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-celebrity-mesmerizing-gaze",
+            "archetype": "Знаменитость (Celebrity)"
+        },
+        {
+            "fullName": "Привлечь внимание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1934\">Command Attention</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Привлечь внимание",
+            "originalName": "Command Attention",
+            "level": 10,
+            "traits": [
+                "очарование",
+                "эмоция",
+                "визуальный",
+                "слуховой",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-celebrity-dedication\">Посвящение знаменитости (Celebrity Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 166</p><hr class=\"docutils\"><p>Вы стильно управляете вниманием всех вокруг вас, гарантируя, что до конца вашего следующего хода их взгляд будет обращен только на вас.\nКогда существа в пределах 30 футов от вас совершают спасброски против других визуальных эффектов, то они используют результат успеха на одну ступень лучше, чем та что у них получилась при броске.\nЧтобы выбрать целью любое существо помимо вас, враг в пределах области, пытающийся использовать визуальный эффект, который включает в себя сосредоточение внимания на конкретном существе (например \"Сосредоточить взгляд (Focus Gaze)\" <span class=\"card-link \">медузы</span>), должен сделать успешный спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше.\nТак как вы постоянно отвлекаете внимание, то союзники в области могут попытаться <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> даже если у них нет укрытия.</p>",
+            "src": "Advanced Player's Guide pg. 166",
+            "action": "одиночное действие",
+            "id": "arch-feat-celebrity-command-attention",
+            "archetype": "Знаменитость (Celebrity)"
+        },
+        {
+            "fullName": "Посвящение денди (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1935\">Dandy Dedication</a>)  / 2",
+            "name": "Посвящение денди",
+            "originalName": "Dandy Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 167</p><hr class=\"docutils\"><p>Вы отлично разбираетесь в этикете, моде и чувстве собственного достоинства.\nВы можете использовать навык Дипломатии, чтобы выполнять особую активность отдыха \"Повлиять на слух (Influence Rumor)\", тратя минимум 1 день отдыха для изменения хода, тона или содержания слуха в свою пользу.\nСложность для \"Повлиять на слух\" определяется Мастером, в зависимости от размера сообщества, относительной восприимчивости жителей и активности других распространителей слухов, но обычно она начинается как минимум с КС 15 для небольшой деревни и увеличивается до минимум КС 20 для города, минимум КС 30 для крупного города и минимум КС 40 для мегаполиса.</p><p>Вы становитесь обучены Обману и Обществу; если вы уже были обучены, то вместо этого становитесь экспертом.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа денди.</p>",
+            "src": "Advanced Player's Guide pg. 167",
+            "action": "",
+            "id": "arch-feat-dandy-dedication",
+            "archetype": "Денди (Dandy)"
+        },
+        {
+            "fullName": "Отвлекающая лесть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1936\">Distracting Flattery</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Отвлекающая лесть",
+            "originalName": "Distracting Flattery",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Обмана, <span class=\"card-link std std-ref\" data-id=\"arch-feat-dandy-dedication\">Посвящение денди (Dandy Dedication)  / 2</span></p><p><strong>Триггер</strong>: Вы наблюдаете, как в результате поведения вашего союзника, снижается отношение цели к вам или вашим союзникам</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 167</p><hr class=\"docutils\"><p>Вы знаете, как поддерживать хорошее впечатление и управлять своим имиджем, даже находясь в грубой компании.\nСделайте проверку Обмана против КС Воли цели.\nНезависимо от вашего результата, цель временно иммунна к вашей \"Отвлекающей лести\" на 10 минут.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Отношение цели не уменьшается из-за социальной оплошности вашего союзника</div>\n<div class=\"line\"><strong>Провал</strong>: Отношение цели снижается как обычно</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваша попытка лишь усугубляет ситуацию, уменьшая отношение цели к вам на один шаг, в дополнение к любым изменениям в поведении, которые спровоцировали эту реакцию</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 167",
+            "action": "реакция",
+            "id": "arch-feat-dandy-distracting-flattery",
+            "archetype": "Денди (Dandy)"
+        },
+        {
+            "fullName": "Знание слухов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1937\">Gossip Lore</a>) / 4",
+            "name": "Знание слухов",
+            "originalName": "Gossip Lore",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dandy-dedication\">Посвящение денди (Dandy Dedication)  / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 167</p><hr class=\"docutils\"><p>Время, проведенное за сплетнями в модных салонах, позволяет вам быть в курсе всех тем.\nВы обучены Знаниям слухов, особом навыке Знаний, который может быть использован только для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, но по любой теме.\nЕсли вы проваливаете проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> со Знаниями слухов, то получаете эффекты способности навыка <span class=\"card-link std std-ref\" data-id=\"feat-dubious-knowledge\">Сомнительные знания (Dubious Knowledge) / 1</span>.</p><p>Если вы легенда Общества, то становитесь экспертом в Знаниях слухов, но вы не можете увеличить ваш уровень мастерства Знаний слухов никакими другими способами.</p>",
+            "src": "Advanced Player's Guide pg. 167",
+            "action": "",
+            "id": "arch-feat-dandy-gossip-lore",
+            "archetype": "Денди (Dandy)"
+        },
+        {
+            "fullName": "Сфабрикованные связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1938\">Fabricated Connections</a>) / 7",
+            "name": "Сфабрикованные связи",
+            "originalName": "Fabricated Connections",
+            "level": 7,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Обмана, <span class=\"card-link std std-ref\" data-id=\"arch-feat-dandy-dedication\">Посвящение денди (Dandy Dedication)  / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 167</p><hr class=\"docutils\"><p>Вы можете лгать о том, что предприняли действие настолько убедительно, что вы получаете все ощутимые выгоды от его успешного завершения.\nВы можете кидать Обман вместо другого навыка, когда используете <span class=\"card-link \">Заработок денег (Earn Income)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьба (Request) </span> или <span class=\"card-link \">Проживание (Subsist)</span>.\nВы можете использовать \"Сфабрикованные связи\" для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьба (Request) </span> только раз в день, и раз в неделю для <span class=\"card-link \">Заработок денег (Earn Income)</span> или <span class=\"card-link \">Проживание (Subsist)</span></p>",
+            "src": "Advanced Player's Guide pg. 167",
+            "action": "",
+            "id": "arch-feat-dandy-fabricated-connections",
+            "archetype": "Денди (Dandy)"
+        },
+        {
+            "fullName": "Незванный гость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1939\">Party Crasher</a>) / 7",
+            "name": "Незванный гость",
+            "originalName": "Party Crasher",
+            "level": 7,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Общества, <span class=\"card-link std std-ref\" data-id=\"arch-feat-dandy-dedication\">Посвящение денди (Dandy Dedication)  / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 167</p><hr class=\"docutils\"><p>Вы посещаете все модные светские приемы, какими бы эксклюзивными они ни были.\nКаждый раз, когда вы сталкиваетесь с социальным событием, на которое вам обычно отказывают в доступе, таким как коронация, королевская торжественная церемония или другое общественное мероприятие, вы можете потратить 1d4 часа, чтобы обеспечить вход без необходимости делать проверку навыка.\nВы находите приглашения, приглашенных лиц ищущих модных компаньонов, временную работу у поставщиков провизии, персонал мероприятий, готовый смотреть сквозь пальцы, или какой-то другой способ доступа для себя и своих союзников.\nЭто умение не применяется к секретным мероприятиям или другим маленьким частным собраниям без персонала, дат или участия посторонних.</p>",
+            "src": "Advanced Player's Guide pg. 167",
+            "action": "",
+            "id": "arch-feat-dandy-party-crasher",
+            "archetype": "Денди (Dandy)"
+        },
+        {
+            "fullName": "Посвящение ученика дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1940\">Dragon Disciple Dedication</a>) / 2",
+            "name": "Посвящение ученика дракона",
+            "originalName": "Dragon Disciple Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы кобольд с наследием <span class=\"card-link \">Магическая чешуя (Spellscale Kobold)</span> или <span class=\"card-link \">С чешуей дракона (Dragonscaled Kobold)</span>, варвар с <span class=\"card-link \">Драконий инстинкт (Dragon Instinct)</span>, или чародей с <span class=\"card-link \">Драконье (Draconic)</span> наследием крови</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 168</p><hr class=\"docutils\"><p>Вы выбираете изучать или поклоняться одному виду драконов, и ваше внимание дает вам меру его силы.\nВы становитесь обучены броскам атак и КС арканных заклинаний.\nКогда выбираете эту способность, выберите один цвет дракона; если вы чародей с драконьим наследием, то это должен быть тот же вид, что и для вашего наследия крови.\nВы получаете сопротивление одному типу урона, равное половине вашего уровня, который определяется выбранным видом дракона.\nМастер может разрешить вам выбрать вид дракона не перечисленный далее, и определит тип урона подходящий для него:</p><ul class=\"simple\">\n<li><p><strong>Черный</strong> или <strong>Медный</strong>: Кислота</p></li>\n<li><p><strong>Синий</strong> или <strong>Бронзовый</strong>: Электричество</p></li>\n<li><p><strong>Красный</strong>, <strong>Латунный</strong> или <strong>Золотой</strong>: Огонь</p></li>\n<li><p><strong>Зеленый</strong>: яд</p></li>\n<li><p><strong>Серебряный</strong> или <strong>Белый</strong>: Холод</p></li>\n</ul><p>Еще вы получаете бонус обстоятельства +1 к спасброскам от эффектов сна и эффектов, которые дадут вам состояние <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа ученика дракона.\nЕсли потом возьмете архетип чародея, то вы должны выбирать наследие драконьей крови.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-APG-r2: </span>Посвящение добавляет ранг мастерства \"обучен\" для бросков атак арканных заклинаний и КС, на случай если потом из архетипа будут взяты способности дающие арканные заклинания.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 168",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-dedication",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Когти дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1941\">Claws of the Dragon</a>) / 4",
+            "name": "Когти дракона",
+            "originalName": "Claws of the Dragon",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 168</p><hr class=\"docutils\"><p>Ваши ногти превращаются в острые, как бритва, когти, а чешуя покрывает ваши пальцы, руки и запястья.\nВаши когти являются безоружными атаками, имеют признаки <span class=\"w-agile\">быстрое</span> и <span class=\"w-finesse\">точное</span>, наносят 1d6 рубящего урона и относятся к группе \"драка\".</p><p>Если вы драконий чародей, то когда вы колдуете <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-claws\">Драконьи когти (Dragon Claws) / Фокус. 1</span>, увеличьте кость рубящего урона заклинания с d4 до d6, и увеличьте сопротивление до 10 на 1-м уровне, 15 на 5-м уровне и 20 на 9-м уровне.</p>",
+            "src": "Advanced Player's Guide pg. 168",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-claws-of-the-dragon",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Драконий нюх (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1942\">Draconic Scent</a>) / 4",
+            "name": "Драконий нюх",
+            "originalName": "Draconic Scent",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 168</p><hr class=\"docutils\"><p>У вас сверхъестественное обоняние, как у дракона.\nВы получаете неточное сенсорное чувство - нюх, с дистанцией 30 футов.\nОбычно Мастер удвоит дистанцию если вы с подветренной стороны от существа или уменьшит вдвое, если против ветра.</p>",
+            "src": "Advanced Player's Guide pg. 168",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-draconic-scent",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Драконья аркана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1943\">Dragon Arcana</a>) / 4",
+            "name": "Драконья аркана",
+            "originalName": "Dragon Arcana",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение колдовать заклинания из слотов заклинаний, <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 168</p><hr class=\"docutils\"><p>Вы узнали, как добавить магию драконов к вашему обычаю.\nДобавьте заклинания дающиеся наследием драконьей крови в свой список заклинаний; вы все еще должны выучить их или добавить в свой репертуар как обычно.\nЭти заклинания:</p><div class=\"line-block\">\n<div class=\"line\">Чары: <span class=\"card-link std std-ref\" data-id=\"spell-s-shield\">Щит (Shield) / Чары 1</span></div>\n<div class=\"line\">1-й: <span class=\"card-link std std-ref\" data-id=\"spell-t-true-strike\">Верный удар (True Strike) / Закл. 1</span></div>\n<div class=\"line\">2-й: <span class=\"card-link std std-ref\" data-id=\"spell-r-resist-energy\">Сопротивление энергии (Resist Energy) / Закл. 2</span></div>\n<div class=\"line\">3-й: <span class=\"card-link std std-ref\" data-id=\"spell-h-haste\">Ускорение (Haste) / Закл. 3</span></div>\n<div class=\"line\">4-й: <span class=\"card-link std std-ref\" data-id=\"spell-s-spell-immunity\">Иммунитет к заклинанию (Spell Immunity) / Закл. 4</span></div>\n<div class=\"line\">5-й: <span class=\"card-link std std-ref\" data-id=\"spell-c-chromatic-wall\">Хроматическая стена (Chromatic Wall) / Закл. 5</span></div>\n<div class=\"line\">6-й: <span class=\"card-link std std-ref\" data-id=\"spell-d-dragon-form\">Форма дракона (Dragon Form) / Закл. 6</span></div>\n<div class=\"line\">7-й: <span class=\"card-link std std-ref\" data-id=\"spell-m-mask-of-terror\">Маска ужаса (Mask of Terror) / Закл. 7</span></div>\n<div class=\"line\">8-й: <span class=\"card-link std std-ref\" data-id=\"spell-p-prismatic-wall\">Призматическая стена (Prismatic Wall) / Закл. 8</span></div>\n<div class=\"line\">9-й: <span class=\"card-link std std-ref\" data-id=\"spell-o-overwhelming-presence\">Всепоглощающее присутствие (Overwhelming Presence) / Закл. 9</span></div>\n</div>",
+            "src": "Advanced Player's Guide pg. 168",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-dragon-arcana",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Чешуя дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1944\">Scales of the Dragon</a>) / 4",
+            "name": "Чешуя дракона",
+            "originalName": "Scales of the Dragon",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Чешуя растет по всему телу, защищая вас от физических и магических угроз.\nКогда вы без доспехов, чешуя дает вам бонус предмета +2 к КБ с ограничением модификатора Ловкости +3.\nЭтот бонус предмета к КБ складывается с <span class=\"card-link \">Руна мощи доспеха (Armor Potency) / Руна 5+</span> на вашей одежде исследователя, с <span class=\"card-link std std-ref\" data-id=\"spell-m-mage-armor\">Магический доспех (Mage Armor) / Закл. 1</span> или <span class=\"card-link \">Наручи брони (Bracers of Armor) / Предмет 8+</span>.\nВаше сопротивление от <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span> увеличивается до 3 + половина вашего уровня.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-APG-r2: </span>Изменен тип бонуса к КБ с \"состояния\" на \"предмета\" и добавлена его кумулятивность с другими эффектами.\nАналогично изменениям <span class=\"card-link std std-ref\" data-id=\"class-feat-barbarian-animal-skin\">Шкура животного (Animal Skin) / 6</span> и <span class=\"card-link std std-ref\" data-id=\"class-feat-monk-mountain-stance\">Стойка горы (Mountain Stance)  / 1</span> в \"errata-CR-r2\".</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-scales-of-the-dragon",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Дыхание дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1945\">Breath of the Dragon</a>) / 8",
+            "name": "Дыхание дракона",
+            "originalName": "Breath of the Dragon",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Вы можете использовать мощное дыхание, очень похожее на того дракона, которому вы подражаете.\nВы получаете заклинание наследия драконьего чародея <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-breath\">Драконье дыхание (Dragon Breath) / Фокус. 3</span> и запас Очков Фокусировки с 1 очком в запасе.\nЕсли у вас уже есть запас ОФ, то увеличьте его на 1.</p>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-breath-of-the-dragon",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Крылья дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1946\">Wings of the Dragon</a>) / 12",
+            "name": "Крылья дракона",
+            "originalName": "Wings of the Dragon",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Вы можете проявить драконьи крылья, чтобы парить в воздухе с огромной скоростью.\nВы получаете заклинание наследия драконьего чародея <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-wings\">Драконьи крылья (Dragon Wings) / Фокус. 5</span> и запас Очков Фокусировки с 1 очком в запасе.\nЕсли у вас уже есть запас ОФ, то увеличьте его на 1.</p>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-wings-of-the-dragon",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Форма дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1947\">Shape of the Dragon</a>) / 14",
+            "name": "Форма дракона",
+            "originalName": "Shape of the Dragon",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Вы узнали как превращать себя в дракона.\nРаз в день, вы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-dragon-form\">Форма дракона (Dragon Form) / Закл. 6</span> 7-го уровня, как врожденное арканное заклинание, превращаясь в вид выбранного дракона.\nЭто заклинание автоматически усиливается до 8-го уровня если вы 16-го уровня, и до 9-го если вы 18-го уровня.\nВсякий раз, когда вы критически попадаете безоружным <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> полученным от заклинания <em>форма дракона</em>, то мгновенно перезаряжаете способность дыхания.</p>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-shape-of-the-dragon",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Дыхание ученика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1948\">Disciple's Breath</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Дыхание ученика",
+            "originalName": "Disciple's Breath",
+            "level": 16,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: заклинание наследия драконьего чародея <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-breath\">Драконье дыхание (Dragon Breath) / Фокус. 3</span>, <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-dedication\">Посвящение ученика дракона (Dragon Disciple Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Вы извергаете свое дыхание не тратя очко фокусировки.\nОно обладает эффектами вашего <span class=\"card-link std std-ref\" data-id=\"spell-focus-dragon-breath\">Драконье дыхание (Dragon Breath) / Фокус. 3</span>, однако наносит 9d6 урона вместо обычного, и вам не надо колдовать его или тратить Очко Фокусировки.\nВы не можете снова использовать \"Дыхание ученика\" 1d4 раунда.</p>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-dragon-disciple-disciples-breath",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Форма могучего дракона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1949\">Mighty Dragon Shape</a>) / 18",
+            "name": "Форма могучего дракона",
+            "originalName": "Mighty Dragon Shape",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-shape-of-the-dragon\">Форма дракона (Shape of the Dragon) / 14</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 169</p><hr class=\"docutils\"><p>Вы практиковались и увеличили свою драконью мощь, что позволило вам чаще принимать драконью форму.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"arch-feat-dragon-disciple-shape-of-the-dragon\">Форма дракона (Shape of the Dragon) / 14</span> раз в час, вместо 1 раза в день.</p>",
+            "src": "Advanced Player's Guide pg. 169",
+            "action": "",
+            "id": "arch-feat-dragon-disciple-mighty-dragon-shape",
+            "archetype": "Ученик дракона (Dragon Disciple)"
+        },
+        {
+            "fullName": "Посвящение воина с двойным оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1950\">Dual-Weapon Warrior Dedication</a>) / 2",
+            "name": "Посвящение воина с двойным оружием",
+            "originalName": "Dual-Weapon Warrior Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Вы необыкновенны в использовании двух оружий.\nВы получаете способность воина <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span>.\nЭта способность подходит для соответствия предварительным условиям других способностей, где требуется <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа воина с двойным оружием.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "",
+            "id": "arch-feat-dual-weapon-warrior-dedication",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Двойной метатель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1951\">Dual Thrower</a>) / 4",
+            "name": "Двойной метатель",
+            "originalName": "Dual Thrower",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dual-weapon-warrior-dedication\">Посвящение воина с двойным оружием (Dual-Weapon Warrior Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Вы знаете как можно легко метать два оружия.\nВсякий раз, когда способность воина с двойным оружием позволяет вам сделать <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя, вместо этого вы можете сделать дистанционный Удар метательным оружием или сделать <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из одноручного дистанционного оружия, которым владеете.\nЛюбые эффекты от этих способностей, которые применяются к одноручным оружиям ближнего боя или Ударам ближнего боя, так же применяются к одноручному дистанционному оружию и дистанционным Ударам/Выстрелам.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "",
+            "id": "arch-feat-dual-weapon-warrior-dual-thrower",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Перезарядка с двумя оружиями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1952\">Dual-Weapon Reload (Dual-Weapon Warrior)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Перезарядка с двумя оружиями",
+            "originalName": "Dual-Weapon Reload",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dual-weapon-warrior-dedication\">Посвящение воина с двойным оружием (Dual-Weapon Warrior Dedication) / 2</span></p><p><strong>Требования</strong>: Вы владеете двумя одноручными оружиями, каждым в отдельной руке, одно из которых дистанционное</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Вы носите амуницию таким образом, чтобы можно было перезаряжаться, держа в руках два оружия.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы перезарядить одноручное дистанционное оружие, которое держите.\nВ отличие от большинства действий Взаимодействия, вам не нужна свободная рука, чтобы таким способом перезаряжать свое дистанционное оружие.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "одиночное действие",
+            "id": "arch-feat-dual-weapon-warrior-reload",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Свежующий разрез (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1953\">Flensing Slice</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Свежующий разрез",
+            "originalName": "Flensing Slice",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dual-weapon-warrior-dedication\">Посвящение воина с двойным оружием (Dual-Weapon Warrior Dedication) / 2</span></p><p><strong>Требования</strong>: Вашим последним действие было <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span> и обе атаки попали по цели</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Когда вы попадаете обеими атаками с <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span>, вы сдираете с цели кожу, заставляя ее кровоточить и создавая слабое место.\nЦель получает 1d8 продолжительного урона кровотечением за кость урона использованного оружия, имеющего наибольшее количество костей урона (максимум 4d8 для оружия со <span class=\"card-link \">старшей разящей руной</span>).\nЦель становится застигнута врасплох и ее сопротивления любому типу физического урона снижаются на 5; эти два эффекта длятся до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "одиночное действие",
+            "id": "arch-feat-dual-weapon-warrior-flensing-slice",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Блиц с двойным оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1954\">Dual-Weapon Blitz</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Блиц с двойным оружием",
+            "originalName": "Dual-Weapon Blitz",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dual-weapon-warrior-dedication\">Посвящение воина с двойным оружием (Dual-Weapon Warrior Dedication) / 2</span></p><p><strong>Требования</strong>: Вы владеете двумя одноручными оружиями ближнего боя, каждым в отдельной руке</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Вы атакуете, когда пробегаете среди врагов.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до своей Скорости.\nВ любой момент во время движения, вы можете сделать один <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> каждым из двух требуемых оружий.\nЭти Удары, на ваше усмотрение, могут быть по одной цели или по разным.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-dual-weapon-warrior-blitz",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Двойной натиск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1955\">Dual Onslaught</a>) / 14",
+            "name": "Двойной натиск",
+            "originalName": "Dual Onslaught",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-dual-weapon-warrior-dedication\">Посвящение воина с двойным оружием (Dual-Weapon Warrior Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 170</p><hr class=\"docutils\"><p>Когда вы набрасываетесь с обоими оружиями, то не оставляете цели места чтобы избежать атаки.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-double-slice\">Двойной разрез (Double Slice)  / 1</span>, при промахе обоими <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span>, выберите одно из двух оружий и примените эффекты попадания этого оружия.\nВы не можете выбрать то оружие, атака с которым была критическим промахом, что означает абсолютный промах, если обе атаки были крит.промахами.</p>",
+            "src": "Advanced Player's Guide pg. 170",
+            "action": "",
+            "id": "arch-feat-dual-weapon-warrior-dual-onslaught",
+            "archetype": "Воин с двойным оружием (Dual-Weapon Warrior)"
+        },
+        {
+            "fullName": "Посвящение дуэлянта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1956\">Duelist Dedication</a>) / 2",
+            "name": "Посвящение дуэлянта",
+            "originalName": "Duelist Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучены обращению с легким доспехом и простыми оружиями</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 171</p><hr class=\"docutils\"><p>Вы всегда готовы выхватить свое оружие и начать дуэль, независимо от обстоятельств.\nВы получаете способность рейнджера <span class=\"card-link std std-ref\" data-id=\"class-feat-ranger-quick-draw\">Быстрый выхват (Quick Draw (Ranger))  / 2</span>, что позволяет вам достать оружие и атаковать за 1 действие.\nЭта способность подходит для соответствия предварительным условиям других способностей, где требуется <span class=\"card-link std std-ref\" data-id=\"class-feat-ranger-quick-draw\">Быстрый выхват (Quick Draw (Ranger))  / 2</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа дуэлянта.</p>",
+            "src": "Advanced Player's Guide pg. 171",
+            "action": "",
+            "id": "arch-feat-duelist-dedication",
+            "archetype": "Дуэлянт (Duelist)"
+        },
+        {
+            "fullName": "Вызов дуэлянта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1957\">Duelist's Challenge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Вызов дуэлянта",
+            "originalName": "Duelist's Challenge",
+            "level": 4,
+            "traits": [
+                "начальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-duelist-dedication\">Посвящение дуэлянта (Duelist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 171</p><hr class=\"docutils\"><p>Выберите 1 врага, которого вы видите, и объявите ему вызов.\nЭтот враг становится вашим дуэльным противником пока не будет побежден, сбежит или столкновение закончится.\nВсякий раз, когда вы попадаете по этому врагу используя одно одноручное оружие ближнего боя, в то время как ваша другая рука(и) свободна, вы получаете бонус обстоятельства к урону от <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, равный количеству костей урона наносимых оружием.</p><p>Если вы атакуете существо, не являющееся вашим дуэльным противником, вы получаете штраф обстоятельства к урону, равный количеству костей урона наносимых оружием.</p>",
+            "src": "Advanced Player's Guide pg. 171",
+            "action": "одиночное действие",
+            "id": "arch-feat-duelist-challenge",
+            "archetype": "Дуэлянт (Duelist)"
+        },
+        {
+            "fullName": "Самоотверженное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1958\">Selfless Parry</a>) / 8",
+            "name": "Самоотверженное парирование",
+            "originalName": "Selfless Parry",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span>, <span class=\"card-link std std-ref\" data-id=\"arch-feat-duelist-dedication\">Посвящение дуэлянта (Duelist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 171</p><hr class=\"docutils\"><p>Сверканием стали, вы защищаете тех, кто рядом с вами.\nКогда вы получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-parry\">Дуэльное парирование (Dueling Parry (Fighter))  / 2</span>, союзники рядом с вами получают бонус обстоятельства +1 к КБ.\nЕсли у вас есть <span class=\"card-link std std-ref\" data-id=\"class-feat-fighter-dueling-riposte\">Дуэльная контратака (Dueling Riposte)  / 8</span>, то вы можете использовать ее, когда враг в пределах вашей досягаемости критически проваливает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по союзнику рядом с вами, а не только по вам.</p>",
+            "src": "Advanced Player's Guide pg. 171",
+            "action": "",
+            "id": "arch-feat-duelist-selfless-parry",
+            "archetype": "Дуэлянт (Duelist)"
+        },
+        {
+            "fullName": "Студент дуэльных искусств (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1959\">Student of the Dueling Arts</a>) / 12",
+            "name": "Студент дуэльных искусств",
+            "originalName": "Student of the Dueling Arts",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-duelist-dedication\">Посвящение дуэлянта (Duelist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 171</p><hr class=\"docutils\"><p>Вы изучили великое множество боевых приемов, которые можете повторять каждый день.\nВо время своих ежедневных приготовлений, вы можете заменить любое количество своих способностей архетипа дуэлянта, на другие способности архетипа дуэлянта подходящего уровня, которые вы могли бы взять.\nВы таким способом не можете заменить <span class=\"card-link std std-ref\" data-id=\"arch-feat-duelist-dedication\">Посвящение дуэлянта (Duelist Dedication) / 2</span> или \"Студент дуэльных искусств\".</p><p>Дополнительно, вы можете вставать в стойку из способности архетипа дуэлянта, которой у вас нет (такая как перечисленная в \"Дополнительных способностях\"), увеличивая количество действий необходимых, чтобы встать в стойку на 1 (обычно увеличивая до 2 действий).\nВы все еще должны соответствовать предварительным условиям способности.</p>",
+            "src": "Advanced Player's Guide pg. 171",
+            "action": "",
+            "id": "arch-feat-duelist-student-of-the-dueling-arts",
+            "archetype": "Дуэлянт (Duelist)"
+        },
+        {
+            "fullName": "Посвящение мистического лучника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1960\">Eldritch Archer Dedication</a>) / 6",
+            "name": "Посвящение мистического лучника",
+            "originalName": "Eldritch Archer Dedication",
+            "level": 6,
+            "traits": [
+                "магический",
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>магический</p></li>\n<li><p>архетип</p></li>\n<li><p>посвящение</p></li>\n</ul><p><strong>Предварительные условия</strong>: эксперт в обращении с хотя бы одним видом оружия из группы \"лук\"</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 172</p><hr class=\"docutils\"><p>Вы совмещаете магию с вашей стрельбой из лука, что приводит к впечатляющим результатам.\nЕсли вы еще не сотворяете заклинания из слотов заклинаний, то вы учитесь колдовать спонтанные заклинания и получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы получаете репертуар заклинаний с 1 чарами на ваш выбор, из списка заклинаний на ваш выбор.\nВыберите эти чары из <span class=\"r-common\">обычных</span> заклинаний выбранного вами списка, или из других заклинаний, к которым у вас есть доступ в этом списке.\nЭти чары должны требовать совершать атаку заклинанием.\nВы обучены атакам заклинаниями и КС заклинаний этого магического обычая.\nВаша ключевая характеристика колдовства для этих заклинаний - Харизма.</p><p>Если вы уже сотворяете заклинания из слотов, то изучаете 1 дополнительные чары из этого обычая.\nЕсли вы подготавливающийся заклинатель, то можете подготовить это заклинание в дополнение к своим нормальным чарам на день; если вы спонтанный заклинатель, то добавляете эти чары в свой репертуар.</p><p>Еще вы получаете <span class=\"card-link std std-ref\" data-id=\"action-eldritch-archer-eldritch-shot\">Мистический выстрел (Eldritch Shot) </span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа мистического лучника.</p><section class=\"description\" id=\"eldritch-shot-3\">\n<span id=\"action-eldritch-archer-eldritch-shot\"></span><h3>Мистический выстрел (Eldritch Shot) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"></h3>\n<p><strong>Требования</strong>: Вы владеете оружием из группы \"лук\"</p>\n<hr class=\"docutils\">\n<p>Вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, на которое требуется 1 или 2 действия и требуется выполнить атаку заклинанием.\nЭффекты заклинания происходят не сразу, а проникают в лук, которым вы владеете.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из этого лука.\nВаше заклинание летит вместе с амуницией, используя ваш результат броска атаки для определения эффектов попадания обоих, и Выстрела и заклинания.\nЭто считается как 2 атаки для вашего штрафа множественной атаки, но вы не применяете этот штраф до завершения обоих атак.</p>\n</section>",
+            "src": "Advanced Player's Guide pg. 172",
+            "action": "активность из 3-х действий",
+            "id": "arch-feat-eldritch-archer-dedication",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Основное колдовство мистического лучника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1961\">Basic Eldritch Archer Spellcasting</a>) / 8",
+            "name": "Основное колдовство мистического лучника",
+            "originalName": "Basic Eldritch Archer Spellcasting",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 172</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nКаждый раз, когда вы получаете слот заклинания нового уровня от этого архетипа, то добавляете в репертуар заклинание подходящего уровня: <span class=\"r-common\">обычное</span> заклинание выбранного вами магического обычая, или другое этого обычая, которое вы выучили или открыли.</p>",
+            "src": "Advanced Player's Guide pg. 172",
+            "action": "",
+            "id": "arch-feat-eldritch-archer-basic-spellcasting",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Очарованная стрела (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1962\">Enchanting Arrow</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Очарованная стрела",
+            "originalName": "Enchanting Arrow",
+            "level": 8,
+            "traits": [
+                "магический",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Одним шепотом, разносимым ветром, вы зачаровываете свою амуницию, чтобы сделать врага более уязвимым для ваших атак.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из лука.\nПри попадании, цель получает дополнительные 2d6 ментального урона.\nПри критическом попадании, цель еще получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлен 1</span>.\nМентальный урон увеличивается до 3d6 если ваш лук имеет <span class=\"card-link \">отличную разящую руну</span>, или до 4d6 если ваш лук имеет <span class=\"card-link \">старшую разящую руну</span>.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-eldritch-archer-enchanting-arrow",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Магическая стрела (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1963\">Magic Arrow</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Магическая стрела",
+            "originalName": "Magic Arrow",
+            "level": 8,
+            "traits": [
+                "магический",
+                "трансмутация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы наполняете свою амуницию мистической силой.\nКогда вы выбираете эту способность, выберите 3 вида обычной магической амуниции 4-го уровня или ниже из \"Основной книги правил (CR)\" или \"Продвинутого руководства игрока (APG) (смотрите <span class=\"card-link \">Амуниция (Ammunition)</span>).\nВаш Мастер может разрешить выбирать из других видов магической амуниции, такой как необычная амуниция или амуниция из других книг.</p><p>Когда используете \"Магическую стрелу\", вы превращаете немагическую стрелу или болт в амуницию одного из выбранных видов.\nВы должны выстрелить этой амуницией до конца вашего хода, иначе магия исчезает.\nЕсли у амуниции есть запись \"Активация\", то вам все еще надо потратить требуемые действия, чтобы активировать амуницию до выстрела.\nКогда вы используете \"Магическую стрелу\", то можете выбрать вид магической амуниции, который обычно недоступен для используемого вами вида амуниции, например, вы можете использовать <span class=\"card-link \">Болт скалолазания (Climbing Bolt) / Предмет 4</span> для стрелы, даже с учетом того, что эта магическая амуниция обычно бывает только для болтов.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз.\nКаждый раз когда вы это делаете, выбирайте 3 дополнительные вида амуниции, как описано в способности.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "свободное действие",
+            "id": "arch-feat-eldritch-archer-magic-arrow",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Драгоценная стрела (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1964\">Precious Arrow</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Драгоценная стрела",
+            "originalName": "Precious Arrow",
+            "level": 8,
+            "traits": [
+                "магический",
+                "трансмутация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы зачаровываете амуницию магической сущностью драгоценного материала, что позволяет вам использовать слабости определенных существ.\nВыберите холодное железо или серебро; если вы стреляете стрелой до конца вашего хода, то она считается как этот материал.\nНа 14-м уровне, добавьте в список доступных материалов адамантин.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "одиночное действие",
+            "id": "arch-feat-eldritch-archer-precious-arrow",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Экспертное колдовство мистического лучника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1965\">Expert Eldritch Archer Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство мистического лучника",
+            "originalName": "Expert Eldritch Archer Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-basic-spellcasting\">Основное колдовство мистического лучника (Basic Eldritch Archer Spellcasting) / 8</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "",
+            "id": "arch-feat-eldritch-archer-expert-spellcasting",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Ищущая стрела (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1966\">Seeker Arrow</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Ищущая стрела",
+            "originalName": "Seeker Arrow",
+            "level": 14,
+            "traits": [
+                "магический",
+                "прорицание",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Ваши выстрелы просвистывают за углы и летят под невозможными углами, чтобы достичь цели.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из лука по врагу, которого вы можете видеть; амуниция летит в цель, даже за углы.\nВы игнорируете все укрытия цели и ее состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "одиночное действие",
+            "id": "arch-feat-eldritch-archer-seeker-arrow",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Фазовая стрела (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1967\">Phase Arrow</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Фазовая стрела",
+            "originalName": "Phase Arrow",
+            "level": 16,
+            "traits": [
+                "магический",
+                "воплощение",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы можете сконцентрировать огромное количество магии, чтобы создать амуницию, которая проходит через все, кроме вашей цели.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из лука по врагу, который для вас имеет состояние <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечен</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span> (но не <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружен</span>).\nАмуниция летит к вашей цели по прямой линии, проходя на своем пути через любые немагические барьеры или стены, однако магические барьеры останавливают стрелу.\nВыстрел игнорирует все укрытия, состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, состояние <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span>, и бонусы обстоятельства к КБ от щитов.\nУ нее есть бонус состояния +4 на попадание по существам, носящим любые виды доспехов.\nУрон от Выстрела не может быть снижен с помощью реакции <span class=\"card-link std std-ref\" data-id=\"feat-shield-block\">Блок щитом (Shield Block)  / 1</span> при использовании немагического щита.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "одиночное действие",
+            "id": "arch-feat-eldritch-archer-phase-arrow",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Стрела смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1968\">Arrow of Death</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Стрела смерти",
+            "originalName": "Arrow of Death",
+            "level": 18,
+            "traits": [
+                "магический",
+                "некромантия",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-dedication\">Посвящение мистического лучника (Eldritch Archer Dedication) / 6</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы модифицируете стрелу или болт, чтобы убить вашу цель одним мощным попаданием.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из лука.\nПри попадании, вы наносите дополнительные 10d10 точного урона.\nПри критическом попадании, цель еще должна совершить успешный спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что выше, или будет мгновенно убита; этот спасбросок имеет признаки <span class=\"t-incapacitation\">недееспособность</span> и <span class=\"t-death\">смерть</span>.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "активность из 3-х действий",
+            "id": "arch-feat-eldritch-archer-arrow-of-death",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Мастерское колдовство мистического лучника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1969\">Master Eldritch Archer Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство мистического лучника",
+            "originalName": "Master Eldritch Archer Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-eldritch-archer-expert-spellcasting\">Экспертное колдовство мистического лучника (Expert Eldritch Archer Spellcasting) / 12</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 173</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 173",
+            "action": "",
+            "id": "arch-feat-eldritch-archer-master-spellcasting",
+            "archetype": "Мистический лучник (Eldritch Archer)"
+        },
+        {
+            "fullName": "Посвящение хозяина фамильяра (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1970\">Familiar Master Dedication</a>) / 2",
+            "name": "Посвящение хозяина фамильяра",
+            "originalName": "Familiar Master Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Вы установили мистическую связь с существом.\nЭто могло включать в себя сложные ритуалы и инвокации, такие как медитация под луной, пока что-то не выползло из леса.\nИли, может быть, вы просто оказали друг другу хорошую услугу, например, спасли зверя из ловушки или от врага, а затем были спасены в ответ.\nКакими бы ни были подробности, вы теперь товарищи до самого конца.\nВы получаете фамильяра (см. раздел <span class=\"card-link \">Фамильяры (Familiars)</span>).\nЕсли у вас уже есть фамильяр, то вы получаете способность <span class=\"card-link std std-ref\" data-id=\"class-feat-sorcerer-enhanced-familiar\">Усиленный фамильяр (Enhanced Familiar (Sorcerer)) / 2</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа хозяин фамильяра.</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "",
+            "id": "arch-feat-familiar-master-dedication",
+            "archetype": "Хозяин фамильяра (Familiar Master)"
+        },
+        {
+            "fullName": "Фамильяр-талисман (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1971\">Familiar Mascot</a>) / 4",
+            "name": "Фамильяр-талисман",
+            "originalName": "Familiar Mascot",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-familiar-master-dedication\">Посвящение хозяина фамильяра (Familiar Master Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Ваш фамильяр - сердце и душа вашей команды искателей приключений.\nКогда выбираете способности хозяина, вы можете выбрать союзника, который получает преимущество от любой конкретной способности хозяина.\nКаждая способность хозяина может давать преимущество только одному персонажу, и вы можете выбрать конкретную способность хозяина только раз, если только способность не гласит иначе.</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "",
+            "id": "arch-feat-familiar-master-familiar-mascot",
+            "archetype": "Хозяин фамильяра (Familiar Master)"
+        },
+        {
+            "fullName": "Фамильяр-проводник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1972\">Familiar Conduit</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Фамильяр-проводник",
+            "originalName": "Familiar Conduit",
+            "level": 4,
+            "traits": [
+                "метамагия",
+                "концентрация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: способность сотворять заклинания, <span class=\"card-link std std-ref\" data-id=\"arch-feat-familiar-master-dedication\">Посвящение хозяина фамильяра (Familiar Master Dedication) / 2</span></p><p><strong>Требования</strong>: У вас есть линия эффекта до вашего фамильяра</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Под вашим попечительством, ваш фамильяр приспособился к скрытым течениям мира и может служить проводником вашей магии.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> у которого есть дистанция, то это заклинание использует фамильяра как свою исходную точку.</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "одиночное действие",
+            "id": "arch-feat-familiar-master-familiar-conduit",
+            "archetype": "Хозяин фамильяра (Familiar Master)"
+        },
+        {
+            "fullName": "Улучшенный фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1973\">Improved Familiar (Familiar Master)</a>) / 6",
+            "name": "Улучшенный фамильяр",
+            "originalName": "Improved Familiar",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-familiar-master-dedication\">Посвящение хозяина фамильяра (Familiar Master Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Оказалось, что вам легко привлечь на свою сторону могущественного и необычного фамильяра.\nКоличество способностей, требуемых, чтобы сделать вашего фамильяра особенным (<span class=\"card-link \">Особенные фамильяры (Specific Familiars)</span>), на 2 ниже чем обычно.</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "",
+            "id": "class-feat-familiar-master-improved-familiar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изменчивый фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1974\">Mutable Familiar</a>) / 8",
+            "name": "Изменчивый фамильяр",
+            "originalName": "Mutable Familiar",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-familiar-master-dedication\">Посвящение хозяина фамильяра (Familiar Master Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Сверхъестественный дух вашего фамильяра перерос его материально тело.\nВы можете выполнить особую 10-минутную активность, чтобы перевыбрать определенные способности фамильяра, заменяя одну или более из следующих способностей, на другие из этого же списка:</p><ul class=\"simple\">\n<li><p>Земноводный (Amphibious)</p></li>\n<li><p>Роющий (Burrower)</p></li>\n<li><p>Скалолаз (Climber)</p></li>\n<li><p>Ночное зрение (Darkvision)</p></li>\n<li><p>Быстрое движение (Fast Movement)</p></li>\n<li><p>Ловкость рук (Manual Dexterity)</p></li>\n<li><p>Сопротивление (Resistance)</p></li>\n<li><p>Нюх (Scent)</p></li>\n</ul><p>Вы можете перевыбрать только способности фамильяра, которые вы обычно можете перевыбрать каждый день, а не обязательные способности вашего фамильяра.\nВы не можете убрать способность, которая требуется для другой имеющейся у фамильяра способности (например, вы не можете убрать \"Ловкость рук\", если у него есть \"Помощник по лаборатории (Lab Assistant)\").</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "",
+            "id": "arch-feat-familiar-master-mutable-familiar",
+            "archetype": "Хозяин фамильяра (Familiar Master)"
+        },
+        {
+            "fullName": "Невероятный фамильяр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1975\">Incredible Familiar (Familiar Master)</a>) / 10",
+            "name": "Невероятный фамильяр",
+            "originalName": "Incredible Familiar",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-sorcerer-enhanced-familiar\">Усиленный фамильяр (Enhanced Familiar (Sorcerer)) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 174</p><hr class=\"docutils\"><p>Ваш фамильяр наполнен еще большей магией, чем другие фамильяры.\nКаждый день, вы можете выбрать 6 способностей фамильяра или хозяина, вместо 4.</p>",
+            "src": "Advanced Player's Guide pg. 174",
+            "action": "",
+            "id": "class-feat-familiar-master-incredible-familiar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посвящение гладиатора (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1976\">Gladiator Dedication</a>) / 2",
+            "name": "Посвящение гладиатора",
+            "originalName": "Gladiator Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-impressive-performance\">Впечатляющее выступление (Impressive Performance) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Вы знаете как превратить бой в вид развлечения.\nВы становитесь обучены Гладиаторским Знаниям; если вы уже были обучены им, то вместо этого становитесь обучены другому навыку Знаний на свой выбор.</p><p>Если в начале боевого столкновения у вас есть зрители, то вы на 1 минуту получаете временные ОЗ, равные уровню вашего персонажа и можете кидать Выступление для инициативы.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа гладиатора.</p>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "",
+            "id": "arch-feat-gladiator-dedication",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Крутые движения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1977\">Fancy Moves</a>) / 4",
+            "name": "Крутые движения",
+            "originalName": "Fancy Moves",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Выступления, <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-dedication\">Посвящение гладиатора (Gladiator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Вы выпендриваетесь своим боевым стилем, чтобы обескуражить своих врагов.\nВы можете использовать Выступление для <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "",
+            "id": "arch-feat-gladiator-fancy-moves",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Играть на публику (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1978\">Play to the Crowd</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Играть на публику",
+            "originalName": "Play to the Crowd",
+            "level": 4,
+            "traits": [
+                "концентрация",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-dedication\">Посвящение гладиатора (Gladiator Dedication) / 2</span></p><p><strong>Триггер</strong>: Вы снижаете ОЗ врага до 0 во время нетривиального боевого столкновения при зрителях</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Вы выпендриваетесь перед толпой.\nСделайте проверку Выступления; КС определяется Мастером, но обычно это стандартный КС для вашего уровня или КС для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на зрителей, в зависимости от того, что выше.\nПри успехе, выберите 1 из следующих преимуществ; при крит.успехе, выберите 2 преимущества:</p><ul class=\"simple\">\n<li><p>Временные ОЗ на 1 минуту, равные вашему уровню</p></li>\n<li><p>Бонус обстоятельства +1 к КБ до конца вашего следующего хода</p></li>\n<li><p>Бонус обстоятельства +1 к вашему следующему броску атаки до конца вашего следующего хода</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "реакция",
+            "id": "arch-feat-gladiator-play-to-the-crowd",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Постановочный бой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1979\">Stage Fighting</a>) / 4",
+            "name": "Постановочный бой",
+            "originalName": "Stage Fighting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-dedication\">Посвящение гладиатора (Gladiator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Вы затягиваете удары, чтобы дать лучшее представление.\nВы не получаете обычный штраф обстоятельства -2, когда совершаете несмертельную атаку оружием или безоружной атакой, у которых нет признака <span class=\"w-nonlethal\">несмертельное</span>.</p>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "",
+            "id": "arch-feat-gladiator-stage-fighting",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Тренировка с оружием для выступлений (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1980\">Performative Weapons Training</a>) / 6",
+            "name": "Тренировка с оружием для выступлений",
+            "originalName": "Performative Weapons Training",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-dedication\">Посвящение гладиатора (Gladiator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Вы умеете обращаться с эффектным оружием.\nВы обучены обращению с: посох-бо, дуэльная накидка, шипастая цепь, меч-трость и хлыст.\nВсякий раз, когда вы получаете особенность класса дающую вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для всего оружия из этого списка.</p>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "",
+            "id": "arch-feat-gladiator-performative-weapons-training",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Навязать свои условия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1981\">Call Your Shot</a>) / 8",
+            "name": "Навязать свои условия",
+            "originalName": "Call Your Shot",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-play-to-the-crowd\">Играть на публику (Play to the Crowd)  / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 175</p><hr class=\"docutils\"><p>Когда вы успешно используете <span class=\"card-link std std-ref\" data-id=\"arch-feat-gladiator-play-to-the-crowd\">Играть на публику (Play to the Crowd)  / 4</span>, добавьте следующее в список преимуществ, из которых вы можете выбирать:</p><ul class=\"simple\">\n<li><p>Выберите существо в пределах 30 футов, которое может видеть вас, чтобы оно получило состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>. Этот эффект имеет признаки <span class=\"t-emotion\">эмоция</span>, <span class=\"t-fear\">страх</span>, <span class=\"t-mental\">ментальный</span> и <span class=\"t-visual\">визуальный</span>.</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 175",
+            "action": "",
+            "id": "arch-feat-gladiator-call-your-shot",
+            "archetype": "Гладиатор (Gladiator)"
+        },
+        {
+            "fullName": "Посвящение травника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1982\">Herbalist Dedication</a>) / 2",
+            "name": "Посвящение травника",
+            "originalName": "Herbalist Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе, <span class=\"card-link std std-ref\" data-id=\"feat-natural-medicine\">Природная медицина (Natural Medicine) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 176</p><hr class=\"docutils\"><p>Вы можете создавать лекарства и другие травяные средства.\nВы получаете основные преимущества алхимии (см. подробности в <span class=\"card-link \">Алхимические архетипы (Alchemical Archetypes)</span>), однако они применяются только к травяным предметам: алхимическим предметам с признаком <span class=\"t-healing\">исцеление</span>, плюс <span class=\"card-link \">Противоядие (Antidote) / Предмет 1+</span> и <span class=\"card-link \">Лекарство (Antiplague) / Предмет 1+</span>.\nВы получаете порции насыщенных реагентов на день, в количестве, равном вашему уровню или половине уровня, если вы делали свои ежедневные приготовления не в дикой природе.\nВаш уровень продвинутой алхимии для их создания равен 1 и не увеличивается сам по себе.</p><p>Вы становитесь экспертом Природы и можете использовать Природу вместо Ремесла, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> травяные предметы.\nЧтобы это делать, вам не надо быть обученным Ремеслу или иметь способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span>, и вы можете использовать <span class=\"card-link \">Набор лекаря (Healer's Tools)</span> вместо <span class=\"card-link \">Набор алхимика (Alchemist`s tools)</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа травника.</p>",
+            "src": "Advanced Player's Guide pg. 176",
+            "action": "",
+            "id": "arch-feat-herbalist-dedication",
+            "archetype": "Травник (Herbalist)"
+        },
+        {
+            "fullName": "Свежие ингредиенты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1983\">Fresh Ingredients</a>) / 2",
+            "name": "Свежие ингредиенты",
+            "originalName": "Fresh Ingredients",
+            "level": 2,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Природы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-herbalist-dedication\">Посвящение травника (Herbalist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 176</p><hr class=\"docutils\"><p>Когда используете <span class=\"card-link std std-ref\" data-id=\"feat-natural-medicine\">Природная медицина (Natural Medicine) / 1</span> для <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, вы можете потратить порцию трав, чтобы получить бонус обстоятельства +2 получая свежие ингредиенты, даже если вы не в дикой природе.\nЕсли вы тратите порцию трав в дикой природе, то вместо этого вы получаете бонус обстоятельства +4.</p>",
+            "src": "Advanced Player's Guide pg. 176",
+            "action": "",
+            "id": "arch-feat-herbalist-fresh-ingredients",
+            "archetype": "Травник (Herbalist)"
+        },
+        {
+            "fullName": "Подготовка припарки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1984\">Poultice Preparation</a>) / 4",
+            "name": "Подготовка припарки",
+            "originalName": "Poultice Preparation",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-herbalist-dedication\">Посвящение травника (Herbalist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 176</p><hr class=\"docutils\"><p>Когда вы создаете травяной эликсир, то вместо этого можете приготовить его как припарку.\nПрипарка получает признак <span class=\"t-oil\">масло</span> (но остается алхимическим, а не магическим) и теряет признаки <span class=\"t-elixir\">эликсир</span> и <span class=\"t-ingested\">глотаемый</span> (прим.пер: странно, у эликсиров нет этого признака, он только у ядов).\nВы можете применить припарку действием <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> одной рукой.\nКогда вы применяете припарку, в дополнение к обычным эффектам предмета, получатель может сразу сделать чистую проверку, чтобы восстановиться от одного источника продолжительного урона кислотой, кровотечением или огнем, со снижением КС за счет соответствующей помощи.</p>",
+            "src": "Advanced Player's Guide pg. 176",
+            "action": "",
+            "id": "arch-feat-herbalist-poultice-preparation",
+            "archetype": "Травник (Herbalist)"
+        },
+        {
+            "fullName": "Местные травы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1985\">Endemic Herbs</a>) / 6",
+            "name": "Местные травы",
+            "originalName": "Endemic Herbs",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию, <span class=\"card-link std std-ref\" data-id=\"arch-feat-herbalist-dedication\">Посвящение травника (Herbalist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 176</p><hr class=\"docutils\"><p>Во время своих ежедневных приготовлений вы находите лекарственные растения, эндемичные для вашего региона.\nДо ваших следующих дневных приготовлений, вы можете потратить дополнительную порцию трав, чтобы добавить создаваемому вами с помощью травничества предмету преимущество.\nПреимущество особых трав воздействует на существо, к которому применяется предмет; если преимущество не мгновенное, оно длится 1 минуту, если не сказано иначе.\nЭто изменение считается как \"примесь\" (см. сноску \"Ключевые термины\" в <span class=\"card-link \">Способности алхимика (Alchemist Feats)</span>), поэтому вы не можете добавить другую примесь, не испортив предмет.</p><ul class=\"simple\">\n<li><p><strong>Водная</strong>: Вы получаете бонус обстоятельства +1 к спасброскам Стойкости</p></li>\n<li><p><strong>Арктика</strong>: На 1 час, считайте эффекты холода окружающей среды как если он на одну ступень слабее</p></li>\n<li><p><strong>Пустыня</strong>: На 1 час, считайте эффекты жара окружающей среды как если он на одну ступень слабее</p></li>\n<li><p><strong>Лес</strong>: Получаете бонус обстоятельства +2 к спасброскам против эффектов болезней и ядов</p></li>\n<li><p><strong>Горы</strong>: Получаете бонус обстоятельства +1 к спасброскам Рефлекса</p></li>\n<li><p><strong>Равнины</strong>: Получаете бонус обстоятельства +1 к спасброскам Воли</p></li>\n<li><p><strong>Болото</strong>: Убираете один источник продолжительного урона кровотечением</p></li>\n<li><p><strong>Подземелье</strong>: Получаете бонус обстоятельства +1 к Восприятию</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 176",
+            "action": "",
+            "id": "arch-feat-herbalist-endemic-herbs",
+            "archetype": "Травник (Herbalist)"
+        },
+        {
+            "fullName": "Опыт травничества (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1986\">Expert Herbalism</a>) / 6",
+            "name": "Опыт травничества",
+            "originalName": "Expert Herbalism",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Природы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-herbalist-dedication\">Посвящение травника (Herbalist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 176</p><hr class=\"docutils\"><p>Ваш уровень продвинутой алхимии травничества увеличивается до вашего уровня - 3.\nВы получаете формулы для <span class=\"card-link \">Эликсиров жизни (Elixirs of life)</span>, как только ваш уровень продвинутой алхимии достаточно высокий, чтобы создавать их: малый на 8-м уровне, средний на 12-м уровне, большой на 16-м уровне, а сильный на 18-м уровне.</p>",
+            "src": "Advanced Player's Guide pg. 176",
+            "action": "",
+            "id": "arch-feat-herbalist-expert-herbalism",
+            "archetype": "Травник (Herbalist)"
+        },
+        {
+            "fullName": "Посвящение исследователя горизонтов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1987\">Horizon Walker Dedication</a>) / 2",
+            "name": "Посвящение исследователя горизонтов",
+            "originalName": "Horizon Walker Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Вы в совершенстве освоили путешествие по определенному типу местности.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"class-feat-ranger-favored-terrain\">Предпочитаемая местность (Favored Terrain) / 2</span>.\nКогда вы на своей предпочитаемой местности, то получаете бонус обстоятельства +10 футов к Скорости путешествия.\nКогда другие существа используют <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span> с вами в качестве проводника на вашей предпочитаемой местности, то они получают оба преимущества - умение игнорировать немагическую сложную местность для наземной Скорости путешествия, и бонус к Скорости путешествия.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа исследователь горизонтов.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-dedication",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Акклиматизация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1988\">Acclimatization</a>) / 4",
+            "name": "Акклиматизация",
+            "originalName": "Acclimatization",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-horizon-walker-dedication\">Посвящение исследователя горизонтов (Horizon Walker Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Время, проведенное во враждебных частях света, приучило вас к экстремальному климату.\nВ вашей предпочитаемой местности, вы получаете сопротивление ко всему урону от окружения, равное половине вашего уровня, и воздействие температурных эффектов, как если бы они были на одну ступень слабее (невероятный холод или жара становится экстремальным, экстремальный холод или жара становится суровым и так далее).\nКогда другие существа используют <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span> с вами в качестве проводника на вашей предпочитаемой местности, они тоже считают температурные эффекты на одну ступень ниже.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-acclimatization",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Уверенный шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1989\">Sure Foot</a>) / 4",
+            "name": "Уверенный шаг",
+            "originalName": "Sure Foot",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Акробатики и Атлетики, <span class=\"card-link std std-ref\" data-id=\"arch-feat-horizon-walker-dedication\">Посвящение исследователя горизонтов (Horizon Walker Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Вы знаете секреты как нужно двигаться по вашей предпочитаемой местности.\nВы получаете бонус обстоятельства +2 к проверкам навыков, чтобы двигаться по предпочитаемой местности, как например проверки Акробатики для <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> на льду, Атлетики чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span> в неспокойных водах, Акробатики чтобы <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span> при ветре и т.п.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-sure-foot",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Постоянный разведчик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1990\">Perpetual Scout</a>) / 6",
+            "name": "Постоянный разведчик",
+            "originalName": "Perpetual Scout",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-horizon-walker-dedication\">Посвящение исследователя горизонтов (Horizon Walker Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Вы замечаете что-нибудь неуместное в тех местах, которые знаете лучше всего.\nКогда вы в предпочитаемой местности, то всегда получаете преимущества активности исследования <span class=\"card-link \">Разведывать (Scout)</span>, даже если вы выполняете другую активность исследования.\nЕсли вы легенда Выживания, то получаете эти преимущества на любой местности.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-perpetual-scout",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Магическая адаптация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1991\">Magical Adaptation</a>) / 10",
+            "name": "Магическая адаптация",
+            "originalName": "Magical Adaptation",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-horizon-walker-dedication\">Посвящение исследователя горизонтов (Horizon Walker Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Когда препятствие преграждает вам путь, у вас в рукаве припасен трюк, чтобы преодолеть его.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-darkvision\">Ночное зрение (Darkvision) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-spider-climb\">Паучьи лапы (Spider Climb) / Закл. 2</span>, и <span class=\"card-link std std-ref\" data-id=\"spell-w-water-breathing\">Дыхание под водой (Water Breathing) / Закл. 2</span> 4-го уровня, как врожденные природные заклинания, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-magical-adaptation",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Ходок по пересеченной местности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1992\">Wild Strider</a>) / 12",
+            "name": "Ходок по пересеченной местности",
+            "originalName": "Wild Strider",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-horizon-walker-dedication\">Посвящение исследователя горизонтов (Horizon Walker Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 177</p><hr class=\"docutils\"><p>Естественные препятствия вам не помеха.\nВы получаете особенность класса рейнджера <span class=\"card-link \">Ходьба по пересеченной местности (Wild Stride) / 11-й</span>.\nЭто позволяет вам игнорировать эффекты всей немагической сложной местности, считать особо сложную местность как едва сложную, и давать вам дополнительное преимущество от <span class=\"card-link std std-ref\" data-id=\"class-feat-ranger-favored-terrain\">Предпочитаемая местность (Favored Terrain) / 2</span>, в зависимости от местности.</p>",
+            "src": "Advanced Player's Guide pg. 177",
+            "action": "",
+            "id": "arch-feat-horizon-walker-wild-strider",
+            "archetype": "Исследователь горизонтов (Horizon Walker)"
+        },
+        {
+            "fullName": "Посвящение лингвиста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1993\">Linguist Dedication</a>) / 2",
+            "name": "Посвящение лингвиста",
+            "originalName": "Linguist Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Вы разговариваете хотя бы на 3 языках</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Вы изучали языки и их развитие.\nВы становитесь обучены Обществу; если вы уже были обучены Обществу, то вместо этого становитесь экспертом Общества.\nВы дважды получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-multilingual\">Многоязычный (Multilingual) / 1</span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа лингвист.</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-dedication",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Многоязычный шифр (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1994\">Multilingual Cipher</a>) / 4",
+            "name": "Многоязычный шифр",
+            "originalName": "Multilingual Cipher",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества, <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Вы используете несколько языков для создания и взлома шифров.\nВы получаете бонус обстоятельства +1 к <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span>.\nЕсли другое существо пытается <span class=\"card-link \">Расшифровать текст (Decipher Writing)</span> который зашифровали вы, то оно получает штраф обстоятельства -2, если только не говорит на всех языках, которые вы использовали при создании текста.</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-multilingual-cipher",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Фонетическое обучение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1995\">Phonetic Training</a>) / 4",
+            "name": "Фонетическое обучение",
+            "originalName": "Phonetic Training",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества, <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Вы можете произносить и повторять слова с почти идеальной точностью, даже если вы не понимаете их значения, и вы можете записать их фонетической записью, которая позволит вам или другому существу с \"Фонетическим обучением\" прочитать их позже.\nДаже если эти слова в языке со звуком, который вы не можете произнести, вы можете их точно транскрибировать.\nЗапоминание длинных последовательностей слов остается таким же трудным, как и обычно.</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-phonetic-training",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Местный перевод (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1996\">Spot Translate</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Местный перевод",
+            "originalName": "Spot Translate",
+            "level": 4,
+            "traits": [
+                "слуховой",
+                "языковой",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Триггер</strong>: Другое существо в пределах 60 футов использует эффект с признаком <span class=\"t-linguistic\">языковой</span>, на языке, который вы понимаете</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Вы интерпретируете слова существа, повторяя их сообщение на другом известном вам языке.\nЕсли цели спровоцировавшего эффекта говорят либо на оригинальном языке, либо на том, на который вы перевели, то эффект действует на них.</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "реакция",
+            "id": "arch-feat-linguist-spot-translate",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Анализ идиолекта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1997\">Analyze Idiolect</a>) / 6",
+            "name": "Анализ идиолекта",
+            "originalName": "Analyze Idiolect",
+            "level": 6,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества и Обмана, <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Вы разбираете идиолект конкретного человека, запоминая его манеры речи и привычки.\nЕсли вы взаимодействуете с кем-то в течение хотя бы 10 минут, то когда вы позже попытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> в этого человека, то получаете бонус обстоятельства +4 к вашим проверкам Обмана и КС.\nВ силу необходимости интенсивного изучения вы не можете запоминать более одного идиолекта за раз.</p><p>(прим.пер: идиолект - особенности языка индивидуума в определенный период его жизни; индивидуальный словарный запас)</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-analyze-idiolect",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Изучить шибболеты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1998\">Read Shibboleths</a>) / 7",
+            "name": "Изучить шибболеты",
+            "originalName": "Read Shibboleths",
+            "level": 7,
+            "traits": [
+                "навык",
+                "языковой",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Общества, <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Все общение наполнено легкими подсказками и сигналами.\nЕсли вы взаимодействуете с кем-то в течение хотя бы 10 минут, то его региональные слова, изменения произношения и невербальные сигналы дают вам незначительные факты об их социальной среде, например, об их родном городе или определенных группах, к которым они могут принадлежать.\nЕсли цель этого умения вводит в заблуждение относительно своего социального окружения, например, простолюдин притворяющийся дворянином, то она должна сделать проверку Обмана, Общества или соответствующую проверку Знаний против вашего КС Общества, чтобы в случае успеха дать вам ложный незначительный факт, об их предполагаемой личности.</p><p>После того, как вы почерпнули один или несколько незначительных истинных фактов о личности, вы можете применять эти манеры в своей речи, чтобы преподнести себя как кого-то, кто им знаком.\nЭто дает вам с ними бонус обстоятельства +1 к вашим проверкам Дипломатии и Обмана.</p><p>(прим.пер: шибболет - слова, особенности произношения, привычки свойственные определенному кругу людей; сленг; маркеры по которым узнают \"не своих\")</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-read-shibboleths",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Исходное общение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1999\">Crude Communication</a>) / 8",
+            "name": "Исходное общение",
+            "originalName": "Crude Communication",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-linguist-dedication\">Посвящение лингвиста (Linguist Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 178</p><hr class=\"docutils\"><p>Даже если вы не говорите на языке существа, вы можете полагаться на интонацию, коренные слова и язык тела, чтобы понять примерное значение.\nЕсли вы взаимодействуете с существом в течение хотя бы 10 минут и это существо может говорить на языке, то Мастер кидает тайную проверку Общества с КС соответствующему редкости языка.\nВ случае успеха вы понимаете суть значения и можете общаться с существом на уровне базовых концепций; в случае провала вы ошибаетесь или общаетесь неправильными концепциями.\nЕсли вы легенда Общества, то можете общаться сразу без необходимости делать проверку Общества; даже если вы не знаете используемого существом средства общения (речь, язык жестов и т.п.), вы интуитивно понимаете эту информацию, как только они пытаются общаться.</p>",
+            "src": "Advanced Player's Guide pg. 178",
+            "action": "",
+            "id": "arch-feat-linguist-crude-communication",
+            "archetype": "Лингвист (Linguist)"
+        },
+        {
+            "fullName": "Посвящение хранителя тайн (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2000\">Loremaster Dedication</a>) / 2",
+            "name": "Посвящение хранителя тайн",
+            "originalName": "Loremaster Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен хотя бы одному навыку для <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 179</p><hr class=\"docutils\"><p>Вы собрали обширное хранилище информации, которое затрагивает почти все темы.\nВы обучены Знаниям Хранителя тайн (Loremaster Lore), особому навыку Знаний, который может быть использован только для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, но по любой теме.\nЕсли у вас легендарный уровень мастерства с навыком используемом для <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span>, то вы становитесь экспертом в Знаниях Хранителя тайн, но вы не можете увеличить свой уровень мастерства этого навыка никакими другими способами.\nВы можете взять способности из списка дополнительных способностей хранителя тайн, даже если вы не соответствуете предварительным требованиям о наличии музы <span class=\"card-link \">Загадка (Enigma)</span>.</p><p>Если у вас есть классовая способность <span class=\"card-link std std-ref\" data-id=\"class-feat-bard-bardic-lore\">Знания барда (Bardic Lore) / 1</span>, то вы получаете бонус обстоятельства +1 к проверкам навыков со \"Знаниями Барда (Bardic Lore)\".</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа хранителя тайн.</p>",
+            "src": "Advanced Player's Guide pg. 179",
+            "action": "",
+            "id": "arch-feat-loremaster-dedication",
+            "archetype": "Хранитель тайн (Loremaster)"
+        },
+        {
+            "fullName": "Магическое назидание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2001\">Magical Edification</a>) / 4",
+            "name": "Магическое назидание",
+            "originalName": "Magical Edification",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-loremaster-dedication\">Посвящение хранителя тайн (Loremaster Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 179</p><hr class=\"docutils\"><p>Вы изучили те лакомые кусочки магии, которые больше всего способствуют вашему получению и передаче знаний.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-g-guidance\">Наставление (Guidance) / Чары 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-message\">Сообщение (Message) / Чары 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-sigil\">Сигил (Sigil) / Чары 1</span> как врожденные оккультные чары.</p>",
+            "src": "Advanced Player's Guide pg. 179",
+            "action": "",
+            "id": "arch-feat-loremaster-magical-edification",
+            "archetype": "Хранитель тайн (Loremaster)"
+        },
+        {
+            "fullName": "Орфографическое мастерство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2002\">Orthographic Mastery</a>) / 4",
+            "name": "Орфографическое мастерство",
+            "originalName": "Orthographic Mastery",
+            "level": 4,
+            "traits": [
+                "навык",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-loremaster-dedication\">Посвящение хранителя тайн (Loremaster Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 179</p><hr class=\"docutils\"><p>Вы понимаете принципы, лежащие в основе всех написанных слов, что позволяет вам читать практически любой текст.\nВы можете выполнить <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> используя Знания Хранителя знаний, вместо требуемого навыка.</p>",
+            "src": "Advanced Player's Guide pg. 179",
+            "action": "",
+            "id": "arch-feat-loremaster-orthographic-mastery",
+            "archetype": "Хранитель тайн (Loremaster)"
+        },
+        {
+            "fullName": "Быстрое обучение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2003\">Quick Study</a>) / 4",
+            "name": "Быстрое обучение",
+            "originalName": "Quick Study",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-loremaster-dedication\">Посвящение хранителя тайн (Loremaster Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 179</p><hr class=\"docutils\"><p>Во время своих ежедневных приготовлений, вы можете выучить определенную тему, чтобы стать обученным 1 навыку Знаний на свой выбор.\nВы должны были каким-либо образом взаимодействовать с темой знаний в течение прошлого дня, читая об этом, разговаривая с кем-то, кто разбирается в теме, или испытывая это на себе.\nКроме того, вы можете ссылаться на свои заметки, чтобы вместо этого выбрать навык Знаний подготовленный ранее с помощью \"Быстрого обучения\".\nЭтот уровень мастерства длится до ваших следующих ежедневных приготовлений.\nТак как этот уровень мастерства временный, вы не можете использовать его как предварительное условие для увеличения навыка или постоянной особенности персонажа, такой как способность.</p>",
+            "src": "Advanced Player's Guide pg. 179",
+            "action": "",
+            "id": "arch-feat-loremaster-quick-study",
+            "archetype": "Хранитель тайн (Loremaster)"
+        },
+        {
+            "fullName": "Великое магическое назидание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2004\">Greater Magical Edification</a>) / 10",
+            "name": "Великое магическое назидание",
+            "originalName": "Greater Magical Edification",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-loremaster-magical-edification\">Магическое назидание (Magical Edification) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 179</p><hr class=\"docutils\"><p>Вы продолжили расширять свой набор инструментов для обобщения знаний.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-c-comprehend-language\">Понимание языка (Comprehend Language) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-m-mindlink\">Мысленная связь (Mindlink) / Закл. 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-secret-page\">Тайная страница (Secret Page) / Закл. 3</span>, как врожденные оккультные заклинания, каждое раз в день.\nКогда вы колдуете <span class=\"card-link std std-ref\" data-id=\"spell-s-secret-page\">Тайная страница (Secret Page) / Закл. 3</span>, оно автоматически усиливается до того же уровня, что и ваши чары от <span class=\"card-link std std-ref\" data-id=\"arch-feat-loremaster-magical-edification\">Магическое назидание (Magical Edification) / 4</span>.</p>",
+            "src": "Advanced Player's Guide pg. 179",
+            "action": "",
+            "id": "arch-feat-loremaster-greater-magical-edification",
+            "archetype": "Хранитель тайн (Loremaster)"
+        },
+        {
+            "fullName": "Посвящение маршала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2005\">Marshal Dedication</a>) / 2",
+            "name": "Посвящение маршала",
+            "originalName": "Marshal Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен воинскому оружию и либо Дипломатии, либо Запугиванию</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Вы объединили свои социальные навыки и боевую подготовку, чтобы стать талантливым боевым лидером.\nВыберите Дипломатию или Запугивание.\nВы становитесь обучены этому навыку, или экспертом если уже обучены ему.</p><p>Дополнительно, вы окружены аурой маршала в 10-футовой эманации.\nВаша аура имеет признаки <span class=\"t-emotion\">эмоция</span>, <span class=\"t-mental\">ментальный</span> и <span class=\"t-visual\">визуальный</span> и дает вам и союзникам в пределах ауры бонус состояния +1 к спасброскам против страха.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа маршала.</p>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "",
+            "id": "arch-feat-marshal-dedication",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Устрашающая стойка маршала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2006\">Dread Marshal Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Устрашающая стойка маршала",
+            "originalName": "Dread Marshal Stance",
+            "level": 4,
+            "traits": [
+                "начальный",
+                "стойка",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию, <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Сделав мрачный вид перед предстоящей битвой, вы побуждаете своих союзников вселять страх в своих врагов яростными атаками.\nКогда вы используете это действие, совершите проверку Запугивания.\nКС обычно является стандартным КС для вашего уровня, но Мастер может установить другой КС в зависимости от обстоятельств.\nЭффект зависит от результата вашей проверки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваша аура маршала увеличивается до 20-футовой эманации и дает вам и союзникам бонус состояния к броскам урона, равный количеству костей урона безоружной атаки или оружия которым вы владеете, имеющими наибольшее количество костей урона. Когда вы или союзник в ауре критически попадаете по врагу используя <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, этот враг получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>.</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но размер вашей ауры не увеличивается</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается встать в стойку</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вам не удается встать в стойку и вы не можете использовать это действие снова в течение 1 минуты</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-dread-marshal-stance",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Вдохновляющая стойка маршала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2007\">Inspiring Marshal Stance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Вдохновляющая стойка маршала",
+            "originalName": "Inspiring Marshal Stance",
+            "level": 4,
+            "traits": [
+                "начальный",
+                "стойка",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии, <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы становитесь блестящим примером самоотверженности и выдержки в бою, побуждая своих союзников последовать примеру.\nКогда вы делаете это действие, совершите проверку Дипломатии.\nКС обычно является стандартным КС для вашего уровня, но Мастер может установить другой КС в зависимости от обстоятельств.\nЭффект зависит от результата вашей проверки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваша аура маршала увеличивается до 20-футовой эманации, и дает вам и союзникам бонус состояния +1 к броскам атаки и спасброскам против <span class=\"t-mental\">ментальных</span> эффектов</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но размер вашей ауры не увеличивается</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается встать в стойку</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вам не удается встать в стойку и вы не можете использовать это действие снова в течение 1 минуты</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-inspiring-marshal-stance",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Приди в себя! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2008\">Snap Out of It!</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Приди в себя!",
+            "originalName": "Snap Out of It",
+            "level": 4,
+            "traits": [
+                "эмоция",
+                "слуховой",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Вы быстро вскрикиваете, надеясь растормошить союзника, чьи мысли затуманены.\nВыберите целью в пределах ауры маршала 1 союзника, который находится под действием <span class=\"t-mental\">ментального</span> эффекта, позволяющего сделать спасбросок Воли и имеющего продолжительность не более 1 минуты.\nЭтот союзник может мгновенно совершить спасбросок Воли с бонусом обстоятельства +1, против КС эффекта, и в случае успеха завершая этот эффект.\nЭто не может завершить эффект для любых существ не являющихся вашим союзником, выбранным в качестве цели.\nВне зависимости от результата спасброска, ваш союзник временно иммунен к \"Приди в себя!\" на 10 минут.</p>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-snap-out-of-it",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Соберись! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2009\">Steel Yourself!</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Соберись!",
+            "originalName": "Steel Yourself",
+            "level": 4,
+            "traits": [
+                "эмоция",
+                "слуховой",
+                "ментальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Вы ободряете союзника, чтобы он взял себя в руки, давая ему шанс на победу.\nВыберите целью 1 союзника в пределах ауры маршала.\nСоюзник получает временные ОЗ, равные вашему модификатору Харизмы, и бонус обстоятельства +2 к спасброскам Стойкости.\nОба преимущества длятся до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-steel-yourself",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Двигаться в ритме (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2010\">Cadence Call</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Двигаться в ритме",
+            "originalName": "Cadence Call",
+            "level": 6,
+            "traits": [
+                "размах",
+                "слуховой",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Вы быстро говорите умерить шаг, руководя своими союзниками в более эффективном темпе.\nКаждый готовый союзник, в пределах вашей ауры маршала получает состояние <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span> до конца их следующего хода и они могут использовать это дополнительное действие только на <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nВ конце хода каждого союзника, если он использовал дополнительное действие, то потом получает состояние <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен 1</span> до конца своего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-cadence-call",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Сплоченное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2011\">Rallying Charge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Сплоченное нападение",
+            "originalName": "Rallying Charge",
+            "level": 6,
+            "traits": [
+                "начальный",
+                "визуальный",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 180</p><hr class=\"docutils\"><p>Ваш бесстрашный рывок в битву придает силы вашим союзникам продолжать бой.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до своей Скорости и совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли ваш Удар попадает и наносит врагу урон, каждый союзник в пределах 60 футов, который видел как вы попали, получает временные ОЗ равные вашему модификатору Харизмы.\nЭти временные ОЗ длятся до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 180",
+            "action": "активность из 2-х действий",
+            "id": "arch-feat-marshal-rallying-charge",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Спина к спине (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2012\">Back to Back</a>) / 8",
+            "name": "Спина к спине",
+            "originalName": "Back to Back",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 181</p><hr class=\"docutils\"><p>Вы отлично прикрываете спины своих союзников и помогаете им прикрывать вашу.\nПока вы и союзник находитесь рядом друг с другом, никто из вас не может быть застигнут врасплох из-за взятия в тиски, если только вас обоих не возьмут в тиски.\nЕсли вы рядом с более чем 1 союзником, то все подходящие союзники могут одновременно получать преимущество.\nПреимущество пропадает для всех, если хотя бы вы и любой из подходящих союзников взяты в тиски, но не если ваши союзники в тисках, а вы нет.</p>",
+            "src": "Advanced Player's Guide pg. 181",
+            "action": "",
+            "id": "arch-feat-marshal-back-to-back",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "В бой! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2013\">To Battle!</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> или <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "В бой!",
+            "originalName": "To Battle",
+            "level": 8,
+            "traits": [
+                "размах",
+                "слуховой",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 181</p><hr class=\"docutils\"><p>Громким криком вы заставляете своего союзника перейти в наступление.\nВыберите в своей ауре маршала 1 союзника, у которого есть доступная реакция.\nЕсли вы тратите 1 действие, этот союзник может использовать свою реакцию, чтобы мгновенно выполнить <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>.\nЕсли вы тратите 2 действия, этот союзник может использовать свою реакцию, чтобы мгновенно <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударить (Strike)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 181",
+            "action": "одиночное действие",
+            "id": "arch-feat-marshal-to-battle",
+            "archetype": "Маршал (Marshal)"
+        },
+        {
+            "fullName": "Опрокинуть врага (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2014\">Topple Foe</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Опрокинуть врага",
+            "originalName": "Topple Foe",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике, <span class=\"card-link std std-ref\" data-id=\"arch-feat-marshal-dedication\">Посвящение маршала (Marshal Dedication) / 2</span></p><p><strong>Триггер</strong>: Союзник успешно совершает <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по противнику, рядом с которым вы оба находитесь</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 181</p><hr class=\"docutils\"><p>Вы пользуетесь возможностью созданной вашим союзником, чтобы сбить врага с ног.\nСделайте проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> цель спровоцировавшей атаки.</p>",
+            "src": "Advanced Player's Guide pg. 181",
+            "action": "реакция",
+            "id": "arch-feat-marshal-topple-foe",
+            "archetype": "Маршал (Marshal)"
+        }
+    ]
+}

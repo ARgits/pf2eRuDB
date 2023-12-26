@@ -1,0 +1,2313 @@
+{
+    "spells": [
+        {
+            "fullName": "Вдохновить на смелость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=386\">Inspire Courage</a>) / Ф.чары 1",
+            "name": "Вдохновить на смелость",
+            "originalName": "Inspire Courage",
+            "type": "Ф.чары",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Область</strong>: 60-футовая эманация</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы вдохновляете своих союзников ободряющими словами или мелодиями.\nВы и все союзники в области получаете бонус состояния +1 к броскам атак, броскам урона и спасброскам против эффектов <span class=\"t-fear\">страха</span>.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-inspire-courage"
+        },
+        {
+            "fullName": "Вдохновить умения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=385\">Inspire Competence</a>) / Ф.чары 1",
+            "name": "Вдохновить умения",
+            "originalName": "Inspire Competence",
+            "type": "Ф.чары",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 союзник</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Ваша поддержка вдохновляет вашего союзника на успех в решении задачи.\nЭто считается достаточными подготовительными действиями для <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощи (Aid)</span> вашему союзнику в проверке навыка по вашему выбору, независимо от обстоятельств.\nКогда вы потом используете реакцию Помощь, то можете кидать Выступление вместо обычной проверки навыка, и если при броске вы получаете провал, он считается успехом.\nЕсли вы легенда Выступления, то автоматически получаете критический успех.</p><p>Мастер может рассудить, что вы не можете использовать это умение, если сам акт вдохновения помешает проверке навыка (как например проверка, чтобы тихо <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> или сохранять маскировку).</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-inspire-competence"
+        },
+        {
+            "fullName": "Песня силы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=732\">Song of Strength</a>) / Ф.чары 1",
+            "name": "Песня силы",
+            "originalName": "Song of Strength",
+            "type": "Ф.чары",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 60-футовая эманация</p><p><strong>Продолжительность</strong>: 1 раунд</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Вы поддерживаете физическую силу своих союзников душевными наставлением.\nВы и ваши союзники получаете бонус состояния +1 к проверкам Атлетики и КС против действий навыка Атлетики, таких как <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>.</p><p><strong>Особенность</strong>: Если у вас есть заклинание-композиция <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-heroics\">Вдохновить на героизм (Inspire Heroics) / Фокус. 4</span>, то вы можете использовать эту композицию для улучшения бонуса даваемого <em>песней силы</em> таким же образом, как и для <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-defense\">Вдохновить на защиту (Inspire Defense) / Ф.чары 2</span>.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-song-of-strength"
+        },
+        {
+            "fullName": "Ответное выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=381\">Counter Performance</a>) / Фокус. 1",
+            "name": "Ответное выступление",
+            "originalName": "Counter Performance",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "удача",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый или словесный</p><p><strong>Триггер</strong>: Вы или союзник в пределах 60 футов совершаете спасбросок против <span class=\"t-auditory\">слухового</span> или <span class=\"t-visual\">визуального</span> эффекта</p><p><strong>Область</strong>: 60-футовая эманация</p><hr class=\"docutils\"><p>Ваше выступление защищает вас и ваших союзников.\nКиньте проверку Выступления для известного вам типа: слуховое выступление если триггер был <span class=\"t-auditory\">слуховым</span>, либо визуальное если это был <span class=\"t-visual\">визуальный</span> триггер.\nВы и ваши союзники в области, можете использовать лучший результат между вашим Выступлением и спасброском.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-counter-performance"
+        },
+        {
+            "fullName": "Затяжная композиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=389\">Lingering Composition</a>) / Фокус. 1",
+            "name": "Затяжная композиция",
+            "originalName": "Lingering Composition",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "метамагия",
+                "очарование",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> словесный</p><hr class=\"docutils\"><p>Добавляя росчерк, вы продлеваете свои композиции.\nЕсли ваше следующее действие - сотворять чары-композицию с продолжительностью 1 раунд, то совершите проверку Выступления.\nОбычно, КС проверки берется по уровню цели вашей композиции наивысшего уровня, но Мастер может применить другой КС в зависимости от обстоятельств (см. <span class=\"card-link std std-ref\" data-id=\"table-10-5-1\">Таблица 10-5-1: КС по уровню (DCs by Level)</span>).\nЭффект зависит от результата вашей проверки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Композиция длится 4 раунда</div>\n<div class=\"line\"><strong>Успех</strong>: Композиция длится 3 раунда</div>\n<div class=\"line\"><strong>Провал</strong>: Композиция длится 1 раунд, но вы не тратите Очко Фокусировки за сотворение этого заклинания</div>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Добавлен признак <span class=\"t-metamagic\">метамагия</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "свободное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-lingering-composition"
+        },
+        {
+            "fullName": "Этюд хранителя знаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=390\">Loremaster's Etude</a>) / Фокус. 1",
+            "name": "Этюд хранителя знаний",
+            "originalName": "Loremaster's Etude",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Вы или ваш союзник в пределах дистанции совершает проверку навыка для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span></p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: Вы или спровоцировавший союзник</p><hr class=\"docutils\"><p>Вы взываете к глубоким тайнам своей музы, наделяя цель возможностью больше думать и вспоминать информацию.\nКиньте спровоцировавшую проверку навыка <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> дважды и используйте лучший результат.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "свободное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-loremasters-etude"
+        },
+        {
+            "fullName": "Гимн исцеления (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=728\">Hymn of Healing</a>) / Фокус. 1",
+            "name": "Гимн исцеления",
+            "originalName": "Hymn of Healing",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: вы или 1 союзник</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 4 раундов</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Ваше божественное пение лечит раны и дает временную передышку от вреда.\nЦель получает <span class=\"card-link \">быстрое исцеление</span> 2.\nКогда вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение (Cast)</span> этого заклинания и каждый раз, когда <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживаете (Sustain)</span> это заклинание первый раз в раунд, цель получает 2 временных ОЗ, которые длятся 1 раунд.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Быстрое исцеление и временные ОЗ увеличиваются на 2.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-APG-r2: </span>Уточнение про эффекты заклинания при <strong>первом</strong> поддержании в последующих раундах.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-hymn-of-healing"
+        },
+        {
+            "fullName": "Вдохновить на защиту (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=387\">Inspire Defense</a>) / Ф.чары 2",
+            "name": "Вдохновить на защиту",
+            "originalName": "Inspire Defense",
+            "type": "Ф.чары",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Область</strong>: 60-футовая эманация</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы вдохновляете себя и своих союзников защищаться эффективнее.\nВы и все ваши союзники в области получаете бонус состояния +1 к КБ и спасброскам, а также сопротивление физическому урону, равное половине уровня заклинания.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-inspire-defense"
+        },
+        {
+            "fullName": "Трехдольный размер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=392\">Triple Time</a>) / Ф.чары 2",
+            "name": "Трехдольный размер",
+            "originalName": "Triple Time",
+            "type": "Ф.чары",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Область</strong>: 60-футовая эманация</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы весело танцуете, ускоряя движение ваших союзников.\nВы и все ваши союзники в области на 1 раунд получаете бонус состояния +10 футов ко всем Скоростям.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-triple-time"
+        },
+        {
+            "fullName": "Роковая панихида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=382\">Dirge of Doom</a>) / Ф.чары 3",
+            "name": "Роковая панихида",
+            "originalName": "Dirge of Doom",
+            "type": "Ф.чары",
+            "level": 3,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "эмоция",
+                "страх",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Область</strong>: 30-футовая эманация</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Враги в области получают состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>.\nОни не могут снизить свое значение состояния <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> ниже 1 пока остаются в области.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-dirge-of-doom"
+        },
+        {
+            "fullName": "Походная песня (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=731\">Song of Marching</a>) / Ф.чары 3",
+            "name": "Походная песня",
+            "originalName": "Song of Marching",
+            "type": "Ф.чары",
+            "level": 3,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 60-футовая эманация</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 1 часа</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Вы поддерживаете бойкое выступление, которое держит союзников в движении.\nВы и ваши союзники в области, можете <span class=\"card-link \">Спешить (Hustle)</span> в течение продолжительности заклинания, даже, если вы еще <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживаете (Sustain)</span> это заклинание (прим.пер: имеется в виду, что вы одновременно делаете несколько активностей исследования, что обычно недопустимо).\nПотом вы и ваши союзники становитесь временно иммунны на 1 день.</p><hr class=\"docutils\"><p><strong>Усиление (6-й)</strong>: Вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> это заклинание вплоть до 2 часов.</p><p><strong>Усиление (9-й)</strong>: Вы можете <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживать (Sustain)</span> это заклинание вплоть до 4 часов.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-song-of-marching"
+        },
+        {
+            "fullName": "Вдохновить на героизм (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=388\">Inspire Heroics</a>) / Фокус. 4",
+            "name": "Вдохновить на героизм",
+            "originalName": "Inspire Heroics",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "метамагия",
+                "очарование",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> словесный</p><hr class=\"docutils\"><p>Вы взываете к своей музе, чтобы значительно увеличить преимущества, которые вы предоставляете своим союзникам вашими композициями:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>,</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-defense\">Вдохновить на защиту (Inspire Defense) / Ф.чары 2</span>,</p></li>\n<li><p>и <span class=\"card-link std std-ref\" data-id=\"spell-focus-song-of-strength\">Песня силы (Song of Strength) / Ф.чары 1</span>.</p></li>\n</ul><p>Если ваше следующее действие - сотворять одну из перечисленных ранее композиций, то совершите проверку Выступления.\nОбычно для этого используется очень трудный КС по уровню, равный наивысшему уровню цели вашей композиции, но Мастер может установить другой КС в зависимости от обстоятельств (см. <span class=\"card-link std std-ref\" data-id=\"table-10-6\">Таблица 10-6: Корректировки КС (DC Adjustments)</span>).\nЭффект вашей композиции (из списка) зависит от результата проверки.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Бонус состояния от вашей композиции увеличивается до +3</div>\n<div class=\"line\"><strong>Успех</strong>: Бонус состояния от вашей композиции увеличивается до +2</div>\n<div class=\"line\"><strong>Провал</strong>: Композиции дают свой обычный бонус +1, но вы не тратите Очко Фокусировки на сотворение этого заклинания</div>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Добавлен признак <span class=\"t-metamagic\">метамагия</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "свободное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-inspire-heroics"
+        },
+        {
+            "fullName": "Дом воображаемых стен (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=384\">House of Imaginary Walls</a>) / Ф.чары 5",
+            "name": "Дом воображаемых стен",
+            "originalName": "House of Imaginary Walls",
+            "type": "Ф.чары",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "чары",
+                "иллюзия",
+                "визуальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы имитируете невидимую стену протяженностью 10 на 10 футов, рядом с вами и в пределах вашей досягаемости.\nСтена сплошная для тех существ, которые верят в нее, даже для <span class=\"t-incorporeal\">бестелесных</span> существ.\nВы и ваши союзники можете добровольно поверить в то, что стена существует, чтобы продолжить считать ее сплошной, чтобы например взобраться на нее.\nСущество, которое не верит в иллюзию, получает временный иммунитет на 1 минуту к вашему <em>дому воображаемых стен</em>.\nСтена не препятствует объектам или существам, которые не видели вашего <span class=\"t-visual\">визуального</span> выступления.\nСтена имеет КБ 10, Твердость равную удвоенному уровню заклинания и ОЗ равные учетверенному уровню заклинания.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-house-of-imaginary-walls"
+        },
+        {
+            "fullName": "Ода Уроборосу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=729\">Ode to Ouroboros</a>) / Фокус. 5",
+            "name": "Ода Уроборосу",
+            "originalName": "Ode to Ouroboros",
+            "type": "Фокус",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Состояние существа <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, достигнет значения при котором оно умрет</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: спровоцировавшее существо</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Ваша ода временно отталкивает смерть.\nСостояние цели <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> остается на 1 меньше, чем при котором оно умирает.\nЭто не помогает предотвратить смерть от эффектов, которые убивают цель не увеличивая ее состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, как <span class=\"card-link std std-ref\" data-id=\"spell-d-disintegrate\">Дезинтеграция (Disintegrate) / Закл. 6</span> и эффекты с признаком <span class=\"t-death\">смерть</span>.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-ode-to-ouroboros"
+        },
+        {
+            "fullName": "Симфония раскрепощенного сердца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=733\">Symphony of the Unfettered Heart</a>) / Фокус. 5",
+            "name": "Симфония раскрепощенного сердца",
+            "originalName": "Symphony of the Unfettered Heart",
+            "type": "Фокус",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: вы или 1 союзник</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Ваша симфония избавляет слушателей от их мирских забот.\nСовершите проверку Выступления, чтобы <span class=\"card-link \">противодействовать</span> одному из следующих состояний, воздействующих на цель: <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span>, <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span>, <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span>, <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен</span> или <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлен</span>.\nПри вашем провале, вы 1 день не можете выбрать целью этот эффект, у этой цели.\nИспользуйте источник состояния для определения КС противодействия (например, КС <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> для <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>).</p><hr class=\"docutils\"><p><strong>Усиление (9-й)</strong>: Вы можете выбрать целью вплоть до 4 существ.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-symphony-of-the-unfettered-heart"
+        },
+        {
+            "fullName": "Аллегро (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=380\">Allegro</a>) / Ф.чары 7",
+            "name": "Аллегро",
+            "originalName": "Allegro",
+            "type": "Ф.чары",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "чары",
+                "очарование",
+                "ментальный",
+                "эмоция",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 союзник</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы быстро выступаете, ускоряя своего союзника.\nСоюзник получает состояние <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span> и может использовать это дополнительное действие для <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-allegro"
+        },
+        {
+            "fullName": "Успокаивающая баллада (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=391\">Soothing Ballad</a>) / Фокус. 7",
+            "name": "Успокаивающая баллада",
+            "originalName": "Soothing Ballad",
+            "type": "Фокус",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "композиция",
+                "очарование",
+                "исцеление",
+                "ментальный",
+                "эмоция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: вы и вплоть до 9 союзников</p><hr class=\"docutils\"><p>Вы взываете к своей музе, чтобы успокоить ваших союзников.\nВыберите один из следующих трех эффектов:</p><ul class=\"simple\">\n<li><p>Заклинание совершает <span class=\"card-link \">противодействие</span> эффектам <span class=\"t-fear\">страха</span> на целях</p></li>\n<li><p>Заклинание совершает <span class=\"card-link \">противодействие</span> эффектам накладывающим на цели паралич</p></li>\n<li><p>Заклинание восстанавливает целям 7d8 ОЗ</p></li>\n</ul><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Когда используется для исцеления, <em>успокаивающая баллада</em> восстанавливает на 1d8 ОЗ больше.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-soothing-ballad"
+        },
+        {
+            "fullName": "Фатальная ария (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=383\">Fatal Aria</a>) / Фокус. 10",
+            "name": "Фатальная ария",
+            "originalName": "Fatal Aria",
+            "type": "Фокус",
+            "level": 10,
+            "traits": [
+                "необычный",
+                "очарование",
+                "смерть",
+                "эмоция",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><hr class=\"docutils\"><p>Вы исполняете настолько совершенную музыку, что цель может умереть от радости или горя.\nПосле того как стало целью, существо становится временно иммунным на 1 минуту.\nЭффект заклинания зависит от уровня цели и текущих ОЗ.</p><div class=\"line-block\">\n<div class=\"line\"><strong>16-й или ниже</strong>: Цель мгновенно умирает</div>\n<div class=\"line\"><strong>17-й</strong>: Если у цели 50 ОЗ или меньше, она мгновенно умирает; иначе, ее ОЗ снижаются до 0 и она становится <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти 1</span></div>\n<div class=\"line\"><strong>18-й или больше</strong>: Цель получает 50 урона. Если это снижает ОЗ цели до 0, то она мгновенно умирает.</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-fatal-aria"
+        },
+        {
+            "fullName": "Крысоловство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=730\">Pied Piping</a>) / Фокус. 10",
+            "name": "Крысоловство",
+            "originalName": "Pied Piping",
+            "type": "Фокус",
+            "level": 10,
+            "traits": [
+                "необычный",
+                "очарование",
+                "недееспособность",
+                "звук",
+                "ментальный",
+                "композиция",
+                "бард"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Область</strong>: 5-футовая эманация</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 минута</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Ваше выступление приводит в восторг тех, кто его слышит, заставляя их с восхищением следовать за вами.\nКаждое существо в пределах эманации должно совершить спасбросок Воли когда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание или, когда оно впервые входит в область, после чего они становятся временно иммунны на 1 день.\nРаз в ход, вы можете потратить одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), которое имеет признак <span class=\"t-concentrate\">концентрация</span>, чтобы увеличить радиус эманации на 5 футов.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> это заклинание.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожено</span> вами</div>\n<div class=\"line\"><strong>Провал</strong>: Существо использует все свои действия, чтобы двигаться к вам и хвалить ваше выступление. Этот эффект заканчивает, если против существа использовано враждебное действие.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает признак <span class=\"t-minion\">миньон</span> и находится <span class=\"card-link std std-ref\" data-id=\"c-controlled\">под контролем</span> вами. Этот эффект заканчивается, если против существа использовано враждебное действие или, если вы заставляете существо использовать любое действие, которое нанесет ему вред.</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-pied-piping"
+        },
+        {
+            "fullName": "Наложение рук (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=395\">Lay On Hands</a>) / Фокус. 1",
+            "name": "Наложение рук",
+            "originalName": "Lay On Hands",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 готовое живое существо или 1 нежить</p><hr class=\"docutils\"><p>Ваши руки наполняются позитивной энергией, касанием исцеляя живых существ, или повреждая нежить.\nЕсли вы используете <em>наложение рук</em> на готовую живую цель, то восстанавливаете 6 ОЗ;\nесли цель один из ваших готовых союзников, он еще получает бонус состояния +2 к КБ на 1 раунд.\nНежить получает 1d6 урона и должна совершить простой спасбросок Стойкости; при провале она еще получает штраф состояния -2 к КБ на 1 раунд.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Количество исцеления увеличивается на 6, а урон нежити на 1d6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-lay-on-hands"
+        },
+        {
+            "fullName": "Разлагающее касание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=819\">Touch of Corruption</a>) / Фокус. 1",
+            "name": "Разлагающее касание",
+            "originalName": "Touch of Corruption",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "негативный",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 готовая нежить или 1 живое существо</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 229</p><hr class=\"docutils\"><p>Вы наполняете цель негативной энергией.\nЕсли цель живая, это наносит ей 1d6 негативного урона (простой спасбросок Стойкости); при провале спасброска, цель еще получает штраф состояния -2 к КБ на 1 раунд.</p><p>Если цель - готовая нежить, она восстанавливает 6 ОЗ и если вы являетесь целью-нежитью, вы еще получаете бонус состояния +2 к броскам урона на 1 раунд.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон живому существу увеличивается на 1d6, а восстанавливаемые нежитью ОЗ на 6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 229",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-touch-of-corruption"
+        },
+        {
+            "fullName": "Свет откровения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=557\">Light of Revelation</a>) / Фокус. 2",
+            "name": "Свет откровения",
+            "originalName": "Light of Revelation",
+            "type": "Фокус",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "свет",
+                "откровение"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30-футовая эманация</p><p><strong>Продолжительность</strong>: 5 минут</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 91</p><hr class=\"docutils\"><p>Вы излучаете яркую ауру, освещая ярким светом радиус в 30 футов.\nВы и все союзники в этой области получаете бонус состояния +1 к проверкам Восприятия на обнаружение спрятанных или необнаруженных существ, а также спрятанных объектов, дверей или других особенностей.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Lost Omens: Character Guide pg. 91",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-light-of-revelation"
+        },
+        {
+            "fullName": "Солнечный клинок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=558\">Sun Blade</a>) / Фокус. 2",
+            "name": "Солнечный клинок",
+            "originalName": "Sun Blade",
+            "type": "Фокус",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "свет",
+                "огонь",
+                "позитивный"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 91</p><hr class=\"docutils\"><p>Вы стреляете лучом палящего солнечного света из своего оружия.\nЧтобы сотворять <em>солнечный клинок</em>, вы должны владеть мечом или копьем, и вы выполняете жестовый компонент этого заклинания с помощью этого оружия.\nСовершите атаку заклинанием.\nЛуч наносит 1d4 урона огнем.\nЕсли цель злая, луч наносит дополнительные 1d4 урона добром, и если цель нежить, то луч наносит дополнительные 1d4 позитивного урона (против существ, которые являются злыми и нежитью, применяются оба эффекта).\nЕсли вы в области яркого естественного солнечного света, увеличьте размер кости каждого урона на один шаг (с d4 до d6)</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Луч наносит двойной урон</div>\n<div class=\"line\"><strong>Успех</strong>: Луч наносит полный урон</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон увеличивается на 1d4 огнем, 1d4 добром, и 1d4 позитивный (или 1d6 каждого типа урона на ярком естественном солнечном свете).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Эффект \"Успеха\" был назван \"Провалом\" (+ <a class=\"reference external\" href=\"https://paizo.com/threads/rzs42t39?Sun-Blade-Confusion#2\">подтверждение от Марка Сейфтера</a>)</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Lost Omens: Character Guide pg. 91",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-sun-blade"
+        },
+        {
+            "fullName": "Литания против гнева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=397\">Litany against Wrath</a>) / Фокус. 3",
+            "name": "Литания против гнева",
+            "originalName": "Litany against Wrath",
+            "type": "Фокус",
+            "level": 3,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "добро",
+                "литания",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 злое существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Ваша литания направлена против греха гнева, наказывая цель за нападение на добрых существ.\nЦель должна совершить спасбросок Воли.\nОсобенно гневливое существо, такое как демон гнева, использует результат на одну степень успеха хуже, чем результат его спасброска.\nПосле этого цель становится временно иммунной ко всем вашим литаниям на 1 минуту.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Когда цель первый раз использует действие, которое наносит урон хотя бы одному доброму существу, она получает 3d6 урона добром</div>\n<div class=\"line\"><strong>Провал</strong>: Каждый раз, когда цель использует действие, которое наносит урон хотя бы одному доброму существу, она получает 3d6 урона добром</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span>. Каждый раз, когда она использует действие, которое наносит урон хотя бы одному доброму существу, она получает 3d6 урона добром.</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урона увеличивается на 1d6</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-litany-against-wrath"
+        },
+        {
+            "fullName": "Литания против лени (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=396\">Litany Against Sloth</a>) / Фокус. 5",
+            "name": "Литания против лени",
+            "originalName": "Litany Against Sloth",
+            "type": "Фокус",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "добро",
+                "литания",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 злое существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Ваша литания направлена против греха лени, препятствуя возможности цели использовать реакции.\nЦель должна совершить спасбросок Воли.\nОсобенно ленивое существо, такое как демон лени, использует результат на одну степень успеха хуже, чем результат его спасброска.\nЦель становится временно иммунной ко всем вашим литаниям на 1 минуту.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель не может использовать реакции</div>\n<div class=\"line\"><strong>Провал</strong>: Цель не может использовать реакции и получает состояние <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен 1</span></div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель не может использовать реакции и получает состояние <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен 2</span></div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-litany-against-sloth"
+        },
+        {
+            "fullName": "Литания эгоизма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=735\">Litany of Self-Interest</a>) / Фокус. 5",
+            "name": "Литания эгоизма",
+            "originalName": "Litany of Self-Interest",
+            "type": "Фокус",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "очарование",
+                "зло",
+                "ментальный",
+                "литания",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 раунд</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 229</p><hr class=\"docutils\"><p>Вы произносите речь, которая наполняет вашу цель стремлением к самосовершенствованию, игнорируя помощь другим.\nСущество, которое хочет получить преимущества этого заклинания и не заботится о его ограничениях, может добровольно провалить спасбросок.\nПосле этого, цель становится временно иммунной ко всем вашим литаниям на 1 минуту.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает бонус состояния +2 к броскам атак, проверкам Восприятия, спасброскам и проверкам навыков. Цель не может <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помогать (Aid)</span> другим существам, считать любое существо союзником, или использовать заклинания или умения, которые дают непосредственную пользу другому существу (на усмотрение Мастера), даже если сама цель литании тоже получат пользу. Другие существа, союзные цели заклинания все считают цель союзником и могут взаимодействовать с ней соответствующим образом.</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (8-й)</strong>: Бонус состояния увеличивается до +3.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 229",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-litany-of-self-interest"
+        },
+        {
+            "fullName": "Жертва чемпиона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=393\">Champion's Sacrifice</a>) / Фокус. 6",
+            "name": "Жертва чемпиона",
+            "originalName": "Champion's Sacrifice",
+            "type": "Фокус",
+            "level": 6,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: По союзнику попал <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> или союзник проваливает спасбросок против эффекта, который не воздействует на вас</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 союзник</p><hr class=\"docutils\"><p>Вы формируете связь с союзником, позволяющую вам получить урон вместо него.\nВсе эффекты попадания или проваленного спасброска применяются к вам, вместо союзника.\nНапример, если цель крит.проваливает спасбросок против <span class=\"card-link std std-ref\" data-id=\"spell-f-fireball\">Огненный шар (Fireball) / Закл. 3</span>, то вы получите двойной урон.\nЭти эффекты игнорируют любые сопротивления, иммунитеты или другие умения, которыми вы обладаете, которые могут каким-либо образом смягчить последствия, однако те, которые имеются у цели, применяются до того, как вы получите эффект.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-champions-sacrifice"
+        },
+        {
+            "fullName": "Литания праведности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=398\">Litany of Righteousness</a>) / Фокус. 7",
+            "name": "Литания праведности",
+            "originalName": "Litany of Righteousness",
+            "type": "Фокус",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "добро",
+                "литания",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 злое существо</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Ваша литания разоблачает злодея, делая его восприимчивым к силам добра.\nЦель получает слабость 7 к добру.\nПотом цель становится временно иммунной ко всем вашим литаниям на 1 минуту.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Слабость увеличивается на 1.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-litany-of-righteousness"
+        },
+        {
+            "fullName": "Литания порочности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=734\">Litany of Depravity</a>) / Фокус. 7",
+            "name": "Литания порочности",
+            "originalName": "Litany of Depravity",
+            "type": "Фокус",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "зло",
+                "литания",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 доброе существо</p><p><strong>Продолжительность</strong>: 1 раунд</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 228</p><hr class=\"docutils\"><p>Ваша литания ставит под сомнение мораль, которой, как по утверждениям вашего врага, он дорожит.\nЦель получает слабость 7 к злу, после чего становится временно иммунной ко всем вашим литаниям на 1 минуту.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Слабость увеличивается на 1.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "Advanced Player's Guide pg. 228",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-litany-of-depravity"
+        },
+        {
+            "fullName": "Неповиновение героя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=394\">Hero's Defiance</a>) / Фокус. 10",
+            "name": "Неповиновение героя",
+            "originalName": "Hero's Defiance",
+            "type": "Фокус",
+            "level": 10,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "чемпион"
+            ],
+            "desc": "<p><strong>Сотворение</strong>: <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Атака снизит ваши ОЗ до 0</p><hr class=\"docutils\"><p>Вы неповинуясь кричите, наполняя себя внезапной вспышкой исцеления.\nСразу до применения урона от атаки, вы восстанавливаете 10d4+20 ОЗ.\nЕсли этого достаточно, чтобы предотвратить снижение ваших ОЗ до 0, то вы не теряете сознание или становитесь <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.\nВ любом случае, обманывать смерть сложно, и вы не можете снова использовать <em>неповиновение героя</em> пока не используете <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> или до следующей подготовки.\n<em>Неповиновение героя</em> не может быть использовано против эффектов с признаком <span class=\"t-death\">смерть</span> или тех, которые не оставят останков, таких как <span class=\"card-link std std-ref\" data-id=\"spell-d-disintegrate\">Дезинтеграция (Disintegrate) / Закл. 6</span>.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "свободное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-heros-defiance"
+        },
+        {
+            "fullName": "Слепые амбиции (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=404\">Blind Ambition</a>) / Фокус. 1",
+            "name": "Слепые амбиции",
+            "originalName": "Blind Ambition",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Амбиция (Ambition)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 10 минут</p><hr class=\"docutils\"><p>Вы усиливаете амбиции цели, увеличиваете ее неприязнь к союзникам, и делаете ее более сговорчивой на изменения лояльность.\nЦель должна совершить спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает штраф состояния -1 к своим спасброскам и другим защитам от попыток использовать на нее <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьба (Request) </span> или использовать ментальные эффекты, чтобы убедить ее сделать что-либо (как заклинанием <span class=\"card-link std std-ref\" data-id=\"spell-s-suggestion\">Внушение (Suggestion) / Закл. 4</span>). Этот штраф применяется только если цель воодушевлена на достижение собственных амбиций.</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, но штраф -2</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель переполнена амбициями, даже без попыток убедить ее, она предпринимает любые действия, которые бы продвинули ее собственные цели превыше целей кого-либо еще</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-blind-ambition"
+        },
+        {
+            "fullName": "Полое сердце (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1170\">Hollow Heart</a>) / Фокус. 1",
+            "name": "Полое сердце",
+            "originalName": "Hollow Heart",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "очарование",
+                "страх",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Амбиция (Ambition)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><p><strong>Источник</strong>: Dark Archive pg. 142</p><hr class=\"docutils\"><p>Вы распаляете амбиции цели сверх разумного, пока она не поверит, что никто не способен ей помочь или что другим нельзя доверять.\nЦель совершает спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель 1 раунд не считает других существ союзниками.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель 3 раунда не считает других существ союзниками.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал и цель <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 1</span> так как осознает, что не может положиться ни на кого кроме себя.</div>\n</div>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 142",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-hollow-heart"
+        },
+        {
+            "fullName": "Конкурентоспособность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=409\">Competitive Edge</a>) / Фокус. 4",
+            "name": "Конкурентоспособность",
+            "originalName": "Competitive Edge",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Амбиция (Ambition)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 1 минуты</p><hr class=\"docutils\"><p>Ваш дух соперничества побуждает проявить себя в противостоянии с оппозицией.\nВы получаете бонус состояния +1 к броскам атак и проверкам навыков.\nЕсли враг в пределах 20 футов получает крит.успех броска атаки или проверки навыка, то ваш бонус состояния на 1 раунд увеличивается до +3 для бросков атак или проверок этого конкретного навыка (в зависимости от того, в чем критически преуспел враг).</p><hr class=\"docutils\"><p><strong>Усиление (7-й)</strong>: Основной бонус увеличивается до +2, а увеличенный бонус после крит.успеха врага становится +4.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-competitive-edge"
+        },
+        {
+            "fullName": "Отталкивающий порыв ветра (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=444\">Pushing Gust</a>) / Фокус. 1",
+            "name": "Отталкивающий порыв ветра",
+            "originalName": "Pushing Gust",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "воплощение",
+                "воздух",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Воздух (Air)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 500 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Стойкость</p><hr class=\"docutils\"><p>Толкая воздух, вы поражаете цель мощным порывом ветра; она должна совершить спасбросок Стойкости.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель отталкивается от вас на 5 футов</div>\n<div class=\"line\"><strong>Провал</strong>: Цель отталкивается от вас на 10 футов</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель отталкивается от вас на 10 футов и падает <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span></div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-pushing-gust"
+        },
+        {
+            "fullName": "Раствориться в воздухе (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=416\">Disperse into Air</a>) / Фокус. 4",
+            "name": "Раствориться в воздухе",
+            "originalName": "Disperse into Air",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "полиморф",
+                "воздух",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Воздух (Air)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Вы получаете урон от врага или опасности</p><hr class=\"docutils\"><p>После получения спровоцировавшего урона, вы растворяетесь в воздухе.\nДо конца текущего хода вас нельзя атаковать или выбрать целью, вы не занимаете пространство, не можете действовать, и любые ауры или эманации которые у вас есть - приостанавливаются.\nВ конце этого хода, вы пересобираетесь в любом пространстве, которое можете занять в пределах 15 футов от места где вы растворились.\nЛюбые имевшиеся у вас ауры или эманации восстанавливаются, если только их продолжительность не закончилась пока вы были бесформенным.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-disperse-into-air"
+        },
+        {
+            "fullName": "Шепоты ветра (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1178\">Wind Whispers</a>) / Фокус. 4",
+            "name": "Шепоты ветра",
+            "originalName": "Wind Whispers",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "очарование",
+                "языковой",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Воздух (Air)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: 1 час (жестовый, словесный, материальный)</p><p><strong>Дистанция</strong>: 1 миля</p><p><strong>Источник</strong>: Dark Archive pg. 144</p><hr class=\"docutils\"><p>Вы вызываете многочисленные бризы, в которые вплетаете сплетни, тонко нашептывая их на ухо окружающим.\nВыберите слух или информацию об одной теме, которые вы хотите распространить и которые могут быть или не быть правдивыми.\nТе, кто находятся в пределах дистанции заклинания, услышат слухи в какой-то момент в течение следующего часа, хотя и не смогут определить их источник.\nСовершите проверку с модификатором, равным вашему КС заклинания - 10, против <span class=\"card-link std std-ref\" data-id=\"table-10-6\">трудного КС</span> для вашего <span class=\"card-link std std-ref\" data-id=\"table-10-5-1\">уровня</span>.\nМастер может изменить КС в зависимости от того, насколько правдоподобен слух.\nПовторные сотворения заклинания для распространения одного и того же слуха или информации не имеют эффекта, если только на усмотрение Мастера обстоятельства существенно не изменились.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Ваш слух распространяется повсюду, и он на слуху у людей. В течение 1 недели каждый, совершающий успешный <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Сбор информации (Gather Information)</span> по этой конкретной теме, узнает ваш слух, предпочитая его другим слухам по этому теме. Проверки навыков на убеждение людей в правдивости этих слухов получают бонус обстоятельства +2.</div>\n<div class=\"line\"><strong>Успех</strong>: Достаточное количество людей принимает слух к сведению, и он начинает распространяться, однако те, кто слышал слух, не обязательно убеждены в нем. В течение 1 недели каждый, совершающий успешный <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Сбор информации (Gather Information)</span> по этой конкретной теме, добавляет ваш слух в список слухов, которые они могут узнать по этой теме, а проверки навыков на убеждение людей в правдивости этих слухов получают бонус обстоятельства +1.</div>\n<div class=\"line\"><strong>Провал</strong>: Большинство жителей области считают этот слух дикой сплетней и не придают ему значения, что не дает какого-либо эффекта.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Сплетни ветра неправильно истолкованы и распространяют информацию, противоречащую слухам, которые вы пытались распространить. Распространяются противоречивые слухи, и проверки навыков на убеждение других в правдивости вашего изначального слуха получают штраф обстоятельства -2.</div>\n</div>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 144",
+            "action": "",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-wind-whispers"
+        },
+        {
+            "fullName": "Лицо в толпе (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=421\">Face in the Crowd</a>) / Фокус. 1",
+            "name": "Лицо в толпе",
+            "originalName": "Face in the Crowd",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "иллюзия",
+                "визуальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Города (Cities)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Находясь в толпе примерно похожих существ, ваша внешность становится обыденной и неприметной.\nВы получаете бонус состояния +2 к проверкам Обмана и Скрытности, чтобы быть незамеченным в толпе и вы игнорируете сложную местность вызванную толпой.</p><hr class=\"docutils\"><p><strong>Усиление (3-й)</strong>: Заклинание получает дистанцию 10 футов и может выбрать целями вплоть до 10 существ.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-face-in-the-crowd"
+        },
+        {
+            "fullName": "Ритм города (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=443\">Pulse of the City</a>) / Фокус. 4",
+            "name": "Ритм города",
+            "originalName": "Pulse of the City",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "видение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Города (Cities)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> жестовый, словесный, материальный</p><p><strong>Дистанция</strong>: 25 миль</p><hr class=\"docutils\"><p>Вы проникаете в дух времени ближайшего населенного пункта находящего в пределах дистанции (если таковой имеется).\nВы узнаете название населенного пункта, и можете произнести специальное слово, чтобы узнать краткое изложение одного значительного события, происходящего в населенном пункте.\nВыберите одно из следующих слов, которое указывает тип вовлеченных людей и тип события, о котором вы узнаете.</p><ul class=\"simple\">\n<li><p><strong>Правопорядок (Wardens)</strong>: городские стражники, адвокаты и судьи (криминальные сводки, аресты, изменения в распорядке, судебные процессы)</p></li>\n<li><p><strong>Знать (Titles)</strong>: дворяне и политики (свадьбы высшего общества, элитные вечера, политические собрания)</p></li>\n<li><p><strong>Толпы (Masses)</strong>: обычный люд и торговцы (сбор толпы, крупные распродажи)</p></li>\n</ul><p>Произнося свое слово, вы можете исключить события, о которых вы уже знаете, независимо от того, знаете ли вы о них из этого заклинания или по другой причине.\nЕсли вы сотворяете <em>ритм города</em> снова в пределах 24 часов, вы можете сказать \"эхо\" вместо другого слова, чтобы получить обновление по событию о котором вы узнали в прошлый раз когда выполняли <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.</p><p><em>Ритм города</em> раскрывает только публично доступную или заметную информацию.\nВы никогда не узнаете тайных деяний или других деталей, которые люди специально пытаются скрыть.\nЗаклинание также заведомо плохо справляется с преодолением магии, предназначенной для того, чтобы избегать обнаружения; оно автоматически проваливает попытки раскрыть информацию о событиях, связанных с существами, местами или объектами, затронутыми заклинаниями, которые могли бы предотвратить или противодействовать <em>ритму города</em> (например, <span class=\"card-link std std-ref\" data-id=\"spell-n-nondetection\">Необнаружимость (Nondetection) / Закл. 3</span>).</p><hr class=\"docutils\"><p><strong>Усиление (5-й)</strong>: Дистанция увеличивается до 100 миль.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 3-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-pulse-of-the-city"
+        },
+        {
+            "fullName": "Покров уверенности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=466\">Veil of Confidence</a>) / Фокус. 1",
+            "name": "Покров уверенности",
+            "originalName": "Veil of Confidence",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Уверенность (Confidence)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Вы окружаете себя покровом уверенности.\nВы снижаете свое текущее состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 1 и всякий раз, когда вы станете напуганным во время продолжительности заклинания, то снижаете величину на 1.</p><p>Если вы крит.проваливаете спасбросок против страха, то <em>покров уверенности</em> мгновенно заканчивается, и вместо снижения его величины, вы увеличиваете любое полученное от критического провала состояние испуга на 1.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-veil-of-confidence"
+        },
+        {
+            "fullName": "Обманчивая самоуверенность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=414\">Delusional Pride</a>) / Фокус. 4",
+            "name": "Обманчивая самоуверенность",
+            "originalName": "Delusional Pride",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Уверенность (Confidence)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Вы делаете цель слишком самоуверенной, заставляя ее списывать неудачи на внешние факторы.\nЕсли цель проваливает бросок атаки или проверку навыка, то она получает штраф состояния -1 к броскам атак и проверкам навыков до конца своего хода (или конца ее следующего хода, если это был бросок вне ее хода).\nЕсли существо проваливает второй раз имея этот штраф, то штраф увеличивается до -2.\nПродолжительность зависит от спасброска Воли цели.\nПосле совершения спасброска, существо становится временно иммунным на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Продолжительность 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Продолжительность 10 минут</div>\n<div class=\"line\"><strong>Критический провал</strong>: Продолжительность 24 часа</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-delusional-pride"
+        },
+        {
+            "fullName": "Пошатнувшаяся уверенность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1174\">Shaken Confidence</a>) / Фокус. 4",
+            "name": "Пошатнувшаяся уверенность",
+            "originalName": "Shaken Confidence",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "неудача",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Уверенность (Confidence)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Враг в пределах 30 футов от вас критически проваливает бросок атаки, проверку Восприятия или навыка</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><p><strong>Источник</strong>: Dark Archive pg. 143</p><hr class=\"docutils\"><p>Вы высмеиваете цель за все ее провалы, искажая ее самоуверенности в сомнения.\nВраг совершает спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель ненадолго потрясена и не уверена в своих силах. При следующем броске того же типа, что и критический провал спровоцировавший это заклинание, она должна бросить дважды и взять худший результат (например, при следующей проверке Акробатики, если триггером заклинания был критический провал проверки Акробатики). Если цель не совершает ни одной подходящей проверки, заклинание заканчивается в конце следующего хода цели.</div>\n</div>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 143",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-shaken-confidence"
+        },
+        {
+            "fullName": "Всплеск искусства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=453\">Splash of Art</a>) / Фокус. 1",
+            "name": "Всплеск искусства",
+            "originalName": "Splash of Art",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "иллюзия",
+                "визуальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Творчество (Creation)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Область</strong>: 5-футовый взрыв</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Поток разноцветных иллюзорных красок, инструментов или других символов искусства и ремесленничества медленно опускается на область.\nКиньте 1d4, чтобы определить цвет иллюзии.\nКаждое существо в области должно совершить спасбросок Воли.\nПри успехе существо невредимо.\nПри провале или крит.провале, существо получает соответствующие цвету результаты, указанные в таблице.</p><table class=\"docutils align-default\">\n<colgroup>\n<col style=\"width: 7%\">\n<col style=\"width: 13%\">\n<col style=\"width: 40%\">\n<col style=\"width: 40%\">\n</colgroup>\n<thead>\n<tr class=\"row-odd\"><th class=\"head\"><p>1d4</p></th>\n<th class=\"head\"><p>Цвет</p></th>\n<th class=\"head\"><p>Провал</p></th>\n<th class=\"head\"><p>Крит.провал</p></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-even\"><td><p>1</p></td>\n<td><p>Белый</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span>\nна 1 раунд</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span>\nна 1 минуту</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>2</p></td>\n<td><p>Красный</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 1</span>\nна 1 раунд</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span>\nна 1 раунд</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>3</p></td>\n<td><p>Желтый</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span></p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 2</span></p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>4</p></td>\n<td><p>Синий</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 1</span>\nна 1 раунд</p></td>\n<td><p><span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть 2</span>\nна 1 раунд</p></td>\n</tr>\n</tbody>\n</table>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-splash-of-art"
+        },
+        {
+            "fullName": "Художественный размах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=401\">Artistic Flourish</a>) / Фокус. 4",
+            "name": "Художественный размах",
+            "originalName": "Artistic Flourish",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Творчество (Creation)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, материальный</p><p><strong>Дистанция</strong>: 15 футов</p><p><strong>Цели</strong>: 1 предмет или произведение искусства, который целиком умещается в дистанцию</p><p><strong>Продолжительность</strong>: 10 минут</p><hr class=\"docutils\"><p>Вы трансформируете цель, чтобы она соответствовала вашему ремесленному и художественному видению.\nЕсли вы эксперт Ремесла, то предмет дает бонус предмета +1: к броскам атак если он является оружием, или проверкам навыка если это инструмент связанный с навыком.\nЦель - красивая и впечатляющая вещь для своего нового качества, но эффект явно временный, поэтому ее денежная ценность не меняется.</p><p>Когда вы сотворяете это заклинание, любые сотворенные вами ранее <em>художественные размахи</em> заканчиваются.</p><hr class=\"docutils\"><p><strong>Усиление (7-й)</strong>: Если вы мастер Ремесла, предмет дает бонус предмета +2.</p><p><strong>Усиление (10-й)</strong>: Если вы легенда Ремесла, предмет дает бонус предмета +3.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "материальный"
+            ],
+            "id": "spell-focus-artistic-flourish"
+        },
+        {
+            "fullName": "Плащ тени (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=407\">Cloak of Shadow</a>) / Фокус. 1",
+            "name": "Плащ тени",
+            "originalName": "Cloak of Shadow",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "тьма",
+                "тень",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тьма (Darkness)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 готовое существо</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Вы одеваете на цель плащ кружащихся теней, которые делают ее труднозаметной.\nПлащ приглушает яркий свет в 20-футовой эманации, делая его тусклым.\nЭто разновидность магической тьмы, и поэтому она может преодолеть немагический свет или попытаться противодействовать магическому свету, как описано в разделе <span class=\"card-link \">Противодействие (Counteracting)</span>.</p><p>Цель может использовать полученное от теней состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span>, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>, однако наблюдающие это существа все же могут следить за двигающейся теневой аурой, делая трудной для цели задачу стать полностью <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженной</span>.\nЦель может использовать действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы убрать плащ и оставить его как приманку, где он остается, снижая освещение на оставшееся время заклинания.\nЕсли кто-то подбирает плащ после того как его сняла изначальная цель, то плащ испаряется и заклинание заканчивается.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-cloak-of-shadow"
+        },
+        {
+            "fullName": "Потемневшие глаза (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=411\">Darkened Eyes</a>) / Фокус. 4",
+            "name": "Потемневшие глаза",
+            "originalName": "Darkened Eyes",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "тьма",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тьма (Darkness)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Стойкость</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Вы наполняете зрение существа темнотой.\nПосле совершения спасброска цель становится иммунной на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Ночное или сумеречное зрение цели подавлено на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, но продолжительность 1 минута</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как успех, но продолжительность 1 минута, и цель еще получает состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на время продолжительности. Она может совершить новый спасбросок в конце каждого своего хода. В случае успеха она теряет состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>, но ночное или сумеречное зрение остается подавленным.</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-darkened-eyes"
+        },
+        {
+            "fullName": "Изоляция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1171\">Isolation</a>) / Фокус. 4",
+            "name": "Изоляция",
+            "originalName": "Isolation",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "иллюзия",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тьма (Darkness)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 3 раунда</p><p><strong>Источник</strong>: Dark Archive pg. 143</p><hr class=\"docutils\"><p>Вы вызываете осязаемое проявление одиночества, скрывающее цель из вида так же надежно, как если бы она была окутана тьмой.\nЦель совершает спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимой</span>, но только для своих союзников. Любое существо, несоюзное для цели может нормально видеть его. Эффекты, такие как <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> позволяют союзнику видеть цель. Союзники цели все еще знают о присутствии цели и могут видеть все эффекты ее действий.</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, но цель еще становится неслышимой для своих союзников и не воспринимаемой ими любыми другими сенсорными чувствами.</div>\n</div>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 143",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-isolation"
+        },
+        {
+            "fullName": "Зов смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=413\">Death's Call</a>) / Фокус. 1",
+            "name": "Зов смерти",
+            "originalName": "Death's Call",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Смерть (Death)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Живое существо умирает в пределах 20 футов от вас, или в пределах 20 футов от вас уничтожена нежить</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Вас бодрит вид того, как совершается еще один переход из этого мира в следующий.\nВы получаете временные ОЗ, равные уровню спровоцировавшего существа + ваш модификатор характеристики колдовства.\nЕсли спровоцировавшее существо было нежитью, удвойте количество получаемых ОЗ.\nОни остаются на время продолжительности заклинания, и заклинание заканчивается если все временные ОЗ будут израсходованы раньше.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r1: </span>\"Модификатор Мудрости\" заменен на \"модификатор хар-ки колдовства\".</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-deaths-call"
+        },
+        {
+            "fullName": "Истребление нежити (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=420\">Eradicate Undeath</a>) / Фокус. 4",
+            "name": "Истребление нежити",
+            "originalName": "Eradicate Undeath",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "позитивный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Смерть (Death)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 30-футовый конус</p><p><strong>Спасбросок</strong>: простой Стойкость</p><hr class=\"docutils\"><p>Мощный поток жизненной энергии заставляет нежить разваливаться на части.\nКаждое существо-нежить в области получает 4d12 позитивного урона.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон увеличивается на 1d12.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-eradicate-undeath"
+        },
+        {
+            "fullName": "Крик разрушения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=410\">Cry of Destruction</a>) / Фокус. 1",
+            "name": "Крик разрушения",
+            "originalName": "Cry of Destruction",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "звук",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Разрушение (Destruction)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 15-футовый конус</p><p><strong>Спасбросок</strong>: простой Стойкость</p><hr class=\"docutils\"><p>Ваш голос гремит, разбивая то, что находится перед вами.\nКаждое существо и ничейный объект в области получают 1d8 урона звуком.\nЕсли вы уже наносили урон врагу в этом ходу <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> или заклинанием, то увеличьте кость урона этого заклинания до d12.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон увеличивается на 1d8.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-cry-of-destruction"
+        },
+        {
+            "fullName": "Разрушительная аура (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=415\">Destructive Aura</a>) / Фокус. 4",
+            "name": "Разрушительная аура",
+            "originalName": "Destructive Aura",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "аура",
+                "эвокация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Разрушение (Destruction)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 15-футовая эманация</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Кружащиеся пески божественного опустошения окружают вас, ослабляя защиту всего, к чему они прикасаются.\nВ области снижаются ваши сопротивления и всех существ на 2.</p><hr class=\"docutils\"><p><strong>Усиление (+2)</strong>: Сопротивления снижаются на дополнительные 2 единицы.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Добавлен признак <span class=\"t-aura\">аура</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-destructive-aura"
+        },
+        {
+            "fullName": "Сладкий сон (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=455\">Sweet Dream</a>) / Фокус. 1",
+            "name": "Сладкий сон",
+            "originalName": "Sweet Dream",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "сон",
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Сны (Dreams)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> жестовый, словесный, материальный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 готовое существо</p><p><strong>Продолжительность</strong>: 10 минут</p><hr class=\"docutils\"><p>С помощью успокаивающей песни или рассказа вы убаюкиваете цель чарующим сном.\nКогда вы сотворяете это заклинание, цель теряет сознание, если она еще не.\nБудучи без сознания, она видит сон по вашему выбору.\nЕсли она спит хотя бы 1 минуту, то получает преимущество сна на остаток продолжительности заклинания.</p><ul class=\"simple\">\n<li><p><strong>Сон прозрения (Dream of Insight)</strong>: Бонус состояния +1 к проверкам навыков на основе Интеллекта</p></li>\n<li><p><strong>Сон обаяния (Dream of Glamour)</strong>: Бонус состояния +1 к проверкам навыков на основе Харизмы</p></li>\n<li><p><strong>Сон путешествия (Dream of Voyaging)</strong>: Бонус состояния +5 футов к Скорости</p></li>\n</ul><p>Если вы снова <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание, эффекты любого предыдущего наложенного вами <em>сладкого сна</em> заканчиваются.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 3-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-sweet-dream"
+        },
+        {
+            "fullName": "Зов мечтателя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=418\">Dreamer's Call</a>) / Фокус. 4",
+            "name": "Зов мечтателя",
+            "originalName": "Dreamer's Call",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "недееспособность",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Сны (Dreams)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: до конца следующего хода цели</p><hr class=\"docutils\"><p>Цель становится рассеянной и внушаемой, будучи наполненная яркими грезами наяву.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Внимание цели колеблется. Она становится застигнутой врасплох и \"завороженной\" своими грезами.</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, только вы появляетесь во сне и даете внушение. Это может быть: приблизиться к вам, убежать прочь (как если бы у нее было состояние <span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегство</span>), <span class=\"card-link std std-ref\" data-id=\"action-release\">Отпустить (Release) </span> то что она держит, <span class=\"card-link std std-ref\" data-id=\"action-drop-prone\">Упасть ничком (Drop Prone) </span>, или стоять на месте. Существо следует этому указанию в качестве своего первого действия после того как вы \"Сотворили это заклинание\".</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал, но цель тратит на указание столько действий сколько возможно, пока длится заклинание, и больше ничего не делает</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-dreamers-call"
+        },
+        {
+            "fullName": "Летящий камень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=427\">Hurtling Stone</a>) / Фокус. 1",
+            "name": "Летящий камень",
+            "originalName": "Hurtling Stone",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "атака",
+                "земля",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Земля (Earth)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 существо</p><hr class=\"docutils\"><p>Вы вызываете магический камень и бросаете его, а присутствие вашего бога направляет вашу меткость.\nСовершите атаку заклинанием по цели.\nКамень наносит дробящий урон равный 1d6 + ваш модификатор Силы.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Камень наносит двойной урон</div>\n<div class=\"line\"><strong>Успех</strong>: Камень наносит полный урон</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон камня увеличивается на 1d6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-hurtling-stone"
+        },
+        {
+            "fullName": "Локальное землетрясение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=429\">Localized Quake</a>) / Фокус. 4",
+            "name": "Локальное землетрясение",
+            "originalName": "Localized Quake",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "земля",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Земля (Earth)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 15-футовая эманация или 15-футовый конус</p><p><strong>Спасбросок</strong>: Рефлекс</p><hr class=\"docutils\"><p>Вы сотрясаете землю, опрокидывая ближайших существ.\nКогда сотворяете заклинание, выберите область в виде 15-футовой эманации или 15-футового конуса.\nКаждое существо в области, стоящее на твердой земле может получить 4d6 дробящего урона и должно совершить спасбросок Рефлекса.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает половину урона</div>\n<div class=\"line\"><strong>Провал</strong>: Существо получает полный урон и падает на землю ничком</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо получает двойной урон и падает на землю ничком</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон увеличивается на 2d6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-localized-quake"
+        },
+        {
+            "fullName": "Успокаивающие слова (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=452\">Soothing Words</a>) / Фокус. 1",
+            "name": "Успокаивающие слова",
+            "originalName": "Soothing Words",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Семья (Family)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 союзник</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы пытаетесь успокоить цель, произнося умиротворяющие слова спокойным и ровным тоном.\nЦель получает бонус состояния +1 к спасброскам Воли.\nБонус увеличивается до +2 против эффектов <span class=\"t-emotion\">эмоций</span>.</p><p>Дополнительно, когда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание, можете попытаться противодействовать одному <span class=\"t-emotion\">эмоциональному</span> эффекту на цели.</p><hr class=\"docutils\"><p><strong>Усиление (5-й)</strong>: Бонус к спасброскам увеличивается до +2, или +3 против эффектов эмоций.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-soothing-words"
+        },
+        {
+            "fullName": "Единство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=465\">Unity</a>) / Фокус. 4",
+            "name": "Единство",
+            "originalName": "Unity",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Семья (Family)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Вы и 1 или более союзников в пределах дистанции являетесь целью заклинания или умения, которые позволяет совершить спасбросок</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: каждый союзник являющийся целью спровоцировавшего заклинания</p><hr class=\"docutils\"><p>Вы защищаетесь вместе.\nКаждый союзник, может использовать против спровоцировавшего заклинания ваш модификатор спасброска, вместо своего.\nКаждый союзник решает индивидуально какой модификатор использовать.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-unity"
+        },
+        {
+            "fullName": "Чтение судьбы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=445\">Read Fate</a>) / Фокус. 1",
+            "name": "Чтение судьбы",
+            "originalName": "Read Fate",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "предсказание",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Судьба (Fate)</span></p><p><strong>Сотворение</strong>: 1 минута (жестовый, словесный, материальный)</p><p><strong>Дистанция</strong>: 10 футов</p><p><strong>Цели</strong>: 1 существо (кроме вас самих)</p><hr class=\"docutils\"><p>Вы пытаетесь узнать больше о судьбе цели на короткий промежуток времени, обычно в течение следующего дня для большинства обыденных существ, или в течение следующего часа или меньше для кого-то, кто, вероятно, имеет различные бурные переживания, например, кто-то, кто активно ищет приключений.</p><p>Вы узнаете одно загадочное слово, связанное с судьбой существа в этом временном промежутке.\nСудьба, как известно, непостижима, и это слово не обязательно должно приниматься за чистую монету, поэтому его смысл часто ясен только по прошествии времени.\nМастер кидает тайную чистую проверку с КС 6.\nЕсли судьба существа слишком неясна, или в случае провалившейся проверки, заклинание дает слово \"нерешенная\".\nВ любом случае, потом существо временно иммунно на 24 часа.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-read-fate"
+        },
+        {
+            "fullName": "Нить судьбы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1175\">String of Fate</a>) / Фокус. 1",
+            "name": "Нить судьбы",
+            "originalName": "String of Fate",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "удача",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Судьба (Fate)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: вы и 1 союзник</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 1 минуты</p><p><strong>Источник</strong>: Dark Archive pg. 143</p><hr class=\"docutils\"><p>Вы связываете себя с другом, которым дорожите, клянясь разделить его судьбу, будь она хорошей или плохой.\nВсякий раз, когда эффект потребует от вас и цели совершить спасбросок, если один из вас получает успех, а другой критически проваливает, то вместо этого вы можете выбрать, чтобы оба получили простой провал.\nВы и союзник должны согласиться на провал; в противном случае, используйте свои обычные результаты спасброска.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 143",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-string-of-fate"
+        },
+        {
+            "fullName": "Искушать судьбу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=457\">Tempt Fate</a>) / Фокус. 4",
+            "name": "Искушать судьбу",
+            "originalName": "Tempt Fate",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Судьба (Fate)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Вы или союзник в пределах дистанции совершаете спасбросок</p><p><strong>Дистанция</strong>: 120 футов</p><p><strong>Цели</strong>: спровоцировавшее существо</p><hr class=\"docutils\"><p>Вы перекручиваете силы судьбы, чтобы момент стал ужасным или без происшествий, и не содержал бы промежуточных результатов.\nЦель получает бонус состояния +1 к спровоцировавшему спасброску.\nЕсли результат спасброска успешный, то он становится крит.успешным.\nЕсли провал, то становится крит.провалом, и этот крит.провал не может быть улучшен с помощью умений, которые обычно улучшают степень успешности крит.провала, как <span class=\"card-link \">Улучшенное уклонение (Improved Evasion) / 15-й</span>.</p><p>Если спровоцировавшее умение не имеет одновременно отдельных результатов для крит.успеха и крит.провала, то <em>искушать судьбу</em> проваливается, но вы не тратите Очко Фокусировки на <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение (Cast)</span> этого заклинания.</p><hr class=\"docutils\"><p><strong>Усиление (8-й)</strong>: Бонус к спасброску становится +2.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-tempt-fate"
+        },
+        {
+            "fullName": "Огненный луч (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=422\">Fire Ray</a>) / Фокус. 1",
+            "name": "Огненный луч",
+            "originalName": "Fire Ray",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "атака",
+                "огонь",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Огонь (Fire)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: 1 существо</p><hr class=\"docutils\"><p>Пылающая полоса огня дугой проносится по воздуху.\nСовершите атаку заклинанием.\nЛуч наносит 2d6 огненного урона.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Луч наносит двойной урон и 1d4 продолжительного урона огнем</div>\n<div class=\"line\"><strong>Успех</strong>: Луч наносит полный урон</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Начальный урон луча увеличивается на 2d6, а продолжительный урон при крит.успехе увеличивается на 1d4.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Из целей объекты убраны.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-fire-ray"
+        },
+        {
+            "fullName": "Угольный взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1167\">Cinder Gaze</a>) / Фокус. 1",
+            "name": "Угольный взгляд",
+            "originalName": "Cinder Gaze",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "прорицание",
+                "предсказание",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Огонь (Fire)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: 1 минута (жестовый, словесный, материальный)</p><p><strong>Источник</strong>: Dark Archive pg. 142</p><hr class=\"docutils\"><p>Вы научились читать будущее в узорах пламени и дыма.\nХотя эти прочтения неточны и зачастую символичны, они помогают вам подготовиться к предстоящим событиям.\nПри <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворении (Casting)</span> этого заклинания вы должны находиться рядом с огнем (любого размера) в течение всего времени.\nПо завершении бросьте 1d4 для своего предсказания.\nПреимущество длится 10 минут или до тех пор, пока оно не будет израсходовано, в зависимости от того, что произойдет раньше.\nПосле сотворения <em>угольного взгляда</em> вы не сможете снова творить его 10 минут.</p><ol class=\"arabic simple\">\n<li><p><strong>Ужасная опасность (Terrible Danger)</strong>: Вы получаете бонус состояния +2 к своему следующему броску инициативы.</p></li>\n<li><p><strong>Новая жизнь (New Life)</strong>: Когда вы в следующий раз получаете урон, то сразу перед этим получаете временные ОЗ, равные 1 + модификатор вашей характеристики колдовства.</p></li>\n<li><p><strong>Яркая проницательность (Vivid Insight)</strong> (<span class=\"t-fortune\">удача</span>): При вашей следующей попытке <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> киньте дважды и возьмите лучший результат.</p></li>\n<li><p><strong>Счастливое везение (Good Fortune)</strong> (<span class=\"t-fortune\">удача</span>): При вашем следующем спасброске киньте дважды и возьмите лучший результат.</p></li>\n</ol><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Количество временных ОЗ от \"Новой жизни\" увеличивается на 2.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 142",
+            "action": "",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-cinder-gaze"
+        },
+        {
+            "fullName": "Огненная преграда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=423\">Flame Barrier</a>) / Фокус. 4",
+            "name": "Огненная преграда",
+            "originalName": "Flame Barrier",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Огонь (Fire)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Эффект нанесет огненный урон вам или союзнику в пределах дистанции</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: существо которое получит огненный урон</p><hr class=\"docutils\"><p>Вы быстро отклоняете приближающееся пламя.\nЦель получает сопротивление огню 15, против спровоцировавшего эффекта.</p><hr class=\"docutils\"><p><strong>Усиление (+2)</strong>: Сопротивление увеличивается на 5 единиц.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-flame-barrier"
+        },
+        {
+            "fullName": "Беспрепятственное перемещение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=464\">Unimpeded Stride</a>) / Фокус. 1",
+            "name": "Беспрепятственное перемещение",
+            "originalName": "Unimpeded Stride",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Свобода (Freedom)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><hr class=\"docutils\"><p>Ничто не может удержать вас на месте.\nВы немедленно освобождаетесь от любого магического эффекта, который делает вас \"обездвиженным\" или \"схваченным\", если только этот эффект не имеет более высокий уровень, чем ваше заклинание <em>беспрепятственное перемещение</em>.\nПосле этого вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>.\nВо время этого передвижения вы игнорируете сложную местность и любые штрафы обстоятельства или штрафы состояния к вашей Скорости.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-unimpeded-stride"
+        },
+        {
+            "fullName": "Слово свободы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=470\">Word of Freedom</a>) / Фокус. 4",
+            "name": "Слово свободы",
+            "originalName": "Word of Freedom",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Свобода (Freedom)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Вы произносите освобождающее слово силы, которое освобождает существо.\nВы подавляете одно из следующих состояний по своему выбору: <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span>, <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>, <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span>, <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> или <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span>.\nВыбранное состояние не влияет на цель, и если вы подавляете состояние <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span>, то цель автоматически освобождается от любого действующего на нее захвата или сдерживания, когда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание.</p><p>Если вы не убираете эффект, который дает состояние, то это состояние возвращается после завершения заклинания.\nНапример, если заклинание давало цели состояние <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> на 1 минуту, <em>слово свободы</em> позволит цели действовать нормально на 1 раунд, но после этого состояние <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> вернется.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r4: </span>В эффекты добавлено состояние <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживания</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-word-of-freedom"
+        },
+        {
+            "fullName": "Благословение целителя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=426\">Healer's Blessing</a>) / Фокус. 1",
+            "name": "Благословение целителя",
+            "originalName": "Healer's Blessing",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Исцеление (Healing)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 готовое живое существо</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Ваши слова благословляют существо, усиливая связь с позитивной энергией.\nКогда цель восстанавливает Очки Здоровья от исцеляющего заклинания, то она восстанавливает дополнительные 2 ОЗ.</p><p>Цель восстанавливает дополнительные ОЗ от <em>благословения целителя</em> только первый раз восстанавливая ОЗ от полученного исцеляющего заклинания, поэтому заклинание, которое исцеляет несколько раз в течение времени, восстанавливает дополнительные ОЗ только один раз.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Дополнительное исцеление увеличивается на 2 ОЗ.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Начальные дополнительные ОЗ изменены с 1 на 2.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-healers-blessing"
+        },
+        {
+            "fullName": "Упрекнуть смерть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=446\">Rebuke Death</a>) / Фокус. 4",
+            "name": "Упрекнуть смерть",
+            "originalName": "Rebuke Death",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "исцеление",
+                "позитивный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Исцеление (Healing)</span></p><p><strong>Сотворение</strong>: от <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> до <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> (жестовый)</p><p><strong>Область</strong>: 20-футовая эманация</p><p><strong>Цели</strong>: 1 живое существо за действие потраченное на сотворение этого заклинания</p><hr class=\"docutils\"><p>Вы вырываете существ из пасти смерти.\nВы можете потратить от 1 до 3 действий на <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>, и можете выбрать количество целей, соответствующее количеству потраченных действий.\nКаждая цель восстанавливает 3d6 ОЗ.\nЕсли у цели было состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, возвращение из него при помощи этого исцеления, не увеличивает ее состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Увеличьте исцеление на 1d6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-rebuke-death"
+        },
+        {
+            "fullName": "Эйфорическое восстановление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1168\">Euphoric Renewal</a>) / Фокус. 4",
+            "name": "Эйфорическое восстановление",
+            "originalName": "Euphoric Renewal",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "некромантия",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Смерть (Death)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Продолжительность</strong>: 10 минут</p><p><strong>Источник</strong>: Dark Archive pg. 142</p><hr class=\"docutils\"><p>Вы воспринимаете смерть не как конец, а как начало, и вам нравится танцевать на ее краю.\nКаждый раз, когда вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, а затем приходите в сознание находясь под действием <em>эйфорического восстановления</em>, вы получаете 3 преимущества.</p><ul class=\"simple\">\n<li><p>Вы <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span> в свой следующий ход. Вы можете использовать это дополнительное действие только чтобы <span class=\"card-link std std-ref\" data-id=\"action-stand\">Встать (Stand) </span>.</p></li>\n<li><p>Вы на 1 минуту получаете бонус обстоятельства +1 к спасброскам.</p></li>\n<li><p>Вы получаете 8 временных ОЗ, длящихся 1 минуту.</p></li>\n</ul><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Количество временных ОЗ увеличивается на 2.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 142",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-euphoric-renewal"
+        },
+        {
+            "fullName": "Переедание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=436\">Overstuff</a>) / Фокус. 1",
+            "name": "Переедание",
+            "originalName": "Overstuff",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Потворство (Indulgence)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 живое существо</p><p><strong>Спасбросок</strong>: Стойкость</p><hr class=\"docutils\"><p>Огромное количество еды и питья наполняет цель.\nОна получает еды достаточно для целого приема пиши и должно совершить спасбросок Стойкости.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 1</span>, но если она тратит действие на завершение состояния, то оно автоматически проходит</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 1</span></div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span></div>\n</div><p>Цель получившая тошноту от этого заклинания, получает штраф состояния -10 футов к Скорости пока не перестанет испытывать это состояние.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-overstuff"
+        },
+        {
+            "fullName": "Неистовое веселье (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1169\">Frenzied Revelry</a>) / Фокус. 1",
+            "name": "Неистовое веселье",
+            "originalName": "Frenzied Revelry",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Потворство (Indulgence)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 5-футовая эманация</p><p><strong>Цели</strong>: вы и союзники в области</p><p><strong>Продолжительность</strong>: 1 минута</p><p><strong>Источник</strong>: Dark Archive pg. 142</p><hr class=\"docutils\"><p>Вы припоминаете воспоминания о гедонистических обрядах, чтобы погрузиться в заразительное безумие, дико танцуя и воя, побуждая своих спутников присоединиться к вам.\nНаходитесь в этой области, вы и ваши союзники получаете бонус состояния +1 к спасброскам против <span class=\"t-mental\">ментальных</span> эффектов.\nКаждый раз, когда кто-то, получающий преимущество этого бонуса, добивается крит.успеха при спасброске против <span class=\"t-mental\">ментального</span> эффекта врага, его ликование усиливается, на 1 раунд давая ему бонус состояния +1 к броскам атак и урона.</p><hr class=\"docutils\"><p><strong>Усиление (4-й)</strong>: Радиус эманации - 10 футов, а бонус состояния к спасброскам +2.</p><p><strong>Усиление (7-й)</strong>: Радиус эманации - 15 футов, а бонус состояния к спасброскам +3.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 142",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-frenzied-revelry"
+        },
+        {
+            "fullName": "Идти своим чередом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=456\">Take its Course</a>) / Фокус. 4",
+            "name": "Идти своим чередом",
+            "originalName": "Take its Course",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Потворство (Indulgence)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 существо</p><hr class=\"docutils\"><p>Когда кто-то перебрал, вы можете ускорить ему преодоление худшего из его недугов или усилить его страдания.\nЭто заклинание пытается прогрессировать действующий на цель недуг в виде болезни, яда, или продолжительного урона ядом.\nЕсли на цель действует несколько из них, вы можете выбрать из тех о которых вам известно; иначе Мастер выбирает случайно.\nНеготовая цель может совершить спасбросок Воли, чтобы отменить <em>идти своим чередом</em>.</p><p>Эффект этого заклинания зависит от того, пытаетесь ли вы закончить недуг или продолжительный урон ядом, и пытаетесь ли вы помочь или помешать  цели поправиться.</p><ul class=\"simple\">\n<li><p><strong>Недуг</strong>: Цель мгновенно совершает свой следующий спасбросок против недуга. На свой выбор можете дать существу бонус состояния +2 или штраф состояния -2 к спасброску против недуга.</p></li>\n<li><p><strong>Продолжительный яд</strong>: Вы можете заставить цель мгновенно получить продолжительный урон ядом когда <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание (в дополнение к совершению в конце его следующего хода). Независимо от этого, цель выполняет дополнительную чистую проверку против продолжительного урона ядом. Вы можете установить КС чистой проверки на 5 или 20 вместо нормального КС.</p></li>\n</ul><hr class=\"docutils\"><p><strong>Усиление (7-й)</strong>: Вы можете заставить прогрессировать у цели любое количество подходящих недугов и продолжительных уронов ядом.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-take-its-course"
+        },
+        {
+            "fullName": "Сосредоточенность ученого (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=450\">Scholarly Recollection</a>) / Фокус. 1",
+            "name": "Сосредоточенность ученого",
+            "originalName": "Scholarly Recollection",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Знания (Knowledge)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Вы совершаете проверку Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, или вы совершаете проверку навыка, которому обучены, для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span></p><hr class=\"docutils\"><p>Собравшись с мыслями и произнося короткую молитву, вы благословлены обнаружить, что ваше божество дало вам именно ту часть информации, которая соответствует вашей ситуации.\nСовершите бросок спровоцировавшей проверки дважды и используйте лучший результат.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-scholarly-recollection"
+        },
+        {
+            "fullName": "Знай своего врага (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=428\">Know the Enemy</a>) / Фокус. 4",
+            "name": "Знай своего врага",
+            "originalName": "Know the Enemy",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Знания (Knowledge)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Вы кидаете инициативу и можете видеть существо, вы попали броском атаки по существу, или существо проваливает спасбросок против одного из ваших заклинаний</p><hr class=\"docutils\"><p>Вы быстро вспоминаете полезную информацию.\nИспользуйте действие <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, кидая проверку подходящего навыка, чтобы идентифицировать умения спровоцировавшего врага.\nВы можете кидать свою проверку дважды и использовать лучший результат.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-know-the-enemy"
+        },
+        {
+            "fullName": "Мастер слова (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1179\">Wordsmith</a>) / Фокус. 4",
+            "name": "Мастер слова",
+            "originalName": "Wordsmith",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Знания (Knowledge)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> жестовый, словесный, материальный</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 документ написанный одним автором и состоящий из письменного текста на одном языке</p><p><strong>Продолжительность</strong>: до вашего следующего <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Фокусирования (Refocus)</span></p><p><strong>Источник</strong>: Dark Archive pg. 144</p><hr class=\"docutils\"><p>Вы приверженец знаний, непревзойденно владеющий языком, используемым для распространения этих знаний, и вы можете переделать написанное слово в форму, более понятную вашей аудитории.\nЯзык письменного текста цели изменяется на язык, который вы знаете.\nЭто изменение не меняет содержание текста, за исключением незначительных различий в переводе, и не дает читателю никакого понимания языка оригинала.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 144",
+            "action": "активность из 3-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-wordsmith"
+        },
+        {
+            "fullName": "Чуть-чуть удачи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=403\">Bit of Luck</a>) / Фокус. 1",
+            "name": "Чуть-чуть удачи",
+            "originalName": "Bit of Luck",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Везение (Luck)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 готовое существо</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Вы слегка наклоняете чашу весов удачи, чтобы защитить существо от катастрофы.\nКогда цель совершит спасбросок, она может бросить дважды и использовать лучший результат.\nКак только она это сделает, заклинание заканчивается.</p><p>Если вы снова сотворяете <em>чуть-чуть удачи</em>, любые предыдущие и еще действующие наложения <em>чуть-чуть удачи</em> сразу завершаются.\nПосле того, как существо стало целью для <em>чуть-чуть удачи</em>, оно становится временно иммунно на 24 часа.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-bit-of-luck"
+        },
+        {
+            "fullName": "Счастливый случай (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=430\">Lucky Break</a>) / Фокус. 4",
+            "name": "Счастливый случай",
+            "originalName": "Lucky Break",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "прорицание",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Везение (Luck)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Вы провалили (но не крит.провалили) спасбросок</p><hr class=\"docutils\"><p>Перебросьте спасбросок и используйте лучший результат.\nПотом вы становитесь временно иммунным на 10 минут.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-lucky-break"
+        },
+        {
+            "fullName": "Сосуд магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=431\">Magic's Vessel</a>) / Фокус. 1",
+            "name": "Сосуд магии",
+            "originalName": "Magic's Vessel",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Магия (Magic)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 1 минуты</p><hr class=\"docutils\"><p>Существо становится вместилищем чистой магической энергии, посылаемой вашим божеством.\nЦель получает бонус состояния +1 к спасброскам.\nКаждый раз, когда вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> из своих слотов заклинаний, вы автоматически <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддерживаете (Sustain)</span> это заклинание и даете его цели сопротивление урону от заклинаний до начала вашего следующего хода.\nЭто сопротивление равно уровню сотворенного вами заклинания.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-magics-vessel"
+        },
+        {
+            "fullName": "Таинственный маяк (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=434\">Mystic Beacon</a>) / Фокус. 4",
+            "name": "Таинственный маяк",
+            "originalName": "Mystic Beacon",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Магия (Magic)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 готовое существо</p><p><strong>Продолжительность</strong>: до начала вашего следующего хода</p><hr class=\"docutils\"><p>Следующее наносящее урон или исцеляющее заклинание, которое цель сотворяет до начала вашего следующего хода наносит урон или восстанавливает ОЗ, как если бы оно было усилено на 1 дополнительный уровень.\nВ остальном, заклинание функционирует как положено для своего текущего уровня.\nКак только цель сотворяет заклинание, <em>таинственный маяк</em> завершается.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-mystic-beacon"
+        },
+        {
+            "fullName": "Атлетическое стремление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=402\">Athletic Rush</a>) / Фокус. 1",
+            "name": "Атлетическое стремление",
+            "originalName": "Athletic Rush",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Мощь (Might)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Продолжительность</strong>: 1 раунд</p><hr class=\"docutils\"><p>Ваше тело наполняется физической силой и умением.\nВы получаете бонус состояния +10 футов к Скорости и бонус состояния +2 к проверкам Атлетики.\nКак часть <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворения (Cast)</span> этого заклинания вы можете применить <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>, <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span>.\nБонусы заклинания применяются во время этого действия.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-athletic-rush"
+        },
+        {
+            "fullName": "Победный клич (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1176\">Victory Cry</a>) / Фокус. 1",
+            "name": "Победный клич",
+            "originalName": "Victory Cry",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "редкий",
+                "эвокация",
+                "звук",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Мощь (Might)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> словесный</p><p><strong>Триггер</strong>: Союзник в пределах дистанции получает крит.успех <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span> ближнего боя</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: спровоцировавший союзник</p><p><strong>Источник</strong>: Dark Archive pg. 143</p><hr class=\"docutils\"><p>Ваше истинное могущество идет от ваших связей с союзниками, и вы гордитесь их достижениями.\nОружие, использованное для совершения Удара, наносит дополнительные 1d6 урона звуком (не удвоенного из-за критического попадания), и союзник может мгновенно попытаться <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> существо по которому попал, даже если руки союзника заняты.\nВаш союзник, для данной проверки Атлетики может использовать свой бонус предмета от броска спровоцировавшей атаки, если он есть, и он получает бонус состояния +1 к этой проверке Атлетики, если спровоцировавший Удар был нанесен оружием или безоружной атакой имеющими признак <span class=\"w-trip\">опрокидывание</span>.</p><hr class=\"docutils\"><p><strong>Усиление (+2)</strong>: Урон звуком увеличивается на 1d6.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 143",
+            "action": "реакция",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-victory-cry"
+        },
+        {
+            "fullName": "Несокрушимая мощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=419\">Enduring Might</a>) / Фокус. 4",
+            "name": "Несокрушимая мощь",
+            "originalName": "Enduring Might",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Мощь (Might)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Атака или эффект нанесет вам урон</p><hr class=\"docutils\"><p>Чтобы защитить вас, ваша собственная мощь смешивается с божественной силой.\nВы получаете сопротивление 8 + ваш модификатор Силы против всего урона от спровоцировавшей атаки или эффекта.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Сопротивление увеличивается на 2.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-enduring-might"
+        },
+        {
+            "fullName": "Лунный луч (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=433\">Moonbeam</a>) / Фокус. 1",
+            "name": "Лунный луч",
+            "originalName": "Moonbeam",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "атака",
+                "огонь",
+                "свет",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Луна (Moon)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 120 футов</p><p><strong>Цели</strong>: 1 существо</p><hr class=\"docutils\"><p>Вы выпускаете луч лунного света.\nСовершите атаку заклинанием.\nЛуч света наносит 1d6 огненного урона.\n<em>Лунный луч</em> наносит урон серебром с целью использования слабостей, сопротивлений и т.п.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Луч наносит двойной урон и цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 минуту</div>\n<div class=\"line\"><strong>Успех</strong>: Луч наносит полный урон и цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 раунд</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон луча увеличивается на 1d6.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Объекты убраны из целей.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-moonbeam"
+        },
+        {
+            "fullName": "Касание луны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=460\">Touch of the Moon</a>) / Фокус. 4",
+            "name": "Касание луны",
+            "originalName": "Touch of the Moon",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "свет",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Луна (Moon)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Когда вы касаетесь цели, на ее лбу появляется символ луны, сияющий мягким лунным светом.\nЦель светится тусклым светом в радиусе 20 футов.\nЕще она получает преимущества на основе фазы луны, начиная с новолуния и переходя к следующей фазе в конце каждого ее хода.</p><ul class=\"simple\">\n<li><p><strong>Новолуние</strong>: Цель не получает преимуществ</p></li>\n<li><p><strong>Растущая луна</strong>: Цель получает бонус состояния +1 к броскам атак и бонус состояния +4 к броскам урона</p></li>\n<li><p><strong>Полнолуние</strong>: Цель получает бонус состояния +1 к броскам атак, КБ и спасброскам, и бонус состояния +4 к броскам урона</p></li>\n<li><p><strong>Убывающая луна</strong>: Цель получает бонус состояния +1 к КБ и спасброскам. После этой фазы, возвращаетесь к новолунию.</p></li>\n</ul>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-touch-of-the-moon"
+        },
+        {
+            "fullName": "Живучие шипы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=467\">Vibrant Thorns</a>) / Фокус. 1",
+            "name": "Живучие шипы",
+            "originalName": "Vibrant Thorns",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "трансформация",
+                "растение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Природа (Nature)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Ваше тело обрастает слоем терновых шипов, которые вредят тем, кто попадает по вам и растут от живительной магии.\nСущества находящиеся рядом, которые попадают по вам атакой ближнего боя или безоружной атакой, получают 1 колющего урона каждый раз когда делают это.\nВсякий раз, когда вы сотворяете позитивное заклинание, то до начала вашего следующего хода урон от ваших шипов увеличивается до 1d6.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Урон увеличивается на 1, или 1d6 после сотворения позитивного заклинания.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-vibrant-thorns"
+        },
+        {
+            "fullName": "Дар природы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=435\">Nature's Bounty</a>) / Фокус. 4",
+            "name": "Дар природы",
+            "originalName": "Nature's Bounty",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "воплощение",
+                "позитивный",
+                "растение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Природа (Nature)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Требования</strong>: У вас есть свободная рука</p><hr class=\"docutils\"><p>В вашей открытой ладони появляется сырой фрукт или овощ, размером со всю ладонь.\nВы выбираете конкретный вид еды.\nСущество может съесть эту еду с помощью действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы восстановить 3d10+12 ОЗ и наесться как будто съело полноценное блюдо.\nЕсли не съедена, еда гниет и рассыпается в пыль через 1 минуту.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Восстанавливаемые ОЗ увеличиваются на 6.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-natures-bounty"
+        },
+        {
+            "fullName": "Кошмар наяву (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=468\">Waking Nightmare</a>) / Фокус. 1",
+            "name": "Кошмар наяву",
+            "originalName": "Waking Nightmare",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "страх",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Кошмары (Nightmares)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Вы наполняете разум существа ужасающим видением из его кошмаров.\nЦель должна совершить спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span></div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 2</span></div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 3</span></div>\n</div><p>Если цель без сознания, когда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> на нее это заклинание, то она мгновенно просыпается до совершения спасброска, и если она его проваливает, то в дополнение с описанными выше эффектами получает состояние <span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегство</span> на 1 раунд.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-waking-nightmare"
+        },
+        {
+            "fullName": "Общий кошмар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=451\">Shared Nightmare</a>) / Фокус. 4",
+            "name": "Общий кошмар",
+            "originalName": "Shared Nightmare",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "недееспособность",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Кошмары (Nightmares)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Сливая сознание с целью, вы меняете местами сбивающие с толку видения из кошмаров друг друга.\nОдин из вас получит состояние <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span>, но кто это будет определяется спасброском Воли цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы получаете <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> на 1 раунд</div>\n<div class=\"line\"><strong>Успех</strong>: В начале вашего следующего хода, вы тратите свое первое действие с состоянием <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span>, потом действуете нормально</div>\n<div class=\"line\"><strong>Провал</strong>: Как успех, но вместо вас <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> получает цель, тратя с ним свое первое действие каждый ход. Продолжительность 1 минута.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> на 1 минуту</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-shared-nightmare"
+        },
+        {
+            "fullName": "Наслаждение болью (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=449\">Savor the Sting</a>) / Фокус. 1",
+            "name": "Наслаждение болью",
+            "originalName": "Savor the Sting",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "ментальный",
+                "несмертельный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Боль (Pain)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Воля</p><hr class=\"docutils\"><p>Вы причиняете цели боль и наслаждаетесь ее мучением.\nЭто наносит 1d4 ментального урона и 1d4 продолжительного ментального урона; цель должна совершить спасбросок Воли.\nПока цель получает продолжительный урон от этого заклинания, вы получаете бонус состояния +1 к броскам атак и проверкам навыков против цели.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает половину урона и не получает продолжительный урон</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает полный начальный урон и продолжительный урон</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает двойной начальный урон и продолжительный урон</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Начальный урон увеличивается на 1d4, и продолжительный урон увеличивается на 1d4.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r1: </span>Убран признак <span class=\"t-attack\">атака</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-savor-the-sting"
+        },
+        {
+            "fullName": "Карающая боль (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=447\">Retributive Pain</a>) / Фокус. 4",
+            "name": "Карающая боль",
+            "originalName": "Retributive Pain",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "ментальный",
+                "несмертельный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Боль (Pain)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Существо в пределах дистанции наносит вам урон</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: спровоцировавшее существо</p><p><strong>Спасбросок</strong>: простой Стойкость</p><hr class=\"docutils\"><p>Вы мстительно отражаете свою боль обратно в обидчика.\nЦель получает ментальный урон, равный половине нанесенного вам урона когда сработало это заклинание.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-retributive-pain"
+        },
+        {
+            "fullName": "Очаровывающее касание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=406\">Charming Touch</a>) / Фокус. 1",
+            "name": "Очаровывающее касание",
+            "originalName": "Charming Touch",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "очарование",
+                "недееспособность",
+                "эмоция",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Страсть (Passion)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Дистанция</strong>: касание</p><p><strong>Цели</strong>: 1 существо, которое может считать вас привлекательным</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 10 минут</p><hr class=\"docutils\"><p>Вы наполняете свою цель влечением, заставляя ее действовать более дружелюбно по отношению к вам.\nЦель совершает спасбросок Воли.\nЕсли вы или ваши союзники недавно угрожали цели или были враждебны к ней, то она получает бонус обстоятельства +4 к этому спасброску.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима и понимает, что вы пытались ее очаровать</div>\n<div class=\"line\"><strong>Успех</strong>: Цель невредима, но она думает, что это было что-то безвредное, а не <em>очаровывающее касание</em>, если только она не идентифицирует его (с помощью <span class=\"card-link \">Идентификация заклинаний (Identifying Spells)</span>)</div>\n<div class=\"line\"><strong>Провал</strong>: Отношение цели к вам становится дружественным. Если она уже была дружественной, то становится любезной. Она не может использовать против вас враждебные действия.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Отношение цели к вам становится любезным, и она не может использовать против вас враждебные действия</div>\n</div><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> это заклинание.\nЕсли вы используете против цели враждебные действия, заклинание заканчивается.\nКогда заклинание заканчивается, цель не обязательно понимает, что она была очарована, если ее дружба с вами или действия, которые вы убедили ее предпринять, не противоречат ее ожиданиям, то есть вы потенциально можете убедить цель оставаться вашим другом с помощью мирских способов.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r1: </span>Изменена ссылка на страницу по \"Определению магии\".</p>\n</div><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Из целей убрано \"гуманоидное\".\nА также убрано усиление 4-го уровня о выборе существ другого вида (не только гуманоидных).</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-charming-touch"
+        },
+        {
+            "fullName": "Пленительное обожание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=405\">Captivating Adoration</a>) / Фокус. 4",
+            "name": "Пленительное обожание",
+            "originalName": "Captivating Adoration",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "очарование",
+                "эмоция",
+                "ментальный",
+                "визуальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Страсть (Passion)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 15-футовая эманация</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Вы становитесь чрезвычайно притягательными, и существа отвлекаются на вас, пока они остаются в пределах этой области.\nВы можете исключить из этого эффекта любых существ по своему выбору.</p><p>Когда существо попадает в область в первый раз, оно должно совершить спасбросок Воли.\nЕсли существо покидает область и попадает в нее снова, оно использует результаты своего изначального спасброска.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо и временно иммунно на 1 час</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожено</span> вами на свое следующее действие, а затем временно иммунно на 1 час</div>\n<div class=\"line\"><strong>Провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожено</span> вами</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожено</span> вами, и его отношение к вам улучшается на 1 ступень</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Размер эманации увеличивается на 15 футов.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-captivating-adoration"
+        },
+        {
+            "fullName": "Совершенный разум (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=438\">Perfected Mind</a>) / Фокус. 1",
+            "name": "Совершенный разум",
+            "originalName": "Perfected Mind",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Совершенство (Perfection)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> словесный</p><hr class=\"docutils\"><p>Вы медитируете на совершенство, чтобы убрать все отвлекающие факторы из своего разума.\nСовершите новый спасбросок Воли, против одного действующего на вас <span class=\"t-mental\">ментального</span> эффекта, который требует спасбросок Воли.\nИспользуйте результат нового спасброска, чтобы определить результат <span class=\"t-mental\">ментального</span> эффекта, если только он не был хуже, чем изначальный, в таком случае ничего не происходит.\nВы можете использовать <em>совершенный разум</em> только один раз против одного эффекта.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "словесный"
+            ],
+            "id": "spell-focus-perfected-mind"
+        },
+        {
+            "fullName": "Совершенная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=437\">Perfected Form</a>) / Фокус. 4",
+            "name": "Совершенная форма",
+            "originalName": "Perfected Form",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "удача",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Совершенство (Perfection)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Вы проваливаете спасбросок против эффекта трансформации, окаменения или полиморфа</p><hr class=\"docutils\"><p>Перебросьте спасбросок и используйте лучший результат.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-perfected-form"
+        },
+        {
+            "fullName": "Жертва защитника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=441\">Protector's Sacrifice</a>) / Фокус. 1",
+            "name": "Жертва защитника",
+            "originalName": "Protector's Sacrifice",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Защита (Protection)</span></p><p><strong>Сотворение</strong>: <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Триггер</strong>: Союзник в пределах 30 футов получает урон</p><p><strong>Дистанция</strong>: 30 футов</p><hr class=\"docutils\"><p>Вы защищаете своего союзника, страдая вместо него.\nУменьшите урон, который получит спровоцировавший союзник, на 3.\nВы перенаправляете этот урон на себя (недополученный союзником), но ваши иммунитеты, слабости, сопротивления и т.п. не применяются.</p><p>Вы не являетесь субъектом для любых состояний или других эффектов от того, что нанесло урон вашему союзнику (например, яд от ядовитого укуса).\nВаш союзник все еще является субъектом для этих эффектов, даже если вы перенаправили весь спровоцировавший урон на себя.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Перенаправляемый на вас урон увеличивается на 3.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "реакция",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-protectors-sacrifice"
+        },
+        {
+            "fullName": "Сфера защитника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=442\">Protector's Sphere</a>) / Фокус. 4",
+            "name": "Сфера защитника",
+            "originalName": "Protector's Sphere",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "аура",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Защита (Protection)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Область</strong>: 15-футовая эманация</p><p><strong>Продолжительность</strong>: поддерживаемое вплоть до 1 минуты</p><hr class=\"docutils\"><p>От вас исходит защитная аура, защищающая вас и ваших союзников.\nВы получаете сопротивление 3 всему урону.\nВаши союзники также получают это сопротивление, пока находятся внутри области.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Сопротивление увеличивается на 1.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Добавлен признак <span class=\"t-aura\">аура</span>.</p>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-protectors-sphere"
+        },
+        {
+            "fullName": "Вынужденная тишина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=424\">Forced Quiet</a>) / Фокус. 1",
+            "name": "Вынужденная тишина",
+            "originalName": "Forced Quiet",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тайна (Secrecy)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, материальный</p><p><strong>Дистанция</strong>: 30 футов</p><p><strong>Цели</strong>: 1 существо</p><p><strong>Спасбросок</strong>: Стойкость</p><p><strong>Продолжительность</strong>: различается</p><hr class=\"docutils\"><p>Вы заглушаете голос цели, не давая ей выдать ценные секреты.\nЭто не мешает цели говорить или обеспечивать словесные компоненты для заклинаний, но ни одно существо на расстоянии более 10 футов не может услышать ее шепот, не совершив успешную проверку Восприятия с вашим КС заклинания, что может помешать слуховым или языковым эффектам, а также общению.\nПродолжительность заклинания зависит от спасброска Стойкости цели.\nПосле совершения спасброска, цель становится временно иммунной на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Продолжительность 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Продолжительность 1 минута</div>\n<div class=\"line\"><strong>Критический провал</strong>: Продолжительность 10 минут</div>\n</div>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "материальный"
+            ],
+            "id": "spell-focus-forced-quiet"
+        },
+        {
+            "fullName": "Сохранение тайны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=448\">Safeguard Secret</a>) / Фокус. 4",
+            "name": "Сохранение тайны",
+            "originalName": "Safeguard Secret",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "преграждение",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тайна (Secrecy)</span></p><p><strong>Сотворение</strong>: 1 минута (жестовый, словесный)</p><p><strong>Дистанция</strong>: 10 футов</p><p><strong>Цели</strong>: вы и любое количество готовых союзников</p><p><strong>Продолжительность</strong>: 1 час</p><hr class=\"docutils\"><p>Вы гарантируете, что секрет останется в безопасности от любопытных шпионов.\nВыберите один фрагмент информации, который знают по крайней мере некоторые из целей; вы можете выбрать целью существо только если оно остается в пределах дистанции всю минуту во время <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nТем кто знает эту часть информации выбранную вами, заклинание дает бонус состояния +4 к проверкам навыков (как правило, проверкам Обмана), чтобы скрыть это знание, а также к спасброскам против заклинаний, которые специально пытаются получить это знание от них, и эффектов, которые заставят их раскрыть его.</p><p>Если вы снова <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание, любые предыдущие наложенные вами <em>сохранения тайны</em> завершаются.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-safeguard-secret"
+        },
+        {
+            "fullName": "Вооружение секретом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=1177\">Weaponize Secret</a>) / Фокус. 4",
+            "name": "Вооружение секретом",
+            "originalName": "Weaponize Secret",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "прорицание",
+                "ментальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Тайна (Secrecy)</span> (<span class=\"card-link \">апокрифическое</span>)</p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> жестовый, словесный</p><p><strong>Дистанция</strong>: 60 футов</p><p><strong>Цели</strong>: вплоть до 3 существ</p><p><strong>Спасбросок</strong>: Воля</p><p><strong>Продолжительность</strong>: 1 минута или до разрядки</p><p><strong>Источник</strong>: Dark Archive pg. 144</p><hr class=\"docutils\"><p>Вы понимаете, что владение секретом само по себе является своего рода силой.\nКаждая цель должна совершить спасбросок Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Провал</strong>: Перед вами появляется парящая руна, символизирующая секрет хранимый целью (на усмотрение Мастера). Если существо совершает по вам <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> или бросок атаки заклинанием, пока вы храните ее секрет, то вы можете разрядить эту руну реакцией (<img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\">), чтобы нанести этому существу 7d6 ментального урона.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал, но цель становится убеждена, что вы знаете ее секрет и из-за волнения еще получает 1d6 продолжительного ментального урона. Если руна с секретом разряжена, когда существо все еще получает продолжительный ментальный урон, то этот  продолжительный ментальный урон завершается.</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Ментальный урон увеличивается на 2d6, а продолжительный ментальный урон при крит.провале увеличивается на 1.</p>",
+            "rarity": "Редкий",
+            "tradition": [],
+            "src": "Dark Archive pg. 144",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "жестовый",
+                "словесный"
+            ],
+            "id": "spell-focus-weaponize-secret"
+        },
+        {
+            "fullName": "Ослепляющая вспышка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=412\">Dazzling Flash</a>) / Фокус. 1",
+            "name": "Ослепляющая вспышка",
+            "originalName": "Dazzling Flash",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эвокация",
+                "свет",
+                "визуальный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Солнце (Sun)</span></p><p><strong>Сотворение</strong>: <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> словесный, материальный</p><p><strong>Область</strong>: 15-футовый конус</p><p><strong>Спасбросок</strong>: Стойкость</p><hr class=\"docutils\"><p>Вы поднимаете свой религиозный символ и создаете ослепляющую вспышку света.\nКаждое существо в области должно совершить спасбросок Стойкости.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Существо получает состояния <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 1 раунд и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 минуту. Существо может потратить действие для <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> потирая глаза, чтобы закончить состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо получает состояния <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> на 1 раунд и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 час</div>\n</div><hr class=\"docutils\"><p><strong>Усиление (3-й)</strong>: Область увеличивается до 30-футового конуса.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "активность из 2-х действий",
+            "castingType": [
+                "словесный",
+                "материальный"
+            ],
+            "id": "spell-focus-dazzling-flash"
+        },
+        {
+            "fullName": "Позитивное свечение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=439\">Positive Luminance</a>) / Фокус. 4",
+            "name": "Позитивное свечение",
+            "originalName": "Positive Luminance",
+            "type": "Фокус",
+            "level": 4,
+            "traits": [
+                "необычный",
+                "некромантия",
+                "свет",
+                "позитивный",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Солнце (Sun)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Продолжительность</strong>: 1 минута</p><hr class=\"docutils\"><p>Черпая в себя жизненную силу, вы становитесь маяком позитивной энергии.\nВы светитесь ярким светом в форме 10-футовой эманации и получаете внутренний запас света, называемый резервуаром свечения, который появляется со значения 4.\nВ начале каждого своего хода, вы можете использовать свободное действие, чтобы увеличить запас свечения на 4.\nЕсли вы это делаете, то радиус вашего света увеличивается на 10 футов.</p><p>Если нежить наносит вам урон атакой или заклинанием, находясь в области вашего света, то оно получает позитивный урон равный половине вашего запаса свечения.\nОно получает этот урон, только когда наносит вам урон первый раз за раунд.</p><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> это заклинание.\nКогда вы это делаете, то можете выбрать целью существо в пределах исходящего от вас света и направить позитивную энергию в него.\nЦель должна быть готовым живым существом или нежитью.\nЭто исцеляет живую цель или наносит урон нежити, в количестве равному вашему запасу свечения.\nКогда вы сотворяете <em>позитивное свечение</em>, любое другое <em>позитивное свечение</em>, которое уже действует на вас - завершается.</p><hr class=\"docutils\"><p><strong>Усиление (+1)</strong>: Начальный запас свечения и количество получаемого каждый ход свечения увеличивается на 1.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-positive-luminance"
+        },
+        {
+            "fullName": "Проворные ноги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Spells.aspx?ID=399\">Agile Feet</a>) / Фокус. 1",
+            "name": "Проворные ноги",
+            "originalName": "Agile Feet",
+            "type": "Фокус",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "трансмутация",
+                "жрец"
+            ],
+            "desc": "<p><strong>Домен</strong>: <span class=\"card-link \">Путешествие (Travel)</span></p><p><strong>Сотворение</strong>: <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> жестовый</p><p><strong>Продолжительность</strong>: до конца текущего хода</p><hr class=\"docutils\"><p>Благословения вашего бога делают ваши ноги более быстрыми, а движения более плавными.\nВы получаете бонус состояния +5 футов к Скорости и игнорируете сложную местность.\nКак часть сотворения <em>проворных ног</em>, вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> или <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагнуть (Step)</span>; или вместо этого можете <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Рыть (Burrow) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаться (Climb) </span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Лететь (Fly) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плыть (Swim) </span>, если у вас есть соответствующий вид Скорости.</p>",
+            "rarity": "Необычный",
+            "tradition": [],
+            "src": "",
+            "action": "одиночное действие",
+            "castingType": [
+                "жестовый"
+            ],
+            "id": "spell-focus-agile-feet"
+        }
+    ]
+}

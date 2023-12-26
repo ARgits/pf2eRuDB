@@ -1,0 +1,1560 @@
+{
+    "feats": [
+        {
+            "fullName": "Невозможное проникновение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=596\">Implausible Infiltration</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Невозможное проникновение",
+            "originalName": "Implausible Infiltration",
+            "level": 18,
+            "traits": [
+                "магический",
+                "движение",
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Акробатики, <span class=\"card-link std std-ref\" data-id=\"feat-quick-squeeze\">Быстро протиснуться (Quick Squeeze) / 1</span></p><p><strong>Требования</strong>: Вы рядом с полом или вертикальной стеной</p><hr class=\"docutils\"><p>Вы находите крошечные отверстия или дефекты, которые никто другой не мог бы увидеть, и пытаетесь каким-то образом пролезть через них, возможно, двигаясь прямо через стену или пол с одной стороны на другую.\nВаша попытка движения проваливается, если стена или пол сделаны из чего-то, отличного от дерева, гипсолита или камня; толще 10 футов; или содержит даже тонкий слой металла.\nЕсли у вас есть Скорость карабканья, то вы можете использовать это умение, чтобы попытаться пройти через потолок.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-rogue-implausible-infiltration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мощная внезапная атака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=597\">Powerful Sneak</a>) / 18",
+            "name": "Мощная внезапная атака",
+            "originalName": "Powerful Sneak",
+            "level": 18,
+            "traits": [
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы научились использовать ослабленную оборону ваших врагов.\nКогда вы успешно или крит.успешно совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> используя свой модификатор Силы для броска атаки и нанесли бы урон от <span class=\"card-link \">внезапной атаки</span>, то можете изменить дополнительный урон внезапной атаки на обычный урон такого же типа как и у вашего Удара, вместо использования точного урона.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-rogue-powerful-sneak",
+            "archetype": ""
+        },
+        {
+            "fullName": "Туз в рукаве (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=598\">Trickster's Ace (Rogue)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Туз в рукаве",
+            "originalName": "Trickster's Ace",
+            "level": 18,
+            "traits": [
+                "концентрация",
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы определяете триггер во время ежедневных приготовлений (см. Требования далее)</p><p><strong>Требования</strong>: Когда вы делаете свои ежедневные приготовления, то должны указать триггер для этой реакции, используя те же ограничения, что и для триггеров действия <span class=\"card-link std std-ref\" data-id=\"action-ready\">Приготовиться (Ready) </span>.\nЕще вы выбираете 1 заклинание 4-го уровня или ниже из списка арканных, сакральных, оккультных или природных.\nЗаклинание не может иметь стоимость или время сотворения более 10 минут.\nЗаклинание должно быть способно выбирать целью одно существо и вы должны быть для него допустимой целью.</p><hr class=\"docutils\"><p>Будь то фальшивые магические предметы, украденная магическая сущность или другие средства, но на непредвиденные ситуации у вас есть запасной вариант в заднем кармане.\nКогда происходит триггер, вы заставляете сработать заклинание.\nЗаклинание использует вас как цель, независимо от того на какое количество существ оно бы обычно действовало.\nНа усмотрение Мастера, триггер может провалиться, если вы определяете особенно сложные условия.\nКак только случается эта внезапная ситуация, заклинание тратится до ваших следующих дневных приготовлений.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-rogue-tricksters-ace",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная покупка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1809\">Implausible Purchase (Rogue)</a>) / 18",
+            "name": "Невероятная покупка",
+            "originalName": "Implausible Purchase",
+            "level": 18,
+            "traits": [
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-predictive-purchase\">Предусмотрительная покупка (Predictive Purchase (Rogue)) / 8</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 137</p><hr class=\"docutils\"><p>Даже когда это невозможно, у вас всегда есть именно то, что вам нужно.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"feat-prescient-planner\">Дальновидный планировщик (Prescient Planner) / 3</span> даже если уже использовали ее после покупки вещей, и можете сделать это одиночным действием (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">), вместо активности в 2 действия (<img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">), во время которого вы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы достать предмет.\nДополнительно, вы можете 5 раз в день использовать <span class=\"card-link std std-ref\" data-id=\"feat-prescient-planner\">Дальновидный планировщик (Prescient Planner) / 3</span>, чтобы доставать <span class=\"r-common\">обычный</span> <span class=\"t-consumable\">расходуемый</span> предмет вплоть до 6 уровней ниже вашего уровня.</p>",
+            "src": "Advanced Player's Guide pg. 137",
+            "action": "одиночное действие",
+            "id": "class-feat-rogue-implausible-purchase",
+            "archetype": ""
+        },
+        {
+            "fullName": "Совершенно скрытный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=599\">Hidden Paragon</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 20",
+            "name": "Совершенно скрытный",
+            "originalName": "Hidden Paragon",
+            "level": 20,
+            "traits": [
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Скрытности</p><p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы успешно используете Скрытность, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и стать <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span> от всех текущих врагов, или используете Скрытность, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> и стать <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span> для всех ваших текущих врагов</p><hr class=\"docutils\"><p>Когда ваш разум ускользает из поля зрения, то вы полностью пропадаете.\nВы становитесь <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимы</span> на 1 минуту, даже если используете враждебное действие.\nДаже <span class=\"card-link std std-ref\" data-id=\"spell-g-glitterdust\">Блестки (Glitterdust) / Закл. 2</span>, <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> или подобные эффекты не могут обнаружить вас, однако, чтобы обнаружить вас, существа все еще могут использовать действие <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> как обычно.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-rogue-hidden-paragon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невозможные удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=600\">Impossible Striker</a>) / 20",
+            "name": "Невозможные удары",
+            "originalName": "Impossible Striker",
+            "level": 20,
+            "traits": [
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-sly-striker\">Коварный удар (Sly Striker) / 8</span></p><hr class=\"docutils\"><p>Ваши быстрые и смертоносные атаки не поддаются никакому объяснению.\nНичто не может препятствовать вам, чтобы нанести внезапную атаку, даже если ваш противник может видеть каждый наносимый удар.\nВместо нанесения урона от <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-sly-striker\">Коварный удар (Sly Striker) / 8</span> вы можете наносить цели ваш полный урон от <span class=\"card-link \">внезапной атаки</span>, даже если она не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-rogue-impossible-striker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мгновенное отвлечение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=601\">Reactive Distraction</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 20",
+            "name": "Мгновенное отвлечение",
+            "originalName": "Reactive Distraction",
+            "level": 20,
+            "traits": [
+                "воздействие",
+                "концентрация",
+                "плут"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Обмана, <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-perfect-distraction\">Идеальное отвлечение (Perfect Distraction)  / 16</span></p><p><strong>Триггер</strong>: В вас попадут атакой, или вы будете целью эффекта, или вы в области эффекта</p><p><strong>Требования</strong>: У вас есть готовое к использованию <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-perfect-distraction\">Идеальное отвлечение (Perfect Distraction)  / 16</span></p><hr class=\"docutils\"><p>Вы мгновенно оставляете на своем месте приманку, чтобы запутать вашего врага.\nВы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-rogue-perfect-distraction\">Идеальное отвлечение (Perfect Distraction)  / 16</span> даже, если были <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span>, при условии, что заканчиваете свое передвижение когда <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Крадетесь (Sneak)</span> будучи <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытым</span> или в месте с укрытием или большим укрытием.\nВаша приманка становится целью атаки или эффекта вместо вас.\nВ случае с эффектом по области, если вы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Крадетесь (Sneak)</span> и не можете выйти из области, то вы и приманка вместе становитесь целью эффекта.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "class-feat-rogue-reactive-distraction",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опыт с баклером (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1512\">Buckler Expertise</a>) / 1",
+            "name": "Опыт с баклером",
+            "originalName": "Buckler Expertise",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Вы научились гибко выставлять свой баклер, чтобы обеспечить большую защиту.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span> для получения бонуса обстоятельства к КБ от баклера, увеличьте бонус с +1 до +2.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-buckler-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Талант разоружения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1513\">Disarming Flair</a>) / 1",
+            "name": "Талант разоружения",
+            "originalName": "Disarming Flair",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Вашим противникам сложнее восстановить хватку, когда вы частично выбиваете оружие из их рук.\nКогда вы успешно делаете проверку Атлетики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span>, бонус обстоятельства и штраф от Разоружения длятся до конца вашего следующего хода, а не до начала следующего хода цели.\nЦель может использовать действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы поправить свою хватку и убрать этот эффект.</p><p>Если ваш стиль - <span class=\"card-link \">Гимнаст (Gymnast)</span>, и вы совершаете успешную проверку Атлетики для Разоружения врага, то получаете кураж.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-disarming-flair",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дуэльное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1514\">Dueling Parry (Swashbuckler)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Дуэльное парирование",
+            "originalName": "Dueling Parry",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и ваша другая рука(и) свободны</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Вы можете парировать атаки против вас, своим одноручным оружием.\nВы получаете бонус обстоятельства +2 к КБ до начала вашего следующего хода, пока соответствуете требованиям.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-dueling-parry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Летающий клинок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1515\">Flying Blade</a>) / 1",
+            "name": "Летающий клинок",
+            "originalName": "Flying Blade",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Точный удар (Precise Strike)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Вы научились так же легко применять свои яркие приемы к метательному оружию, как и к атакам ближнего боя.\nКогда у вас есть кураж, вы применяете свой урон точного удара для дистанционных <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударов (Strikes)</span>, которые делаются метательным оружием в пределах его первого шага дистанции.\nМетательное оружие должно иметь признак <span class=\"w-agile\">быстрое</span> или <span class=\"w-finesse\">точное</span>.\nЕще это позволяет вам совершать дистанционный Удар <span class=\"w-thrown\">метательным</span> оружием для <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-confident-finisher\">Уверенный финишер (Confident Finisher) </span> и любого другого финишера, который включает в себя Удар, который может получить преимущество от точного удара.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-flying-blade",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сосредоточенное заворожение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1516\">Focused Fascination</a>) / 1",
+            "name": "Сосредоточенное заворожение",
+            "originalName": "Focused Fascination",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-fascinating-performance\">Завораживающее выступление (Fascinating Performance) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Когда вы используете <span class=\"card-link std std-ref\" data-id=\"feat-fascinating-performance\">Завораживающее выступление (Fascinating Performance) / 1</span> во время боевого столкновения, то чтобы заворожить свою цель, вам нужно сделать лишь успешную проверку, вместо крит.успешной.\nЭто работает только если вы пытаетесь заворожить 1 цель.\nНапример, если вы эксперт Выступления, то можете как обычно выбрать целями несколько существ, или 1 существо и заворожить его успешной проверкой.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-focused-fascination",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подстрекающий финт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1517\">Goading Feint</a>) / 1",
+            "name": "Подстрекающий финт",
+            "originalName": "Goading Feint",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Когда вы одурачиваете врага, то можете заставить его слишком переусердствовать в следующей атаке.\nПри использовании <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span>, вы можете использовать следующие эффекты успеха и крит.успеха, вместо любых других эффектов, которые вы бы получили при Финте;\nесли вы это делаете, то другие умения, которые меняют обычные эффекты вашего Финта не применяются.\nКаждый раз, когда используете Финт на врага, вы можете выбрать использовать ли обычные преимущества или преимущества \"Подстрекающего финта\".</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: До конца своего следующего хода, цель получает штраф обстоятельства -2 ко всем броскам атак по вам</div>\n<div class=\"line\"><strong>Успех</strong>: До конца своего следующего хода, цель получает штраф обстоятельства -2 к своему следующему броску атаки по вам</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-goading-feint",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкое уклонение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=550\">Nimble Dodge (Swashbuckler)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Ловкое уклонение",
+            "originalName": "Nimble Dodge",
+            "level": 1,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо целится в вас атакой и вы можете видеть атакующего</p><p><strong>Требования</strong>: Вы не <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегружены</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Вы ловко уворачиваетесь, получая против спровоцировавшей атаки бонус обстоятельства +2 КБ.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-nimble-dodge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Один за всех (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1519\">One for All</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Один за всех",
+            "originalName": "One for All",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "концентрация",
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Точно подобранными словами ободрения вы поддерживаете усилия союзника.\nОбозначьте союзника в пределах 30 футов; это действие считается достаточным приготовлением для <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span> этому союзнику.\nКогда вы используете реакцию <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span>, чтобы помочь этому союзнику, то вместо обычной проверки можете сделать бросок Дипломатии.</p><p>Если ваш стиль сорвиголовы <span class=\"card-link \">Остряк (Wit)</span> и ваша проверка Дипломатии для Помощи больше или равна очень трудному КС для вашего уровня, то вы получаете кураж.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-one-for-all",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ты - следующий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=553\">You're Next (Swashbuckler)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Ты - следующий",
+            "originalName": "You're Next",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "страх",
+                "ментальный",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию</p><p><strong>Триггер</strong>: Вы снизили ОЗ врага до 0</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Убив врага, вы угрожающе говорите другому врагу, что он - следующий.\nСделайте проверку Запугивания с бонусом обстоятельства +2, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> одно существо, которое вы можете видеть, и которое может видеть вас.\nЕсли вы легенда Запугивания, то можете использовать это как свободное действие (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) с тем же триггером.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-youre-next",
+            "archetype": ""
+        },
+        {
+            "fullName": "После вас (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1521\">After You</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 2",
+            "name": "После вас",
+            "originalName": "After You",
+            "level": 2,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы готовы кидать инициативу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Демонстрируя невероятную уверенность, вы позволяете своим противникам ходить первыми.\nВы не кидаете инициативу; вместо этого, вы добровольно ходите последним.\nВы получаете кураж.\nЕсли более одного персонажа использует это умение, или другое умение ходить последним, то используйте обычные правила для решения ничьей: неигровые персонажи и монстры ходят перед игровыми персонажами, а в пределах этих групп, существа могут сами решить в каком порядке они хотят ходить.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "свободное действие",
+            "id": "class-feat-swashbuckler-after-you",
+            "archetype": ""
+        },
+        {
+            "fullName": "Настроить против себя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1522\">Antagonize</a>) / 2",
+            "name": "Настроить против себя",
+            "originalName": "Antagonize",
+            "level": 2,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 88</p><hr class=\"docutils\"><p>Ваши насмешки и угрозы вызывают гнев врагов.\nКогда вам удается успешно <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> существо, его состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> не может снизиться ниже 1 в конце его хода, либо пока оно не применит против вас враждебное действие, либо не сможет больше видеть или сенсорно ощущать вас в течение как минимум 1 раунда.</p>",
+            "src": "Advanced Player's Guide pg. 88",
+            "action": "",
+            "id": "class-feat-swashbuckler-antagonize",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очарованная жизнь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1523\">Charmed Life</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Очарованная жизнь",
+            "originalName": "Charmed Life",
+            "level": 2,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14</p><p><strong>Триггер</strong>: Вы собираетесь сделать спасбросок, но еще не кинули кости</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Когда опасность зовет, у вас есть странная способность оставаться победителем.\nВы получаете бонус обстоятельства +2 к спровоцировавшему спасброску.</p>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-charmed-life",
+            "archetype": ""
+        },
+        {
+            "fullName": "Финишное продолжение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1524\">Finishing Follow-Through</a>) / 2",
+            "name": "Финишное продолжение",
+            "originalName": "Finishing Follow-Through",
+            "level": 2,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Убивая врага, вы сохраняете свой важный вид.\nЕсли ваш финишер снизил ОЗ цели до 0, то вы получаете кураж (или, если ваш финишер атакует несколько целей, то когда доводите до 0 ОЗ цели самого высокого уровня).</p>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "",
+            "id": "class-feat-swashbuckler-finishing-follow-through",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проскочить за спину (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1525\">Tumble Behind (Swashbuckler)</a>) / 2",
+            "name": "Проскочить за спину",
+            "originalName": "Tumble Behind",
+            "level": 2,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Ваш кувырок застает врага врасплох.\nКогда вам успешно удается <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span>, то враг, через чье пространство вы проскочили, застигнут врасплох для вашей следующей атаки до конца вашего хода.</p>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "",
+            "id": "class-feat-swashbuckler-tumble-behind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выводящий из равновесия финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1526\">Unbalancing Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Выводящий из равновесия финишер",
+            "originalName": "Unbalancing Finisher",
+            "level": 2,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Вы нападаете эффектной атакой, которая выводит вашу цель из равновесия.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли вы попадаете и наносите урон, цель становится <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнута врасплох</span> до конца вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-unbalancing-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Броский атлет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1527\">Flamboyant Athlete</a>) / 4",
+            "name": "Броский атлет",
+            "originalName": "Flamboyant Athlete",
+            "level": 4,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Ваш кураж позволяет вам совершать невероятные трюки: карабкаться, плавать и прыгать дальше чем обычно.\nПока у вас есть кураж, вы получаете следующие преимущества.</p><ul class=\"simple\">\n<li><p>Вы получаете Скорость карабканья и плавания, равную половине вашей наземной Скорости</p></li>\n<li><p>КС для <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> снижается на 10. Это не складывается с другими умениями, которые снижают эти КС.</p></li>\n<li><p>Расстояние, которое вы можете преодолеть <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжком (Leap)</span> вертикально увеличивается до 5 футов. Ваше расстояние <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжка (Leap)</span> горизонтально увеличивается до 15 футов если ваша Скорость хотя бы 15 футов, или до 20 футов если ваша Скорость хотя бы 30 футов.</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "",
+            "id": "class-feat-swashbuckler-flamboyant-athlete",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отражение защитника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1528\">Guardian's Deflection (Swashbuckler)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Отражение защитника",
+            "originalName": "Guardian's Deflection",
+            "level": 4,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: По союзнику в пределах вашей досягаемости ближнего боя попали атакой, вы можете видеть атакующего, а для союзника, получающего бонус обстоятельства +2 к КБ, это превратит крит.попадание в обычное попадание или превратит обычное попадание в промах</p><p><strong>Требования</strong>: Вы владеете одним одноручным оружием ближнего боя и ваша другая рука(и) свободна</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 89</p><hr class=\"docutils\"><p>Вы используете свое оружие, чтобы отразить атаку по вашему союзнику, давая ему бонус обстоятельства +2 КБ против спровоцировавшей атаки.\nЭто делает спровоцировавшее крит.попадание простым попаданием, или делает простое попадание промахом.</p>",
+            "src": "Advanced Player's Guide pg. 89",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-guardians-deflection",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прокалывающий финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1529\">Impaling Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Прокалывающий финишер",
+            "originalName": "Impaling Finisher",
+            "level": 4,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 90</p><hr class=\"docutils\"><p>Вы колете двух врагов одним выпадом или бьете их вместе одним ударом.\nСделайте дробящий или колющий <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя и сравните результат броска атаки с КБ вплоть до 2 противников.\nОдин враг должен быть рядом с вами, а другой рядом с первым и стоять сразу за ним на прямой линии, проведенной из вашего пространства.\nСделайте один бросок урона и примените к каждому существу, в которое попали.\n\"Прокалывающий финишер\" считается как 2 атаки при расчете вашего штрафа множественной атаки.</p>",
+            "src": "Advanced Player's Guide pg. 90",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-impaling-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ведущий танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1530\">Leading Dance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Ведущий танец",
+            "originalName": "Leading Dance",
+            "level": 4,
+            "traits": [
+                "движение",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выступлению</p><p><strong>Требования</strong>: Вы рядом с врагом</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 90</p><hr class=\"docutils\"><p>Вы вовлекаете врага в свой танец.\nСделайте проверку Выступления против КС Воли врага находящегося рядом.\nЕсли ваш стиль сорвиголовы - <span class=\"card-link \">Боевой танцор (Battledancer)</span> и проверка успешная, то вы получаете кураж.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Враг вовлечен в ваш танец. Вы оба двигаетесь вплоть до 10 футов в одном направлении, оставаясь рядом друг с другом. Ваше передвижение не провоцирует реакции от цели (а передвижение цели не провоцирует реакции потому что это принудительное передвижение).</div>\n<div class=\"line\"><strong>Успех</strong>: Как крит.успех, но вы оба двигаетесь только 5 футов</div>\n<div class=\"line\"><strong>Провал</strong>: Враг не следует за вами. Если хотите, вы можете переместиться на 5 футов, но это движение провоцирует реакции как обычно.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы запинаетесь, падая ничком на землю в своем пространстве</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 90",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-leading-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хвастливая инициатива (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1531\">Swaggering Initiative</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Хвастливая инициатива",
+            "originalName": "Swaggering Initiative",
+            "level": 4,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы готовы кидать инициативу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 90</p><hr class=\"docutils\"><p>Вы с готовностью ввязываетесь в любую драку, даже в засаду.\nВы получаете бонус обстоятельства +2 к броску инициативы и можете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> чтобы вынуть оружие.</p>",
+            "src": "Advanced Player's Guide pg. 90",
+            "action": "свободное действие",
+            "id": "class-feat-swashbuckler-swaggering-initiative",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парное парирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=377\">Twin Parry (Swashbuckler)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Парное парирование",
+            "originalName": "Twin Parry",
+            "level": 4,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями ближнего боя, по одному в каждой руке</p><hr class=\"docutils\"><p>Вы используете два оружия, чтобы парировать атаки.\nДо начала своего следующего хода вы получаете бонус обстоятельства +1 к КБ, или бонус обстоятельства +2, если одно из оружий имеет признак <span class=\"w-parry\">парирование</span>.\nВы теряете этот бонус обстоятельства, если больше не удовлетворяете требования способности.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-twin-parry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойка Маскарада Сезонов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4044\">Masquerade of Seasons Stance (Swashbuckler)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Стойка Маскарада Сезонов",
+            "originalName": "Masquerade of Seasons Stance",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "стойка",
+                "сорвиголова"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы освоили первые шаги Маскарада Сезонов - танца, который пропитан силой весны, лета, зимы и осени.\nВыберите один из следующих признаков: <span class=\"t-water\">вода</span>, <span class=\"t-fire\">огонь</span>, <span class=\"t-negative\">негативный</span> или <span class=\"t-cold\">холод</span>.\nВы получаете сопротивление 5 к урону, наносимому эффектами с выбранным признаком.\nВы можете в любое время использовать действие, чтобы снова принять эту стойку, изменив предоставляемый ей тип сопротивления на любой другой из доступных вариантов.\nЕсли вы 12-го уровня или выше, предоставляемое стойкой сопротивление увеличивается и становится равным половине вашего уровня.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-masquerade-of-seasons-stance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрые приемы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1533\">Agile Maneuvers</a>) / 6",
+            "name": "Быстрые приемы",
+            "originalName": "Agile Maneuvers",
+            "level": 6,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Атлетики</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 90</p><hr class=\"docutils\"><p>Вы легко совершаете приемы против своих врагов.\nВаши действия <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> имеют сниженный штраф множественной атаки: -4 вместо -5 для второй атаки в ваш ход, или -8 вместо -10 для третьей и последующих атак в ваш ход.</p>",
+            "src": "Advanced Player's Guide pg. 90",
+            "action": "",
+            "id": "class-feat-swashbuckler-agile-maneuvers",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возможность для атаки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=145\">Attack of Opportunity (Swashbuckler)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Возможность для атаки",
+            "originalName": "Attack of Opportunity",
+            "level": 6,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо в пределах вашей досягаемости использует действие с признаком <span class=\"t-move\">движение</span> или <span class=\"t-manipulate\">воздействие</span>, совершает дистанционную атаку, или покидает квадрат во время используемого действия с признаком <span class=\"t-move\">движение</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, который открылся для удара.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.\nЕсли ваша атака является крит.попаданием, и спровоцировавшее действие было с признаком <span class=\"t-manipulate\">воздействие</span>, то вы прерываете это действие.\nШтраф множественной атаки не применим к этому Удару, и он не считается атакой увеличивающей ваш штраф множественной атаки.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-attack-of-opportunity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Совмещенный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1535\">Combination Finisher</a>) / 6",
+            "name": "Совмещенный финишер",
+            "originalName": "Combination Finisher",
+            "level": 6,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы объединяете серию атак с мощным завершающим ударом.\n<span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> ваших финишеров имеют сниженный штраф множественной атаки: -4 (или -3 для оружия с признаком <span class=\"w-agile\">быстрое</span>) для второй атаки в ваш ход, или -8 (-6 для оружия с признаком <span class=\"w-agile\">быстрое</span>) для третьей и последующих атак в ваш ход, вместо -5 и -10 соответственно.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "",
+            "id": "class-feat-swashbuckler-combination-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Точный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1536\">Precise Finisher</a>) / 6",
+            "name": "Точный финишер",
+            "originalName": "Precise Finisher",
+            "level": 6,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Уверенный финишер (Confident Finisher)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Даже когда ваш противник избегает вашего <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-confident-finisher\">Уверенный финишер (Confident Finisher) </span>, вы все равно можете попасть в жизненно важное место.\nПри провале \"Уверенного финишера\", вместо половины урона, вы применяете свой полный урон точного удара.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "",
+            "id": "class-feat-swashbuckler-precise-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Раздражающие кувырки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1537\">Vexing Tumble</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Раздражающие кувырки",
+            "originalName": "Vexing Tumble",
+            "level": 6,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы кувыркаетесь вокруг своих врагов, умело избегая их реакций.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> вплоть до половины своей Скорости и киньте проверку Акробатики.\nПоследовательно сравните результат с КС Рефлекса каждого врага, в чьей досягаемости вы были в начале или в которую попадали во время движения.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Это передвижение не провоцирует реакции от этого врага, до конца вашего хода этот враг для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span>, и вы получаете кураж.</div>\n<div class=\"line\"><strong>Успех</strong>: Это передвижение не провоцирует реакции от этого врага, и вы получаете кураж.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваше передвижение мгновенно завершается когда вы входите в досягаемость существа; если вы начинали в досягаемости этого существа, то не двигаетесь.</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-vexing-tumble",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пируэт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4045\">Pirouette (Swashbuckler)</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Пируэт",
+            "originalName": "Pirouette",
+            "level": 6,
+            "traits": [
+                "редкий",
+                "сорвиголова"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-masquerade-of-seasons-stance\">Стойка Маскарада Сезонов (Masquerade of Seasons Stance (Swashbuckler))  / 4</span></p><p><strong>Триггер</strong>: Существо целится в вас Ударом</p><p><strong>Требования</strong>: Вы в Стойке Маскарада Сезонов</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы грациозно прокручиваетесь на одной ноге, чтобы уклониться от атаки противника.\nВы получаете бонус обстоятельства +2 к КБ против спровоцировавшей атаки.\nЕсли атака промахивается по вам, то вы сразу можете сделать <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.\nЕсли атака все равно попадает по вам, уменьшите наносимый ею урон на величину, равную половине вашего уровня; это снижение урона применяется после подсчета иммунитетов, сопротивлений и слабостей.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-pirouette",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровоточащий финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1538\">Bleeding Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Кровоточащий финишер",
+            "originalName": "Bleeding Finisher",
+            "level": 8,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Ваш удар вызывает обильное кровотечение.\nСделайте рубящий или колющий <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием или безоружной атакой, которая позволяет вам добавить урон вашего точного удара.\nЕсли вы попадаете, цель еще получает продолжительный урон кровотечением, равный урону финишера от точного удара.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-bleeding-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойной финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1539\">Dual Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Двойной финишер",
+            "originalName": "Dual Finisher",
+            "level": 8,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями ближнего боя, по одному в каждой руке</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы разделяете свои атаки.\nСделайте 2 <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strikes)</span> ближнего боя, по одному каждым требуемым оружием, каждый по разному противнику.\nЕсли второй Удар сделан оружием без признака <span class=\"w-agile\">быстрое</span>, он получает штраф -2.\nУвеличьте ваш штраф множественной атаки только после совершения обоих Ударов.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-dual-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкий перекат (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=574\">Nimble Roll (Swashbuckler)</a>) / 8",
+            "name": "Ловкий перекат",
+            "originalName": "Nimble Roll",
+            "level": 8,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-nimble-dodge\">Ловкое уклонение (Nimble Dodge (Swashbuckler))  / 1</span></p><hr class=\"docutils\"><p>В дополнение к оригинальному триггеру, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-nimble-dodge\">Ловкое уклонение (Nimble Dodge (Swashbuckler))  / 1</span> до совершения спасброска Рефлекса.\nЕсли вы так делаете, то бонус обстоятельства применяется к вашему спасброску Рефлекса против провоцирующего эффекта.</p><p>Когда вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-nimble-dodge\">Ловкое уклонение (Nimble Dodge (Swashbuckler))  / 1</span> и спровоцировавшая атака проваливается или крит.проваливается, либо когда вы успешно или крит.успешно проходите спасбросок Рефлекса, то как часть реакции, вы можете совершить <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span> на расстояние вплоть до 10 футов.\nЕсли вы так делаете, то реакция получает признак <span class=\"t-move\">движение</span>.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-nimble-dodge\">Ловкое уклонение (Nimble Dodge (Swashbuckler))  / 1</span> когда <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "",
+            "action": "",
+            "id": "class-feat-swashbuckler-nimble-roll",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ошеломляющий финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1541\">Stunning Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Ошеломляющий финишер",
+            "originalName": "Stunning Finisher",
+            "level": 8,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы пытаетесь нанести удар вызывающий головокружение.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя.\nЕсли вы попадаете, ваш враг должен сделать спасбросок Стойкости против вашего КС класса со следующими результатами; спасбросок имеет признак <span class=\"t-incapacitation\">недееспособность</span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Успех</strong>: Цель не может использовать реакции до своего следующего хода</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлен 1</span></div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлен 3</span></div>\n</div>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-stunning-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Энергичная бравада (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1542\">Vivacious Bravado</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Энергичная бравада",
+            "originalName": "Vivacious Bravado",
+            "level": 8,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы получили кураж в этом ходу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Ваше эго раздувается, давая вам временную передышку от боли.\nВы получаете временные ОЗ, равные вашему уровню + модификатор Харизмы, которые длятся до начала вашего следующего хода.</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-vivacious-bravado",
+            "archetype": ""
+        },
+        {
+            "fullName": "Броская жестокость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2161\">Flamboyant Cruelty</a>) / 8",
+            "name": "Броская жестокость",
+            "originalName": "Flamboyant Cruelty",
+            "level": 8,
+            "traits": [
+                "редкий",
+                "сорвиголова"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Legends pg. 28</p><hr class=\"docutils\"><p>Вы любите пинать своих врагов, когда они упали, и когда вы это делаете, вы выглядите потрясающе.\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием ближнего боя по врагу, который имеет хотя бы 2 из следующих состояний, то вы получаете бонус обстоятельства к броску урона, равный количеству имеющихся у врага состояний.\nСчитаются следующие состояния: <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжесть</span>, <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span>, <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен</span>, <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span>, <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота</span> и <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен</span>.\nЕсли вы попадаете по такому врагу, то до конца своего хода получаете бонус обстоятельства +1 к проверкам навыков для <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span> и выполнения действий дающих кураж вашему стилю сорвиголовы.</p>",
+            "src": "Lost Omens: Legends pg. 28",
+            "action": "",
+            "id": "class-feat-swashbuckler-flamboyant-cruelty",
+            "archetype": ""
+        },
+        {
+            "fullName": "Великий танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4046\">Grand Dance (Swashbuckler)</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Великий танец",
+            "originalName": "Grand Dance",
+            "level": 8,
+            "traits": [
+                "редкий",
+                "сорвиголова"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-masquerade-of-seasons-stance\">Стойка Маскарада Сезонов (Masquerade of Seasons Stance (Swashbuckler))  / 4</span></p><p><strong>Требования</strong>: Вы в Стойке Маскарада Сезонов</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 126</p><hr class=\"docutils\"><p>Вы можете призвать всю магию великого танца Бопана.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> вплоть до своей Скорости; во время этого Перемещения вы можете ходить по воздуху, как если бы это была твердая земля.\nТаким образом, вы можете подниматься и спускаться под углом не более 45 градусов. Вы должны закончить свое Перемещение на поверхности, которая способна удержать вас, иначе вы упадете.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 126",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-swashbuckler-grand-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Танец с баклером (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1543\">Buckler Dance</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Танец с баклером",
+            "originalName": "Buckler Dance",
+            "level": 10,
+            "traits": [
+                "стойка",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете баклером</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Вы крутите своим баклером, защищаясь от каждой атаки.\nПока вы в этой стойке, то у вас всегда поднят баклер, как если бы вы использовали <span class=\"card-link std std-ref\" data-id=\"action-raise-a-shield\">Поднять щит (Raise a Shield) </span>.\nЭто работает пока вы удовлетворяете требованиям действия (и как следствие стойки).</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-buckler-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безрассудство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1544\">Derring-Do</a>) / 10",
+            "name": "Безрассудство",
+            "originalName": "Derring-Do",
+            "level": 10,
+            "traits": [
+                "удача",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 91</p><hr class=\"docutils\"><p>Когда вы объединяете свой кураж с еще большей безрассудностью, это имеет тенденцию каким-то образом сработать.\nКогда у вас уже есть кураж, то для проверок, к которым применяется бонус обстоятельства при наличии куража, вы можете делать бросок дважды и использовать наибольший результат\n(<span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span> и любые действия навыков, перечисленные в вашем стиле сорвиголовы).</p>",
+            "src": "Advanced Player's Guide pg. 91",
+            "action": "",
+            "id": "class-feat-swashbuckler-derring-do",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дуэльный танец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1545\">Dueling Dance (Swashbuckler)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Дуэльный танец",
+            "originalName": "Dueling Dance",
+            "level": 10,
+            "traits": [
+                "стойка",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-dueling-parry\">Дуэльное парирование (Dueling Parry (Swashbuckler))  / 1</span></p><p><strong>Требования</strong>: Вы владеете только одним одноручным оружием ближнего боя и ваша другая рука(и) свободна</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Используя вашу свободную руку для опоры и равновесия, вы одновременно атакуете и защищаетесь оружием.\nКогда вы в этой стойке, то постоянно получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-dueling-parry\">Дуэльное парирование (Dueling Parry (Swashbuckler))  / 1</span>.</p>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-dueling-dance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рефлекторная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1546\">Reflexive Riposte</a>) / 10",
+            "name": "Рефлекторная контратака",
+            "originalName": "Reflexive Riposte",
+            "level": 10,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Своевременная контратака (Opportune Riposte) / 3-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Вы можете контратаковать почти не задумываясь.\nВ начале каждого своего хода, когда вы восстанавливаете действия, вы получаете дополнительную реакцию, которую можете использовать только для <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-opportune-riposte\">Своевременная контратака (Opportune Riposte) </span>.</p>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "",
+            "id": "class-feat-swashbuckler-reflexive-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прицельный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1547\">Targeting Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Прицельный финишер",
+            "originalName": "Targeting Finisher",
+            "level": 10,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Ваша атака вредит и мешает врагу.\nВыберите определенную часть врага из списка ниже и сделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЕсли вы попадаете в цель и наносите урон, примените эффект соответствующий выбранной части.\nЭта помеха длится до конца вашего следующего хода.\nПри критическом попадании вы также применяете меньший эффект, длящийся в течение 1 минуты.</p><ul class=\"simple\">\n<li><p><strong>Рука (или другая конечность используемая для атаки, такая как щупальца)</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 2</span>. При крит.попадании она еще получает <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблен 1</span> на 1 минуту.</p></li>\n<li><p><strong>Голова</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 2</span>. При крит.попадании она еще получает <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 1</span> на 1 минуту.</p></li>\n<li><p><strong>Ноги</strong>: Цель получает штраф состояния -10 футов к своим Скоростям. При крит.попадании она еще получает штраф состояния -5 футов к своим Скоростям на 1 минуту.</p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-targeting-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обмануть смерть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1548\">Cheat Death</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Обмануть смерть",
+            "originalName": "Cheat Death",
+            "level": 12,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получаете урон, который снизит ваши ОЗ до 0</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Каким-то образом вы всегда ускользаете находясь на волосок от смерти.\nВы избегаете потери сознания или смерти, оставаясь с 1 ОЗ, но получая состояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен 1</span> (или если оно у вас уже было, то увеличивая свое состояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> на 1).\nВы не можете снизить или игнорировать состояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> от \"Обмануть смерть\".\nСостояние <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> от \"Обмануть смерть\" длится 10 минут, однако это не влияет на продолжительность любого другого имеющегося у вас состояния <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span>.</p>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "реакция",
+            "id": "class-feat-swashbuckler-cheat-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подвижный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1549\">Mobile Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Подвижный финишер",
+            "originalName": "Mobile Finisher",
+            "level": 12,
+            "traits": [
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Вы атакуете в движении.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещение (Stride) </span>, а затем <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nВы можете использовать \"Подвижный финишер\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-mobile-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Броский прыжок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1550\">Flamboyant Leap</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Броский прыжок",
+            "originalName": "Flamboyant Leap",
+            "level": 14,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Атлетики, <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-flamboyant-athlete\">Броский атлет (Flamboyant Athlete) / 4</span></p><p><strong>Требования</strong>: Вы способны использовать финишер</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 92</p><hr class=\"docutils\"><p>Вы стильно прыгаете и наносите мощный финишер.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> и выполните 1 финишер за одиночное действие (<img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">) в любой момент во время прыжка;\nэтот финишер не может быть таким, который уже включает в себя другое перемещение, как например <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-mobile-finisher\">Подвижный финишер (Mobile Finisher)  / 12</span>.\nСразу же после финишера, если вы находитесь в воздухе то падаете на землю, даже если вы не достигли максимальной дистанции прыжка.\nЕсли расстояние, которое вы падаете, не превышает высоты вашего прыжка, то вы не получаете урона и приземляетесь на ноги.</p><p>Когда пытаетесь сделать <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> во время \"Броского прыжка\", определите КС используя КС <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span> и увеличивайте вашу максимальную дистанцию до удвоенной Скорости.</p>",
+            "src": "Advanced Player's Guide pg. 92",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-swashbuckler-flamboyant-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1551\">Impossible Riposte</a>) / 14",
+            "name": "Невероятная контратака",
+            "originalName": "Impossible Riposte",
+            "level": 14,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Своевременная контратака (Opportune Riposte) / 3-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Ваши контратаки могут отразить удары туда, откуда они пришли.\nВ дополнение к обычному триггеру, вы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-opportune-riposte\">Своевременная контратака (Opportune Riposte) </span> с триггером \"Враг вне вашей досягаемости крит.проваливает бросок атаки по вам\".\nКогда вы используете \"Своевременную контратаку\" с этим новым триггером против дистанционной атаки, ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> отражает часть спровоцировавшего эффекта обратно в его источник.\nСравните результат своего броска атаки с КБ спровоцировавшего врага.\nПри попадании, вы наносите нормальное количество урона вашего Удара, но тип урона меняется на такой, какой был у спровоцировавшей атаки.\nНапример, если вы использовали \"Своевременную контратаку\", чтобы отразить <span class=\"card-link std std-ref\" data-id=\"spell-r-ray-of-frost\">Морозный луч (Ray of Frost) / Чары 1</span>, ваш Удар нанесет урон холодом вместо его обычного типа урона.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-impossible-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Идеальный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1552\">Perfect Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Идеальный финишер",
+            "originalName": "Perfect Finisher",
+            "level": 14,
+            "traits": [
+                "удача",
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Вы фокусируете свой кураж на безупречной атаке.\nВыполните <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, сделав бросок атаки дважды и использовав лучший результат.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-perfect-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=425\">Twinned Defense (Swashbuckler)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 14",
+            "name": "Парная защита",
+            "originalName": "Twinned Defense",
+            "level": 14,
+            "traits": [
+                "стойка",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-twin-parry\">Парное парирование (Twin Parry (Swashbuckler))  / 4</span></p><p><strong>Требования</strong>: Вы владеете двумя оружиями ближнего боя, по одному в каждой руке</p><hr class=\"docutils\"><p>Вы всегда готовы использовать свое второстепенное оружие, чтобы прервать нападения на вас.\nПока находитесь в этой стойке, вы постоянно получаете преимущества от <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-twin-parry\">Парное парирование (Twin Parry (Swashbuckler))  / 4</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-twinned-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смертельная грация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1554\">Deadly Grace</a>) / 16",
+            "name": "Смертельная грация",
+            "originalName": "Deadly Grace",
+            "level": 16,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Ваши грациозные атаки особенно мощны.\nКогда вы совершаете критическое попадание оружием ближнего боя с признаком <span class=\"w-agile\">быстрое</span> или <span class=\"w-finesse\">точное</span>, у которого есть признак <span class=\"w-deadly\">смертельное</span>, то вы удваиваете количество костей урона от этого признака.\nКогда вы владеете оружием ближнего боя с признаком <span class=\"w-agile\">быстрое</span> или <span class=\"w-finesse\">точное</span>, но без признака <span class=\"w-deadly\">смертельное</span>, вместо этого оно получает признак <span class=\"w-deadly\">смертельное d8</span>.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-deadly-grace",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удачная контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1555\">Felicitous Riposte</a>) / 16",
+            "name": "Удачная контратака",
+            "originalName": "Felicitous Riposte",
+            "level": 16,
+            "traits": [
+                "удача",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Вы пользуетесь открывшимися возможностями для атаки со сверхъестественными шансами.\nКогда вы выполняете <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-opportune-riposte\">Своевременная контратака (Opportune Riposte) </span>, сделайте бросок атаки дважды и используйте лучший результат.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-felicitous-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная удача (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1556\">Incredible Luck</a>) / 18",
+            "name": "Невероятная удача",
+            "originalName": "Incredible Luck",
+            "level": 18,
+            "traits": [
+                "удача",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-charmed-life\">Очарованная жизнь (Charmed Life)  / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Кажется, вы всегда оправляетесь от самого худшего.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-charmed-life\">Очарованная жизнь (Charmed Life)  / 2</span>, сделайте спасбросок дважды (с учетом бонуса обстоятельства +2 от <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-charmed-life\">Очарованная жизнь (Charmed Life)  / 2</span>) и используйте лучший результат.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-incredible-luck",
+            "archetype": ""
+        },
+        {
+            "fullName": "Летальный финишер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1557\">Lethal Finisher</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Летальный финишер",
+            "originalName": "Lethal Finisher",
+            "level": 18,
+            "traits": [
+                "финишер",
+                "смерть",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: точный удар 6d6</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Вы бьете врага в жизнено важный орган, возможно убивая его на месте.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nВ случае успеха вы отказываетесь от урона точного удара финишера.\nВместо этого, ваша цель получает дополнительный точный урон в зависимости от спасброска Стойкости с КС вашего класса.\nЕсли ваш Удар был крит.попаданием, то результат спасброска цели становится на одну ступень хуже.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы наносите 6 точного урона</div>\n<div class=\"line\"><strong>Успех</strong>: Вы наносите 6d6 точного урона</div>\n<div class=\"line\"><strong>Провал</strong>: Вы наносите 12d6 точного урона</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы наносите 18d6 точного урона</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "одиночное действие",
+            "id": "class-feat-swashbuckler-lethal-finisher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парирование и контратака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1558\">Parry and Riposte</a>) / 18",
+            "name": "Парирование и контратака",
+            "originalName": "Parry and Riposte",
+            "level": 18,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Своевременная контратака (Opportune Riposte) / 3-й</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Ваши парирования и финишеры позволяют вам произвести контратаку при малейшей провокации.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-opportune-riposte\">Своевременная контратака (Opportune Riposte) </span> против врага, который провалил <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> по вам (а не только крит.провалил), с учетом того, что вы нанесли этому существу урон финишером в свой прошлый ход и в данный момент имеете бонус обстоятельства к КБ от признака оружия <span class=\"w-parry\">парирование</span>, <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-dueling-parry\">Дуэльное парирование (Dueling Parry (Swashbuckler))  / 1</span> или <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-twin-parry\">Парное парирование (Twin Parry (Swashbuckler))  / 4</span>.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-parry-and-riposte",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неиссякаемые контрудары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1559\">Inexhaustible Countermoves</a>) / 20",
+            "name": "Неиссякаемые контрудары",
+            "originalName": "Inexhaustible Countermoves",
+            "level": 20,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Вы можете реагировать всякий раз, когда враг оставляет брешь в своей защите.\nВ начале хода каждого врага вы получаете дополнительную реакцию, которую вы можете использовать только во время этого хода, чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-swashbuckler-opportune-riposte\">Своевременная контратака (Opportune Riposte) </span>, или <span class=\"card-link std std-ref\" data-id=\"class-feat-swashbuckler-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity (Swashbuckler))  / 6</span> если у вас есть эта реакция.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-inexhaustible-countermoves",
+            "archetype": ""
+        },
+        {
+            "fullName": "Образчик куража (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1560\">Panache Paragon</a>) / 20",
+            "name": "Образчик куража",
+            "originalName": "Panache Paragon",
+            "level": 20,
+            "traits": [
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 93</p><hr class=\"docutils\"><p>Вы находите возможности совершать стильные трюки в моменты между ударами сердца других людей и морганием глаз.\nВы постоянно имеете состояние <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорен</span>.\nВы можете использовать это дополнительное действие только, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span> или выполнить действие навыка указанное в вашем стиле сорвиголовы, которое позволяет вам получить кураж, или другие действия, которые бы позволили вам получить кураж на усмотрение Мастера.</p>",
+            "src": "Advanced Player's Guide pg. 93",
+            "action": "",
+            "id": "class-feat-swashbuckler-panache-paragon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прострелить замок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3154\">Blast Lock</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Прострелить замок",
+            "originalName": "Blast Lock",
+            "level": 1,
+            "traits": [
+                "атака",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Иногда для преодоления кратчайшего расстояния между двумя точками необходимо устранить одно-два препятствия.\nВы стреляете из своего огнестрельного оружия в <span class=\"card-link \">замок</span> в пределах 10 футов.\nСовершите бросок атаки против его требуемого КС <span class=\"card-link std std-ref\" data-id=\"skill-thievery-pick-a-lock\">Вскрытие замка (Pick a Lock) </span>.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы открываете замок или получаете 2 успеха в открытии сложного замка.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы открываете замок или получаете 1 успех в открытии сложного замка.</div>\n<div class=\"line\"><strong>Провал</strong>: Вам не удается открыть замок и из-за вашего выстрела его сложнее открыть. Дальнейшие попытки <span class=\"card-link std std-ref\" data-id=\"skill-thievery-pick-a-lock\">Вскрытие замка (Pick a Lock) </span> или \"Прострелить замок\" получают штраф обстоятельства -2.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал, но штраф обстоятельства -4.</div>\n</div>",
+            "src": "Guns & Gears pg. 111",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-blast-lock",
+            "archetype": ""
+        },
+        {
+            "fullName": "Огневая поддержка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3155\">Cover Fire</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Огневая поддержка",
+            "originalName": "Cover Fire",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: Раз в раунд</p><p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием или арбалетом</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Вы открываете огонь на подавление, чтобы защитить союзников, заставляя врагов укрываться от ваших диких атак.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из огнестрельного оружия или арбалета;\nперед вашим броском атаки цель должна решить будет ли она уклоняться от него.\nЕсли цель уклоняется, то получает бонус обстоятельства +2 к КБ против вашей атаки, или бонус обстоятельства +4 к КБ если у нее есть укрытие.\nЕще она до конца своего следующего хода получает штраф обстоятельства -2 к дистанционным броскам атак.\nЕсли цель решает не уклоняться, то вы получаете бонус обстоятельства +1 к своему броску атаки этого Выстрела.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-cover-fire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Арбалетный знаток (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3156\">Crossbow Crack Shot</a>) / 1",
+            "name": "Арбалетный знаток",
+            "originalName": "Crossbow Crack Shot",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>У вас глубокое понимание арбалета.\nКогда вы владеете арбалетом и <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы перезарядить его, в том числе с помощью Взаимодействий как части своей перезарядки стрелка и подобных эффектов, то получаете бонус обстоятельства +2 к броску урона следующего <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрела (Strike)</span> этим арбалетом.\nОн не складывается с бонусом обстоятельства +1 от <span class=\"card-link \">Уникальный опыт (Singular Expertise)</span>, как обычно.\nЕсли этот арбалет является простым, то еще увеличьте для этой атаки размер кости урона на один шаг (см. сноску в разделе <span class=\"card-link \">Урон (Damage)</span>).\nВы должны совершить эту атаку до конца своего хода, иначе эти преимущества пропадают.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "",
+            "id": "class-feat-gunslinger-crossbow-crack-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Перезарядка с двумя оружиями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3294\">Dual-Weapon Reload (Gunslinger)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Перезарядка с двумя оружиями",
+            "originalName": "Dual-Weapon Reload",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя одноручными оружиями, каждым в отдельной руке, одно из которых дистанционное</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Вы носите амуницию таким образом, чтобы можно было перезаряжаться, держа в руках два оружия.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы перезарядить одноручное дистанционное оружие, которое держите.\nВ отличие от большинства действий Взаимодействия, вам не нужна свободная рука, чтобы таким способом перезаряжать свое дистанционное оружие.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-dual-weapon-reload",
+            "archetype": ""
+        },
+        {
+            "fullName": "На землю! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3157\">Hit the Dirt!</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "На землю!",
+            "originalName": "Hit the Dirt",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо, которое вы можете видеть, совершает по вам дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Вы уклоняете от опасности.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span>.\nВаше движение дает вам бонус обстоятельства +2 к КБ против спровоцировавшей атаки.\nНезависимо от попадания или промаха спровоцировавшей атаки, вы падаете <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> после завершения Прыжка.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "реакция",
+            "id": "class-feat-gunslinger-hit-the-dirt",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изготовитель боеприпасов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3158\">Munitions Crafter</a>) / 1",
+            "name": "Изготовитель боеприпасов",
+            "originalName": "Munitions Crafter",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>В некоторых местах пули и бомбы могут быть дефицитом, поэтому вы научились делать свои собственные.\nВы становитесь обучены Ремеслу и получаете классовую особенность алхимика <span class=\"card-link \">Насыщенные реагенты (Infused Reagents)</span>, каждый день получая количество реагентов, равное своему уровню.\nЕще вы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span> и 4 дополнительные формулы алхимических предметов 1-го уровня.</p><p>Вы получаете насыщенные реагенты (запас реагентов применяемых для создания алхимических предметов) и продвинутую алхимию (позволяющую вам делать алхимические предметы во время своих ежедневных приготовлений без затрат обычной стоимости и времени).\nВы получаете в день количество порций насыщенных реагентов равное вашему уровню, и вы можете использовать их только для создания <span class=\"t-bomb\">бомб</span> или алхимической амуниции.\nУ вас 1-й уровень продвинутой алхимии для их создания и он не улучшается сам по себе.\nЕсли вы используете порцию насыщенных реагентов для создания простой амуниции 0-го уровня, такой как патроны с черным порохом или порция черного пороха, то вы производите 10 патронов амуниции.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "",
+            "id": "class-feat-gunslinger-munitions-crafter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Меч и пистолет (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3159\">Sword and Pistol</a>) / 1",
+            "name": "Меч и пистолет",
+            "originalName": "Sword and Pistol",
+            "level": 1,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Вам комфортно владеть огнестрельным оружием или арбалетом в одной руке и оружием ближнего боя в другой, совмещая атаки ближнего боя с выстрелами.\nКогда вы совершаете успешный дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> по противнику в вашей досягаемости, своим одноручным огнестрельным оружием или одноручным арбалетом, этот враг <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> против вашей следующей атаки ближнего боя одноручным оружием ближнего боя.</p><p>Когда вы совершаете успешный Удар по врагу своим одноручным оружием ближнего боя, то ваш следующий дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> по противнику одноручным огнестрельным оружием или одноручным арбалетом не провоцирует реакции, которые бы сработали на дистанционную атаку, но не на ближний бой, как например <span class=\"card-link std std-ref\" data-id=\"action-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>.\nЛюбое из этих преимуществ пропадает, если не использовано до конца вашего следующего хода.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "",
+            "id": "class-feat-gunslinger-sword-and-pistol",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитное вооружение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3160\">Defensive Armaments</a>) / 2",
+            "name": "Защитное вооружение",
+            "originalName": "Defensive Armaments",
+            "level": 2,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 111</p><hr class=\"docutils\"><p>Вы используете увесистое огнестрельное оружие или арбалеты, чтобы защищать свое тело от вражеских атак.\nЛюбое двуручное огнестрельное оружие и двуручные арбалеты, которыми вы владеете получают признак <span class=\"w-parry\">парирование</span>.\nЕсли подходящее оружие уже имеет признак <span class=\"w-parry\">парирование</span>, то увеличьте даваемый им бонус обстоятельства к КБ с +1 до +2.</p>",
+            "src": "Guns & Gears pg. 111",
+            "action": "",
+            "id": "class-feat-gunslinger-defensive-armaments",
+            "archetype": ""
+        },
+        {
+            "fullName": "Одурачить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3161\">Fake Out</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Одурачить",
+            "originalName": "Fake Out",
+            "level": 2,
+            "traits": [
+                "визуальный",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием или арбалетом</p><p><strong>Триггер</strong>: Союзник готов использовать действие требующее броска атаки, целясь в существо в пределах 1-го шага дистанции вашего оружия</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Умелым взмахом своего оружия, вы заставляете врага признать вас угрозой.\nСовершите бросок атаки, чтобы <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помочь (Aid)</span> спровоцировавшей атаке.\nЕсли вы с начала своего прошлого хода, нанесли урон этому врагу, этим же оружием, то получаете к этому броску бонус обстоятельства +1.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "реакция",
+            "id": "class-feat-gunslinger-fake-out",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крутить пистолетом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3162\">Pistol Twirl</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Крутить пистолетом",
+            "originalName": "Pistol Twirl",
+            "level": 2,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обману</p><p><strong>Требования</strong>: Вы владеете заряженным одноручным дистанционным оружие</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Ваши быстрые жесты и талант к выступлению отвлекают противника, делая его уязвимым для ваших последующих атак.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span> против противника в пределах 1-го шага дистанции требуемого оружия, а не в досягаемости ближнего боя.\nПри успехе, он <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> для ваших атак ближнего и дальнего боя.\nПри критическом провале, вы <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> для атак ближнего и дальнего боя этого противника.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-pistol-twirl",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый выхват (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=498\">Quick Draw (Gunslinger)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Быстрый выхват",
+            "originalName": "Quick Draw",
+            "level": 2,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Вы достаете оружие и атакуете одним движением.\nВы используете <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы достать оружие, и потом совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> этим оружием.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-quick-draw",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рискованная перезарядка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3163\">Risky Reload</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Рискованная перезарядка",
+            "originalName": "Risky Reload",
+            "level": 2,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Вы владеете огнестрельным оружием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Вы практиковали технику быстрой перезарядки своего огнестрельного оружия, но ее применение опасно для его функциональности.\n<span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуйте (Interact)</span> для перезарядки огнестрельного оружия а затем совершите из него <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span>.\nЕсли Выстрел проваливается, то оружие дает осечку.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-risky-reload",
+            "archetype": ""
+        },
+        {
+            "fullName": "Предупредительный выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3164\">Warning Shot</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Предупредительный выстрел",
+            "originalName": "Warning Shot",
+            "level": 2,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию</p><p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Кому нужны слова, когда грохот выстрела гораздо лаконичнее?\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> противника стреляя в воздух, используя максимальную дистанцию огнестрельного оружия, вместо обычных 30 футов.\nЭта проверка не получает штраф обстоятельства -4, если цель не имеет с вами общего языка.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-warning-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Алхимический заряд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3165\">Alchemical Shot</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Алхимический заряд",
+            "originalName": "Alchemical Shot",
+            "level": 4,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: У вас есть надетая или находящаяся в руке алхимическая <span class=\"t-bomb\">бомба</span>, и вы владеете огнестрельным оружием или арбалетом в другой</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Вы практиковали технику смешивания алхимических бомб с заряженными выстрелами.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span> чтобы достать бомбу (если она еще не в руке) и выливаете ее содержимое в амуницию, расходуя бомбу.\nДалее делаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> огнестрельным оружием.\nЭтот Выстрел наносит урон того же типа, что и бомба (например, огненный для <span class=\"card-link \">Алхимический огонь (Alchemist's Fire) / Предмет 1+</span>) и дополнительные 1d6 продолжительного урона того же типа что и бомба.\nЕсли Выстрел проваливается, вы получаете 1d6 урона типа использованной бомбы, а огнестрельное оружие дает осечку.</p><p>Продолжительный урон увеличивается до 2d6 если бомба 11-го уровня или выше, или 3d6, если она 17-го уровня или выше.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-alchemical-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ускорение черным порохом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3166\">Black Powder Boost</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> или <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Ускорение черным порохом",
+            "originalName": "Black Powder Boost",
+            "level": 4,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Вы стреляете из своего оружия во время прыжка, используя отдачу, чтобы пролететь дальше.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжок (Leap) </span> и разряжаете свое огнестрельное оружие, чтобы добавить бонус состояния +10 футов к преодолеваемому расстоянию.\nЕсли вы тратите 2 действия на \"Ускорение черным порохом\" то вы вместо этого делаете <span class=\"card-link std std-ref\" data-id=\"skill-athletics-hjump\">Прыжок в высоту (High Jump) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-ljump\">Прыжок в длину (Long Jump) </span>.</p><p><strong>Особенность</strong>: Умение позволяющее вам Прыгать в длину или в высоту за 1 действие (как способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-quick-jump\">Быстрый прыжок (Quick Jump) / 1</span>) тоже дают вам использовать \"Ускорение черным порохом\" для этих прыжков за одно действие.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-black-powder-boost",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мгновенный резерв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3167\">Instant Backup</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Мгновенный резерв",
+            "originalName": "Instant Backup",
+            "level": 4,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Ваша атака огнестрельным оружием дает осечку</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Даже если ваше огнестрельное оружие дает осечку, вы быстро достаете запасное.\nЕсли хотите, то <span class=\"card-link std std-ref\" data-id=\"action-release\">Отпустите (Release)</span> оружие давшее осечку и <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуйте (Interact)</span>, чтобы достать одноручное оружие.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "реакция",
+            "id": "class-feat-gunslinger-instant-backup",
+            "archetype": ""
+        },
+        {
+            "fullName": "Парные выстрелы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3168\">Paired Shots</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Парные выстрелы",
+            "originalName": "Paired Shots",
+            "level": 4,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете двумя оружиями, каждое из которых может быть либо заряженным одноручным огнестрельным либо заряженным одноручным арбалетом</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Ваши выстрелы попадают одновременно.\nСделайте 2 (два) <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрела (Strike)</span>, по одному из обоих дистанционных оружий, каждый используя ваш текущий штраф множественной атаки.\nОба Выстрела должны быть в одну цель.</p><p>Если обе атаки попадают, объедините их урон и потом добавьте любые применимые эффекты обоих оружий.\nВы добавляете любой точный урон только 1 раз, к атаке по своему выбору.\nСложите урон обоих Выстрелов и примените сопротивления и слабости только 1 раз.\nПри расчете вашего штрафа множественной атаки это считается двумя атаками.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-paired-shots",
+            "archetype": ""
+        },
+        {
+            "fullName": "Перезарядка в движении (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=504\">Running Reload (Gunslinger)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Перезарядка в движении",
+            "originalName": "Running Reload",
+            "level": 4,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 112</p><hr class=\"docutils\"><p>Вы можете перезаряжать свое оружие во время движения.\nВы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span>, <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Крадетесь (Sneak)</span>, после чего <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span> для перезарядки оружия.</p>",
+            "src": "Guns & Gears pg. 112",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-running-reload",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посвященный Зеленой Стражи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4053\">Greenwatch Initiate (Gunslinger)</a>) / 4",
+            "name": "Посвященный Зеленой Стражи",
+            "originalName": "Greenwatch Initiate",
+            "level": 4,
+            "traits": [
+                "редкий",
+                "стрелок"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 129</p><hr class=\"docutils\"><p>Вы прошли базовую подготовку для рекрутов Зеленой Стражи.\nВы становитесь экспертом Выживания и получаете способности навыков <span class=\"card-link std std-ref\" data-id=\"feat-experienced-tracker\">Опытный следопыт (Experienced Tracker) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"feat-survey-wildlife\">Изучение дикой природы (Survey Wildlife) / 1</span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 129",
+            "action": "",
+            "id": "class-feat-gunslinger-greenwatch-initiate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Продвинутый стрелок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3169\">Advanced Shooter</a>) / 6",
+            "name": "Продвинутый стрелок",
+            "originalName": "Advanced Shooter",
+            "level": 6,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 113</p><hr class=\"docutils\"><p>Вы посвятили свою тренировку наиболее сложным и странным оружиям избранной группы.\nВыберите огнестрельное оружие или арбалеты.\nВы получаете мастерство обращения со всем продвинутым огнестрельным оружием, как если бы оно было воинским огнестрельным, либо со всеми продвинутыми арбалетами, как если бы они были воинскими арбалетами.</p>",
+            "src": "Guns & Gears pg. 113",
+            "action": "",
+            "id": "class-feat-gunslinger-advanced-shooter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прижигание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3170\">Cauterize</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Прижигание",
+            "originalName": "Cauterize",
+            "level": 6,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием и, вы или соседний союзник получаете продолжительный урон кровотечением</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 113</p><hr class=\"docutils\"><p>Вы используете дымящийся ствол своего оружия, чтобы прижечь кровоточащую рану.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> своим огнестрельным оружием.\nПосле этого вы прижимаете нагретый ствол к своим ранами или своего союзника в пределах досягаемости, получающего продолжительный урон кровотечения, что дает мгновенную чистую проверку для завершения кровотечения со сниженным КС за особенно эффективную помощь (см. <span class=\"card-link \">Помощь в восстановлении (Assisted Recovery)</span>).</p>",
+            "src": "Guns & Gears pg. 113",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-cauterize",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зиг-заг скитальца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3171\">Drifter's Juke</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Зиг-заг скитальца",
+            "originalName": "Drifter's Juke",
+            "level": 6,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Путь скитальца (Way of the Drifter)</span></p><p><strong>Требования</strong>: Вы владеете огнестрельным оружием или арбалетом в одной руке, а другая рука пуста, либо владеет одноручным оружием ближнего боя</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 113</p><hr class=\"docutils\"><p>Вы перемещаетесь в пределах досягаемости, дополняя свои атаки.\nВы <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span>, делаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>, Шагаете и делаете другой Удар.\nОдин Удар должен быть дистанционным с использованием вашего огнестрельного оружия или арбалета, а другой Удар оружием ближнего боя или безоружной атакой.\nЕсли хотите, то вы можете не делать один или оба Шага.</p>",
+            "src": "Guns & Gears pg. 113",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-drifters-juke",
+            "archetype": ""
+        },
+        {
+            "fullName": "Умелый сборщик боеприпасов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3172\">Munitions Machinist</a>) / 6",
+            "name": "Умелый сборщик боеприпасов",
+            "originalName": "Munitions Machinist",
+            "level": 6,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла, <span class=\"card-link std std-ref\" data-id=\"class-feat-gunslinger-munitions-crafter\">Изготовитель боеприпасов (Munitions Crafter) / 1</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 113</p><hr class=\"docutils\"><p>Вы особенно искусны в изготовлении боеприпасов и бомб.\nУровень вашей продвинутой алхимии для амуниции и бомб увеличивается до вашего уровня - 3.</p>",
+            "src": "Guns & Gears pg. 113",
+            "action": "",
+            "id": "class-feat-gunslinger-munitions-machinist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разбиватель фаланг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3173\">Phalanx Breaker</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Разбиватель фаланг",
+            "originalName": "Phalanx Breaker",
+            "level": 6,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Путь авангарда (Way of the Vanguard)</span></p><p><strong>Требования</strong>: Вы владеете двуручным огнестрельным оружием или двуручным арбалетом</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 113</p><hr class=\"docutils\"><p>Вы знаете, что для уничтожения вражеского формирования необходимо пробить дыру в его центре.\nСовершите дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из требуемого оружия по цели в пределах 1-го шага дистанции оружия.\nЦель отталкивается назад на 10 футов по прямой (на 20 футов при критическом попадании), и если это толкает цель в препятствие, то цель получает дробящий урон равный половине вашего уровня</p>",
+            "src": "Guns & Gears pg. 113",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-phalanx-breaker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вызов пистолеро (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3174\">Pistolero's Challenge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Вызов пистолеро",
+            "originalName": "Pistolero's Challenge",
+            "level": 6,
+            "traits": [
+                "размах",
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Путь пистолеро (Way of the Pistolero)</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 114</p><hr class=\"docutils\"><p>Суровым призывом, тщательно подобранной колкостью или другим вызывающим заявлением вы требуете внимания своего противника на дуэли.\nВыберите оппонента в пределах 30 футов, которого вы можете воспринимать и который может слышать вас, и сделайте на свой выбор проверку Обмана или Запугивания против его КС Воли.\nВне зависимости от результата этой проверки, враг временно иммунен вашему \"Вызову пистолеро\" до полудня следующего дня.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Оба, вы и оппонент получаете бонус состояния +2 к броскам урона <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strike)</span> друг по другу. Если вы мастер навыка использованного для проверки, то бонус состояния к броскам урона увеличивается до +3, а если легенда, то до +4. У вас одновременно может быть только 1 вызов; вызов нового оппонента заканчивает этот эффект для текущей цели. В противном случае, эффект длится пока один из вас не будет побежден, сбежит или закончится столкновение.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуганы 1</span> и не можете снова использовать это умение 1 минуту.</div>\n</div>",
+            "src": "Guns & Gears pg. 114",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-pistoleros-challenge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рассеянный взрыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3175\">Scatter Blast</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Рассеянный взрыв",
+            "originalName": "Scatter Blast",
+            "level": 6,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием с признаком <span class=\"w-scatter\">разброс</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 114</p><hr class=\"docutils\"><p>Вы начиняете свое оружие дополнительным снарядом и порохом, создавая рискованную, но разрушительно опустошающую волну.\nСовершите дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> из огнестрельного оружия.\nШаг дистанции оружия увеличивается на 20 футов, и радиус его <span class=\"w-scatter\">разброса</span> увеличивается на 20 футов.\nЭтот Выстрел получает следующие условия провала.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Провал</strong>: Огнестрельное оружие дает осечку, но не вызывает другие эффекты критического провала перечисленные далее.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Огнестрельное оружие дает осечку и взрывается. Оно <span class=\"card-link std std-ref\" data-id=\"c-broken\">сломано</span> и наносит свой нормальный урон оружия всем существам в 20-футовом взрыве с оружием в центре, с простым спасброском Рефлекса против вашего КС класса. Это включает в себя любой урон от основных рун и рун свойств оружия.</div>\n</div>",
+            "src": "Guns & Gears pg. 114",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-scatter-blast",
+            "archetype": ""
+        },
+        {
+            "fullName": "Меткость снайпера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3176\">Sniper's Aim</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Меткость снайпера",
+            "originalName": "Sniper's Aim",
+            "level": 6,
+            "traits": [
+                "концентрация",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Путь снайпера (Way of the Sniper)</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 114</p><hr class=\"docutils\"><p>Вы тратите дополнительное время, чтобы аккуратно синхронизировать прицеливание и дыхание, а затем производите выстрел с большой точностью.\nСовершите дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> оружием.\nВы получаете к броску атаки этого Выстрела бонус обстоятельства +2 и игнорируете <span class=\"card-link std std-ref\" data-id=\"c-concealed\">сокрытие</span> цели.\nЕсли вы используете огнестрельное оружие с <span class=\"w-kickback\">отдачей</span>, то не получаете при этом Выстреле обычный штраф обстоятельства за отсутствие требуемого значения Силы или стрельбу без стабилизатора.</p>",
+            "src": "Guns & Gears pg. 114",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-snipers-aim",
+            "archetype": ""
+        },
+        {
+            "fullName": "Залп триггербранда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4038\">Triggerbrand Salvo</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Залп триггербранда",
+            "originalName": "Triggerbrand Salvo",
+            "level": 6,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Путь триггербранда (Way of the Triggerbrand)</span></p><p><strong>Требования</strong>: Вы владеете <span class=\"w-combination\">комбинированным</span> оружием</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 108</p><hr class=\"docutils\"><p>Вы режете, колете или бьете противника частью своего комбинированного оружия для ближнего боя, прежде чем нажать на курок в упор.\nНанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя своим <span class=\"w-combination\">комбинированным</span> оружием.\nЕсли Удар успешный, вы можете мгновенно совершить дистанционный Удар по той же цели данным комбинированным оружием и получаете бонус обстоятельства +2 к этому броску атаки.\nЭто считается 2 атаками для штрафа множественной атаки, но он не применяется пока вы не совершите обе атаки.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 108",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-triggerbrand-salvo",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вызов феям (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4054\">Defy Fey (Gunslinger)</a>) / 6",
+            "name": "Вызов феям",
+            "originalName": "Defy Fey",
+            "level": 6,
+            "traits": [
+                "редкий",
+                "стрелок"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-gunslinger-greenwatch-initiate\">Посвященный Зеленой Стражи (Greenwatch Initiate (Gunslinger)) / 4</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 129</p><hr class=\"docutils\"><p>Вы хорошо разбираетесь в уловках фей и обычно можете избавиться от эффектов их магии.\nКогда вы получаете провал (но не критический провал) при спасброске против заклинания продолжительностью не менее 1 раунда, сотворенного существом с признаком <span class=\"t-fey\">фея</span>, вы можете совершить новый спасбросок против изначального КС в начале вашего следующего хода, чтобы закончить любые продолжительные эффекты, которые может иметь заклинание.\nЭта способность может окончить продолжительный урон, вызванный заклинанием, но не может отменить никакие эффекты, которые уже произошли (например, урон нанесенный при сотворении заклинания).</p>",
+            "src": "Lost Omens: Impossible Lands pg. 129",
+            "action": "",
+            "id": "class-feat-gunslinger-defy-fey",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фейский следопыт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4055\">Fey Tracker (Gunslinger)</a>) / 6",
+            "name": "Фейский следопыт",
+            "originalName": "Fey Tracker",
+            "level": 6,
+            "traits": [
+                "редкий",
+                "стрелок"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-gunslinger-greenwatch-initiate\">Посвященный Зеленой Стражи (Greenwatch Initiate (Gunslinger)) / 4</span></p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 129</p><hr class=\"docutils\"><p>Вы невероятно искусны в обнаружении хитрых уловок, которые феи используют, чтобы скрываться.\nВы получаете бонус обстоятельства +2 к проверкам Выживания, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживать (Track)</span> <span class=\"t-fey\">фей</span>, к проверкам Восприятия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-seek\">Искать (Seek)</span> <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанных</span> <span class=\"t-fey\">фей</span>, и вашему КС Восприятия, чтобы противостоять попыткам <span class=\"t-fey\">фей</span> <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span>.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 129",
+            "action": "",
+            "id": "class-feat-gunslinger-fey-tracker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разделение пули (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3177\">Bullet Split</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Разделение пули",
+            "originalName": "Bullet Split",
+            "level": 8,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете огнестрельным оружием или арбалетом в одной руке и рубящим (или <span class=\"w-versatile\">универсальным Р</span>) оружием ближнего боя в другой</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 114</p><hr class=\"docutils\"><p>Вы аккуратно равняете свое оружие по краю клинка, в момент выстрела разделяя снаряд на 2 части, чтобы атаковать две разные цели.\nСовершите 2 (два) <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strike)</span>, каждый по разным целям.\nЦели должны находиться рядом друг с другом и в пределах максимальной дистанции вашего оружия.\nКаждая из этих атак получает штраф -2 к броску атаки, но при расчете штрафа множественной атаки они вместе считаются лишь как 1 атака.</p>",
+            "src": "Guns & Gears pg. 114",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-bullet-split",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смелость и упорство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3178\">Grit and Tenacity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Смелость и упорство",
+            "originalName": "Grit and Tenacity",
+            "level": 8,
+            "traits": [
+                "удача",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы проваливаете спасбросок Стойкости или Воли</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы используете глубокие резервы живучести и ментальной стойкости, чтобы преодолеть изнуряющий эффект.\nПеребросьте спровоцировавший спасбросок с бонусом обстоятельства +2; вы должны использовать второй результат.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "реакция",
+            "id": "class-feat-gunslinger-grit-and-tenacity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прыжок с выстрелом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3179\">Leap and Fire</a>) / 8",
+            "name": "Прыжок с выстрелом",
+            "originalName": "Leap and Fire",
+            "level": 8,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-gunslinger-hit-the-dirt\">На землю! (Hit the Dirt!)  / 1</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы достаточно быстры, чтобы прицелиться выстрелом, даже когда падаете на землю.\nКогда вы используете реакцию <span class=\"card-link std std-ref\" data-id=\"class-feat-gunslinger-hit-the-dirt\">На землю! (Hit the Dirt!)  / 1</span>, то в любой момент во время <span class=\"card-link std std-ref\" data-id=\"action-leap\">Прыжка (Leap)</span> вы еще можете совершить дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> заряженным огнестрельным оружием или арбалетом, целясь в существо спровоцировавшее эту реакцию.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "",
+            "id": "class-feat-gunslinger-leap-and-fire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дымовая завеса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3180\">Smoke Curtain</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Дымовая завеса",
+            "originalName": "Smoke Curtain",
+            "level": 8,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием и носите или держите порцию черного пороха</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы заряжаете в свой выстрел дополнительную порцию пороха, из-за чего вырывается облако дыма.\nВы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> своим огнестрельным оружием и создаете облако в 20-футовой эманации с центром в вашем месте.\nСущества находящиеся внутри дыма <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>, а существа за пределами области <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> для существ в дыму.\nДым развеивается в начале вашего следующего хода.\nЕсли ваш Выстрел критически проваливается, оружие дает осечку.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-smoke-curtain",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удар и взрыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3181\">Stab and Blast</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Удар и взрыв",
+            "originalName": "Stab and Blast",
+            "level": 8,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете огнестрельным оружием с прикрепленным <span class=\"card-link \">штыком</span> или <span class=\"card-link \">усиленным прикладом</span>, <span class=\"card-link \">огненным копьем</span> или <span class=\"w-combination\">комбинированным</span> оружием</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы режете или бьете противника с помощью части оружия для ближнего боя, прежде чем в упор спустить курок.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя требуемым оружием.\nЕсли этот Удар успешен, то вы можете мгновенно совершить дистанционный Выстрел по той же цели с бонусом обстоятельства +2 к броску атаки.\nЭто считается 2 атаками для вашего штрафа множественной атаки, но вы не применяете его, пока не совершите обе атаки.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "одиночное действие",
+            "id": "class-feat-gunslinger-stab-and-blast",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ветеран Зеленой Стражи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4056\">Greenwatch Veteran (Gunslinger)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Ветеран Зеленой Стражи",
+            "originalName": "Greenwatch Veteran",
+            "level": 8,
+            "traits": [
+                "редкий",
+                "стрелок"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Триггер</strong>: Начинается ваш ход и вы находитесь в бою против существа, которое вы <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживали (Tracking)</span> хотя бы 10 минут</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 129</p><hr class=\"docutils\"><p>Время, потраченное на выслеживание цели, позволяет вам быстро определить ее слабости и сообщить о них своим союзникам.\nСовершите проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> против существа, которое вы Выслеживали.\nПри успехе вы всегда узнаете сильнейшую слабость существа и самое высокое сопротивление или иммунитет в дополнение к любой другой информации, которую обычно раскрывает проверка.\nВы немедленно используете серию быстрых жестов руками, чтобы передать эту информацию всем союзникам, которые могут вас видеть.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 129",
+            "action": "свободное действие",
+            "id": "class-feat-gunslinger-greenwatch-veteran",
+            "archetype": ""
+        },
+        {
+            "fullName": "Незримый проход (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4057\">Unseen Passage (Gunslinger)</a>) / 8",
+            "name": "Незримый проход",
+            "originalName": "Unseen Passage",
+            "level": 8,
+            "traits": [
+                "редкий",
+                "стрелок"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Impossible Lands pg. 129</p><hr class=\"docutils\"><p>Вы освоили магическую технику незаметного перемещения по опасным лесам.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-p-pass-without-trace\">Бесследный шаг (Pass without Trace) / Закл. 1</span> как врожденное природное заклинание, усиленное до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Impossible Lands pg. 129",
+            "action": "",
+            "id": "class-feat-gunslinger-unseen-passage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прицельный выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3182\">Called Shot</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Прицельный выстрел",
+            "originalName": "Called Shot",
+            "level": 10,
+            "traits": [
+                "размах",
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы целитесь в определенную область анатомии противника для ослабляющего эффекта.\nОбозначьте часть анатомии противника как цель и совершите дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nЕсли вы попадаете и наносите урон, цель получает один из следующих эффектов, в зависимости от части тела в которую вы целились.\nМастер должен использовать обозначенные эффекты в качестве руководства при атаке существ со странной анатомией - например, применять эффект для \"рук\" к щупальцам существа, если оно использует их для атаки.</p><ul class=\"simple\">\n<li><p><strong>Руки</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблена 2</span> до конца вашего следующего хода. При критическом попадании она еще <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблена 1</span> на 1 минуту.</p></li>\n<li><p><strong>Голова</strong>: Цель <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманена 2</span> до конца вашего следующего хода. При критическом попадании она еще <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманена 1</span> на 1 минуту.</p></li>\n<li><p><strong>Ноги</strong>: Цель получает штраф состояния -10 футов к своим Скоростям до конца вашего следующего хода. При критическом попадании она еще получает штраф состояния -5 футов к своим Скоростям на 1 минуту.</p></li>\n<li><p><strong>Крылья</strong>: Если цель летает при помощи крыльев, она мгновенно падает на 20 футов, или на 40 футов при критическом попадании. Падение достаточно постепенное, поэтому если цель ударится о землю, то не получает урон от падения.</p></li>\n</ul>",
+            "src": "Guns & Gears pg. 115",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-called-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отклоняющий выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3183\">Deflecting Shot</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Отклоняющий выстрел",
+            "originalName": "Deflecting Shot",
+            "level": 10,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием или арбалетом</p><p><strong>Триггер</strong>: Союзник в пределах 1-го шага дистанции вашего огнестрельного оружия или арбалета поражен атакой, и вы можете видеть атакующего</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы всегда готовы сделать быстрый выстрел, чтобы отклонить оружие или отвлечь противника достаточно, чтобы сбить его с цели.\nСоюзник получает бонус обстоятельства +2 к своему КБ против спровоцировавшей атаки.\nВы используете эту реакцию после раскрытия результата броска атаки, поэтому вы знаете будет ли +2 достаточно для изменений результата.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "реакция",
+            "id": "class-feat-gunslinger-deflecting-shot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пробивающий выстрел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3184\">Penetrating Fire</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Пробивающий выстрел",
+            "originalName": "Penetrating Fire",
+            "level": 10,
+            "traits": [
+                "стрелок"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы владеете заряженным огнестрельным оружием или арбалетом</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 115</p><hr class=\"docutils\"><p>Вы пробиваете пулей одного врага и попадаете в другого.\nВыберите 2 цели, одна из которых будет давать другой небольшое укрытие от ваших дистанционных атак.\nСовершите 1 дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрел (Strike)</span> требуемым оружием по обеим целям.\nЭта атака игнорирует любое небольшое укрытие, которая ближайшая цель дает другой.\nКиньте бросок урона только один раз и примените его к каждому существу по которому попали.\n\"Пробивающий выстрел\" считается 2 атаками для вашего штрафа множественной атаки.</p>",
+            "src": "Guns & Gears pg. 115",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-gunslinger-penetrating-fire",
+            "archetype": ""
+        }
+    ]
+}

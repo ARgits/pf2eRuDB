@@ -1,0 +1,1581 @@
+{
+    "feats": [
+        {
+            "fullName": "Железная дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1329\">Slag May</a>) / 1",
+            "name": "Железная дева",
+            "originalName": "Slag May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Ваша мать была каргой эннис, известной своей физической силой, и у вас один из глаз фиолетовый или стальной серый.\nУ вас есть плотные и крепкие когти из холодного железа, которые естественным образом растут из вашего тела.\nВы получаете безоружную атаку когтями, которая наносит 1d6 рубящего урона.\nВаши когти относятся к группе \"драка\" и имеют признаки <span class=\"w-unarmed\">безоружное</span> и <span class=\"w-grapple\">захват</span>, и являются холодным железом (с целью преодоления сопротивлений и уязвимостей).</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-slag-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лунная дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2331\">Moon May</a>) / 1",
+            "name": "Лунная дева",
+            "originalName": "Moon May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Ваша мать была лунной каргой, служанкой <span class=\"card-link \">Гротуса</span>, а у вас один алый глаз и кусочек ее божественного предвидения.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-g-guidance\">Наставление (Guidance) / Чары 1</span> как врожденные оккультные чары.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-changeling-moon-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Снежная дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2332\">Snow May</a>) / 1",
+            "name": "Снежная дева",
+            "originalName": "Snow May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Вы дитя зимней карги, с одним бело-голубым глазом и близостью к инею и снегу.\nКогда передвигаетесь по льду или снегу в арктической местности, вы всегда получаете преимущества действия <span class=\"card-link std std-ref\" data-id=\"skill-survival-cover-tracks\">Заметать следы (Cover Tracks)</span> без необходимости применять эту активность или двигаться с половиной своей Скорости.\nВы не считаете ледяную местность неровной поверхностью (хотя она все еще является для вас сложной местностью), и вы игнорируете сложную местность вызванную снегом.\nХолодные осадки и эффекты холодной окружающей среды не изменяют время после которого вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомленным</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-changeling-snow-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маскирующаяся дева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2333\">Veil May</a>) / 1",
+            "name": "Маскирующаяся дева",
+            "originalName": "Veil May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Рожденный от кровавой карги, яростного кровопийцы, скрытого за фальшивой кожей, вы обладаете одним кроваво-красным глазом и умением мгновенно сбросить свою внешность.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-lie-to-me\">Обмани меня (Lie to Me) / 1</span> и можете быстро избавиться от маскировки, сняв верхний слой своей кожи.\nСмена маскировки использованной для <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> обратно к вашему истинному внешнему виду для вас является активность в 3 действия; если вы эксперт Обмана, то это активность в 2 действия, а если вы легенда Обмана, то это одиночное действие.\nЭто не позволяет вам быстрее надевать или снимать доспех или другое снаряжение, но ваш физический внешний вид возвращается к своему обычному состоянию.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-changeling-veil-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дева вирги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2334\">Virga May</a>) / 1",
+            "name": "Дева вирги",
+            "originalName": "Virga May",
+            "level": 1,
+            "traits": [
+                "род",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Рожденный от штормовой карги, у вас один кристально-голубой или дождливо-серый глаз.\nВы разделяете власть своей матери над ветром и бурей.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-e-electric-arc\">Электрическая дуга (Electric Arc) / Чары 1</span> как врожденные оккультные чары.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-changeling-virga-may",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания подменыша (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1325\">Changeling Lore</a>) / 1",
+            "name": "Знания подменыша",
+            "originalName": "Changeling Lore",
+            "level": 1,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Слишком хорошо осознавая свою истинную природу, вы изучали карг и их силы.\nВы становитесь обучены Обману и Оккультизму.\nЕсли вы автоматически будете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям карг.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-changeling-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Когти карги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1327\">Hag Claws</a>) / 1",
+            "name": "Когти карги",
+            "originalName": "Hag Claws",
+            "level": 1,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Когда вы достигли совершеннолетия, ваши ногти стали длинными и острыми.\nВы получаете безоружную атаку когтями, которая наносит 1d4 рубящего урона.\nВаши когти относятся к группе \"драка\" и имеют признаки <span class=\"w-agile\">быстрое</span>, <span class=\"w-finesse\">точное</span> и <span class=\"w-unarmed\">безоружное</span>.</p><p><strong>Особенность</strong>: Когти могут развиться в любой момент жизни подменыша, позволяя вам выбрать эту способность в любое время, когда вы получите способность родословной, но как только вы выбрали ее, вы не можете переобучиться, заменив ее на другую.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-hag-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Взор карги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1328\">Hag's Sight</a>) / 1",
+            "name": "Взор карги",
+            "originalName": "Hag's Sight",
+            "level": 1,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Вы развили сверхъестественные способности, дарованные вашей матерью-каргой, в особенности зрение.\nВы получаете ночное зрение.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-hags-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Восстановление девы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2330\">Maiden's Mending</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Восстановление девы",
+            "originalName": "Maiden's Mending",
+            "level": 1,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Триггер</strong>: Вы сотворяете оккультное заклинание не являющееся чарами, или врожденное заклинание от способности родословной подменыша</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Вы можете использовать текущую в своей крови магию, чтобы дать себе новую жизнь.\nВы получаете временные ОЗ, в количестве равном половине своего уровня (минимум 1), которые действуют до конца вашего следующего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "реакция",
+            "id": "ancestry-feat-changeling-maidens-mending",
+            "archetype": ""
+        },
+        {
+            "fullName": "Услышавший Зов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1330\">Called</a>) / 5",
+            "name": "Услышавший Зов",
+            "originalName": "Called",
+            "level": 5,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Вы услышали \"Зов\" и, постоянно сопротивляясь этому настойчивому требованию, выработали ментальную защиту против эффектов, нацеленных на ваш разум.\nВы получаете бонус обстоятельства +1 к спасброскам Воли против <span class=\"t-mental\">ментальных</span> эффектов.\nЕсли вы получаете успех при броске спасброска против <span class=\"t-mental\">ментального</span> эффекта, который сделает вас <span class=\"card-link std std-ref\" data-id=\"c-controlled\">под контролем</span>, то вместо этого он становится крит.успехом.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-called",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дитя мглы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1331\">Mist Child</a>) / 5",
+            "name": "Дитя мглы",
+            "originalName": "Mist Child",
+            "level": 5,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Вы сливаетесь будто с неестественной утонченностью.\nКогда вы имеете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> или <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятан</span>, увеличьте КС чистой проверки чтобы целиться в вас до 6 если вы скрыты или до 12 если вы спрятаны.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-mist-child",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрые волосы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2335\">Cunning Hair</a>) / 5",
+            "name": "Хитрые волосы",
+            "originalName": "Cunning Hair",
+            "level": 5,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 22</p><hr class=\"docutils\"><p>Ваши волосы двигаются под вашим контролем.\nВы можете совершать простые действия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> волосами, как например открывать незапертую дверь.\nВаши волосы не могут выполнять действия, для которых нужны пальцы или значительная ловкость рук, включая любые действия, которые для выполнения потребуют совершить проверку, и вы не можете использовать их чтобы держать предметы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 22",
+            "action": "",
+            "id": "ancestry-feat-changeling-cunning-hair",
+            "archetype": ""
+        },
+        {
+            "fullName": "Попутные ветры (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2336\">Favorable Winds</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Попутные ветры",
+            "originalName": "Favorable Winds",
+            "level": 5,
+            "traits": [
+                "оккультный",
+                "воздух",
+                "концентрация",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-virga-may\">Дева вирги (Virga May) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>Вы оборачиваете оружие, которым владеете, оболочкой из попутного ветра.\nДо начала вашего следующего хода, вы не получаете штрафы обстоятельства на бросок атаки из-за ветра, при вашем следующем <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударе (Strike)</span> дистанционным оружием.\nДополнительное, если это оружие обладает шагом дистанции 10 футов или менее, то для этого Удара увеличьте его шаг дистанции на 10 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-changeling-favorable-winds",
+            "archetype": ""
+        },
+        {
+            "fullName": "Злополучные когти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1332\">Accursed Claws</a>) / 9",
+            "name": "Злополучные когти",
+            "originalName": "Accursed Claws",
+            "level": 9,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: безоружная атака когтями</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Ваши когти несут в себе магию матери карги.\nКогда вы критически попадаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> когтями, цель так же получает дополнительные 1d4 продолжительного ментального урона.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-accursed-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оккультное сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1333\">Occult Resistance</a>) / 9",
+            "name": "Оккультное сопротивление",
+            "originalName": "Occult Resistance",
+            "level": 9,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Оккультизма</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Ваше изучение оккультных практик показало вам, как лучше всего защищаться от них.\nВы получаете бонус обстоятельства +1 ко всем спасброскам против оккультных эффектов.</p>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-occult-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв стихий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2337\">Invoke the Elements</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Призыв стихий",
+            "originalName": "Invoke the Elements",
+            "level": 9,
+            "traits": [
+                "природный",
+                "эвокация",
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-brine-may\">Морская дева (Brine May) / 1</span>,\n<span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-snow-may\">Снежная дева (Snow May) / 1</span>,\n<span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-veil-may\">Маскирующаяся дева (Veil May) / 1</span>,\nили <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-virga-may\">Дева вирги (Virga May) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>Вы вызываете ауру мерцающего жара, шквального снега, грохочущих волн или кружащихся ветров и молний.\nНа 1 минуту, вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыт</span> от существ находящихся дальше 5 футов от вас, и любое существо, которое заканчивается свой ход в пределах 5 футов от вас страдает от 1d12 урона (простой спасбросок Рефлекса, используя ваш КС класса или КС заклинания, в зависимости от того, что больше).\nНа 13-м и 17-м уровнях этот урон увеличивается на 1d12.</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-veil-may\">Маскирующаяся дева (Veil May) / 1</span> наносит урон огнем</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-snow-may\">Снежная дева (Snow May) / 1</span> наносит урон холодом</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-brine-may\">Морская дева (Brine May) / 1</span> наносит дробящий урон и эффект получает признак <span class=\"t-water\">вода</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-virga-may\">Дева вирги (Virga May) / 1</span> наносит урон электричеством</p></li>\n</ul>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-changeling-invoke-the-elements",
+            "archetype": ""
+        },
+        {
+            "fullName": "Материнская забота (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2338\">Mother's Mindfulness</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Материнская забота",
+            "originalName": "Mother's Mindfulness",
+            "level": 9,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: По союзнику находящемуся рядом попадают атакой</p><p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>У вас есть защитный инстинкт, которого не хватает вашей собственной матери, и вы с радостью пострадаете вместо другого.\nВы встаете на пути атаки.\nВы становитесь целью спровоцировавшей атаки и автоматически получаете удар от нее (или критический удар, если союзнику было нанесено критическое попадание), страдая от всех эффектов вместо своего союзника.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "реакция",
+            "id": "ancestry-feat-changeling-mothers-mindfulness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия карги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1334\">Hag Magic</a>) / 13",
+            "name": "Магия карги",
+            "originalName": "Hag Magic",
+            "level": 13,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 31</p><hr class=\"docutils\"><p>Из-за своего наследия вы можете воспроизвести некоторую магию карги.\nВыберите одно обычное заклинание 4-го уровня или ниже, из тех, которые доступны для ковена, включая те заклинания, которые привносит в ковен вид карги являющийся вашей матерью.\nВы можете раз в день сотворять это заклинание, как врожденное оккультное заклинание 4-го уровня.</p><p>Заклинания доступные всем ковенам:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-clairaudience\">Яснослышание (Clairaudience) / Закл. 3</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-clairvoyance\">Ясновидение (Clairvoyance) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-d-dream-message\">Послание во сне (Dream Message) / Закл. 3</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span></p></li>\n</ul><p>Подходящие заклинания, предоставляемые наиболее выдающимися видами карг:</p><p><strong>Морская карга (Sea Hag)</strong></p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-acid-arrow\">Кислотная стрела (Acid Arrow) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-w-water-walk\">Хождение по воде (Water Walk) / Закл. 2</span></p></li>\n</ul><p><strong>Зеленая карга (Green Hag)</strong></p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-e-entangle\">Опутывание (Entangle) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-o-outcasts-curse\">Проклятие изгнанника (Outcast's Curse) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-w-wall-of-thorns\">Терновая стена (Wall of Thorns) / Закл. 3</span></p></li>\n</ul><p><strong>Карга эннис (Annis Hag)</strong></p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-e-earthbind\">Земные оковы (Earthbind) / Закл. 3</span></p></li>\n</ul><p><strong>Ночная карга (Night Hag)</strong></p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-n-nightmare\">Кошмар (Nightmare) / Закл. 4</span></p></li>\n</ul>",
+            "src": "Advanced Player's Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-changeling-hag-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Злобно расцарапать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2339\">Spiteful Rake</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Злобно расцарапать",
+            "originalName": "Spiteful Rake",
+            "level": 13,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: безоружная атака когтями</p><p><strong>Требования</strong>: У вас свободны обе руки</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>Ваши инстинкты воспевают озлобленность и зловредность, и вы научились разрушительному трюку: бить по глазам.\nВы совершаете <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> когтями.\nЕсли вы попадаете и наносите урон, то цель на 1 раунд получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span>.\nПри критическом попадании, вместо этого цель на 1 раунд получает состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>, и <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> пока не восстановит ОЗ до максимума.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-changeling-spiteful-rake",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жестокость карги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2340\">Crone's Cruelty</a>) / 17",
+            "name": "Жестокость карги",
+            "originalName": "Crone's Cruelty",
+            "level": 17,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>Переполненные затаенной злобой и ненавистью, вы раздираете умы тех, кто вам не нравится.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-w-warp-mind\">Искривление разума (Warp Mind) / Закл. 7</span> как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "",
+            "id": "ancestry-feat-changeling-crones-cruelty",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бурное сердце (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2341\">Stormy Heart</a>) / 17",
+            "name": "Бурное сердце",
+            "originalName": "Stormy Heart",
+            "level": 17,
+            "traits": [
+                "подменыш"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-invoke-the-elements\">Призыв стихий (Invoke the Elements)  / 9</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 23</p><hr class=\"docutils\"><p>Стихийная сила в вашей крови - бушующий шторм.\nВы можете применять <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-changeling-invoke-the-elements\">Призыв стихий (Invoke the Elements)  / 9</span> с частотой раз в 10 минут, вместо 1 раза в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 23",
+            "action": "",
+            "id": "ancestry-feat-changeling-stormy-heart",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стравейка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1337\">Straveika</a>) / 1",
+            "name": "Стравейка",
+            "originalName": "Straveika",
+            "level": 1,
+            "traits": [
+                "род",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы произошли от одного из поистине древних вампиров, носферату, проклятого на вечную жизнь, но не на вечную молодость.\nЛюди называют вас стравейка, или древнерожденный.\nОстатки сил вашего предка оставили вам понимание того, как намерения существа меняют его поведение.\nВы получаете бонус обстоятельства +1 к проверкам Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span> и КС Восприятия против попыток <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span> вам.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-straveika",
+            "archetype": ""
+        },
+        {
+            "fullName": "Светочер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1338\">Svetocher</a>) / 1",
+            "name": "Светочер",
+            "originalName": "Svetocher",
+            "level": 1,
+            "traits": [
+                "род",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы родились от одного из мороев, самых обычных вампиров, и разделяете их сверхъестественную стойкость и силу убеждения.\nКогда у вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span>, рассчитывайте штраф к своим спасброскам Стойкости и снижение ОЗ, как если бы значение этого состояния было на 1 меньше.\nВы обучены Дипломатии.\nЕсли вы автоматически будете обучены ей, то вместо этого становитесь обучены другому навыку на свой выбор.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-svetocher",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адъябау (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2342\">Adhyabhau</a>) / 1",
+            "name": "Адъябау",
+            "originalName": "Adhyabhau",
+            "level": 1,
+            "traits": [
+                "род",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 25</p><hr class=\"docutils\"><p>Вы произошли от редких психических вампиров, известных как веталараны.\nВаш предок питался ментальной и эмоциональной энергией живых существ, которая проявляется в вас как мощное сопротивление таким эффектам.\nВы получаете бонус обстоятельства +1 к спасброскам Воли от эффектов с признаком <span class=\"t-emotion\">эмоция</span>, и когда при броске против такого эффекта вы получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 25",
+            "action": "",
+            "id": "ancestry-feat-dhampir-adhyabhau",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сэл Ру (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2343\">Cel Rau</a>) / 1",
+            "name": "Сэл Ру",
+            "originalName": "Cel Rau",
+            "level": 1,
+            "traits": [
+                "род",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Вы сэл ру, дитя стригоя, одного из первых вампиров ступивших на Голарион.\nВаше происхождение связывает вас с Теневым планом и дает странную стойкость к свету и тьме.\nВы получаете бонус обстоятельства +1 к спасброскам от эффектов с признаками <span class=\"t-darkness\">тьма</span>, <span class=\"t-light\">свет</span> или <span class=\"t-shadow\">тень</span>, и всякий раз, когда вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> или <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span> хотя бы на 2 раунда, то вы можете снизить продолжительность на 1 раунд.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-dhampir-cel-rau",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рю-ши (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2346\">Ru-Shi</a>) / 1",
+            "name": "Рю-ши",
+            "originalName": "Ru-Shi",
+            "level": 1,
+            "traits": [
+                "род",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Вы родились от цзянши, одного из так называемых \"подпрыгивающих вампиров\", наиболее часто встречающихся в Тянь Ся.\nУ вашего родителя была сверхъестественная одержимость счетом мелких объектов, которая проявляется в вас как сверхъестественный дар лингвистики и математики.\nВы обучены Обществу и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-eye-for-numbers\">Человек дождя (Eye for Numbers)  / 1</span>.\nЕсли вы автоматически станете обучены Обществу (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-dhampir-ru-shi",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глаза ночи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1335\">Eyes of the Night</a>) / 1",
+            "name": "Глаза ночи",
+            "originalName": "Eyes of the Night",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы можете видеть в темноте так же легко, как и настоящий вампир.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-eyes-of-the-night",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1336\">Fangs</a>) / 1",
+            "name": "Клыки",
+            "originalName": "Fangs",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Ваши резцы превратились в настоящие клыки: длинные, острые и хорошо приспособленные для того, чтобы пускать кровь.\nВы получаете безоружную атаку клыками, которая наносит 1d6 колющего урона.\nВаши клыки относятся к группе \"драка\" и имеют признаки <span class=\"w-grapple\">захват</span> и <span class=\"w-unarmed\">безоружное</span>.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-fangs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания вампира (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1339\">Vampire Lore</a>) / 1",
+            "name": "Знания вампира",
+            "originalName": "Vampire Lore",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вас растил родитель-вампир или вы потратили значительное время и силы, исследуя секреты своих немертвых прародителей.\nВы становитесь обучены Религии и Обществу.\nЕсли вы автоматически будете обучены одному из этих навыков (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Вампирским знаниям.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-vampire-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Голос ночи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1340\">Voice of the Night</a>) / 1",
+            "name": "Голос ночи",
+            "originalName": "Voice of the Night",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы слышите и понимаете слова существ, с которыми разделяете тьму.\nВы можете задавать вопросы и получать ответы, и использовать Дипломатию с летучими мышами, крысами и волками.\nЕще вы получаете бонус обстоятельства +1 к <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на таких зверей.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-voice-of-the-night",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ночное очарование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2344\">Nocturnal Charm</a>) / 1",
+            "name": "Ночное очарование",
+            "originalName": "Nocturnal Charm",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Сверхъестественное очарование вашего вампирского прародителя окружает вас, и вы научились использовать его на смертных.\nВы получаете против гуманоидов (или других существ вашего вида, если вы не гуманоид) бонус обстоятельства +1 к проверкам Обмана для <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span>, и проверкам Дипломатии для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> и <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-dhampir-nocturnal-charm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Старая душа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2345\">Old Soul</a>) / 1",
+            "name": "Старая душа",
+            "originalName": "Old Soul",
+            "level": 1,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возраст 100 лет или старше</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Ваше бессмертный род дал вам жизнь намного длиннее, чем у большинства смертных, и вы многому научились на этом пути.\nВы обучаетесь 2 навыкам на свой выбор.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-dhampir-old-soul",
+            "archetype": ""
+        },
+        {
+            "fullName": "Завораживающее очарование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1341\">Enthralling Allure</a>) / 5",
+            "name": "Завораживающее очарование",
+            "originalName": "Enthralling Allure",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Силы господства, используемые вашими прародителями, проявились и в вас.\nРаз в день, вы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-c-charm\">Очаровать (Charm) / Закл. 1</span> как врожденное сакральное заклинание 1-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-enthralling-allure",
+            "archetype": ""
+        },
+        {
+            "fullName": "Некротическая физиология (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1342\">Necromantic Physiology</a>) / 5",
+            "name": "Некротическая физиология",
+            "originalName": "Necromantic Physiology",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Ваша необычная физиология развилась таким образом, что паразитам и другим вредителям трудно паразитировать на вас.\nВы получаете бонус обстоятельства +2 к спасброскам против болезней.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-necromantic-physiology",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истребитель нежити (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1343\">Undead Slayer</a>) / 5",
+            "name": "Истребитель нежити",
+            "originalName": "Undead Slayer",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Ваше знание своей не совсем живой анатомии в сочетании с вашим боевым опытом помогает вам с легкостью побеждать нежить.\nВы получаете бонус обстоятельства к урону <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> с оружием и безоружными атаками, по существам-нежити, равный количеству костей урона оружия.\nЭтот бонус увеличивается до удвоенного количества костей урона оружия, если ваша цель имеет признак <span class=\"t-vampire\">вампир</span>.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-undead-slayer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Упоение болью (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2347\">Feed on Pain</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Упоение болью",
+            "originalName": "Feed on Pain",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dhampir-adhyabhau\">Адъябау (Adhyabhau) / 1</span></p><p><strong>Триггер</strong>: Вы наносите ментальный урон</p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Психический отклик боли другого существа наполняет вас ложной жизнью.\nВы получаете временные ОЗ, равные половине ментального урона нанесенного от спровоцировавшего эффекта.\nЕсли спровоцировавшее действие наносит ментальный урон нескольким существам, то рассчитывайте эти временные ОЗ исходя из существа, получившего наибольший урон.\nВы теряете все оставшиеся временные ОЗ через 1 минуту.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "реакция",
+            "id": "ancestry-feat-dhampir-feed-on-pain",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прыгающая походка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2348\">Hopping Stride</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Прыгающая походка",
+            "originalName": "Hopping Stride",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dhampir-ru-shi\">Рю-ши (Ru-Shi) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 26</p><hr class=\"docutils\"><p>Вы усвоили скачущую походку своего вампирского предка.\n<span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместитесь (Stride)</span> на расстояние вплоть до вашей Скорости - 10 футов.\nВо время этого Перемещения, вместо обычного движения через каждое пространство, вы перепрыгиваете через каждый квадрат между начальным пространством и конечным.\nЭти прыжки не достаточно высокие, чтобы перепрыгнуть существо или другие значительные препятствия на вашем пути, но они избегают сложной местности, опасной местности, нажимных плит, или опасностей на земле, либо на высоте вплоть до 1 фута, в тех пространствах которые вы перепрыгнули.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 26",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-dhampir-hopping-stride",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вкус крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2349\">Taste Blood</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Вкус крови",
+            "originalName": "Taste Blood",
+            "level": 5,
+            "traits": [
+                "некромантия",
+                "негативный",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dhampir-cel-rau\">Сэл Ру (Cel Rau) / 1</span>,\n<span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dhampir-straveika\">Стравейка (Straveika) / 1</span>,\n<span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dhampir-svetocher\">Светочер (Svetocher) / 1</span>,\nили другой род от вампира с умением \"Пить кровь (Drink Blood)\"</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 27</p><hr class=\"docutils\"><p>Вы сохраняете не только пристрастие вашего родителя-вампира к крови, но и его способность получать от нее жизненную силу.\nВы пьете свежую кровь живого гуманоидного существа, получая временные ОЗ равные уровню цели, которые длятся 10 минут.\nЦель должна совершить успешный спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше, иначе получает состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен 1</span>.\nНезависимо от исхода этого спасброска, цель временно иммунна к вашему \"Вкусу крови\" на 1 день;\nдальнейшие применения этого умения против цели не увеличивают состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span> и не дают вам временные ОЗ.</p><p>Чтобы пить кровь существа, ваше предыдущее действие должно быть либо <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> клыками, который нанес урон цели, либо цель должна иметь состояния <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> или <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>, а ваше предыдущее действие должно быть <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> нанесший цели колющий или рубящий урон.\nЕсли цель готова, то для последнего из двух, ей не надо иметь состояние <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> или <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span>.</p><p>Истощение жизненной силы неготового гуманоидного существа является бо́льшим нарушением, чем просто пить его кровь.\n\"Вкус крови\" имеет признак <span class=\"t-evil\">зло</span>, если только цель не готова или не является активным противником в бою.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Как указано в этой способности, игровой персонаж использовавший ее на неготовой цели, не являющейся противником в бою - совершает злой поступок;\nв играх <span class=\"card-link \">Pathfinder Society (Pathfinder Society)</span>, это дает игровому персонажу 1 Очко Бесчестия (Point of Infamy).</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 27",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-dhampir-taste-blood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Компаньон-нежить (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2350\">Undead Companion</a>) / 5",
+            "name": "Компаньон-нежить",
+            "originalName": "Undead Companion",
+            "level": 5,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: зверь-компаньон или фамильяр</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 27</p><hr class=\"docutils\"><p>Вашего компаньона тоже коснулась нежизнь, и он смесь обычного компаньона и скелета, зомби или странной формы неживого.\nВаш компаньон, вместо признака <span class=\"t-animal\">животное</span>, получает признак <span class=\"t-undead\">нежить</span> и <span class=\"card-link \">негативное исцеление</span>.\nВ остальном он использует обычные правила зверя-компаньона или фамильяра;\nэто значит, что он все еще может быть подвержен большинству состояния или эффектов к которым иммунна нежить.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-dhampir-undead-companion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кровопускающие клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1344\">Bloodletting Fangs</a>) / 9",
+            "name": "Кровопускающие клыки",
+            "originalName": "Bloodletting Fangs",
+            "level": 9,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: безоружная атака клыками</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы подражаете приемам своего родителя-вампира по извлечению крови у жертвы.\nПри критическом попадании, ваши <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> клыками наносят дополнительно 1d4 продолжительного урона кровотечением.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-bloodletting-fangs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ночная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1345\">Night Magic</a>) / 9",
+            "name": "Ночная магия",
+            "originalName": "Night Magic",
+            "level": 9,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы можете использовать магию, которая течет в вашей крови.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span> (только волка, используя характеристики для собаки/волка) и <span class=\"card-link std std-ref\" data-id=\"spell-o-obscuring-mist\">Непроглядный туман (Obscuring Mist) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня.\nВы можете сотворять каждое из этих заклинаний раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-night-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скользнуть в тень (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2351\">Slip into Shadow</a>) / 9",
+            "name": "Скользнуть в тень",
+            "originalName": "Slip into Shadow",
+            "level": 9,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение сотворять хотя бы 1 заклинание с признаком <span class=\"t-darkness\">тьма</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 27</p><hr class=\"docutils\"><p>Ваша теневая магия просачивается в пространство вокруг вас.\nКаждый раз, когда вы сотворяете заклинание с признаком <span class=\"t-darkness\">тьма</span>, затяжная аура теней приглушает яркий свет в пределах 5-футовой эманации вокруг вас, до конца вашего хода делая свет тусклым.\nКак и в естественном тусклом свете, вы можете использовать эти тени, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>, но аура все еще делает ваше общее местоположение очевидным, поэтому вы не можете стать \"необнаруженным\" используя только лишь эти тени.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-dhampir-slip-into-shadow",
+            "archetype": ""
+        },
+        {
+            "fullName": "Форма летучей мыши (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1346\">Form of the Bat</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Форма летучей мыши",
+            "originalName": "Form of the Bat",
+            "level": 13,
+            "traits": [
+                "сакральный",
+                "трансмутация",
+                "полиморф",
+                "концентрация",
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы можете превращаться в безвредную летучую мышь.\nВы получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-p-pest-form\">Форма вредителя (Pest Form) / Закл. 1</span> 4-го уровня, за исключением того, что вы всегда превращаетесь в летучую мышь.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-dhampir-form-of-the-bat",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дневной странник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2352\">Daywalker</a>) / 13",
+            "name": "Дневной странник",
+            "originalName": "Daywalker",
+            "level": 13,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 27</p><hr class=\"docutils\"><p>Будь то усердное подвергание себя солнцу, преданная молитва или простая удача, но вы обрели бо́льшую тягу к жизни в солнечном свете.\nКогда вы в области прямого естественного солнечного света, ваше негативное исцеление подавляется, означая, что вы исцеляетесь позитивными исцеляющими эффектами и получаете вред от негативной энергии.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-dhampir-daywalker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Симфония крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1347\">Symphony of Blood</a>) / 17",
+            "name": "Симфония крови",
+            "originalName": "Symphony of Blood",
+            "level": 17,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 33</p><hr class=\"docutils\"><p>Вы призываете кровь своих врагов, чтобы дать вам силу.\nРаз в день, вы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-v-vampiric-exsanguination\">Вампирское обескровливание (Vampiric Exsanguination) / Закл. 6</span> как врожденное сакральное заклинание 7-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-dhampir-symphony-of-blood",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искаженное исцеление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2353\">Twist Healing</a>) / 17",
+            "name": "Искаженное исцеление",
+            "originalName": "Twist Healing",
+            "level": 17,
+            "traits": [
+                "дампир"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: умение сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-h-harm\">Нанесение ран (Harm) / Закл. 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 27</p><hr class=\"docutils\"><p>Ваша связь с жизнью и не-жизнью позволяет вам искажать исцеляющую силу магических предметов в соответствии с вашими потребностями и целями.\nВсякий раз, когда вы используете <span class=\"card-link \">Активировать предмет (Activate an Item)</span> для сотворения заклинания <span class=\"card-link std std-ref\" data-id=\"spell-h-heal\">Исцеление (Heal) / Закл. 1</span>, вы можете инвертировать его энергию, чтобы вместо этого произвести эффекты эквивалентного заклинания <span class=\"card-link std std-ref\" data-id=\"spell-h-harm\">Нанесение ран (Harm) / Закл. 1</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-dhampir-twist-healing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания сумеречного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1367\">Duskwalker Lore</a>) / 1",
+            "name": "Знания сумеречного",
+            "originalName": "Duskwalker Lore",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Вы либо нашли другого сумеречного, который научил вас секретам вашего вида, либо вам удалось исследовать свое необычное наследие.\nВы становитесь обучены Медицине и Религии.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям Могильника.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Охотник на призраков (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1368\">Ghost Hunter</a>) / 1",
+            "name": "Охотник на призраков",
+            "originalName": "Ghost Hunter",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Ваша связь с Могильником гарантирует, что ваши удары нанесут настоящий урон призрачным существам.\nВаши атаки оружием и безоружные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> по бестелесным существам становятся магическими.\nЕсли они уже магические, то вместо этого они получают эффекты руны свойства <span class=\"card-link \">Призрачное касание (Ghost Touch) / Руна 4</span>.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-ghost-hunter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Могильный взор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1369\">Gravesight</a>) / 1",
+            "name": "Могильный взор",
+            "originalName": "Gravesight",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Вы можете видеть в темноте так же легко, как психопомп.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-gravesight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Случайная смерть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2354\">Chance Death</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Случайная смерть",
+            "originalName": "Chance Death",
+            "level": 1,
+            "traits": [
+                "удача",
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы умрете в результате проваленного спасброска или проверки восстановления</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 29</p><hr class=\"docutils\"><p>Ваша предыдущая жизнь закончилась из-за явного невезения, как удар молнии или задохнулись подавившись рыбьей костью.\nВы можете перебросить спровоцировавшую проверку восстановления или спасбросок, но вы должны использовать новый результат, даже если он хуже, чем первый бросок.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 29",
+            "action": "реакция",
+            "id": "ancestry-feat-duskwalker-chance-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Преднамеренная смерть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2355\">Deliberate Death</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Преднамеренная смерть",
+            "originalName": "Deliberate Death",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> в результате атаки или умения другого существа, и это существо в вашей досягаемости ближнего боя</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 29</p><hr class=\"docutils\"><p>Однажды вы умерли, потому что кто-то, будь то убийца или чудовище, солдат или палач, решили убить тебя.\nНепосредственно перед тем, как потерять сознание, нанесите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> ближнего боя по спровоцировавшему существу.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 29",
+            "action": "реакция",
+            "id": "ancestry-feat-duskwalker-deliberate-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Добровольная смерть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2358\">Willing Death</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Добровольная смерть",
+            "originalName": "Willing Death",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник в пределах 30 футов получает урон, который снизил бы его ОЗ до 0 и дал бы ему состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Однажды вы умерли, потому что ценили чужую жизнь превыше своей собственной; точно так же вы защищаете союзника, страдая вместо него.\nСнизьте урон, который получит союзник на значение равное 1 + ваш уровень.\nВы перенаправляете этот урон себе, но к нему не применяются ваши иммунитеты, слабости, сопротивления и т.п.\nВы не подвергаетесь любым состояниям или другим эффектам от того, что нанесло союзнику урон (как яд от ядовитого укуса), ваш союзник все еще подвергается этим эффектам, даже если вы перенаправили на себя весь урон.\nЕсли перенаправленный урон предотвращает снижение ОЗ союзника до 0, то он остается в сознании и не получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "реакция",
+            "id": "ancestry-feat-duskwalker-willing-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Маска носоя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2356\">Nosoi's Mask</a>) / 1",
+            "name": "Маска носоя",
+            "originalName": "Nosoi's Mask",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Имея дела с живыми, многие психопомпы носят маски, и многие культуры считают, что если увидеть лицо психопомпа без маски, то это привлекает смерть.\nВы обучены Запугиванию и получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-intimidating-glare\">Запугивающий взгляд (Intimidating Glare) / 1</span>.\nЕсли вы уже обучены Запугиванию (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы знаете как делать маски, такие как носят психопомпы, и этот процесс занимает 1 час и наличие подходящего материала на 1 см.\nЕсли вы вместо этого заплатите 50 зм за великолепную маску психопомпа, то когда вы ее надеваете, эта маска дает вам бонус предмета +1 к Запугиванию.\nОна используется как надеваемая (маска).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-nosois-mask",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием ванфа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2357\">Vanth's Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием ванфа",
+            "originalName": "Vanth's Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Вы пытаетесь подражать боевым стилям жнецов <a class=\"reference external\" href=\"https://2e.aonprd.com/Monsters.aspx?ID=769\">ванфов</a>.\nВы обучены с посохами-бо, длинными луками, композитными длинными луками, косами и посохами.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-vanths-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жизнечувствительность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1370\">Lifesense</a>) / 5",
+            "name": "Жизнечувствительность",
+            "originalName": "Lifesense",
+            "level": 5,
+            "traits": [
+                "сакральный",
+                "прорицание",
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>У вас ограниченная способность ощущать жизненную силу, как и у ваших предков-психопомпов.\nВы получаете жизнечувствительность в качестве неточного чувства с дальностью 10 футов.\nЭто позволяет вам чувствовать жизненную силу внутри живых существ и ее противоположность, которая оживляет нежить, хотя вы не можете различить их.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-lifesense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Находящий духов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1371\">Spirit Soother</a>) / 5",
+            "name": "Находящий духов",
+            "originalName": "Spirit Soother",
+            "level": 5,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Вы настроены на мельчайшие звуки и ощущения неуспокоившихся духов.\nДаже если вы не <span class=\"card-link \">Ищете (Searching)</span>, то можете сделать проверку, чтобы найти призраков (haunts), для которых обычно требуется активный поиск.\nВам все еще надо соответствовать остальным требованиям для поиска призрака.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-spirit-soother",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защита от порчи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1372\">Ward Against Corruption</a>) / 5",
+            "name": "Защита от порчи",
+            "originalName": "Ward Against Corruption",
+            "level": 5,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Ваша душа защищена от силы нежити и чумы, а также от злых бывших психопомпов, известных как сахкилы.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов смерти, болезни, и всех эффектов от нежити и сахкилов.\nЭтот бонус увеличивается до +2 против эффектов смерти или болезни нежити или сахкилов.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-ward-against-corruption",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аргумент шоки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2359\">Shoki's Argument</a>) / 5",
+            "name": "Аргумент шоки",
+            "originalName": "Shoki's Argument",
+            "level": 5,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Вы чувствуете связь с шоки, бродячими собирателями заблудших душ, и, возможно, нашли старые тексты, написанные одним из них.\nВы обучены Дипломатии.\nЕсли вы уже обучены Дипломатии (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы можете по желанию сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-disrupt-undead\">Разрушение нежити (Disrupt Undead) / Чары 1</span> как врожденные сакральные чары.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-shokis-argument",
+            "archetype": ""
+        },
+        {
+            "fullName": "Казнь оружием ванфа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2360\">Vanth's Weapon Execution</a>) / 5",
+            "name": "Казнь оружием ванфа",
+            "originalName": "Vanth's Weapon Execution",
+            "level": 5,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-duskwalker-vanths-weapon-familiarity\">Знакомство с оружием ванфа (Vanth's Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Вы научились тонкостям того, как нести смерть.\nВсякий раз, когда вы наносите критический удар с посохом-бо, длинным луком, композитным длинным луком, косой или посохом, то вы применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-vanths-weapon-execution",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия сумеречного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1373\">Duskwalker Magic</a>) / 9",
+            "name": "Магия сумеречного",
+            "originalName": "Duskwalker Magic",
+            "level": 9,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Ваша связь с психопомпами дает вам возможность заглянуть в ближайшее будущее и защитить трупы от разрушительного воздействия нежити.\nВы можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-g-gentle-repose\">Посмертный покой (Gentle Repose) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-duskwalker-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Духовные удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1374\">Spirit Strikes</a>) / 9",
+            "name": "Духовные удары",
+            "originalName": "Spirit Strikes",
+            "level": 9,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Ваша связь с Могильником дает вам возможность нести смерть всем формам жизни и не-жизни, эксплуатируя их слабости.\nВсе ваше оружие и безоружные <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> являются магическими и наносят 1 дополнительного негативного урона живым существам и 1 дополнительного позитивного урона нежити.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-spirit-strikes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Присутствие катрины (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2361\">Catrina's Presence</a>) / 9",
+            "name": "Присутствие катрины",
+            "originalName": "Catrina's Presence",
+            "level": 9,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 30</p><hr class=\"docutils\"><p>Вы приняли успокаивающее присутствие <a class=\"reference external\" href=\"https://2e.aonprd.com/Monsters.aspx?ID=768\">катрин</a>, праздничной мертвой; вы могли бы даже сами танцевать с катриной!\nПока вы где-то на себе заметно носите свежие цветы или красочные ленты, то можете 2 раза в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span> как врожденное сакральное заклинание 2-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 30",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-catrinas-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Паучье родство морриньи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2362\">Morrigna's Spider Affinity</a>) / 9",
+            "name": "Паучье родство морриньи",
+            "originalName": "Morrigna's Spider Affinity",
+            "level": 9,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 31</p><hr class=\"docutils\"><p>Почти как <a class=\"reference external\" href=\"https://2e.aonprd.com/Monsters.aspx?ID=340\">морриньи</a>, вы чувствуете близость к паукам.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-messenger\">Зверь-посланник (Animal Messenger) / Закл. 2</span> (только пауки), <span class=\"card-link std std-ref\" data-id=\"spell-s-speak-with-animals\">Разговор с животными (Speak with Animals) / Закл. 2</span> (только пауки) и <span class=\"card-link std std-ref\" data-id=\"spell-s-spider-climb\">Паучьи лапы (Spider Climb) / Закл. 2</span> как врожденные сакральные заклинания 2-го уровня, каждое по разу в день.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-morrignas-spider-affinity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сопротивление гибели (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1375\">Resist Ruin</a>) / 13",
+            "name": "Сопротивление гибели",
+            "originalName": "Resist Ruin",
+            "level": 13,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Ваше наследие сумеречного позволяет вам расширить защиту от негативной энергии для себя или союзника в беде.\nВы получаете сопротивление 5 негативной энергии, и раз в день можете колдовать <span class=\"card-link std std-ref\" data-id=\"spell-d-death-ward\">Защита от смерти (Death Ward) / Закл. 5</span> как врожденное сакральное заклинание.</p>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-resist-ruin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шоу-стоппер калака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2363\">Calaca's Showstopper</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Шоу-стоппер калака",
+            "originalName": "Calaca's Showstopper",
+            "level": 13,
+            "traits": [
+                "сакральный",
+                "очарование",
+                "недееспособность",
+                "слуховой",
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Выступления</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 31</p><hr class=\"docutils\"><p>Вы провели много вечеров, разучивая песни и сказки о калаках, странствующих менестрелях смерти.\nВы драматически издаете ошеломляющий взрыв звука, разбивая инструмент, который вы держите, или резко издавая диссонирующую ноту.\nЭто обладает эффектами <span class=\"card-link std std-ref\" data-id=\"spell-s-synaptic-pulse\">Синаптический импульс (Synaptic Pulse) / Закл. 5</span>, но эффект скорее \"слуховой\", чем \"ментальный\".\nИспользуется либо ваш КС класса, либо КС заклинания, в зависимости от того, что больше.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 31",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-duskwalker-calacas-showstopper",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия ванфа (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2364\">Vanth's Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия ванфа",
+            "originalName": "Vanth's Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-duskwalker-vanths-weapon-familiarity\">Знакомство с оружием ванфа (Vanth's Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 31</p><hr class=\"docutils\"><p>Сами ванфы признают вас почетным жнецом.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием или оружиями, вы также получаете его для посохов-бо, длинных луков, композитных длинных луков, кос и посохов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-vanths-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов Могильника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1376\">Boneyard's Call</a>) / 17",
+            "name": "Зов Могильника",
+            "originalName": "Boneyard's Call",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "сумеречный"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 38</p><hr class=\"docutils\"><p>Вы обладаете сильной связью с Могильником и его дворами, что дает вам возможность путешествовать туда и обратно.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-p-plane-shift\">Планарный переход (Plane Shift) / Закл. 7</span> как врожденное сакральное заклинание.\nВы можете сотворять его дважды в неделю.\nОно может быть использовано только для путешествия в Могильник или из Могильника на Материальный план.\nИз-за вашей уникальной связи с Могильником, ваше тело служит фокусом и вам не нужен камертон.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-APG-r2: </span>Добавлен признак \"необычный\".</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-duskwalker-boneyards-call",
+            "archetype": ""
+        },
+        {
+            "fullName": "Указ олифроса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2365\">Olethros's Decree</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Указ олифроса",
+            "originalName": "Olethros's Decree",
+            "level": 17,
+            "traits": [
+                "сакральный",
+                "некромантия",
+                "смерть",
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 31</p><hr class=\"docutils\"><p>У вас есть связь с олифросами, загадочными психопомпами, которые успешно повлияли на ямарадж (<a class=\"reference external\" href=\"https://2e.aonprd.com/Monsters.aspx?ID=770\">yamaraj</a>), позволив создать первых сумеречных.\nВы качаете пальцем чашу весов судьбы, обматывая свой лук шелком.\nПервый раз в этот ход, когда вы попадаете по существу <span class=\"card-link std std-ref\" data-id=\"action-strike\">Выстрелом (Strike)</span> из используемого оружия группы \"лук\", модифицированного таким образом, существо получает дополнительные 60 урона (простой спасбросок Стойкости, используя ваш КС класса или КС заклинания, в зависимости от того, что больше) так как стрела пытается прервать саму их судьбу.\nЭтот дополнительный урон такого же типа, что и наносимый изначальной атакой.\nЕсли вы попадаете одновременно по более, чем 1 существу, выберите то, которое пострадает от указа.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 31",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-duskwalker-olethross-decree",
+            "archetype": ""
+        },
+        {
+            "fullName": "Величие ямараджи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2366\">Yamaraj's Grandeur</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Величие ямараджи",
+            "originalName": "Yamaraj's Grandeur",
+            "level": 17,
+            "traits": [
+                "сумеречный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 31</p><hr class=\"docutils\"><p>Вам была дана частичка силы <a class=\"reference external\" href=\"https://2e.aonprd.com/Monsters.aspx?ID=770\">ямараджи</a>, магистрата мертвых, позволившего сумеречным вообще существовать.\nВы выдыхаете порыв ледяного ветра и прожорливых насекомых.\nЭто 30-футовый конус, наносящий 14d6 рубящего урона и 4d6 продолжительного рубящего урона (простой спасбросок Рефлекса, используя ваш КС класса или КС заклинания, в зависимости от того, что больше).\nПри критическом провале, цель еще получает состояние <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота 2</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 31",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-duskwalker-yamarajs-grandeur",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чувства животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2489\">Animal Senses</a>) / 1",
+            "name": "Чувства животного",
+            "originalName": "Animal Senses",
+            "level": 1,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Вы получаете одно из следующих чувств, доступных присущему вам животному:</p><ul class=\"simple\">\n<li><p>сумеречное зрение</p></li>\n<li><p>ночное зрение</p></li>\n<li><p>нюх (неточный) 30 футов</p></li>\n</ul><p>Прежде чем получить ночное зрение от этой способности, у вас уже должно быть сумеречное зрение.\nЕсли присущее вам животное, как правило, не обладает особым чувством, вы не сможете получить его с помощью этой способности.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз, каждый раз выбирая другое чувство.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "",
+            "id": "ancestry-feat-beastkin-animal-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облик зверя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2490\">Critter Shape</a>) / 1",
+            "name": "Облик зверя",
+            "originalName": "Critter Shape",
+            "level": 1,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Вы можете раз в час использовать <span class=\"card-link \">Изменение облика (Change Shape) </span>, чтобы принять облик зверя.\nНаходясь в облике зверя вы получаете эффект <span class=\"card-link std std-ref\" data-id=\"spell-p-pest-form\">Форма вредителя (Pest Form) / Закл. 1</span> 1-го уровня, кроме того, что вы можете превращаться только в животное соответствующее присущему вам животному.\nВы можете оставаться в облике зверя вплоть до 10 минут, после чего вы превращаетесь обратно в гибридный облик и не можете снова принять свой облик зверя в течение 1 часа.\nВ любое время, во время действия \"Облика зверя\", вы можете использовать <span class=\"card-link \">Изменение облика (Change Shape) </span>, чтобы вернуться в свой облик гуманоида или гибридный облик.\nЕсли присущее вам животное обычно больше крошечного размера, то вы превращаетесь в более маленькую версию этого животного, как например медвежонка крошечного размера.\nЕсли присущее вам животное имеет Скорость полета, вы можете превратиться в это животное (в отличие от обычной <em>формы вредителя</em> 1-го уровня), но вы все равно не получаете Скорость полета.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "",
+            "id": "ancestry-feat-beastkin-critter-shape",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое превращение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2491\">Quick Change</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Быстрое превращение",
+            "originalName": "Quick Change",
+            "level": 1,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы кидаете инициативу</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Ваши инстинкты срабатывают, и вы принимаете агрессивную стойку.\nВы используете <span class=\"card-link \">Изменение облика (Change Shape) </span>, чтобы войти в свою гибридную форму или новую форму, полученную от способности зверолюда.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "свободное действие",
+            "id": "ancestry-feat-beastkin-quick-change",
+            "archetype": ""
+        },
+        {
+            "fullName": "Животное сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2492\">Animalistic Resistance</a>) / 5",
+            "name": "Животное сопротивление",
+            "originalName": "Animalistic Resistance",
+            "level": 5,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Ваши связи с животными помогают вам противостоять природным недугам.\nВы получаете бонус обстоятельства +2 к спасброскам, чтобы сопротивляться болезням и ядам.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "",
+            "id": "ancestry-feat-beastkin-animalistic-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенные чувства животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2493\">Greater Animal Senses</a>) / 5",
+            "name": "Улучшенные чувства животного",
+            "originalName": "Greater Animal Senses",
+            "level": 5,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Ваши чувства развиваются в соответствии с вашим животным аспектом.\nВы получаете одно из следующих чувств, доступных присущему вам животному:</p><ul class=\"simple\">\n<li><p>эхолокация (неточное) 30 футов</p></li>\n<li><p>виброчувствительность (неточное) 30 футов</p></li>\n</ul><p>Если присущее вам животное, как правило, не обладает особым чувством, вы не сможете получить его с помощью этой способности.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз, либо выбирая другое чувство, либо улучшая полученное от этой способности неточное чувство до точного.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "",
+            "id": "ancestry-feat-beastkin-greater-animal-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Животная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2494\">Animal Magic</a>) / 9",
+            "name": "Животная магия",
+            "originalName": "Animal Magic",
+            "level": 9,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 80</p><hr class=\"docutils\"><p>Ваши возможности оборотня дают вам магическую связь с миром животных.\nВы можете сотворять</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-animal-messenger\">Зверь-посланник (Animal Messenger) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-c-calm-emotions\">Спокойствие (Calm Emotions) / Закл. 2</span> (только на животных)</p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-s-speak-with-animals\">Разговор с животными (Speak with Animals) / Закл. 2</span></p></li>\n</ul><p>как врожденные природные заклинания 2-го уровня, каждое раз в день.\nЭти заклинания используют ваш КС класса или КС заклинания, в зависимости от того, что больше.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 80",
+            "action": "",
+            "id": "ancestry-feat-beastkin-animal-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тактика стаи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2495\">Pack Tactics</a>) / 9",
+            "name": "Тактика стаи",
+            "originalName": "Pack Tactics",
+            "level": 9,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 81</p><hr class=\"docutils\"><p>Вы научились охотиться со своей стаей.\nЕсли враг находится в пределах вашей досягаемости и, по крайней мере, 2 ваших союзников, то этот враг для вас застигнут врасплох.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 81",
+            "action": "",
+            "id": "ancestry-feat-beastkin-pack-tactics",
+            "archetype": ""
+        },
+        {
+            "fullName": "Страшная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2496\">Dire Form</a>) / 13",
+            "name": "Страшная форма",
+            "originalName": "Dire Form",
+            "level": 13,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 81</p><hr class=\"docutils\"><p>Ваш гибридный облик - неповоротливое чудище.\nНаходясь в своем гибридном облике, вы получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 81",
+            "action": "",
+            "id": "ancestry-feat-beastkin-dire-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дар луны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2497\">Gift of the Moon</a>) / 13",
+            "name": "Дар луны",
+            "originalName": "Gift of the Moon",
+            "level": 13,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 81</p><hr class=\"docutils\"><p>Вы можете поделиться своей силой с другими, но они не смогут избежать проклятия оборотня так же легко, как вы.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-m-moon-frenzy\">Лунное безумие (Moon Frenzy) / Закл. 5</span> как врожденное природное заклинание 5-го уровня.\nНа 15-м уровне, вместо этого вы сотворяете <em>лунное безумие</em> 6-го уровня.\nНа 17-м уровне, ваше <em>лунное безумие</em> 6-го уровня дает свои стандартные эффекты, но временные ОЗ увеличиваются до 15 и слабость к серебру увеличивается до 15.\nНа 20-м уровне, вместо этого вы сотворяете <em>лунное безумие</em> 10-го уровня.\nЭто заклинание использует ваш КС класса или КС заклинания, в зависимости от того, что больше.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 81",
+            "action": "",
+            "id": "ancestry-feat-beastkin-gift-of-the-moon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облик животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2498\">Animal Shape</a>) / 17",
+            "name": "Облик животного",
+            "originalName": "Animal Shape",
+            "level": 17,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 81</p><hr class=\"docutils\"><p>Вы обладаете полным контролем над своим обликом и можете превращаться в присущее вам животное.\nВы можете использовать <span class=\"card-link \">Изменение облика (Change Shape) </span>, чтобы превращаться в облик животного.\nКогда вы получаете эту способность, выберите одно из:</p><ul class=\"simple\">\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-aerial-form\">Воздушная форма (Aerial Form) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-a-animal-form\">Форма животного (Animal Form) / Закл. 2</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-d-dinosaur-form\">Форма динозавра (Dinosaur Form) / Закл. 4</span></p></li>\n<li><p><span class=\"card-link std std-ref\" data-id=\"spell-i-insect-form\">Форма насекомого (Insect Form) / Закл. 3</span></p></li>\n</ul><p>После того как вы выберете форму, ее нельзя изменить.\nНаходясь в облике животного, вы получаете эффекты выбранного вами наложенного заклинания 5-го уровня, кроме того, что вы всегда превращаетесь в соответствующее животное присущее вам и можете использовать КБ своей гуманоидной формы если он больше, чем тот, что дает животная форма.\nЕсли присущего вам животного нет среди списка животных перечисленных в форме, то ваши характеристики и умения по умолчанию - боевая форма птицы, кошачего, дейнониха или муравья, соответственно для <em>воздушной формы</em>, <em>формы животного</em>, <em>формы динозавра</em> и <em>формы насекомого</em> (на усмотрение Мастера, у вас может быть другая форма по умолчанию, которая больше подходит присущему вам животному).\nВы можете оставаться в облике животного неограниченное время и можете в любое время использовать <span class=\"card-link \">Изменение облика (Change Shape) </span>, чтобы вернуться в свой гуманоидный или гибридный облик.</p><p>Если у вас есть способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-beastkin-critter-shape\">Облик зверя (Critter Shape) / 1</span>, то вы можете на свой выбор получить эффекты <span class=\"card-link std std-ref\" data-id=\"spell-p-pest-form\">Форма вредителя (Pest Form) / Закл. 1</span> 4-го уровня, оставаться в облике зверя неограниченное время и возвращаться в свой облик зверя в любой момент после изменения формы, так же как и для \"Облика животного\".</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-LOAG-2: </span>Добавлены упущенные опции для насекомого: <em>форма насекомого</em>, муравей.</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 81",
+            "action": "",
+            "id": "ancestry-feat-beastkin-animal-shape",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрота животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2499\">Animal Swiftness</a>) / 17",
+            "name": "Быстрота животного",
+            "originalName": "Animal Swiftness",
+            "level": 17,
+            "traits": [
+                "зверолюд"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 81</p><hr class=\"docutils\"><p>Вы двигаетесь как животное.\nВаша Скорость увеличивается на 5 футов.\nДополнительно, вы получаете одну из следующих Скоростей доступных присущему вам животному: карабканья, полета или плавания.\nВы получаете эту Скорость только находясь в своем гибридном облике.\nНовый вид перемещения такой же быстрый, как и ваша стандартная Скорость;\nнапример, если вы обладаете Скоростью 30 футов, то получаете Скорость карабканья 30 футов.\nЕсли присущее вам животное обычно не обладает определенным видом Скорости, то вы не можете получить его этой способностью.\nЕсли присущее вам животное обычно не обладает Скоростью карабканья, полета или плавания, то вместо этого ваша Скорость увеличивается на 10 футов.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 81",
+            "action": "",
+            "id": "ancestry-feat-beastkin-animal-swiftness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Появившийся клонированием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3792\">Clone-Risen</a>) / 1",
+            "name": "Появившийся клонированием",
+            "originalName": "Clone-Risen",
+            "level": 1,
+            "traits": [
+                "род",
+                "отражение",
+                "концентрация"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>род</p></li>\n<li><p>отражение</p></li>\n</ul><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы были сформированы ритуалом <span class=\"card-link \">Клон (Clone) / Ритуал 9</span> или алхимическим экспериментом.\nСозданные как сосуд для другого существа, вы можете на мгновение подавлять свое сознание, делая свой разум стойким к изменению.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-reflection-empty-vessel\">Пустой сосуд (Empty Vessel) </span>.</p><section class=\"description\" id=\"empty-vessel\">\n<span id=\"action-reflection-empty-vessel\"></span><h5>Пустой сосуд (Empty Vessel) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"></h5>\n<ul class=\"simple traits\">\n<li><p>концентрация</p></li>\n</ul>\n<p><strong>Частота</strong>: раз в день</p>\n<p><strong>Триггер</strong>: Вы получите ментальный урон или будете подвержены <span class=\"t-mental\">ментальному</span> эффекту</p>\n<p><strong>Источник</strong>: Dark Archive pg. 120</p>\n<hr class=\"docutils\">\n<p>Вы получаете против спровоцировавшего эффекта бонус обстоятельства +2 к спасброскам Воли и сопротивление ментальному урону, равное вашему уровню.\nЭто применяется только к начальному эффекту, но не к последующим спасброскам, продолжительному ментальному урону или другим повторяющимся эффектам.</p>\n</section>",
+            "src": "Dark Archive pg. 120",
+            "action": "реакция",
+            "id": "ancestry-feat-reflection-clone-risen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Появившийся из зеркала (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3793\">Mirror-Risen</a>) / 1",
+            "name": "Появившийся из зеркала",
+            "originalName": "Mirror-Risen",
+            "level": 1,
+            "traits": [
+                "род",
+                "отражение",
+                "оккультный",
+                "иллюзия",
+                "визуальный",
+                "концентрация"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>род</p></li>\n<li><p>отражение</p></li>\n</ul><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы были созданы магией при помощи зеркал и все еще обладаете некоторыми возможностями, чтобы найти убежище в отражающих иллюзиях.\nВы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-reflection-mirrors-trickery\">Хитрость зеркала (Mirror's Trickery) </span>.</p><section class=\"description\" id=\"mirror-s-trickery\">\n<span id=\"action-reflection-mirrors-trickery\"></span><h5>Хитрость зеркала (Mirror's Trickery) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"></h5>\n<ul class=\"simple traits\">\n<li><p>оккультный</p></li>\n<li><p>иллюзия</p></li>\n<li><p>визуальный</p></li>\n<li><p>концентрация</p></li>\n</ul>\n<p><strong>Частота</strong>: раз в день</p>\n<p><strong>Триггер</strong>: По вам попадут <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span></p>\n<p><strong>Источник</strong>: Dark Archive pg. 120</p>\n<hr class=\"docutils\">\n<p>Вы в последний миг создаете иллюзорный дубликат и пытаетесь обхитрить своего противника, чтобы он ударил его, а не вас.\nАтакующий совершает чистую проверку КС 11; при провале, атака попадает по дубликату, изменяя результат с критического успеха на обычный успех, либо с успеха на провал.</p>\n</section>",
+            "src": "Dark Archive pg. 120",
+            "action": "реакция",
+            "id": "ancestry-feat-reflection-mirror-risen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Появившийся трансформацией (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3794\">Morph-Risen</a>) / 1",
+            "name": "Появившийся трансформацией",
+            "originalName": "Morph-Risen",
+            "level": 1,
+            "traits": [
+                "род",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Когда-то вы были оборотнем или заклинателем, использующим магию <span class=\"t-polymorph\">полиморфа</span>, но что-то пошло не так, и вы оказались в западне, в форме существа, которому подражали.\nЭтот инцидент мог истощить вашу силу, или вы сохранили некоторые из своих навыков, но в любом случае ваша форма сопротивляется дальнейшему принудительному превращению.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов <span class=\"t-transmutation\">трансмутации</span>, и если при броске спасброска против враждебного эффекта <span class=\"t-morph\">трансформации</span> или <span class=\"t-polymorph\">полиморф</span> вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "",
+            "id": "ancestry-feat-reflection-morph-risen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания прародителя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3795\">Progenitor Lore</a>) / 1",
+            "name": "Знания прародителя",
+            "originalName": "Progenitor Lore",
+            "level": 1,
+            "traits": [
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы не только унаследовали физическую форму от своего прародителя, но и сохранили некоторые из его знаний.\nВы обучены Обману и Оккультизму.\nЕсли вы автоматически становитесь обучены одному из этих навыков (например, благодаря своей предыстории или классу), то вместо этого становитесь обучены навыку по своему выбору.\nВы также становитесь обучены Знаниям, соответствующим вашей родословной (например, Эльфийские Знания, если ваш прародитель - <span class=\"card-link \">эльф</span>).</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "",
+            "id": "ancestry-feat-reflection-progenitor-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искривленное отражение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3796\">Warped Reflection</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Искривленное отражение",
+            "originalName": "Warped Reflection",
+            "level": 1,
+            "traits": [
+                "визуальный",
+                "страх",
+                "эмоция",
+                "ментальный",
+                "концентрация",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Благодаря своему происхождению, ваша форма более гибкая, чем у других.\nВы меняете свой внешний вид, чтобы походить на существо в пределах 30 футов, но с тревожным, ужасающим искажением.\nХотя это превращение мимолетно, наблюдение за ним вселяет в цель глубокий экзистенциальный ужас.\nЦель должна совершить успешный спасбросок Воли против вашего КС класса или КС заклинания, в зависимости от того, что больше, иначе становится <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 1</span> (<span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 2</span> при критическом провале) и <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманена 1</span> пока длится состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуганности</span>.\nПосле того как вы использовали против существа \"Искривленное отражение\", оно временно иммунно на 24 часа.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-reflection-warped-reflection",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ошибочная личность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3797\">Mistaken Identity</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Ошибочная личность",
+            "originalName": "Mistaken Identity",
+            "level": 5,
+            "traits": [
+                "удача",
+                "ментальный",
+                "концентрация",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Триггер</strong>: Вы готовы совершить спасбросок против <span class=\"t-mental\">ментального</span> эффекта</p><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы чувствуете сильную связь со своим прародителем и можете убедить себя, что эффект, направленный на ваш разум, предназначался для него, позволяя вам избавиться от вредных эффектов.\nСовершите бросок спасброска дважды и используйте наибольший результат.\nОднако подавление вашей личности вызывает тревогу, и вы <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуганы 1</span>.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "реакция",
+            "id": "ancestry-feat-reflection-mistaken-identity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отражающий карман (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3798\">Reflective Pocket</a>) / 5",
+            "name": "Отражающий карман",
+            "originalName": "Reflective Pocket",
+            "level": 5,
+            "traits": [
+                "межпространственный",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-reflection-mirror-risen\">Появившийся из зеркала (Mirror-Risen) / 1</span></p><p><strong>Источник</strong>: Dark Archive pg. 120</p><hr class=\"docutils\"><p>Вы сформировали связь с маленьким ручным зеркалом, что позволяет вам использовать его в качестве межпространственного хранилища.\nВы можете одновременно хранить в своем зеркале 1 предмет легкой Массы.\nДля помещение или извлечения предмета требуется применение действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, и это может сделать любое существо.\nПока предмет хранится в зеркале, оно отражает его образ.\nВы получаете бонус обстоятельства +2 к проверкам Скрытности для <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span>, если только никто не проверит отражение зеркала.</p>",
+            "src": "Dark Archive pg. 120",
+            "action": "",
+            "id": "ancestry-feat-reflection-reflective-pocket",
+            "archetype": ""
+        },
+        {
+            "fullName": "Репликация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3799\">Replicate</a>) / 5",
+            "name": "Репликация",
+            "originalName": "Replicate",
+            "level": 5,
+            "traits": [
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-reflection-clone-risen\">Появившийся клонированием (Clone-Risen) / 1</span></p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Вы научились изменять свою податливую форму.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span> как врожденное оккультное заклинание.\nЭто не эффект <span class=\"t-illusion\">иллюзии</span>, а <span class=\"t-transmutation\">трансмутация</span> и <span class=\"t-morph\">трансформация</span>, поскольку ваше тело трансформируется физически.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "",
+            "id": "ancestry-feat-reflection-replicate",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искривленное подобие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3800\">Warp Likeness</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Искривленное подобие",
+            "originalName": "Warp Likeness",
+            "level": 5,
+            "traits": [
+                "оккультный",
+                "трансмутация",
+                "трансформация",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-reflection-morph-risen\">Появившийся трансформацией (Morph-Risen) / 1</span></p><p><strong>Частота</strong>: раз в минуту</p><p><strong>Требования</strong>: Вы своим последним действием попали по существу <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> ближнего боя</p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Вы направляете через свой удар часть собственной натуры, временно искажая форму цели, чтобы она напоминала вас.\nСущество, в которое вы попали, должно совершить спасбросок Стойкости против вашего КС класса или КС заклинания, в зависимости от того, что больше.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель невредима.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель сопротивляется эффекту, но ее форма искажается в процессе. Она <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжа 1</span> до конца своего следующего хода.</div>\n<div class=\"line\"><strong>Провал</strong>: Тело цели ненадолго искривляется и напоминает ваше. Она <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжа 1</span> до конца своего следующего хода и испытывает <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноту 1</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Тело цели искривляется и напоминает ваше на значительное время. Она <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжа 1</span> на 1 минуту и испытывает <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошноту 2</span>.</div>\n</div>",
+            "src": "Dark Archive pg. 121",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-reflection-warp-likeness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зеркальное убежище (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3801\">Mirror Refuge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Зеркальное убежище",
+            "originalName": "Mirror Refuge",
+            "level": 9,
+            "traits": [
+                "оккультный",
+                "воплощение",
+                "межпространственный",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-reflection-mirror-risen\">Появившийся из зеркала (Mirror-Risen) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Требования</strong>: Вы в 5 футах от зеркальной поверхности</p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Ваше происхождение из пространства за зеркалами позволяет вам использовать зеркало в качестве убежища, подобно заклинанию <span class=\"card-link std std-ref\" data-id=\"spell-m-meld-into-stone\">Слияние с камнем (Meld into Stone) / Закл. 3</span>.\nВы сливаетесь с находящимся рядом зеркалом.\nВы можете слышать, но не видеть за пределами этого пространства, а существа снаружи не могут видеть или слышать вас.\nНаходясь в зеркале, вы можете творить заклинания, но никакие эффекты не могут пересечь зеркало.\nВаше \"Зеркальное убежище\" длится 10 минут, если только зеркало не разбито, что выбрасывает вас наружу и наносит вам 10d6 урона.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-dismiss\">Развеять (Dismiss) </span> этот эффект.\nПо окончании эффекта вы появляетесь в пространстве рядом с зеркалом.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-reflection-mirror-refuge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Две правды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3802\">Two Truths</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Две правды",
+            "originalName": "Two Truths",
+            "level": 9,
+            "traits": [
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Обмана</p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Ваше умение подражать своему прародителю настолько сильно, что вы можете убедить даже самого себя.\nПри использовании этого действия, вы изменяете свои мыслительные процессы на прародительские или обратно на свои.\nПока то, что вы говорите, является правдой с точки зрения вашей нынешней личности, вы можете говорить это даже под воздействием таких эффектов, как <span class=\"card-link std std-ref\" data-id=\"spell-z-zone-of-truth\">Зона истины (Zone of Truth) / Закл. 3</span>, которые заставляют вас говорить искренне.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-reflection-two-truths",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непоколебимая маскировка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3803\">Unyielding Disguise</a>) / 9",
+            "name": "Непоколебимая маскировка",
+            "originalName": "Unyielding Disguise",
+            "level": 9,
+            "traits": [
+                "трансмутация",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возможность сотворять <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span> или <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span></p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Когда вы сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-h-humanoid-form\">Форма гуманоида (Humanoid Form) / Закл. 2</span> или <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span>, чтобы изменить свою внешность, длительность этого заклинания равняется 2 часам.\nПо окончании этой продолжительности вы можете продлить его еще на 1 час, но это требует больших усилий, что делает вас <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощенным 1</span>.\nВы можете продолжать продлевать заклинание таким образом до максимальной продолжительности равной 6 часам, каждый раз увеличивая состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощения</span> на 1.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "",
+            "id": "ancestry-feat-reflection-unyielding-disguise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Податливая форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3804\">Malleable Form</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Податливая форма",
+            "originalName": "Malleable Form",
+            "level": 13,
+            "traits": [
+                "трансмутация",
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возможность сотворять хотя бы 1 заклинание <span class=\"t-polymorph\">полиморфа</span></p><p><strong>Требования</strong>: Вы <span class=\"t-polymorph\">полиморфнуты</span> заклинанием с выбором из нескольких боевых форм</p><p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Вы ловко меняете свою форму, принимая другой внешний вид.\nВыберите другую боевую форму из действующего на вас заклинания <span class=\"t-polymorph\">полиморфа</span> и изменитесь в нее, вместо текущей.\nЭто дестабилизирует магию заклинания, уменьшая его продолжительность на 1 раунд.\nДля определения показателей используйте уровень заклинания, как обычно.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-reflection-malleable-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отвести внимание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3805\">Redirect Attention</a>) / 13",
+            "name": "Отвести внимание",
+            "originalName": "Redirect Attention",
+            "level": 13,
+            "traits": [
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Благодаря своей сильной связи с прародителем вы можете отводить тех, кто пытается за вами шпионить.\nВсякий раз, когда вы становитесь непосредственной целью эффекта <span class=\"t-scrying\">видения</span>, этот эффект должен совершить проверку <span class=\"card-link \">противодействия</span> против вашего КС заклинаний или КС класса, в зависимости от того, что больше.\nЕсли проверка проваливается, эффект выбирает целью не вас, а вашего прародителя.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "",
+            "id": "ancestry-feat-reflection-redirect-attention",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отразить врага (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3806\">Reflect Foe</a>) / 17",
+            "name": "Отразить врага",
+            "originalName": "Reflect Foe",
+            "level": 17,
+            "traits": [
+                "отражение"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 121</p><hr class=\"docutils\"><p>Вы создаете копию противника, вызывая ее из ближайшего отражения, в одно мгновение клонируя его из одного из своих волос или иным образом создавая его так, чтобы он соответствовал вашей собственной природе отражения.\nВы можете раз в день творить <span class=\"card-link std std-ref\" data-id=\"spell-d-duplicate-foe\">Копия врага (Duplicate Foe) / Закл. 7</span> как врожденное оккультное заклинание.\nНа 20-м уровне оно усиливается до 8-го уровня.</p>",
+            "src": "Dark Archive pg. 121",
+            "action": "",
+            "id": "ancestry-feat-reflection-reflect-foe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глаза элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2545\">Elemental Eyes</a>) / 1",
+            "name": "Глаза элементаля",
+            "originalName": "Elemental Eyes",
+            "level": 1,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: сумеречное зрение</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Вы можете видеть во тьме так же легко, как и элементаль.\nВы получаете ночное зрение.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность только на 1-м уровне и не можете переизучить ее на другую или другую способность на эту.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-elemental-eyes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания элементаля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2546\">Elemental Lore</a>) / 1",
+            "name": "Знания элементаля",
+            "originalName": "Elemental Lore",
+            "level": 1,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Вы посвятили себя исследованию тайн Внутренней Сферы.\nВы становитесь обучены Выживанию и на ваш выбор, либо Аркане, либо Природе.\nЕсли вы автоматически станете обучены Выживанию (например, из-за предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям относящимся к Стихийному плану вашего происхождения (например Знания Огненного плана).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-elemental-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием гениев (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2547\">Genie Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием гениев",
+            "originalName": "Genie Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Вы обучены владению с оружием использовавшимся вашими предками гениями.\nВы обучены обращению с фальшионами, рунками, скимитарами и трезубцами.\nВ дополнение, вы получаете доступ ко всему необычному оружию джинникинов.\nС целью определения вашего уровня мастерства, воинское оружие джинникинов является простым оружием, а продвинутое оружие джинникинов является воинским.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эффективность с оружием гениев (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2548\">Genie Weapon Flourish</a>) / 5",
+            "name": "Эффективность с оружием гениев",
+            "originalName": "Genie Weapon Flourish",
+            "level": 5,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-geniekin-weapon-familiarity\">Знакомство с оружием гениев (Genie Weapon Familiarity) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Когда вы совершаете критическое попадание используя фальшион, рунку, скимитар, трезубец или оружие джинникинов, то применяете эффект критической специализации оружия.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-weapon-flourish",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловкий хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2549\">Skillful Tail (Geniekin)</a>) / 5",
+            "name": "Ловкий хвост",
+            "originalName": "Skillful Tail",
+            "level": 5,
+            "traits": [
+                "ифрит",
+                "ореад",
+                "сули",
+                "сильф",
+                "ундина"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 99</p><hr class=\"docutils\"><p>Вы родились с хвостом и попрактиковавшись, научились совершать простые действия, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> хвостом, как например открывать незапертую дверь.\nВаш хвост не может выполнять действия, для которых нужны пальцы или значительная ловкость рук, включая любые действия, которые для выполнения потребуют совершить проверку, и вы не можете использовать его, чтобы держать предметы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 99",
+            "action": "",
+            "id": "ancestry-feat-geniekin-skillful-tail",
+            "archetype": ""
+        }
+    ]
+}

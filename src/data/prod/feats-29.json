@@ -1,0 +1,1536 @@
+{
+    "feats": [
+        {
+            "fullName": "Посвящение плута (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=727\">Rogue Dedication</a>) / 2",
+            "name": "Посвящение плута",
+            "originalName": "Rogue Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Ловкость 14</p><hr class=\"docutils\"><p>Вы получаете способность навыка и особенность класса плута <span class=\"card-link \">Неожиданная атака (Surprise Attack)</span>.\nВы становитесь обучены легким доспехам.\nВы дополнительно становитесь обучены Скрытности или Воровству, плюс 1 навыку на свой выбор; если вы уже обучены Скрытности и Воровству, то можете стать обучены другому навыку на свой выбор.\nВы становитесь обучены КС класса плута.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа плута.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-dedication",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Основная уловка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=728\">Basic Trickery</a>) / 4",
+            "name": "Основная уловка",
+            "originalName": "Basic Trickery",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-dedication\">Посвящение плута (Rogue Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность плута 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-basic-trickery",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Бьющий исподтишка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=729\">Sneak Attacker</a>) / 4",
+            "name": "Бьющий исподтишка",
+            "originalName": "Sneak Attacker",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-dedication\">Посвящение плута (Rogue Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете особенность класса <span class=\"card-link \">Внезапная атака (Sneak Attack)</span>, за исключением того, что она наносит 1d4 урона, увеличиваясь до 1d6 на 6-м уровне.\nВы не увеличиваете количество костей по мере увеличения уровней.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-sneak-attacker",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Продвинутая уловка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=730\">Advanced Trickery</a>) / 6",
+            "name": "Продвинутая уловка",
+            "originalName": "Advanced Trickery",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-basic-trickery\">Основная уловка (Basic Trickery) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность плута.\nС целью соответствия ее предварительным условиям, ваш уровень плута равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность плута.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-advanced-trickery",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Мастерство навыка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=731\">Skill Mastery (Rogue)</a>) / 8",
+            "name": "Мастерство навыка",
+            "originalName": "Skill Mastery",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучены хотя бы одному навыку и эксперт хотя бы одного навыка, <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-dedication\">Посвящение плута (Rogue Dedication) / 2</span></p><hr class=\"docutils\"><p>Увеличьте свой уровень мастерства одного из навыков с эксперта до мастера, а другого навыка с обученного до эксперта.\nВы получаете способность навыка, связанную с одним из этих выбранных навыков.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность вплоть до 5 раз.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-skill-mastery",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Невероятное уклонение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=732\">Uncanny Dodge</a>) / 10",
+            "name": "Невероятное уклонение",
+            "originalName": "Uncanny Dodge",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-dedication\">Посвящение плута (Rogue Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете особенность класса <span class=\"card-link \">Лишить преимущества (Deny Advantage) / 3-й</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-uncanny-dodge",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Увертливость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=733\">Evasiveness (Rogue)</a>) / 12",
+            "name": "Увертливость",
+            "originalName": "Evasiveness",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт спасбросков Рефлекса, <span class=\"card-link std std-ref\" data-id=\"arch-feat-rogue-dedication\">Посвящение плута (Rogue Dedication) / 2</span></p><hr class=\"docutils\"><p>Ваш уровень мастерства спасбросков Рефлекса увеличивается до мастера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-rogue-evasiveness",
+            "archetype": "Мультикласс Плут (Rogue )"
+        },
+        {
+            "fullName": "Посвящение сорвиголовы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1859\">Swashbuckler Dedication</a>) / 2",
+            "name": "Посвящение сорвиголовы",
+            "originalName": "Swashbuckler Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14, Ловкость 14</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Выберите <span class=\"card-link \">Стиль сорвиголовы (Swashbuckler's Style)</span>.\nВы получаете особенность класса <span class=\"card-link \">Кураж (Panache)</span>, и можете получать кураж всеми способами, что и сорвиголова вашего стиля.\nВы становитесь обучены Акробатике или навыку связанному с вашим стилем.\nЕсли вы уже были обучены обоим навыкам, то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены КС класса сорвиголовы.\nВы не получаете никакие другие эффекты от выбранного вами стиля.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа сорвиголовы.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-dedication",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Основной талант (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1860\">Basic Flair</a>) / 4",
+            "name": "Основной талант",
+            "originalName": "Basic Flair",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-dedication\">Посвящение сорвиголовы (Swashbuckler Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Вы получаете способность сорвиголовы 1-го или 2-го уровня.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-basic-flair",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Завершающая точность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1861\">Finishing Precision</a>) / 4",
+            "name": "Завершающая точность",
+            "originalName": "Finishing Precision",
+            "level": 4,
+            "traits": [
+                "архетип",
+                "финишер",
+                "сорвиголова"
+            ],
+            "rarity": "Обычный",
+            "desc": "<ul class=\"simple\">\n<li><p>архетип</p></li>\n</ul><p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-dedication\">Посвящение сорвиголовы (Swashbuckler Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Вы научились наносить смелые удары, когда у вас есть кураж.\nВы получаете особенность класса <span class=\"card-link \">Точный удар (Precise Strike)</span>, но вы наносите 1 дополнительный урон при попадании, и 1d6 урона при финишере.\nЭтот урон не увеличивается по мере повышения уровней.\nВ дополнение, вы получаете действие \"Простой финишер (Basic Finisher)\" <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\">.</p><section class=\"description\" id=\"basic-finisher-1\">\n<h4>Простой финишер (Basic Finisher) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"></h4>\n<ul class=\"simple traits\">\n<li><p>финишер</p></li>\n<li><p>сорвиголова</p></li>\n</ul>\n<p>Вы выполняете грациозную, смертельную атаку.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>; если вы попадаете и ваше оружие подходит для точного удара, то вы наносите полные 1d6 урона от точного удара.</p>\n</section>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "одиночное действие",
+            "id": "arch-feat-swashbuckler-finishing-precision",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Продвинутый талант (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1862\">Advanced Flair</a>) / 6",
+            "name": "Продвинутый талант",
+            "originalName": "Advanced Flair",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-basic-flair\">Основной талант (Basic Flair) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Вы получаете 1 способность сорвиголовы.\nС целью соответствия ее предварительным условиям, ваш уровень сорвиголовы равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность сорвиголовы.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-advanced-flair",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Контратака сорвиголовы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1863\">Swashbuckler's Riposte</a>) / 6",
+            "name": "Контратака сорвиголовы",
+            "originalName": "Swashbuckler's Riposte",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-dedication\">Посвящение сорвиголовы (Swashbuckler Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Вы научились контратаковать на непродуманные атаки.\nВы получаете реакцию <span class=\"card-link \">Своевременная контратака (Opportune Riposte) / 3-й</span>.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-riposte",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Скорость сорвиголовы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1864\">Swashbuckler's Speed</a>) / 8",
+            "name": "Скорость сорвиголовы",
+            "originalName": "Swashbuckler's Speed",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-dedication\">Посвящение сорвиголовы (Swashbuckler Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Вы двигаетесь быстрее с куражом или без него.\nУвеличьте бонус состояния к вашим Скоростям когда у вас есть кураж до +10 футов; еще вы получаете бонус состояния +5 футов к вашим Скоростям когда у вас нет куража.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-speed",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Увертливость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1865\">Evasiveness (Swashbuckler)</a>) / 12",
+            "name": "Увертливость",
+            "originalName": "Evasiveness",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт спасбросков Рефлекса, <span class=\"card-link std std-ref\" data-id=\"arch-feat-swashbuckler-dedication\">Посвящение сорвиголовы (Swashbuckler Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 153</p><hr class=\"docutils\"><p>Ваш уровень мастерства спасбросков Рефлекса увеличивается до мастера.</p>",
+            "src": "Advanced Player's Guide pg. 153",
+            "action": "",
+            "id": "arch-feat-swashbuckler-evasiveness",
+            "archetype": "Мультикласс Сорвиголова (Swashbuckler )"
+        },
+        {
+            "fullName": "Посвящение стрелка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3215\">Gunslinger Dedication</a>) / 2",
+            "name": "Посвящение стрелка",
+            "originalName": "Gunslinger Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "посвящение",
+                "мультикласс",
+                "архетип"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Ловкость 14</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы становитесь обучены простым и воинским арбалетам, и простому и воинскому огнестрельному оружию.\nВы становитесь обучены КС класса стрелка.</p><p>Выберите <span class=\"card-link \">путь</span> стрелка.\nВы обучаетесь навыку относящемуся к своему пути; если вы уже были обучены этому навыку, то обучаетесь навыку на свой выбор.\nВы не получаете никаких других умений от своего выбора пути.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа стрелка.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-dedication",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Основы стрельбы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3216\">Basic Shooting</a>) / 4",
+            "name": "Основы стрельбы",
+            "originalName": "Basic Shooting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы получаете способность стрелка 1-го или 2-го уровня.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-basic-shooting",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Продвинутая стрельба (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3217\">Advanced Shooting</a>) / 6",
+            "name": "Продвинутая стрельба",
+            "originalName": "Advanced Shooting",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-basic-shooting\">Основы стрельбы (Basic Shooting) / 4</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы получаете 1 способность стрелка.\nС целью соответствия ее предварительным условиям, ваш уровень стрелка равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность стрелка.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-advanced-shooting",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Готовность стрелка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3218\">Slinger's Readiness</a>) / 6",
+            "name": "Готовность стрелка",
+            "originalName": "Slinger's Readiness",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы научились трюкам стрелка, чтобы отстаивать в бою свою территорию.\nВы получаете начальное действие для пути выбранного вместе с <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span>.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-slingers-readiness",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Умелая перезарядка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3219\">Practiced Reloads</a>) / 10",
+            "name": "Умелая перезарядка",
+            "originalName": "Practiced Reloads",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы овладели приемами и методами перезарядки, которые обычно практикуют только самые преданные профессионалы огнестрельного оружия.\nВы получаете перезарядку стрелка для пути выбранного вместе с <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span>.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-practiced-reloads",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Орлиный глаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3220\">Eagle Eye</a>) / 12",
+            "name": "Орлиный глаз",
+            "originalName": "Eagle Eye",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Восприятия, <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Ваша практика с арбалетами и огнестрельным оружием заострила ваше внимание к деталям.\nВы становитесь мастером Восприятия.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-eagle-eye",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Эксперт огнестрельного оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3221\">Firearm Expert</a>) / 12",
+            "name": "Эксперт огнестрельного оружия",
+            "originalName": "Firearm Expert",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт с любой разновидностью оружия или безоружной атаки, <span class=\"card-link std std-ref\" data-id=\"arch-feat-gunslinger-dedication\">Посвящение стрелка (Gunslinger Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 127</p><hr class=\"docutils\"><p>Вы становитесь экспертом со своим избранным оружием.\nВаши уровни мастерства с простыми и воинским арбалетам, и простым и воинским огнестрельным оружием увеличиваются до эксперта.</p>",
+            "src": "Guns & Gears pg. 127",
+            "action": "",
+            "id": "arch-feat-gunslinger-firearm-expert",
+            "archetype": "Мультикласс Стрелок (Gunslinger )"
+        },
+        {
+            "fullName": "Посвящение алхимика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=665\">Alchemist Dedication</a>) / 2",
+            "name": "Посвящение алхимика",
+            "originalName": "Alchemist Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 14</p><hr class=\"docutils\"><p>Вы применяете свой интерес к алхимии на практике.\nВы становитесь обучены Ремеслу и обращению с алхимическими бомбами; если вы уже были обучены Ремеслу, то становитесь обучены навыку на свой выбор.\nВы становитесь обучены КС класса алхимика.</p><p>Вы получаете классовую особенность <span class=\"card-link \">Насыщенные реагенты (Infused Reagents)</span>, каждый день получая количество реагентов, равное вашему уровню.\nЕще вы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span>, и 4 дополнительные формулы для алх.предметов 1-го уровня, а также умение создавать бесплатные предметы во время своих дневных приготовлений.\nВаш уровень <span class=\"card-link \">Продвинутая алхимия (Advanced Alchemy)</span> равен 1 и не увеличивается сам по себе.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа алхимика.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-dedication",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Простая смесь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=666\">Basic Concoction</a>) / 4",
+            "name": "Простая смесь",
+            "originalName": "Basic Concoction",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-alchemist-dedication\">Посвящение алхимика (Alchemist Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность алхимика 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-basic-concoction",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Быстрая алхимия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=667\">Quick Alchemy</a>) / 4",
+            "name": "Быстрая алхимия",
+            "originalName": "Quick Alchemy",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-alchemist-dedication\">Посвящение алхимика (Alchemist Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете действие <span class=\"card-link \">Быстрая алхимия (Quick Alchemy)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-quick-alchemy",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Продвинутая смесь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=668\">Advanced Concoction</a>) / 6",
+            "name": "Продвинутая смесь",
+            "originalName": "Advanced Concoction",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-alchemist-basic-concoction\">Простая смесь (Basic Concoction) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность алхимика.\nС целью соответствия предварительным условиям, ваш уровень алхимика равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность алхимика.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-advanced-concoction",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Экспертная алхимия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=669\">Expert Alchemy</a>) / 6",
+            "name": "Экспертная алхимия",
+            "originalName": "Expert Alchemy",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла, <span class=\"card-link std std-ref\" data-id=\"arch-feat-alchemist-dedication\">Посвящение алхимика (Alchemist Dedication) / 2</span></p><hr class=\"docutils\"><p>Ваш уровень продвинутой алхимии увеличивается до 3-го.\nНа 10-м уровне он увеличивается до 5-го.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-expert-alchemy",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Мастерская алхимия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=670\">Master Alchemy</a>) / 12",
+            "name": "Мастерская алхимия",
+            "originalName": "Master Alchemy",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла, <span class=\"card-link std std-ref\" data-id=\"arch-feat-alchemist-expert-alchemy\">Экспертная алхимия (Expert Alchemy) / 6</span></p><hr class=\"docutils\"><p>Ваш уровень продвинутой алхимии увеличивается до 7-го.\nЗа каждый уровень, который вы получаете после 12-го, ваш уровень продвинутой алхимии увеличивается на 1.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-alchemist-master-alchemy",
+            "archetype": "Мультикласс Алхимик (Alchemist )"
+        },
+        {
+            "fullName": "Посвящение сыщика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1844\">Investigator Dedication</a>) / 2",
+            "name": "Посвящение сыщика",
+            "originalName": "Investigator Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 14</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Вы получаете особенность класса <span class=\"card-link \">Заниматься расследованием (On the Case)</span>, которая дает активность <span class=\"card-link std std-ref\" data-id=\"action-investigator-pursue-a-lead\">Расследовать дело (Pursue a Lead)</span> и реакцию <span class=\"card-link std std-ref\" data-id=\"action-investigator-clue-in\">Подсказать (Clue In) </span>.\nВы становитесь обучены Обществу и другому навыку на свой выбор.\nЕсли вы уже были обучены Обществу, то вместо этого становитесь обучены дополнительному навыку на свой выбор.\nЕще вы становитесь обучены КС класса сыщика.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа сыщика.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-dedication",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Основная дедукция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1845\">Basic Deduction</a>) / 4",
+            "name": "Основная дедукция",
+            "originalName": "Basic Deduction",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-dedication\">Посвящение сыщика (Investigator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Вы получаете способность сыщика 1-го или 2-го уровня на свой выбор.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-basic-deduction",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Стратагема сыщика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1846\">Investigator's Stratagem</a>) / 4",
+            "name": "Стратагема сыщика",
+            "originalName": "Investigator's Stratagem",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-dedication\">Посвящение сыщика (Investigator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Вы разыграте битвы в своей голове, что позволяет вам наносить удар в подходящее время.\nВы получаете действие <span class=\"card-link \">Придумать стратагему (Devise a Stratagem)</span>; однако, когда вы подменяете результат броска атаки, то не можете использовать модификатор Интеллекта вместо модификатора Силы или Ловкости.\nЕще вы не можете использовать свой модификатор Интеллекта для других бросков от умений расширяющих \"Придумать стратагему\", как например <span class=\"card-link std std-ref\" data-id=\"class-feat-investigator-athletic-strategist\">Атлетичный стратег (Athletic Strategist) / 2</span>.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-stratagem",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Улучшенная дедукция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1847\">Advanced Deduction</a>) / 6",
+            "name": "Улучшенная дедукция",
+            "originalName": "Advanced Deduction",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-basic-deduction\">Основная дедукция (Basic Deduction) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Вы получаете 1 способность сыщика.\nС целью соответствия ее предварительным условиям, ваш уровень сыщика равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность сыщика.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-advanced-deduction",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Острое воспоминание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1848\">Keen Recollection</a>) / 6",
+            "name": "Острое воспоминание",
+            "originalName": "Keen Recollection",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-dedication\">Посвящение сыщика (Investigator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Вы можете вспомнить много всякой информации.\nВы получаете особенность класса <span class=\"card-link \">Острое воспоминание (Keen Recollection) / 3-й</span>.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-keen-recollection",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Мастерство навыка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1849\">Skill Mastery (Investigator)</a>) / 8",
+            "name": "Мастерство навыка",
+            "originalName": "Skill Mastery",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучены хотя бы одному навыку и эксперт хотя бы одного навыка, <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-dedication\">Посвящение сыщика (Investigator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Увеличьте свой уровень мастерства одного из навыков с эксперта до мастера, а другого навыка с обученного до эксперта.\nВы получаете способность навыка, связанную с одним из этих выбранных навыков.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность вплоть до 5 раз.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-skill-mastery",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Мастер наблюдения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1850\">Master Spotter (Investigator)</a>) / 12",
+            "name": "Мастер наблюдения",
+            "originalName": "Master Spotter",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Восприятия, <span class=\"card-link std std-ref\" data-id=\"arch-feat-investigator-dedication\">Посвящение сыщика (Investigator Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 151</p><hr class=\"docutils\"><p>Ваш уровень мастерства Восприятия увеличивается до мастера.</p>",
+            "src": "Advanced Player's Guide pg. 151",
+            "action": "",
+            "id": "arch-feat-investigator-master-spotter",
+            "archetype": "Мультикласс Сыщик (Investigator )"
+        },
+        {
+            "fullName": "Посвящение изобретателя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3112\">Inventor Dedication</a>) / 2",
+            "name": "Посвящение изобретателя",
+            "originalName": "Inventor Dedication",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "посвящение",
+                "мультикласс",
+                "архетип"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 14</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Вы становитесь обучены Ремеслу и КС класса изобретателя.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-inventor\">Изобретатель (Inventor) / 7</span> даже, если не соответствуете его предварительным условиям.\nВыберите инновацию.\nВы получаете эту инновацию, но не получаете других умений, которые модифицируют ее или применяют, как модификации или <span class=\"card-link std std-ref\" data-id=\"action-inventor-explode\">Взорвать (Explode) </span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа изобретателя.</p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-dedication",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Основное открытие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3113\">Basic Breakthrough</a>) / 4",
+            "name": "Основное открытие",
+            "originalName": "Basic Breakthrough",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-inventor-dedication\">Посвящение изобретателя (Inventor Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Вы получаете способность изобретателя 1-го или 2-го уровня.</p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-basic-breakthrough",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Блестящий ремесленник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3114\">Brilliant Crafter</a>) / 4",
+            "name": "Блестящий ремесленник",
+            "originalName": "Brilliant Crafter",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-inventor-dedication\">Посвящение изобретателя (Inventor Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Ваш ремесленный навык не имеет себе равных.\nВы становитесь экспертом Ремесла.\nНа 7-м уровне вы становитесь мастером Ремесла, а на 15-м уровне легендой Ремесла и вы становитесь экспертом КС класса изобретателя.</p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-brilliant-crafter",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Продвинутое открытие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3115\">Advanced Breakthrough</a>) / 6",
+            "name": "Продвинутое открытие",
+            "originalName": "Advanced Breakthrough",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-inventor-basic-breakthrough\">Основное открытие (Basic Breakthrough) / 4</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Вы получаете 1 способность изобретателя.\nС целью соответствия предварительным условиям, ваш уровень изобретателя равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность изобретателя.</p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-advanced-breakthrough",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Взрыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3116\">Explosion</a>) / 6",
+            "name": "Взрыв",
+            "originalName": "Explosion",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-inventor-dedication\">Посвящение изобретателя (Inventor Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Ваша инновация может взорваться по команде.\nВы получаете действие <span class=\"card-link std std-ref\" data-id=\"action-inventor-explode\">Взорвать (Explode) </span></p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-explosion",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Основная модификация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3117\">Basic Modification</a>) / 8",
+            "name": "Основная модификация",
+            "originalName": "Basic Modification",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-inventor-dedication\">Посвящение изобретателя (Inventor Dedication) / 2</span></p><p><strong>Источник</strong>: Guns &amp; Gears pg. 49</p><hr class=\"docutils\"><p>Вы научились модифицировать свою инновацию, чтобы расширить ее возможности сверх того, на что способно обычное снаряжение.\nВы получаете для своего новшества <span class=\"card-link \">базовую модификацию</span> на свой выбор.\nКак и обычно, ваша инновация должна соответствовать всем требованиям выбранной вами модификации.</p>",
+            "src": "Guns & Gears pg. 49",
+            "action": "",
+            "id": "arch-feat-inventor-basic-modification",
+            "archetype": "Мультикласс Изобретатель (Inventor )"
+        },
+        {
+            "fullName": "Посвящение тауматурга (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3743\">Thaumaturge Dedication</a>) / 2",
+            "name": "Посвящение тауматурга",
+            "originalName": "Thaumaturge Dedication",
+            "level": 2,
+            "traits": [
+                "посвящение",
+                "мультикласс",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14</p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Вы познали основы тауматургии.\nВы становитесь обучены КС класса тауматурга.\nВыберите <span class=\"card-link \">орудие</span>; вы можете использовать его для <span class=\"card-link std std-ref\" data-id=\"action-thaumaturge-glimpse-vulnerability\">Проблеска уязвимости (Glimpse Vulnerability)</span>, но не получаете его преимуществ.\nВы также получаете несколько эзотерических вещиц, позволяющих вам использовать <span class=\"t-esoterica\">эзотерические</span> действия.\nВы на свой выбор становитесь обучены Аркане, Оккультизму, Религии или Природе; если вы уже были обучены им, то становитесь обучены другому навыку на свой выбор.\nВы получаете действие <span class=\"card-link std std-ref\" data-id=\"action-thaumaturge-glimpse-vulnerability\">Проблеск уязвимости (Glimpse Vulnerability) </span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа тауматурга.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-dedication",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Основа тауматургии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3744\">Basic Thaumaturgy</a>) / 4",
+            "name": "Основа тауматургии",
+            "originalName": "Basic Thaumaturgy",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-thaumaturge-dedication\">Посвящение тауматурга (Thaumaturge Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Вы получаете способность <span class=\"t-thaumaturge\">тауматурга</span> 1-го или 2-го уровня.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-basic-thaumaturgy",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Продвинутая тауматургия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3745\">Advanced Thaumaturgy</a>) / 6",
+            "name": "Продвинутая тауматургия",
+            "originalName": "Advanced Thaumaturgy",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-thaumaturge-basic-thaumaturgy\">Основа тауматургии (Basic Thaumaturgy) / 4</span></p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Вы получаете 1 способность <span class=\"t-thaumaturge\">тауматурга</span>.\nС целью соответствия предварительным условиям, ваш уровень тауматурга равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более 1 раза.\nКаждый раз, выбирая ее, вы получаете другую способность тауматурга.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-advanced-thaumaturgy",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Посвящение орудия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3746\">Implement Initiate</a>) / 6",
+            "name": "Посвящение орудия",
+            "originalName": "Implement Initiate",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-thaumaturge-dedication\">Посвящение тауматурга (Thaumaturge Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Вы получаете для своего орудия преимущества посвященного.\nЕсли это преимущество влияет на цель <span class=\"card-link std std-ref\" data-id=\"action-thaumaturge-exploit-vulnerability\">Эксплуатации уязвимости (Exploiting Vulnerability)</span>, то для вас, вместо этого оно влияет на цель <span class=\"card-link std std-ref\" data-id=\"action-thaumaturge-glimpse-vulnerability\">Проблеска уязвимости (Glimpse Vulnerability)</span>.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-implement-initiate",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Знание магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3747\">Magical Knowledge</a>) / 8",
+            "name": "Знание магии",
+            "originalName": "Magical Knowledge",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Аркане, Оккультизму, Религии или Природе и эксперт в другом из этих навыков, <span class=\"card-link std std-ref\" data-id=\"arch-feat-thaumaturge-dedication\">Посвящение тауматурга (Thaumaturge Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Увеличьте свой уровень мастерства Арканы, Оккультизма, Религии или Природы с эксперта до мастера, а другой - с обученного до эксперта.\nВы получаете способность навыка, связанную с выбранным вами навыком.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-magical-knowledge",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Решительный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3748\">Resolute</a>) / 12",
+            "name": "Решительный",
+            "originalName": "Resolute",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Воли, <span class=\"card-link std std-ref\" data-id=\"arch-feat-thaumaturge-dedication\">Посвящение тауматурга (Thaumaturge Dedication) / 2</span></p><p><strong>Источник</strong>: Dark Archive pg. 49</p><hr class=\"docutils\"><p>Вы закалили свой разум и стали решительно бороться с эффектами, которые действуют на вашу силу воли.\nВаш уровень мастерства спасбросков Воли увеличивается до мастера.</p>",
+            "src": "Dark Archive pg. 49",
+            "action": "",
+            "id": "arch-feat-thaumaturge-resolute",
+            "archetype": "Мультикласс Тауматург (Thaumaturge )"
+        },
+        {
+            "fullName": "Посвящение кинетика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4333\">Kineticist Dedication</a>) / 2",
+            "name": "Посвящение кинетика",
+            "originalName": "Kineticist Dedication",
+            "level": 2,
+            "traits": [
+                "посвящение",
+                "мультикласс",
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Телосложение +2</p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Вы становитесь обучены КС класса кинетика и броскам атак импульса.\nВыберите один элемент, который станет вашей кинетической стихией (<span class=\"t-air\">воздух</span>, <span class=\"t-earth\">земля</span>, <span class=\"t-fire\">огонь</span>, <span class=\"t-water\">вода</span>, <span class=\"t-metal\">металл</span> или <span class=\"t-wood\">дерево</span>).\nВы получаете кинетическую ауру и действие <span class=\"card-link std std-ref\" data-id=\"action-kineticist-channel-elements\">Проведение стихий (Channel Elements) </span>, но без возможности использования <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удара стихии (Elemental Blast)</span> или <span class=\"t-stance\">стойки</span> при совершении этого действия.\nВы получаете действие <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удар стихии (Elemental Blast)</span>.\nВаш \"Удар стихии\" не получает дополнительные кости урона каждые 4 уровня автоматически, для этого требуется взять способность <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-improved-elemental-blast\">Улучшенный удар стихии (Improved Elemental Blast) / 8</span>.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-dedication",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Базовый кинез (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4334\">Base Kinesis</a>) / 4",
+            "name": "Базовый кинез",
+            "originalName": "Base Kinesis",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-dedication\">Посвящение кинетика (Kineticist Dedication) / 2</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Вы получаете импульс <span class=\"card-link std std-ref\" data-id=\"action-kineticist-base-kinesis\">Базовый кинез (Base Kinesis) </span>.\nДля определения того, когда у этого действия происходит улучшение дистанции и Массы, ваш уровень кинетика равен половине вашего уровня (например, \"Базовый кинез\" персонажа 10-го уровня с этой способностью будет иметь дистанцию 45 футов и может воздействовать на 1 Массу выбранного элемента).</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-base-kinesis",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Через врата (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4335\">Through the Gate</a>) / 4",
+            "name": "Через врата",
+            "originalName": "Through the Gate",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-dedication\">Посвящение кинетика (Kineticist Dedication) / 2</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Вы получаете способность кинетика 1-го или 2-го уровня.\nКак обычно для <span class=\"t-kineticist\">кинетика</span>, вы можете выбирать <span class=\"t-impulse\">импульсные</span> способности своей кинетической стихии.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-through-the-gate",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Продвинутое управление стихией (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4336\">Advanced Element Control</a>) / 6",
+            "name": "Продвинутое управление стихией",
+            "originalName": "Advanced Element Control",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-through-the-gate\">Через врата (Through the Gate) / 4</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Вы получаете 1 способность кинетика.\nДля соответствия ее предварительным условиям, ваш уровень кинетика равен половине уровня персонажа.\nКак обычно для <span class=\"t-kineticist\">кинетика</span>, вы можете выбирать <span class=\"t-impulse\">импульсные</span> способности своей кинетической стихии.</p><hr class=\"docutils\"><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность кинетика.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-advanced-element-control",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Улучшенный удар стихии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4337\">Improved Elemental Blast</a>) / 8",
+            "name": "Улучшенный удар стихии",
+            "originalName": "Improved Elemental Blast",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-dedication\">Посвящение кинетика (Kineticist Dedication) / 2</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Сила ваших стихийных ударов повышается.\nУрон вашего удара стихии увеличивается на 1 кость.</p><hr class=\"docutils\"><p><strong>Особенность</strong>: Вы можете взять эту способность второй раз на 14-м уровне, для увеличения урона от <span class=\"card-link std std-ref\" data-id=\"action-kineticist-elemental-blast\">Удара стихии (Elemental Blast)</span> до 3 костей и третий раз на 18-м уровне, для увеличения его урона до 4 костей.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-improved-elemental-blast",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Добавление стихии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4338\">Add Element</a>) / 10",
+            "name": "Добавление стихии",
+            "originalName": "Add Element",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-advanced-element-control\">Продвинутое управление стихией (Advanced Element Control) / 6</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Выберите вторую кинетическую стихию в дополнение к той, которой вы уже владеете.\nВы получаете <span class=\"t-impulse\">импульсную</span> способность для этой стихии.\nДля соответствия ее предварительным условиям, ваш уровень кинетика равен половине уровня персонажа.\nЕсли вы получите больше способностей кинетика, то как и обычно для кинетика, вы можете выбирать <span class=\"t-composite\">составные</span> <span class=\"t-impulse\">импульсы</span> имеющие обе ваши стихии.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-add-element",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Эксперт кинетического контроля (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4339\">Expert Kinetic Control</a>) / 12",
+            "name": "Эксперт кинетического контроля",
+            "originalName": "Expert Kinetic Control",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-kineticist-dedication\">Посвящение кинетика (Kineticist Dedication) / 2</span></p><p><strong>Источник</strong>: Rage of Elements pg. 57</p><hr class=\"docutils\"><p>Вы становитесь экспертом КС класса кинетика и бросков атак импульса.</p>",
+            "src": "Rage of Elements pg. 57",
+            "action": "",
+            "id": "arch-feat-kineticist-expert-kinetic-control",
+            "archetype": "Мультикласс Кинетик (Kineticist )"
+        },
+        {
+            "fullName": "Посвящение барда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=677\">Bard Dedication</a>) / 2",
+            "name": "Посвящение барда",
+            "originalName": "Bard Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14</p><hr class=\"docutils\"><p>Вы сотворяете заклинания как бард и получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы получаете репертуар заклинаний с 2 обычными чарами из оккультного списка или любые другие чары, которые вы изучаете или открываете.\nВы обучены атакам заклинаниями и КС заклинаний для оккультного обычая.\nВаша ключевая характеристика колдовства для заклинаний архетипа барда - Харизма, а заклинания - оккультные заклинания барда.\nВы становитесь обучены Оккультизму и Выступлению; для каждого из этих навыков, которому вы уже были обучены, вы можете стать обученным другому навыку на свой выбор.</p><p>Выберите музу, как если бы вы были бардом.\nУ вас есть эта муза для всех целей, что позволяет вам брать способности музы, но вы не получаете никаких других предоставляемых ею умений.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа барда.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Предложение о том, какие заклинания можно добавлять в репертуар.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-dedication",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Основное колдовство барда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=678\">Basic Bard Spellcasting</a>) / 4",
+            "name": "Основное колдовство барда",
+            "originalName": "Basic Bard Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-dedication\">Посвящение барда (Bard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nКаждый раз, когда вы получаете слот заклинания нового уровня от архетипа барда, то добавляете в репертуар оккультное <span class=\"r-common\">обычное</span> или другое заклинание подходящего уровня, которое вы выучили или открыли.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-basic-spellcasting",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Основной шепот музы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=679\">Basic Muse's Whispers</a>) / 4",
+            "name": "Основной шепот музы",
+            "originalName": "Basic Muse's Whispers",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-dedication\">Посвящение барда (Bard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность барда 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-basic-muses-whispers",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Улучшенный шепот музы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=680\">Advanced Muse's Whispers</a>) / 6",
+            "name": "Улучшенный шепот музы",
+            "originalName": "Advanced Muse's Whispers",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-basic-muses-whispers\">Основной шепот музы (Basic Muse's Whispers) / 4</span></p><hr class=\"docutils\"><p>Вы получаете одну способность барда.\nС целью соответствия предварительным условиям, ваш уровень барда равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность барда.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-advanced-muses-whispers",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Ответное выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=681\">Counter Perform</a>) / 6",
+            "name": "Ответное выступление",
+            "originalName": "Counter Perform",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-dedication\">Посвящение барда (Bard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете заклинание-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-counter-performance\">Ответное выступление (Counter Performance) / Фокус. 1</span>.\nЕсли у вас еще не было запаса Очков Фокусировки, то вы его получаете с 1 ОФ, которое можете восстановить используя <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, привлекая свою музу (для подробностей смотрите описание класса бард - <span class=\"card-link \">Заклинания-композиции (Composition Spells)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-counter-perform",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Вдохновляющее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=682\">Inspirational Performance</a>) / 8",
+            "name": "Вдохновляющее выступление",
+            "originalName": "Inspirational Performance",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-dedication\">Посвящение барда (Bard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете чары-композицию <span class=\"card-link std std-ref\" data-id=\"spell-focus-inspire-courage\">Вдохновить на смелость (Inspire Courage) / Ф.чары 1</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-inspirational-performance",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Оккультная широта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=683\">Occult Breadth</a>) / 8",
+            "name": "Оккультная широта",
+            "originalName": "Occult Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-basic-spellcasting\">Основное колдовство барда (Basic Bard Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Ваш репертуар расширяется и вы каждый день можете колдовать больше оккультных заклинаний.\nУвеличьте количество заклинаний в вашем репертуаре и количество слотов заклинаний, получаемых от способностей архетипа барда на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний барда.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменено окончание последнего предложения, чтобы прояснить что делать если заклинатель с мультиклассом другого заклинательского класса (или нескольких).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-occult-breadth",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Экспертное колдовство барда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=684\">Expert Bard Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство барда",
+            "originalName": "Expert Bard Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Оккультизма, <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-basic-spellcasting\">Основное колдовство барда (Basic Bard Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-expert-spellcasting",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Мастерское колдовство барда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=685\">Master Bard Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство барда",
+            "originalName": "Master Bard Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Оккультизма, <span class=\"card-link std std-ref\" data-id=\"arch-feat-bard-expert-spellcasting\">Экспертное колдовство барда (Expert Bard Spellcasting) / 12</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-bard-master-spellcasting",
+            "archetype": "Мультикласс Бард (Bard )"
+        },
+        {
+            "fullName": "Посвящение жреца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=694\">Cleric Dedication</a>) / 2",
+            "name": "Посвящение жреца",
+            "originalName": "Cleric Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Мудрость 14</p><hr class=\"docutils\"><p>Вы сотворяете заклинания как жрец и получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы можете каждый день подготовить 2 обычных чар из сакрального списка заклинаний основной книги правил или любые другие чары, которые вы изучаете или открываете.\nВы обучены атакам заклинаниями и КС заклинаний для сакрального обычая.\nВаша ключевая характеристика колдовства для заклинаний архетипа жреца - Мудрость, а заклинания - сакральные заклинания жреца.\nВыберите божество, как если бы вы были жрецом.\nВы становитесь связаны анафемой вашего божества.\nВы становитесь обучены Религии и навыку связанному с вашим божеством; для каждого из этих навыков, которому вы уже были обучены, вы можете стать обучены другому навыку на свой выбор.\nВы не получаете любые другие возможность от вашего выбора божества.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа жреца.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Предложение о том, какие заклинания можно добавлять в репертуар.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-dedication",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Основное колдовство жреца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=695\">Basic Cleric Spellcasting</a>) / 4",
+            "name": "Основное колдовство жреца",
+            "originalName": "Basic Cleric Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-dedication\">Посвящение жреца (Cleric Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nВы можете подготавливать заклинания вашего божества в своих слотах заклинаний архетипа жреца соответствующего уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-basic-spellcasting",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Основная догма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=696\">Basic Dogma</a>) / 4",
+            "name": "Основная догма",
+            "originalName": "Basic Dogma",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-dedication\">Посвящение жреца (Cleric Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность жреца 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-basic-dogma",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Улучшенная догма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=697\">Advanced Dogma</a>) / 6",
+            "name": "Улучшенная догма",
+            "originalName": "Advanced Dogma",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-basic-dogma\">Основная догма (Basic Dogma) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность жреца.\nС целью соответствия предварительным условиям, ваш уровень жреца равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность жреца.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-advanced-dogma",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Сакральная широта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=698\">Divine Breadth</a>) / 8",
+            "name": "Сакральная широта",
+            "originalName": "Divine Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-basic-spellcasting\">Основное колдовство жреца (Basic Cleric Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Каждый день вы можете колдовать больше сакральных заклинаний.\nУвеличьте количество слотов заклинаний, получаемых от способностей архетипа жреца на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний жреца.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменено окончание последнего предложения, чтобы прояснить что делать если заклинатель с мультиклассом другого заклинательского класса (или нескольких).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-divine-breadth",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Экспертное колдовство жреца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=699\">Expert Cleric Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство жреца",
+            "originalName": "Expert Cleric Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Религии, <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-basic-spellcasting\">Основное колдовство жреца (Basic Cleric Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-expert-spellcasting",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Мастерское колдовство жреца (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=700\">Master Cleric Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство жреца",
+            "originalName": "Master Cleric Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Религии, <span class=\"card-link std std-ref\" data-id=\"arch-feat-cleric-expert-spellcasting\">Экспертное колдовство жреца (Expert Cleric Spellcasting) / 12</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-cleric-master-spellcasting",
+            "archetype": "Мультикласс Жрец (Cleric )"
+        },
+        {
+            "fullName": "Посвящение друида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=701\">Druid Dedication</a>) / 2",
+            "name": "Посвящение друида",
+            "originalName": "Druid Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Мудрость 14</p><hr class=\"docutils\"><p>Вы сотворяете заклинания как друид.\nВы получаете доступ к активности <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы можете каждый день подготовить 2 обычных чар из природного списка заклинаний основной книги правил или любые другие природные чары, которые вы изучаете или открываете.\nВы обучены атакам заклинаниями и КС заклинаний для природного обычая.\nВаша ключевая характеристика колдовства для заклинаний архетипа друида - Мудрость, а заклинания - природные заклинания друида.</p><p>Вы изучаете язык друидов и связаны анафемой друида.</p><p>Выберите орден, как если бы вы были друидом.\nВы становитесь членом этого ордена и связаны его анафемой, что позволяет вам брать способности ордена.\nВы становитесь обучены Природе и навыку связанному с вашим орденом; для каждого из этих навыков, которому вы уже были обучены, вы можете стать обучены другому навыку на свой выбор.\nВы не получаете любые другие возможности от вашего выбора ордена.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа друида.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-dedication",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Основное колдовство друида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=702\">Basic Druid Spellcasting</a>) / 4",
+            "name": "Основное колдовство друида",
+            "originalName": "Basic Druid Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-dedication\">Посвящение друида (Druid Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-basic-spellcasting",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Основная дикость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=703\">Basic Wilding</a>) / 4",
+            "name": "Основная дикость",
+            "originalName": "Basic Wilding",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-dedication\">Посвящение друида (Druid Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность друида 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-basic-wilding",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Заклинание ордена (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=704\">Order Spell</a>) / 4",
+            "name": "Заклинание ордена",
+            "originalName": "Order Spell",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-dedication\">Посвящение друида (Druid Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете начальное заклинание вашего ордена.\nЕсли у вас еще не было запаса Очков Фокусировки, то вы его получаете с 1 ОФ, которое можете восстановить используя <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> будучи единым с природой (больше подробностей о заклинаниях ордена смотрите в описании класса друида, в разделе <span class=\"card-link \">Орден друидов (Druidic Order)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-order-spell",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Улучшенная дикость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=705\">Advanced Wilding</a>) / 6",
+            "name": "Улучшенная дикость",
+            "originalName": "Advanced Wilding",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-basic-wilding\">Основная дикость (Basic Wilding) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность друида.\nС целью соответствия предварительным условиям, ваш уровень друида равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность друида.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-advanced-wilding",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Природная широта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=706\">Primal Breadth</a>) / 8",
+            "name": "Природная широта",
+            "originalName": "Primal Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-basic-spellcasting\">Основное колдовство друида (Basic Druid Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Увеличьте количество слотов заклинаний, получаемых от способностей архетипа друида на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний друида.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменено окончание последнего предложения, чтобы прояснить что делать если заклинатель с мультиклассом другого заклинательского класса (или нескольких).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-primal-breadth",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Экспертное колдовство друида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=707\">Expert Druid Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство друида",
+            "originalName": "Expert Druid Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Природы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-basic-spellcasting\">Основное колдовство друида (Basic Druid Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-expert-spellcasting",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Мастерское колдовство друида (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=708\">Master Druid Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство друида",
+            "originalName": "Master Druid Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Природы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-druid-expert-spellcasting\">Экспертное колдовство друида (Expert Druid Spellcasting) / 12</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-druid-master-spellcasting",
+            "archetype": "Мультикласс Друид (Druid )"
+        },
+        {
+            "fullName": "Посвящение волшебника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=742\">Wizard Dedication</a>) / 2",
+            "name": "Посвящение волшебника",
+            "originalName": "Wizard Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 14</p><hr class=\"docutils\"><p>Вы сотворяете заклинания как волшебник, получая книгу заклинаний с 4 обычными арканным чарами на ваш выбор.\nВы получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы можете каждый день подготовить 2 чар из своей книги заклинаний.\nВы обучены атакам заклинаниями и КС арканных заклинаний.\nВаша ключевая характеристика колдовства для заклинаний архетипа волшебника - Интеллект, а заклинания - арканные заклинания волшебника.\nВы становитесь обучены Аркане; если вы уже были обучены Аркане, то становитесь обучены другому навыку на свой выбор.\nВыберите 1 арканную школу магии; вы не получаете никаких возможностей от своего выбора школы.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа волшебника.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-CR-r3: </span>Теперь вместе с посвящением надо выбрать арканную школу.\nДо этого, чтобы взять некоторые способности волшебника, необходимо было предварительно взять <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-arcane-school-spell\">Заклинание арканной школы (Arcane School Spell) / 4</span>, в отличие от чародея, барда и друида, которые вместе с посвящением выбирали наследие крови, музу или орден соответственно.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-dedication",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Заклинание арканной школы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=743\">Arcane School Spell</a>) / 4",
+            "name": "Заклинание арканной школы",
+            "originalName": "Arcane School Spell",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-dedication\">Посвящение волшебника (Wizard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете начальное заклинание школы.\nЕсли у вас еще не было запаса Очков Фокусировки, то вы его получаете с 1 ОФ, которое можете восстановить используя <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> для обучения (больше подробностей о арканных школах смотрите в описании класса волшебника, в разделе <span class=\"card-link \">Арканная школа (Arcane School)</span>).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r3: </span>Выбор арканной школы перенесен в посвящение.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-arcane-school-spell",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Основная аркана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=744\">Basic Arcana</a>) / 4",
+            "name": "Основная аркана",
+            "originalName": "Basic Arcana",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-dedication\">Посвящение волшебника (Wizard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность волшебника 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-basic-arcana",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Основное колдовство волшебника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=745\">Basic Wizard Spellcasting</a>) / 4",
+            "name": "Основное колдовство волшебника",
+            "originalName": "Basic Wizard Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-dedication\">Посвящение волшебника (Wizard Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nКаждый раз, когда вы получаете слот заклинания нового уровня от архетипа волшебника, добавьте 2 обычных заклинания этого уровня в свою книгу заклинаний.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-basic-spellcasting",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Продвинутая аркана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=746\">Advanced Arcana</a>) / 6",
+            "name": "Продвинутая аркана",
+            "originalName": "Advanced Arcana",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-basic-arcana\">Основная аркана (Basic Arcana) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность волшебника.\nС целью соответствия предварительным условиям, ваш уровень волшебника равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность волшебника.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-advanced-arcana",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Арканная широта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=747\">Arcane Breadth</a>) / 8",
+            "name": "Арканная широта",
+            "originalName": "Arcane Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-basic-spellcasting\">Основное колдовство волшебника (Basic Wizard Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы можете колдовать больше заклинаний каждый день.\nУвеличьте количество слотов заклинаний, получаемых от способностей архетипа волшебника на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний волшебника.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-arcane-breadth",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Экспертное колдовство волшебника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=748\">Expert Wizard Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство волшебника",
+            "originalName": "Expert Wizard Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Арканы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-basic-spellcasting\">Основное колдовство волшебника (Basic Wizard Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-expert-spellcasting",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Мастерское колдовство волшебника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=749\">Master Wizard Spellcasting (Archetype)</a>) / 18",
+            "name": "Мастерское колдовство волшебника",
+            "originalName": "Master Wizard Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Арканы, <span class=\"card-link std std-ref\" data-id=\"arch-feat-wizard-expert-spellcasting\">Экспертное колдовство волшебника (Expert Wizard Spellcasting) / 12</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-wizard-master-spellcasting",
+            "archetype": "Мультикласс Волшебник (Wizard )"
+        },
+        {
+            "fullName": "Посвящение чародея (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=734\">Sorcerer Dedication</a>) / 2",
+            "name": "Посвящение чародея",
+            "originalName": "Sorcerer Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Харизма 14</p><hr class=\"docutils\"><p>Выберите наследие крови.\nВы становитесь обучены 2 навыкам наследия крови; для каждого из этих навыков, которому вы уже были обучены, вы можете стать обучены другому навыку на свой выбор.</p><p>Вы сотворяете заклинания как чародей.\nВы получаете доступ к активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nВы получаете репертуар заклинаний с 2 обычными чарами из списка заклинаний относящегося к вашему наследию крови, из заклинаний дарованных вашим наследием крови, или любых других чар этого магического обычая, которые вы изучаете или открываете.\nВы обучены атакам заклинаниями и КС заклинаний магического обычая ваших заклинаний.\nВаша ключевая характеристика колдовства для заклинаний архетипа чародея - Харизма, а заклинания - заклинания чародея магического обычая вашего наследия крови.\nВы не получаете никаких других возможностей от выбора наследия.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа чародея.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Перефразировано предложение о тех чарах и заклинаниях, которые можно добавлять в репертуар.\nИзначально забыли упомянуть заклинания наследия среди доступных.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-dedication",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Основное колдовство чародея (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=735\">Basic Sorcerer Spellcasting</a>) / 4",
+            "name": "Основное колдовство чародея",
+            "originalName": "Basic Sorcerer Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-dedication\">Посвящение чародея (Sorcerer Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nКаждый раз, когда вы получаете слот заклинания нового уровня от архетипа чародея, то добавляете в репертуар заклинание подходящего уровня: <span class=\"r-common\">обычное</span> заклинание магического обычая вашего наследия крови, одно из заклинаний дарованных вашим наследием крови, или другое которое вы выучили или открыли.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-basic-spellcasting",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Основная мощь крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=736\">Basic Blood Potency</a>) / 4",
+            "name": "Основная мощь крови",
+            "originalName": "Basic Blood Potency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-dedication\">Посвящение чародея (Sorcerer Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность чародея 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-basic-blood-potency",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Основное заклинание наследия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=737\">Basic Bloodline Spell</a>) / 4",
+            "name": "Основное заклинание наследия",
+            "originalName": "Basic Bloodline Spell",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-dedication\">Посвящение чародея (Sorcerer Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете начальное заклинания своего наследия крови.\nЕсли у вас еще не было запаса Очков Фокусировки, то вы его получаете с 1 ОФ, которое вы можете восстановить используя <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> не прилагая каких-либо особых усилий (больше подробностей о заклинаниях наследия крови смотрите в описании класса чародея, в разделе <span class=\"card-link \">Заклинания наследия крови (Bloodline Spells)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-basic-bloodline-spell",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Улучшенная мощь крови (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=738\">Advanced Blood Potency</a>) / 6",
+            "name": "Улучшенная мощь крови",
+            "originalName": "Advanced Blood Potency",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-basic-blood-potency\">Основная мощь крови (Basic Blood Potency) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность чародея.\nС целью соответствия предварительным условиям, ваш уровень чародея равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность чародея.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-advanced-blood-potency",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Широта наследия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=739\">Bloodline Breadth</a>) / 8",
+            "name": "Широта наследия",
+            "originalName": "Bloodline Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-basic-spellcasting\">Основное колдовство чародея (Basic Sorcerer Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Ваш репертуар расширяется и вы каждый день можете колдовать больше заклинаний магического обычая вашего наследия крови.\nУвеличьте количество заклинаний в вашем репертуаре и количество слотов заклинаний, получаемых от способностей архетипа чародея на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний чародея.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Изменено окончание последнего предложения, чтобы прояснить что делать если заклинатель с мультиклассом другого заклинательского класса (или нескольких).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-bloodline-breadth",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Экспертное колдовство чародея (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=740\">Expert Sorcerer Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство чародея",
+            "originalName": "Expert Sorcerer Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Арканы, Природы, Оккультизма или Религии, в зависимости от вашего наследия крови, <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-basic-spellcasting\">Основное колдовство чародея (Basic Sorcerer Spellcasting) / 4</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-expert-spellcasting",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Мастерское колдовство чародея (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=741\">Master Sorcerer Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство чародея",
+            "originalName": "Master Sorcerer Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Арканы, Природы, Оккультизма или Религии, в зависимости от вашего наследия крови, <span class=\"card-link std std-ref\" data-id=\"arch-feat-sorcerer-expert-spellcasting\">Экспертное колдовство чародея (Expert Sorcerer Spellcasting) / 12</span></p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-sorcerer-master-spellcasting",
+            "archetype": "Мультикласс Чародей (Sorcerer )"
+        },
+        {
+            "fullName": "Посвящение ведьмы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1866\">Witch Dedication</a>) / 2",
+            "name": "Посвящение ведьмы",
+            "originalName": "Witch Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Интеллект 14</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы сотворяете заклинания как ведьма.\nВыберите покровителя; вы получаете фамильяра с 2 обычными чарами на ваш выбор из магического обычая покровителя, но кроме обычая вы не получаете любые другие эффекты, которые обычно дает покровитель.\nВаш фамильяр имеет на 1 меньше способностей фамильяра чем обычно.\nВы получаете активность <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nКаждый день вы можете подготовить 1 чары от своего фамильяра.\nВы обучены атакам заклинаниями и КС заклинаний для обычая вашего покровителя.\nВаша ключевая характеристика колдовства для заклинаний архетипа ведьмы - Интеллект, а заклинания - заклинания ведьмы магического обычая вашего покровителя.\nВы становитесь обучены навыку относящемуся к обычаю покровителя; если вы уже были ему обучены, то вместо этого становитесь обучены другому навыку на свой выбор.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа ведьмы.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-dedication",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Основное колдовство ведьмы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1867\">Basic Witch Spellcasting</a>) / 4",
+            "name": "Основное колдовство ведьмы",
+            "originalName": "Basic Witch Spellcasting",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-dedication\">Посвящение ведьмы (Witch Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность простого колдовства (Basic Spellcasting Feat)</span>.\nКаждый раз, когда вы получаете слот заклинания нового уровня от архетипа ведьмы, то добавляете своему фамильяру 2 обычных заклинания этого уровня.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-basic-spellcasting",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Простое ведьмовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1868\">Basic Witchcraft</a>) / 4",
+            "name": "Простое ведьмовство",
+            "originalName": "Basic Witchcraft",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-dedication\">Посвящение ведьмы (Witch Dedication) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы получаете способность ведьмы 1-го или 2-го уровня.\nВаш фамильяр перестает иметь на 1 способность фамильяра меньше, чем обычно.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-basic-witchcraft",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Продвинутое ведьмовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1869\">Advanced Witchcraft</a>) / 6",
+            "name": "Продвинутое ведьмовство",
+            "originalName": "Advanced Witchcraft",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-basic-witchcraft\">Простое ведьмовство (Basic Witchcraft) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы получаете 1 способность ведьмы.\nС целью соответствия предварительным условиям, ваш уровень ведьмы равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность ведьмы.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-advanced-witchcraft",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Широта покровителя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1870\">Patron's Breadth</a>) / 8",
+            "name": "Широта покровителя",
+            "originalName": "Patron's Breadth",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-basic-spellcasting\">Основное колдовство ведьмы (Basic Witch Spellcasting) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы можете колдовать больше заклинаний каждый день.\nУвеличьте количество слотов заклинаний, которые вы получаете от способностей архетипа ведьмы на 1 для каждого уровня заклинаний, кроме двух ваших наибольших слотов заклинаний ведьмы.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r2: </span>Изменено окончание последнего предложения, чтобы прояснить что делать если заклинатель с мультиклассом другого заклинательского класса (или нескольких).</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-patrons-breadth",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Экспертное колдовство ведьмы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1871\">Expert Witch Spellcasting</a>) / 12",
+            "name": "Экспертное колдовство ведьмы",
+            "originalName": "Expert Witch Spellcasting",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер навыка относящегося к обычаю вашего покровителя, <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-basic-spellcasting\">Основное колдовство ведьмы (Basic Witch Spellcasting) / 4</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность экспертного колдовства (Expert Spellcasting Feat)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-expert-spellcasting",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        },
+        {
+            "fullName": "Мастерское колдовство ведьмы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1872\">Master Witch Spellcasting</a>) / 18",
+            "name": "Мастерское колдовство ведьмы",
+            "originalName": "Master Witch Spellcasting",
+            "level": 18,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда навыка относящегося к обычаю вашего покровителя, <span class=\"card-link std std-ref\" data-id=\"arch-feat-witch-expert-spellcasting\">Экспертное колдовство ведьмы (Expert Witch Spellcasting) / 12</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 154</p><hr class=\"docutils\"><p>Вы получаете преимущества <span class=\"card-link \">Способность мастерского колдовства (Master Spellcasting Feat)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 154",
+            "action": "",
+            "id": "arch-feat-witch-master-spellcasting",
+            "archetype": "Мультикласс Ведьма (Witch )"
+        }
+    ]
+}

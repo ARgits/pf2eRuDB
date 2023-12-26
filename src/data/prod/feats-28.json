@@ -1,0 +1,1617 @@
+{
+    "feats": [
+        {
+            "fullName": "Беспощадное раздирание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2923\">Merciless Rend</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Беспощадное раздирание",
+            "originalName": "Merciless Rend",
+            "level": 10,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Ваш эйдолон, в этот ход, попадает двумя последовательными <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударами (Strikes)</span> своей вторичной атаки по одному и тому же существу, и обеими наносит рубящий урон</p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон раздирает своего противника.\nОн автоматически наносит этому врагу урон от своей вторичной атаки.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-merciless-rend",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитная связь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2924\">Protective Bond</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Защитная связь",
+            "originalName": "Protective Bond",
+            "level": 10,
+            "traits": [
+                "преграждение",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы и ваш эйдолон в области наносящего урон эффекта</p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Мощь вашей связи с эйдолоном может защитить от вреда вас и вашего эйдолона.\nЕсли вы и эйдолон получите разное количество урона от эффекта по области, то вместо наибольшего урона, вы получаете меньший.</p><p><strong>Особенность</strong>: Эта способность имеет признак соответствующий обычаю вашего эйдолона (<span class=\"t-arcana\">аркана</span>, <span class=\"t-primal\">природный</span>, <span class=\"t-divine\">сакральный</span> или <span class=\"t-occult\">оккультный</span>).</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "реакция",
+            "id": "class-feat-summoner-protective-bond",
+            "archetype": ""
+        },
+        {
+            "fullName": "Транспозиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2926\">Transpose</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Транспозиция",
+            "originalName": "Transpose",
+            "level": 10,
+            "traits": [
+                "воплощение",
+                "воздействие",
+                "концентрация",
+                "телепортация",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Вы меняетесь местами со своим эйдолоном.\nКаждый из вас телепортируется на место друг друга.</p><p><strong>Особенность</strong>: Эта способность имеет признак соответствующий обычаю вашего эйдолона (<span class=\"t-arcana\">аркана</span>, <span class=\"t-primal\">природный</span>, <span class=\"t-divine\">сакральный</span> или <span class=\"t-occult\">оккультный</span>).</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "одиночное действие",
+            "id": "class-feat-summoner-transpose",
+            "archetype": ""
+        },
+        {
+            "fullName": "Толкающая атака (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2925\">Pushing Attack</a>) / 10",
+            "name": "Толкающая атака",
+            "originalName": "Pushing Attack",
+            "level": 10,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон обладает атакой, которая отталкивает врагов.\nВыберите одну из безоружных атак эйдолона с признаком <span class=\"w-shove\">толчок</span>.\nОн получает для этой атаки действие <span class=\"card-link \">Толчок (Push) </span>.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-pushing-attack",
+            "archetype": ""
+        },
+        {
+            "fullName": "Весомый удар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2927\">Weighty Impact</a>) / 10",
+            "name": "Весомый удар",
+            "originalName": "Weighty Impact",
+            "level": 10,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон сбивает врагов на землю.\nВыберите одну из безоружных атак эйдолона с признаком <span class=\"w-trip\">опрокидывание</span>.\nОн получает для этой атаки действие <span class=\"card-link \">Нокдаун (Knockdown) </span>.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-weighty-impact",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гибкая трансмогрификация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2928\">Flexible Transmogrification</a>) / 12",
+            "name": "Гибкая трансмогрификация",
+            "originalName": "Flexible Transmogrification",
+            "level": 12,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Вы научились трансмогрифицировать своего эйдолона в соответствии с дневными обстоятельствами.\nКаждый день, во время дневных приготовлений выберите способность <span class=\"t-evolution\">эволюции</span> 6-го уровня или ниже.\nВаш эйдолон получает эту способность до ваших следующих ежедневных приготовлений.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-flexible-transmogrification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хватающие конечности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2929\">Grasping Limbs</a>) / 12",
+            "name": "Хватающие конечности",
+            "originalName": "Grasping Limbs",
+            "level": 12,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон хватает врагов.\nВыберите одну из безоружных атак эйдолона с признаком <span class=\"w-grapple\">захват</span>.\nОн получает для этой атаки действие <span class=\"card-link \">Захват (Grab) </span>.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-grasping-limbs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Фокусировка связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2930\">Link Focus</a>) / 12",
+            "name": "Фокусировка связи",
+            "originalName": "Link Focus",
+            "level": 12,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: заклинания связи</p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваше сосредоточение восстанавливается быстрее.\nЕсли вы потратили хотя бы 2 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 2 Очка Фокусировки вместо 1.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-link-focus",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов призывателя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2931\">Summoner's Call</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Зов призывателя",
+            "originalName": "Summoner's Call",
+            "level": 12,
+            "traits": [
+                "воплощение",
+                "телепортация",
+                "концентрация",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы или ваш эйдолон получаете урон от противника или опасности</p><p><strong>Требования</strong>: Ваш эйдолон проявлен дальше чем в 5 футах от вас</p><p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>В опасный момент вы зовете своего эйдолона к себе.\nОн телепортируется на незанятое место рядом с вами.</p><p><strong>Особенность</strong>: Эта способность имеет признак соответствующий обычаю вашего эйдолона (<span class=\"t-arcana\">аркана</span>, <span class=\"t-primal\">природный</span>, <span class=\"t-divine\">сакральный</span> или <span class=\"t-occult\">оккультный</span>).</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "реакция",
+            "id": "class-feat-summoner-summoners-call",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возвышающийся размер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2932\">Towering Size</a>) / 12",
+            "name": "Возвышающийся размер",
+            "originalName": "Towering Size",
+            "level": 12,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-hulking-size\">Громадный размер (Hulking Size) / 8</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>Ваш эйдолон становится еще больше.\nВместо большого он становится огромного размера, а досягаемость всех его атак увеличивается до 15 футов.</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "",
+            "id": "class-feat-summoner-towering-size",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воздушная форма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2933\">Airborne Form</a>) / 14",
+            "name": "Воздушная форма",
+            "originalName": "Airborne Form",
+            "level": 14,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-glider-form\">Парящая форма (Glider Form)  / 1</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 71</p><hr class=\"docutils\"><p>Ваш эйдолон может летать.\nОн получает Скорость полета равную его Скорости.</p>",
+            "src": "Secrets of Magic pg. 71",
+            "action": "",
+            "id": "class-feat-summoner-airborne-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прочная оболочка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2934\">Resilient Shell</a>) / 14",
+            "name": "Прочная оболочка",
+            "originalName": "Resilient Shell",
+            "level": 14,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>:</p><p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>Ваш эйдолон устойчив к атакам.\nОн получает сопротивление физическому урону, равное его модификатору Телосложения.</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "",
+            "id": "class-feat-summoner-resilient-shell",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общая магия эйдолона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2935\">Share Eidolon Magic</a>) / 14",
+            "name": "Общая магия эйдолона",
+            "originalName": "Share Eidolon Magic",
+            "level": 14,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-understudy\">Магический дублёр (Magical Understudy) / 2</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>Ваш эйдолон разделяет с вами врожденные заклинания.\nВы можете сотворять врожденные заклинания своего эйдолона, полученные им от <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-understudy\">Магический дублёр (Magical Understudy) / 2</span>, <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-adept\">Знаток магии (Magical Adept) / 8</span> и <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-master\">Мастер магии (Magical Master) / 18</span>.\nВы с эйдолоном имеете общее количество использований этих заклинаний в день.</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "",
+            "id": "class-feat-summoner-share-eidolon-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Форма отталкивающая заклинания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2936\">Spell-Repelling Form</a>) / 14",
+            "name": "Форма отталкивающая заклинания",
+            "originalName": "Spell-Repelling Form",
+            "level": 14,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>Ваш эйдолон эволюционирует, чтобы защищать себя от опасностей, исходящих от заклинаний.\nОн получает бонус состояния +1 ко всем спасброскам против магии.</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "",
+            "id": "class-feat-summoner-spell-repelling-form",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непринужденная концентрация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=206\">Effortless Concentration (Summoner)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Непринужденная концентрация",
+            "originalName": "Effortless Concentration",
+            "level": 16,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Начинается ваш ход</p><p><strong>Источник</strong>: Secrets of Magic pg. 72</p><hr class=\"docutils\"><p>Вы поддерживаете заклинание едва подумав об этом.\nВы мгновенно получаете эффекты действия <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддержание заклинания (Sustain a Spell) </span>, что позволяет вам продлить длительность одного из ваших активных заклинаний.</p>",
+            "src": "Secrets of Magic pg. 72",
+            "action": "свободное действие",
+            "id": "class-feat-summoner-effortless-concentration",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бдительные чувства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2937\">Ever-Vigilant Senses</a>) / 16",
+            "name": "Бдительные чувства",
+            "originalName": "Ever-Vigilant Senses",
+            "level": 16,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваш эйдолон обладает усиленными чувствами.\nОн получает бонус обстоятельства +2 к Восприятию и не может быть взят в тиски, кроме как существами большего него по уровню.\nОн может видеть <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимых</span> существ и объекты; они выглядят полупрозрачными и <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>.\nКогда ваш эйдолон проходит в пределах 30 футов от иллюзии в которую можно не поверить, Мастер делает бросок <span class=\"t-secret\">тайной</span> проверки, чтобы не поверить в нее, даже если ваш эйдолон не потратил действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-ever-vigilant-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Растоптать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2938\">Trample</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Растоптать",
+            "originalName": "Trample",
+            "level": 16,
+            "traits": [
+                "эволюция",
+                "эйдолон",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваш эйдолон <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещается (Strides)</span> вплоть до своей двойной Скорости и может двигаться через пространства существ хотя бы на 1 размер меньше него, Растаптывая каждое существо, в чье пространство он входит.\nОн может попытаться Растоптать одно и то же существо только один раз за одно использование Растаптывания.\nОн наносит этим существам дробящий урон, равный урону своей вторичной атаки, а они могут совершить простой спасбросок Рефлекса против вашего КС заклинания.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "активность из 3-х действий",
+            "id": "class-feat-summoner-trample",
+            "archetype": ""
+        },
+        {
+            "fullName": "Источник связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2939\">Link Wellspring</a>) / 18",
+            "name": "Источник связи",
+            "originalName": "Link Wellspring",
+            "level": 18,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-link-focus\">Фокусировка связи (Link Focus) / 12</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваша связь восполняет сосредоточение.\nЕсли вы потратили хотя бы 3 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 3 Очка Фокусировки вместо 1.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-link-wellspring",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мастер магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2940\">Magical Master</a>) / 18",
+            "name": "Мастер магии",
+            "originalName": "Magical Master",
+            "level": 18,
+            "traits": [
+                "эволюция",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-adept\">Знаток магии (Magical Adept) / 8</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваш эйдолон получает множество низкоуровневых заклинаний.\nВыберите врожденное заклинание магического обычая вашего эйдолона каждого из уровней заклинаний с 1-го по 7-й, для которого у вашего эйдолона еще нет врожденного заклинания от <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-magical-adept\">Знаток магии (Magical Adept) / 8</span>.\nВаш эйдолон может сотворять их как врожденные заклинания, каждое раз в день.\nВы можете заменять эти заклинания на каждом четном уровне, но ваш эйдолон никогда не может знать более 1 заклинания каждого уровня с 1-го до 7-го.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-magical-master",
+            "archetype": ""
+        },
+        {
+            "fullName": "Истинная трансмогрификация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2941\">True Transmogrification</a>) / 18",
+            "name": "Истинная трансмогрификация",
+            "originalName": "True Transmogrification",
+            "level": 18,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Вы трансмогрифицируете своего эйдолона каждый день.\nВо время своих ежедневных приготовлений, вы можете заменять любое количество своих способностей <span class=\"t-evolution\">эволюции</span>, на другую эволюционную способность соответствующего уровня, для которой вы удовлетворяете предварительным условиям.\nЭти замены длятся до ваших следующих ежедневных приготовлений.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-true-transmogrification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечное усиление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2942\">Eternal Boost</a>) / 20",
+            "name": "Вечное усиление",
+            "originalName": "Eternal Boost",
+            "level": 20,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваша связь с эйдолоном там сильна, что вы постоянно усиливаете его умения.\nВы постоянно <span class=\"card-link std std-ref\" data-id=\"c-quickened\">ускорены</span>; вы можете использовать это дополнительное действие только на сотворение <span class=\"card-link std std-ref\" data-id=\"spell-focus-boost-eidolon\">Усиление эйдолона (Boost Eidolon) / Ф.чары. 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-focus-reinforce-eidolon\">Укрепление эйдолона (Reinforce Eidolon) / Ф.чары. 1</span>.\nВо время режима исследования вы можете объявить, что еще постоянно сотворяете <span class=\"card-link std std-ref\" data-id=\"spell-focus-boost-eidolon\">Усиление эйдолона (Boost Eidolon) / Ф.чары. 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-focus-reinforce-eidolon\">Укрепление эйдолона (Reinforce Eidolon) / Ф.чары. 1</span> даже когда используете другую активность исследования.\nЕсли вы так делаете, то даже до своего первого хода в боевом столкновении эти чары активны, как если бы вы наложили их в прошлом ходу.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-eternal-boost",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный призыватель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2943\">Legendary Summoner</a>) / 20",
+            "name": "Легендарный призыватель",
+            "originalName": "Legendary Summoner",
+            "level": 20,
+            "traits": [
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-master-summoner\">Мастерский призыватель (Master Summoner) / 6</span></p><p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Ваша способность призыва превосходит все остальные колдовские умения.\nКогда вы используя <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-master-summoner\">Мастерский призыватель (Master Summoner) / 6</span> жертвуете слотом заклинания 9-го уровня для получения 2 слотов призыва, вы можете использовать эти слоты для сотворения заклинаний призыва усиленных до 10-го уровня.\nВы не можете использовать эти слоты заклинаний для других целей помимо сотворения заклинаний призыва, и для других умений или правил это не считается наличием у вас слотов 10-го уровня.</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-legendary-summoner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Двойной эйдолон (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2944\">Twin Eidolon</a>) / 20",
+            "name": "Двойной эйдолон",
+            "originalName": "Twin Eidolon",
+            "level": 20,
+            "traits": [
+                "трансмутация",
+                "полиморф",
+                "призыватель"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Secrets of Magic pg. 73</p><hr class=\"docutils\"><p>Вы можете превращаться, чтобы походить на своего эйдолона.\nКогда вы используете <span class=\"card-link \">Проявление эйдолона (Manifest Eidolon) </span>, то можете воззвать к его силам, чтобы превратиться в его копию, пока он не будет отозван.\nВы не можете применять это, если Проявляете своего эйдолона необычным способом, как например с помощью <span class=\"card-link std std-ref\" data-id=\"class-feat-summoner-meld-into-eidolon\">Слияние с эйдолоном (Meld Into Eidolon)  / 1</span>.\nПока действует \"Двойной эйдолон\", вы используете характеристики своего эйдолона, в том числе эволюции, но не модификаторы ментальных способностей.\nВы не можете сотворять заклинания (кроме тех, которые может сотворять эйдолон), <span class=\"card-link \">Активировать предмет (Activate an Item)</span> или иным образом получать преимущества от магических предметов дающих их вам а не эйдолону, или использовать другие действия, которые он не может выполнять.\nЛюбые из его заклинаний, сотворяемых вами, имеющих ограниченное кол-во использований, считаются к их использованию эйдолоном.\nЧтобы закончить этот эффект, вы можете снова применить <span class=\"card-link \">Проявление эйдолона (Manifest Eidolon) </span>.</p><p><strong>Особенность</strong>: Эта способность имеет признак соответствующий обычаю вашего эйдолона (<span class=\"t-arcana\">аркана</span>, <span class=\"t-primal\">природный</span>, <span class=\"t-divine\">сакральный</span> или <span class=\"t-occult\">оккультный</span>).</p>",
+            "src": "Secrets of Magic pg. 73",
+            "action": "",
+            "id": "class-feat-summoner-twin-eidolon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наследственный разум (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3656\">Ancestral Mind</a>) / 1",
+            "name": "Наследственный разум",
+            "originalName": "Ancestral Mind",
+            "level": 1,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Раскрывая воспоминания и связи, унаследованные от ваших предков и погребенные в вашем подсознании, вы учитесь преобразовывать присущую вам магию в психическую силу.\nВы можете творить любые врожденные заклинания, которые вы знаете от способности родословной или наследия, используя компоненты своего <span class=\"card-link \">экстрасенсорного заклинательства</span>.\nКогда вы так делаете, обычай заклинания становится <span class=\"t-occult\">оккультным</span>, если он еще не был таковым, и  вы можете использовать свой модификатор характеристики экстрасенсорного заклинательства вместо Харизмы, для определения вашего броска атаки заклинания и КС заклинания.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-ancestral-mind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Встречная мысль (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3657\">Counter Thought</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Встречная мысль",
+            "originalName": "Counter Thought",
+            "level": 1,
+            "traits": [
+                "оккультный",
+                "преграждение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяет (Cast)</span> заклинание с <span class=\"t-mental\">ментальным</span> признаком</p><p><strong>Требования</strong>: У вас есть непотраченный слот заклинания, который вы можете использовать для <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворения (Cast)</span> заклинания с <span class=\"t-mental\">ментальным</span> признаком</p><p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Когда противник <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяет (Cast)</span> заклинание с <span class=\"t-mental\">ментальным</span> признаком и вы можете видеть его проявления, то можете использовать свою собственную ментальную магию для его разрушения.\nВы расходуете один из своих слотов заклинаний, чтобы противостоять заклинанию с <span class=\"t-mental\">ментальным</span> признаком, сотворяемым спровоцировавшим существом.\nВы теряете свой слот заклинания как будто сотворили спровоцировавшее заклинание; этот слот должен быть тем, с помощью которого вы можете Сотворить заклинание с <span class=\"t-mental\">ментальным</span> признаком.\nЗатем вы пытаетесь <span class=\"card-link \">противодействовать</span> спровоцировавшему заклинанию.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "реакция",
+            "id": "class-feat-psychic-counter-thought",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ментальный буфер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3658\">Mental Buffer</a>) / 1",
+            "name": "Ментальный буфер",
+            "originalName": "Mental Buffer",
+            "level": 1,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Ваш разум отражает некоторое количество вреда от атак, которые вызывают боль или напрямую манипулируют вашим разумом.\nВы получаете сопротивление ментальному урону, равное половине своего уровня (минимум 1).\nКогда у вас <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, это сопротивление становится равным вашему уровню.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-mental-buffer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эстрасенсорное взаимопонимание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3659\">Psychic Rapport</a>) / 1",
+            "name": "Эстрасенсорное взаимопонимание",
+            "originalName": "Psychic Rapport",
+            "level": 1,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Ваша телепатическая чувствительность обостряется, когда на вас воздействует ментальная магия, что облегчает вам установление связи с другими существами.\nПосле того как вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> заклинание с <span class=\"t-mental\">ментальным</span> признаком, вы до начала своего следующего хода получаете бонус обстоятельства +1 к проверкам Обмана, Дипломатии и Запугивания, а также к проверкам Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span>.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-psychic-rapport",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширение чар (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=183\">Cantrip Expansion (Psychic)</a>) / 2",
+            "name": "Расширение чар",
+            "originalName": "Cantrip Expansion",
+            "level": 2,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Вы расширяете возможности своего ума.\nДобавьте в свой репертуар 2 дополнительных оккультных чар.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-cantrip-expansion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ментальный бальзам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3660\">Mental Balm</a>) / 2",
+            "name": "Ментальный бальзам",
+            "originalName": "Mental Balm",
+            "level": 2,
+            "traits": [
+                "расширение",
+                "эмоция",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Ваши заклинания издают успокаивающие ментальные волны.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.\nВы можете использовать это расширение только с пси-чарами, которые выбирают целью или воздействуют на вас, либо 1 или более ваших союзников, и не выбирают целью или воздействуют на врагов.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Вы или 1 союзник в пределах 30 футов, на 1 минуту получаете бонус состояния +2 к спасброскам Воли против <span class=\"t-emotion\">эмоциональных</span> эффектов.\nЕще вы можете расширенными пси-чарами попытаться <span class=\"card-link \">противодействовать</span> 1 эффекту накладывающему состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на вас или выбранного союзника, либо эффекту накладывающему состояние <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен</span> имеющее продолжительность 1 час или менее.\nЕсли вы успешно противодействуете эффекту, то убираете только состояния <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> или <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен</span>, но не другие части данного эффекта.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-mental-balm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пси-всплеск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3661\">Psi Burst</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Пси-всплеск",
+            "originalName": "Psi Burst",
+            "level": 2,
+            "traits": [
+                "психика",
+                "сдвиг разума",
+                "оккультный",
+                "эвокация",
+                "концентрация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в раунд</p><p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>С мимолетной мыслью вы направляете яростные экстрасенсорные энергии на ближайшее существо.\nВыберите целью 1 существо в пределах 30 футов.\nОно получает 1d4 дробящего урона, с простым спасброском Рефлекса.\nНа 3-м уровне и каждые 2 уровня после него, урон увеличивается на 1d4.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-psi-burst",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искривление пространства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3662\">Warp Space</a>) / 2",
+            "name": "Искривление пространства",
+            "originalName": "Warp Space",
+            "level": 2,
+            "traits": [
+                "расширение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Вы используете свою магию для изгибания пространства, заставляя свое заклинание бить по странному вектору.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.\nРасширенные пси-чары должны иметь дистанцию.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Выберите квадрат в пределах 30 футов от вас, до куда у вас есть <span class=\"card-link \">линия эффекта</span> и <span class=\"card-link \">линия обзора</span>.\nОпределяйте линию эффекта и линию обзора своего заклинания оттуда, а также, есть ли у существ укрытие против данного заклинания.\nЭто заклинание может превышать свою нормальную дистанцию, измеряемую от вас, до тех пор, пока оно находится в пределах своей нормальной дистанции от выбранного вами квадрата.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-warp-space",
+            "archetype": ""
+        },
+        {
+            "fullName": "Астральная привязь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3663\">Astral Tether</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Астральная привязь",
+            "originalName": "Astral Tether",
+            "level": 4,
+            "traits": [
+                "оккультный",
+                "преграждение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Вы прядете нить психической энергии, которая соединяет вас с союзником, используя его как проводник ваших умений.\nВыберите готовое существо в пределах 60 футов и соединитесь с ним.\nВсякий раз, когда вы получаете преимущество от психического расширения, вы вместо этого можете воздействовать расширением на привязанное существо.\nВы можете сделать это, только если расширение дает отдельное преимущество, а не изменяет расширенное заклинание.</p><p>Привязь нельзя разорвать физически, но она нарушается, если расстояние между вами и привязанным союзником превысит 60 футов, если вы будете <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> или, если вы снова используете \"Астральную привязь\".</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-astral-tether",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наводящий маячок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3664\">Homing Beacon</a>) / 4",
+            "name": "Наводящий маячок",
+            "originalName": "Homing Beacon",
+            "level": 4,
+            "traits": [
+                "расширение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 24</p><hr class=\"docutils\"><p>Когда ваше заклинание поражает цель, вы закладываете в ее разум маячок, который сообщает находящимся рядом о ее присутствии.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.\nЭти расширенные чары должны иметь 1 или несколько целей и должны требовать броска атаки заклинанием, либо совершения спасброска.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Выберите 1 существо по которому попало данное заклинание (если у заклинания бросок атаки) или провалившее свой спасбросок против данного заклинания (если заклинание требует спасброска).\nПсихический маячок излучает из местоположения существа, делая его легче заметным, так как разум и внимание наблюдающих слегка притягивается к нему.\nНа 1 минуту, если цель станет <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимой</span>, то вместо этого будет едва <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыта</span>, а если будет <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыта</span>, то больше не <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыта</span>.</p>",
+            "src": "Dark Archive pg. 24",
+            "action": "",
+            "id": "class-feat-psychic-homing-beacon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пси-удары (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3665\">Psi Strikes</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Пси-удары",
+            "originalName": "Psi Strikes",
+            "level": 4,
+            "traits": [
+                "сдвиг разума",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в ход</p><p><strong>Требования</strong>: Ваше последнее действие было <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> или <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыть психику (Unleash Psyche) </span></p><p><strong>Источник</strong>: Dark Archive pg. 25</p><hr class=\"docutils\"><p>Вы перекачиваете остаточные психические энергии от своего заклинания в 1 оружие, которым вы владеете или в 1 из ваших безоружных атак, и когда вы высвобождаете свой разум, энергия вспыхивает в унисон.\nЭта атака до конца текущего хода наносит дополнительные 1d6 урона силой.\nЕсли у вас <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, то вместо этого, данное преимущество длится пока психика не стихнет.</p>",
+            "src": "Dark Archive pg. 25",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-psi-strikes",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыв мыслеформы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3666\">Thoughtform Summoning</a>) / 4",
+            "name": "Призыв мыслеформы",
+            "originalName": "Thoughtform Summoning",
+            "level": 4,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 25</p><hr class=\"docutils\"><p>Вы можете создать прототип существа из глубин своего воображения вместо того, чтобы призывать его из другого места.\nКаждый раз при призыве существа, вы вместо этого можете на свой выбор создать психический конструкт этого существа.\nЭто дает ему сопротивление физическому урону, равное половине его уровня, слабость 5 урону силой и ментальному урону, а также возможность проходить сквозь пространства врагов без необходимости <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскакивать (Tumble Through)</span> (однако оно не может закончить свой ход в занятом пространстве).</p>",
+            "src": "Dark Archive pg. 25",
+            "action": "",
+            "id": "class-feat-psychic-thoughtform-summoning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мощное раскрытие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3667\">Violent Unleash</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 4",
+            "name": "Мощное раскрытие",
+            "originalName": "Violent Unleash",
+            "level": 4,
+            "traits": [
+                "сдвиг разума",
+                "эвокация",
+                "оккультный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span></p><p><strong>Источник</strong>: Dark Archive pg. 25</p><hr class=\"docutils\"><p>Сила вашего высвобождающегося разума, потрясает ваших врагов мощной ударной волной.\nВы наносите всем существам в 20-футовой эманации 2d6 урона силой, с простым спасброском Рефлекса.\nЭтот взрыв требует больших усилий, и вы <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлены 1</span>.</p><p>На 5-м уровне и каждые 2 уровня после него, урон увеличивается на 1d6.</p>",
+            "src": "Dark Archive pg. 25",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-violent-unleash",
+            "archetype": ""
+        },
+        {
+            "fullName": "Инерционный барьер (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3668\">Inertial Barrier</a>) / 6",
+            "name": "Инерционный барьер",
+            "originalName": "Inertial Barrier",
+            "level": 6,
+            "traits": [
+                "расширение",
+                "оккультный",
+                "преграждение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 25</p><hr class=\"docutils\"><p>Ваше заклинание оставляет после себя барьеры, которые уменьшают удар и движение.\nИспользуйте это расширение вместо обычного расширения пси-чар.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Вы или 1 цель этого заклинания получаете до начала вашего следующего хода сопротивление физическому урону, равное 2 + уровень заклинания.</p>",
+            "src": "Dark Archive pg. 25",
+            "action": "",
+            "id": "class-feat-psychic-inertial-barrier",
+            "archetype": ""
+        },
+        {
+            "fullName": "Параллельный прорыв (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3669\">Parallel Breakthrough</a>) / 6",
+            "name": "Параллельный прорыв",
+            "originalName": "Parallel Breakthrough",
+            "level": 6,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 25</p><hr class=\"docutils\"><p>Вы расширяете свой разум за пределы своей специализации в экстрасенсорике.\nВы получаете пси-чары 1-го уровня для сознания, отличающегося от вашего собственного; это могут быть либо уникальные поверхностные чары, либо 1 из <span class=\"r-common\">обычных</span> чар и сопутствующее расширение.\nЕсли вы выбираете обычные чары, то еще получаете особое преимущество, даваемое этим сознанием при сотворении данных чар без расширения.\nВы не получаете никаких других преимуществ этого сознания, таких как дополнительные известные заклинания.</p>",
+            "src": "Dark Archive pg. 25",
+            "action": "",
+            "id": "class-feat-psychic-parallel-breakthrough",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шестое чувство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3670\">Sixth Sense</a>) / 6",
+            "name": "Шестое чувство",
+            "originalName": "Sixth Sense",
+            "level": 6,
+            "traits": [
+                "оккультный",
+                "прорицание",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 26</p><hr class=\"docutils\"><p>Ваши экстрасенсорные возможности еще позволяют обнаруживать затянувшиеся мысли духов и подобных сущностей.\nПока вы исследуете, но не <span class=\"card-link \">Ищете (Searching)</span>, Мастер кидает за вас <span class=\"t-secret\">тайную</span> проверку, для нахождения <span class=\"t-haunt\">призраков</span>, для которых обычно требуется Искать, а также <span class=\"t-spirit\">духов</span>, существ на <span class=\"card-link \">Эфирном Плане</span> и сущностей полностью состоящих из духовной сущности, таких как <span class=\"t-celestial\">небожители</span>, <span class=\"t-fiend\">бесы</span> и <span class=\"t-monitor\">наблюдатели</span>.</p><p>Вы также можете потенциально замечать <span class=\"t-ethereal\">эфирных</span> существ и <span class=\"t-spirit\">духов</span> внутри твердых объектов, если они находятся в пределах 30 футов от вас.\nЭто применимо когда вы <span class=\"card-link \">Ищете (Searching)</span> в исследовании, используете <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seeking)</span> и при автоматической <span class=\"t-secret\">тайной</span> проверке от \"Шестого чувства\".\nВы по-прежнему можете заметить <span class=\"t-spirit\">духов</span> только при успешной проверке, и вы не сможете увидеть их, если они находятся внутри объекта на расстоянии более 5 футов.</p><p>Когда вы замечаете существо своим \"Шестым чувством\", вы также узнаете его местоположение, что делает его <span class=\"card-link std std-ref\" data-id=\"c-hidden\">спрятанным</span> для вас, если бы оно было <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаруженным</span>.</p>",
+            "src": "Dark Archive pg. 26",
+            "action": "",
+            "id": "class-feat-psychic-sixth-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Стойкое колдовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=194\">Steady Spellcasting (Psychic)</a>) / 6",
+            "name": "Стойкое колдовство",
+            "originalName": "Steady Spellcasting",
+            "level": 6,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 26</p><hr class=\"docutils\"><p>Вы уверены в своих колдовских приемах и способны легче восстановить свою концентрацию когда выполняете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span>.\nЕсли реакция прервет ваше заклинательское действие, совершите чистую проверку с КС 15.\nВ случае успеха, ваше действие не прерывается.</p>",
+            "src": "Dark Archive pg. 26",
+            "action": "",
+            "id": "class-feat-psychic-steady-spellcasting",
+            "archetype": ""
+        },
+        {
+            "fullName": "Напряжение разума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3671\">Strain Mind</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 6",
+            "name": "Напряжение разума",
+            "originalName": "Strain Mind",
+            "level": 6,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы сотворяете пси-чары</p><p><strong>Требования</strong>: У вас 0 Очков Фокусировки</p><p><strong>Источник</strong>: Dark Archive pg. 26</p><hr class=\"docutils\"><p>Вы напрягаете свое тело до предела, чтобы использовать расширение, даже когда ваша ментальная сила исчерпана.\nВы добавляете к заклинанию расширение, которое стоит 1 Очко Фокусировки.\nВместо того, чтобы заплатить обычную стоимость Очком Фокусировки, вы теряете Очки Здоровья, равные уровню расширенного заклинания пси-чар помноженного на 4, так как у вас идет кровь из носа или появляются другие видимые признаки напряжения.</p>",
+            "src": "Dark Archive pg. 26",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-strain-mind",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осушение ума (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3672\">Brain Drain</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Осушение ума",
+            "originalName": "Brain Drain",
+            "level": 8,
+            "traits": [
+                "психика",
+                "оккультный",
+                "прорицание",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 26</p><hr class=\"docutils\"><p>Усилием воли вы вытягиваете ментальную энергию существа, чтобы пополнить свою собственную.\nОдно не <span class=\"t-mindless\">неразумное</span> существо в пределах 30 футов должно совершить спасбросок Воли против вашего КС заклинания.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Существо невредимо.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманено 1</span> на 1 минуту и вы восстанавливаете 1 Очко Фокусировки, вплоть до своего обычного максимума. Вы не можете снова использовать \"Осушение ума\" до своих следующих ежедневных приготовлений.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Как провал, но существо <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманено 2</span>.</div>\n</div>",
+            "src": "Dark Archive pg. 26",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-psychic-brain-drain",
+            "archetype": ""
+        },
+        {
+            "fullName": "Присутствие темной личности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3673\">Dark Persona's Presence</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Присутствие темной личности",
+            "originalName": "Dark Persona's Presence",
+            "level": 8,
+            "traits": [
+                "аура",
+                "очарование",
+                "страх",
+                "эмоция",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span></p><p><strong>Источник</strong>: Dark Archive pg. 26</p><hr class=\"docutils\"><p>Когда вы <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span>, вместе с ней приходят весь ваш гнев и боль - та часть вашей психики, посвященная жестокому возмездию.</p><p>Сила негатива вашей темной личности постоянно бьет по всем существам в 30-футовой эманации когда вы <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span> и до тех пор, пока ваша \"Психика раскрыта\".\nСущество должно совершить спасбросок Воли против вашего КС заклинания в первый раз, когда оно попадает в эманацию, или если оно находится в эманации, когда вы выполняете это действие; ему не нужно совершать повторный спасбросок, даже если оно покидает эманацию и возвращается обратно.\nСущество, напуганное вашим \"Присутствием темной личности\", не может снизить свое значение <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> ниже 1 пока находится в эманации.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо невредимо.</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугано 1</span>.</div>\n<div class=\"line\"><strong>Провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугано 2</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугано 3</span>.</div>\n</div><p>Пока ваша \"Психика раскрыта\", ваша темная личность жаждет только разрушения.\nВы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворять (Cast)</span> заклинание только если оно может напрямую нанести урон врагу или объекту, либо наложить на него вредное состояние или штраф.</p>",
+            "src": "Dark Archive pg. 26",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-dark-personas-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ментальная статика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3674\">Mental Static</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 8",
+            "name": "Ментальная статика",
+            "originalName": "Mental Static",
+            "level": 8,
+            "traits": [
+                "оккультный",
+                "очарование",
+                "несмертельный",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получаете крит.успех при броске спасброска Воли против <span class=\"t-mental\">ментального</span> эффекта от существа</p><p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Ваши мысли жалят в ответ, когда к вам пытается вторгнуться низший разум.\nВы наносите спровоцировавшему существу ментальный урон, равный вашему уровню.\nЕсли хотите, вы можете послать существу один мысленный образ, совпадающий с уроном, например, бдительное око или ужас от плавания в бесконечном море.</p>",
+            "src": "Dark Archive pg. 27",
+            "action": "реакция",
+            "id": "class-feat-psychic-mental-static",
+            "archetype": ""
+        },
+        {
+            "fullName": "Убрать присутствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3675\">Remove Presence</a>) / 8",
+            "name": "Убрать присутствие",
+            "originalName": "Remove Presence",
+            "level": 8,
+            "traits": [
+                "расширение",
+                "оккультный",
+                "иллюзия",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Ваше заклинание проникает в разум существа и удаляет вас из него.\nЭти расширенные чары должны иметь 1 или несколько целей и должны требовать броска атаки заклинанием, либо совершения спасброска.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Выберите 1 цель заклинания или 1 существо в его области.\nЕсли данный враг провалит спасбросок или заклинание попадет в него, вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружены</span> для этого существа, исчезая для его чувств на 1 минуту или пока вы не примените враждебное действие.\nЭто похоже на становление <span class=\"card-link std std-ref\" data-id=\"c-invisible\">невидимым</span>, но эффекты, подобные <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> не раскрывают вас - вы воздействуете на разум цели, а не на ее зрение.\n<span class=\"card-link std std-ref\" data-id=\"spell-t-true-seeing\">Истинное зрение (True Seeing) / Закл. 6</span> все еще может видеть сквозь эту иллюзию, если проверка <span class=\"card-link \">противодействия</span> прошла успешно.</p>",
+            "src": "Dark Archive pg. 27",
+            "action": "",
+            "id": "class-feat-psychic-remove-presence",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мыслечувствительность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3676\">Thoughtsense</a>) / 8",
+            "name": "Мыслечувствительность",
+            "originalName": "Thoughtsense",
+            "level": 8,
+            "traits": [
+                "оккультный",
+                "прорицание",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Вы можете обнаруживать мерцания ментальной активности, испускаемые всеми мыслящими существами.\nВы получаете мыслечувствительность как <span class=\"card-link \">смутное чувство</span> с дистанцией 30 футов; как и все смутные чувства, оно примерно так же точно, как обоняние среднестатистического человека, то есть вы можете предсказать только присутствие существа.\nВаша мыслечувствительность обнаруживает только мыслящих существ, поэтому немыслящие существа или которые иным образом иммунны к ментальным эффектам (например, многие <span class=\"t-construct\">конструкты</span> и <span class=\"t-ooze\">слизи</span>), не могут быть ощущены вашей мыслечувствительностью, независимо от того, насколько она точна.</p><p>Когда у вас <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, ваша мыслечувствительность улучшается до <span class=\"card-link \">неточного чувства</span>, позволяя вам использовать его для <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиска (Seek)</span> существ.</p>",
+            "src": "Dark Archive pg. 27",
+            "action": "",
+            "id": "class-feat-psychic-thoughtsense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шепчущие шаги (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3677\">Whispering Steps</a>) / 8",
+            "name": "Шепчущие шаги",
+            "originalName": "Whispering Steps",
+            "level": 8,
+            "traits": [
+                "расширение",
+                "оккультный",
+                "очарование",
+                "ментальный",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Ваше заклинание оставляет между вами и существом длительную связь, через которую вы можете подталкивать его разум в ту или иную сторону.\nЭти расширенные чары должны занимать 2 или более действий на сотворение, выбирать целью 1 или несколько существ, и требовать броска атаки заклинанием, либо совершения спасброска.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Выберите 1 врага, который является целью заклинания.\nЕсли этот враг проваливает спасбросок или заклинание попадет в него, вы шепчете в его разум, заставляя <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагнуть (Step)</span> в выбранном вами направлении; поскольку это <span class=\"card-link \">принудительное передвижение</span>, вы не можете заставить существо Шагнуть в <span class=\"card-link \">опасную местность</span>, с уступа и т.п.\nПосле того как существо Шагнет, оно становится временно иммунно к этому расширению на 24 часа.</p>",
+            "src": "Dark Archive pg. 27",
+            "action": "",
+            "id": "class-feat-psychic-whispering-steps",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воображаемое обличье (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3678\">Dream Guise</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Воображаемое обличье",
+            "originalName": "Dream Guise",
+            "level": 10,
+            "traits": [
+                "психика",
+                "оккультный",
+                "иллюзия",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: подсознание <span class=\"card-link \">Блуждающая мечтательность (Wandering Reverie)</span></p><p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Вы <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span> в пространство готового союзника, в этот момент обе ваши внешности смещаются в общую третью, обычно похожую на смесь двух ваших обликов.\nЗатем либо вы, либо ваш союзник <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Steps)</span>.\nКаждый из вас сохраняет облик слияния.\nСущества, наблюдающие за этим, знают что произошло, но все равно должны <span class=\"card-link std std-ref\" data-id=\"action-seek\">Искать (Seek)</span> или иным образом взаимодействовать с иллюзией, чтобы попытаться не поверить в нее и определить, кто из вас кто.\nВ противном случае они не могут различить вас и будут иметь равные шансы целиться в каждого из вас (чистая проверка КС 11).\nЭта иллюзия заканчивается, как только действуете либо вы, либо союзник, с которым вы слились.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>В оригинале указаны \"Требования (Requirements)\", а не \"Предварительные условия (Prerequisites)\", но это не имеет смысла, потому что ты не можешь получить другое подсознание, а значит без ограничения на получение способности (Предв.условия), но с ограничением на использование (Требования), ты все равно не можешь ей пользоваться даже, если можешь взять.</p>\n</div>",
+            "src": "Dark Archive pg. 27",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-dream-guise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эмоциональный всплеск (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3679\">Emotional Surge</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Эмоциональный всплеск",
+            "originalName": "Emotional Surge",
+            "level": 10,
+            "traits": [
+                "психика",
+                "эмоция",
+                "концентрация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: подсознание <span class=\"card-link \">Эмоциональное принятие (Emotional Acceptance)</span></p><p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Ваше сердце парит, на мгновение увеличивая вашу силу.\nВы получаете бонус состояния +2 к броскам атак и проверкам навыков до начала вашего следующего хода.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>\"Требования\" изменены на \"Предварительные условия\" (см. выше).</p>\n</div>",
+            "src": "Dark Archive pg. 27",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-emotional-surge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Установить порядок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3680\">Impose Order (Psychic)</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Установить порядок",
+            "originalName": "Impose Order",
+            "level": 10,
+            "traits": [
+                "психика",
+                "удача",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: подсознание <span class=\"card-link \">Точная дисциплина (Precise Discipline)</span></p><p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Вы привносите дисциплину в свой разум и магию, гарантируя, что вы не будете недооценивать свои возможности.\nДо конца вашего хода, вместо того, чтобы кидать кости урона, считайте каждую кость урона как средний урон с округлением в большую сторону (3 для d4, 4 для d6, 5 для d8, 6 для d10 и 7 для d12).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>\"Требования\" изменены на \"Предварительные условия\" (см. выше).</p>\n</div>",
+            "src": "Dark Archive pg. 27",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-impose-order",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прочесать библиотеку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3681\">Scour the Library</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 10",
+            "name": "Прочесать библиотеку",
+            "originalName": "Scour the Library",
+            "level": 10,
+            "traits": [
+                "психика",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: подсознание <span class=\"card-link \">Накопленные знания (Gathered Lore)</span></p><p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Увидев атаку врага, вы быстро перебираете в уме обрывки знаний, синтезируя их в идеальный план.\nСделайте проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> (с подходящим навыком) об 1 существе в пределах 60 футов.\nПри успехе, в дополнение к обычным преимуществам, вы получаете бонус обстоятельства +1 к своему следующему броску атаки по этому существу и к своему КБ против следующей атаки этого существа.\nПри критическом успехе бонусы становятся +2.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>\"Требования\" изменены на \"Предварительные условия\" (см. выше).</p>\n</div>",
+            "src": "Dark Archive pg. 27",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-scour-the-library",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расширение коронных заклинаний (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1823\">Signature Spell Expansion (Psychic)</a>) / 10",
+            "name": "Расширение коронных заклинаний",
+            "originalName": "Signature Spell Expansion",
+            "level": 10,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 27</p><hr class=\"docutils\"><p>Ваше прямое ментальное понимание своей силы позволяет творить больше заклинаний с большей свободой.\nВы получаете 2 дополнительных коронных заклинания, каждое из которых должно иметь минимальный уровень 3 или ниже.</p>",
+            "src": "Dark Archive pg. 27",
+            "action": "",
+            "id": "class-feat-psychic-signature-spell-expansion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Предвиденный провал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3682\">Foreseen Failure</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Предвиденный провал",
+            "originalName": "Foreseen Failure",
+            "level": 12,
+            "traits": [
+                "удача",
+                "оккультный",
+                "прорицание",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Сотворенное вами заклинание не дало эффекта, потому что вы критически провалили все свои броски атак заклинания или все цели критически преуспели в своих спасбросках</p><p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Вы видите, что ваше заклинание провалилось и закончилось плачевно, а затем возвращаетесь к реальности - это было предвидением, и вы знаете, что нужно попробовать другое заклинание.\nВаше заклинание израсходовано, но вы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворить (Cast)</span> заклинание, на которое требуется столько же или меньше действий, как и на спровоцировавшее.\nВторое заклинание должно быть другим заклинанием, отличным от первого.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-foreseen-failure",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нет!!! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3683\">No!!!</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Нет!!!",
+            "originalName": "No",
+            "level": 12,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Здоровье союзника в пределах 60 футов, не являющегося <span class=\"t-minion\">миньоном</span>, снижено до 0 ОЗ</p><p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Шок от того, что ваш союзник близок к смерти, разрушает любые ограничения, существующие в вашем разуме, выплескивая вашу силу.\nЕсли у вас в данный момент <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, то вы можете мгновенно использовать действие <span class=\"t-psyche\">психики</span>, требующее 1 действие или менее.\nЕсли в данный момент ваша психика не раскрыта, то вы <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span>, и она остается раскрытой до конца вашего следующего хода.\nВы можете игнорировать требование \"Раскрытия психики\" о необходимости <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяния (Cast)</span> заклинания в предыдущем ходу, но вы все равно не можете \"Раскрыть психику\", если <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманены</span> или в течение 2 раундов после того, как ваша психика утихает.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "реакция",
+            "id": "class-feat-psychic-no",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пси-бедствие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3684\">Psi Catastrophe</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 12",
+            "name": "Пси-бедствие",
+            "originalName": "Psi Catastrophe",
+            "level": 12,
+            "traits": [
+                "психика",
+                "сдвиг разума",
+                "оккультный",
+                "эвокация",
+                "концентрация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Вы перестаете сдерживать свою силу и высвобождаете ее катастрофическим взрывом.\nВсе существа в 20-футовой эманации получают 1d6 дробящего урона за уровень, с простым спасброском Рефлекса.\nВаша психика утихает, так как вы израсходовали силы.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "активность из 2-х действий",
+            "id": "class-feat-psychic-psi-catastrophe",
+            "archetype": ""
+        },
+        {
+            "fullName": "Специализация заклинаний сознания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3685\">Conscious Spell Specialization</a>) / 14",
+            "name": "Специализация заклинаний сознания",
+            "originalName": "Conscious Spell Specialization",
+            "level": 14,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Вы становитесь более искусны в заклинаниях, которые постоянно находятся в вашем разуме.\nВы получаете дополнительный слот заклинания 1-го, 2-го, 3-го и 4-го уровней.\nВы можете использовать эти слоты только для сотворения заклинаний, даваемых вашим сознанием.\nНа 18-м уровне вы еще получаете дополнительный слот заклинаний 5-го уровня, с теми же ограничениями.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "",
+            "id": "class-feat-psychic-conscious-spell-specialization",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глубокие корни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3686\">Deep Roots</a>) / 14",
+            "name": "Глубокие корни",
+            "originalName": "Deep Roots",
+            "level": 14,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Ваши заклинания контроля разума пускают ментальные корни, разрывающие разум вашей цели когда их убирают или они прекращают свое действие.\nКогда вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> заклинание, накладывающее состояние <span class=\"card-link std std-ref\" data-id=\"c-controlled\">под контролем</span> или иным образом заставляющее цель совершать определенные действия (например <span class=\"card-link std std-ref\" data-id=\"spell-c-command\">Приказ (Command) / Закл. 1</span>), то можете выбрать 1 цель, которая критически провалила свой спасбросок.\nКогда эта цель заканчивает выполнять любые команды, отданные вашим заклинанием, или когда заклинание <span class=\"card-link std std-ref\" data-id=\"spell-d-dispel-magic\">рассеяно</span> или ему <span class=\"card-link \">противодействовали</span>, то цель получает 1d6 ментального урона за уровень этого заклинания.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "",
+            "id": "class-feat-psychic-deep-roots",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разрыв пространства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3687\">Shatter Space</a>) / 14",
+            "name": "Разрыв пространства",
+            "originalName": "Shatter Space",
+            "level": 14,
+            "traits": [
+                "расширение",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 28</p><hr class=\"docutils\"><p>Чистая сила вашей магии разрушает реальность.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.\nСотворение этих чар должно занимать 2 или более действий.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Вы или 1 цель этого заклинания окружены спиралью разорванного пространства.\nЭто <span class=\"t-aura\">аура</span>, и вы сами выбираете радиус эманации, вплоть до 20 футов.\nСущество, начинающее свой ход в этой ауре или попадающее в ауру во время своего хода, получает 1d6 рубящего урона за каждый уровень расширенных пси-чар, с простым спасброском Рефлекса против вашего КС заклинания.\nЕсли существо критически проваливает, разорванное пространство выводит его из равновесия, и существо падает <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.\nАура длится до начала вашего следующего хода.\nВы можете выбрать, будет ли аура воздействовать на испускающее ее существо.</p>",
+            "src": "Dark Archive pg. 28",
+            "action": "",
+            "id": "class-feat-psychic-shatter-space",
+            "archetype": ""
+        },
+        {
+            "fullName": "Постоянная левитация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3688\">Constant Levitation</a>) / 16",
+            "name": "Постоянная левитация",
+            "originalName": "Constant Levitation",
+            "level": 16,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Ваша сила оторвала вас от земли.\nНа вас постоянно действует заклинание <span class=\"card-link std std-ref\" data-id=\"spell-f-fly\">Полет (Fly) / Закл. 4</span>, а когда у вас <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, вы получаете бонус состояния +10 футов к своей Скорости полета.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-constant-levitation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цель психического гнева (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3689\">Target of Psychic Ire</a>) / 16",
+            "name": "Цель психического гнева",
+            "originalName": "Target of Psychic Ire",
+            "level": 16,
+            "traits": [
+                "расширение",
+                "оккультный",
+                "эвокация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Ваша магия насыщает окружающее пространство ненавистной психической энергией.\nИспользуйте это расширение вместо нормальной записи расширения у пси-чар.\nЭти чары должны сотворяться за 2 или более действий, и выбирать целью существо.</p><hr class=\"docutils\"><p><strong>Расширение</strong>: Выберите 1 цель заклинания.\nПсихические явления обращаются на цель - как правило, в существо летят объекты.\nВ начале каждого хода цели, она получает 1d4 дробящего урона за каждый уровень заклинания расширенных пси-чар, с простым спасброском Рефлекса.\nЦель остается отмеченной психическим гневом на 3 раунда.\nЭффект сохраняется, даже если вы окажетесь <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">без сознания</span> или покинете эту область.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-target-of-psychic-ire",
+            "archetype": ""
+        },
+        {
+            "fullName": "Блуждающие мысли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3690\">Wandering Thoughts</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 16",
+            "name": "Блуждающие мысли",
+            "originalName": "Wandering Thoughts",
+            "level": 16,
+            "traits": [
+                "психика",
+                "оккультный",
+                "телепортация",
+                "концентрация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в раунд</p><p><strong>Требования</strong>: Вы использовали прошлое действие на <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span></p><p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Когда у вас <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрыта психика (Psyche is Unleashed)</span>, каждый сотворяемый вами всплеск магии, также складывает пространство вокруг вас, и вы перемещаетесь через одну из этих складок.\nВы телепортируетесь на 15 футов в квадрат, который можете видеть.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-wandering-thoughts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лишь твое воображение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3691\">All in your Head</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Лишь твое воображение",
+            "originalName": "All in your Head",
+            "level": 18,
+            "traits": [
+                "психика",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы готовы совершить спасбросок Стойкости или Рефлекса</p><p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Пламя жгущее ваше тело, яд текущий по венам - вы отказываетесь верить в их существование, и ничто не может повлиять на вас, если вы не верите в это.\nВы совершаете против спровоцировавшего эффекта спасбросок Воли, вместо спасброска Рефлекса или Стойкости.\nДля этого спасброска вы не получаете преимуществ <span class=\"card-link \">Стены воли (Walls of Will) / 11-й</span> или <span class=\"card-link \">Крепость воли (Fortress of Will) / 17-й</span>.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "реакция",
+            "id": "class-feat-psychic-all-in-your-head",
+            "archetype": ""
+        },
+        {
+            "fullName": "Черепная детонация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3692\">Cranial Detonation</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 18",
+            "name": "Черепная детонация",
+            "originalName": "Cranial Detonation",
+            "level": 18,
+            "traits": [
+                "психика",
+                "сдвиг разума",
+                "смерть",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в раунд</p><p><strong>Триггер</strong>: Вы успешно снижаете ОЗ одного или нескольких не <span class=\"t-mindless\">неразумных</span> врагов с помощью заклинания</p><p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Когда ваша подавляющая психика сражает существо, вы используете его мерцающее сознание для детонации психической энергии из головы существа.\nКаждый враг, которому вы снизили ОЗ до 0, умирает, а его голова взрывается.\nКаждая взорвавшаяся голова порождает ударную волну в 15-футовой эманации вокруг данного врага.\nКаждое существо в любой из этих эманаций получает 10d6 дробящего урона с простым спасброском Рефлекса.\nЕсли этот урон снижает ОЗ врага до 0, его голова тоже взрывается, потенциально нанося урон большему количеству существ и вызывая больше детонаций.\nКаждое конкретное существо может только 1 раз получить урон от 1 применения \"Черепной детонации\".</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "свободное действие",
+            "id": "class-feat-psychic-cranial-detonation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Глубочайший источник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3693\">Deepest Wellspring</a>) / 18",
+            "name": "Глубочайший источник",
+            "originalName": "Deepest Wellspring",
+            "level": 18,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Вы заглянули в самые дальние уголки своего разума.\nЕсли вы потратили хотя бы 3 Очка Фокусировки с прошлого использования <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span>, то при использовании этого действия вы восстанавливаете 3 Очка Фокусировки, даже если потратили свои Очки Фокусировки на заклинания не являющиеся вашими экстрасенсорными возможностями.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-deepest-wellspring",
+            "archetype": ""
+        },
+        {
+            "fullName": "Становление мыслью (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3694\">Become Thought</a>) / 20",
+            "name": "Становление мыслью",
+            "originalName": "Become Thought",
+            "level": 20,
+            "traits": [
+                "трансмутация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Вы сбрасываете часть материальной формы, становясь сущностью чистой мысли.\nЭто обладает следующими эффектами:</p><ul class=\"simple\">\n<li><p>Вы получаете сопротивление 10 физическому урону, но слабость 5 ментальному урону и слабость 10 любому эффекту, наносящему урон целясь в дух, как <span class=\"card-link std std-ref\" data-id=\"spell-s-spirit-blast\">Духовный взрыв (Spirit Blast) / Закл. 6</span>.</p></li>\n<li><p>Вы можете по желанию изменять свою внешность. Это делается одиночным действием обладающим признаком <span class=\"t-concentrate\">концентрации</span>, имеет эффекты <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span> и длится пока вы снова не смените свою внешность.</p></li>\n<li><p>Раз в год, когда умираете, вы автоматически возвращаетесь к жизни на следующий день, пока хоть 1 существо на вашем плане помнит вас; эти воспоминания позволяют вам восстановить себя из их мыслей. Вы появляетесь поблизости от существа, которое наиболее хорошо помнит вас.</p></li>\n</ul>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-become-thought",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разум превыше материи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3695\">Mind over Matter</a>) / 20",
+            "name": "Разум превыше материи",
+            "originalName": "Mind over Matter",
+            "level": 20,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Пределы вашего разума такие, какими вы их сами представляете.\nВы получаете дополнительный слот заклинания 10-го уровня.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-mind-over-matter",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сдвоенная психика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3696\">Twin Psyche</a>) / 20",
+            "name": "Сдвоенная психика",
+            "originalName": "Twin Psyche",
+            "level": 20,
+            "traits": [
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Вы сегментировали свою психику, чтобы она могла действовать в тандеме.\nКогда <span class=\"card-link std std-ref\" data-id=\"action-psychic-unleash-psyche\">Раскрываете психику (Unleash your Psyche)</span>, вы можете удвоить ее продолжительность.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "",
+            "id": "class-feat-psychic-twin-psyche",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безграничный потенциал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3697\">Unlimited Potential</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 20",
+            "name": "Безграничный потенциал",
+            "originalName": "Unlimited Potential",
+            "level": 20,
+            "traits": [
+                "метамагия",
+                "воздействие",
+                "концентрация",
+                "экстрасенс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Источник</strong>: Dark Archive pg. 29</p><hr class=\"docutils\"><p>Законы магии могут ограничивать ваш разум, только если вы считаете, что они вам нужны, а вы уже переросли потребности в таких ограничениях.\nЕсли ваше следующее действие - <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворение заклинания (Cast a Spell)</span> 5-го уровня или ниже, которое не имеет продолжительности, то вы не расходуете заклинание при его сотворении.</p>",
+            "src": "Dark Archive pg. 29",
+            "action": "одиночное действие",
+            "id": "class-feat-psychic-unlimited-potential",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посвящение воина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=709\">Fighter Dedication</a>) / 2",
+            "name": "Посвящение воина",
+            "originalName": "Fighter Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Сила 14, Ловкость 14</p><hr class=\"docutils\"><p>Вы становитесь обучены простому и воинскому оружию.\nВы становитесь обучены Акробатике или Атлетике на свой выбор; если вы уже обучены обоим этим навыкам, то можете обучиться другому навыку на свой выбор.\nВы становитесь обучены КС класса воина.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа воина.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-dedication",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Основной прием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=710\">Basic Maneuver</a>) / 4",
+            "name": "Основной прием",
+            "originalName": "Basic Maneuver",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-fighter-dedication\">Посвящение воина (Fighter Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность воина 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-basic-maneuver",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Воинская стойкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=711\">Fighter Resiliency (Archetype)</a>) / 4",
+            "name": "Воинская стойкость",
+            "originalName": "Fighter Resiliency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-fighter-dedication\">Посвящение воина (Fighter Dedication) / 2</span>, класс дающий за уровень не более 8 + модификатор Телосложения ОЗ</p><hr class=\"docutils\"><p>Вы получаете дополнительные 3 ОЗ за каждую имеющуюся у вас классовую способность архетипа воина.\nПо мере продолжения получения классовых способностей архетипа воина, вы продолжаете получать дополнительные ОЗ таким способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-resiliency",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Оппортунист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=712\">Opportunist</a>) / 4",
+            "name": "Оппортунист",
+            "originalName": "Opportunist",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-fighter-dedication\">Посвящение воина (Fighter Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете реакцию <span class=\"card-link std std-ref\" data-id=\"action-fighter-attack-of-opportunity\">Возможность для атаки (Attack of Opportunity) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-opportunist",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Улучшенный прием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=713\">Advanced Maneuver</a>) / 6",
+            "name": "Улучшенный прием",
+            "originalName": "Advanced Maneuver",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-fighter-basic-maneuver\">Основной прием (Basic Maneuver) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность воина.\nС целью соответствия ее предварительным условиям, ваш уровень воина равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность воина.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-advanced-maneuver",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Разносторонний эксперт оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=714\">Diverse Weapon Expert</a>) / 12",
+            "name": "Разносторонний эксперт оружия",
+            "originalName": "Diverse Weapon Expert",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-fighter-dedication\">Посвящение воина (Fighter Dedication) / 2</span>, эксперт в любом виде оружия или безоружной атаки</p><hr class=\"docutils\"><p>Ваши уровни мастерства простого и воинского оружия увеличиваются до эксперта, а ваш уровень мастерства продвинутого оружия увеличивается до обученного.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-fighter-diverse-weapon-expert",
+            "archetype": "Мультикласс Воин (Fighter )"
+        },
+        {
+            "fullName": "Посвящение варвара (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=671\">Barbarian Dedication</a>) / 2",
+            "name": "Посвящение варвара",
+            "originalName": "Barbarian Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Сила 14, Телосложение 14</p><hr class=\"docutils\"><p>Вы становитесь обучены Атлетике; если вы уже были обучены Атлетике, то становитесь обучены навыку на свой выбор.\nВы становитесь обучены КС класса варвара.</p><p>Вы можете использовать действие <span class=\"card-link std std-ref\" data-id=\"action-barbarian-rage\">Ярость (Rage) </span>.</p><p>Выберите инстинкт, как если бы вы были варваром.\nУ вас есть этот инстинкт для всех целей и вы становитесь связаны его анафемой, но не получаете любые другие даваемые им возможности.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа варвара.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-dedication",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Варварская стойкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=672\">Barbarian Resiliency</a>) / 4",
+            "name": "Варварская стойкость",
+            "originalName": "Barbarian Resiliency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-barbarian-dedication\">Посвящение варвара (Barbarian Dedication) / 2</span>, класс дающий за уровень не более 10 + модификатор Телосложения ОЗ</p><hr class=\"docutils\"><p>Вы получаете дополнительные 3 ОЗ за каждую имеющуюся у вас классовую способность архетипа варвара.\nПо мере продолжения получения классовых способностей архетипа варвара, вы продолжаете получать дополнительные ОЗ таким способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-resiliency",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Основная ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=673\">Basic Fury</a>) / 4",
+            "name": "Основная ярость",
+            "originalName": "Basic Fury",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-barbarian-dedication\">Посвящение варвара (Barbarian Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность варвара 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-basic-fury",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Улучшенная ярость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=674\">Advanced Fury</a>) / 6",
+            "name": "Улучшенная ярость",
+            "originalName": "Advanced Fury",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-barbarian-basic-fury\">Основная ярость (Basic Fury) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность варвара.\nС целью соответствия предварительным условиям, ваш уровень варвара равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность варвара.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-advanced-fury",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Способность инстинкта (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=675\">Instinct Ability</a>) / 6",
+            "name": "Способность инстинкта",
+            "originalName": "Instinct Ability",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-barbarian-dedication\">Посвящение варвара (Barbarian Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете умение инстинкта, того, который выбирали в способности посвящения.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-instinct-ability",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Стойкость джаггернаута (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=676\">Juggernaut's Fortitude</a>) / 12",
+            "name": "Стойкость джаггернаута",
+            "originalName": "Juggernaut's Fortitude",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт спасбросков Стойкости, <span class=\"card-link std std-ref\" data-id=\"arch-feat-barbarian-dedication\">Посвящение варвара (Barbarian Dedication) / 2</span></p><hr class=\"docutils\"><p>Ваш уровень мастерства спасбросков Стойкости увеличивается до мастера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-barbarian-juggernauts-fortitude",
+            "archetype": "Мультикласс Варвар (Barbarian )"
+        },
+        {
+            "fullName": "Посвящение чемпиона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=686\">Champion Dedication</a>) / 2",
+            "name": "Посвящение чемпиона",
+            "originalName": "Champion Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Сила 14, Харизма 14</p><hr class=\"docutils\"><p>Выберите божество и побуждение, как если бы вы были чемпионом.\nВы становитесь обучены обращению с легкими, средними и тяжелыми доспехами.\nВы становитесь обучены Религии и навыку связанному с вашим божеством; для каждого из этих навыков, которому вы уже были обучены, вы можете стать обученным другому навыку на свой выбор.\nВы становитесь обучены КС класса чемпиона.</p><p>Вы становитесь связаны анафемой вашего божества и должны следовать кодексу чемпиона и мировоззрению, требуемому вашим побуждение.\nВы не получаете любые другие возможность от вашего выбора божества или побуждения.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа чемпиона.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-dedication",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Основная преданность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=687\">Basic Devotion</a>) / 4",
+            "name": "Основная преданность",
+            "originalName": "Basic Devotion",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность чемпиона 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-basic-devotion",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Чемпионская стойкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=688\">Champion Resiliency</a>) / 4",
+            "name": "Чемпионская стойкость",
+            "originalName": "Champion Resiliency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span>, класс дающий за уровень не более 8 + модификатор Телосложения ОЗ</p><hr class=\"docutils\"><p>Вы получаете дополнительные 3 ОЗ за каждую имеющуюся у вас классовую способность архетипа чемпиона.\nПо мере продолжения получения классовых способностей архетипа чемпиона, вы продолжаете получать дополнительные ОЗ таким способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-resiliency",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Исцеляющее касание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=689\">Healing Touch</a>) / 4",
+            "name": "Исцеляющее касание",
+            "originalName": "Healing Touch",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете заклинание преданности соответствующее вашему побуждению (<span class=\"card-link std std-ref\" data-id=\"spell-focus-lay-on-hands\">Наложение рук (Lay On Hands) / Фокус. 1</span> для паладина, искупителя и освободителя).</p><p>Если у вас еще не было запаса Очков Фокусировки, то вы его получаете с 1 ОФ, которое можете восстановить используя <span class=\"card-link std std-ref\" data-id=\"action-refocus\">Сфокусироваться (Refocus)</span> молясь или служа своему божеству (для подробностей смотрите описание класса чемпиона - <span class=\"card-link \">Заклинания преданности (Devotion Spells)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-healing-touch",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Сильная преданность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=690\">Advanced Devotion</a>) / 6",
+            "name": "Сильная преданность",
+            "originalName": "Advanced Devotion",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-basic-devotion\">Основная преданность (Basic Devotion) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность чемпиона.\nС целью соответствия предварительным условиям, ваш уровень чемпиона равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность чемпиона.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-advanced-devotion",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Реакция чемпиона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=691\">Champion's Reaction</a>) / 6",
+            "name": "Реакция чемпиона",
+            "originalName": "Champion's Reaction",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы можете использовать <span class=\"card-link \">Реакция чемпиона (Champion's Reaction)</span> связанную с вашим побуждением.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-reaction",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Божественный союзник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=692\">Divine Ally</a>) / 6",
+            "name": "Божественный союзник",
+            "originalName": "Divine Ally",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете особенность <span class=\"card-link \">Божественный союзник (Divine Ally) / 3-й</span> на свой выбор.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-divine-ally",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Разносторонний эксперт доспехов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=693\">Diverse Armor Expert</a>) / 14",
+            "name": "Разносторонний эксперт доспехов",
+            "originalName": "Diverse Armor Expert",
+            "level": 14,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-champion-dedication\">Посвящение чемпиона (Champion Dedication) / 2</span>, эксперт в защите без доспеха, или в одном или более видах доспеха</p><hr class=\"docutils\"><p>Ваш уровень мастерства легких, средних, тяжелых доспехов и защите без доспехов увеличивается до эксперта.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-champion-diverse-armor-expert",
+            "archetype": "Мультикласс Чемпион (Champion )"
+        },
+        {
+            "fullName": "Посвящение рейнджера (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=722\">Ranger Dedication</a>) / 2",
+            "name": "Посвящение рейнджера",
+            "originalName": "Ranger Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Ловкость 14</p><hr class=\"docutils\"><p>Вы становитесь обучены Выживанию; если вы уже обучены Выживанию, то вместо этого обучаетесь другому навыку на свой выбор.\nВы становитесь обучены КС класса рейнджера.</p><p>Вы можете использовать действие <span class=\"card-link std std-ref\" data-id=\"action-ranger-hunt-prey\">Выслеживать добычу (Hunt Prey) </span>.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа рейнджера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-ranger-dedication",
+            "archetype": "Мультикласс Рейнджер (Ranger )"
+        },
+        {
+            "fullName": "Простой охотничий трюк (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=723\">Basic Hunter's Trick</a>) / 4",
+            "name": "Простой охотничий трюк",
+            "originalName": "Basic Hunter's Trick",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ranger-dedication\">Посвящение рейнджера (Ranger Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность рейнджера 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-ranger-basic-hunters-trick",
+            "archetype": "Мультикласс Рейнджер (Ranger )"
+        },
+        {
+            "fullName": "Рейнджерская стойкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=724\">Ranger Resiliency</a>) / 4",
+            "name": "Рейнджерская стойкость",
+            "originalName": "Ranger Resiliency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ranger-dedication\">Посвящение рейнджера (Ranger Dedication) / 2</span>, класс дающий за уровень не более 8 + модификатор Телосложения ОЗ</p><hr class=\"docutils\"><p>Вы получаете дополнительные 3 ОЗ за каждую имеющуюся у вас классовую способность архетипа рейнджера.\nПо мере продолжения получения классовых способностей архетипа рейнджера, вы продолжаете получать дополнительные ОЗ таким способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-ranger-resiliency",
+            "archetype": "Мультикласс Рейнджер (Ranger )"
+        },
+        {
+            "fullName": "Улучшенный охотничий трюк (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=725\">Advanced Hunter's Trick</a>) / 6",
+            "name": "Улучшенный охотничий трюк",
+            "originalName": "Advanced Hunter's Trick",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-ranger-basic-hunters-trick\">Простой охотничий трюк (Basic Hunter's Trick) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность рейнджера.\nС целью соответствия ее предварительным условиям, ваш уровень рейнджера равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность рейнджера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-ranger-advanced-hunters-trick",
+            "archetype": "Мультикласс Рейнджер (Ranger )"
+        },
+        {
+            "fullName": "Мастер наблюдения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=726\">Master Spotter (Ranger)</a>) / 12",
+            "name": "Мастер наблюдения",
+            "originalName": "Master Spotter",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Восприятия, <span class=\"card-link std std-ref\" data-id=\"arch-feat-ranger-dedication\">Посвящение рейнджера (Ranger Dedication) / 2</span></p><hr class=\"docutils\"><p>Ваш уровень мастерства Восприятия увеличивается до мастера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-ranger-master-spotter",
+            "archetype": "Мультикласс Рейнджер (Ranger )"
+        },
+        {
+            "fullName": "Посвящение монаха (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=715\">Monk Dedication</a>) / 2",
+            "name": "Посвящение монаха",
+            "originalName": "Monk Dedication",
+            "level": 2,
+            "traits": [
+                "архетип",
+                "посвящение",
+                "мультикласс"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Сила 14, Ловкость 14</p><hr class=\"docutils\"><p>Вы становитесь обучены безоружным атакам и получаете особенность класса <span class=\"card-link \">Мощный кулак (Powerful Fist)</span>.\nВы становитесь обучены Акробатике или Атлетике на свой выбор; если вы уже обучены обоим этим навыкам, то можете стать обучены другому навыку на свой выбор.\nВы становитесь обучены КС класса монаха.</p><p><strong>Особенность</strong>: Вы не можете выбрать другую способность посвящения, пока не получите 2 другие способности из архетипа монаха.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-dedication",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Основное ката (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=716\">Basic Kata</a>) / 4",
+            "name": "Основное ката",
+            "originalName": "Basic Kata",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-dedication\">Посвящение монаха (Monk Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете способность монаха 1-го или 2-го уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-basic-kata",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Монашеская стойкость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=717\">Monk Resiliency</a>) / 4",
+            "name": "Монашеская стойкость",
+            "originalName": "Monk Resiliency",
+            "level": 4,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-dedication\">Посвящение монаха (Monk Dedication) / 2</span>, класс дающий за уровень не более 8 + модификатор Телосложения ОЗ</p><hr class=\"docutils\"><p>Вы получаете дополнительные 3 ОЗ за каждую имеющуюся у вас классовую способность архетипа монаха.\nПо мере продолжения получения классовых способностей архетипа монаха, вы продолжаете получать дополнительные ОЗ таким способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-resiliency",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Улучшенная ката (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=718\">Advanced Kata</a>) / 6",
+            "name": "Улучшенная ката",
+            "originalName": "Advanced Kata",
+            "level": 6,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-basic-kata\">Основное ката (Basic Kata) / 4</span></p><hr class=\"docutils\"><p>Вы получаете 1 способность монаха.\nС целью соответствия ее предварительным условиям, ваш уровень монаха равен половине уровня персонажа.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза.\nКаждый раз, выбирая ее, вы получаете другую способность монаха.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-advanced-kata",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Монашеские движения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=719\">Monk Moves</a>) / 8",
+            "name": "Монашеские движения",
+            "originalName": "Monk Moves",
+            "level": 8,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-dedication\">Посвящение монаха (Monk Dedication) / 2</span></p><hr class=\"docutils\"><p>Когда вы не носите доспехи, то получаете бонус состояния +10 футов к Скорости.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-moves",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Монашеский шквал ударов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=720\">Monk's Flurry</a>) / 10",
+            "name": "Монашеский шквал ударов",
+            "originalName": "Monk's Flurry",
+            "level": 10,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-dedication\">Посвящение монаха (Monk Dedication) / 2</span></p><hr class=\"docutils\"><p>Вы получаете действие <span class=\"card-link std std-ref\" data-id=\"action-monk-flurry-of-blows\">Шквал ударов (Flurry of Blows) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-flurry",
+            "archetype": "Мультикласс Монах (Monk )"
+        },
+        {
+            "fullName": "Путь совершенства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=721\">Perfection's Path</a>) / 12",
+            "name": "Путь совершенства",
+            "originalName": "Perfection's Path",
+            "level": 12,
+            "traits": [
+                "архетип"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт хотя бы одного спасброска, <span class=\"card-link std std-ref\" data-id=\"arch-feat-monk-dedication\">Посвящение монаха (Monk Dedication) / 2</span></p><hr class=\"docutils\"><p>Выберите один спасбросок (Стойкость, Рефлекс или Воля) в котором вы эксперт.\nВаш уровень мастерства выбранного спасброска увеличивается до мастера.</p>",
+            "src": "",
+            "action": "",
+            "id": "arch-feat-monk-perfections-path",
+            "archetype": "Мультикласс Монах (Monk )"
+        }
+    ]
+}

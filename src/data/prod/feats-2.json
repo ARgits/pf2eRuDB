@@ -1,0 +1,1660 @@
+{
+    "feats": [
+        {
+            "fullName": "Ободряющие слова (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1210\">Encouraging Words</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Ободряющие слова",
+            "originalName": "Encouraging Words",
+            "level": 2,
+            "traits": [
+                "навык",
+                "общая",
+                "слуховой",
+                "языковой",
+                "ментальный"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Требования</strong>: Выбираемый целью союзник потерял Очки Выносливости в течение прошлого раунда</p><p><strong>Источник</strong>: Gamemastery Guide pg. 201</p><hr class=\"docutils\"><p>Вы даете союзнику в пределах 30 футов быстрое напутствие, помогая ему прийти в себя.\nСовершите проверку Дипломатии.\nОбычно КС равен 15, однако Мастера может скорректировать его в зависимости от обстоятельств.\nЕсли вы эксперт Дипломатии, то вместо этого можете сделать проверку с КС 20, чтобы увеличить количество восстановленных Очков Выносливости (ОВ) на 5;\nесли вы мастер Дипломатии, то можете сделать проверку с КС 30, чтобы увеличить количество восстановленных ОВ на 15;\nесли вы легенда, то можете сделать проверку с КС 40, чтобы увеличить ОВ на 25.\nВне зависимости от результата, союзник временно иммунен к \"Ободряющим словам\", пока не <span class=\"card-link std std-ref\" data-id=\"action-gmg-stamina-take-a-breather\">Передохнёт (Take a Breather)</span> или не отдохнет в течение дня.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Союзник восстанавливает 2d8 ОВ.</div>\n<div class=\"line\"><strong>Успех</strong>: Союзник восстанавливает 1d8 ОВ.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Союзник получает 1d8 ментального урона, но это может снизить только его ОВ, но не Очки Здоровья.</div>\n</div><p><strong>Примечание</strong>: Эта способность относится к вариации правил <span class=\"card-link \">Выносливость (Stamina)</span>.</p>",
+            "src": "Gamemastery Guide pg. 201",
+            "action": "одиночное действие",
+            "id": "feat-encouraging-words",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наглая просьба (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=838\">Shameless Request</a>) / 7",
+            "name": "Наглая просьба",
+            "originalName": "Shameless Request",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Дипломатии</p><hr class=\"docutils\"><p>Используя абсолютную наглость и очарование вы можете сгладить последствия или возмутительность своих просьб.\nКогда вы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просите (Request)</span> о чем-то, то снижаете любые повышения КС за возмутительные просьбы на 2, и если при броске получаете критический провал, то вместо этого получаете простой провал.\nХотя это и означает, что вы этими Просьбами никогда не сможете заставить свою цель снизить к вам свое отношение, но они в конечном итоге устают от этого, даже если все еще положительно относятся.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-shameless-request",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проповедование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1180\">Evangelize</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Проповедование",
+            "originalName": "Evangelize",
+            "level": 7,
+            "traits": [
+                "слуховой",
+                "языковой",
+                "ментальный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Дипломатии, вы последователь божества или философии</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Вы указываете на подробность, которая неопровержимо поддерживает вашу веру, заставляя разум слушателя идти кругом.\nСделайте проверку Дипломатии и сравните результат с КС Воли одной цели, которая может слышать вас и понимает ваш язык; после этого цель временно иммунна на 1 день к \"Проповедованию\" в отношении вашего божества или философии.\nСущество, которое уже согласно с вами, остается невредимым, и по усмотрению Мастера, цель, которая в результате спора искренне меняет свою точку зрения, чтобы поддержать вашу веру, также остается невредимой.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 2</span> на 1 раунд</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманен 1</span> на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Цель невредима</div>\n</div>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "одиночное действие",
+            "id": "feat-evangelize",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1066\">Entourage</a>) / 7",
+            "name": "Свита",
+            "originalName": "Entourage",
+            "level": 7,
+            "traits": [
+                "редкий",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Редкий",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Дипломатии, <span class=\"card-link std std-ref\" data-id=\"feat-hobnobber\">Общительный (Hobnobber) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 72</p><hr class=\"docutils\"><p>У вас есть небольшая группа поклонников, которые, как правило, следуют за вами, пока вы находитесь в цивилизованных поселениях.\nВаши поклонники любезны к вам, позволяя вам давать им простые <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьбы (Requests)</span>, такие как покупка основного снаряжения на ваши средства или поиск комнаты в гостинице.\nОни не путешествуют с вами в места, которые очевидно опасны, включая большинство мест для приключений, но они будут ждать вас в ближайшем населенном пункте.\nВаши поклонники никогда не используют действия в режиме столкновения, кроме как для отступления, и они покидают вас, если вы намеренно причиняете им вред, либо на усмотрение Мастера.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>, вы можете использовать своих поклонников для помощи вам, получая бонус обстоятельства +1 к вашей проверке Дипломатии и еще больше сократив время, которое она занимает (обычно до 30 минут, вместо 1 часа лишь со способностью <span class=\"card-link std std-ref\" data-id=\"feat-hobnobber\">Общительный (Hobnobber) / 1</span>).\nЕсли у вас есть способность <span class=\"card-link std std-ref\" data-id=\"feat-sow-rumor\">Посеять слух (Sow Rumor) / 2</span>, то ваши поклонники могут помогать вам с теми же преимуществами, что и для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 72",
+            "action": "",
+            "id": "feat-entourage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарные переговоры (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=804\">Legendary Negotiation</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 15",
+            "name": "Легендарные переговоры",
+            "originalName": "Legendary Negotiation",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Дипломатии</p><hr class=\"docutils\"><p>Вы можете вести переговоры невероятно быстро в неблагоприятных ситуациях.\nВы совершаете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span>, а затем <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просите (Request)</span> своего оппонента прекратить его текущую деятельность и вступить в переговоры.\nВы получаете штраф -5 к вашей проверке Дипломатии.\nМастер устанавливает КС для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьба (Request) </span> в зависимости от обстоятельств, обычно это как минимум очень сложный КС на основе уровня существа.\nНекоторые существа могут просто отказаться, а даже те, кто согласится на переговоры, могут в конечном счете счесть ваши аргументы недостаточными и вернуться к насилию.</p>",
+            "src": "",
+            "action": "активность из 3-х действий",
+            "id": "feat-legendary-negotiation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Групповое принуждение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=788\">Group Coercion</a>) / 1",
+            "name": "Групповое принуждение",
+            "originalName": "Group Coercion",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию</p><hr class=\"docutils\"><p>Когда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span>, то можете сравнить свой результат проверки Запугивания с КС Воли 2 целей, вместо 1.\nВозможно получить разную степень успешности для каждой цели.\nКоличество целей на которые вы можете применить <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> за одиночное действие увеличивается до 4 если вы эксперт, 10 если мастер и 25 если легенда.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-group-coercion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Запугивающий взгляд (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=796\">Intimidating Glare</a>) / 1",
+            "name": "Запугивающий взгляд",
+            "originalName": "Intimidating Glare",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию</p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> всего лишь взглядом.\nКогда вы так делаете, действие <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> теряет признак <span class=\"t-auditory\">слуховой</span> и получает <span class=\"t-visual\">визуальный</span>, и вы не получаете штраф, если существо не понимает ваш язык.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-intimidating-glare",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое принуждение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=822\">Quick Coercion</a>) / 1",
+            "name": "Быстрое принуждение",
+            "originalName": "Quick Coercion",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Запугиванию</p><hr class=\"docutils\"><p>Вы можете запугивать других с помощью всего лишь нескольких вариантов выбора.\nВы можете <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принудить (Coerce)</span> существо после 1 раунда разговора, вместо 1 минуты.\nВы все еще не можете Принудить существо во время боя или не вступая в разговор.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-coercion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Выдающееся запугивание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=797\">Intimidating Prowess</a>) / 2",
+            "name": "Выдающееся запугивание",
+            "originalName": "Intimidating Prowess",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: Сила 16, эксперт Запугивания</p><hr class=\"docutils\"><p>В ситуациях, когда вы можете физически угрожать цели во время использования <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>, вы получаете к своим проверкам Запугивания бонус обстоятельства +1 и игнорируете штраф за отсутствие общего языка.\nЕсли ваше значение Силы 20 или больше, и вы мастер Запугивания, то этот бонус увеличивается до +2.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-intimidating-prowess",
+            "archetype": ""
+        },
+        {
+            "fullName": "Длительное принуждение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=800\">Lasting Coercion</a>) / 2",
+            "name": "Длительное принуждение",
+            "originalName": "Lasting Coercion",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Запугивания</p><hr class=\"docutils\"><p>Когда вы успешно используете <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> на кого-то, то максимальное время подчинения увеличивается до недели, но все еще определяется Мастером.\nЕсли вы легенда Запугивания, максимальное время увеличивается до месяца.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-lasting-coercion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ужасающее сопротивление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2153\">Terrifying Resistance</a>) / 2",
+            "name": "Ужасающее сопротивление",
+            "originalName": "Terrifying Resistance",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Запугивания</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Заклинания, от тех, на кого вы использовали <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>, менее эффективны на вас.\nЕсли вы успешно Деморализовали существо, то на следующие 24 часа вы получаете бонус обстоятельства +1 к спасброскам против заклинаний этого существа.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-terrifying-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой клич (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=759\">Battle Cry</a>) / 7",
+            "name": "Боевой клич",
+            "originalName": "Battle Cry",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Запугивания</p><hr class=\"docutils\"><p>Когда вы кидаете инициативу, то свободным действием (<img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\">) можете прокричать могучий боевой клич и <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> <span class=\"card-link std std-ref\" data-id=\"c-observed\">замеченного</span> врага.\nЕсли вы легенда Запугивания, то можете использовать реакцию, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> своего врага, когда совершаете критически успешный бросок атаки.</p>",
+            "src": "",
+            "action": "свободное действие",
+            "id": "feat-battle-cry",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отступление в ужасе (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=853\">Terrified Retreat</a>) / 7",
+            "name": "Отступление в ужасе",
+            "originalName": "Terrified Retreat",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Запугивания</p><hr class=\"docutils\"><p>Когда вы получаете критический успех действия <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>, если уровень цели меньше вашего, то цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегство</span> на 1 раунд.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-terrified-retreat",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защита скептика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3777\">Skeptic's Defense</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Защита скептика",
+            "originalName": "Skeptic's Defense",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Запугивания</p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы являетесь целью или находитесь в области <span class=\"t-mental\">ментального</span> заклинания или эффекта</p><p><strong>Источник</strong>: Dark Archive pg. 79</p><hr class=\"docutils\"><p>Вы не верите ни в какую ментальную чепуху и, конечно же, не боитесь ее.\nВы насмехаетесь и устно опровергаете спровоцировавший эффект, совершая проверку <span class=\"card-link \">противодействия</span>, используя свой модификатор Запугивания с уровнем противодействия, равным половине вашего уровня, округленного до большего.\nПри успехе, вы игнорируете спровоцировавший эффект, хотя любые другие существа, также являющиеся целями или находящиеся в области действия, все равно окажется под влиянием.\nЕсли источник эффекта, которому вы успешно противодействовали, понимает ваш язык и имеет модификатор Интеллекта -3 или выше, то такое существо становится <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманено 1</span> на 1 раунд.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>В оригинале не указана величина <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманености</span>, но вряд ли она выше 1.</p>\n</div>",
+            "src": "Dark Archive pg. 79",
+            "action": "реакция",
+            "id": "feat-skeptics-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Напугать до смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=837\">Scare To Death</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 15",
+            "name": "Напугать до смерти",
+            "originalName": "Scare To Death",
+            "level": 15,
+            "traits": [
+                "недееспособность",
+                "страх",
+                "эмоция",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Запугивания</p><hr class=\"docutils\"><p>Вы можете так сильно напугать врагов, что они умрут.\nСовершите проверку Запугивания с КС Воли живого существа в пределах 30 футов от вас, которое вы можете чувствовать или видеть, и которое может чувствовать или видеть вас.\nЕсли цель не может слышать вас или не понимает языка на котором вы говорите, то вы получаете штраф обстоятельства -4.\nСущество временно иммунно на 1 минуту.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель должна совершить спасбросок Стойкости с вашим КС Запугивания. При критическом провале, она умирает. При любом другом результате она становится <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напугана 2</span>, и впадает в <span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегство</span> на 1 раунд. Эффект крит.провала обладает признаком <span class=\"t-death\">смерть</span>.</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 2</span>.</div>\n<div class=\"line\"><strong>Провал</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span>.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель невредима.</div>\n</div><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-CR-r3: </span>Убран признак <span class=\"t-death\">смерть</span>.\nИзменен эффект критического успеха способности: Цель умирает при крит.провале своего спасброска, а не простом провале. Этот спасбросок получает признак <span class=\"t-death\">смерть</span>.</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "feat-scare-to-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дополнительные знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=750\">Additional Lore</a>) / 1",
+            "name": "Дополнительные знания",
+            "originalName": "Additional Lore",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Знаниям</p><hr class=\"docutils\"><p>Ваши знания расширились, чтобы охватить новую область.\nВыберите дополнительный подраздел Знаний.\nВы становитесь обучены ему.\nНа 3-м, 7-м и 15-м уровнях вы получаете дополнительное увеличение навыка, которое можете применить только к выбранному подразделу Знаний.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность больше одного раза.\nКаждый раз вы должны выбрать новый подраздел Знаний, и на перечисленных выше уровнях вы получаете дополнительные увеличения навыка к этому подразделу знаний.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-additional-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опытный профессионал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=778\">Experienced Professional</a>) / 1",
+            "name": "Опытный профессионал",
+            "originalName": "Experienced Professional",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Знаниям</p><hr class=\"docutils\"><p>Вы осторожны в своих профессиональных действиях, чтобы не допустить кромешного провала.\nКогда вы используете Знания для <span class=\"card-link \">Заработок денег (Earn Income)</span>, и если при броске получаете крит.провал, то вместо этого получаете просто провал.\nЕсли вы эксперт Знаний, то получаете в 2 раза больше дохода от проваленной проверки <span class=\"card-link \">Заработок денег (Earn Income)</span>, если только она не была изначально крит.провалом.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-experienced-professional",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безошибочные знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=860\">Unmistakable Lore</a>) / 2",
+            "name": "Безошибочные знания",
+            "originalName": "Unmistakable Lore",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Знаний</p><hr class=\"docutils\"><p>Вы никогда не ошибаетесь в тех сферах знаний, в которых разбираетесь.\nКогда вы применяете <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> используя любой подраздел Знаний которому обучены, и при броске получаете крит.провал, то вместо этого получаете обычный провал.\nЕсли вы мастер подраздела Знаний, то при крит.успехе, вы получаете еще больше информации или контекста чем обычно.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-unmistakable-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой планировщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2112\">Battle Planner</a>) / 2",
+            "name": "Боевой планировщик",
+            "originalName": "Battle Planner",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Знаний военного дела (Warfare)</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>Вы постоянно составляете планы и сценарии сражений, собираете стратегии и собираете разведданные для последующего использования.\nКогда вы разведываете позицию противника или получаете подробный отчет от союзника, который разведал позицию врага, если у вас есть четкое представление о численности, положении и личности ваших потенциальных противников, то вы можете потратить 1 минуту, чтобы придумать план боя, который учитывает такие потенциальные факторы и уменьшает роль удачи в уравнении.\nСделайте бросок проверки Знаний Военного дела.\nДо тех пор, пока информация была точной и остается такой, когда вы бросаете инициативу против этих врагов, то вы можете использовать результат этой проверки Знаний Военного дела, для вашего броска инициативы; если вы это делаете, то это будет эффект с признаком <span class=\"t-fortune\">удача</span>.</p>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "",
+            "id": "feat-battle-planner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный профессионал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=806\">Legendary Professional</a>) / 15",
+            "name": "Легендарный профессионал",
+            "originalName": "Legendary Professional",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Знаний</p><hr class=\"docutils\"><p>Ваша слава распространилась по земле (например, если у вас есть Знания военного дела (Warfare), вы можете быть легендарным генералом или тактиком).\nЭто работает так же как <span class=\"card-link std std-ref\" data-id=\"feat-legendary-performer\">Легендарный исполнитель (Legendary Performer) / 15</span>, за исключением того, что вы получаете работы более высокого уровня, когда пытаетесь <span class=\"card-link \">Заработок денег (Earn Income)</span> с помощью Знаний.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-professional",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевая медицина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=760\">Battle Medicine</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Боевая медицина",
+            "originalName": "Battle Medicine",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык",
+                "исцеление",
+                "воздействие"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Требования</strong>: Вы держите <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>, или он надет и у вас есть свободная рука</p><hr class=\"docutils\"><p>Вы можете подлатать раны даже в бою.\nСовершите проверку Медицины с таким же КС как для <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> и восстановите соответствующее количество ОЗ; это не убирает состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.\nКак и для <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, вы можете выполнить проверку с более высоким КС, если у вас есть минимальный уровень мастерства.\nПосле этого, цель временно иммунна к вашей \"Боевой медицине\" на 1 день.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Во втором предложении уточняется, что это не убирает состояние <span class=\"card-link std std-ref\" data-id=\"c-wounded\">ранен</span>.</p>\n</div><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>Добавлено требование (скорее напоминание) о наличии набора лекаря.\nТакое, как добавлено в \"Лечении ран\".\nДля использования \"Боевой медицины\" при надетом наборе лекаря, нужна только 1 свободная рука.</p>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "feat-battle-medicine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Судебно-медицинская проницательность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2128\">Forensic Acumen</a>) / 1",
+            "name": "Судебно-медицинская проницательность",
+            "originalName": "Forensic Acumen",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы понимаете принципы судебной медицины, что позволяет вам лучше исследовать тело для определения причины смерти или травмы.\nВы можете провести судебно-медицинскую экспертизу тела, как описано в навыке <span class=\"card-link \">Медицина</span> для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, за половину обычного времени, которое это займет (до минимальных 5 минут).\nЕсли эта проверка была успешной, то можете сделать мгновенную проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>, чтобы проверить то что вы нашли с бонусом обстоятельства +2.\nЭта проверка обычно связана с причиной травмы или смерти, так проверка Ремесла используется для идентификации яда или оружия, которое было использовано, или дополнительная проверка Медицины для определения конкретной болезни.\nЕсли вы предпочитаете, то можете вместо этого сделать <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о виде существа, чье тело вы изучали, используя подходящий навык и получая тот же бонус обстоятельства.</p><p>Бонус обстоятельства увеличивается до +3 если вы мастер Медицины, и +4 если вы легенда.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-forensic-acumen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прививка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2135\">Inoculation</a>) / 1",
+            "name": "Прививка",
+            "originalName": "Inoculation",
+            "level": 1,
+            "traits": [
+                "исцеление",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 207</p><hr class=\"docutils\"><p>У вас есть практика борьбы с эпидемией, и ваши пациенты с меньшей вероятностью снова заболеют той же болезнью в течение некоторого времени.\nКогда вы успешно используете на ком-либо <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-disease\">Лечение болезни (Treat Disease)</span> и они полностью выздоравливают от этой болезни, то получают бонус обстоятельства +2 к спасброскам против той же болезни на 1 неделю.</p>",
+            "src": "Advanced Player's Guide pg. 207",
+            "action": "",
+            "id": "feat-inoculation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рискованная операция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2146\">Risky Surgery</a>) / 1",
+            "name": "Рискованная операция",
+            "originalName": "Risky Surgery",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Ваша операция может помочь пациенту на краю смерти, но может и подтолкнуть его с этого края.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, то можете нанести своему пациенту 1d8 рубящего урона сразу до применения эффектов <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.\nЕсли вы так делаете, то получаете бонус обстоятельства +2 к своей проверке Медицины для \"Лечения ран\" и если при броске получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-risky-surgery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сшивание плоти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3495\">Stitch Flesh</a>) / 1",
+            "name": "Сшивание плоти",
+            "originalName": "Stitch Flesh",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Медицине</p><p><strong>Источник</strong>: Book of the Dead pg. 45</p><hr class=\"docutils\"><p>Вы можете использовать <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> для восстановления Очков Здоровья не только живым, но и существам-<span class=\"t-undead\">нежити</span>.\nИспользуемые вами приемы могут различаться, но всё требуемое для наложения швов, бинтования и другие инструменты уже имеются в наборе лекаря.\nНекоторые состояния, которые могут поднять КС лечения ран нежити, могут отличаться от аналогичных у живых существ.\nНапример, Мастер может увеличить КС, если исцеляемая нежить находится в церкви <span class=\"card-link \">Фаразмы</span> или раны были причинены позитивной энергией.</p>",
+            "src": "Book of the Dead pg. 45",
+            "action": "",
+            "id": "feat-stitch-flesh",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непрерывное выздоровление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=771\">Continual Recovery</a>) / 2",
+            "name": "Непрерывное выздоровление",
+            "originalName": "Continual Recovery",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Медицины</p><hr class=\"docutils\"><p>Вы фанатично следите за выздоровлением пациента, чтобы ускорить лечение.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, ваш пациент становится иммунным только на 10 минут вместо 1 часа.\nЭто применяется только к вашим активностям <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, а не к другим, которые получает пациент.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-continual-recovery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Надежное выздоровление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=836\">Robust Recovery</a>) / 2",
+            "name": "Надежное выздоровление",
+            "originalName": "Robust Recovery",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Медицины</p><hr class=\"docutils\"><p>Вы изучали народную медицину, чтобы помочь оправиться от болезней и яда, и ее усердное использование сделало вас особенно выносливым.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-disease\">Лечение болезни (Treat Disease)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-poison\">Лечение от яда (Treat Poison) </span>, или кто-то другой использует одно из этих действий на вас, увеличьте бонус обстоятельства при успехе до +4, и если результат спасброска пациента является успехом, то вместо этого он получает крит.успех.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-robust-recovery",
+            "archetype": ""
+        },
+        {
+            "fullName": "Врач отделения (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=864\">Ward Medic</a>) / 2",
+            "name": "Врач отделения",
+            "originalName": "Ward Medic",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Медицины</p><hr class=\"docutils\"><p>Вы учились в больших медицинских палатах, где лечили сразу нескольких пациентов и заботились обо всех их нуждах.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-disease\">Лечение болезни (Treat Disease)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, то можете лечить сразу вплоть до 2 целей.\nЕсли вы мастер Медицины, то можете лечить вплоть до 4 целей, а если вы легенда, то можете лечить вплоть до 8 целей.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-ward-medic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безбожное исцеление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=869\">Godless Healing</a>) / 2",
+            "name": "Безбожное исцеление",
+            "originalName": "Godless Healing",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-battle-medicine\">Боевая медицина (Battle Medicine)  / 1</span>, нельзя иметь божество покровителя</p><p><strong>Источник</strong>: Lost Omens: World Guide pg. 56</p><hr class=\"docutils\"><p>Вы восстанавливаете дополнительные 5 ОЗ от успешной попытки использовать на вас <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> или <span class=\"card-link std std-ref\" data-id=\"feat-battle-medicine\">Боевая медицина (Battle Medicine)  / 1</span>.\nПосле того, как вы или союзник использует на вас \"Боевую медицину\", вы становитесь временно иммунны к этой \"Боевой медицине\" только на 1 час, вместо 1 дня.</p>",
+            "src": "Lost Omens: World Guide pg. 56",
+            "action": "",
+            "id": "feat-godless-healing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смертное исцеление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1181\">Mortal Healing</a>) / 2",
+            "name": "Смертное исцеление",
+            "originalName": "Mortal Healing",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"feat-godless-healing\">Безбожное исцеление (Godless Healing) / 2</span>, вы последователь <span class=\"card-link \">Законы Смертности (Laws of Mortality)</span></p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Вы можете исцелять больше, когда боги не вмешиваются.\nКогда вы для проверки <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> существа, не восстанавливавшего ОЗ посредствам сакральной магии за прошедшие 24 часа, получаете при броске успех, то вместо этого получаете крит.успех, и восстанавливаете соответствующее количество ОЗ.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Требуется использование именно действия <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>, поэтому способность не применима для других действий связанных с медициной или исцелением, как например <span class=\"card-link std std-ref\" data-id=\"feat-battle-medicine\">Боевая медицина (Battle Medicine)  / 1</span>.</p>\n</div>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "",
+            "id": "feat-mortal-healing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Цветотерапия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3772\">Chromotherapy</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 2",
+            "name": "Цветотерапия",
+            "originalName": "Chromotherapy",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "исцеление",
+                "воздействие",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Медицины</p><p><strong>Источник</strong>: Dark Archive pg. 78</p><hr class=\"docutils\"><p>Вы твердо верите в технику усиления жизненной силы, духовных энергий и жидкостей организма с помощью применения цветного света.\nПри использовании <span class=\"card-link \">факела</span>, <span class=\"card-link \">фонаря</span> или другого источника искусственного света, освещающего области с тусклым светом или более тёмные, вы используете комбинацию алхимических реагентов, лекарственных компонентов и цветных линз, чтобы превратить этот свет в один из 7 цветов, что позволяет вам помочь союзнику восстановиться от продолжительного урона.\nВы оказываете этой цели <span class=\"card-link \">помощь в восстановлении</span>, но она может находиться в любом месте в пределах яркого света от данного светового источника, вместо того, чтобы находиться рядом с вами.\nРассеянный яркий свет (например, солнечный), заглушает ваш искусственный свет и мешает вам использовать Цветотерапию.</p><p>Выбранный вами цвет света определяет тип продолжительного урона, от которого вы помогаете восстановиться.</p><table class=\"condensed-table docutils align-default\">\n<colgroup>\n<col style=\"width: 14%\">\n<col style=\"width: 86%\">\n</colgroup>\n<thead>\n<tr class=\"row-odd\"><th class=\"head\"><p>Цвет</p></th>\n<th class=\"head\"><p>Описание</p></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-even\"><td><p>Красный</p></td>\n<td><p>Вы увеличиваете приток крови, чтобы согреть тело,\nпомогая прекратить продолжительный урон холодом.</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Оранжевый</p></td>\n<td><p>Вы нейтрализуете электрический заряд, помогая прекратить\nпродолжительный урон электричеством.</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Желтый</p></td>\n<td><p>Вы уменьшаете боль и ментальное напряжение, пытаясь\nпрекратить продолжительный ментальный урон.</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Зеленый</p></td>\n<td><p>Вы способствуете притоку крови таким образом, что это помогает закупорить\nраны, пытаясь прекратить продолжительный урон кровотечением.</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Синий</p></td>\n<td><p>Вы охлаждаете тело, пытаясь прекратить продолжительный урон огнем.</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Индиго</p></td>\n<td><p>Вы делаете кислоты инертными, пытаясь прекратить\nпродолжительный урон кислотой.</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Фиолетовый</p></td>\n<td><p>Вы очищаете организм, пытаясь прекратить продолжительный урон ядом.</p></td>\n</tr>\n</tbody>\n</table>",
+            "src": "Dark Archive pg. 78",
+            "action": "активность из 2-х действий",
+            "id": "feat-chromotherapy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Улучшенная первая помощь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2107\">Advanced First Aid</a>) / 7",
+            "name": "Улучшенная первая помощь",
+            "originalName": "Advanced First Aid",
+            "level": 7,
+            "traits": [
+                "исцеление",
+                "воздействие",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Медицины</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 202</p><hr class=\"docutils\"><p>Вы используете свое медицинское образование, чтобы облегчить тошноту или успокоить страхи.\nКогда вы используете Медицину, чтобы оказать <span class=\"card-link std std-ref\" data-id=\"skill-medicine-first-aid\">Первая помощь (Administer First Aid) </span>, то вместо \"Стабилизации\" персонажа или \"Остановки кровотечения\", вы можете снизить у союзника состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> или <span class=\"card-link std std-ref\" data-id=\"c-sickened\">тошнота</span> на 2, или полностью убрать одно из этих состояний при крит.успехе.\nВы можете убрать только 1 состояние за раз.\nКС для проверки Медицины обычно равен КС эффекта вызвавшего это состояние.</p>",
+            "src": "Advanced Player's Guide pg. 202",
+            "action": "",
+            "id": "feat-advanced-first-aid",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный врач (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=803\">Legendary Medic</a>) / 15",
+            "name": "Легендарный врач",
+            "originalName": "Legendary Medic",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Медицины</p><hr class=\"docutils\"><p>Вы совершили медицинские открытия или придумали методы, которые достигают чудесных результатов.\nРаз в день для каждой цели, вы можете потратить 1 час на лечение и совершить проверку Медицины, чтобы убрать болезнь или состояние <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>, <span class=\"card-link std std-ref\" data-id=\"c-deafened\">глухота</span>, <span class=\"card-link std std-ref\" data-id=\"c-doomed\">обречен</span> или <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span>.\nИспользуйте КС болезни, заклинания или эффекта, который вызвал это состояние.\nЕсли источником эффекта является артефакт, выше 20-го уровня, или подобной силы, то увеличьте КС на 10.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-medic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Природная медицина (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=815\">Natural Medicine</a>) / 1",
+            "name": "Природная медицина",
+            "originalName": "Natural Medicine",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе</p><hr class=\"docutils\"><p>Вы можете применять природные лекарства для исцеления своих союзников.\nВы можете использовать Природу вместо Медицины для <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.\nНа усмотрение Мастера, если вы находитесь в дикой местности, у вас может быть легкий доступ к свежим ингредиентам, что позволяет вам получить бонус обстоятельства +2 к вашей проверке <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span> используя Природу.</p><div class=\"admonition- clarification admonition\">\n<p class=\"admonition-title\">Официальное пояснение (4 издание)</p>\n<p><strong>Вопрос</strong>: Можно ли при использовании <span class=\"card-link std std-ref\" data-id=\"feat-natural-medicine\">Природная медицина (Natural Medicine) / 1</span> совершать проверки с более высоким КС, хоть это и не проверки Медицины?</p>\n<p><strong>Ответ</strong>: Да, можно.\nПо сути, при использовании данной способности, вы заменяете в активности все упоминания \"Медицины\" на \"Природу\".\nВам все еще нужен <span class=\"card-link \">Набор лекаря (Healer's Tools)</span>.</p>\n<p>Кроме того, обратите внимание, что эта способность применима только к <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.\nЧтобы выбрать способность <span class=\"card-link std std-ref\" data-id=\"feat-ward-medic\">Врач отделения (Ward Medic) / 2</span> вам все еще нужно быть экспертом Медицины, а не Природы.\nЕсли вы удовлетворяете этим требованиям и выбрали <span class=\"card-link std std-ref\" data-id=\"feat-ward-medic\">Врач отделения (Ward Medic) / 2</span>, то сможете использовать Природу для \"Лечения ран\" двух целей.\nЧтобы лечить больше целей, вам все еще нужно стать мастером или легендой Медицины.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-natural-medicine",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обучение животного (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=856\">Train Animal</a>) / 1",
+            "name": "Обучение животного",
+            "originalName": "Train Animal",
+            "level": 1,
+            "traits": [
+                "отдых",
+                "воздействие",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе</p><hr class=\"docutils\"><p>Вы тратите время, обучая животное выполнять определенное действие.\nВы можете либо выбрать простое действие, которое животное уже знает как выполнять (обычно те, что указаны в <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>) или попытаться научить животное новому простому действию.\nМастер определяет КС любой требуемой проверки и количество времени на обучение (обычно минимум 1 неделю).\nОбычно невозможно научить животное трюку, который использует критическое мышление.\nЕсли вы эксперт, мастер или легенда Природы, то на усмотрение Мастера можете суметь обучать диковинных существ.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Успех</strong>: Животное обучается действию. Если это было действие, которое животное уже знало, вы можете <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Скомандовать животному (Command the Animal)</span> исполнить его, без совершения проверки Природы. Если это было новое стандартное действие, добавьте его к списку действий, которые животное может выполнить по \"Команде\", но вы все еще должны совершать бросок.</div>\n<div class=\"line\"><strong>Провал</strong>: Животное не обучается новому трюку</div>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-train-animal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скоростной наездник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2126\">Express Rider</a>) / 1",
+            "name": "Скоростной наездник",
+            "originalName": "Express Rider",
+            "level": 1,
+            "traits": [
+                "исследование",
+                "движение",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Природе</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы знаете, как побудить вашего скакуна скакать быстрее.\nПри расчете вашей <span class=\"card-link \">Скорость путешествия (Travel Speed)</span> для дня, когда вы верхом, вы можете совершить проверку Природы для <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, чтобы увеличить скорость путешествия вашего ездового животного.\nКС определяется Мастером, но обычно основан на уровне ездового животного или сложности окружающей среды, в зависимости от того, что выше.\nПри успехе, увеличьте скорость путешествия вашего ездового животного на половину.\nЭто не имеет эффекта на Скорость ездового животного в столкновениях.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-express-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прирученное животное (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=762\">Bonded Animal</a>) / 2",
+            "name": "Прирученное животное",
+            "originalName": "Bonded Animal",
+            "level": 2,
+            "traits": [
+                "отдых",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Природы</p><hr class=\"docutils\"><p>Вы устанавливаете прочные связи с животными.\nВы можете потратить 7 дней отдыха, постоянно взаимодействуя с нормальным животным (не компаньоном или другим особым животным), которое к вам <span class=\"card-link std std-ref\" data-id=\"c-friendly\">дружественно</span> или <span class=\"card-link std std-ref\" data-id=\"c-helpful\">любезно</span>.\nПо окончанию этого периода выполните проверку Природы с КС 20.\nПри успехе, вы приручаете животное.\nОно становится постоянно <span class=\"card-link std std-ref\" data-id=\"c-helpful\">любезно</span> с вами, если только вы не сделаете что-то вопиющее, чтобы нарушить эту связь.\n<span class=\"card-link std std-ref\" data-id=\"c-helpful\">Любезным</span> животным проще командовать, как описано в действии <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>.</p><p>Связь с новым животным прекращает любую предыдущую связь, которая у вас была.\nУ вас не может быть одновременно прирученное животное и <span class=\"card-link \">зверь-компаньон</span> (однако, вы можете иметь прирученное животное и <span class=\"card-link \">фамильяра</span>).</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Во 2-м предложении уточнено, что надо постоянно взаимодействовать с животным, которое дружелюбно или любезно.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-bonded-animal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Повлиять на природу (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2134\">Influence Nature</a>) / 7",
+            "name": "Повлиять на природу",
+            "originalName": "Influence Nature",
+            "level": 7,
+            "traits": [
+                "отдых",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Природы</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 207</p><hr class=\"docutils\"><p>Имея терпение и время, вы можете совершать птичьи крики, оставлять следы дичи и в конечном счете влиять на поведение определенного вида животных в регионе, чтобы они благоволили и даже помогали вам в ближайшие дни.\nМастер определяет КС любой требуемой проверки и количество времени, которое вам требуется (обычно как минимум 1 или 2 дня во время режима отдыха).\nТак как вы не можете напрямую контролировать как вы повлияете на природу, то можете надеяться на определенные эффекты, такие как легкая охота или птицы затихают всякий раз, когда приближается опасность.\nЕсли вы легенда Природы, то можете вызвать эти же самые изменения в поведении животных потратив лишь 10 минут.</p>",
+            "src": "Advanced Player's Guide pg. 207",
+            "action": "",
+            "id": "feat-influence-nature",
+            "archetype": ""
+        },
+        {
+            "fullName": "Морфическая манипуляция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3775\">Morphic Manipulation</a>) / 7",
+            "name": "Морфическая манипуляция",
+            "originalName": "Morphic Manipulation",
+            "level": 7,
+            "traits": [
+                "необычный",
+                "исследование",
+                "природный",
+                "некромантия",
+                "позитивный",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Природы</p><p><strong>Источник</strong>: Dark Archive pg. 79</p><hr class=\"docutils\"><p>Вы настроили свою естественную ауру на ауру растений, заставив их расти быстрее, чем обычно.\nВы сидите в течение 10 минут с маленьким натуральным растением, не являющимся существом - таким как одинокий цветок, небольшой куст или сиккулент в горшке, пока настраиваете его ауру с помощью медитации.\nВы уговариваете растение перейти на одну стадию своего жизненного цикла: от семени к ростку, от ростка к растению, от растения к цветению или от цветения к плоду.\nЕсли растению не хватает необходимых питательных веществ (например, если вы проращиваете семя без почвы или воды), то оно увядает спустя 5 минут после завершения этой активности.\nИспользование этой активности более 1 раза в день приводит к <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомлению</span> и неспособности использовать \"Морфическую манипуляцию\" до завершения следующих ежедневных приготовлений.</p>",
+            "src": "Dark Archive pg. 79",
+            "action": "",
+            "id": "feat-morphic-manipulation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Определение странностей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=817\">Oddity Identification</a>) / 1",
+            "name": "Определение странностей",
+            "originalName": "Oddity Identification",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><hr class=\"docutils\"><p>У вас есть чутье на заклинания, которые обманывают разум или раскрывают секреты.\nВы получаете бонус обстоятельства +2 к проверкам Оккультизма для <span class=\"card-link \">Идентификация магии (Identify Magic)</span> с признаками <span class=\"t-mental\">ментальный</span>, <span class=\"t-possession\">одержимость</span>, <span class=\"t-prediction\">предсказание</span> или <span class=\"t-scrying\">видение</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-oddity-identification",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обманчивое поклонение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2120\">Deceptive Worship</a>) / 1",
+            "name": "Обманчивое поклонение",
+            "originalName": "Deceptive Worship",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Члены вашего культа часто выдают себя за последователей других религий.\nВы можете использовать Оккультизм вместо Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> в типичного последователя другой веры или <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span>, утверждая, что вы являетесь членом той веры, в которого Перевоплотились.\nВам все еще надо использовать навык Обмана, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> в конкретного последователя или выполнять другие обманывающие действия, такие как попытка Лгать о чем-то другом.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-deceptive-worship",
+            "archetype": ""
+        },
+        {
+            "fullName": "Коренная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2147\">Root Magic</a>) / 1",
+            "name": "Коренная магия",
+            "originalName": "Root Magic",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Ваши талисманы защищают от скверной магии.\nВо время своих ежедневных приготовлений, вы можете собрать небольшой мешочек с травами, волосами, священными маслами и другими ритуальными ингредиентами, которые вы даете одному союзнику.\nПервый раз в этот день, когда этот союзник совершает спасбросок против заклинания или <span class=\"t-haunt\">призрака</span>, он получает к этому броску бонус обстоятельства +1.\nЭтот бонус увеличивается до +2 если вы эксперт Оккультизма или +3 если легенда.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-root-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Посвященный секретам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2148\">Schooled in Secrets</a>) / 1",
+            "name": "Посвященный секретам",
+            "originalName": "Schooled in Secrets",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы замечаете знаки и символы, которые используют члены мистических культов и других тайных обществ, чтобы заявить о своей принадлежности к другим членам.\nВы можете использовать Оккультизм вместо Дипломатии для <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> о таких группах.\nЕсли вы принадлежите к тайному культу, ложе, секте или подобной организации, то вы автоматически узнаете членов своей группы, если только они не пытаются специально скрыть от вас свое присутствие.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-schooled-in-secrets",
+            "archetype": ""
+        },
+        {
+            "fullName": "Литотерапия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3773\">Crystal Healing</a>) / 1",
+            "name": "Литотерапия",
+            "originalName": "Crystal Healing",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "исцеление",
+                "воздействие",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><p><strong>Источник</strong>: Dark Archive pg. 78</p><hr class=\"docutils\"><p>Вы знаете как стимулировать естественные целебные возможности организма с помощью применения резонансных кристаллов.\nДля этого, вместо <span class=\"card-link \">набора лекаря</span> вам необходимо использовать по крайней мере 2 <span class=\"card-link \">полудрагоценных камня</span> стоимостью 5 зм или более, что позволяет вам выполнять <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-disease\">Лечение болезни (Treat Disease)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-poison\">Лечение от яда (Treat Poison) </span>, используя Оккультизм, а не Медицину.</p><p>Если вы эксперт Оккультизма и используете самоцветы, общая стоимость которых больше или равна 50 зм, то вы получаете бонус предмета +1 к своей проверке Оккультизма.\nЕсли вы мастер и ценность самоцветов больше или равна 700 зм, то данный бонус предмета увеличивается до +2; если вы легенда Оккультизма и ценность самоцветов больше или равна 15.000 зм, то данный бонус предмета увеличивается до +3.</p>",
+            "src": "Dark Archive pg. 78",
+            "action": "",
+            "id": "feat-crystal-healing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Считывание психометрического резонанса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3776\">Read Psychometric Resonance</a>) / 1",
+            "name": "Считывание психометрического резонанса",
+            "originalName": "Read Psychometric Resonance",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "исследование",
+                "оккультный",
+                "прорицание",
+                "концентрация",
+                "ментальный",
+                "эмоция",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму</p><p><strong>Источник</strong>: Dark Archive pg. 79</p><hr class=\"docutils\"><p>С помощью прикосновения вы можете прочитать психические впечатления, оставленные на объектах их предыдущими владельцами.\nЭта активность исследования действует аналогично <span class=\"card-link \">Обнаружению магии (Detect Magic)</span> по тем критериям, что пока вы ищете психометрический резонанс, ваша скорость путешествия вдвое медленно.\nПри этом вы должны касаться голыми руками любых предметов, мимо которых проходите.\nЭто позволяет обнаружить объекты, со связанным с ними значительным эмоциональным резонансом, такие как радость от любимого плюшевого мишки ребенка, печаль от обручального кольца вдовца или страх жертвы от орудия убийства.\nЕсли вы ищете определенный тип эмоционального резонанса, то можете игнорировать другие эмоции.\nЕсли вы находите предмет с таким резонансом, то можете исследовать этот резонанс с помощью следующего действия.</p><p><strong>Психометрическая оценка (Psychometric Assessment)</strong> (<span class=\"t-exploration\">исследование</span>, <span class=\"t-occult\">оккультный</span>, <span class=\"t-divination\">прорицание</span>, <span class=\"t-concentrate\">концентрация</span>, <span class=\"t-mental\">ментальный</span>, <span class=\"t-emotion\">эмоция</span>)\n<strong>Требования</strong>: Ваши голые руки касаются объекта, в котором вы обнаружили психометрический резонанс;\n<strong>Эффект</strong>: Вы тратите 1 минуту, концентрируясь на объекте, чтобы получить видение лица личности, в основном наполнившей предмет такой эмоцией.\nЕсли связанная с этим эмоция болезненно негативна, то по решению Мастера вы можете получить 1d6 ментального урона.</p>",
+            "src": "Dark Archive pg. 79",
+            "action": "",
+            "id": "feat-read-psychometric-resonance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Просмотр ауры (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3770\">Aura Sight</a>) / 2",
+            "name": "Просмотр ауры",
+            "originalName": "Aura Sight",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "исследование",
+                "тайна",
+                "концентрация",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Оккультизма</p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Dark Archive pg. 78</p><hr class=\"docutils\"><p>Вы научились читать естественные ауры других живых существ.\nДля этого, вы должны сосредоточиться на 1 живой цели, не моргая, в течение 1 минуты.\nВы можете делать это во время выполнения какой-либо другой незначительной задачи, например, вести разговор, чтобы отвлечь от своих намерений, но вы не можете моргать или иным образом терять концентрацию.\nПо окончанию вы можете воспринимать какую-либо или всю следующую информацию:</p><ul class=\"simple\">\n<li><p>Текущее очевидное отношение цели к вам (<span class=\"card-link std std-ref\" data-id=\"c-friendly\">дружественное</span>, <span class=\"card-link std std-ref\" data-id=\"c-indifferent\">безразличное</span> и так далее).</p></li>\n<li><p>Текущее кажущееся эмоциональное состояние цели.</p></li>\n<li><p>Общая оценка физического здоровья цели, например, какие на него воздействуют состояния или недуги. Возможно, вам потребуется совершить успешную проверку Оккультизма против КС недуга или состояния, чтобы обнаружить присутствие особого скрытого или незаметного состояния или недуга.</p></li>\n</ul><p>Кроме того, Мастер совершает за вас <span class=\"t-secret\">тайную</span> проверку Оккультизма против КС Обмана цели.\nПри успехе, вы можете определить, вводит ли цель вас в заблуждение каким-либо образом (например, выражает ложное отношение к вам или симулирует эмоциональное состояние).\nЭто не позволяет вам автоматически определить точную природу этого обмана, а только лишь то, что внешняя видимость является ложной.</p>",
+            "src": "Dark Archive pg. 78",
+            "action": "",
+            "id": "feat-aura-sight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Автоматическое письмо (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3771\">Automatic Writing</a>) / 2",
+            "name": "Автоматическое письмо",
+            "originalName": "Automatic Writing",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "исследование",
+                "воздействие",
+                "концентрация",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Оккультизма</p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Dark Archive pg. 78</p><hr class=\"docutils\"><p>Столкнувшись с неизвестным, вы можете получить знания выходящие за рамки вашего собственного опыта, с помощью письменных сообщений, написанных вашей рукой.\nВы проводите 10 минут сидя, держа в руке письменные принадлежности, совершая с их помощью небольшие круговые движения, открывая свой разум окружающим вас силам.\nВы получаете информацию в момент, когда ваша рука пишет сама по себе, ведомая духами.\nПо окончании этих 10 минут, <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомните информацию (Recall Knowledge)</span> любым навыком Знаний, которому вы не обучены, используя свой модификатор Оккультизма вместо модификатора навыка этих Знаний.\nПеренапряжение от этого духовного сообщения оставляет вас <span class=\"card-link std std-ref\" data-id=\"c-stupefied\">одурманенным 1</span> на следующие 10 минут.</p>",
+            "src": "Dark Archive pg. 78",
+            "action": "",
+            "id": "feat-automatic-writing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Странная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=761\">Bizarre Magic</a>) / 7",
+            "name": "Странная магия",
+            "originalName": "Bizarre Magic",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Оккультизма</p><hr class=\"docutils\"><p>Вы можете странным образом варьировать свое колдовство, независимо от того, можете ли вы сотворять оккультные заклинания.\nКС для <span class=\"card-link std std-ref\" data-id=\"feat-recognize-spell\">Распознание заклинания (Recognize Spell)  / 1</span> сотворяемых вами и <span class=\"card-link \">Идентификации (Identify Magic)</span> используемой вами магии увеличиваются на 5.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-bizarre-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тревожные знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2123\">Disturbing Knowledge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Тревожные знания",
+            "originalName": "Disturbing Knowledge",
+            "level": 7,
+            "traits": [
+                "эмоция",
+                "страх",
+                "ментальный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Оккультизма</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 205</p><hr class=\"docutils\"><p>Вы произносите литанию ужасных имен, пророчеств и описаний миров, недоступных пониманию смертных, почерпнутых из вашего изучения запрещенных томов и свитков.\nДаже те, кто не понимает вашего языка, обеспокоены этими ужасными секретами.\nСделайте проверку Оккультизма и сравните с КС Воли врага в пределах 30 футов, или если вы легенда Оккультизма, то с КС Воли любого количества врагов в пределах 30 футов.\nЭти существа временно иммунны на 24 часа.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель получает состояния <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательство</span> на 1 раунд и <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span></div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span></div>\n<div class=\"line\"><strong>Провал</strong>: Цель невредима</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы слишком увлекаетесь своими собственными словами и получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган 1</span></div>\n</div>",
+            "src": "Advanced Player's Guide pg. 205",
+            "action": "активность из 2-х действий",
+            "id": "feat-disturbing-knowledge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Завораживающее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=781\">Fascinating Performance</a>) / 1",
+            "name": "Завораживающее выступление",
+            "originalName": "Fascinating Performance",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выступлению</p><hr class=\"docutils\"><p>Когда вы <span class=\"card-link std std-ref\" data-id=\"skill-performance-perform\">Выступаете (Perform)</span>, сравните свой результат с КС Воли одного наблюдателя.\nВ случае успеха, цель \"заворожена\" вами на 1 раунд.\nЕсли наблюдатель находится в ситуации, требующей немедленного внимания, например в бою, то, чтобы заворожить его, вам надо получить при проверке критический успех и Выступление получает признак <span class=\"t-incapacitation\">недееспособность</span>.\nВы должны выбрать какое существо пытаетесь заворожить до того как совершите бросок проверки, и после этого цель временно иммунна на 1 час.</p><p>Если вы эксперт Выступления, вы можете заворожить вплоть до 4 наблюдателей;\nесли мастер - вплоть до 10 наблюдателей;\nа если легенда - любое количество наблюдателей одновременно.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-fascinating-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Впечатляющее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=793\">Impressive Performance</a>) / 1",
+            "name": "Впечатляющее выступление",
+            "originalName": "Impressive Performance",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выступлению</p><hr class=\"docutils\"><p>Ваши выступления вызывают восхищение и завоевывают поклонников.\nВы можете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> используя Выступление вместо Дипломатии.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-impressive-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Виртуозный исполнитель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=862\">Virtuosic Performer</a>) / 1",
+            "name": "Виртуозный исполнитель",
+            "originalName": "Virtuosic Performer",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выступлению</p><hr class=\"docutils\"><p>У вас есть исключительный талант с одним типом выступления.\nВы получаете бонус обстоятельства +1 при выполнении определенного вида выступления.\nЕсли вы мастер Выступления, этот бонус увеличивается до +2.\nВыберите 1 из следующих специализаций и применяйте бонус к проверкам этого вида Выступления.\nЕсли не ясно, применяется ли специализация, решает Мастер.</p><table class=\"docutils align-default\">\n<colgroup>\n<col style=\"width: 37%\">\n<col style=\"width: 63%\">\n</colgroup>\n<thead>\n<tr class=\"row-odd\"><th class=\"head\"><p>Специализация</p></th>\n<th class=\"head\"><p>Пример</p></th>\n</tr>\n</thead>\n<tbody>\n<tr class=\"row-even\"><td><p>Актерская игра (Acting)</p></td>\n<td><p>Драма, пантомима, кукольное представление</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Комедия (Comedy)</p></td>\n<td><p>Буффонада, анекдоты, лимерики</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Танец (Dance)</p></td>\n<td><p>Балет, хуара, джига, макру</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Клавишные (Keyboards)</p></td>\n<td><p>Клавесин, орган, фортепиано</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Красноречие (Oratory)</p></td>\n<td><p>Эпос, ода, поэзия, рассказывание историй</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Перкуссия (Percussion)</p></td>\n<td><p>Колокольчики, барабан, гонг, ксилофон</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Пение (Singing)</p></td>\n<td><p>Баллада, напев, мелодия, рифма</p></td>\n</tr>\n<tr class=\"row-odd\"><td><p>Струнные (Strings)</p></td>\n<td><p>Скрипка, арфа, лютня, виола</p></td>\n</tr>\n<tr class=\"row-even\"><td><p>Духовые (Winds)</p></td>\n<td><p>Волынка, флейта, продольная флейта, труба</p></td>\n</tr>\n</tbody>\n</table>",
+            "src": "",
+            "action": "",
+            "id": "feat-virtuosic-performer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отвлекающее выступление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2122\">Distracting Performance</a>) / 2",
+            "name": "Отвлекающее выступление",
+            "originalName": "Distracting Performance",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Выступления</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 205</p><hr class=\"docutils\"><p>Ваши выступления особенно отвлекающие, позволяя вашим союзникам с легкостью <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"action-aid\">Помощь (Aid) </span> союзнику, который пытается <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span>, то вместо обычных эффектов Помощи, вы можете бросить проверку Выступления и использовать этот результат для определения исхода отвлечения, вместо того, чтобы союзник кидал проверку Обмана.</p>",
+            "src": "Advanced Player's Guide pg. 205",
+            "action": "",
+            "id": "feat-distracting-performance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный исполнитель (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=805\">Legendary Performer</a>) / 15",
+            "name": "Легендарный исполнитель",
+            "originalName": "Legendary Performer",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Выступления, <span class=\"card-link std std-ref\" data-id=\"feat-virtuosic-performer\">Виртуозный исполнитель (Virtuosic Performer) / 1</span></p><hr class=\"docutils\"><p>Ваша слава распространилась по всюду.\nНеигровые персонажи, которые успешно прошли проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> используя Общество с КС 10, слышали о вас и обычно относятся к вам на одну ступень лучше, чем обычно, в зависимости от вашей репутации и расположения неигрового персонажа.\nНапример, если вы хорошо известны своим жестоким и взыскательным поведением, то существа могут быть напуганы вами, а не дружелюбны к вам.\nКогда вы выполняете <span class=\"card-link \">Заработок денег (Earn Income)</span> с помощью Выступления, то привлекаете аудиторию более высокого уровня чем позволяет ваша локация, поскольку аудитория собирается, чтобы увидеть вас.\nНапример, правители и ангелы могут отправиться в вашу маленькую башню в лесу, чтобы послушать ваше выступление.\nОбычно, на усмотрение Мастера, это увеличивает доступную аудиторию на 2 или более уровня.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-performer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ученик канона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=847\">Student of the Canon</a>) / 1",
+            "name": "Ученик канона",
+            "originalName": "Student of the Canon",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Религии</p><hr class=\"docutils\"><p>Вы изучили достаточно много верований, чтобы узнавать о них признаки, которые вряд ли верны.\nЕсли при броске проверки Религии для <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> религиозного происхождения, или <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о принципах веры вы получили крит.провал, то вместо этого получаете просто провал.\nКогда выполняете <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о принципах своей веры и при броске получаете провал, то вместо этого получаете успех, а если при броске получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-student-of-the-canon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Символ паломника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2141\">Pilgrim's Token</a>) / 1",
+            "name": "Символ паломника",
+            "originalName": "Pilgrim's Token",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Религии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы носите небольшой символ защиты из священного места вашей веры, или вы в таком месте прикоснулись своим религиозным символом к реликвии или алтарю.\nПока этот символ у вас, когда ваша инициатива одинаковая с противником, то вы ходите первыми.</p><p><strong>Особенность</strong>: Если вы выбираете эту способность на 1-м уровне, то получаете свой символ паломника бесплатно.\nВ качестве альтернативы, если у вас есть религиозный символ, то он уже сонастроен, как описано выше.</p><p>Если вы выбираете эту способность на позднем уровне, или если вы теряете свой символ паломника, то вы должны купить или <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span> замену и сонастроить его в священном месте.\nТакой символ обычно стоит как минимум 2 см и сонастройка занимает 10 минут молитв и требует успешной проверки Религии с КС 20.\nВаш Мастер может скорректировать цену и КС в зависимости от качества и материала символа, и религиозной значимости места; чем более значимое место, тем проще сонастроить символ.</p>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-pilgrims-token",
+            "archetype": ""
+        },
+        {
+            "fullName": "Убеждение верующего (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2125\">Exhort the Faithful</a>) / 2",
+            "name": "Убеждение верующего",
+            "originalName": "Exhort the Faithful",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Религии, последователь определенной религии</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 205</p><hr class=\"docutils\"><p>Ваше знание принципов своей веры дает вам представление о том, как лучше всего убедить других, кто исповедует вашу веру, помочь вам или следовать вашим указаниям.\nКогда вы совершаете <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-request\">Просьба (Request) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> членов вашей веры, то можете сделать проверку Религии вместо Дипломатии или Запугивания и получаете бонус обстоятельства +2 к этой проверке.\nПри крит.провале Просьбы, отношение цели к вам не ухудшается.</p>",
+            "src": "Advanced Player's Guide pg. 205",
+            "action": "",
+            "id": "feat-exhort-the-faithful",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевая молитва (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1174\">Battle Prayer</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Боевая молитва",
+            "originalName": "Battle Prayer",
+            "level": 7,
+            "traits": [
+                "сакральный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Религии, вы последователь божества</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 104</p><hr class=\"docutils\"><p>Взывая к своему божеству, вы пересказываете священное писание, чтобы причинить вред врагу.\nКогда вы выбираете этот навык, выберите хаос, принципиальность, добро или зло.\nВаш выбор должен соответствовать одному из компонентов мировоззрения вашего божества.\nЭто действие имеет признак соответствующий выбранному мировоззрению.</p><p>Совершите проверку Религии против КС Воли врага, находящегося в пределах 30 футов.\nПосле этого враг временно иммунен к \"Боевым молитвам\" от вашего божества на 1 день.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы наносите 2d6 урона выбранным типом мировоззрением, или 6d6 урона если вы легенда религии</div>\n<div class=\"line\"><strong>Успех</strong>: Вы наносите 1d6 урона выбранным типом мировоззрением, или 3d6 урона если вы легенда религии</div>\n<div class=\"line\"><strong>Провал</strong>: Нет эффекта</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ответная отдача силы воли вашего врага, не позволяет вам снова использовать \"Боевую молитву\" 10 минут</div>\n</div>",
+            "src": "Lost Omens: Gods & Magic pg. 104",
+            "action": "одиночное действие",
+            "id": "feat-battle-prayer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Священная защита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1183\">Sacred Defense</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Священная защита",
+            "originalName": "Sacred Defense",
+            "level": 7,
+            "traits": [
+                "сакральный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Религии, вы последователь божества</p><p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Вы взываете к своему божеству, чтобы оно даровало вам благословенную защиту.\nСовершите проверку Религии с КС 30.\nЕсли вы легенда Религии, то вместо этого можете сделать проверку Религии с КС 40, чтобы увеличить получаемые при успехе временные ОЗ до 15 (25 при крит.успехе).</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы получаете 10 временных ОЗ. Вы теряете все оставшиеся временные ОЗ через 1 минуту.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы получаете 5 временных ОЗ. Вы теряете любые оставшиеся временные ОЗ через 1 минуту.</div>\n<div class=\"line\"><strong>Критический провал</strong>: Ваше божество отказывает в благословении. Вы не можете попытаться воззвать к своему божеству снова в течение 1 дня.</div>\n</div>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "одиночное действие",
+            "id": "feat-sacred-defense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Освятить воду (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1185\">Sanctify Water</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 7",
+            "name": "Освятить воду",
+            "originalName": "Sanctify Water",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Религии, доброе или злое божество</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Вы наполняете воду благословением вашего божества.\nВыберите емкость с водой находящийся на вас, и имеющий легкую Массу.\nНа 1 раунд, если вы или союзник бросаете эту емкость во врага, она имеет эффекты урона как от <span class=\"card-link \">Святая вода (Holy Water) / Предмет 1</span> (если вы последователь доброго божества) или <span class=\"card-link \">Нечестивая вода (Unholy Water) / Предмет 1</span> (если вы последователь злого божества).\nНедолговечная сила воды не придает ей никакой ценности, не позволяет использовать ее для покрытия стоимости заклинания или ритуала, и так далее.\nЕсли вы легенда Религии, то вместо 1 емкости можете освятить 3 емкости, удерживаемые вами или союзниками в пределах вашей досягаемости.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Для определения бонуса атаки с \"Освятить воду\", используйте свое мастерство простого оружия, когда бросаете емкость с водой.\nЕсли вы даете емкость для броска другому персонажу, то вместо этого они используют свое мастерство с импровизированным оружием.</p>\n</div>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "одиночное действие",
+            "id": "feat-sanctify-water",
+            "archetype": ""
+        },
+        {
+            "fullName": "Божественное наставление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=775\">Divine Guidance</a>) / 15",
+            "name": "Божественное наставление",
+            "originalName": "Divine Guidance",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Религии</p><hr class=\"docutils\"><p>Вы настолько погружены в божественное писание, что находите смысл и наставления в своих текстах в любой ситуации.\nПотратьте 10 минут на <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> религиозного значения вашего божества или философии, думая о конкретной проблеме или дилемме, стоящей перед вами и совершите проверку Религии (КС определяется Мастером).\nВ случае успеха вы обнаруживаете соответствующий стих, притчу или афоризм, которые могут помочь вам двигаться вперед или изменить образ мышления, чтобы помочь решить вашу головоломку.\nНапример, Мастер может предоставить вам загадочный стих или подсказку, которая поможет вам перейти к следующему шагу решения вашей проблемы.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-divine-guidance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Аристократическое изящество (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=772\">Courtly Graces</a>) / 1",
+            "name": "Аристократическое изящество",
+            "originalName": "Courtly Graces",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><hr class=\"docutils\"><p>Вы были воспитаны среди знати или научились правильному этикету и поведению, что позволяет вам представлять себя как дворянина и играть в политические игры и бороться за влияние.\nВы можете использовать Общество, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на знать, а также, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> и претвориться знатью, если вы таковым не являетесь.\nЕсли вы хотите притвориться каким-то определенным представителем знати, то вам все еще надо использовать Обманом, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-impersonate\">Перевоплотиться (Impersonate)</span> и <span class=\"card-link std std-ref\" data-id=\"skill-deception-lie\">Лгать (Lie)</span> когда это потребуется.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-courtly-graces",
+            "archetype": ""
+        },
+        {
+            "fullName": "Многоязычный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=814\">Multilingual</a>) / 1",
+            "name": "Многоязычный",
+            "originalName": "Multilingual",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><hr class=\"docutils\"><p>Вы легко изучаете новые языки.\nВы изучаете 2 новых языка, выбираемых из распространенных, необычных и любых других языков, к которым у вас есть доступ.\nВы изучаете дополнительный язык, если являетесь или становитесь мастером Общества, и снова, если вы являетесь или становитесь легендой.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз.\nКаждый раз, вы изучаете новые языки.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-multilingual",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чтение по губам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=833\">Read Lips</a>) / 1",
+            "name": "Чтение по губам",
+            "originalName": "Read Lips",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><hr class=\"docutils\"><p>Вы можете читать по губам тех, кто поблизости, и кого вы можете ясно видеть.\nВ обычное время вы можете делать это автоматически.\nВ режиме столкновения или когда пытаетесь осуществить более сложное чтение по губам, вы получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-fascinated\">заворожен</span> и <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут врасплох</span> во время каждого раунда в котором вы сосредотачиваетесь на чтении губ, и для успешного чтения по губам вы должны выполнить проверку Общества (КС определяется Мастером).\nВ любом случае, вы должны знать тот язык на котором разговаривают.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r2: </span>Во 2-м издании убран второй абзац о том, что глухие и слабослышащие персонажи могут понимать движение губ для известных им устных языков; а так же, что вы можете четко говорить в устной форме известных вам языков, чтобы другие могли вас понимать.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-read-lips",
+            "archetype": ""
+        },
+        {
+            "fullName": "Язык жестов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=840\">Sign Language</a>) / 1",
+            "name": "Язык жестов",
+            "originalName": "Sign Language",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><hr class=\"docutils\"><p>Вы изучаете языки жестов относящиеся ко всем известных вам языкам, что позволяет вам использовать жесты и понимать их.\nКак правило, чтобы передавать более сложные понятия, языки жестов требуют обеих рук, и они имеют признак <span class=\"t-visual\">визуальный</span>, а не <span class=\"t-auditory\">слуховой</span>.</p><p>Язык жестов трудно понимать во время боя из-за того, сколько внимания это требует, в отличие от основных жестов, таких как указание на врага, чтобы предложить цель.\nЯзык жестов трудно использовать в местах с плохой видимостью, так же как речь трудно использовать в шумной обстановке.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-sign-language",
+            "archetype": ""
+        },
+        {
+            "fullName": "Уличная жизнь (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=846\">Streetwise</a>) / 1",
+            "name": "Уличная жизнь",
+            "originalName": "Streetwise",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><hr class=\"docutils\"><p>Вы знаете о жизни на улицах и чувствуете пульс вашего местного поселения.\nВы можете использовать свой модификатор Общества вместо Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.\nВ любом населенном пункте, где вы регулярно бываете, вы можете использовать действие <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> с Обществом, чтобы узнать ту же информацию, которую вы можете узнать с Дипломатией и <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.\nОбычно, КС для этого значительно выше, но вы узнаете информацию не тратя время на ее сбор.\nЕсли вы проваливаете сбор информации, то все еще можете впоследствии попытаться <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> обычным способом.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-streetwise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Человек дождя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2127\">Eye for Numbers</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Человек дождя",
+            "originalName": "Eye for Numbers",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы научились с первого взгляда подразделять, быстро оценивая количество элементов в группе с относительной точностью.\nВы сразу же узнаете количество визуально похожих предметов в группе, которую вы можете увидеть (например, монеты, книги или люди), округленно до первой цифры в общем числе.\nНапример, вы можете видеть на полке зелья и узнать что там примерно 30 бутыльков, но не будете знать, что там ровно 33 бутылька, сколько там было разных видов зелий, или сколько какого вида.\nПодобным образом, вы можете посмотреть на стопку из 2.805 монет и узнать, что там всего было примерно 3.000 монет.\nВы можете использовать это умение только на предметах, которые обычно могут быть посчитаны, поэтому, например, вы не можете использовать это на песчинках песка или звездах на небе.</p><p>Дополнительно, когда вы совершаете <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span>, который в основном числовой или математический, то получаете бонус обстоятельства +2 к своей проверке.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "одиночное действие",
+            "id": "feat-eye-for-numbers",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обрывочное содержимое (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2129\">Glean Contents</a>) / 1",
+            "name": "Обрывочное содержимое",
+            "originalName": "Glean Contents",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Обществу</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 206</p><hr class=\"docutils\"><p>Вы умеете быстро просматривать разрозненные бумаги и тщательно изучать содержимое запечатанных писем, не повреждая печать.\nВы можете выполнять проверку Общества для <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> на сообщении, которое видели лишь частично, кверх ногами или со своей перспективы задом наперед, или даже запечатанное.\nОднако, при крит.провале, получатель осведомлен о ваших попытках (например, вы повредили печать или каким-то образом потрогали бумагу или оставили следы).\nКогда вы используете эту способность, чтобы расшифровать запечатанные письма, ваша попытка <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> получает признак <span class=\"t-manipulate\">воздействие</span>.\nЭта способность не мешает свидетелям заметить ваши попытки, особенно с запечатанными письмами, для прочтения которых вы должны непосредственно взаимодействовать; вам может потребовать проверка Обмана или Скрытности, чтобы не быть замеченным.</p>",
+            "src": "Advanced Player's Guide pg. 206",
+            "action": "",
+            "id": "feat-glean-contents",
+            "archetype": ""
+        },
+        {
+            "fullName": "Связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=770\">Connections</a>) / 2",
+            "name": "Связи",
+            "originalName": "Connections",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества, <span class=\"card-link std std-ref\" data-id=\"feat-courtly-graces\">Аристократическое изящество (Courtly Graces) / 1</span></p><hr class=\"docutils\"><p>У вас есть социальные связи, которые вы можете использовать для обмена услугами или встречи с важными людьми.\nКогда вы находитесь в районе со связями (как правило, в поселении, где вы потратили время на создание связей, или, возможно, в другом районе той же страны), вы можете совершить проверку Общества, чтобы устроить встречу с важной политической фигурой или попросить их об услуге в обмен на другую услугу позднее, по выбору вашего контакта.\nМастер выбирает КС на основе сложности услуги и известности личности.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-r2: </span>Добавлен признак \"необычная\", так как для способности требуется много импровизации и решений со стороны Мастера.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-connections",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрые контакты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2144\">Quick Contacts</a>) / 2",
+            "name": "Быстрые контакты",
+            "originalName": "Quick Contacts",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества; <span class=\"card-link std std-ref\" data-id=\"feat-connections\">Связи (Connections) / 2</span> или <span class=\"card-link std std-ref\" data-id=\"feat-criminal-connections\">Криминальные связи (Criminal Connections) / 2</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 208</p><hr class=\"docutils\"><p>Вы знаете куда пойти, с кем говорить и как быстро найти новые связи.\nПри въезде в новое поселение, потратив 1 день отдыха, вы сможете найти достаточное количество связей, чтобы использовать способности <span class=\"card-link std std-ref\" data-id=\"feat-connections\">Связи (Connections) / 2</span> или <span class=\"card-link std std-ref\" data-id=\"feat-criminal-connections\">Криминальные связи (Criminal Connections) / 2</span>.\nЕсли вы легенда Общества, то можете найти нужные связи за 1 час после появления в новом поселении.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-APG-r2: </span>Использовалось название способности <span class=\"card-link std std-ref\" data-id=\"feat-criminal-connections\">Криминальные связи (Criminal Connections) / 2</span> до публикации (Underworld Connections).</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 208",
+            "action": "",
+            "id": "feat-quick-contacts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Криминальные связи (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2119\">Criminal Connections</a>) / 2",
+            "name": "Криминальные связи",
+            "originalName": "Criminal Connections",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества, <span class=\"card-link std std-ref\" data-id=\"feat-streetwise\">Уличная жизнь (Streetwise) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Вы имеете дело с различными сомнительными персонажами, которых вы можете использовать, чтобы обменяться услугами или для встреч с влиятельными людьми.\nКогда вы в области, где у вас есть связи (обычно поселение, где вы провели время отдыха налаживая связи, или возможно в другом районе этой страны), вы можете совершить проверку Общества, чтобы назначить встречу с важным преступником, таким как лидер воровской гильдии, или на усмотрение вашего связного попросить об услуге в обмен на свою услугу позднее.\nМастер определяет КС на основе сложности услуги и известности личности.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-criminal-connections",
+            "archetype": ""
+        },
+        {
+            "fullName": "Подпольная сеть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2156\">Underground Network</a>) / 2",
+            "name": "Подпольная сеть",
+            "originalName": "Underground Network",
+            "level": 2,
+            "traits": [
+                "необычный",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Общества, <span class=\"card-link std std-ref\" data-id=\"feat-streetwise\">Уличная жизнь (Streetwise) / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы связаны с группами, которые знают, что происходит на улицах, и вы можете быстро получить от них информацию.\nКогда вы используете Общество, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> в районе, где у вас есть сеть (обычно поселение, где вы тратите хотя бы неделю или день отдыха, чтобы быстрее создать сеть), вы можете обратиться к члену этих групп, чтобы получить информацию напрямую от них.\nОбычно это занимает час и не вызывает столько внимания как <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> в общественных местах.\nЭта проверка и информация полученная иным образом действует по обычным правилам <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span>.</p><p>Дополнительно, если вы успешно проконсультировались с криминальной сетью, то получаете бонус обстоятельства +1 к следующей проверке <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о теме по которой вы \"Собирали информацию\", или бонус обстоятельства +2 используя для проверки Знание Преступного мира (Underworld).\nМастер может изменить навык Знаний относительно сети вашей локации или особенностей сети, к которой вы обращаетесь.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-underground-network",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наблюдательный биограф (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2113\">Biographical Eye</a>) / 7",
+            "name": "Наблюдательный биограф",
+            "originalName": "Biographical Eye",
+            "level": 7,
+            "traits": [
+                "тайна",
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Общества</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>Даже в кратком разговоре или социальном взаимодействии вы улавливаете тонкие социальные и визуальные приметы, чтобы узнать много нового о происхождении и истории человека.\nВы можете заметить кусочки зелени под ногтями человека и определить, что он травник, булавку указывающую на их принадлежность к тайному обществу, или что-то подобное.\nВы улавливаете только детали, которые имеют отношение к их социальной роли, поэтому вы можете узнать городской район, где живет вампир, но не узнаете ни одной из их слабостей, или даже того, что это вампир.</p><p>Потратьте 1 минуту в присутствии кого-то, кого ранее не встречали, или не встречали с того раза, когда взяли способность \"Наблюдательного биографа\", потом совершите проверку Общества с КС 30.\nВы получаете бонус обстоятельства +1 к этой проверке если участвовали в разговоре с этой личностью все это время.\nЕсли личность намеренно пытается скрыть свою подлинную природу или представить ложную личность, вы узнаете о его ложной биографии, а не об истинной, если только ваш результат проверки Общества не превысит его КС Воли.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Вы узнаете профессию существа, его специальность в этой профессии и главное достижение или противоречие в его карьере. Вы также узнаете нацию и поселение, в котором оно живет, а также район города (если он достаточно большой, чтобы иметь районы). Кроме того, вы узнаете нацию или поселение, где они провели годы своего становления.</div>\n<div class=\"line\"><strong>Успех</strong>: Вы узнаете профессию существа и специальность в этой профессии. Вы узнаете нацию или поселение, в котором оно обычно живет.</div>\n<div class=\"line\"><strong>Провал</strong>: Вы узнаете профессию существа и регион мира из которого он, но не более</div>\n<div class=\"line\"><strong>Критический провал</strong>: Вы узнаете часть ошибочной информации о существе</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "",
+            "id": "feat-biographical-eye",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный шифровальщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=801\">Legendary Codebreaker</a>) / 15",
+            "name": "Легендарный шифровальщик",
+            "originalName": "Legendary Codebreaker",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Общества</p><hr class=\"docutils\"><p>Ваши навыки языков и работы с кодами настолько велики, что вы можете расшифровывать информацию с помощью всего лишь беглого чтения текста.\nВы можете выполнять <span class=\"card-link \">Расшифровка текста (Decipher Writing)</span> используя Общество во время чтения с нормальной скоростью.\nЕсли вы замедлитесь и потратите полное время, которое обычно требуется для этого, и при броске получаете успех, то вместо этого получаете критический успех;\nесли вы получаете критический успех читая с обычной скоростью, то получаете почти дословное понимание документа.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-codebreaker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный лингвист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=802\">Legendary Linguist</a>) / 15",
+            "name": "Легендарный лингвист",
+            "originalName": "Legendary Linguist",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Общества, <span class=\"card-link std std-ref\" data-id=\"feat-multilingual\">Многоязычный (Multilingual) / 1</span></p><hr class=\"docutils\"><p>Вы настолько искусны в языках, что можете мгновенно создать пиджин.\nВы всегда можете поговорить с любым существом, которое общается на языке, даже том который вы не знаете, создав новый язык пиджин, использующий упрощенные термины и передающий основные понятия.\nЧтобы сделать это, вы должны сначала понять, по крайней мере, какое средство коммуникации использует существо (речь, язык жестов и т.д.).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-linguist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опытный контрабандист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=779\">Experienced Smuggler</a>) / 1",
+            "name": "Опытный контрабандист",
+            "originalName": "Experienced Smuggler",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Скрытности</p><hr class=\"docutils\"><p>Вы часто провозите вещи контрабандой мимо властей.\nКогда Мастер совершает за вас бросок тайной проверки Скрытности, чтобы узнать заметили ли пассивные наблюдатели скрытый вами маленький предмет, то в качестве результата вашего броска кости он использует число на кости или 10, в зависимости от того что больше, добавляя его к вашему модификатору Скрытности, для определения результат проверки Скрытности.\nЕсли вы мастер Скрытности, то Мастер использует число от броска кости или 15, а если вы легенда Скрытности, то получаете автоматический успех прячя маленький предмет от пассивных наблюдателей.\nЭто не дает преимуществ, когда существо совершает проверку Восприятия активно обыскивая вас на скрытые предметы.\nИз-за своего навыка контрабандиста, вы, скорее всего, найдете более прибыльную работу связанную с контрабандой, когда используете Знания преступного мира (Underworld) для <span class=\"card-link \">Заработок денег (Earn Income)</span>.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Это позволяет вам всегда \"Зарабатывать деньги\" со Знаниями преступного мира (Underworld), с уровнем задачи, равным вашему уровню - 1 (вместо обычного, уровень - 2)</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "feat-experienced-smuggler",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лазутчик местности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=852\">Terrain Stalker</a>) / 1",
+            "name": "Лазутчик местности",
+            "originalName": "Terrain Stalker",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Скрытности</p><hr class=\"docutils\"><p>Выберите 1 из следующих видов сложной местности:</p><ul class=\"simple\">\n<li><p>обломки/щебень (rubble)</p></li>\n<li><p>снег (snow)</p></li>\n<li><p>подлесок (underbrush)</p></li>\n</ul><p>Когда на этом виде местности вы \"необнаружены\" всеми не-союзниками, то можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> без совершения проверки Скрытности, пока вы двигаетесь не более 5 футов за раз, и в любой момент во время движения не двигаетесь в пределах 10 футов от врага.\nЕще это позволяет вам автоматически приближаться к существам на расстояние вплоть до 15 футов при использовании <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span> во время исследования, до тех пор, пока они не <span class=\"card-link \">Ищут (Searching)</span> активно или находятся на чеку.</p><p><strong>Особенность</strong>: Вы можете выбрать эту способность несколько раз.\nКаждый раз выбирайте другой вид сложной местности.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-terrain-stalker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тихие союзники (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=831\">Quiet Allies</a>) / 2",
+            "name": "Тихие союзники",
+            "originalName": "Quiet Allies",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Скрытности</p><hr class=\"docutils\"><p>Вы умеете передвигаться с группой.\nКогда вы используете <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span> а ваши союзники <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span>, вы с этими союзниками можете совершить бросок одной проверки Скрытности, используя наименьший модификатор, вместо совершения отдельных бросков.\nЭто не применяется к броскам инициативы.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quiet-allies",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скрытность в доспехах (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2110\">Armored Stealth</a>) / 2",
+            "name": "Скрытность в доспехах",
+            "originalName": "Armored Stealth",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Скрытности</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 203</p><hr class=\"docutils\"><p>Вы научились приемам изменения и модификации вашего доспеха и движений, чтобы уменьшить производимый шум.\nКогда вы носите нешумный доспех с которым вы обучены обращаться, ваш штраф к проверкам Скрытности снижается на 1 (до минимального штрафа 0).\nЕсли вы мастер Скрытности, снизьте штраф на 2, а если вы легенда, снизьте штраф на 3.\nЕсли ваш доспех имеет признак \"шумный\", то вместо снижения штрафа на проверки Скрытности, вы игнорируете эффекты этого признака, что как обычно позволяет вам убирать штраф при достаточном значении Силы.</p>",
+            "src": "Advanced Player's Guide pg. 203",
+            "action": "",
+            "id": "feat-armored-stealth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Теневая метка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2150\">Shadow Mark</a>) / 2",
+            "name": "Теневая метка",
+            "originalName": "Shadow Mark",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Скрытности</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 209</p><hr class=\"docutils\"><p>Вы научились особым приемам, которые помогают вам преследовать людей, оставаясь незамеченным.\nКогда вы совершаете проверку Скрытности, чтобы <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span> когда следуете за конкретной целью, эта цель получает штраф обстоятельства -2 к своему КС Восприятия.\nЕсли вы мастер Скрытности, штраф -3, а если легенда, то штраф -4.\nЕсли вы начали столкновение с целью во время слежки за ней, то цель получает этот штраф к своему броску инициативы и КС Восприятия, чтобы как обычно определить заметили ли они вас, когда вы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Крались (Sneak)</span>.</p>",
+            "src": "Advanced Player's Guide pg. 209",
+            "action": "",
+            "id": "feat-shadow-mark",
+            "archetype": ""
+        },
+        {
+            "fullName": "Одурачить чувства (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=785\">Foil Senses</a>) / 7",
+            "name": "Одурачить чувства",
+            "originalName": "Foil Senses",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Скрытности</p><hr class=\"docutils\"><p>Вы искусны в обмане особых чувств существ и достаточно осторожны, чтобы в любой момент предостеречься от них.\nВсякий раз, когда вы используете <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, то считается, что вы всегда принимаете меры предосторожности против особых чувств (смотрите сноску \"Обнаружение другими чувствами (Detecting With Other Senses)\" в разделе <span class=\"card-link \">Обнаружение существ (Detecting Creatures)</span>).</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-foil-senses",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстро красться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=850\">Swift Sneak</a>) / 7",
+            "name": "Быстро красться",
+            "originalName": "Swift Sneak",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Скрытности</p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> с полной Скоростью.\nВы можете \"Быстро красться\" когда <span class=\"card-link std std-ref\" data-id=\"action-burrow\">Роете (Burrowing)</span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-climb\">Карабкаетесь (Climbing)</span>, <span class=\"card-link std std-ref\" data-id=\"action-fly\">Летите (Flying)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-swim\">Плывете (Swimming)</span> вместо Перемещения, если у вас есть соответствующий вид движения.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-swift-sneak",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарно красться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=807\">Legendary Sneak</a>) / 15",
+            "name": "Легендарно красться",
+            "originalName": "Legendary Sneak",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Скрытности, <span class=\"card-link std std-ref\" data-id=\"feat-swift-sneak\">Быстро красться (Swift Sneak) / 7</span></p><hr class=\"docutils\"><p>Вы всегда крадетесь, даже когда негде спрятаться, если только вы сами не выбрали быть видимым.\nВы можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> и <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> даже без укрытия или не будучи <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытым</span>.\nКогда вы используете тактику исследования отличную от <span class=\"card-link \">Избегать обнаружения (Avoid Notice)</span>, то вы еще получаете преимущества \"Избегать обнаружения\", если только явно не решите не делать этого.\nСмотрите подробности в разделе \"<span class=\"card-link \">Активности исследования (Exploration Activities)</span>\".</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-sneak",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опытный следопыт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=780\">Experienced Tracker</a>) / 1",
+            "name": "Опытный следопыт",
+            "originalName": "Experienced Tracker",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><hr class=\"docutils\"><p>Выслеживание - ваша вторая натура, и при необходимости вы можете идти по следу без перерыва.\nВы можете выполнять <span class=\"card-link std std-ref\" data-id=\"skill-survival-track\">Выслеживание (Track)</span> двигаясь с полной Скоростью, но получая штраф -5 к своей проверке Выживания.\nЕсли вы мастер Выживания, то не получаете штраф -5.\nЕсли вы легенда Выживания, то при выслеживании вам не надо каждый час делать новый бросок проверки Выживания, однако все еще надо совершать новый бросок при значительном изменении следа.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-experienced-tracker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Добытчик еды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=786\">Forager</a>) / 1",
+            "name": "Добытчик еды",
+            "originalName": "Forager",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><hr class=\"docutils\"><p>Если при использовании Выживание для <span class=\"card-link \">Проживания (Subsist)</span>, вы при броске получаете результат хуже успеха, то вместо этого получаете успех.\nПри успехе, вы можете обеспечить прожиточный минимум для себя и 4 дополнительных существ, при крит.успехе вы можете позаботиться о в 2 раза большем количестве существ, чем при успехе.</p><p>Каждый раз, когда ваш уровень мастерства в Выживании увеличивается, удвойте количество дополнительных существ о которых вы можете позаботиться при успехе (до 8 если эксперт, 16 если мастер, или 32 если легенда).\nВы можете решить позаботиться о в два раза меньшем количестве дополнительных существ и вместо минимальных условий обеспечить комфортные.</p><p>Несколько существ меньшего размера или существ со значительно меньшими аппетитами, чем у человека, считаются для этой способности 1 существом, а каждое более крупное существо или существа со значительно большими аппетитами считаются несколькими существами.\nМастер определяет сколько требуется пищи существам не людям.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-forager",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изучение дикой природы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=849\">Survey Wildlife</a>) / 1",
+            "name": "Изучение дикой природы",
+            "originalName": "Survey Wildlife",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><hr class=\"docutils\"><p>Вы можете исследовать подробности дикой природы, чтобы определить присутствие существ поблизости.\nВы можете потратить 10 минут на оценку окружающей области, чтобы выяснить какие есть поблизости существа, на основе гнезд, экскрементов и отметок на растительности.\nВыполните проверку Выживания с КС определенным Мастером, в зависимости от того, насколько очевидны эти признаки.\nПри успехе, вы можете совершить проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> со штрафом -2, чтобы узнать больше о существах, только по этим признакам.\nЕсли вы мастер Выживания, то не получаете этот штраф.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-survey-wildlife",
+            "archetype": ""
+        },
+        {
+            "fullName": "Опыт местности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=851\">Terrain Expertise</a>) / 1",
+            "name": "Опыт местности",
+            "originalName": "Terrain Expertise",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><hr class=\"docutils\"><p>Ваш опыт ориентирования в определенном типе местности, делает вас чрезвычайно уверенным в своих силах.\nВы получаете бонус обстоятельства +1 к проверкам Выживания в одном из следующих видов местности, который вы выбираете вместе со способностью:</p><ul class=\"simple\">\n<li><p>Водная (aquatic)</p></li>\n<li><p>Арктика (arctic)</p></li>\n<li><p>Пустыня (desert)</p></li>\n<li><p>Лес (forest)</p></li>\n<li><p>Горы (mountain)</p></li>\n<li><p>Равнины (plains)</p></li>\n<li><p>Небо (sky)</p></li>\n<li><p>Болото (swamp)</p></li>\n<li><p>Подземелье (underground)</p></li>\n</ul><p><strong>Особенность</strong>: Вы можете выбрать эту способность более одного раза, каждый раз выбирая другой вид местности.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-terrain-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лозоходство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3774\">Folk Dowsing</a>) / 3",
+            "name": "Лозоходство",
+            "originalName": "Folk Dowsing",
+            "level": 3,
+            "traits": [
+                "необычный",
+                "навык",
+                "общая"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Выживанию</p><p><strong>Источник</strong>: Dark Archive pg. 78</p><hr class=\"docutils\"><p>Вы можете найти то, что ищете, с помощью лозы или маятника.\nЕсли <span class=\"card-link \">Ищете (Search)</span> владея лозой или маятником, в дополнение к обычным проверкам Поиска, Мастер кидает для вас <span class=\"t-secret\">тайную</span> проверку Выживания, чтобы обнаружить в этой области самый большой источник воды, нефти или другой естественной нетелесной жидкости.\nДаже если жидкость скрыта от вас, например, если она течет в подземном источнике или проходит по трубе через стену, то этот метод укажет вам правильное направление.\nМастер определяет КС, обычно являющийся <span class=\"card-link std std-ref\" data-id=\"table-10-4\">простым КС обученного</span> с <span class=\"card-link std std-ref\" data-id=\"table-10-6\">трудной или очень трудной корректировкой</span>, если источник жидкости невелик.</p><p>Если вы эксперт Выживания, Мастер также совершает за вас проверку Выживания, чтобы обнаружить значительные залежи металла, минералов и близлежащих могил.\nКС, обычно является простым КС эксперта с корректировками для небольших залежей.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /translation: </span>Здесь скорее всего ошибка в уровне способности; предположительно она должна быть 1-го уровня 🤷</p>\n</div>",
+            "src": "Dark Archive pg. 78",
+            "action": "",
+            "id": "feat-folk-dowsing",
+            "archetype": ""
+        },
+        {
+            "fullName": "Планарное выживание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=819\">Planar Survival</a>) / 7",
+            "name": "Планарное выживание",
+            "originalName": "Planar Survival",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Выживания</p><hr class=\"docutils\"><p>Вы можете использовать Выживание для <span class=\"card-link \">Проживание (Subsist)</span> на других планах, даже тех, где нет ресурсов или природных явлений, которые вам обычно нужны.\nНапример, вы можете добывать пищу, даже если на этом плане не хватает пищи которой вы бы могли нормально подкрепиться.\nНа усмотрение Мастера, успех вашей проверки <span class=\"card-link \">Проживание (Subsist)</span> может еще снизить урон наносимым планом.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-planar-survival",
+            "archetype": ""
+        },
+        {
+            "fullName": "Благоволение окружающей среды (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1179\">Environmental Grace</a>) / 7",
+            "name": "Благоволение окружающей среды",
+            "originalName": "Environmental Grace",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Выживания; божество, предоставляющее домен холода, огня, природы или путешествия</p><p><strong>Источник</strong>: Lost Omens: Gods &amp; Magic pg. 105</p><hr class=\"docutils\"><p>Вы быстро адаптируетесь к окружающей среде благодаря сочетанию навыков, медитации и божественной благодати.\nПроведя час в окружающей среде с сильным холодом или холодней, вы защищены от эффектов сильного холода пока не покинете эту окружающую среду.\nПроведя час в окружающей среде с сильной жарой или жарче, вы защищены от эффектов сильной жары пока не покинете эту окружающую среду.</p>",
+            "src": "Lost Omens: Gods & Magic pg. 105",
+            "action": "",
+            "id": "feat-environmental-grace",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный выживальщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=808\">Legendary Survivalist</a>) / 15",
+            "name": "Легендарный выживальщик",
+            "originalName": "Legendary Survivalist",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Выживания</p><hr class=\"docutils\"><p>Вы можете неопределенно долго выживать без пищи и воды, а также переносить сильные, экстремальные и невероятные холод и жару, не получая при этом никакого урона.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-survivalist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный проводник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2138\">Legendary Guide</a>) / 15",
+            "name": "Легендарный проводник",
+            "originalName": "Legendary Guide",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Выживания</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 207</p><hr class=\"docutils\"><p>Вы так хорошо знаете дикую местность, что можете с легкостью помочь своей группе путешествовать по ней.\nКогда вы прокладываете путь своей группе через дикую местность, ваша группа получает бонус обстоятельства +10 футов к Скорости, для расчета скорости путешествия группы, скорость вашей группы не снижается на сложной местности, а особо сложная местность снижает скорость лишь вполовину, вместо ее снижения до 1/3.\nЭто не увеличивает Скорость вашей группы во время столкновения и не позволяет вашей группе игнорировать сложную местность во время столкновения.</p>",
+            "src": "Advanced Player's Guide pg. 207",
+            "action": "",
+            "id": "feat-legendary-guide",
+            "archetype": ""
+        },
+        {
+            "fullName": "Карманник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=818\">Pickpocket</a>) / 1",
+            "name": "Карманник",
+            "originalName": "Pickpocket",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Воровству</p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> объект или использовать на него <span class=\"card-link std std-ref\" data-id=\"skill-thievery-palm-an-object\">Ловкость рук (Palm an Object) </span>, если он тщательно охраняется, как например в кошельке, не получая штраф -5.\nВы не можете красть объекты, которые будет чрезвычайно заметно или трудозатратно снять (такие как надетая обувь, доспех, или объекты которыми активно владеют).\nЕсли вы мастер Воровства, то можете попытаться <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> у существа, которое находится в бою или на чеку.\nКогда вы так делаете, <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> требует 2 действия с признаком <span class=\"t-manipulate\">воздействие</span> вместо 1 действия, и вы получаете штраф -5.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-pickpocket",
+            "archetype": ""
+        },
+        {
+            "fullName": "Незаметное воровство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=848\">Subtle Theft</a>) / 1",
+            "name": "Незаметное воровство",
+            "originalName": "Subtle Theft",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Воровству</p><hr class=\"docutils\"><p>Когда вы успешно что-то <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Крадете (Steal)</span>, наблюдатели (существа, не являющиеся тем, у кого вы украли) получают штраф обстоятельства -2 к их КС Восприятия для обнаружения кражи.</p><p>Дополнительно, если вы сначала используете Обман, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-deception-create-a-diversion\">Отвлечь внимание (Create a Diversion) </span>, применение к объекту одиночного действия <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-thievery-palm-an-object\">Ловкость рук (Palm an Object) </span> не прерывает ваше состояние <span class=\"card-link std std-ref\" data-id=\"c-undetected\">необнаружен</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-subtle-theft",
+            "archetype": ""
+        },
+        {
+            "fullName": "Скрывающее жонглирование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2116\">Concealing Legerdemain</a>) / 1",
+            "name": "Скрывающее жонглирование",
+            "originalName": "Concealing Legerdemain",
+            "level": 1,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Воровству</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 204</p><hr class=\"docutils\"><p>Вместо того, чтобы прятать объект там, где обыскивающие не будут искать, вы искусны в том, как держать объект в движении, чтобы он никогда не был там, где они ищут.\nКогда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span> легкой массы или менее, то можете использовать Воровство вместо Скрытности для своих проверок и в качестве КС против проверок Восприятия активно ищущих.\nВы делаете только один бросок проверки, но вы должны продолжать использовать действия, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-conceal-an-object\">Скрыть объект (Conceal an Object) </span> во время этого процесса.</p>",
+            "src": "Advanced Player's Guide pg. 204",
+            "action": "",
+            "id": "feat-concealing-legerdemain",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осторожное отключение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=865\">Wary Disarmament</a>) / 2",
+            "name": "Осторожное отключение",
+            "originalName": "Wary Disarmament",
+            "level": 2,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Воровства</p><hr class=\"docutils\"><p>Если провоцируете активацию устройства или ловушки во время их отключения, то получаете бонус обстоятельства +2 к КБ или спасброску против этого устройства или ловушки.\nЭто применяется только к атакам или эффектам вызванным провалом вашей попытки, а не к более поздним, таким как дополнительные атаки от комплексных ловушек.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-wary-disarmament",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрое вскрытие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=830\">Quick Unlock</a>) / 7",
+            "name": "Быстрое вскрытие",
+            "originalName": "Quick Unlock",
+            "level": 7,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Воровства</p><hr class=\"docutils\"><p>Вы можете выполнять <span class=\"card-link std std-ref\" data-id=\"skill-thievery-pick-a-lock\">Вскрытие замка (Pick a Lock) </span> используя 1 действие, вместо 2 действий.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-quick-unlock",
+            "archetype": ""
+        },
+        {
+            "fullName": "Легендарный вор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=809\">Legendary Thief</a>) / 15",
+            "name": "Легендарный вор",
+            "originalName": "Legendary Thief",
+            "level": 15,
+            "traits": [
+                "общая",
+                "навык"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: легенда Воровства, <span class=\"card-link std std-ref\" data-id=\"feat-pickpocket\">Карманник (Pickpocket) / 1</span></p><hr class=\"docutils\"><p>Ваше умение <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> превосходит ожидания.\nВы можете попытаться <span class=\"card-link std std-ref\" data-id=\"skill-thievery-steal\">Украсть (Steal) </span> что-то, чем активно владеют, или было бы чрезвычайно заметно или затратно по времени, чтобы снять (как надетая обувь или доспех).\nВы должны делать это медленно и осторожно, тратя не менее 1 минуты (и значительно дольше для предметов, на снятие которых обычно требуют много времени, таких как доспехи).\nНа протяжении всего этого времени у вас должны быть возможности оставаться \"спрятанным\", как например покров темноты или шумная толпа.\nВы получаете штраф -5 к проверке Воровства.\nДаже если у вас получится, и предмет очень заметен, как полный латный доспех, то очевидцы быстро обратят внимание на то, что он исчез после того, как вы его украли.</p>",
+            "src": "",
+            "action": "",
+            "id": "feat-legendary-thief",
+            "archetype": ""
+        },
+        {
+            "fullName": "Животное-единомышленник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=25\">Animal Accomplice</a>) / 1",
+            "name": "Животное-единомышленник",
+            "originalName": "Animal Accomplice",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы устанавливаете взаимопонимание с животным, которое становится магически связанным с вами.\nВы получаете фамильяра (см. <span class=\"card-link \">Фамильяры (Familiars)</span>).\nВид животного остается за вами, но большинство гномов выбирают животных со Скоростью рытья.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-animal-accomplice",
+            "archetype": ""
+        },
+        {
+            "fullName": "Читающий вибрации (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=26\">Burrow Elocutionist</a>) / 1",
+            "name": "Читающий вибрации",
+            "originalName": "Burrow Elocutionist",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы распознаете дрожь подземных существ как их собственный замысловатый язык.\nВы можете задавать вопросы, получать ответы и использовать навык Дипломатии с животными, которые имеют Скорость рытья, такими как барсуки, суслики, кроты и степные собачки.\nМастер решает какие животные считаются подходящими для этой способности.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-burrow-elocutionist",
+            "archetype": ""
+        }
+    ]
+}

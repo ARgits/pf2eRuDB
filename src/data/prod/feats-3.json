@@ -1,0 +1,1533 @@
+{
+    "feats": [
+        {
+            "fullName": "Дружба с феями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=27\">Fey Fellowship</a>) / 1",
+            "name": "Дружба с феями",
+            "originalName": "Fey Fellowship",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша усиленная связь с феями обеспечивает вам более теплый прием от существ Первого Мира, а также средства для преодоления их трюков.\nВы получаете бонус обстоятельства +2 к проверкам Восприятия и спасброскам против <span class=\"t-fey\">фей</span>.</p><p>В дополнение, всякий раз, когда вы встречаете фею в социальной ситуации, вы можете мгновенно сделать проверку Дипломатии, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на это существо, вместо того, чтобы общаться с ним 1 минуту.\nВы получаете штраф -5 к этой проверке.\nЕсли вы провалили ее, то можете начать диалог длиной в минуту и попытаться сделать новую проверку по истечении этого времени, вместо принятия результата провал или крит.провала.</p><p><strong>Особенность</strong>: Если у вас есть способность <span class=\"card-link std std-ref\" data-id=\"feat-glad-hand\">Радушный прием (Glad-Hand) / 2</span>, вы не получаете штраф к мгновенной проверке Дипломатии, если цель - фея.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-fey-fellowship",
+            "archetype": ""
+        },
+        {
+            "fullName": "Магия Первого мира (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=28\">First World Magic</a>) / 1",
+            "name": "Магия Первого мира",
+            "originalName": "First World Magic",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша связь с Первым Миром дает вам врожденное природное заклинание, похожее на то, что есть у фей.\nВыберите одни чары из списка природных заклинаний (<span class=\"card-link \">Природные чары</span>).\nВы можете по желанию сотворять эти чары, как врожденное природное заклинание.\nЭти чары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-first-world-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гномья одержимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=29\">Gnome Obsession</a>) / 1",
+            "name": "Гномья одержимость",
+            "originalName": "Gnome Obsession",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете быть легкомысленными, но когда тема захватывает ваше внимание, вы погружаетесь в нее с головой.\nВыберите навык Знаний.\nВы становитесь обучены этому навыку.\nНа 2-м уровне, вы становитесь экспертом выбранных Знаний, а также Знаний, полученных от вашей предыстории, если они были.\nНа 7-м уровне вы становитесь мастером этих Знаний, а на 15-м уровне становитесь легендой.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-gnome-obsession",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с гномьим оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=30\">Gnome Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с гномьим оружием",
+            "originalName": "Gnome Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы предпочитаете необычное оружие, связанное с вашим народом, например, клинки с изогнутыми и причудливыми формами.\nВы обучены обращению с кукри и глефой.</p><p>В дополнение, вы получаете доступ к кукри и всему необычному гномьему оружию.\nДля определения уровня мастерства, воинское гномье оружие считается простым, а продвинутое гномье оружие считается воинским.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Уточнение про получение доступа к кукри (всем кукри).</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ощущение иллюзий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=31\">Illusion Sense</a>) / 1",
+            "name": "Ощущение иллюзий",
+            "originalName": "Illusion Sense",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши предки проводили свои дни, будучи окутанными и убаюканные иллюзиями, в результате чего, ощущение магии иллюзий стало вашей второй натурой.\nВы получаете бонус обстоятельства +1 к проверкам Восприятия и спасброскам Воли против <span class=\"t-illusion\">иллюзий</span>.</p><p>Когда вы подходите на 10 футов к иллюзии, в которую можно не поверить, Мастер делает для вас <span class=\"t-secret\">тайную</span> проверку, на то, чтобы не поверить в эту иллюзию, даже если вы не тратили действие, чтобы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span> с иллюзией.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-illusion-sense",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гном-полиглот (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=987\">Gnome Polyglot</a>) / 1",
+            "name": "Гном-полиглот",
+            "originalName": "Gnome Polyglot",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens Character Guide pg. 31</p><hr class=\"docutils\"><p>Ваши обширные путешествия, любознательность и любовь к обучению помогают вам быстро изучать языки.\nВы изучаете 3 новых языка, выбранных из <span class=\"card-link std std-ref\" data-id=\"table-2-1\">обычных</span> и <span class=\"card-link std std-ref\" data-id=\"table-2-2\">необычных</span> языков к которым у вас есть доступ.\nВы знаете эти языки в той же форме (устная или жестов), что и ваши другие языки.\nКогда вы выбираете способность <span class=\"card-link std std-ref\" data-id=\"feat-multilingual\">Многоязычный (Multilingual) / 1</span>, то вы изучаете 3 новых языка вместо 2.</p>",
+            "src": "Lost Omens Character Guide pg. 31",
+            "action": "",
+            "id": "ancestry-feat-gnome-gnome-polyglot",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мрачная интуиция (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=988\">Grim Insight</a>) / 1",
+            "name": "Мрачная интуиция",
+            "originalName": "Grim Insight",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Теневой гном (Umbral Gnome)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Попытки других напугать вас часто дают вам представление о потенциальных хулиганах, которые вы затем сможете использовать.\nЕсли при броске спасброска против эффекта <span class=\"t-fear\">страха</span> вы получаете успех, то вместо этого получаете крит.успех, и до конца вашего следующего хода, источник этого эффекта страха <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнут для вас врасплох</span>.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "",
+            "id": "ancestry-feat-gnome-grim-insight",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изобретательное нападение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=989\">Inventive Offensive</a>) <img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Изобретательное нападение",
+            "originalName": "Inventive Offensive",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Ремеслу</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Вы можете неожиданным образом, на скорую руку, изменить свое оружие.\nКогда вы используете это умение, добавьте один из следующих признаков к оружию ближнего боя которым владеете: <span class=\"w-deadly\">смертельное d6</span>; <span class=\"w-disarm\">разоружение</span>; <span class=\"w-nonlethal\">несмертельное</span>; <span class=\"w-shove\">толчок</span>; <span class=\"w-trip\">опрокидывание</span>; <span class=\"w-versatile\">универсальное</span> Д, К или Р.\nВы не можете добавить признак, который оружие уже имеет.\nОружие сохраняет этот признак пока вы не сделаете им успешную атаку и нанесете урон.\nОружие сохраняет этот признак только пока вы владеете им, и вы одновременно можете иметь только одно оружием, модифицированное таким образом.</p><p>Если вы эксперт Ремесла, то можете использовать это умение как активность в 2 действия (<img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">).\nЕсли вы легенда Ремесла, то когда используете это умение, можете применить 2 признака оружия из списка.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-gnome-inventive-offensive",
+            "archetype": ""
+        },
+        {
+            "fullName": "Животворящая магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=990\">Life-Giving Magic</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Животворящая магия",
+            "originalName": "Life-Giving Magic",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в минуту</p><p><strong>Триггер</strong>: Вы сотворяете врожденное заклинание, полученное от гномьего наследия или способности родословной</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Прилив врожденной магии освежает ваше тело.\nВы получаете временные Очки Здоровья, в количестве равном половине вашего уровня (минимум 1), которые длятся до конца вашего следующего хода.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "реакция",
+            "id": "ancestry-feat-gnome-life-giving-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прирожденный артист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=991\">Natural Performer</a>) / 1",
+            "name": "Прирожденный артист",
+            "originalName": "Natural Performer",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Развлечения - ваша вторая натура.\nВы обучены Выступлению и получаете одну способность навыка Выступление 1-го уровня.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "",
+            "id": "ancestry-feat-gnome-natural-performer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Смекалка теоретика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=992\">Theoretical Acumen</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Смекалка теоретика",
+            "originalName": "Theoretical Acumen",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы совершили успешную проверку навыка <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> для идентификации существа</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Вы изучаете форму и поведение существа, чтобы выдвинуть гипотезу о возможных способах побороть его сильные стороны.\nОдин раз, до конца вашего следующего хода, вы можете использовать модификатор навыка, спровоцировавшего проверку, вместо вашего модификатора спасброска против одного из умений этого существа,\nвместо вашего модификатора Восприятия чтобы сделать <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> этого существа,\nвместо вашего модификатора Обмана чтобы использовать <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span> на это существо,\nили вместо модификатора Запугивания чтобы <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> это существо.</p><p>Кроме того, вы можете взять КС использованного при проверке навыка, вместо своего КБ против одной из атак существа.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "свободное действие",
+            "id": "ancestry-feat-gnome-theoretical-acumen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Внезапное перемещение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=993\">Unexpected Shift</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Внезапное перемещение",
+            "originalName": "Unexpected Shift",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы получите урон от атаки, заклинания или другого эффекта</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 32</p><hr class=\"docutils\"><p>Ваша сверхъестественная связь иногда заставляет вас фазироваться из реальности, когда вам грозит опасность, исчезая на долю секунды, прежде чем снова появиться, часто удивляя вас самих, так же как и ваших врагов.\nКиньте чистую проверку с КС 16.\nВ случае успеха, против спровоцировавшего эффекта вы получаете сопротивление всему урону, равное вашему уровню, бонус обстоятельства +2 к спасброскам против этого эффекта до начала вашего следующего хода, а также состояние <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> на 1 раунд.</p>",
+            "src": "Lost Omens Character Guide pg. 32",
+            "action": "реакция",
+            "id": "ancestry-feat-gnome-unexpected-shift",
+            "archetype": ""
+        },
+        {
+            "fullName": "Яркая демонстрация (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=994\">Vibrant Display</a>) / 1",
+            "name": "Яркая демонстрация",
+            "originalName": "Vibrant Display",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Гном-хамелеон (Chameleon Gnome)</span></p><p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 33</p><hr class=\"docutils\"><p>В то время как окраска большинства гномов статична или меняется медленно, вы можете заставить ваши волосы, глаза и цвет кожи мерцать короткими и дезориентирующими вспышками.\nРаз в 10 минут, когда вы используете <span class=\"card-link std std-ref\" data-id=\"skill-deception-feint\">Финт (Feint) </span>, то можете сравнить свой результат проверки Обмана с КС Восприятия всех находящихся рядом с вами существ, а не только одного существа в досягаемости ближнего боя.\nСтепень успеха может различаться для каждой цели в отдельности.</p><p>Эти изменения неточны и, как правило, недолговечны, поэтому, хотя они и позволяют вам периодически изменять внешность непредсказуемым образом, они мало полезны для обеспечения камуфляжа или помощи в маскировке.</p>",
+            "src": "Lost Omens Character Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-gnome-vibrant-display",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чуткая просьба (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1416\">Empathetic Plea</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Чуткая просьба",
+            "originalName": "Empathetic Plea",
+            "level": 1,
+            "traits": [
+                "эмоция",
+                "ментальный",
+                "слуховой",
+                "визуальный",
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Дипломатии</p><p><strong>Триггер</strong>: Вы атакованы существом, по отношению к которому вы еще не действовали враждебно.\nВы должны использовать реакцию до того, как существо сделало свой бросок атаки.</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>То, как вы съеживаетесь или используете щенячьи глаза, которые вы практиковали, вызывает эмпатию у нападающего.\nСделайте проверку Дипломатии против КС Воли атакующего вас.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Существо прекращает свою атаку, тратя действие и не может использовать враждебные действия против вас до начала своего следующего хода</div>\n<div class=\"line\"><strong>Успех</strong>: Существо получает штраф обстоятельства -2 к урону на спровоцировавший <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> и все Удары по вам до начала его следующего хода. Штраф -4, если вы эксперт Дипломатии, -6 если мастер и -8 если легенда.</div>\n<div class=\"line\"><strong>Провал</strong>: Это не повлияло на атаку существа и оно временно иммунно к вашей \"Чуткой просьбе\" на 24 часа</div>\n</div>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "реакция",
+            "id": "ancestry-feat-gnome-empathetic-plea",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кутерьма (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1417\">Razzle-Dazzle</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Кутерьма",
+            "originalName": "Razzle-Dazzle",
+            "level": 1,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Триггер</strong>: Вы сделали существо <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослепленным</span> или <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепым</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Вы потратили немало времени, практикуясь в манипулировании светом, орудуя отражением своего клинка или необычайно сильно увеличивая яркость магических эффектов.\nУвеличьте на 1 раунд продолжительность состояния <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплен</span> или <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепота</span>, которое вы даете цели.</p>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "свободное действие",
+            "id": "ancestry-feat-gnome-razzle-dazzle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Понимающий животных (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=32\">Animal Elocutionist</a>) / 5",
+            "name": "Понимающий животных",
+            "originalName": "Animal Elocutionist",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-burrow-elocutionist\">Читающий вибрации (Burrow Elocutionist) / 1</span></p><hr class=\"docutils\"><p>Вы слышите звуки животных как разговоры, а не неразумный шум, и можете в свою очередь ответить им.\nВы можете разговаривать со всеми животными, а не только с теми у кого есть Скорость рытья.\nВы получаете бонус обстоятельства +1 к <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> на животных (который обычно использует навык Дипломатии).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-animal-elocutionist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Заряжающая сила (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=33\">Energized Font</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Заряжающая сила",
+            "originalName": "Energized Font",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: запас очков фокусировки, хотя бы одно врожденное заклинание от гномьего наследия или способности родословной, которая имеет общий колдовской обычай хотя бы с одним из ваших заклинаний фокусировки</p><p><strong>Частота</strong>: раз в день</p><hr class=\"docutils\"><p>Внутренняя магия дает увеличение энергии, которую вы можете использовать, чтобы сосредоточиться.\nВы восстанавливаете 1 Очко Фокусировки, вплоть до обычного максимума.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-gnome-energized-font",
+            "archetype": ""
+        },
+        {
+            "fullName": "Новатор гномьего оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=34\">Gnome Weapon Innovator</a>) / 5",
+            "name": "Новатор гномьего оружия",
+            "originalName": "Gnome Weapon Innovator",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-weapon-familiarity\">Знакомство с гномьим оружием (Gnome Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы добиваетесь выдающихся результатов при использовании странного оружия.\nКогда вы критически попадаете, используя глефу, кукри или гномье оружие, то применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-weapon-innovator",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эклектическая одержимость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=995\">Eclectic Obsession</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Эклектическая одержимость",
+            "originalName": "Eclectic Obsession",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-gnome-obsession\">Гномья одержимость (Gnome Obsession) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 33</p><hr class=\"docutils\"><p>Ваша страсть к новым ощущениям привела вас от одного занятия к другому и дала вам поверхностный опыт в бесчисленных ремеслах и профессиях.\nВы размышляете над фрагментами, которые вы узнали, чтобы временно обучиться одному навыку Знания по вашему выбору.\nЭтот уровень мастерства длится 10 минут или пока вы не получите крит.провал проверки с этим навыком.\nТак как это мастерство временное, вы не можете использовать его в качестве предварительных условий для постоянного выбора в развитии персонажа, как способность или увеличение навыка.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Способность должна быть одиночным действием и иметь соответствующую иконку.</p>\n</div>",
+            "src": "Lost Omens Character Guide pg. 33",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-gnome-eclectic-obsession",
+            "archetype": ""
+        },
+        {
+            "fullName": "Интуитивные иллюзии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=996\">Intuitive Illusions</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Интуитивные иллюзии",
+            "originalName": "Intuitive Illusions",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-illusion-sense\">Ощущение иллюзий (Illusion Sense) / 1</span></p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: начинается ваш ход</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 33</p><hr class=\"docutils\"><p>Магия иллюзий для вас так естественна, что вы можете легко поддерживать свои магические уловки.\nВы мгновенно получаете эффекты <span class=\"card-link std std-ref\" data-id=\"action-sustain-a-spell\">Поддержание заклинания (Sustain a Spell) </span>, чтобы увеличить продолжительность одного из ваших активных заклинаний <span class=\"t-illusion\">иллюзий</span>.</p>",
+            "src": "Lost Omens Character Guide pg. 33",
+            "action": "свободное действие",
+            "id": "ancestry-feat-gnome-intuitive-illusions",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прирожденный иллюзионист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=997\">Natural Illusionist</a>) / 5",
+            "name": "Прирожденный иллюзионист",
+            "originalName": "Natural Illusionist",
+            "level": 5,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-illusion-sense\">Ощущение иллюзий (Illusion Sense) / 1</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 33</p><hr class=\"docutils\"><p>Используя магию Первого Мира, вы можете откачать часть этого податливого мира, чтобы создать убедительную иллюзию.\nРаз в день, вы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-i-illusory-disguise\">Иллюзорная маскировка (Illusory Disguise) / Закл. 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-i-item-facade\">Внешний вид предмета (Item Facade) / Закл. 1</span> или <span class=\"card-link std std-ref\" data-id=\"spell-v-ventriloquism\">Чревовещание (Ventriloquism) / Закл. 1</span>.\nНа 7-м уровне заклинание усиливается до 2-го уровня, и каждые два уровня после этого, заклинание усиливается на дополнительный уровень.</p>",
+            "src": "Lost Omens Character Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-gnome-natural-illusionist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проекция персоны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1418\">Project Persona</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Проекция персоны",
+            "originalName": "Project Persona",
+            "level": 5,
+            "traits": [
+                "природный",
+                "иллюзия",
+                "визуальный",
+                "концентрация",
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Там, где другие гравируют свою броню, чтобы служить проводником для их воображения, ваш яркий ум и смелая личность позволяют вам проецировать более подходящую персону поверх своего непримечательного доспеха.\nВы меняете форму и внешний вид своего доспеха, чтобы он выглядел как обычная или красивая одежда из вашего воображения.\nХарактеристики доспеха не изменяются.\nЭтот эффект длится пока вы остаетесь в сознании и носите этот доспех.\nСущество может не поверить в иллюзию используя <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> или потрогав ваш доспех.\nКС равен вашему КС Воли.</p>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-gnome-project-persona",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адепт Первого мира (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=35\">First World Adept</a>) / 9",
+            "name": "Адепт Первого мира",
+            "originalName": "First World Adept",
+            "level": 9,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: хотя бы одно врожденное природное заклинание</p><hr class=\"docutils\"><p>Со временем ваша магия фей стала сильнее.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-f-faerie-fire\">Фейское сияние (Faerie Fire) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-see-invisibility\">Видеть невидимое (See Invisibility) / Закл. 2</span> как врожденные природные заклинания 2-го уровня.\nВы можете сотворять каждое из этих врожденных природных заклинаний раз в день.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-first-world-adept",
+            "archetype": ""
+        },
+        {
+            "fullName": "Оживленный проводник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=36\">Vivacious Conduit</a>) / 9",
+            "name": "Оживленный проводник",
+            "originalName": "Vivacious Conduit",
+            "level": 9,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша связь с Первым Миром выросла, и его позитивная энергия быстро течет в вас.\nЕсли вы отдыхаете 10 минут, то восстанавливаете Очки Здоровья, в количестве равном своему модификатору Телосложения помноженного на половину уровня.\nЭто кумулятивный эффект, который складывается с любым исцелением, которое вы получаете от <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-vivacious-conduit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удачное перемещение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=998\">Fortutious Shift</a>) / 9",
+            "name": "Удачное перемещение",
+            "originalName": "Fortutious Shift",
+            "level": 9,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-unexpected-shift\">Внезапное перемещение (Unexpected Shift)  / 1</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 33</p><hr class=\"docutils\"><p>Вы привыкли к своей склонности к сверхъестественным исчезновениям.\nКС чистой проверки \"Удачного перемещения\" снижается до 11, и в случае успеха вы больше не <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплены</span>.</p>",
+            "src": "Lost Omens Character Guide pg. 33",
+            "action": "",
+            "id": "ancestry-feat-gnome-fortutious-shift",
+            "archetype": ""
+        },
+        {
+            "fullName": "Осторожное любопытство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1419\">Cautious Curiosity</a>) / 9",
+            "name": "Осторожное любопытство",
+            "originalName": "Cautious Curiosity",
+            "level": 9,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: как минимум одно арканное или оккультное врожденное заклинание, полученное от гномьего наследия или способности гномьей родословной</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Вы изучили несколько магических приемов, позволяющих незаметно попадать в неприятности и выходить из них.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-m-misdirection\">Перенаправление (Misdirection) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-silence\">Тишина (Silence) / Закл. 2</span> как врожденные арканные или оккультные заклинания 2-го уровня.\nМагический обычай этих заклинаний должен соответствовать обычаю, который вы используете для своей гномьей родословной.\nВы можете сотворять каждое из этих заклинания раз в день и выбирать целью только себя.</p>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-gnome-cautious-curiosity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Жизненный скачок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1420\">Life Leap</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Жизненный скачок",
+            "originalName": "Life Leap",
+            "level": 9,
+            "traits": [
+                "движение",
+                "некромантия",
+                "телепортация",
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы должны быть рядом с живым существом</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Вы, в мгновение ока, фазируетесь через пространство, которое занимает живое существо, спонтанно появляясь на противоположной стороне в ярком цветном свете.\nВы двигаетесь из своего текущего места в другое, которое тоже смежно с этим же живым существом, но находится на противоположной стороне или углу его пространства.\nЧтобы определить, является ли позиция разрешенной, используйте те же правила, что и для взятия в тиски (см. <span class=\"card-link \">Взятие в тиски (Flanking)</span>): линия через центры двух пространств, должна проходить через противоположные стороны или углы пространства существа.</p><p>Вы проходите через жизненную силу существа, появляясь в выбранном месте; это не провоцирует реакции зависящие от <span class=\"t-move\">движения</span>.\nВы должны быть способны видеть ваше место назначения, и вы не можете двигаться дальше, чем позволит ваша Скорость.</p>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-gnome-life-leap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт оружия гномов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=37\">Gnome Weapon Expertise</a>) / 13",
+            "name": "Эксперт оружия гномов",
+            "originalName": "Gnome Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-gnome-weapon-familiarity\">Знакомство с гномьим оружием (Gnome Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваше родство с гномами сочетается с обучением в вашем классе, давая вам большое мастерство в обращении с оружием гномов.\nКаждый раз, когда вы получаете особенность класса, которая дает вам уровень мастерства эксперта или выше, в определенном оружии или оружиях, вы также получаете этот уровень мастерства для глефы, кукри и всего гномьего оружия с которым вы обучены.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-gnome-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Инстинктивное запутывание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1421\">Instinctive Obfuscation</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Инстинктивное запутывание",
+            "originalName": "Instinctive Obfuscation",
+            "level": 13,
+            "traits": [
+                "иллюзия",
+                "визуальный",
+                "гном"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: как минимум одно врожденное арканное или оккультное заклинание, полученное от гномьего наследия или способности гномьей родословной</p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы атакованы врагом</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Магия внутри вас проявляется как естественная реакция на угрозы.\nВы получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-m-mirror-image\">Зеркальный образ (Mirror Image) / Закл. 2</span>, но с двумя образами вместо трех.\nМагический обычай этого действия соответствует тому, что используется для опций гномьего наследия.</p>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "реакция",
+            "id": "ancestry-feat-gnome-instinctive-obfuscation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возвращение домой (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1422\">Homeward Bound</a>) / 17",
+            "name": "Возвращение домой",
+            "originalName": "Homeward Bound",
+            "level": 17,
+            "traits": [
+                "необычный",
+                "гном"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Частота</strong>: дважды в неделю</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 44</p><hr class=\"docutils\"><p>Связь между вами и Первым Миром резонирует в вашем теле сильнее, чем у большинства гномов, позволяя вам пересекать порог между \"Материальным планом\" и Первым Миром.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-p-plane-shift\">Планарный переход (Plane Shift) / Закл. 7</span> как врожденное природное заклинание.\nВы можете сотворять его дважды в неделю.\nЕго можно использовать только, чтобы перемещаться между Первым Миром и Материальным Планом.\nИз-за естественного резонанса вашего тела, вы можете быть фокусом заклинания и вам не требуется камертон.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-APG-r2: </span>Добавлен признак \"необычный\".</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 44",
+            "action": "",
+            "id": "ancestry-feat-gnome-homeward-bound",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сжечь! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=38\">Burn It!</a>) / 1",
+            "name": "Сжечь!",
+            "originalName": "Burn It",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вас завораживает огонь.\nВаши заклинания и алхимические предметы, которые наносят огненный урон, получают бонус состояния к урону, равный половине уровня заклинания или четверти уровня предмета (минимум 1).\nЕще вы получаете бонус состояния +1 к любому наносимому вами продолжительному огненному урону.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-burn-it",
+            "archetype": ""
+        },
+        {
+            "fullName": "Городской падальщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=39\">City Scavenger</a>) / 1",
+            "name": "Городской падальщик",
+            "originalName": "City Scavenger",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы знаете, что самые большие сокровища часто выглядят как мусор, и вы насмехаетесь над теми, кто выбрасывает идеальные объедки.\nВы получаете бонус обстоятельства +1 к проверкам <span class=\"card-link \">Проживание (Subsist)</span>, и вы можете использовать навык Общество или Выживание когда используете <span class=\"card-link \">Проживание (Subsist)</span> в поселении.</p><p>Когда используете <span class=\"card-link \">Проживание (Subsist)</span> в городе, вы еще получаете полезный мусор, который выбрасывают глупые длинноногие.\nВы можете выполнять <span class=\"card-link \">Заработок денег (Earn Income)</span> используя Общество или Выживание, в тоже время, когда и <span class=\"card-link \">Проживание (Subsist)</span>, не тратя никаких дополнительных дней отдыха.\nЕще вы получаете бонус обстоятельства +1 к этой проверке.</p><p><strong>Особенность</strong>: Если у вас есть наследие <span class=\"card-link \">Железнобрюхий гоблин (Irongut Goblin)</span>, увеличьте бонусы до +2.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-city-scavenger",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гоблинские знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=40\">Goblin Lore</a>) / 1",
+            "name": "Гоблинские знания",
+            "originalName": "Goblin Lore",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы переняли навыки и истории своего сообщества гоблинов.\nВы становитесь обучены Природе и Скрытности.\nЕсли вы автоматически станете обучены одному из этих навыков (например из-за предыстории или класса), то вместо этого становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Гоблинским Знаниям.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-goblin-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гоблинское увиливание (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=41\">Goblin Scuttle</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Гоблинское увиливание",
+            "originalName": "Goblin Scuttle",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Союзник закончил перемещение рядом с вами</p><hr class=\"docutils\"><p>Вы получаете преимущество от перемещения вашего союзника, чтобы выбрать себе место поудобней.\nВы делаете <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>.</p>",
+            "src": "",
+            "action": "реакция",
+            "id": "ancestry-feat-goblin-goblin-scuttle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гоблинская песенка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=42\">Goblin Song</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Гоблинская песенка",
+            "originalName": "Goblin Song",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы поете надоедливые гоблинские песенки, отвлекая своих врагов глупыми и повторяющимися текстами.\nСделайте проверку Выступления против КС Воли одного врага в пределах 30 футов.\nЭто действие имеет обычные признаки и ограничения проверки Выступления.</p><p>Вы можете воздействовать на 2 цели в пределах дистанции, если вы эксперт Выступления, на 4 если вы мастер, и на 8 если легенда.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель получает штраф состояния -1 к проверкам Восприятия и спасброскам Воли на 1 минуту</div>\n<div class=\"line\"><strong>Успех</strong>: Цель получает штраф состояния -1 к проверкам Восприятия и спасброскам Воли на 1 раунд</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель временно иммунна к попыткам использования \"Гоблинской песенки\" на 1 час</div>\n</div>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goblin-goblin-song",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с гоблинским оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=43\">Goblin Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с гоблинским оружием",
+            "originalName": "Goblin Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Чужаки могут смотреть на него с презрением, но вы знаете, что оружие вашего народа столь же эффективно, сколь и остро.\nВы обучены обращению с собачим тесаком и лошадиным тесаком.</p><p>Дополнительно, вы получаете доступ ко всем необычным оружиям гоблинов.\nДля определения уровня мастерства, воинское гоблинское оружие считается простым, а продвинутое гоблинское оружие считается воинским.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изобретатель из мусора (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=44\">Junk Tinker</a>) / 1",
+            "name": "Изобретатель из мусора",
+            "originalName": "Junk Tinker",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы можете сделать полезные инструменты даже из кривого или ржавого мусора.\nКогда используете навык Ремесло для <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создать (Craft)</span>, то можете сделать предметы 0-го уровня из мусора, включая оружие, но не доспехи.\nЭто снижает цену до 1/4 от обычной, но результат всегда низкокачественный.\nНизкокачественные предметы обычно дают штраф, но вы его не получаете, когда сами пользуетесь созданными вами предметами.</p><p>С целью экономии, вы так же можете применять мусор, когда Создаете любой предмет.\nЭто дает вам скидку на предмет, как если бы вы потратили 1 дополнительный день работы для снижения стоимости, но предмет очевидно сделан из мусора.\nНа усмотрение Мастера, это может повлиять на стоимость перепродажи предмета, в зависимости от вкусов покупателя.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-junk-tinker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Суровый наездник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=45\">Rough Rider</a>) / 1",
+            "name": "Суровый наездник",
+            "originalName": "Rough Rider",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы особенно хороши в верховой езде на традиционных гоблинских ездовых животных.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-ride\">Езда верхом (Ride) / 1</span> даже если не удовлетворяете ее предварительным требованиям.\nВы получаете бонус обстоятельства +1 к проверкам Природы для <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, такому как гоблинский пес или ездовой волк.\nВы всегда можете выбрать волка как зверя-компаньона, даже если будете выбирать зверя-компаньона с особенностью \"ездовое животное\", такого как <span class=\"card-link \">союзник-скакун</span> чемпиона.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-rough-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очень пронырливый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=46\">Very Sneaky</a>) / 1",
+            "name": "Очень пронырливый",
+            "originalName": "Very Sneaky",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Высокие люди редко обращают внимание на тени у своих ног, и вы в полной мере пользуетесь этим.\nКогда используете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, то можете двигаться на 5 футов дальше, вплоть до своей полной Скорости.</p><p>Дополнительно, пока вы продолжаете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> и преуспеваете в проверках Скрытности, вы не становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> если у вас нет стандартного или большого укрытия и вы не <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> по завершении действия <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, до тех пор, пока в конце своего хода у вас есть стандартное или большое укрытие, или вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-very-sneaky",
+            "archetype": ""
+        },
+        {
+            "fullName": "Упругий гоблин (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=999\">Bouncy Goblin</a>) / 1",
+            "name": "Упругий гоблин",
+            "originalName": "Bouncy Goblin",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Несокрушимый гоблин (Unbreakable Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 37</p><hr class=\"docutils\"><p>Вы обладаете особой эластичностью, которая позволяет вам легко подпрыгивать и сжиматься.\nВы становитесь обучены Акробатике (или другому навыку на свой выбор, если вы уже обучены ей).\nЕще вы получаете бонус обстоятельства +2 к проверкам Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-tumble-through\">Проскочить (Tumble Through) </span> через пространство противника.</p>",
+            "src": "Lost Omens Character Guide pg. 37",
+            "action": "",
+            "id": "ancestry-feat-goblin-bouncy-goblin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Точащий клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1000\">Fang Sharpener</a>) / 1",
+            "name": "Точащий клыки",
+            "originalName": "Fang Sharpener",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Железнобрюхий гоблин (Irongut Goblin)</span> или <span class=\"card-link \">Острозубый гоблин (Razortooth Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 37</p><hr class=\"docutils\"><p>Вы подточили свои зубы и обладаете необычайно мощной челюстью, что делает их опасным оружием.\nЕсли вы <span class=\"card-link \">Железнобрюхий гоблин (Irongut Goblin)</span> то получаете безоружную атаку челюстью, которая наносит 1d4 колющего урона, а если вы <span class=\"card-link \">Острозубый гоблин (Razortooth Goblin)</span> то ваша безоружная атака челюстями наносит 1d8 колющего урона и теряет признак <span class=\"w-finesse\">точное</span>.\nВсякий раз, когда вы совершаете критическое попадание челюстями, ваша цель получает 1 продолжительного урона кровотечением за кость урона оружия.</p>",
+            "src": "Lost Omens Character Guide pg. 37",
+            "action": "",
+            "id": "ancestry-feat-goblin-fang-sharpener",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крепкий хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1001\">Hard Tail</a>) / 1",
+            "name": "Крепкий хвост",
+            "originalName": "Hard Tail",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Хвостатый гоблин (Tailed Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Ваш хвост намного сильнее, чем у большинства, и вы можете хлестать им как хлыстом.\nВы получаете безоружную атаку хвостом, которая наносит 1d6 дробящего урона.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-goblin-hard-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очень мягкий (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1423\">Extra Squishy</a>) / 1",
+            "name": "Очень мягкий",
+            "originalName": "Extra Squishy",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Несокрушимый гоблин (Unbreakable Goblin)</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Ваше эластичное тело помогает протиснуться в узкое пространство и осложняет противникам попытки вытащить вас оттуда.\nВы становитесь обучены Акробатике.\nЕсли вы будете автоматически обучены Акробатике (например, из-за вашей предыстории или класса), то вместо этого вы обучаетесь навыку на свой выбор.\nЕсли при броске на проверку <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протиснуться (Squeeze)</span> вы получаете успех, то он становится крит.успехом.\nКогда <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-squeeze\">Протискиваетесь (Squeezing)</span> вы получаете бонус обстоятельства +4 к вашим КС Стойкости и КС Рефлекса против попыток <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> вас, или иным образом сдвинуть вас с места.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-goblin-extra-squishy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дерганный (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1424\">Twitchy</a>) / 1",
+            "name": "Дерганный",
+            "originalName": "Twitchy",
+            "level": 1,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Вы от природы подозрительны и опасаетесь опасности, особенно если подозреваете, что кто-то может привести вас в засаду.\nВы получаете бонус обстоятельства +1 к КБ и спасброскам против опасностей, и ко всем вашим броскам инициативы.\nЕсли хотя бы один из ваших противников использует Обман или Дипломатию для определения своей инициативы, то ваш бонус инициативы от этой способности увеличивается до +4.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-goblin-twitchy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ярость гоблинского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=47\">Goblin Weapon Frenzy</a>) / 5",
+            "name": "Ярость гоблинского оружия",
+            "originalName": "Goblin Weapon Frenzy",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-weapon-familiarity\">Знакомство с гоблинским оружием (Goblin Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы знаете как владеть злобным оружием своего народа.\nПри крит.попадании гоблинским оружием, вы применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-weapon-frenzy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Укус в лодыжку (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1002\">Ankle Bite</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Укус в лодыжку",
+            "originalName": "Ankle Bite",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-fang-sharpener\">Точащий клыки (Fang Sharpener) / 1</span> или наследие <span class=\"card-link \">Острозубый гоблин (Razortooth Goblin)</span></p><p><strong>Триггер</strong>: Вы получили состояние <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачен</span> или <span class=\"card-link std std-ref\" data-id=\"c-restrained\">сдерживаем</span> из-за того, что враг схватил вас частью своего тела</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Всякий раз, когда кто-то хватает вас, вы инстинктивно сильно кусаетесь.\nИногда это заставляет их отпустить вас, а иногда просто злит, но в любом случае, это и приятно, и вкусно.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> безоружной атакой челюстями по спровоцировавшему врагу.\nПри крит.попадании, вы перестаете быть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачены</span>.\nЭтот Удар не считается к вашему штрафу множественной атаки, и ваш имеющийся штраф множественной атаки не применяется к этому Удару.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "реакция",
+            "id": "ancestry-feat-goblin-ankle-bite",
+            "archetype": ""
+        },
+        {
+            "fullName": "Избранник Ламашту (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1003\">Chosen of Lamashtu</a>) / 5",
+            "name": "Избранник Ламашту",
+            "originalName": "Chosen of Lamashtu",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: верующий <span class=\"card-link \">Ламашту (Lamashtu)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Вы имеете милость и благословение Ламашту, \"Матери чудовищ\".\nОна даровала вам мутацию, дающую преимущества другого наследия.\nВыберите одно гоблинское наследие, которого у вас нет; вы получаете это наследие и его преимущества.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-goblin-chosen-of-lamashtu",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вращение хвостом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1004\">Tail Spin</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Вращение хвостом",
+            "originalName": "Tail Spin",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Хвостатый гоблин (Tailed Goblin)</span>, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-hard-tail\">Крепкий хвост (Hard Tail) / 1</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Вы преуспели в использовании своего хвоста в качестве оружия, для опрокидывания своих врагов.\nСделайте одну проверку Атлетики на <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> против вплоть до 2 существ находящихся рядом.\nЕсли при броске результат против цели был успешный, то вместо этого вы получаете критический успех против этой цели.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-goblin-tail-spin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гоблин-факел (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1005\">Torch Goblin</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Гоблин-факел",
+            "originalName": "Torch Goblin",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Обугленный гоблин (Charhide Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Вы провели достаточно времени в огне, чтобы знать, как использовать его для своего преимущества.\nВы можете полностью поджечь себя с помощью зажженного факела, бутылки алхимического огня или аналогичного зажигательного средства, нанося себе 1d6 продолжительного урона огнем.\nПока вы страдаете от продолжительного урона огнем, все ваши атаки ближнего боя по существам рядом, наносят дополнительные 1 урона огнем за кость урона оружия.\nЛюбое существо, которое успешно использует на вас <span class=\"card-link std std-ref\" data-id=\"skill-athletics-grapple\">Захватить (Grapple) </span>, <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span>, получает 1d6 огненного урона; если оно использует для этого оружие, то оно получает урон вместо существа.\nВы все равно должны каждый раунд делать чистую проверку, как обычно, чтобы избавиться от продолжительного урона огнем.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goblin-torch-goblin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Древолаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1006\">Tree Climber (Goblin)</a>) / 5",
+            "name": "Древолаз",
+            "originalName": "Tree Climber",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Хвостатый гоблин (Tailed Goblin)</span> или <span class=\"card-link \">Древесный гоблин (Treedweller Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 38</p><hr class=\"docutils\"><p>Время, проведенное в пологе леса или джунглей, научило вас, как уверенно ходить по веткам.\nВы получаете Скорость карабканья 10 футов.\nЕсли у вас еще есть способность родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-cave-climber\">Пещерный альпинист (Cave Climber) / 9</span>, то во время лазанья по деревьям ваша общая Скорость карабканья увеличивается до вашей наземной Скорости.</p>",
+            "src": "Lost Omens Character Guide pg. 38",
+            "action": "",
+            "id": "ancestry-feat-goblin-tree-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Коленная чашечка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1425\">Kneecap</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Коленная чашечка",
+            "originalName": "Kneecap",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Вы наносите сокрушительный удар по колену, голени или другому уязвимому месту противника, находящегося в пределах вашей досягаемости.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> одним из своих оружий ближнего боя или безоружной атакой ближнего боя.\nАтака не наносит урон.\nПри попадании, цель на 1 раунд получает штраф состояния -10 футов к своей Скорости или штраф состояния -15 футов при крит.попадании.\nЭтот штраф применяется только если цель имеет наземную Скорость и для ее использования зависит от ног или других конечностей, по которым можно попасть.\nКак и со всеми штрафами Скорости, этот штраф не может снизить Скорость существа ниже 5 футов.</p><div class=\"versionadded\">\n<p><span class=\"versionmodified added\">Добавлено в версии /errata-APG-r2: </span>Добавлена длительность штрафа Скорости - 1 раунд.</p>\n</div>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goblin-kneecap",
+            "archetype": ""
+        },
+        {
+            "fullName": "Громкий певец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1426\">Loud Singer</a>) / 5",
+            "name": "Громкий певец",
+            "originalName": "Loud Singer",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-goblin-song\">Гоблинская песенка (Goblin Song)  / 1</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Удержание высоты тона, правильный контроль дыхания и необходимость помнить слова - все ерунда, нежели главное качество хорошего певца: громкость!\nДистанция вашей <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-goblin-song\">Гоблинская песенка (Goblin Song)  / 1</span> увеличивается до 60 футов и при ее использовании вы можете выбрать целью 1 дополнительного врага.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-goblin-loud-singer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вандал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1427\">Vandal</a>) / 5",
+            "name": "Вандал",
+            "originalName": "Vandal",
+            "level": 5,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>У вас есть привычка ломать и разбирать вещи.\nСобирать их обратно - скучно, поэтому вы не утруждаете себя этим.\nВы становитесь обучены Воровству.\nЕсли вы будете автоматически обучены Воровству (например, из-за вашей предыстории или класса), то вместо этого вы обучаетесь навыку на свой выбор.\nДополнительно, когда ваш <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> попадает по ловушке или ничейному объекту, вы игнорируете первые 5 очков Твердости объекта.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-goblin-vandal",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пещерный альпинист (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=48\">Cave Climber</a>) / 9",
+            "name": "Пещерный альпинист",
+            "originalName": "Cave Climber",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>После многих лет ползания и лазания по пещерам, вы можете легко забраться куда угодно.\nВы получаете Скорость карабканья 10 футов.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-cave-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Беготня (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=49\">Skittering Scuttle</a>) / 9",
+            "name": "Беготня",
+            "originalName": "Skittering Scuttle",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-goblin-scuttle\">Гоблинское увиливание (Goblin Scuttle)  / 1</span></p><hr class=\"docutils\"><p>Вы можете отбежать дальше и быстрее, когда маневрируете рядом с союзниками.\nКогда используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-goblin-scuttle\">Гоблинское увиливание (Goblin Scuttle)  / 1</span>, то вместо <span class=\"card-link std std-ref\" data-id=\"action-step\">Шага (Stepping)</span>, вы можете <span class=\"card-link std std-ref\" data-id=\"action-stride\">Переместиться (Stride)</span> вплоть до половины своей Скорости.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-skittering-scuttle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Заморозить! (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1007\">Freeze It!</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Заморозить!",
+            "originalName": "Freeze It",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Снежный гоблин (Snow Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 39</p><hr class=\"docutils\"><p>Вы не карга инея и не Ядвига, но магия севера все же оставила на вас свой след.\nХолодный лед течет по вашим венам, и вы можете высвободить мороз из своего тела, чтобы заморозить ваших врагов.\nСделайте проверку Атлетики против КС Стойкости врага рядом с вами.\nЕсли вы мастер Атлетики, то можете затронуть способностью вплоть до 2 врагов рядом, бросая одну проверку Атлетики против каждого врага.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжей 2</span> на 1 раунд</div>\n<div class=\"line\"><strong>Успех</strong>: Цель становится <span class=\"card-link std std-ref\" data-id=\"c-clumsy\">неуклюжей 1</span> на 1 раунд</div>\n<div class=\"line\"><strong>Критический провал</strong>: Цель временно иммунна на 1 минуту</div>\n</div>",
+            "src": "Lost Omens Character Guide pg. 39",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goblin-freeze-it",
+            "archetype": ""
+        },
+        {
+            "fullName": "Голодный гоблин (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1008\">Hungry Goblin</a>) / 9",
+            "name": "Голодный гоблин",
+            "originalName": "Hungry Goblin",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-fang-sharpener\">Точащий клыки (Fang Sharpener) / 1</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 39</p><hr class=\"docutils\"><p>Вы съедите все и всех.\nВсякий раз, когда вы причиняете продолжительный урон кровотечением с помощью своей безоружной атаки челюстями, то на 1 минуту получаете временные Очки Здоровья, равные половине вашего уровня.</p>",
+            "src": "Lost Omens Character Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-goblin-hungry-goblin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пустить на самотек (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1009\">Roll with It</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Пустить на самотек",
+            "originalName": "Roll with It",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Несокрушимый гоблин (Unbreakable Goblin)</span>, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-bouncy-goblin\">Упругий гоблин (Bouncy Goblin) / 1</span></p><p><strong>Триггер</strong>: Враг попадает по вам оружием ближнего боя или безоружной атакой</p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 39</p><hr class=\"docutils\"><p>Когда по вам сильно попадают, ваш враг откидывает вас, как резиновый мяч, но вы избегаете куда более худшего удара.\nВаш противник может переместить вас на расстояние вплоть до 30 футов по своему выбору, и в направлении по своему выбору (это не принудительное передвижение, и оно провоцирует реакции, как и обычно).\nВы падаете <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span> и <span class=\"card-link std std-ref\" data-id=\"c-stunned\">ошеломлены 1</span>.\nСделайте чистую проверку с КС 6.\nВ случае успеха, вы получаете минимальный урон от атаки, а при крит.успехе, если атака была крит.попаданием, вы не получаете двойной урон от крит.попадания.</p>",
+            "src": "Lost Omens Character Guide pg. 39",
+            "action": "реакция",
+            "id": "ancestry-feat-goblin-roll-with-it",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обжигающий плевок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1010\">Scalding Spit</a>) / 9",
+            "name": "Обжигающий плевок",
+            "originalName": "Scalding Spit",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-torch-goblin\">Гоблин-факел (Torch Goblin)  / 5</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 39</p><hr class=\"docutils\"><p>Ваши биологические жидкости удивительно горючие, как будто у вас масло вместо крови.\nПока вы получаете продолжительный урон огнем, то обладаете дистанционной безоружной атакой \"кипящий плевок\", с дальностью 30 футов, которая наносит 1d6 урона огнем.</p>",
+            "src": "Lost Omens Character Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-goblin-scalding-spit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вцепиться (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1428\">Cling</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Вцепиться",
+            "originalName": "Cling",
+            "level": 9,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Ваше последнее действие - успешный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Вы цепляетесь за врага, чтобы заставить его подчиниться.\nЕсли ваша цель движется, пока вы висите на ней, вы можете решить двигаться вместе с целью.\nВы отпускаете цель, если решаете не двигаться с ней, в начале вашего следующего хода, или если цели удается <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span>.\nПопытки <span class=\"card-link std std-ref\" data-id=\"action-escape\">Вырваться (Escape) </span> от \"Вцепиться\" следуют общим правилам для этого действия, но используется ваш КС Акробатики и успех завершает \"Вцепиться\", вместо завершения состояний, обычно заканчивающихся при использовании действия Вырваться.</p><p><strong>Особенность</strong>: Вы можете использовать это действие без свободной руки, если ваш предшествующий Удар был сделан челюстями или подобной безоружной атакой, которую можно использовать, чтобы вцепиться.\nМастер решает какие безоружные атаки применимы.\nКогда вы вцепляетесь таким образом, то не можете использовать эту безоружную атаку.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-goblin-cling",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт гоблинского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=50\">Goblin Weapon Expertise</a>) / 13",
+            "name": "Эксперт гоблинского оружия",
+            "originalName": "Goblin Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-weapon-familiarity\">Знакомство с гоблинским оружием (Goblin Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваша близость к гоблинам сочетается с вашими классовыми тренировками, что дает вам большое мастерство в обращении с оружием гоблинов.\nКогда вы получаете особенность класса, которая дает вам уровень мастерства эксперта или выше с определенным оружием, вы также получаете этот уровень мастерства для собачьего тесака, лошадиного тесака и всего гоблинского оружия с которым вы обучены.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Очень-очень пронырливый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=51\">Very, Very Sneaky</a>) / 13",
+            "name": "Очень-очень пронырливый",
+            "originalName": "Very",
+            "level": 13,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-very-sneaky\">Очень пронырливый (Very Sneaky) / 1</span></p><hr class=\"docutils\"><p>Вы можете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> вплоть до вашей полной Скорости, и вам больше не надо иметь обычное или большое укрытие, или быть <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрытым</span> чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-goblin-very-very-sneaky",
+            "archetype": ""
+        },
+        {
+            "fullName": "Несокрушимее (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1011\">Unbreakable-er Goblin</a>) / 13",
+            "name": "Несокрушимее",
+            "originalName": "Unbreakable-er Goblin",
+            "level": 13,
+            "traits": [
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Несокрушимый гоблин (Unbreakable Goblin)</span></p><p><strong>Источник</strong>: Lost Omens Character Guide pg. 39</p><hr class=\"docutils\"><p>Как бы трудно ни было сломать большинство несокрушимых гоблинов, вас сломать гораздо труднее.\nВы получаете 20 ОЗ от своей родословной вместо 10.\nКогда вы падаете, то не получаете урона от падения.\nЕсли у вас есть способность <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-goblin-bouncy-goblin\">Упругий гоблин (Bouncy Goblin) / 1</span>, то после падения или прыжка с высоты хотя бы 20 футов, вы можете отскочить обратно вверх, на расстояние до половины высоты падения (и в длину на половину дальности, если прыгнули).\nЭти отскоки продолжаются до тех пор, пока вы не отскочите менее чем на 20 футов.</p>",
+            "src": "Lost Omens Character Guide pg. 39",
+            "action": "",
+            "id": "ancestry-feat-goblin-unbreakable-er-goblin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безрассудный отказ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1429\">Reckless Abandon (Goblin)</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 17",
+            "name": "Безрассудный отказ",
+            "originalName": "Reckless Abandon",
+            "level": 17,
+            "traits": [
+                "удача",
+                "гоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 45</p><hr class=\"docutils\"><p>Несмотря на жизнь наполненную сомнительными решениями, вам удалось выжить, как будто у вас есть сверхъестественная удача, которая позволяет вам избежать последствий своих собственных действий.\nДо конца своего хода, если при броске вы получаете провал или крит.провал спасброска против вредного эффекта, то вместо этого вы получаете успех.\nКроме того, враги и опасности, которые нанесут вам урон в этот ход, при броске получают минимально возможный урон.</p><p>Эти преимущества применяются только к вредным эффектам, воздействиям которых вы подвергаетесь в свой ход, во время которого вы активировали \"Безрассудный отказ\", как например при прохождении через <span class=\"card-link std std-ref\" data-id=\"spell-p-prismatic-wall\">Призматическая стена (Prismatic Wall) / Закл. 8</span>.\nПродолжительный урон и состояния, которые были применены до вашего хода, протекают как обычно, и как только ваш ход заканчивается, вы подвергаетесь полным последствиям любых, все еще угрожающих вам, опасностей.</p>",
+            "src": "Advanced Player's Guide pg. 45",
+            "action": "свободное действие",
+            "id": "ancestry-feat-goblin-reckless-abandon",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дварфийские знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1\">Dwarven Lore</a>) / 1",
+            "name": "Дварфийские знания",
+            "originalName": "Dwarven Lore",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы жадно впитывали древние истории и обычаи своих предков, богов и народа, изучая дисциплины и приемы, передаваемые из поколения в поколение.\nВы становитесь обучены Ремеслу и Религии.\nЕсли вы будете автоматически обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого вы обучаетесь навыку на свой выбор.\nЕще вы становитесь обучены Знаниям дварфов (Dwarven).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dwarven-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием дварфов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2\">Dwarven Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием дварфов",
+            "originalName": "Dwarven Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши родичи привили вам склонность к тяжелому оружию, и вы предпочитаете его вместо элегантного оружия.\nВы обучены обращению с боевым топором, клевцом и боевым молотом.</p><p>Вы также получаете доступ ко всему необычному дварфийскому оружию.\nС целью определения уровня мастерства, воинское оружие дварфов считается простым оружием, а продвинутое дварфийское оружие считается воинским оружием.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменный бегун (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3\">Rock Runner</a>) / 1",
+            "name": "Каменный бегун",
+            "originalName": "Rock Runner",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша врожденная связь с камнем делает вас искусным в перемещении по неровным поверхностям.\nВы можете игнорировать сложную местность вызванную гравием, и неровную землю из камня и земли.\nВ дополнение, когда вы используете навык Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> на узких поверхностях или неровной земле из камня или земли, вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>, и когда вы при броске такой проверки Акробатики получаете успех, то вместо этого он становится крит.успехом.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-rock-runner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрость каменной кладки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=4\">Stonecunning</a>) / 1",
+            "name": "Хитрость каменной кладки",
+            "originalName": "Stonecunning",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>У вас есть умение замечать даже небольшие несоответствия и ремесленнические приемы в каменной кладке вокруг вас.\nВы получаете бонус обстоятельства +2 на проверки Восприятия, чтобы заменить необычную каменную кладку.\nЭтот бонус применяется к проверкам обнаружения механических ловушек сделанных из камня или спрятанных в камне.</p><p>Если вы не используете действие <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> или не ищете, Мастер все равно автоматически бросает за вас <span class=\"t-secret\">тайную</span> проверку, чтобы заметить необычную каменную кладку.\nЭта проверка не получает бонус обстоятельства, а получает штраф обстоятельства -2.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-stonecunning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Необременяющее железо (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=5\">Unburdened Iron</a>) / 1",
+            "name": "Необременяющее железо",
+            "originalName": "Unburdened Iron",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы изучили приемы, впервые придуманные вашими предками во время их древних войн, позволяющие вам удобно носить массивные комплекты доспехов.\nИгнорируйте снижение вашей Скорости от любого надетого доспеха.</p><p>Дополнительно, всякий раз, когда вы получаете штраф к Скорости по другой причине (из-за состояния <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегружен</span> или заклинания), вычтите 5 футов из штрафа.\nНапример, состояние <span class=\"card-link std std-ref\" data-id=\"c-encumbered\">перегружен</span> обычно дает штраф -10 футов к Скорости, но вам оно дает лишь штраф -5 футов.\nЕсли ваша Скорость получает несколько штрафов, выберите только один штраф, значение которого будет снижено.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-unburdened-iron",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мстительная ненависть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=6\">Vengeful Hatred</a>) / 1",
+            "name": "Мстительная ненависть",
+            "originalName": "Vengeful Hatred",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваше сердце жаждет мести тем, кто причинил зло вашему народу.\nКогда вы получаете эту способность, выберите одних из родовых врагов дварфов: <span class=\"t-drow\">дроу</span>, <span class=\"t-duergar\">дуэргар</span>, <span class=\"t-giant\">гигант</span> или <span class=\"t-orc\">орк</span>.\nВы получаете бонус обстоятельства +1 к урону оружием и безоружными атаками против существ с этим признаком.\nЕсли ваша атака будет наносить больше 1 кости урона оружия (как обычно на уровнях выше 1-го), то бонус равен количеству костей урона оружия или безоружной атаки.</p><p>В дополнение, если существо крит.успешно атакует вас и наносит вам урон, то вы получаете свой бонус к урону против этого существа на 1 минуту, независимо от того, имеет ли оно выбранный признак.</p><p><strong>Особенность</strong>: Ваш Мастер может добавить подходящие признаки существ в список родовых врагов, если ваш персонаж относится к сообществу, которое обычно сражается с другими видами врагов.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-vengeful-hatred",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отомстить с честью (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=964\">Avenge in Glory</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Отомстить с честью",
+            "originalName": "Avenge in Glory",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос горный дварф</p><p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Союзник в пределах 30 футов получает состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 20</p><hr class=\"docutils\"><p>Вы чтите жизнь своего союзника, на 1 минуту получая временные ОЗ, равные вашему уровню.\nПока у вас есть эти временные ОЗ, вы получаете бонус обстоятельства +1 к броскам атак и броскам урона.</p>",
+            "src": "Lost Omens: Character Guide pg. 20",
+            "action": "реакция",
+            "id": "ancestry-feat-dwarf-avenge-in-glory",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клановое острие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=965\">Clan's Edge</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Клановое острие",
+            "originalName": "Clan's Edge",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен обращению с клановыми кинжалами</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 20</p><hr class=\"docutils\"><p>Быстро и точно двигая своим клановым кинжалом, вы можете защищать себя более эффективно.\nСделайте два <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удара (Strikes)</span> клановым кинжалом по разным целям.\nВаш штраф множественной атаки применяется к этим Ударам как обычно.\nПотом вы используете действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы получить бонус обстоятельства +1 к своему КБ от признака <span class=\"w-parry\">парирование</span> кланового кинжала.</p>",
+            "src": "Lost Omens: Character Guide pg. 20",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-dwarf-clans-edge",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отдых кузнечного дня (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=966\">Forge-Day's Rest</a>) / 1",
+            "name": "Отдых кузнечного дня",
+            "originalName": "Forge-Day's Rest",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос подземный дварф</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 20</p><hr class=\"docutils\"><p>Ваш необычный цикл отдыха позволяет вам быстрее восстановиться.\nПока вы отдыхаете в течение 12 часов, вы получаете эффекты от общей способности <span class=\"card-link std std-ref\" data-id=\"feat-fast-recovery\">Быстрое восстановление (Fast Recovery) / 1</span> и можете без отдыха передвигаться 20 часов, прежде чем <span class=\"card-link std std-ref\" data-id=\"c-fatigued\">утомитесь</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 20",
+            "action": "",
+            "id": "ancestry-feat-dwarf-forge-days-rest",
+            "archetype": ""
+        },
+        {
+            "fullName": "Культура поверхности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=967\">Surface Culture</a>) / 1",
+            "name": "Культура поверхности",
+            "originalName": "Surface Culture",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: любой этнос надземного дварфа</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 20</p><hr class=\"docutils\"><p>Ваши взаимодействия с другими культурами на поверхности не только научили вас о многих других народах, но и помогли вам осознать ценность своего собственного.\nВы становитесь обучены Обществу (или если вы уже были обучены Обществу, то другому навыку на свой выбор) и получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-additional-lore\">Дополнительные знания (Additional Lore) / 1</span> для Знаний относящихся к вашей культуре (например, Знания Уат (Ouat) или Знания Памэт (Pahmet)).</p>",
+            "src": "Lost Omens: Character Guide pg. 20",
+            "action": "",
+            "id": "ancestry-feat-dwarf-surface-culture",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дварфийская отвага (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1397\">Dwarven Doughtiness</a>) / 1",
+            "name": "Дварфийская отвага",
+            "originalName": "Dwarven Doughtiness",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы либо от природы спокойны и собранны перед лицом неминуемой опасности, либо очень хорошо притворяетесь.\nВ конце вашего хода снижайте свое состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> на 2 вместо 1.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dwarven-doughtiness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нюх на сокровища (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1398\">Eye for Treasure</a>) / 1",
+            "name": "Нюх на сокровища",
+            "originalName": "Eye for Treasure",
+            "level": 1,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы замечаете хорошую работу ремесленника, когда видите ее, и можете поэтично говорить о приемах и формах ремесла.\nВы становитесь обучены Ремеслу и получаете бонус обстоятельства +1 ко всем проверкам Ремесла для <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span>.\nЕсли вы автоматически станете обучены Ремеслу (например, из-за вашей предыстории или класса), то вместо этого вы обучаетесь навыку на свой выбор.\nДополнительно, вы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-crafters-appraisal\">Оценка ремесленником (Crafter's Appraisal) / 1</span>, позволяющую вам идентифицировать магические предметы с помощью навыка Ремесла.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-eye-for-treasure",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приспособившееся зрение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3280\">Adaptive Vision</a>) / 1",
+            "name": "Приспособившееся зрение",
+            "originalName": "Adaptive Vision",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>После многих лет использования оружия с черным порохом в тускло освещенных помещениях, вы привыкли к ослепительным вспышкам света и внезапным изменениям освещения.\nВы получаете бонус обстоятельства +1 к спасброскам против <span class=\"t-visual\">визуальных</span> эффектов.\nЕсли при броске спасброска против <span class=\"t-visual\">визуального</span> эффекта вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-adaptive-vision",
+            "archetype": ""
+        },
+        {
+            "fullName": "Клановый пистолет (способность) (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3281\">Clan Pistol (Dwarf feat)</a>) / 1",
+            "name": "Клановый пистолет",
+            "originalName": "Clan Pistol",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>Выросший в древних залах Донган Холда или его окрестных регионах, вы демонстрируете свой род с помощью кланового пистолета, а не кланового кинжала.\nВы бесплатно получаете 1 <span class=\"card-link \">Клановый пистолет (Clan Pistol)</span> своего клана, так как он был дан вам при рождении.\nОн заменяет ваш <span class=\"card-link \">Клановый кинжал (Clan Dagger)</span>.\nПродажа этого пистолета является страшным табу и вызывает презрение других дварфов.\nВы обучаетесь владению клановым пистолетом.\nКроме того, когда ваш клановый пистолет виден, вы получаете бонус обстоятельства +1 при проверках на <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-gather-info\">Собрать информацию (Gather Information)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-diplomacy-make-an-impression\">Произвести впечатление (Make an Impression)</span> при общении с жителями Алкенстара, Донган Холда или их союзниками.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-clan-pistol",
+            "archetype": ""
+        },
+        {
+            "fullName": "Донганское образование (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3282\">Dongun Education</a>) / 1",
+            "name": "Донганское образование",
+            "originalName": "Dongun Education",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>Вы разбираетесь в профессиях, которые важны для выживания и коммерции вашего народа.\nВыберите 2 навыка Знаний из следующих:\nИнженерные (Engineering), Взрывчатки (Explosive) или Огнестрельного оружия (Firearm).\nНа 2-м уровне вы становитесь экспертом этих навыков Знаний; на 7-м уровне становитесь мастером; а на 15-м легендой.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dongun-education",
+            "archetype": ""
+        },
+        {
+            "fullName": "Специалист взрывчатых веществ (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3283\">Explosive Savant</a>) / 1",
+            "name": "Специалист взрывчатых веществ",
+            "originalName": "Explosive Savant",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>Жизнь, проведенная с применением огнестрельного оружия и взрывчатых веществ в хаосе сражений, дала вам умение обращаться с взрывоопасным оружием.\nВы становитесь обучены обращению с простыми и воинскими бомбами и огнестрельным оружием.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-explosive-savant",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пожаробезопасность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3284\">Fire Savvy</a>) / 1",
+            "name": "Пожаробезопасность",
+            "originalName": "Fire Savvy",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>Вы росли недалеко от кузницы и хорошо умеете обращаться с дымом и пламенем.\nВаша чистая проверка, чтобы избавиться от продолжительного урона огнем - КС 10, вместо КС 15, а при подходящей помощи снижается до КС 5.\nКроме того, если при броске спасброска от <span class=\"card-link \">удушья или задыхаясь</span> дымом или пеплом, вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-fire-savvy",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наезд булыжника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=7\">Boulder Roll</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Наезд булыжника",
+            "originalName": "Boulder Roll",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-rock-runner\">Каменный бегун (Rock Runner) / 1</span></p><hr class=\"docutils\"><p>Ваше дварфийское телосложение позволяет вам толкать врагов, точно так же, как огромный валун катится через подземную пещеру.\nСделайте <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span> в квадрат с врагом, который вашего размера или менее, а враг должен сдвинуться на незанятое место сразу позади него.\nВраг должен сдвинуться даже если это ставит его под угрозу.\nВраг может сделать спасбросок Стойкости против вашего КС Атлетики, чтобы остановить ваш Шаг.\nЕсли враг совершает этот спасбросок, то он получает дробящий урон равный вашему уровню + модификатор Силы, если только не пройдет его крит.успешно.</p><p>Если враг не может сдвинуться в свободное пространство (например, если он окружен сплошными объектами или другими существами), то ваш \"Наезд булыжника\" не имеет эффекта.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-dwarf-boulder-roll",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хитрость дварфийского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=8\">Dwarven Weapon Cunning</a>) / 5",
+            "name": "Хитрость дварфийского оружия",
+            "originalName": "Dwarven Weapon Cunning",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-weapon-familiarity\">Знакомство с оружием дварфов (Dwarven Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы изучили хитрые приемы, чтобы получить лучшие эффекты от своего дварфийского оружия.\nКаждый раз, когда вы крит.успешно попадаете боевым топором, клевцом, боевым молотом или дварфийским оружием, то вы применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dwarven-weapon-cunning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитник клана (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=968\">Clan Protector</a>) / 5",
+            "name": "Защитник клана",
+            "originalName": "Clan Protector",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 20</p><hr class=\"docutils\"><p>Ваш клановый кинжал может защитить союзников так же легко, как и вас.\nКогда вы используете действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы получить бонус обстоятельства к КБ от признака <span class=\"w-parry\">парирование</span> кланового кинжала, то вы можете дать этот бонус обстоятельства находящемуся рядом союзнику, вместо того, чтобы получать его самому.\nВы можете использовать несколько действий <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, чтобы защитить несколько союзников или, чтобы защить себя и союзника.\nСоюзник получает преимущества от этого бонуса к КБ только когда находится рядом с вами.</p>",
+            "src": "Lost Omens: Character Guide pg. 20",
+            "action": "",
+            "id": "ancestry-feat-dwarf-clan-protector",
+            "archetype": ""
+        },
+        {
+            "fullName": "Защитные ножны (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=969\">Protective Sheath</a>) / 5",
+            "name": "Защитные ножны",
+            "originalName": "Protective Sheath",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-clans-edge\">Клановое острие (Clan's Edge)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Когда вы набрасываетесь со своим клановым кинжалом, то держите его ножны под рукой.\nЕсли при использовании <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-clans-edge\">Клановое острие (Clan's Edge)  / 1</span> рука в которой вы не держите кинжал свободна, то вы можете использовать ножны кланового кинжала, чтобы тоже блокировать атаки.\nБонус обстоятельства к вашему КБ от парирования увеличивается до +2, против любой цели, по которой вы попали Ударом в этот ход.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-protective-sheath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Взгляд хранителя гробниц (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=970\">Tomb-Watcher's Glare</a>) / 5",
+            "name": "Взгляд хранителя гробниц",
+            "originalName": "Tomb-Watcher's Glare",
+            "level": 5,
+            "traits": [
+                "сакральный",
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Дварф страж гробниц (Death Warden Dwarf)</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Когда вы крит.успешно попадаете по существу-нежити, или существо-нежить крит.проваливает спасбросок против одного из ваших умений, то вы направляете свой божественный гнев в сердце врага.\nНежить <span class=\"card-link std std-ref\" data-id=\"c-enfeebled\">ослаблена 1</span> на 1 раунд.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-tomb-watchers-glare",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бросить вызов тьме (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1399\">Defy the Darkness</a>) / 5",
+            "name": "Бросить вызов тьме",
+            "originalName": "Defy the Darkness",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: ночное зрение</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Используя древние дварфийские методы, разработанные для борьбы с врагами, владеющими магической тьмой, вы отточили свое ночное зрение и поклялись самому не использовать такую магию.\nВы получаете сильное ночное зрение, что позволяет вам видеть в магической тьме, даже если обычно она подавляет ночное зрение (как от заклинания <span class=\"card-link std std-ref\" data-id=\"spell-d-darkness\">Тьма (Darkness) / Закл. 2</span> 4-го уровня).\nВы не можете сотворять заклинания с признаком <span class=\"t-darkness\">тьма</span>, активировать предметы с признаком <span class=\"t-darkness\">тьма</span> или использовать любые другие умения с признаком <span class=\"t-darkness\">тьма</span>.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-defy-the-darkness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дварфийское укрепление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1400\">Dwarven Reinforcement</a>) / 5",
+            "name": "Дварфийское укрепление",
+            "originalName": "Dwarven Reinforcement",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы можете использовать свои знания инженерии и работе с металлом, чтобы временно укрепить тонкие предметы и строения.\nТратя 1 час работы над предметом, вы можете дать ему бонус обстоятельства +1 к Твердости на 24 часа.\nЕсли вы мастер Ремесла, бонус становится +2, а если легенда, бонус становится +3.\nВы можете укрепить часть строения, однако за 1 час обычно укрепляется только дверь, несколько окон или другие части, которые умещаются в 10-футовый куб.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-dwarven-reinforcement",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прикрывающая плита (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1401\">Sheltering Slab</a>) / 5",
+            "name": "Прикрывающая плита",
+            "originalName": "Sheltering Slab",
+            "level": 5,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Камень вокруг - ваш союзник, и вы научились использовать его, чтобы закрыть свои слабости.\nПока вы остаетесь на земле и рядом с вертикальной каменной стеной, которая возвышается до вашего роста или выше, вы не считаетесь <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> против атак, которые берут вас в тиски.\nЭто работает, даже если вы находитесь у внешнего угла стены.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-dwarf-sheltering-slab",
+            "archetype": ""
+        },
+        {
+            "fullName": "Устойчивость к взрывам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3285\">Blast Resistance</a>) / 5",
+            "name": "Устойчивость к взрывам",
+            "originalName": "Blast Resistance",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 200</p><hr class=\"docutils\"><p>Вы привыкли к лязгу стали, треску огнестрельного оружия и громовым раскатам взрывов.\nВы получаете сопротивление 3 к звуку.\nЕсли при броске спасброска против <span class=\"t-auditory\">слухового</span> эффекта, вызывающего состояние <span class=\"card-link std std-ref\" data-id=\"c-deafened\">глухоты</span>, вы получаете успех, то вместо этого получаете критический успех.</p>",
+            "src": "Guns & Gears pg. 200",
+            "action": "",
+            "id": "ancestry-feat-dwarf-blast-resistance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Искрящий кулак (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=3286\">Spark Fist</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Искрящий кулак",
+            "originalName": "Spark Fist",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "воздействие",
+                "огонь",
+                "дварф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Ремесла</p><p><strong>Частота</strong>: раз в минуту</p><p><strong>Доступ</strong>: Вы из Донган Холда или Алкенстара</p><p><strong>Источник</strong>: Guns &amp; Gears pg. 201</p><hr class=\"docutils\"><p>Перед атакой вы посыпаете кулак или перчатку взрывчатым черным порошком, который возгорается, когда вы наносите удар противнику.\nПолучающиеся из-за этого вспышки пламени вредят и вам, и вашему врагу.\nДо конца вашего следующего хода ваш кулак теряет признак <span class=\"w-nonlethal\">несмертельный</span> и при успешном <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударе (Strike)</span> причиняет дополнительно 1 урон огнем.\nКаждый раз, при успешном Ударе кулаком вы получаете 1 урон огнем.\nЕсли ваш кулак наносит более 1 кости урона оружия, то огненный урон, наносимый при успешном Ударе как вам, так и вашему противнику, становится равен количеству костей урона оружия.</p>",
+            "src": "Guns & Gears pg. 201",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-dwarf-spark-fist",
+            "archetype": ""
+        },
+        {
+            "fullName": "Прочность горы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=9\">Mountain's Stoutness</a>) / 9",
+            "name": "Прочность горы",
+            "originalName": "Mountain's Stoutness",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша выносливость позволяет вам выдержать больше ран, чем большинству, прежде чем пасть.\nУвеличьте свои максимальные ОЗ на величину вашего уровня.\nКогда у вас есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>, то КС ваших проверок восстановления равен 9 + значение <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span> (вместо 10 + значение <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>).</p><p>Если у вас еще есть способность <span class=\"card-link std std-ref\" data-id=\"feat-toughness\">Живучесть (Toughness) / 1</span>, то ОЗ полученные от нее и этой способности складываются, а КС ваших проверок восстановления равен 6 + значение <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span>.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-r1: </span>Более прозрачно описаны снижения КС.</p>\n</div>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-mountains-stoutness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменщик (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=10\">Stonewalker</a>) / 9",
+            "name": "Каменщик",
+            "originalName": "Stonewalker",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы сильно почитаете камень и имеете с ним сильную связь.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-m-meld-into-stone\">Слияние с камнем (Meld into Stone) / Закл. 3</span> как врожденное сакральное заклинание 3-го уровня, которое можете сотворять раз в день.</p><p>Если у вас есть способность родословной <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-stonecunning\">Хитрость каменной кладки (Stonecunning) / 1</span>, то вы можете попытаться найти необычную каменную кладку и ловушки на ее основе, которым требуется легендарное мастерство Восприятия.\nЕсли у вас есть и <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-stonecunning\">Хитрость каменной кладки (Stonecunning) / 1</span> и легендарное Восприятие, то когда вы не используете <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span> и Мастер делает за вас бросок <span class=\"t-secret\">тайной</span> проверки, чтобы заметить необычную каменную кладку, то вы сохраняете бонус от <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-dwarf-stonecunning\">Хитрость каменной кладки (Stonecunning) / 1</span> и не получаете штраф обстоятельства -2.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-dwarf-stonewalker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Боевой кузнец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=971\">Battleforger</a>) / 9",
+            "name": "Боевой кузнец",
+            "originalName": "Battleforger",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: мастер Ремесла</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Вы можете заточить оружие, отполировать доспех и использовать специальные приемы, чтобы временно получить больше пользы от вашего вооружения.\nТратя 1 час на работу над оружием или доспехом, вы можете дать ему эффекты <span class=\"card-link \">руны мощи оружия +1 (+1 weapon potency)</span> до ваших следующих ежедневных приготовлений, давая оружию бонус предмета +1 к броскам атаки или увеличивая бонус предмета доспеха к КБ на 1.\nЭто не имеет эффекта, если оружие или доспех уже имеет руну мощи.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-battleforger",
+            "archetype": ""
+        },
+        {
+            "fullName": "Благословленный энергией (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=972\">Energy Blessed</a>) / 9",
+            "name": "Благословленный энергией",
+            "originalName": "Energy Blessed",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Дварф стихийного сердца (Elemental Heart Dwarf)</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Энергия еще сильнее течет в вашей крови.\nКогда вы используете <span class=\"card-link \">Энергетическая эманация (Energy Emanation) </span>, то можете создать эманацию 5 футов, 10 футов или 15 футов.\nУрон увеличивается до 6d6 + дополнительные 1d6 за каждый имеющийся у вас уровень выше 9-го, вместо 1d6 + дополнительные 1d6 за каждые 2 уровня выше 1-го.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-energy-blessed",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов героев (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=973\">Heroes' Call</a>) / 9",
+            "name": "Зов героев",
+            "originalName": "Heroes' Call",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Песни древних героев эхом отдаются в вашем сознании и учащают пульс, особенно в тяжелых ситуациях.\nВы получаете <span class=\"card-link std std-ref\" data-id=\"spell-h-heroism\">Героизм (Heroism) / Закл. 3</span> в качестве врожденного оккультного заклинания 3-го уровня, которое можно сотворять раз в день.\nЕсли вы <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворяете (Cast)</span> это заклинание, когда у вас половина ОЗ или меньше, то вы еще получаете временные ОЗ, равные вашему удвоенному уровню.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-heroes-call",
+            "archetype": ""
+        },
+        {
+            "fullName": "Не преклоняться перед богом (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=974\">Kneel for No God</a>) / 9",
+            "name": "Не преклоняться перед богом",
+            "originalName": "Kneel for No God",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Дварф древней крови (Ancient-Blooded Dwarf)</span></p><p><strong>Доступ</strong>: этнос Вахирд</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 21</p><hr class=\"docutils\"><p>Пренебрежение ваших предков к магии и строго уравнительное мышление вашего народа означают, что определенные формы магии мало влияют на вас.\nКогда вы используете свою реакцию <span class=\"card-link \">Зов древней крови (Call on Ancient Blood) </span> против сакрального заклинания, и при броске получаете крит.провал спасброска против этого заклинания, то вместо этого получаете простой провал.</p>",
+            "src": "Lost Omens: Character Guide pg. 21",
+            "action": "",
+            "id": "ancestry-feat-dwarf-kneel-for-no-god",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отзвуки в камне (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1402\">Echoes in Stone</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Отзвуки в камне",
+            "originalName": "Echoes in Stone",
+            "level": 9,
+            "traits": [
+                "концентрация",
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: Вы стоите на каменной или земляной поверхности</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы на мгновение останавливаетесь, чтобы сосредоточить свои чувства на камне вокруг.\nДо начала своего следующего хода, вы получаете новое чувство: неточную виброчувствительность с дальностью 20 футов.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-dwarf-echoes-in-stone",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возвращающийся бросок (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1403\">Returning Throw</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Возвращающийся бросок",
+            "originalName": "Returning Throw",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Вы овладели техникой метания по дуге так, что после броска предмет возвращается к вам в руку, хотя для этого требуется мгновение, чтобы точно рассчитать траекторию и возможные рикошеты.\nСделайте дистанционный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> <span class=\"w-thrown\">метательным</span> оружием.\nКак только Удар завершен, оружие возвращается по дуге или рикошетит обратно в вашу руку.\nЕсли ваши руки заняты, когда оружие возвращается, то оно падает на землю в вашем пространстве.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-dwarf-returning-throw",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменные кости (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1404\">Stone Bones</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Каменные кости",
+            "originalName": "Stone Bones",
+            "level": 9,
+            "traits": [
+                "дварф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: По вам ударили критическим попаданием, наносящим физический урон</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 42</p><hr class=\"docutils\"><p>Ваша непокорная натура может помочь вам оправиться даже от самых серьезных травм.\nСделайте чистую проверку с КС 17.\nВ случае успеха, атака становится обычным попаданием.</p>",
+            "src": "Advanced Player's Guide pg. 42",
+            "action": "реакция",
+            "id": "ancestry-feat-dwarf-stone-bones",
+            "archetype": ""
+        }
+    ]
+}

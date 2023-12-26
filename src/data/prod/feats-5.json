@@ -1,0 +1,1515 @@
+{
+    "feats": [
+        {
+            "fullName": "Распространенное суеверие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=89\">Pervasive Superstition</a>) / 9",
+            "name": "Распространенное суеверие",
+            "originalName": "Pervasive Superstition",
+            "level": 9,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-superstition\">Орочье суеверие (Orc Superstition)  / 1</span></p><hr class=\"docutils\"><p>Вы погружаетесь в суеверия и практикуете древние орочьи ментальные упражнения, чтобы избавиться от последствий магии.\nВы всегда получаете бонус обстоятельства +1 к спасброскам против заклинаний и магических эффектов.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-pervasive-superstition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Невероятная свирепость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=90\">Incredible Ferocity</a>) / 13",
+            "name": "Невероятная свирепость",
+            "originalName": "Incredible Ferocity",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span></p><hr class=\"docutils\"><p>Спустя некоторое время, чтобы собраться после почти смертельной раны, вы можете восстановить свою свирепость и выстоять против дополнительных завершающих ударов.\nВы можете использовать <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-ferocity\">Орочья свирепость (Orc Ferocity)  / 1</span> раз в час, вместо 1 раза в день.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-incredible-ferocity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт орочьего оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=91\">Orc Weapon Expertise</a>) / 13",
+            "name": "Эксперт орочьего оружия",
+            "originalName": "Orc Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "орк"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-halforc-orc-weapon-familiarity\">Знакомство с орочьим оружием (Orc Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваша близость к оркам сочетается с вашей классовой подготовкой, что дает вам большое мастерство в обращении с оружием орков.\nКогда вы получаете классовую особенность, которая дает вам мастерство эксперта или лучше, в обращении с определенным оружием, то вы получаете такое же мастерство для фальшиона, двуручного топора и всех орочьих оружий с которыми тренированы.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-halforc-orc-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Родовое долголетие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=12\">Ancestral Longevity</a>) / 1",
+            "name": "Родовое долголетие",
+            "originalName": "Ancestral Longevity",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: возраст 100 лет или старше</p><hr class=\"docutils\"><p>Вы накопили огромный багаж знаний в течение прожитых лет.\nВо время своих ежедневных приготовлений, вы можете поразмышлять о своем жизненном опыте, чтобы стать обученным одному навыку на свой выбор.\nЭтот уровень мастерства остается до вашего следующего ежедневного приготовления.\nТак как это мастерство временное, вы не можете использовать его как предварительное условие для увеличения навыка или постоянного выбора персонажа, такого как способность.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-ancestral-longevity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийские знания (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=13\">Elven Lore</a>) / 1",
+            "name": "Эльфийские знания",
+            "originalName": "Elven Lore",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы обучались традиционным эльфийским искусствам, узнавали об арканной магии и окружающем вас мире.\nВы становитесь обучены Аркане и Природе.\nЕсли вы автоматически становитесь обученным одному из этих навыков (например, из-за предыстории или класса), то обучаетесь другому навыку на свой выбор.\nЕще вы обучаетесь Эльфийским Знаниям (Elven Lore).</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с эльфийским оружием (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=14\">Elven Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с эльфийским оружием",
+            "originalName": "Elven Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы предпочитаете луки и другое элегантное оружие.\nВы обучены обращению с длинными луками, композитными длинными луками, короткими луками, композитными короткими луками, длинными мечами и рапирами.</p><p>Еще вы получаете доступ ко всему необычному эльфийскому оружию.\nДля определения мастерства обращения с ним, воинское эльфийское оружие считается простым, а продвинутое эльфийское оружие считается воинским.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Покинутый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=15\">Forlorn</a>) / 1",
+            "name": "Покинутый",
+            "originalName": "Forlorn",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Наблюдение за тем, как ваши друзья стареют и умирают, делает вас более угрюмым, что защищает от вредных эмоций.\nВы получаете бонус обстоятельства +1 к спасброскам против <span class=\"t-emotion\">эмоциональных</span> эффектов.\nЕсли при броске, вы получаете успех спасброска против <span class=\"t-emotion\">эмоционального</span> эффекта, то вместо этого вы получаете крит.успех.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-forlorn",
+            "archetype": ""
+        },
+        {
+            "fullName": "Проворный эльф (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=16\">Nimble Elf</a>) / 1",
+            "name": "Проворный эльф",
+            "originalName": "Nimble Elf",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваши движения хорошо отточены.\nВаша Скорость увеличивается на 5 футов.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-nimble-elf",
+            "archetype": ""
+        },
+        {
+            "fullName": "Потусторонняя магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=17\">Otherworldly Magic</a>) / 1",
+            "name": "Потусторонняя магия",
+            "originalName": "Otherworldly Magic",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваша эльфийская магия проявляется как простое арканное заклинание, даже если вы формально не обучены магии.\nВыберите одни чары из списка арканных (см. <span class=\"card-link \">Арканные чары</span>).\nВы можете сотворять эти чары по желанию, как врожденное арканное заклинание.\nЭти чары усиливаются до уровня заклинания, равного половине вашего уровня округленного до большего целого.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-otherworldly-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Непоколебимая наружность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=18\">Unwavering Mien</a>) / 1",
+            "name": "Непоколебимая наружность",
+            "originalName": "Unwavering Mien",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Ваш мистический контроль и медитации позволяют вам противостоять внешним воздействиям на ваше сознание.\nКаждый раз, когда на вас воздействует <span class=\"t-mental\">ментальный</span> эффект длящийся как минимум 2 раунда, вы можете уменьшить длительность на 1 раунд.</p><p>Против эффектов, которые погрузят вас в сон, вы считате свои спасброски на одну ступень успешнее, но вам все еще требуется естественный сон.\nЭто защищает только от эффектов <span class=\"t-sleep\">сна</span>, а не от других форм <span class=\"card-link std std-ref\" data-id=\"c-unconscious\">потери сознания</span>.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-unwavering-mien",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гнев стихии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=975\">Elemental Wrath</a>) / 1",
+            "name": "Гнев стихии",
+            "originalName": "Elemental Wrath",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>Вы так связаны с землей, что можете вызвать поток энергии из вашего окружения.\nКогда вы получаете эту способность, выберите кислоту, холод, электричество или огонь.\nВы можете воззвать к земле, чтобы по желанию сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-acid-splash\">Кислотный всплеск (Acid Splash) / Чары 1</span> как врожденное природное заклинание, за исключением того, что оно имеет только словесные компоненты и наносит тип урона, который вы выбрали, вместо кислотного; вместо признака <span class=\"t-acid\">кислота</span>, заклинание получает признак соответствующий своему типу урона.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-elemental-wrath",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийская живость (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=976\">Elven Verve</a>) / 1",
+            "name": "Эльфийская живость",
+            "originalName": "Elven Verve",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>В то время как все эльфы невосприимчивы к парализующим касаниям упырей, вы можете сопротивляться магии оцепенения плоти всех видов.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов, которые накладывают на вас состояния <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижен</span>, <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализован</span> или <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлен</span>.\nКогда вы будете <span class=\"card-link std std-ref\" data-id=\"c-immobilized\">обездвижены</span>, <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализованы</span> или <span class=\"card-link std std-ref\" data-id=\"c-slowed\">замедлены</span> хотя бы на 2 раунда, снизьте эту продолжительность на 1 раунд.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-verve",
+            "archetype": ""
+        },
+        {
+            "fullName": "Общие мысли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=977\">Share Thoughts</a>) / 1",
+            "name": "Общие мысли",
+            "originalName": "Share Thoughts",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: этнос Муалижеец, Ильверани или Вуринуа</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>У вас есть поразительное умение общаться с другими эльфами не произнося слов, однако эта привычка часто вызывает дискомфорт у наблюдателей со стороны.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-m-mindlink\">Мысленная связь (Mindlink) / Закл. 1</span> как врожденное оккультное заклинание, но можете выбирать целью только других эльфов или полуэльфов.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-share-thoughts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Дикая магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=978\">Wildborn Magic</a>) / 1",
+            "name": "Дикая магия",
+            "originalName": "Wildborn Magic",
+            "level": 1,
+            "traits": [
+                "необычный",
+                "эльф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: этнос Муалижеец</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>Вы научились получать доступ к древней магии диких мест.\nВыберите одни чары из списка природных заклинаний (см. <span class=\"card-link \">Природные чары</span>).\nВы можете по желанию сотворять эти чары, как врожденное природное заклинание.\nЧары усиливаются до уровня заклинания, равного половине вашего уровня округленного до большего целого.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-wildborn-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знание леса (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=979\">Woodcraft</a>) / 1",
+            "name": "Знание леса",
+            "originalName": "Woodcraft",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>У вас есть врожденное знакомство с лесными массивами.\nКогда вы находитесь в лесу или джунглях, и при броске проверки навыка Выживания получаете критический провал используя <span class=\"card-link std std-ref\" data-id=\"skill-survival-sense-direction\">Определить направление (Sense Direction)</span>, <span class=\"card-link \">Проживание (Subsist)</span> или <span class=\"card-link std std-ref\" data-id=\"skill-survival-cover-tracks\">Заметать следы (Cover Tracks)</span>, то вместо этого получаете просто провал, а если вы получаете успех, он считается критическим успехом.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-woodcraft",
+            "archetype": ""
+        },
+        {
+            "fullName": "Родовая лингвистика (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1407\">Ancestral Linguistics</a>) / 1",
+            "name": "Родовая лингвистика",
+            "originalName": "Ancestral Linguistics",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: возраст как минимум 100 лет</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>За свою долгую жизнь вы изучили множество языков.\nВо время своих ежедневных приготовлений вы можете погрузиться в старые воспоминания, чтобы свободно владеть одним распространенным языком (см. <span class=\"card-link std std-ref\" data-id=\"table-2-1\">Таблица 2-1: Распространенные/Обычные языки (Common Languages)</span>) или одни другим языком, к которому у вас есть доступ.\nВы знаете этот язык пока снова не подготовитесь.\nТак как это знание временное, вы не можете использовать его для выбора постоянных опций персонажа.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-ancestral-linguistics",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийская отчужденность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1408\">Elven Aloofness</a>) / 1",
+            "name": "Эльфийская отчужденность",
+            "originalName": "Elven Aloofness",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Как бы сильно вы ни заботились о них, вы смирились с недолговечной природой не-эльфов, и это делает их угрозы менее неприятными.\nЕсли не-эльф, при броске проверки <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> используя Запугивание, получает провал, то это считается крит.провалом (и таким образом не может снова использовать на вас <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-coerce\">Принуждение (Coerce)</span> в течение 1 недели).\nКогда не-эльф пытается <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span> вас, вы становитесь временно иммунны на 1 день, вместо 10 минут.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-aloofness",
+            "archetype": ""
+        },
+        {
+            "fullName": "Познание себя (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1409\">Know Your Own</a>) / 1",
+            "name": "Познание себя",
+            "originalName": "Know Your Own",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Вы провели бесчисленные часы, изучая историю эльфов в вашем мире и за его пределами, и являетесь признанным экспертом о своем народе.\nЕсли вы критически проваливаете проверку <span class=\"card-link std std-ref\" data-id=\"skill-recall-knowledge\">Вспомнить информацию (Recall Knowledge) </span> о эльфах, эльфийском обществе или эльфийской истории, то вы получаете просто провал.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-know-your-own",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воин демоноборец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2760\">Demonbane Warrior</a>) / 1",
+            "name": "Воин демоноборец",
+            "originalName": "Demonbane Warrior",
+            "level": 1,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 59</p><hr class=\"docutils\"><p>Вы получаете бонус обстоятельства +1 к урону против <span class=\"t-demon\">демонов</span>, наносимому оружием или безоружными атаками.\nЕсли ваша атака наносит больше одной кости урона оружия (как это бывает на уровнях выше 1-го), то этот бонус равен количеству костей урона оружия или безоружной атаки.\nЕсли ваше действие заставляет демона получать урон от его греховной уязвимости, то увеличьте этот урон на 2.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 59",
+            "action": "",
+            "id": "ancestry-feat-elf-demonbane-warrior",
+            "archetype": ""
+        },
+        {
+            "fullName": "Вечное терпение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=19\">Ageless Patience</a>) / 5",
+            "name": "Вечное терпение",
+            "originalName": "Ageless Patience",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы работаете в темпе, приобретенном из-за долголетия, который повышает вашу тщательность.\nВы можете добровольно потратить в два раза больше времени на проверку Восприятия или проверку навыка, чтобы получить бонус обстоятельства +2 к этой проверке.\nТакже, для этих проверок, вы не считаете натуральную 1 на кости как понижение степени успешности; вы получаете критический провал только, если ваш результат на 10 меньше КС.\nНапример, вы можете получить эти преимущества если потратите два действия (<img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\">) на <span class=\"card-link std std-ref\" data-id=\"action-seek\">Поиск (Seek) </span>, что обычно занимает 1 действие.\nВы можете получить эти преимущества во время исследования, потратив в два раза больше времени, чем обычно требуется, или во время режима отдыха, потратив в два раза больше времени отдыха.</p><p>Мастер может решить, что ситуация не дает вам преимущества, если промедление, наоборот, негативно отразится на результате, как например при напряженных переговорах с нетерпеливым существом.</p>",
+            "src": "",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-elf-ageless-patience",
+            "archetype": ""
+        },
+        {
+            "fullName": "Изящество эльфийского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=20\">Elven Weapon Elegance</a>) / 5",
+            "name": "Изящество эльфийского оружия",
+            "originalName": "Elven Weapon Elegance",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-weapon-familiarity\">Знакомство с эльфийским оружием (Elven Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Вы приспособились к обращению с оружием ваших эльфийских предков и становитесь особенно смертельны в обращении с ним.\nКогда вы критически попадаете используя эльфийское оружие, или одним из перечисленных в <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-weapon-familiarity\">Знакомство с эльфийским оружием (Elven Weapon Familiarity) / 1</span>, то применяете эффект критической специализации оружия.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-weapon-elegance",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неповиновение смерти (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=980\">Defiance Unto Death</a>) / 5",
+            "name": "Неповиновение смерти",
+            "originalName": "Defiance Unto Death",
+            "level": 5,
+            "traits": [
+                "необычный",
+                "эльф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Доступ</strong>: Присягнувший шпилю эльф (Spiresworn)</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 26</p><hr class=\"docutils\"><p>Вы презираете <span class=\"card-link \">алголлусов</span> и их ментальную магию, и вас учили быть готовым скорее умереть, чем поддаться ментальным манипуляциям.\nЕсли вы начнете свой ход с <span class=\"card-link std std-ref\" data-id=\"c-confused\">замешательством</span>, <span class=\"card-link std std-ref\" data-id=\"c-controlled\">под контролем</span> или <span class=\"card-link std std-ref\" data-id=\"c-fleeing\">бегством</span> из-за проваленного спасброска Воли, то можете снова сделать спасбросок Воли с тем же КС; при успехе, вы становитесь <span class=\"card-link std std-ref\" data-id=\"c-paralyzed\">парализованы</span> до своего следующего хода, а не действуете против своей воли.</p>",
+            "src": "Lost Omens: Character Guide pg. 26",
+            "action": "",
+            "id": "ancestry-feat-elf-defiance-unto-death",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийские инстинкты (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=981\">Elven Instincts</a>) / 5",
+            "name": "Эльфийские инстинкты",
+            "originalName": "Elven Instincts",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>Ваши чувства позволяют вам быстро реагировать.\nВы получате бонус обстоятельства +2 к проверкам Восприятия на броски инициативы.\nДополнительно, если ваш результат броска инициативы равен вражескому, вы ходите первым, независимо от того, кидали ли вы инициативу с помощью Восприятия или нет.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-instincts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Лесная скрытность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=982\">Forest Stealth</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Лесная скрытность",
+            "originalName": "Forest Stealth",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: эксперт Скрытности</p><p><strong>Требования</strong>: Вы в лесу или джунглях, рядом с особенностью окружающей среды, которая позволяет <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>Вы умеете быстро прятаться за частями подлеска или листвы.\nВы используете <span class=\"card-link std std-ref\" data-id=\"action-take-cover\">Укрыться (Take Cover) </span> и после этого используете это укрытие, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-stealth-hide\">Спрятаться (Hide) </span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-elf-forest-stealth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Адепт дикой магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=983\">Wildborn Adept</a>) / 5",
+            "name": "Адепт дикой магии",
+            "originalName": "Wildborn Adept",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-wildborn-magic\">Дикая магия (Wildborn Magic) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>Шепот джунглей дает вам более разнообразный доступ к простой природной магии.\nВы можете по желанию сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-dancing-lights\">Пляшущие огоньки (Dancing Lights) / Чары 1</span>, <span class=\"card-link std std-ref\" data-id=\"spell-d-disrupt-undead\">Разрушение нежити (Disrupt Undead) / Чары 1</span> и <span class=\"card-link std std-ref\" data-id=\"spell-t-tanglefoot\">Липкая лоза (Tanglefoot) / Чары 1</span> как врожденные природные заклинания.\nЕсли вы выбрали одни из этих чар вместе с <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-wildborn-magic\">Дикая магия (Wildborn Magic) / 1</span>, то можете выбрать новые чары для той способности.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-elf-wildborn-adept",
+            "archetype": ""
+        },
+        {
+            "fullName": "Родовая настороженность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1410\">Ancestral Suspicion</a>) / 5",
+            "name": "Родовая настороженность",
+            "originalName": "Ancestral Suspicion",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Долгоживущие эльфы видели, как возникали и погибали цивилизации, часто от рук внешних сил.\nВ результате, у них развилась настороженность по отношению к другим, кто может пытаться влиять на них или контролировать.\nВас учили сопротивляться подобным манипуляциям, получая бонус обстоятельства +2 к спасброскам против эффектов, которые сделают вас <span class=\"card-link std std-ref\" data-id=\"c-controlled\">контролируемым</span>, как <span class=\"card-link std std-ref\" data-id=\"spell-d-dominate\">Подчинение (Dominate) / Закл. 6</span>, и к проверкам Восприятия для <span class=\"card-link std std-ref\" data-id=\"action-sense-motive\">Понять намерение (Sense Motive) </span>, когда пытаетесь определить находится ли существо под влиянием подобного эффекта.\nКогда при броске спасброска, против такого эффекта вы получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-ancestral-suspicion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Воинский опыт (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1411\">Martial Experience</a>) / 5",
+            "name": "Воинский опыт",
+            "originalName": "Martial Experience",
+            "level": 5,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Вы скрестили клинки с самыми разными противниками, владеющими самым разнообразным оружием, и вы изучили основы борьбы почти с любым из них.\nКогда вы владеете оружием, для которого у вас нет уровня мастерства, считайте свой уровень бонусом мастерства.\nНа 11-м уровне вы становитесь обучены обращению со всем оружием.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-martial-experience",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эльфийский шаг (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=21\">Elf Step</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Эльфийский шаг",
+            "originalName": "Elf Step",
+            "level": 9,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p>Вы двигаетесь будто в грациозном танце, и даже ваши шаги длиннее обычных.\nВы <span class=\"card-link std std-ref\" data-id=\"action-step\">Шагаете (Step)</span> дважды на 5 футов.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-elf-elf-step",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт долголетия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=22\">Expert Longevity</a>) / 9",
+            "name": "Эксперт долголетия",
+            "originalName": "Expert Longevity",
+            "level": 9,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-ancestral-longevity\">Родовое долголетие (Ancestral Longevity) / 1</span></p><hr class=\"docutils\"><p>Вы продолжаете конкретизировать знания и навыки, которым научились за свою жизнь.\nКогда вы выбираете навык, которому становитесь обучены с помощью <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-ancestral-longevity\">Родовое долголетие (Ancestral Longevity) / 1</span>, вы так же можете выбрать навык которому вы уже обучены и стать в нем экспертом.\nЭто длится до окончания действия \"Родового долголетия\".</p><p>Когда эффекты \"Родового долголетия\" и \"Эксперта долголетия\" заканчиваются, вы можете переобучиться 1 из ваших увеличений навыка.\nУвеличение навыка, которое вы получаете от этого переобучения, либо должно сделать вас обученным навыку, который вы выбрали с \"Родовым долголетием\", либо сделать вас экспертом в навыке, который вы выбрали для \"Эксперта долголетия\".</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-expert-longevity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ищущий положительное (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=984\">Brightness Seeker</a>) / 9",
+            "name": "Ищущий положительное",
+            "originalName": "Brightness Seeker",
+            "level": 9,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>Один раз в день вы можете потратить 10 минут на изучение своего окружения в поисках предзнаменований, связанных с определенным курсом действий, чтобы сотворить <span class=\"card-link std std-ref\" data-id=\"spell-a-augury\">Предзнаменование (Augury) / Закл. 2</span>, как врожденное сакральное заклинание.\nЕсли только результат <em>предзнаменования</em> не был \"Ничего\", то вы на следующие 30 минут получаете описанную далее реакцию:</p><p><strong>Воззвать к положительному (Call Upon the Brightness)</strong> <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> (<span class=\"t-concentrate\">концентрация</span>)</p><p><strong>Триггер</strong>: Вы совершаете бросок атаки, проверку навыка или спасбросок, пока следуете курсу действий из <em>предзнаменования</em>, но вы еще не сделали бросок.</p><p><strong>Эффект</strong>: Вы получаете бонус состояния +1 к спровоцировавшей проверке, или бонус состояния +2 если результат <em>предзнаменования</em> был \"Беда\", а вы все равно решили продолжать.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "реакция",
+            "id": "ancestry-feat-elf-brightness-seeker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чувствовать мысли (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=985\">Sense Thoughts</a>) / 9",
+            "name": "Чувствовать мысли",
+            "originalName": "Sense Thoughts",
+            "level": 9,
+            "traits": [
+                "необычный",
+                "эльф"
+            ],
+            "rarity": "Необычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-share-thoughts\">Общие мысли (Share Thoughts) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>У вас есть еще более странная способность знать, что думают другие люди.\nРаз в день, вы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-m-mind-reading\">Чтение разума (Mind Reading) / Закл. 3</span> как врожденное оккультное заклинание.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-elf-sense-thoughts",
+            "archetype": ""
+        },
+        {
+            "fullName": "Потусторонняя проницательность (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1412\">Otherworldly Acumen</a>) / 9",
+            "name": "Потусторонняя проницательность",
+            "originalName": "Otherworldly Acumen",
+            "level": 9,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: как минимум одно врожденное заклинание, полученное от эльфийской способности родословной</p><p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Арканная магия, которой вы обладаете, растет в силе и сложности.\nВыберите одно обычное заклинание 2-го уровня в качестве врожденного, из того же магического обычая, что и в другой способности эльфа (например, из арканного списка, если у вас есть <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-otherworldly-magic\">Потусторонняя магия (Otherworldly Magic) / 1</span>).\nВы можете сотворять это заклинание раз в день, как врожденное, используя тот же магический обычай, который используется для списка заклинаний из которого вы его выбрали.</p><p>Ваша магия приспосабливающаяся.\nТратя 1 день отдыха, вы можете заменить это заклинание на другое обычное заклинание 2-го уровня из того же магического обычая.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-otherworldly-acumen",
+            "archetype": ""
+        },
+        {
+            "fullName": "Древолаз (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1413\">Tree Climber (Elf)</a>) / 9",
+            "name": "Древолаз",
+            "originalName": "Tree Climber",
+            "level": 9,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Вы провели большую часть своей жизни среди верхушек деревьев и стали экспертом в быстром и безопасном лазании по ним.\nВы получаете Скорость карабканья 10 футов.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-tree-climber",
+            "archetype": ""
+        },
+        {
+            "fullName": "Универсальное долголетие (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=23\">Universal Longevity</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Универсальное долголетие",
+            "originalName": "Universal Longevity",
+            "level": 13,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-expert-longevity\">Эксперт долголетия (Expert Longevity) / 9</span></p><p><strong>Частота</strong>: раз в день</p><hr class=\"docutils\"><p>Вы усовершенствовали свое умение поддерживать все навыки, которые изучили за долгую жизнь, так что вы почти никогда не нетренированы навыку.\nВы вспоминаете свой жизненный опыт, изменяя навыки, которые вы выбрали для <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-ancestral-longevity\">Родовое долголетие (Ancestral Longevity) / 1</span> и <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-expert-longevity\">Эксперт долголетия (Expert Longevity) / 9</span>.</p>",
+            "src": "",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-elf-universal-longevity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Эксперт эльфийского оружия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=24\">Elven Weapon Expertise</a>) / 13",
+            "name": "Эксперт эльфийского оружия",
+            "originalName": "Elven Weapon Expertise",
+            "level": 13,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Требования</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-elf-weapon-familiarity\">Знакомство с эльфийским оружием (Elven Weapon Familiarity) / 1</span></p><hr class=\"docutils\"><p>Ваша близость к эльфами сочетается с вашей классовой подготовкой, что дает вам большое мастерство в обращении с оружием эльфов.\nКаждый раз, когда вы получаете классовую особенность, которая делает вас экспертом, или лучше, в определенном оружии, вы также получаете такое же мастерство с длинными луками, композитными длинными луками, короткими луками, композитными короткими луками, длинными мечами, рапирами и всем эльфийским оружием, с которым вы обучены.</p>",
+            "src": "",
+            "action": "",
+            "id": "ancestry-feat-elf-elven-weapon-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Блуждающее сердце (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=986\">Wandering Heart</a>) / 13",
+            "name": "Блуждающее сердце",
+            "originalName": "Wandering Heart",
+            "level": 13,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link \">Арктический эльф (Arctic Elf)</span>, <span class=\"card-link \">Пещерный эльф (Cavern Elf)</span>, <span class=\"card-link \">Лесной эльф (Woodland Elf)</span>, <span class=\"card-link \">Пустынный эльф (Desert Elf)</span> или любое другое эльфийское наследие, основанное на адаптации к окружающей среде</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 27</p><hr class=\"docutils\"><p>В то время как все эльфы со временем приспосабливаются к своему окружению, вы путешествовали с размахом и стали привычным к стольким окружениям, что ваше тело теперь меняется быстрее, чем у других эльфов.\nПотратив неделю в окружающей среде, связанной с эльфийским наследием (такой как снег для арктического эльфа, или лесная или джунгли для лесного эльфа) ваше наследие автоматически изменяется, чтобы стать этим наследием.\nЭто никогда не заставляет вас менять эльфийское наследие на то, которое не относится к окружающей среде, такое как <span class=\"card-link \">Древний эльф (Ancient Elf)</span>, <span class=\"card-link \">Эльф провидец (Seer Elf)</span> или <span class=\"card-link \">Шепчущий эльф (Whisper Elf)</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 27",
+            "action": "",
+            "id": "ancestry-feat-elf-wandering-heart",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отомстить за союзника (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1414\">Avenge Ally</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Отомстить за союзника",
+            "originalName": "Avenge Ally",
+            "level": 13,
+            "traits": [
+                "удача",
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в 10 минут</p><p><strong>Требования</strong>: Вы рядом с союзником у которого есть состояние <span class=\"card-link std std-ref\" data-id=\"c-dying\">при смерти</span></p><p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Хотя вы знаете, что в конечном счете переживете своих товарищей, то, что вы видите их на пороге смерти, придаете ясности атакам.\nСовершите <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span>.\nСделайте бросок атаки дважды и используйте наибольший результат.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-elf-avenge-ally",
+            "archetype": ""
+        },
+        {
+            "fullName": "Верхом на магии (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1415\">Magic Rider</a>) / 17",
+            "name": "Верхом на магии",
+            "originalName": "Magic Rider",
+            "level": 17,
+            "traits": [
+                "эльф"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Advanced Player's Guide pg. 43</p><hr class=\"docutils\"><p>Ваш народ использовал мощную магию для путешествий между далекими мирами, и остатки этой магии облегчают вам такое перемещение.\nКогда вы являетесь целью заклинания <span class=\"t-teleportation\">телепортации</span>, которое перемещает более одного человека, оно может воздействовать на дополнительную цель выбранную заклинателем сверх обычного ограничения.\nДополнительно, когда вы являетесь целью заклинания <span class=\"card-link std std-ref\" data-id=\"spell-t-teleport\">Телепортация (Teleport) / Закл. 6</span>, то вы и другие цели прибываете не дальше, чем в 1 миле от места назначения, независимо от расстояния на которое перемещаетесь.</p>",
+            "src": "Advanced Player's Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-elf-magic-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Удлиненный хват (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1037\">Grasping Reach</a>) / 1",
+            "name": "Удлиненный хват",
+            "originalName": "Grasping Reach",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Вы можете вытянуть запутанные лозы или усики, чтобы поддержать ваши руки и увеличить досягаемость.\nКогда вы владеете оружием ближнего боя, для которого требуется 2 руки, оно не <span class=\"w-reach\">длинное</span> и наносит хотя бы 1d6 урона, то вы можете менять между обычным двуручным хватом и удлиненным двуручным хватом, используя действие <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.\nОружие, которым владеют удлиненным двуручным хватом, получает досягаемость 10 футов.\nТакой хват менее сильный и надежный, чем обычный, что на 1 шаг снижает кость урона оружия.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-grasping-reach",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безвредный и миленький (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1038\">Harmlessly Cute</a>) / 1",
+            "name": "Безвредный и миленький",
+            "originalName": "Harmlessly Cute",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Ваши размер и манера поведения позволяют вам легко убедить других, что вы не причините вреда.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-shameless-request\">Наглая просьба (Shameless Request) / 7</span> в качестве бонусной способности.\nДополнительно, вы получаете бонус обстоятельства +1 к проверкам инициативы, когда вы кидаете ее с использованием Обмана.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-harmlessly-cute",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания лешего (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1039\">Leshy Lore</a>) / 1",
+            "name": "Знания лешего",
+            "originalName": "Leshy Lore",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Вы глубоко понимаете культурные традиции своего народа и его врожденные сильные стороны.\nВы становитесь обучены навыкам Природа и Скрытность.\nЕсли вы автоматически становитесь обучены одному из этих навыков (например из-за вашей предыстории или класса), то вместо этого вы становитесь обучены навыку на свой выбор.\nЕще вы становитесь обучены Знаниям леших.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-leshy-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Приметы леших (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1040\">Leshy Superstition</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Приметы леших",
+            "originalName": "Leshy Superstition",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Триггер</strong>: Вы совершаете спасбросок против заклинания или магического эффекта, но еще не сделали бросок</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Вы замечаете духов, которые населяют объекты, учась тому, какие приносят удачу, а какие несчастье.\nВы сосредотачиваетесь на силе удачливого объекта, дающего вам бонус обстоятельства +1 к спасброску против спровоцировавшего эффекта.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "реакция",
+            "id": "ancestry-feat-leshy-leshy-superstition",
+            "archetype": ""
+        },
+        {
+            "fullName": "Семенная коробочка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1041\">Seedpod</a>) / 1",
+            "name": "Семенная коробочка",
+            "originalName": "Seedpod",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Ваше тело производит почти бесконечный запас твердых семенных коробочек.\nВы получаете дистанционную безоружную атаку \"семенная коробочка\", которая имеет шаг дистанции 10 футов и наносит 1d4 дробящего урона; эти <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удары (Strikes)</span> имеют признак <span class=\"t-manipulate\">воздействие</span>.\nПри критическом попадании семенная коробочка лопается, выпуская запутанную растительность, которая на 1 раунд накладывает на цель штраф обстоятельства -10 футов Скорости.\nСеменные коробочки не добавляют эффект критической специализации.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Безоружная атака семенной коробочкой имеет шаг дистанции 10 футов.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-seedpod",
+            "archetype": ""
+        },
+        {
+            "fullName": "Тень дикой местности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1042\">Shadow of the Wilds</a>) / 1",
+            "name": "Тень дикой местности",
+            "originalName": "Shadow of the Wilds",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Трудно заметить то, как вы проходите по дикой местности.\nПока вы не находитесь в городской среде, считается что вы всегда <span class=\"card-link std std-ref\" data-id=\"skill-survival-cover-tracks\">Заметаете следы (Covering Tracks)</span>, даже если вы выбрали другую активность режима исследования.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-shadow-of-the-wilds",
+            "archetype": ""
+        },
+        {
+            "fullName": "Неустрашимый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1043\">Undaunted</a>) / 1",
+            "name": "Неустрашимый",
+            "originalName": "Undaunted",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 54</p><hr class=\"docutils\"><p>Ваш дух пережил много испытаний за свое долгое существование, и вы уверены, что можете преодолеть любые трудности, которые жизнь бросает вам на пути.\nВы получаете бонус обстоятельства +1 к спасброскам против <span class=\"t-emotion\">эмоциональных</span> эффектов.\nЕсли при броске спасброска против <span class=\"t-emotion\">эмоционального</span> эффекта вы получаете успех, то вместо этого вы получаете крит.успех.</p>",
+            "src": "Lost Omens: Character Guide pg. 54",
+            "action": "",
+            "id": "ancestry-feat-leshy-undaunted",
+            "archetype": ""
+        },
+        {
+            "fullName": "Нестареющий дух (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2393\">Ageless Spirit</a>) / 1",
+            "name": "Нестареющий дух",
+            "originalName": "Ageless Spirit",
+            "level": 1,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 42</p><hr class=\"docutils\"><p>Вы помните о своих предыдущих воплощениях больше, чем большинство леших.\nВо время своих ежедневных приготовлений, вы можете помедитировать над частичными воспоминаниями ваших прошлых жизней, чтобы стать обученным 1 навыку на ваш выбор.\nЭтот уровень мастерства длится до ваших следующих ежедневных приготовлений.\nТак как это мастерство временное, вы не можете использовать его для предварительного условия к увеличению навыка или постоянной опции персонажа, как например способности.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 42",
+            "action": "",
+            "id": "ancestry-feat-leshy-ageless-spirit",
+            "archetype": ""
+        },
+        {
+            "fullName": "Планирование лешего (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1044\">Leshy Glide</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Планирование лешего",
+            "originalName": "Leshy Glide",
+            "level": 5,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Лиственный (Leaf Leshy)</span> или способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-cat-fall\">Кошачье падение (Cat Fall) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>Используя свои листья, вы можете контролировать падение.\nВы медленно планируете по воздуху к земле, со скоростью 5 футов вниз и вплоть до 25 футов вперед.\nПока вы тратите хотя бы 1 действие, планируя каждый раунд и не достигнув земли, то вы остаетесь в воздухе в конце своего хода.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-leshy-glide",
+            "archetype": ""
+        },
+        {
+            "fullName": "Обратный ритуал (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1045\">Ritual Reversion</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Обратный ритуал",
+            "originalName": "Ritual Reversion",
+            "level": 5,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "полиморф",
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>Вы можете временно вернуться к менее заметной форме, не ослабляя своих чувств.\nВы принимаете форму растения или гриба обычного образца, который наиболее похож на вас, возвращаясь к внешнему виду вашего тела сразу до того, как ваш дух соединился с ним.\nВ остальном, это имеет эффекты <span class=\"card-link std std-ref\" data-id=\"spell-t-tree-shape\">Форма дерева (Tree Shape) / Закл. 2</span>, за исключением того, что ваш размер остается маленьким.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-leshy-ritual-reversion",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разговор с себе подобными (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1046\">Speak with Kindred</a>) / 5",
+            "name": "Разговор с себе подобными",
+            "originalName": "Speak with Kindred",
+            "level": 5,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>У вас есть связь с существами, которые имеют общую физиологию с вами.\nВы можете задавать вопросы, получать ответы и использовать навык Дипломатия с растениями или грибами, которые соответствуют вашему наследию лешего.\nКак правило, грибные лешие могут говорить с грибами и грибками; тыквенные лешие могут говорить с тыквами, дынями и подобными плодоносящими растениями; лиственные лешие могут говорить с лиственными деревьями; а лешие из лоз могут говорить с лозами и вьющимися растениями.\nМастер решает какие растения или грибы применимы для этого умения.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "",
+            "id": "ancestry-feat-leshy-speak-with-kindred",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хватающиеся корни (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2394\">Anchoring Roots</a>) / 5",
+            "name": "Хватающиеся корни",
+            "originalName": "Anchoring Roots",
+            "level": 5,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 42</p><hr class=\"docutils\"><p>Маленькие корни прорастают из ваших ног, поддерживая вас при движении.\nВы получаете способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-steady-balance\">Твердое равновесие (Steady Balance) / 1</span>, даже если не обучены Акробатике, и можете использовать действие \"Закрепиться\".</p><p><strong>Закрепиться (Anchor)</strong> <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"></p><p><strong>Эффект</strong>: Вы пускаете свои корни глубже в землю, из-за чего труднее оступиться.\nПока не сдвинетесь, вы получаете бонус обстоятельства +2 к вашим КС Стойкости или КС Рефлекса против попыток <span class=\"card-link std std-ref\" data-id=\"skill-athletics-shove\">Толкнуть (Shove) </span> или <span class=\"card-link std std-ref\" data-id=\"skill-athletics-trip\">Опрокинуть (Trip) </span> вас (или бонус обстоятельства +4 если у вас наследие <span class=\"card-link \">Корневой (Root Leshy)</span>).\nЕще этот бонус применяется к спасброскам от заклинаний или эффектов, которые пытаются сдвинуть вас или уронить вас <span class=\"card-link std std-ref\" data-id=\"c-prone\">ничком</span>.\nЕсли эффект заставляет вас сдвинуться, то вы двигаетесь только на половину обычного расстояния, так как часть усилия уходит на то, чтобы вырвать корни.\nНа усмотрение Мастера, это умение может не работать на земле, которая более крепкая, чем камень, как например металлический пол или магически усиленная каменная кладка.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 42",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-leshy-anchoring-roots",
+            "archetype": ""
+        },
+        {
+            "fullName": "Кора и усики (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1047\">Bark and Tendril</a>) / 9",
+            "name": "Кора и усики",
+            "originalName": "Bark and Tendril",
+            "level": 9,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>Вы владеете природной магией.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-b-barkskin\">Дубовая кожа (Barkskin) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-e-entangle\">Опутывание (Entangle) / Закл. 2</span> как врожденные природные заклинания 2-го уровня, каждое раз в день.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "",
+            "id": "ancestry-feat-leshy-bark-and-tendril",
+            "archetype": ""
+        },
+        {
+            "fullName": "Счастливый сувенир (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1048\">Lucky Keepsake</a>) / 9",
+            "name": "Счастливый сувенир",
+            "originalName": "Lucky Keepsake",
+            "level": 9,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-leshy-leshy-superstition\">Приметы леших (Leshy Superstition)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>У вас есть сувенир, который дает вам удачу.\nВы все время получаете бонус обстоятельства +1 к спасброскам против заклинаний и магических эффектов, а не только когда используете <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-leshy-leshy-superstition\">Приметы леших (Leshy Superstition)  / 1</span>.\nЕсли вы теряете сувенир, то теряете и бонус пока не обретете новый, обычно это занимает неделю.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "",
+            "id": "ancestry-feat-leshy-lucky-keepsake",
+            "archetype": ""
+        },
+        {
+            "fullName": "Солнечное восстановление сил (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1049\">Solar Rejuvenation (Leshy)</a>) / 9",
+            "name": "Солнечное восстановление сил",
+            "originalName": "Solar Rejuvenation",
+            "level": 9,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 55</p><hr class=\"docutils\"><p>Если вы отдыхаете на открытом воздухе, 10 минут в течение дня, то восстанавливаете Очки Здоровья, в количестве, равном вашему модификатору Телосложения × на половину вашего уровня.\nВы получаете это преимущество в дополнение к любому лечению от <span class=\"card-link std std-ref\" data-id=\"skill-medicine-treat-wounds\">Лечение ран (Treat Wounds)</span>.\nЛешие, у которых растительное питание не зависит от фотосинтеза, нуждаются в подходящей для них окружающей среде.\nНапример, грибные лешие нуждаются в темноте, влажной среде и куче разлагающегося растительного вещества.</p>",
+            "src": "Lost Omens: Character Guide pg. 55",
+            "action": "",
+            "id": "ancestry-feat-leshy-solar-rejuvenation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Облако спор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2395\">Spore Cloud</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 9",
+            "name": "Облако спор",
+            "originalName": "Spore Cloud",
+            "level": 9,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в час</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Вы выпускаете облако пыльцы или подобных спор.\nВсе существа в 10-футовой эманации вокруг вас должны совершить спасбросок Стойкости, используя ваш КС класса или КС заклинания (в зависимости от того, что больше), со следующими результатами.\nРастения и грибы иммунны к этому эффекту.</p><div class=\"line-block\">\n<div class=\"line\"><strong>Критический успех</strong>: Нет эффекта</div>\n<div class=\"line\"><strong>Успех</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> на 1 раунд</div>\n<div class=\"line\"><strong>Провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-dazzled\">ослеплено</span> и может видеть только в 10 футах на 1 раунд</div>\n<div class=\"line\"><strong>Критический провал</strong>: Существо <span class=\"card-link std std-ref\" data-id=\"c-blinded\">слепое</span> на 1 раунд</div>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-leshy-spore-cloud",
+            "archetype": ""
+        },
+        {
+            "fullName": "Шипастая семенная коробочка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2396\">Thorned Seedpod</a>) / 9",
+            "name": "Шипастая семенная коробочка",
+            "originalName": "Thorned Seedpod",
+            "level": 9,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-leshy-seedpod\">Семенная коробочка (Seedpod) / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Когда ваши семенные коробочки наносят сокрушительный удар, они превращаются в ужасно колючие лозы.\nКогда вы получаете критический успех <span class=\"card-link std std-ref\" data-id=\"action-strike\">Ударом (Strike)</span> семенной коробочки, лозы скручиваются и колют вашего врага, нанося 1d4 продолжительного колющего урона.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-leshy-thorned-seedpod",
+            "archetype": ""
+        },
+        {
+            "fullName": "Зов зеленого человека (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2397\">Call of the Green Man</a>) / 13",
+            "name": "Зов зеленого человека",
+            "originalName": "Call of the Green Man",
+            "level": 13,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Вы можете призывать ближайших духов природы, чтобы укрепить свое тело.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-p-plant-form\">Растительная форма (Plant Form) / Закл. 5</span> как врожденное природное заклинание 5-го уровня.\nКогда вы достигаете 17-го уровня, это заклинание может быть усилено до 6-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-leshy-call-of-the-green-man",
+            "archetype": ""
+        },
+        {
+            "fullName": "Покров яда (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2398\">Cloak of Poison</a>) <img alt=\"активность из 2-х действий\" class=\"action action-2\" src=\"/PF_action_2.webp\" style=\"height: 1em;\"> / 13",
+            "name": "Покров яда",
+            "originalName": "Cloak of Poison",
+            "level": 13,
+            "traits": [
+                "яд",
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Вы покрываетесь концентрированным ядом, который вредит любому, кто посмеет атаковать вас.\nНа 1 минуту, любое существо, которое касается вас или наносит вам урон безоружной атакой или оружием ближнего боя без признака <span class=\"w-reach\">длинное</span>, получает 3d6 урона ядом.</p><div class=\"admonition-pfs clarification admonition\">\n<p class=\"admonition-title\">Уточнение PFS</p>\n<p>Способность срабатывает для всех безоружных атак (независимо от наличия признака <span class=\"w-reach\">длинное</span>), а также оружий без этого признака.</p>\n</div>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "активность из 2-х действий",
+            "id": "ancestry-feat-leshy-cloak-of-poison",
+            "archetype": ""
+        },
+        {
+            "fullName": "Расцвет и разрушение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2399\">Flourish and Ruin</a>) / 17",
+            "name": "Расцвет и разрушение",
+            "originalName": "Flourish and Ruin",
+            "level": 17,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Вы можете призывать жизненную сущность своего духа, чтобы восстановить жизнь своим союзникам, и вызвать лозы, чтобы поймать и сокрушить врагов.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-f-field-of-life\">Поле жизни (Field of Life) / Закл. 6</span> и <span class=\"card-link std std-ref\" data-id=\"spell-t-tangling-creepers\">Опутывающие лианы (Tangling Creepers) / Закл. 6</span> как врожденные природные заклинания 6-го уровня, каждое раз в день.\nВы становитесь экспертом атак природными заклинаниями и КС природных заклинаний.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-leshy-flourish-and-ruin",
+            "archetype": ""
+        },
+        {
+            "fullName": "Возобновление роста (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2400\">Regrowth</a>) / 17",
+            "name": "Возобновление роста",
+            "originalName": "Regrowth",
+            "level": 17,
+            "traits": [
+                "леший"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 43</p><hr class=\"docutils\"><p>Ваш контроль над своей жизненной сущностью позволяет вам или вашему союзнику оправиться от тяжелых ран.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-r-regenerate\">Регенерация (Regenerate) / Закл. 7</span> как врожденное природное заклинание 7-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 43",
+            "action": "",
+            "id": "ancestry-feat-leshy-regrowth",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания людоящеров (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1050\">Lizardfolk Lore</a>) / 1",
+            "name": "Знания людоящеров",
+            "originalName": "Lizardfolk Lore",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы внимательно слушали рассказы, которые передавались в вашей общине.\nВы становитесь обучены Природе и Выживанию.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nВы также становитесь обучены Знаниям ирукси.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Бегун по болотам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1051\">Marsh Runner</a>) / 1",
+            "name": "Бегун по болотам",
+            "originalName": "Marsh Runner",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: У вас есть Скорость плавания</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы искусны в передвижении по болотистой местности.\nПри использовании действия <span class=\"card-link std std-ref\" data-id=\"action-step\">Шаг (Step) </span>, вы можете игнорировать сложную местность вызванную затоплением, болотом или зыбучим песком.\nВ дополнение, когда вы успешно используете навык Акробатики, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span> на узких поверхностях или неровной болотистой земле, то вы не <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span> и если при броске проверки Акробатики вы получаете успех, то вместо этого получаете крит.успех.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-marsh-runner",
+            "archetype": ""
+        },
+        {
+            "fullName": "Партеногенный детеныш (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1052\">Parthenogenic Hatchling</a>) / 1",
+            "name": "Партеногенный детеныш",
+            "originalName": "Parthenogenic Hatchling",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы вылупились из неоплодотворенного яйца в трудные времена для своего народа, и вы - биологическая копия своей матери.\nВы получаете бонус обстоятельства +1 к спасброскам против болезней.\nКаждый из ваших успешных спасбросков против болезни, снижает стадию на 2, или на 1 для вирулентной болезни.\nКаждый критический успех против длящейся болезни, снижает стадию на 3, или на 2 для вирулентной болезни.\nВы получаете урон от жажды каждые 2 часа, а от голода каждые 2 дня, вместо обычных 1 часа и 1 дня.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-parthenogenic-hatchling",
+            "archetype": ""
+        },
+        {
+            "fullName": "Когти-бритвы (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1053\">Razor Claws</a>) / 1",
+            "name": "Когти-бритвы",
+            "originalName": "Razor Claws",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы заточили свои когти, чтобы они стали смертельными.\nВаша атака когтями наносит 1d6 рубящего урона, вместо 1d4, и получает признак <span class=\"w-versatile\">универсальное К</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-razor-claws",
+            "archetype": ""
+        },
+        {
+            "fullName": "Говорящий с рептилиями (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1054\">Reptile Speaker</a>) / 1",
+            "name": "Говорящий с рептилиями",
+            "originalName": "Reptile Speaker",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы слышите звуки рептилий как язык.\nВы можете задавать вопросы, получать ответы и использовать навык Дипломатии с животными-рептилиями (Мастер определяет какие звери считаются рептилиями для данной способности).</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-reptile-speaker",
+            "archetype": ""
+        },
+        {
+            "fullName": "Острые клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1055\">Sharp Fangs</a>) / 1",
+            "name": "Острые клыки",
+            "originalName": "Sharp Fangs",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Ваши зубы - грозное оружие.\nВы получаете безоружную атаку клыками, которая наносит 1d8 колющего урона.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-sharp-fangs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хвост-хлыст (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1056\">Tail Whip</a>) / 1",
+            "name": "Хвост-хлыст",
+            "originalName": "Tail Whip",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Ваш хвост достаточно силен с рождения или благодаря тренировкам, чтобы стать мощным оружием ближнего боя.\nВы получаете безоружную атаку хвостом, которая наносит 1d6 дробящего урона и имеет признак <span class=\"w-sweep\">размах</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-tail-whip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Костяная магия (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2401\">Bone Magic</a>) / 1",
+            "name": "Костяная магия",
+            "originalName": "Bone Magic",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 45</p><hr class=\"docutils\"><p>Ваша связь с вашими предками ируси проявляется как простое природное заклинание, которое вы колдуете, используя фрагмент костей предка.\nВыберите 1 чары из списка природных заклинаний.\nВы можете по желанию сотворять эти чары как врожденное природное заклинание, и оно усиливается до уровня заклинания, равного половине вашего уровня, округленного до большего целого.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 45",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-bone-magic",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свериться со звездами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2402\">Consult the Stars</a>) / 1",
+            "name": "Свериться со звездами",
+            "originalName": "Consult the Stars",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Вы находите мудрость в движениях небес.\nРаз в день, вы можете потратить 10 минут, чтобы положиться на свои наблюдения недавнего ночного неба для получения обученного уровня мастерства в одном навыке на ваш выбор;\nключевая характеристика выбранного навыка должна быть Интеллектом, Мудростью или Харизмой.\nЭтот уровень мастерства длится до ваших следующих ежедневных приготовлений.\nТак как это мастерство временное, вы не можете использовать его для предварительного условия к повышению навыка или постоянной опции персонажа, как например способности.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-consult-the-stars",
+            "archetype": ""
+        },
+        {
+            "fullName": "Молниеносный язык (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2403\">Lightning Tongue</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 1",
+            "name": "Молниеносный язык",
+            "originalName": "Lightning Tongue",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Ваш язык выскакивает быстрее, чем может увидеть глаз, чтобы взять свободно лежащие объекты.\nВы <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействуете (Interact)</span>, чтобы поднять 1 ничейный объект легкой Массы или менее, в пределах 10 футов от вас.\nЕсли у вас недостаточно свободных рук, чтобы держать объект, то он падает на землю в вашем пространстве.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-lizardfolk-lightning-tongue",
+            "archetype": ""
+        },
+        {
+            "fullName": "Наездник на рептилиях (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2404\">Reptile Rider</a>) / 1",
+            "name": "Наездник на рептилиях",
+            "originalName": "Reptile Rider",
+            "level": 1,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Для вас крокодилы, гигантские ящерицы и динозавры - не монстры, а верные скакуны.\nВы получаете способность <span class=\"card-link std std-ref\" data-id=\"feat-ride\">Езда верхом (Ride) / 1</span>, даже если не соответствуете предварительным условиям.\nВы получаете бонус обстоятельства +1 к проверкам Природы для <span class=\"card-link std std-ref\" data-id=\"skill-nature-command-an-animal\">Команда животному (Command an Animal) </span>, пока это животное является рептилией, динозавром или даже неразумным драконом.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-reptile-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отравленные клыки (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1057\">Envenom Fangs</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Отравленные клыки",
+            "originalName": "Envenom Fangs",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-lizardfolk-sharp-fangs\">Острые клыки (Sharp Fangs) / 1</span></p><p><strong>Частота</strong>: количество раз в день равное вашему уровню</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 59</p><hr class=\"docutils\"><p>Вы отравляете свои клыки.\nЕсли ваш следующий <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> клыками, совершаемый до конца вашего следующего хода, попадает и наносит урон, то Удар наносит дополнительные 1d6 урона ядом.\nПри критическом провале, яд расходуется как обычно.</p>",
+            "src": "Lost Omens: Character Guide pg. 59",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-lizardfolk-envenom-fangs",
+            "archetype": ""
+        },
+        {
+            "fullName": "Хватка геккона (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1058\">Gecko's Grip</a>) / 5",
+            "name": "Хватка геккона",
+            "originalName": "Gecko's Grip",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Людоящер с утесов (Cliffscale Lizardfolk)</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 59</p><hr class=\"docutils\"><p>Вы прилипаете к стенам сверхъестественной хваткой.\nВы получаете Скорость карабканья 15 футов.</p>",
+            "src": "Lost Omens: Character Guide pg. 59",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-geckos-grip",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рукопашная хитрость ирукси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1059\">Iruxi Unarmed Cunning</a>) / 5",
+            "name": "Рукопашная хитрость ирукси",
+            "originalName": "Iruxi Unarmed Cunning",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы максимально используете свои безоружные атаки ирукси.\nКогда вы критически попадаете используя когти или безоружную атаку, полученную от способности родословной людоящера, то применяете эффект критической специализации этой безоружной атаки.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-iruxi-unarmed-cunning",
+            "archetype": ""
+        },
+        {
+            "fullName": "Отбросить хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1060\">Shed Tail</a>) <img alt=\"реакция\" class=\"action action-reaction\" src=\"/PF_action_reaction.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Отбросить хвост",
+            "originalName": "Shed Tail",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-lizardfolk-tail-whip\">Хвост-хлыст (Tail Whip) / 1</span></p><p><strong>Триггер</strong>: Вы стали <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачены</span></p><p><strong>Требования</strong>: У вас полностью отросший хвост</p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы можете отбросить хвост, чтобы сбежать.\nВы перестаете быть <span class=\"card-link std std-ref\" data-id=\"c-grabbed\">схвачены</span>, а затем <span class=\"card-link std std-ref\" data-id=\"action-stride\">Перемещаетесь (Stride)</span> не провоцируя никаких реакций от схватившего вас существа.\nВаш хвост полностью отрастает за 1 неделю.\nПока он растет, вы не можете использовать свою безоружную атаку хвостом, и получаете штраф обстоятельства -2 к проверкам <span class=\"card-link std std-ref\" data-id=\"skill-acrobatics-balance\">Балансировать (Balance) </span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "реакция",
+            "id": "ancestry-feat-lizardfolk-shed-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Быстрый пловец (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1061\">Swift Swimmer</a>) / 5",
+            "name": "Быстрый пловец",
+            "originalName": "Swift Swimmer",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Водный людоящер (Wetlander Lizardfolk)</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы плаваете быстрее большинства ирукси.\nВаша Скорость плавания увеличивается до 25 футов.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-swift-swimmer",
+            "archetype": ""
+        },
+        {
+            "fullName": "Гибкий хвост (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2405\">Flexible Tail</a>) / 5",
+            "name": "Гибкий хвост",
+            "originalName": "Flexible Tail",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Вы можете совершать своим хвостом простые действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>, такие как открывание незапертых дверей.\nВаш хвост не может выполнять действия, для которых нужны пальцы или значительная ловкость рук, включая любые действия, которые для выполнения потребуют совершить проверку, и вы не можете использовать его чтобы держать предметы.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-flexible-tail",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ведомый звездами (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2406\">Guided by the Stars</a>) <img alt=\"свободное действие\" class=\"action action-free\" src=\"/PF_action_free.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Ведомый звездами",
+            "originalName": "Guided by the Stars",
+            "level": 5,
+            "traits": [
+                "удача",
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Частота</strong>: раз в день</p><p><strong>Триггер</strong>: Вы готовы совершить проверку навыка или спасбросок</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Звезды даруют вам озарения, которые направляют ваши действия.\nВы кидаете дважды и используете лучший результат.\nЕсли сейчас ночь и вы можете видеть звезды, то получаете к спровоцировавшему броску бонус обстоятельства +1.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "свободное действие",
+            "id": "ancestry-feat-lizardfolk-guided-by-the-stars",
+            "archetype": ""
+        },
+        {
+            "fullName": "Планирование ирукси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2407\">Iruxi Glide</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Планирование ирукси",
+            "originalName": "Iruxi Glide",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: наследие <span class=\"card-link \">Воздушный прыгун (Cloudleaper Lizardfolk)</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Вы медленно планируете по воздуху к земле, со скоростью 5 футов вниз и вплоть до 25 футов вперед.\nПока вы тратите хотя бы 1 действие, планируя каждый раунд и не достигнув земли, то вы остаетесь в воздухе в конце своего хода.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-lizardfolk-iruxi-glide",
+            "archetype": ""
+        },
+        {
+            "fullName": "Разоружение языком (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2408\">Tongue Disarm</a>) <img alt=\"одиночное действие\" class=\"action action-1\" src=\"/PF_action_1.webp\" style=\"height: 1em;\"> / 5",
+            "name": "Разоружение языком",
+            "originalName": "Tongue Disarm",
+            "level": 5,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Атлетике, <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-lizardfolk-lightning-tongue\">Молниеносный язык (Lightning Tongue)  / 1</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 46</p><hr class=\"docutils\"><p>Вы набрасываетесь на врага, чтобы разоружить его своим языком.\nВы пытаетесь <span class=\"card-link std std-ref\" data-id=\"skill-athletics-disarm\">Разоружить (Disarm) </span> существо в пределах 10 футов, игнорируя требование на наличие хотя бы 1 свободной руки.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 46",
+            "action": "одиночное действие",
+            "id": "ancestry-feat-lizardfolk-tongue-disarm",
+            "archetype": ""
+        },
+        {
+            "fullName": "Преимущество местности (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1062\">Terrain Advantage</a>) / 9",
+            "name": "Преимущество местности",
+            "originalName": "Terrain Advantage",
+            "level": 9,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы можете воспользоваться преимуществами местности, чтобы пробить защиту противника.\nСущества не-людоящеры на сложной местности для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.\nЕсли у вас есть Скорость плавания, то существа не-людоящеры находящиеся в воде и не имеющие Скорости плавания тоже для вас <span class=\"card-link std std-ref\" data-id=\"c-flat-footed\">застигнуты врасплох</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-terrain-advantage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Призыватель костей (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2409\">Bone Caller</a>) / 9",
+            "name": "Призыватель костей",
+            "originalName": "Bone Caller",
+            "level": 9,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Используя смесь костей динозавров и костей ваших предков для фокусирования своей магии, вы оживляете ящериц и динозавров, чтобы они передавали ваши сообщения или служили ездовыми животными.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-a-animal-messenger\">Зверь-посланник (Animal Messenger) / Закл. 2</span> и <span class=\"card-link std std-ref\" data-id=\"spell-p-phantom-steed\">Фантомный скакун (Phantom Steed) / Закл. 2</span> как врожденные природные заклинания, каждое раз в день.\nЗверь-посланник всегда является динозавром или ящерицей крошечного размера, а ваше врожденное заклинание превращает их из костей в кровь и плоть, даже если рядом нет динозавров или ящериц.\nПризрачный скакун выглядит как динозавр, но функционирует идентично.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-bone-caller",
+            "archetype": ""
+        },
+        {
+            "fullName": "Свисать (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2410\">Dangle (Lizardfolk)</a>) / 9",
+            "name": "Свисать",
+            "originalName": "Dangle",
+            "level": 9,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-lizardfolk-flexible-tail\">Гибкий хвост (Flexible Tail) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Вы можете висеть на хвосте, зацепившись на любой подходящей опорной точке, такой как ветка дерева, балкон или скалистый выступ (на усмотрение Мастера), как правило, во время карабканья.\nКогда висите, вы можете свободно использовать все остальные конечности, поэтому можете выполнять задачи, требующие обоих рук, такие как стрельба из лука или размахивание двуручным мечом.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-dangle",
+            "archetype": ""
+        },
+        {
+            "fullName": "Чтение по звездам (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2411\">Read the Stars</a>) / 9",
+            "name": "Чтение по звездам",
+            "originalName": "Read the Stars",
+            "level": 9,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: обучен Оккультизму или Знаниям астрологии</p><p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Вы невероятно искусны в астрологии ирукси, и можете получать полезные (хотя и загадочные) подсказки от расположения звезд.\nОдин раз за ночь, если вы можете ясно видеть звезды, то можете потратить 1 час на чтение небес, чтобы понять, как они связаны с определенной целью, событием или деятельностью, которые произойдут в течение 1 недели.\nМастер кидает <span class=\"t-secret\">тайную</span> проверку, либо Знаний Астрологии с КС 28, либо Оккультизма с КС 32.\nПри успехе вы узнаете загадочную подсказку или совет, который может помочь в выбранном событии, а при критическом провале вы узнаете загадочную подсказку или совет вводящие в заблуждение.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-read-the-stars",
+            "archetype": ""
+        },
+        {
+            "fullName": "Рукопашный опыт ирукси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1063\">Iruxi Unarmed Expertise</a>) / 13",
+            "name": "Рукопашный опыт ирукси",
+            "originalName": "Iruxi Unarmed Expertise",
+            "level": 13,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Предварительные условия</strong>: <span class=\"card-link std std-ref\" data-id=\"ancestry-feat-lizardfolk-iruxi-unarmed-cunning\">Рукопашная хитрость ирукси (Iruxi Unarmed Cunning) / 5</span></p><p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Ваши безоружные атаки совмещают обычаи и тренировки.\nВсякий раз, когда вы получаете особенность класса, которая дает вам экспертное или выше мастерство владения определенным оружием, вы также получаете его для когтей и безоружных атак, которые получили от способностей родословной людоящера.</p>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-iruxi-unarmed-expertise",
+            "archetype": ""
+        },
+        {
+            "fullName": "Первобытное неистовство (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1063\">Primal Rampage</a>) / 13",
+            "name": "Первобытное неистовство",
+            "originalName": "Primal Rampage",
+            "level": 13,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 58</p><hr class=\"docutils\"><p>Вы задействуете непреодолимую первобытную силу своих древних родственников.\nВы можете сотворять <span class=\"card-link std std-ref\" data-id=\"spell-f-freedom-of-movement\">Свобода движений (Freedom of Movement) / Закл. 4</span> и <span class=\"card-link std std-ref\" data-id=\"spell-s-stoneskin\">Каменная кожа (Stoneskin) / Закл. 4</span> как врожденные природные заклинания 4-го уровня, каждое раз в день.\nЗа активность в 3 действия (<img alt=\"активность из 3-х действий\" class=\"action action-3\" src=\"/PF_action_3.webp\" style=\"height: 1em;\">) вы можете <span class=\"card-link std std-ref\" data-id=\"action-cast-a-spell\">Сотворить (Cast)</span> оба этих врожденных заклинания, если они оба еще доступны в этот день.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Способность \"Рукопашный опыт ирукси (Iruxi Unarmed Expertise)\" полностью заменена на эту из-за автоматического роста мастерства безоружных атак во 2-м издании CR.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 58",
+            "action": "активность из 3-х действий",
+            "id": "ancestry-feat-lizardfolk-primal-rampage",
+            "archetype": ""
+        },
+        {
+            "fullName": "Костное облачение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2412\">Bone Investiture</a>) / 13",
+            "name": "Костное облачение",
+            "originalName": "Bone Investiture",
+            "level": 13,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Вы покрываете себя духовными костями динозавра, чтобы стать динозавром огромного размера.\nВы можете раз в день сотворять <span class=\"card-link std std-ref\" data-id=\"spell-d-dinosaur-form\">Форма динозавра (Dinosaur Form) / Закл. 4</span> как врожденное природное заклинание 5-го уровня.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-bone-investiture",
+            "archetype": ""
+        },
+        {
+            "fullName": "Духовные удары ирукси (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2413\">Iruxi Spirit Strike</a>) / 13",
+            "name": "Духовные удары ирукси",
+            "originalName": "Iruxi Spirit Strike",
+            "level": 13,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Ваши безоружные атаки ирукси проводят духовную энергию ваших предков.\nЛюбые безоружные атаки, полученные вами от наследий ирукси или способностей родословной получают эффекты руны свойства <span class=\"card-link \">Призрачное касание (Ghost Touch) / Руна 4</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-iruxi-spirit-strike",
+            "archetype": ""
+        },
+        {
+            "fullName": "Превращение потомка (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2414\">Scion Transformation</a>) / 17",
+            "name": "Превращение потомка",
+            "originalName": "Scion Transformation",
+            "level": 17,
+            "traits": [
+                "природный",
+                "трансмутация",
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 47</p><hr class=\"docutils\"><p>Вы впадаете в спячку на 24 часа и совершаете ритуал, посвященный вашим предкам, претерпевая одноразовую метаморфозу.\nВы навсегда получаете эффекты <span class=\"card-link std std-ref\" data-id=\"spell-e-enlarge\">Увеличение (Enlarge) / Закл. 2</span> и ваши максимальные ОЗ увеличиваются на значение вашего уровня.\nЭтот ритуал превращает большинство вашего снаряжения до размера, подходящего вашему новому телу (однако, мощные предметы такие как артефакты или предметы сильно связанные с их оригинальным размером могут не трансформироваться).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 47",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-scion-transformation",
+            "archetype": ""
+        },
+        {
+            "fullName": "Костяной наездник (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2845\">Bone Rider</a>) / 17",
+            "name": "Костяной наездник",
+            "originalName": "Bone Rider",
+            "level": 17,
+            "traits": [
+                "людоящер"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: The Mwangi Expanse pg. 204</p><hr class=\"docutils\"><p>Используя кости своих предков, вы проявляете их духов вокруг себя в форме ископаемого, пугая своих врагов.\nВы можете раз в день сотворять на себя <span class=\"card-link std std-ref\" data-id=\"spell-m-mask-of-terror\">Маска ужаса (Mask of Terror) / Закл. 7</span> как врожденное природное заклинание.\nКогда вы это делаете, то выглядите скелетным предком людоящера, искаженный таким образом, что вызывает самые глубокие страхи у тех, кто видит вас.</p>",
+            "src": "Lost Omens: The Mwangi Expanse pg. 204",
+            "action": "",
+            "id": "ancestry-feat-lizardfolk-bone-rider",
+            "archetype": ""
+        },
+        {
+            "fullName": "Алхимический ученый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1024\">Alchemical Scholar</a>) / 1",
+            "name": "Алхимический ученый",
+            "originalName": "Alchemical Scholar",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Вы легче изучаете формулы.\nКогда вы берете эту способность, то получаете 4 обычных алхимических формулы 1-го уровня, и каждый раз, когда получаете уровень, вы получаете обычную алхимическую формулу этого уровня.\nВам все еще нужна способность навыка <span class=\"card-link std std-ref\" data-id=\"feat-alchemical-crafting\">Алхимическое ремесло (Alchemical Crafting) / 1</span>, чтобы <span class=\"card-link std std-ref\" data-id=\"skill-crafting-craft\">Создавать (Craft)</span> алхимические предметы.</p><p><strong>Особенность</strong>: Вы можете взять эту способность только на 1-м уровне, и не можете переобучиться ей, или заменить другую способность на нее.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-alchemical-scholar",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знания хобгоблинов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1025\">Hobgoblin Lore</a>) / 1",
+            "name": "Знания хобгоблинов",
+            "originalName": "Hobgoblin Lore",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Вы изучали традиционные упражнения хобгоблинов и полевые работы, все из которых имеют милитаристский уклон.\nВы становитесь обучены Атлетике и Ремеслу.\nЕсли вы автоматически станете обучены одному из этих навыков (например, из-за вашей предыстории или класса), то вместо этого становитесь обучены другому навыку на свой выбор.\nЕще вы становитесь обучены Знаниям хобгоблинов.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-hobgoblin-lore",
+            "archetype": ""
+        },
+        {
+            "fullName": "Знакомство с оружием хобгоблинов (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1026\">Hobgoblin Weapon Familiarity</a>) / 1",
+            "name": "Знакомство с оружием хобгоблинов",
+            "originalName": "Hobgoblin Weapon Familiarity",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Вы обучены обращению с длинными луками, короткими луками, композитными длинными луками, композитными короткими луками, длинными мечами и глефами.\nВ дополнение, вы получаете доступ ко всему необычному оружию хобгоблинов.\nС целью определения вашего мастерства обращения с оружием, воинское оружие хобгоблинов является простым оружием, а продвинутое оружие хобгоблинов является воинским.</p><div class=\"versionchanged\">\n<p><span class=\"versionmodified changed\">Изменено в версии /errata-LOCG-2: </span>Вы должны быть обучены обращению с меньшим количеством оружия. Убраны: алебарды, копья и длинные копья.</p>\n</div>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-weapon-familiarity",
+            "archetype": ""
+        },
+        {
+            "fullName": "Ловец \"пиявок\" (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1027\">Leech-Clipper</a>) / 1",
+            "name": "Ловец \"пиявок\"",
+            "originalName": "Leech-Clipper",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Вы обучены ловить дезертиров или как их называют \"пиявок\".\nЕсли вы критически попадаете по врагу оружием из группы \"цеп\", то можете обернуть оружие вокруг ног цели и бросить его, из-за чего враг получит штраф обстоятельства -10 футов к своим Скоростями, пока они сами или их союзники не распутают оружие, что занимает суммарно 2 действия <span class=\"card-link std std-ref\" data-id=\"action-interact\">Взаимодействовать (Interact) </span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-leech-clipper",
+            "archetype": ""
+        },
+        {
+            "fullName": "Безжалостная плеть (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1028\">Remorseless Lash</a>) / 1",
+            "name": "Безжалостная плеть",
+            "originalName": "Remorseless Lash",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Вы искусны в избиении врага, когда его моральный дух уже сломлен.\nКогда вы наносите успешный <span class=\"card-link std std-ref\" data-id=\"action-strike\">Удар (Strike) </span> оружием ближнего боя по <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуганному</span> врагу, то этот враг не может снизить свое состояние <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> ниже 1 до начала вашего следующего хода.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-remorseless-lash",
+            "archetype": ""
+        },
+        {
+            "fullName": "Крепкое здоровье (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1029\">Vigorous Health</a>) / 1",
+            "name": "Крепкое здоровье",
+            "originalName": "Vigorous Health",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Ваше телосложение крепкое и удивительно хорошо переносит кровопотерю.\nВсякий раз, когда вы получите состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span>, вы можете сделать чистую проверку с КС 17.\nВ случае успеха, вы не получаете состояние <span class=\"card-link std std-ref\" data-id=\"c-drained\">истощен</span>.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-vigorous-health",
+            "archetype": ""
+        },
+        {
+            "fullName": "Канторианское укрепление (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2367\">Cantorian Reinforcement</a>) / 1",
+            "name": "Канторианское укрепление",
+            "originalName": "Cantorian Reinforcement",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>Жизненная энергия, которая помогла создать первых хобгоблинов, особенно сильна в вас, защищая от продолжающихся болезней.\nКогда вы получаете успех спасброска против болезни или яда, то снижаете стадию на 2 (или на 1 для вирулентной болезни или яда), а когда получаете критический успех, то снижаете стадию на 3 (или на 2 для вирулентной болезни или яда).</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-cantorian-reinforcement",
+            "archetype": ""
+        },
+        {
+            "fullName": "Пронырливый (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2368\">Sneaky</a>) / 1",
+            "name": "Пронырливый",
+            "originalName": "Sneaky",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>Скрытность - важный инструмент в вашем арсенале.\nВы можете двигаться на 5 футов дальше при использовании действия <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, вплоть до вашей Скорости.</p><p>Дополнительно, пока вы продолжаете <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span> и преуспеваете в проверках Скрытности, вы не становитесь <span class=\"card-link std std-ref\" data-id=\"c-observed\">замечены</span> если у вас нет стандартного или большого укрытия и вы не <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span> по завершении действия <span class=\"card-link std std-ref\" data-id=\"skill-stealth-sneak\">Красться (Sneak) </span>, до тех пор, пока в конце своего хода у вас есть стандартное или большое укрытие, или вы <span class=\"card-link std std-ref\" data-id=\"c-concealed\">скрыты</span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-sneaky",
+            "archetype": ""
+        },
+        {
+            "fullName": "Каменное лицо (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=2369\">Stone Face</a>) / 1",
+            "name": "Каменное лицо",
+            "originalName": "Stone Face",
+            "level": 1,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Ancestry Guide pg. 34</p><hr class=\"docutils\"><p>Благодаря сложившимся условиям или опыту, вы овладели искусством самообладания, даже перед лицом страха.\nВы получаете бонус обстоятельства +1 к спасброскам против эффектов с признаком <span class=\"t-fear\">страх</span> и бонус обстоятельства +2 к вашему КС Воли против действий навыка Запугивание, таких как <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализовать (Demoralize) </span>.</p>",
+            "src": "Lost Omens: Ancestry Guide pg. 34",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-stone-face",
+            "archetype": ""
+        },
+        {
+            "fullName": "Мучительное осуждение (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1030\">Agonizing Rebuke</a>) / 5",
+            "name": "Мучительное осуждение",
+            "originalName": "Agonizing Rebuke",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 50</p><hr class=\"docutils\"><p>Когда вы терроризируете своих врагов, то также причиняете им болезненные душевные страдания.\nКогда вы успешно <span class=\"card-link std std-ref\" data-id=\"skill-intimidation-demoralize\">Деморализуете (Demoralize)</span> врага, он получает 1d4 ментального урона в начале каждого своего хода, пока остается <span class=\"card-link std std-ref\" data-id=\"c-frightened\">напуган</span> и продолжает участвовать в сражении с вами.\nЕсли вы мастер Запугивания, то урон увеличивается до 2d4, а если вы легенда, урон увеличивается до 3d4.</p>",
+            "src": "Lost Omens: Character Guide pg. 50",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-agonizing-rebuke",
+            "archetype": ""
+        },
+        {
+            "fullName": "Сержант-инструктор (<a class=\"reference external\" href=\"https://2e.aonprd.com/Feats.aspx?ID=1031\">Expert Drill Sergeant</a>) / 5",
+            "name": "Сержант-инструктор",
+            "originalName": "Expert Drill Sergeant",
+            "level": 5,
+            "traits": [
+                "хобгоблин"
+            ],
+            "rarity": "Обычный",
+            "desc": "<p><strong>Источник</strong>: Lost Omens: Character Guide pg. 51</p><hr class=\"docutils\"><p>Вы знаете, как получить максимум от своих союзников.\nВо время исследования, когда вы ведете их, а союзники делают <span class=\"card-link \">Повторять за экспертом (Follow The Expert)</span>, если вы эксперт навыка то даете бонус обстоятельства +3, вместо +2, а если вы мастер то бонус обстоятельства +4.</p>",
+            "src": "Lost Omens: Character Guide pg. 51",
+            "action": "",
+            "id": "ancestry-feat-hobgoblin-expert-drill-sergeant",
+            "archetype": ""
+        }
+    ]
+}
