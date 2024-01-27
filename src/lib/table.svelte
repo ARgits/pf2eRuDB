@@ -1,48 +1,67 @@
 <script lang="ts">
-  import { getContext } from "svelte";
-  import type { Writable } from "svelte/store";
-  import type { Content, Data, FeatType, TableData, filterProps, globalFilter, tableHeadersByKey } from "../types";
+  import { getContext, setContext } from "svelte";
+  import { derived, get, writable, type Writable } from "svelte/store";
+  import type { ActionType, BackgroundType, Content, Data, Entries, FeatType, SpellType, TableData, filterProps, filterUnion, globalFilter, tableHeadersByKey } from "../types";
   import Counter from "./utilityComponents/Counter.svelte";
   import { filter, searchByName } from "./filter/filterFunctions";
   import Filter from "./filter/Filter.svelte";
   import Pagination from "./utilityComponents/Pagination.svelte";
   import Row from "./row.svelte";
   import { changeUrlOnFilter } from "./filter/filterData";
-
-  export let dataKey: keyof TableData = "backgrounds";
+  import { getData } from "./getData";
+  import { dataStore } from "../store";
 
   export let tableHeaders: tableHeadersByKey<typeof dataKey>;
-  const contextData: Data = getContext("data");
-  const data = contextData[dataKey] as Content[typeof dataKey][];
+  // const contextData: Data = getContext("data");
+  // const data = contextData[dataKey] as Content[typeof dataKey][];
+  const dataKey: Writable<keyof TableData> = getContext("currentTab");
   const filters: Writable<globalFilter> = getContext("filters");
-  const numOfElems: Writable<number> = getContext("numOfElems");
-  const hasFilterOptions = Object.values($filters[dataKey]).some((val: filterProps) => val.options.length);
-  let searchStr: string;
-  let temp = [];
-  //делаем так, что при первой загрузке не создается url
-  let changleURL = false;
-  function filterFunction() {
-    let { filteredData, pageNum } = filter(dataKey, $filters[dataKey], temp.length, numOfPage, searchStr);
-    filteredData = searchByName(filteredData, searchStr);
-    numOfPage = pageNum;
-    collapsibleContent.forEach((v, k) =>
-      collapsibleContent.set(k, temp.filter((content) => content.fullName === k).length === 1 ? v : false)
-    );
-    collapsibleContent = collapsibleContent;
-    temp = [...filteredData];
-    if (changleURL) changeUrlOnFilter($filters[dataKey], dataKey);
-    else changleURL = !changleURL;
-
-    $numOfElems = temp.length;
-  }
-
-  $numOfElems = temp.length;
+  dataStore.getKeyData($dataKey);
+  const hasFilterOptions = Object.values($filters[$dataKey]).some((val: filterProps) => val.options.length);
+  const searchString = writable("");
+  const derivedData = derived([dataStore, filters, searchString], ([$dataStore, $filters, $searchString]) => {
+    const result = $dataStore[$dataKey].filter((item: BackgroundType | FeatType | SpellType | ActionType) => {
+      if ($searchString?.length > 0) {
+        const ruAndOrigName = item.name + item.originalName;
+        if (!ruAndOrigName.toLowerCase().includes($searchString.toLowerCase())) return 0;
+      }
+      let criteria = 0;
+      const filtEntries = Object.entries($filters[$dataKey]) as Entries<filterUnion>;
+      for (const [key, val] of filtEntries) {
+        switch (val.selection) {
+          case "minMax":
+            const numberValue = item[key] as number;
+            criteria += numberValue >= parseInt(val.value[0]) && numberValue <= parseInt(val.value[1]) ? 1 : 0;
+            break;
+          case "singleRadio":
+            const strValue = item[key].toString();
+            criteria += (val.value.includes(strValue) || val.value.length === 0) && !val.disabled.includes(strValue) ? 1 : 0;
+            break;
+          case "multipleRadio":
+            const arrValue = (item[key] as string[]).flat();
+            if (val.disabled.some((v) => arrValue.includes(v))) {
+              criteria += 0;
+              break;
+            }
+            if (val.multiply) {
+              criteria += val.value.every((v) => arrValue.includes(v)) || val.value.length === 0 ? 1 : 0;
+            } else criteria += val.value.some((v) => arrValue.includes(v)) || val.value.length === 0 ? 1 : 0;
+            break;
+        }
+      }
+      return criteria === filtEntries.length;
+    });
+    return result;
+  });
+  setContext(
+    "numOfElems",
+    derived(derivedData, ($derivedData) => $derivedData.length)
+  );
   let collapsibleContent = new Map();
-  data.forEach((content) => collapsibleContent.set(content.fullName, false));
+
   let numOfPage = 1;
   let itemsPerPage = 50;
   let headerHeight: number;
-  filterFunction();
 </script>
 
 <div class="content" style="--header-height:{headerHeight}px">
@@ -50,20 +69,15 @@
     <div class="search">
       <label>
         Поиск по названию
-        <input placeholder="Перевод/оригинал" type="text" bind:value={searchStr} on:input={filterFunction} />
+        <input placeholder="Перевод/оригинал" type="text" bind:value={$searchString} />
       </label>
     </div>
 
     <Counter />
-    {#key temp.length}
+    {#key $derivedData.length}
       <Pagination bind:numOfPage bind:itemsPerPage />
     {/key}
   </div>
-  <!-- <div class="grid grid-{tableHeaders.length} header">
-      {#each tableHeaders as header, key}
-        <div class="th" bind:this={columns[key]}>{header.name}</div>
-      {/each}
-    </div> -->
   <div class="grid grid-{tableHeaders.length} content" style="--col-number:{tableHeaders.length}">
     {#if tableHeaders.length > 1}
       {#each tableHeaders as header, key}
@@ -74,14 +88,13 @@
         </div>
       {/each}
     {/if}
-    {#each temp.slice((numOfPage - 1) * itemsPerPage, numOfPage * itemsPerPage) as content, key}
+    {#each $derivedData.slice((numOfPage - 1) * itemsPerPage, numOfPage * itemsPerPage) as content, key}
       <Row {content} {collapsibleContent} {tableHeaders} even={(key + 1) % 2 === 0} />
     {/each}
-    <!-- </tbody> -->
   </div>
 </div>
 {#if hasFilterOptions}
-  <Filter {filterFunction} {dataKey} />
+  <Filter />
 {/if}
 
 <style lang="scss">

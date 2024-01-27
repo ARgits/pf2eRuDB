@@ -1,7 +1,9 @@
 import Tooltip from "./TooltipFromAction.svelte";
-import { allDataArr } from "../getData";
+import { allData } from "../../store";
+import { get } from "svelte/store";
 
 export function tooltip(element: HTMLElement) {
+  const allDataArr = get(allData)
   element.querySelectorAll("[data-id]").forEach((el: HTMLAnchorElement) => {
     const id = el.dataset.id;
     const data = allDataArr.find((v) => v.id === id);

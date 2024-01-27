@@ -1,0 +1,38 @@
+{
+    "backgrounds": {
+        "rarity": {
+            "name": "редкость",
+            "value": [],
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "search": "",
+            "selection": "singleRadio",
+            "options": [
+                "Обычный",
+                "Необычный",
+                "Редкий"
+            ]
+        },
+        "attributeValue": {
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "name": "Характеристика",
+            "options": [
+                "Сила",
+                "Ловкость",
+                "Телосложение",
+                "Мудрость",
+                "Харизма",
+                "Интеллект"
+            ],
+            "search": "",
+            "selection": "multipleRadio",
+            "value": [],
+            "multiply": false
+        }
+    }
+}

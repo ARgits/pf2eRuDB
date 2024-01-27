@@ -5,7 +5,8 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "node --loader ts-node/esm prepareForBuild.ts && vite build",
+    "home-build":"node --loader ts-node/esm prepareForBuild.ts && vite build",
+    "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
     "prepareData": "node --trace-warnings --loader  ts-node/esm prepareForBuild.ts"

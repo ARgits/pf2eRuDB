@@ -1,0 +1,31 @@
+{
+    "creatures": {
+        "traits": {
+            "name": "",
+            "selection": "singleRadio",
+            "value": [],
+            "options": [],
+            "multiply": false,
+            "disabled": [],
+            "excluded": [],
+            "search": "",
+            "hasSearch": false,
+            "defaultValue": []
+        },
+        "rarity": {
+            "name": "редкость",
+            "value": [],
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "search": "",
+            "selection": "singleRadio",
+            "options": [
+                "Обычный",
+                "Необычный",
+                "Редкий"
+            ]
+        }
+    }
+}

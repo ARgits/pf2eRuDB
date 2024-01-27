@@ -3,7 +3,10 @@
 //
 declare global {
   interface Window {
-    PF2e: Data["allData"];
+    PF2e: {
+      data:{},
+      filters:{}
+    };
   }
 }
 interface Data {
@@ -74,7 +77,7 @@ type globalFilter = {
   creatures: CreatureFilter;
 };
 type Filter<Type> = {
-  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName">]: filterProps;
+  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName"|"id">]: filterProps;
 };
 type filterProps = {
   name: string;
@@ -100,11 +103,13 @@ type SelectionByProperty = {
 type BgFilterKeys = Omit<BackgroundType, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
 type SpellFilterKeys = Omit<SpellType, "">;
 type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action" | "archetype">;
-type ActionFilterKeys = Pick<ActionType, "traits", "rarity">;
+type ActionFilterKeys = Pick<ActionType, "traits", "action">;
+type CreatureFilterKeys = Omit<CreatureType, "">;
 export type backgroundFilter = Filter<BgFilterKeys>;
 export type spellsFilter = Filter<SpellFilterKeys>;
 export type featFilter = Filter<FeatFilterKeys>;
 export type actionFilter = Filter<ActionFilterKeys>;
+export type creatureFilter = Filter<CreatureFilterKeys>
 //
 //Tabs type
 //
@@ -112,6 +117,7 @@ type tab = {
   visible: boolean;
   name: string;
   key: keyof Tabs;
+  maxItems:number;
 };
 export interface Tabs {
   feats: tab;

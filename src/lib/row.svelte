@@ -90,6 +90,7 @@
     {/if}
   </div>
 {/each}
+{#if collapsibleContent.get(content.fullName)}
 <!-- svelte-ignore a11y-no-static-element-interactions -->
 <div bind:this={description} class="td description {tdClass}">
   <div class="item_content" transition:slide={{ duration: 500 }}>
@@ -103,7 +104,9 @@
     {@html content.desc}
   </div>
   <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}> Скрыть описание </button>
+ 
 </div>
+{/if}
 
 <style lang="scss">
   .download {
@@ -131,14 +134,6 @@
   }
   .td.description {
     grid-column: span var(--col-number);
-    max-height: 0;
-    transform: scaleY(0);
-    transform-origin: top;
-    transition: all 0.25s linear;
-    &.expanded {
-      max-height: 5000px;
-      transform: scaleY(1);
-    }
     &:last-child {
       border-bottom: 1px solid black;
     }

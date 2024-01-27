@@ -1,13 +1,16 @@
 import type { Entries, generalContent, TableData, filterUnion, contentTableUnion } from "../../types";
-import { data } from "../getData";
-export function filter(
+export async function  filter(
   dataKey: keyof TableData,
   filtAr: filterUnion,
   currentDataLength: number,
   pageNum: number = 1,
   searchStr: string = ""
-): { filteredData: contentTableUnion; pageNum: number; filtAr: filterUnion } {
-  const dataAr = [...data[dataKey]] as contentTableUnion;
+): Promise<{ filteredData: contentTableUnion; pageNum: number; filtAr: filterUnion; }> {
+
+  // const dataAr = [...data[dataKey]] as contentTableUnion;
+  
+  const dataAr = window.PF2e.data[dataKey] as contentTableUnion
+  // console.log(dataAr)
   const filtEntries = Object.entries(filtAr) as Entries<filterUnion>;
   let filteredData = dataAr.filter((item) => {
     if (searchStr.length > 0) {
@@ -40,6 +43,7 @@ export function filter(
     }
     return criteria === filtEntries.length;
   }) as typeof dataAr;
+  // console.log(filteredData)
   pageNum = currentDataLength === filteredData.length ? pageNum : 1;
   return { filteredData, pageNum, filtAr };
 }

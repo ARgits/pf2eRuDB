@@ -1,6 +1,4 @@
 <script lang="ts">
-  import arrowRight from "@fortawesome/fontawesome-free/svgs/solid/arrow-right-long.svg";
-  import arrowLeft from "@fortawesome/fontawesome-free/svgs/solid/arrow-left-long.svg";
   import { slide } from "svelte/transition";
   import { getContext } from "svelte";
   import type { Writable } from "svelte/store";
@@ -71,7 +69,6 @@
           getMaxPages(numOfPage);
         }}
       >
-        <!-- <img src={arrowLeft} alt="предыдушая страница" /> -->
         <i class="fa-solid fa-arrow-left-long"></i>
       </button>
       {#each arr as page}

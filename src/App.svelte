@@ -1,58 +1,72 @@
-<script async script lang="ts">
+<script lang="ts">
   import { decode } from "js-base64";
   import Table from "./lib/table.svelte";
   import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
-  import { filters } from "./lib/filter/filterData";
-  import { writable } from "svelte/store";
-  import { data } from "./lib/getData";
+  import { filters, currentTab, watch } from "./store";
+  // import { data } from "./lib/getData";
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
+  import { dataStore } from "./store";
+  import { changeUrlOnFilter } from "./lib/filter/filterData";
+  // import { getData } from "./lib/getData";
   gsap.registerPlugin(Draggable);
-  let currentTab: keyof Tabs = "backgrounds";
-  window.PF2e = data.allData;
+  setContext('currentTab', currentTab)
+
   const tabs: Tabs = {
     feats: {
       visible: true,
       name: "Способности",
       key: "feats",
+      maxItems: 3784,
     },
     backgrounds: {
       visible: true,
       name: "Происхождения",
       key: "backgrounds",
+      maxItems: 220,
     },
     spells: {
       visible: true,
       name: "Заклинания",
       key: "spells",
+      maxItems: 1091,
     },
     actions: {
       visible: true,
       name: "Действия",
       key: "actions",
+      maxItems: 192,
     },
   };
+
   const urlParams = new URLSearchParams(window.location.search);
 
   for (const [key, param] of urlParams.entries()) {
-    if (key === "tab" && Object.keys(tabs).includes(param)) currentTab = param as keyof Tabs;
+    if (key === "tab" && Object.keys(tabs).includes(param)) $currentTab = param as keyof Tabs;
     if (key === "filter") {
       const parsedFilterValue = JSON.parse(base64ToStr(param));
-      for (const [k, val] of Object.entries($filters[currentTab])) {
+      console.log(parsedFilterValue);
+      for (const [k, val] of Object.entries($filters[$currentTab])) {
+        //@ts-ignore
         parsedFilterValue[k] = { ...val, ...parsedFilterValue[k] };
       }
-      $filters[currentTab] = parsedFilterValue;
+      $filters[$currentTab] = parsedFilterValue;
     }
   }
+  watch([filters,currentTab],([$filters,$currentTab])=>{
+    console.log('filters changed')
+    changeUrlOnFilter($filters[$currentTab], $currentTab)
+  })
   function base64ToStr(base64: string) {
     const binString = decode(base64);
     return new TextDecoder().decode(Uint8Array.from(binString, (m) => m.codePointAt(0)));
   }
-  console.log(data);
-  setContext("data", data);
+  dataStore.getData()
+  // console.log(data);
+  // setContext("data", data);
   setContext("filters", filters);
-  setContext("numOfElems", writable(null));
+  
 
   const tableHeaders: tableHeaders = {
     feats: [
@@ -107,29 +121,26 @@
   <div class="header" bind:clientHeight={headerHeight}>
     {#if Object.values(tabs).filter((val) => val.visible).length > 1}
       {#each Object.values(tabs).filter((val) => val.visible) as val}
-        <div class={currentTab === val.key ? "active" : ""}>
+        <div class={$currentTab === val.key ? "active" : ""}>
           <button
             class="tab"
-            on:click={(e) => {
-              currentTab = val.key;
-              window.history.replaceState({ tab: currentTab }, "", `?tab=${currentTab}`);
-            }}
-            on:auxclick={(e) => {
-              console.log(e, "aux click");
-            }}
-            on:contextmenu={(e) => {
-              console.log(e, "context menu");
+            on:click={() => {
+              $currentTab = val.key;
+              // window.history.replaceState({ tab: currentTab }, "", `?tab=${currentTab}`);
             }}
           >
             {val.name}
           </button>
+          {#if val.maxItems !== $dataStore[val.key].length}
+            <progress max={val.maxItems} value={$dataStore[val.key].length} />
+          {/if}
         </div>
       {/each}
     {/if}
   </div>
-  {#key currentTab}
+  {#key $currentTab}
     <div class="main">
-      <Table dataKey={currentTab} tableHeaders={tableHeaders[currentTab]} />
+      <Table tableHeaders={tableHeaders[$currentTab]} />
     </div>
   {/key}
 </main>

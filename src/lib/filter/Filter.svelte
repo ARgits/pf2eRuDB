@@ -3,14 +3,12 @@
   import type { globalFilter, filterUnion, TableData } from "../../types";
   import type { Writable } from "svelte/store";
   import SubFilter from "./SubFilter.svelte";
-  import filterIcon from "@fortawesome/fontawesome-free/svgs/solid/filter.svg";
   import Counter from "../utilityComponents/Counter.svelte";
 
-  export let dataKey: keyof TableData = "feats";
-  export let filterFunction = () => {};
+  const dataKey:Writable<keyof TableData> = getContext('currentTab')
   let collapsed = true;
   const globalFilters: Writable<globalFilter> = getContext("filters");
-  const filterKeys = Object.keys($globalFilters[dataKey]) as Array<keyof filterUnion>;
+  const filterKeys = Object.keys($globalFilters[$dataKey]) as Array<keyof filterUnion>;
 </script>
 
 <div class="filter_container {collapsed ? ' collapsed' : ''}">
@@ -29,7 +27,7 @@
       <Counter inFilter={true} />
     {/if}
     {#each filterKeys as key}
-      <SubFilter {key} {dataKey} {filterFunction} />
+      <SubFilter {key} />
     {/each}
     <slot />
   </div>
