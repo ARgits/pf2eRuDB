@@ -6,6 +6,7 @@ import type {
   FeatType,
   SpellType,
   actionFilter,
+  ancestryType,
   backgroundFilter,
   creatureFilter,
   featFilter,
@@ -35,6 +36,7 @@ const creatures: CreatureType[] = [];
 const traits: Set<string> = new Set();
 const paragraphs: Set<string> = new Set();
 const tables: Map<string, { fullName: string; desc: string }> = new Map();
+const ancestries: ancestryType[] = [];
 const allData: any[] = [];
 let $: cheerio.CheerioAPI;
 function prepareData(data: any): Data {

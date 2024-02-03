@@ -1,27 +1,28 @@
 <script lang="ts">
-  import { getContext } from "svelte";
+  import { getContext, setContext } from "svelte";
   import type { globalFilter, filterUnion, TableData } from "../../types";
-  import type { Writable } from "svelte/store";
+  import { writable, type Writable } from "svelte/store";
   import SubFilter from "./SubFilter.svelte";
   import Counter from "../utilityComponents/Counter.svelte";
 
-  const dataKey:Writable<keyof TableData> = getContext('currentTab')
+  const dataKey: Writable<keyof TableData> = getContext("currentTab");
   let collapsed = true;
   const globalFilters: Writable<globalFilter> = getContext("filters");
   const filterKeys = Object.keys($globalFilters[$dataKey]) as Array<keyof filterUnion>;
+  const shownSubfilter = writable('')
+  setContext('subFilterKey', shownSubfilter)
 </script>
 
 <div class="filter_container {collapsed ? ' collapsed' : ''}">
   <button
-    class="filter_button"
-    on:click={() => {
-      collapsed = !collapsed;
-    }}
-  >
-    <!-- <img src={filterIcon} alt="вкл/выкл фильтр" /> -->
-    <i class="fa-solid fa-filter"></i>
-  </button>
-
+  class="filter_button"
+  on:click={() => {
+    collapsed = !collapsed;
+  }}
+>
+  <!-- <img src={filterIcon} alt="вкл/выкл фильтр" /> -->
+  <i class="fa-solid fa-filter"></i>
+</button>
   <div class="filter_content{collapsed ? ' collapsed' : ''}">
     {#if !collapsed}
       <Counter inFilter={true} />
@@ -33,20 +34,35 @@
   </div>
 </div>
 
+
 <style lang="scss">
   .filter_container {
     display: flex;
-
     padding: 1px;
     position: sticky;
     height: 100%;
-    //overflow-y: auto;
+    // overflow-y: hidden;
     top: 0;
+    // scrollbar-gutter: stable;
+    flex-basis:30%;
+    @media (max-aspect-ratio: 1.1/1){
+      flex-basis: 100%;
+      &.collapsed {
+        flex: 0 0 0;
+        & .filter_content {
+          border: 0;
+          flex: 0 0 0;
+        }
+      }
+    }
   }
   .filter_content {
+    display: flex;
+    flex-direction: column;
     border: 1px solid black;
     border-radius: var(--border-radius);
-    overflow-y: auto;
+    // overflow-y: auto;
+    flex: 1;
   }
   .filter_button {
     height: fit-content;

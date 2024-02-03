@@ -2,10 +2,12 @@
   import { getContext } from "svelte";
   import type { globalFilter, filterUnion, TableData } from "../../types";
   import type { Writable } from "svelte/store";
-  import { fade } from "svelte/transition";
+  import { fade, slide } from "svelte/transition";
   import StatusIcon from "../utilityComponents/statusIcon.svelte";
 
   export let key: keyof filterUnion;
+  const shownSubfilter:Writable<string> = getContext('subFilterKey')
+  // let isCollapsed = true;
   const dataKey: Writable<keyof TableData> = getContext("currentTab");
   console.log($dataKey, key);
   const globalFilters: Writable<globalFilter> = getContext("filters");
@@ -44,62 +46,96 @@
   function optionSearch(val: string) {
     return val.toLowerCase().includes($globalFilters[$dataKey][key].search.toLowerCase());
   }
+  function changeVisibility() {
+    $shownSubfilter = $shownSubfilter===key?'':key
+  }
 </script>
 
 <div class="filter_item">
-  <span>{$globalFilters[$dataKey][key].name}</span>
-  {#if $globalFilters[$dataKey][key].hasSearch}
-    <input type="text" bind:value={$globalFilters[$dataKey][key].search} placeholder="поиск" />
-  {/if}
-  {#if $globalFilters[$dataKey][key].multiply !== undefined}
-    <label>
-      Должен присутствовать каждый признак
-      <input type="checkbox" bind:checked={$globalFilters[$dataKey][key].multiply} />
-    </label>
-  {/if}
-  {#if $globalFilters[$dataKey][key].selection.includes("Radio")}
-    <div class="option_container">
-      {#each $globalFilters[$dataKey][key].options as val}
-        <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
-        <!-- svelte-ignore a11y-click-events-have-key-events -->
-        <!-- svelte-ignore a11y-label-has-associated-control -->
-        {#if optionSearch(val)}
-          <label
-            transition:fade={{ duration: 200 }}
-            class="option_item"
-            on:click={() => {
-              changeOptionState(key, val);
-            }}
-          >
-            {val}
-            <StatusIcon icon={getStateIcon(key, val)} />
+  <!-- svelte-ignore a11y-click-events-have-key-events -->
+  <!-- svelte-ignore a11y-no-static-element-interactions -->
+  <div class="filter_label" on:click={changeVisibility}>
+    <span>{$globalFilters[$dataKey][key].name}</span>
+    {#if $shownSubfilter!==key}
+      <i class="fa-solid fa-caret-down"></i>
+    {:else}
+      <i class="fa-solid fa-caret-up"></i>
+    {/if}
+  </div>
+  {#if $shownSubfilter===key}
+    <div class="filter_item_content" transition:slide={{ duration: 250 }}>
+      {#if $globalFilters[$dataKey][key].hasSearch}
+        <input type="text" bind:value={$globalFilters[$dataKey][key].search} placeholder="поиск" />
+      {/if}
+      {#if $globalFilters[$dataKey][key].multiply !== undefined}
+        <label>
+          Должен присутствовать каждый признак
+          <input type="checkbox" bind:checked={$globalFilters[$dataKey][key].multiply} />
+        </label>
+      {/if}
+      {#if $globalFilters[$dataKey][key].selection.includes("Radio")}
+        <div class="option_container">
+          {#each $globalFilters[$dataKey][key].options as val}
+            <!-- svelte-ignore a11y-no-noninteractive-element-interactions -->
+            <!-- svelte-ignore a11y-click-events-have-key-events -->
+            <!-- svelte-ignore a11y-label-has-associated-control -->
+            {#if optionSearch(val)}
+              <label
+                transition:fade={{ duration: 200 }}
+                class="option_item"
+                on:click={() => {
+                  changeOptionState(key, val);
+                }}
+              >
+                {val}
+                <StatusIcon icon={getStateIcon(key, val)} />
+              </label>
+            {/if}
+          {/each}
+        </div>
+      {:else}
+        <div class="option_item">
+          <label>
+            мин
+            <select bind:value={$globalFilters[$dataKey][key].value[0]}>
+              {#each getMinArr(key) as option}
+                <option>{option}</option>
+              {/each}
+            </select>
           </label>
-        {/if}
-      {/each}
-    </div>
-  {:else}
-    <div class="option_item">
-      <label>
-        мин
-        <select bind:value={$globalFilters[$dataKey][key].value[0]}>
-          {#each getMinArr(key) as option}
-            <option>{option}</option>
-          {/each}
-        </select>
-      </label>
-      <label>
-        макс
-        <select bind:value={$globalFilters[$dataKey][key].value[1]}>
-          {#each getMaxArr(key) as option}
-            <option>{option}</option>
-          {/each}
-        </select>
-      </label>
+          <label>
+            макс
+            <select bind:value={$globalFilters[$dataKey][key].value[1]}>
+              {#each getMaxArr(key) as option}
+                <option>{option}</option>
+              {/each}
+            </select>
+          </label>
+        </div>
+      {/if}
     </div>
   {/if}
 </div>
 
 <style lang="scss">
+  .filter_item {
+    display: flex;
+    flex-direction: column;
+    min-height: 1.5rem;
+    &:not(:first-child) {
+      border-top: 1px solid black;
+    }
+    &_content {
+      overflow-y: auto;
+      scrollbar-gutter: stable;
+    }
+  }
+  .filter_label {
+    display: flex;
+    > * {
+      margin-left: auto;
+    }
+  }
   .option_container {
     padding: 0.5rem 0.25rem;
     display: flex;

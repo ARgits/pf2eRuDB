@@ -1,14 +1,7 @@
 //
 //Content types
 //
-declare global {
-  interface Window {
-    PF2e: {
-      data:{},
-      filters:{}
-    };
-  }
-}
+
 interface Data {
   backgrounds: BackgroundType[];
   spells: SpellType[];
@@ -36,6 +29,17 @@ interface generalContent {
   desc: string;
   src: string;
   id: string;
+}
+type ancestryType = {
+  name:string,
+  originalName:string,
+  id:string,
+  size:'tiny'|'small'|'medium'|'large'|'huge'|'gargantuan',
+  reach:number,
+  speed:number,
+  traits:string[],
+  senses:string[],
+  rarity:'common'|'uncommon'|'rare'
 }
 type tableHeaders = { [k in keyof Tabs]: { name: string; value: keyof Content[k] }[] };
 type tableHeadersGeneral = { name: string; value: keyof generalContent }[];

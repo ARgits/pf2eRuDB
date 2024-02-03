@@ -2,10 +2,8 @@
 
 
 import { encode } from 'js-base64';
-import { derived, writable } from 'svelte/store';
-import type { backgroundFilter, featFilter, spellsFilter, actionFilter, filterUnion, TableData, Entries } from '../../types';
+import type {filterUnion, TableData, Entries } from '../../types';
 
-//
 const filterModules = import.meta.glob('../../data/prod/filter-*.json', {import:'default'})
 export const obj={}
 for(const path in filterModules){

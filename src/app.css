@@ -262,13 +262,6 @@ div.admonition.clarification {
     }
   }
   div.main {
-    & > .filter_container.collapsed {
-      flex: 0 0 0;
-      width: 0;
-      & .filter_content {
-        border: 0;
-      }
-    }
     & > div.content {
       flex: 1;
     }
