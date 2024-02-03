@@ -52,6 +52,9 @@
         & .filter_content {
           border: 0;
           flex: 0 0 0;
+          :global(.filter_item){
+            display: none;
+          }
         }
       }
     }
