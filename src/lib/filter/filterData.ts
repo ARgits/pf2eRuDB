@@ -17,8 +17,11 @@ for(const path in filterModules){
 
 
 export function changeUrlOnFilter(filterValue: filterUnion, dataKey: keyof TableData) {
+  if(dataKey==='favorites'){
+    window.history.replaceState({ tab:dataKey }, "", `?tab=${dataKey}`);
+    return
+  }
   let filterValueAndDisabled = {};
-  const tab = dataKey;
   for (const [key, val] of Object.entries(filterValue) as Entries<filterUnion>) {
     const tempObject = {};
     if (val.value.join() !== val.defaultValue.join()) {
@@ -32,9 +35,9 @@ export function changeUrlOnFilter(filterValue: filterUnion, dataKey: keyof Table
   if (Object.keys(filterValueAndDisabled).length) {
     const filterParams = strToBase64(JSON.stringify(filterValueAndDisabled));
 
-    window.history.replaceState({ tab, filter: filterParams }, "", `?tab=${tab}&&filter=${filterParams}`);
+    window.history.replaceState({ tab:dataKey, filter: filterParams }, "", `?tab=${dataKey}&&filter=${filterParams}`);
   } else {
-    window.history.replaceState({ tab }, "", `?tab=${tab}`);
+    window.history.replaceState({ tab:dataKey }, "", `?tab=${dataKey}`);
   }
 }
 function strToBase64(str: string) {

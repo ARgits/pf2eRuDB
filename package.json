@@ -1,11 +1,11 @@
 {
   "name": "pf2erudb",
   "private": true,
-  "version": "0.0.1",
+  "version": "0.1.1",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "home-build":"node --loader ts-node/esm prepareForBuild.ts && vite build",
+    "home-build": "node --loader ts-node/esm prepareForBuild.ts && vite build",
     "build": "vite build",
     "preview": "vite preview",
     "check": "svelte-check --tsconfig ./tsconfig.json",
@@ -26,6 +26,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@vercel/analytics": "^1.1.1",
+    "@vercel/speed-insights": "^1.0.9",
     "axios": "^1.6.2",
     "cheerio": "^1.0.0-rc.12",
     "gsap": "^3.12.4",

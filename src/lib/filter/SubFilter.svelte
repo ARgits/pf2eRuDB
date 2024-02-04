@@ -7,12 +7,9 @@
 
   export let key: keyof filterUnion;
   const shownSubfilter:Writable<string> = getContext('subFilterKey')
-  // let isCollapsed = true;
   const dataKey: Writable<keyof TableData> = getContext("currentTab");
-  console.log($dataKey, key);
   const globalFilters: Writable<globalFilter> = getContext("filters");
   function getStateIcon(key: keyof filterUnion, val: string) {
-    // console.log("иконка изменилась");
     const excluded = $globalFilters[$dataKey][key].excluded.includes(val) ? " excluded" : "";
     if ($globalFilters[$dataKey][key].value.includes(val)) return "fa-square-check" + excluded;
     if ($globalFilters[$dataKey][key].disabled.includes(val)) return "fa-square-xmark" + excluded;
