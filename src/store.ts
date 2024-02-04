@@ -1,6 +1,6 @@
 import { derived, writable, type Writable } from "svelte/store";
 import { changeUrlOnFilter, obj } from "./lib/filter/filterData";
-import type { backgroundFilter, featFilter, spellsFilter, actionFilter, Data, TableData } from "./types";
+import type { backgroundFilter, featFilter, spellsFilter, actionFilter, Data, TableData, generalContent } from "./types";
 import { onDestroy } from "svelte";
 function createDataStore() {
   const obj = {
@@ -73,18 +73,35 @@ export const filters = writable({
 });
 export const currentTab = writable("backgrounds") as Writable<keyof TableData>;
 export function watch(deps, fn) {
-	const unsubscribe = derived(deps, values => values).subscribe(fn);
-	onDestroy(unsubscribe);
+  const unsubscribe = derived(deps, (values) => values).subscribe(fn);
+  onDestroy(unsubscribe);
 }
 
 export const dataStore = createDataStore();
-export const allData = derived(dataStore,($dataStore)=>{
-    const arr = []
-    for(const val of Object.values($dataStore)){
-        arr.push(...val)
-    }
-    return arr
-})
+export const allData = derived(dataStore, ($dataStore) => {
+  const arr = [];
+  for (const val of Object.values($dataStore)) {
+    arr.push(...val);
+  }
+  return arr;
+});
+function createFavoriteStore() {
+  const { subscribe, set, update } = writable([] as generalContent[]);
+  function setFavorite(content:generalContent){
+    update((value)=>{
+      const index = value.findIndex((item)=>item.id===content.id)
+      if(index===-1) return [...value, content]
+      value.splice(index,1)
+      return value
+    })
+  }
+  return {
+    subscribe,
+    update,
+    setFavorite
+  };
+}
+export const favoritesStore = createFavoriteStore()
 /**
  * У нас должен быть 1 store "исходный"
  * derived stores в svelte позволяют зависеть от нескольких store одновременно

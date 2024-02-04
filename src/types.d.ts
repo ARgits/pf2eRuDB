@@ -18,7 +18,7 @@ type Content = {
 };
 type ContentByKey<K extends tableData> = Content[K];
 type contentTableUnion = BackgroundType[] | SpellType[] | FeatType[];
-type TableData = Omit<Data, "traits" | "paragraphs">;
+type TableData = {favorites:generalContent[]} & Omit<Data, "traits" | "paragraphs" | "tables" | "allData">;
 type actionTypes = "реакция" | "свободное действие" | "1 действие" | "2 действия" | "3 действия";
 interface generalContent {
   name: string;
@@ -31,16 +31,16 @@ interface generalContent {
   id: string;
 }
 type ancestryType = {
-  name:string,
-  originalName:string,
-  id:string,
-  size:'tiny'|'small'|'medium'|'large'|'huge'|'gargantuan',
-  reach:number,
-  speed:number,
-  traits:string[],
-  senses:string[],
-  rarity:'common'|'uncommon'|'rare'
-}
+  name: string;
+  originalName: string;
+  id: string;
+  size: "tiny" | "small" | "medium" | "large" | "huge" | "gargantuan";
+  reach: number;
+  speed: number;
+  traits: string[];
+  senses: string[];
+  rarity: "common" | "uncommon" | "rare";
+};
 type tableHeaders = { [k in keyof Tabs]: { name: string; value: keyof Content[k] }[] };
 type tableHeadersGeneral = { name: string; value: keyof generalContent }[];
 type tableHeadersByKey<K extends keyof tableHeaders> = tableHeaders[k];
@@ -81,7 +81,7 @@ type globalFilter = {
   creatures: CreatureFilter;
 };
 type Filter<Type> = {
-  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName"|"id">]: filterProps;
+  [Property in keyof Omit<Type, "name" | "desc" | "fullName" | "src" | "originalName" | "id">]: filterProps;
 };
 type filterProps = {
   name: string;
@@ -113,7 +113,7 @@ export type backgroundFilter = Filter<BgFilterKeys>;
 export type spellsFilter = Filter<SpellFilterKeys>;
 export type featFilter = Filter<FeatFilterKeys>;
 export type actionFilter = Filter<ActionFilterKeys>;
-export type creatureFilter = Filter<CreatureFilterKeys>
+export type creatureFilter = Filter<CreatureFilterKeys>;
 //
 //Tabs type
 //
@@ -121,13 +121,14 @@ type tab = {
   visible: boolean;
   name: string;
   key: keyof Tabs;
-  maxItems:number;
+  maxItems: number;
 };
 export interface Tabs {
   feats: tab;
   backgrounds: tab;
   spells: tab;
   actions: tab;
+  favorites: tab;
 }
 //
 //Utility types

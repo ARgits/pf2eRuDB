@@ -1,14 +1,11 @@
 <script lang="ts">
   import { getContext, setContext } from "svelte";
-  import { derived, get, writable, type Writable } from "svelte/store";
-  import type { ActionType, BackgroundType, Content, Data, Entries, FeatType, SpellType, TableData, filterProps, filterUnion, globalFilter, tableHeadersByKey } from "../types";
+  import { derived, writable, type Writable } from "svelte/store";
+  import type { ActionType, BackgroundType, Entries, FeatType, SpellType, TableData, filterProps, filterUnion, globalFilter, tableHeadersByKey } from "../types";
   import Counter from "./utilityComponents/Counter.svelte";
-  import { filter, searchByName } from "./filter/filterFunctions";
   import Filter from "./filter/Filter.svelte";
   import Pagination from "./utilityComponents/Pagination.svelte";
   import Row from "./row.svelte";
-  import { changeUrlOnFilter } from "./filter/filterData";
-  import { getData } from "./getData";
   import { dataStore } from "../store";
 
   export let tableHeaders: tableHeadersByKey<typeof dataKey>;

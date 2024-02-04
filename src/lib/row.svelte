@@ -5,6 +5,7 @@
   import { tick } from "svelte";
   import TooltipFromAction from "./tooltip/TooltipFromAction.svelte";
   import html2canvas from "html2canvas";
+  import { favoritesStore } from "../store";
   // onMount(() => {
   //   console.log("mounted", content.id);
   // });
@@ -60,6 +61,15 @@
     console.log("destroyed");
   }
   let cellElem: HTMLDivElement;
+  function setFavorite(){
+    if($favoritesStore.includes(content)){
+      const index = $favoritesStore.findIndex((val)=>val.id===content.id)
+      $favoritesStore.splice(index,1)
+      $favoritesStore = $favoritesStore
+    }else{
+      $favoritesStore = [...$favoritesStore, content]
+    }
+  }
 </script>
 
 {#each tableHeaders as header, key}
@@ -71,6 +81,15 @@
         <i class="fa-solid fa-download"></i>
       </button>
     {/if} -->
+    {#if key === tableHeaders.length - 1}
+      <button class="icon favorite" on:click|stopPropagation={()=>favoritesStore.setFavorite(content)}>
+        {#if $favoritesStore.includes(content)}
+          <i class="fa-solid fa-bookmark"></i>
+        {:else}
+          <i class="fa-regular fa-bookmark"></i>
+        {/if}
+      </button>
+    {/if}
     {#if header.value === "fullName"}
       <div>{@html content.fullName}</div>
     {:else if header.value === "traits"}
@@ -91,21 +110,20 @@
   </div>
 {/each}
 {#if collapsibleContent.get(content.fullName)}
-<!-- svelte-ignore a11y-no-static-element-interactions -->
-<div bind:this={description} class="td description {tdClass}">
-  <div class="item_content" transition:slide={{ duration: 500 }}>
-    {#if content.traits && !tableHeaders.filter((header) => header.value === "traits").length}
-      <div class="traits">
-        {#each content.traits as trait}
-          <span class="trait_item">{trait}</span>
-        {/each}
-      </div>
-    {/if}
-    {@html content.desc}
+  <!-- svelte-ignore a11y-no-static-element-interactions -->
+  <div bind:this={description} class="td description {tdClass}">
+    <div class="item_content" transition:slide={{ duration: 500 }}>
+      {#if content.traits && !tableHeaders.filter((header) => header.value === "traits").length}
+        <div class="traits">
+          {#each content.traits as trait}
+            <span class="trait_item">{trait}</span>
+          {/each}
+        </div>
+      {/if}
+      {@html content.desc}
+    </div>
+    <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}> Скрыть описание </button>
   </div>
-  <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}> Скрыть описание </button>
- 
-</div>
 {/if}
 
 <style lang="scss">
