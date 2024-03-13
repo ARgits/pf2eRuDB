@@ -61,35 +61,22 @@
     console.log("destroyed");
   }
   let cellElem: HTMLDivElement;
-  function setFavorite(){
-    if($favoritesStore.includes(content)){
-      const index = $favoritesStore.findIndex((val)=>val.id===content.id)
-      $favoritesStore.splice(index,1)
-      $favoritesStore = $favoritesStore
-    }else{
-      $favoritesStore = [...$favoritesStore, content]
-    }
-  }
 </script>
 
 {#each tableHeaders as header, key}
   <!-- svelte-ignore a11y-click-events-have-key-events -->
   <!-- svelte-ignore a11y-no-static-element-interactions -->
-  <div class="td{tdClass} {key === 0 ? 'first' : key === tableHeaders.length - 1 ? 'last' : ''}" on:click|preventDefault={collapse} bind:this={cellElem}>
+  <div
+    class="td{tdClass} {key === 0 ? 'first' : key === tableHeaders.length - 1 ? 'last' : ''}"
+    on:click|preventDefault={collapse}
+    bind:this={cellElem}
+  >
     <!-- {#if key === tableHeaders.length - 1}
       <button class="download" on:click|preventDefault|stopPropagation={download}>
         <i class="fa-solid fa-download"></i>
       </button>
     {/if} -->
-    {#if key === tableHeaders.length - 1}
-      <button class="icon favorite" on:click|stopPropagation={()=>favoritesStore.setFavorite(content)}>
-        {#if $favoritesStore.includes(content)}
-          <i class="fa-solid fa-bookmark"></i>
-        {:else}
-          <i class="fa-regular fa-bookmark"></i>
-        {/if}
-      </button>
-    {/if}
+
     {#if header.value === "fullName"}
       <div>{@html content.fullName}</div>
     {:else if header.value === "traits"}
@@ -97,15 +84,26 @@
         <span class="trait_item">{trait}</span>
       {/each}
     {:else if Array.isArray(content[header.value])}
-      <div style="display: flex; text-align:left;text-indent:-1rem;margin-left:1rem; flex-wrap:wrap; gap:0.25rem; flex-direction:column">
+      <p
+        style="display: inline-flex; margin:0; text-align:left;text-indent:-1rem;margin-left:1rem; flex-wrap:wrap; gap:0.25rem; flex-direction:column"
+      >
         {#each content[header.value] as subVal, key}
           <div>{key + 1}. {Array.isArray(subVal) ? subVal.join(" или ") : subVal}</div>
         {/each}
-      </div>
+      </p>
     {:else}
       <div>
         {content[header.value]}
       </div>
+    {/if}
+    {#if key === tableHeaders.length - 1}
+      <button class="icon favorite" on:click|stopPropagation={() => favoritesStore.setFavorite(content.id)}>
+        {#if $favoritesStore.includes(content.id)}
+          <i class="fa-solid fa-bookmark"></i>
+        {:else}
+          <i class="fa-regular fa-bookmark"></i>
+        {/if}
+      </button>
     {/if}
   </div>
 {/each}
@@ -122,7 +120,9 @@
       {/if}
       {@html content.desc}
     </div>
-    <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}> Скрыть описание </button>
+    <button class="collapsible_button" on:click={collapse} transition:fade={{ duration: 400 }}>
+      Скрыть описание
+    </button>
   </div>
 {/if}
 

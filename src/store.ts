@@ -25,8 +25,7 @@ function createDataStore() {
   };
 
   const getKeyData = async (key: string) => {
-    if (isExported[key]) return;
-    console.log("getKeydata", key);
+    if (isExported[key]) return true;
     let modules;
     switch (key) {
       case "spells":
@@ -86,12 +85,17 @@ export const allData = derived(dataStore, ($dataStore) => {
   return arr;
 });
 function createFavoriteStore() {
-  const { subscribe, set, update } = writable([] as generalContent[]);
-  function setFavorite(content:generalContent){
-    update((value)=>{
-      const index = value.findIndex((item)=>item.id===content.id)
-      if(index===-1) return [...value, content]
-      value.splice(index,1)
+  if (localStorage) { console.log('localStorage есть', localStorage) }
+  const { subscribe, set, update } = writable(JSON.parse(localStorage.getItem('favorites')) ?? [] as generalContent["id"][]);
+  function setFavorite(contentId: generalContent["id"]) {
+    update((value) => {
+      const index = value.findIndex((item) => item === contentId)
+      if (index === -1) {
+        localStorage.setItem('favorites', JSON.stringify([...value, contentId]))
+        return [...value, contentId]
+      }
+      value.splice(index, 1)
+      localStorage.setItem('favorites', JSON.stringify(value))
       return value
     })
   }

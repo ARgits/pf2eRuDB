@@ -1,7 +1,18 @@
 <script lang="ts">
   import { getContext, setContext } from "svelte";
   import { derived, writable, type Writable } from "svelte/store";
-  import type { ActionType, BackgroundType, Entries, FeatType, SpellType, TableData, filterProps, filterUnion, globalFilter, tableHeadersByKey } from "../types";
+  import type {
+    ActionType,
+    BackgroundType,
+    Entries,
+    FeatType,
+    SpellType,
+    TableData,
+    filterProps,
+    filterUnion,
+    globalFilter,
+    tableHeadersByKey,
+  } from "../types";
   import Counter from "./utilityComponents/Counter.svelte";
   import Filter from "./filter/Filter.svelte";
   import Pagination from "./utilityComponents/Pagination.svelte";
@@ -32,9 +43,11 @@
             break;
           case "singleRadio":
             const strValue = item[key].toString();
-            criteria += (val.value.includes(strValue) || val.value.length === 0) && !val.disabled.includes(strValue) ? 1 : 0;
+            criteria +=
+              (val.value.includes(strValue) || val.value.length === 0) && !val.disabled.includes(strValue) ? 1 : 0;
             break;
           case "multipleRadio":
+            console.log(item[key], item, key);
             const arrValue = (item[key] as string[]).flat();
             if (val.disabled.some((v) => arrValue.includes(v))) {
               criteria += 0;
@@ -111,6 +124,7 @@
     top: 0;
     font-size: larger;
     background-image: var(--cell-even-background-image);
+    z-index: 1;
   }
   .grid {
     display: grid;

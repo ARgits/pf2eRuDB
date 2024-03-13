@@ -100,13 +100,14 @@ button {
   &:hover {
     border-color: black;
   }
-  &.icon{
+  &.icon {
     padding: 0;
     background: none;
-    border:none;
-    &.favorite{
-      position:absolute;
-      right:0.25rem;
+    border: none;
+    &.favorite {
+      position: absolute;
+      right: 0.25rem;
+      z-index: 0;
     }
   }
 }

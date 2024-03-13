@@ -6,7 +6,7 @@
   import StatusIcon from "../utilityComponents/statusIcon.svelte";
 
   export let key: keyof filterUnion;
-  const shownSubfilter:Writable<string> = getContext('subFilterKey')
+  const shownSubfilter: Writable<string> = getContext("subFilterKey");
   const dataKey: Writable<keyof TableData> = getContext("currentTab");
   const globalFilters: Writable<globalFilter> = getContext("filters");
   function getStateIcon(key: keyof filterUnion, val: string) {
@@ -35,16 +35,20 @@
     $globalFilters[$dataKey][key] = { ...$globalFilters[$dataKey][key], disabled, value };
   }
   function getMinArr(key: keyof filterUnion) {
-    return $globalFilters[$dataKey][key].options.filter((opt: string) => parseInt(opt) <= parseInt($globalFilters[$dataKey][key].value[1]));
+    return $globalFilters[$dataKey][key].options.filter(
+      (opt: string) => parseInt(opt) <= parseInt($globalFilters[$dataKey][key].value[1])
+    );
   }
   function getMaxArr(key: keyof filterUnion) {
-    return $globalFilters[$dataKey][key].options.filter((opt: string) => parseInt(opt) >= parseInt($globalFilters[$dataKey][key].value[0]));
+    return $globalFilters[$dataKey][key].options.filter(
+      (opt: string) => parseInt(opt) >= parseInt($globalFilters[$dataKey][key].value[0])
+    );
   }
   function optionSearch(val: string) {
     return val.toLowerCase().includes($globalFilters[$dataKey][key].search.toLowerCase());
   }
   function changeVisibility() {
-    $shownSubfilter = $shownSubfilter===key?'':key
+    $shownSubfilter = $shownSubfilter === key ? "" : key;
   }
 </script>
 
@@ -53,13 +57,13 @@
   <!-- svelte-ignore a11y-no-static-element-interactions -->
   <div class="filter_label" on:click={changeVisibility}>
     <span>{$globalFilters[$dataKey][key].name}</span>
-    {#if $shownSubfilter!==key}
+    {#if $shownSubfilter !== key}
       <i class="fa-solid fa-caret-down"></i>
     {:else}
       <i class="fa-solid fa-caret-up"></i>
     {/if}
   </div>
-  {#if $shownSubfilter===key}
+  {#if $shownSubfilter === key}
     <div class="filter_item_content" transition:slide={{ duration: 250 }}>
       {#if $globalFilters[$dataKey][key].hasSearch}
         <input type="text" bind:value={$globalFilters[$dataKey][key].search} placeholder="поиск" />
@@ -84,7 +88,7 @@
                   changeOptionState(key, val);
                 }}
               >
-                {val}
+                {$globalFilters[$dataKey][key].optionsName?.[val] ?? val}
                 <StatusIcon icon={getStateIcon(key, val)} />
               </label>
             {/if}

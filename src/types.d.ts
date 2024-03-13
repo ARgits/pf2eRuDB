@@ -18,7 +18,7 @@ type Content = {
 };
 type ContentByKey<K extends tableData> = Content[K];
 type contentTableUnion = BackgroundType[] | SpellType[] | FeatType[];
-type TableData = {favorites:generalContent[]} & Omit<Data, "traits" | "paragraphs" | "tables" | "allData">;
+type TableData = { favorites: generalContent[] } & Omit<Data, "traits" | "paragraphs" | "tables" | "allData">;
 type actionTypes = "реакция" | "свободное действие" | "1 действие" | "2 действия" | "3 действия";
 interface generalContent {
   name: string;
@@ -64,7 +64,7 @@ export interface SpellType extends generalContent {
   castingType: string[];
   level: number;
 }
-export interface CreatureType extends generalContent {}
+export interface CreatureType extends generalContent { }
 export interface FeatType extends generalContent {
   action: string;
   level: number;
@@ -94,6 +94,7 @@ type filterProps = {
   search: string;
   hasSearch: boolean;
   defaultValue: string[];
+  optionsName?: Record<string, string>
 };
 type filterUnion = backgroundFilter | spellsFilter | featFilter | actionFilter;
 type SelectionByProperty = {

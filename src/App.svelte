@@ -3,19 +3,18 @@
   import Table from "./lib/table.svelte";
   import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
-  import { filters, currentTab, watch, favoritesStore } from "./store";
+  import { filters, currentTab, watch, } from "./store";
   // import { data } from "./lib/getData";
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
   import { dataStore } from "./store";
   import { changeUrlOnFilter } from "./lib/filter/filterData";
-  import { fade, slide } from "svelte/transition";
+  import FavoritesTab from "./lib/favoritesTab.svelte";
   // import { getData } from "./lib/getData";
   gsap.registerPlugin(Draggable);
   setContext("currentTab", currentTab);
 
   const tabs: Tabs = {
-
     feats: {
       visible: true,
       name: "Способности",
@@ -62,9 +61,9 @@
       $filters[$currentTab] = parsedFilterValue;
     }
   }
-  watch([filters, currentTab], ([$filters, $currentTab]) => {
+  watch([filters, currentTab], ([filt, currTab]) => {
     console.log("filters changed");
-    changeUrlOnFilter($filters[$currentTab], $currentTab);
+    changeUrlOnFilter(filt[currTab], currTab);
   });
   function base64ToStr(base64: string) {
     const binString = decode(base64);
@@ -76,7 +75,6 @@
   setContext("filters", filters);
 
   const tableHeaders: tableHeaders = {
-    
     feats: [
       {
         name: "Название",
@@ -125,6 +123,7 @@
   };
   let headerHeight: number;
 </script>
+
 <main style="--header-height:{headerHeight}px">
   <div class="header" bind:clientHeight={headerHeight}>
     {#if Object.values(tabs).filter((val) => val.visible).length > 1}
@@ -139,7 +138,7 @@
           >
             {val.name}
           </button>
-          {#if val.maxItems !== $dataStore[val.key]?.length && val.key !== "favorites"}
+          {#if val.maxItems !== $dataStore[val.key]?.length && !dataStore.getKeyData(val.key) && val.key !== "favorites"}
             <progress max={val.maxItems} value={$dataStore[val.key].length} />
           {/if}
         </div>
@@ -151,28 +150,7 @@
       {#if $currentTab !== "favorites"}
         <Table tableHeaders={tableHeaders[$currentTab]} />
       {:else}
-        <div class="favorites">
-          {#each $favoritesStore as item (item.id)}
-            <div class="favorite_item" transition:fade={{duration:250}}>
-              <div class="content">
-                <div>
-                  {item.name}
-                </div>
-                <div>
-                  {@html item.desc}
-                </div>
-              </div>
-
-              <button class="icon favorite" on:click|stopPropagation={() => favoritesStore.setFavorite(item)}>
-                {#if $favoritesStore.includes(item)}
-                  <i class="fa-solid fa-bookmark"></i>
-                {:else}
-                  <i class="fa-regular fa-bookmark"></i>
-                {/if}
-              </button>
-            </div>
-          {/each}
-        </div>
+        <FavoritesTab></FavoritesTab>
       {/if}
     </div>
   {/key}
@@ -183,31 +161,7 @@
     height: calc(100vh - 2rem);
     height: calc(100dvh - 2rem);
   }
-  .favorites {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 10px;
-    overflow-y: auto;
-    height: 90%;
-    align-content: flex-start;
-    .favorite_item {
-      display: flex;
-      gap: 10px;
-      border: 1px solid black;
-      justify-content: space-between;
-      padding: 5px;
-      flex:1 0 200px;
-      .content {
-        display: flex;
-        flex-wrap: wrap;
-        flex-direction: column;
-      }
-    }
-    button.favorite {
-      position: unset;
-      align-self: flex-start;
-    }
-  }
+
   .header {
     height: fit-content;
     max-height: 10%;
