@@ -4,13 +4,11 @@
   import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
   import { filters, currentTab, watch, } from "./store";
-  // import { data } from "./lib/getData";
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
   import { dataStore } from "./store";
   import { changeUrlOnFilter } from "./lib/filter/filterData";
   import FavoritesTab from "./lib/favoritesTab.svelte";
-  // import { getData } from "./lib/getData";
   gsap.registerPlugin(Draggable);
   setContext("currentTab", currentTab);
 
