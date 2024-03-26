@@ -10,5 +10,5 @@
     "noEmit": true,
     "target": "ESNext"
   },
-  "include": ["vite.config.ts", "src/data/dev/prepareData.ts", "src/lib/constants.ts"]
+  "include": ["vite.config.ts", "src/data/dev/prepareData.ts", "src/components/constants.ts", "src/manualData/*"]
 }

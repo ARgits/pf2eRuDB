@@ -10,11 +10,12 @@ interface Data {
   creatures: CreatureType[];
   traits: Set<string>;
   paragraphs: Set<string>;
+  // biome-ignore lint/suspicious/noExplicitAny: <explanation>
   allData: any[];
   tables: Map<string, { fullName: string; desc: string }>;
 }
 type Content = {
-  [k in keyof TableData]: k extends "backgrounds" ? BackgroundType : k extends "spells" ? SpellType : FeatType;
+  [k in keyof TableData]: k extends "backgrounds" ? BackgroundType : k extends "spells" ? SpellType : k extends "feats" ? FeatType : k extends "actions" ? ActionType : CreatureType;
 };
 type ContentByKey<K extends tableData> = Content[K];
 type contentTableUnion = BackgroundType[] | SpellType[] | FeatType[];
@@ -51,6 +52,7 @@ export interface BackgroundType extends generalContent {
   lore: string;
   src: string;
   customAbs: string;
+  skills: string[]
 }
 export interface ActionType extends generalContent {
   action: string;
@@ -63,12 +65,27 @@ export interface SpellType extends generalContent {
   action: string;
   castingType: string[];
   level: number;
+  save: string[]
 }
-export interface CreatureType extends generalContent { }
+export interface CreatureType extends generalContent {
+  level: number,
+  perception: number,
+  senses: string[],
+  languages: string[],
+  skills: Record<string, number>,
+  attributes: Record<string, number>,
+  hp: number,
+  defences: Record<string, number>,
+  speed: Record<string, number>,
+  melee?: string,
+  range?: string,
+  spells?: string[]
+}
 export interface FeatType extends generalContent {
   action: string;
   level: number;
   archetype: string;
+  skills: string[]
 }
 //
 //Filters Type
@@ -85,9 +102,8 @@ type Filter<Type> = {
 };
 type filterProps = {
   name: string;
-  selection: "singleRadio" | "multipleRadio" | "minMax";
+
   value: string[];
-  options: string[];
   multiply?: boolean;
   disabled: string[];
   excluded: string[];
@@ -95,8 +111,21 @@ type filterProps = {
   hasSearch: boolean;
   defaultValue: string[];
   optionsName?: Record<string, string>
-};
-type filterUnion = backgroundFilter | spellsFilter | featFilter | actionFilter;
+} & (singleRadioProps | multipleRadio | minMax);
+type filterUnion = backgroundFilter | spellsFilter | featFilter | actionFilter | creatureFilter;
+type singleRadioProps = {
+  selection: "singleRadio",
+  options: string[],
+}
+type multipleRadio = {
+  selection: "multipleRadio",
+  options: string[]
+}
+type minMax = {
+  selection: "minMax",
+  min: number,
+  max: number
+}
 type SelectionByProperty = {
   rarity: "singleRadio";
   level: "minMax";
@@ -107,9 +136,9 @@ type SelectionByProperty = {
 };
 type BgFilterKeys = Omit<BackgroundType, "attributeDesc" | "feat" | "customAbs" | "lore" | "traits">;
 type SpellFilterKeys = Omit<SpellType, "">;
-type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action" | "archetype">;
+type FeatFilterKeys = Pick<FeatType, "traits" | "rarity" | "level" | "action" | "archetype" | "skills">;
 type ActionFilterKeys = Pick<ActionType, "traits", "action">;
-type CreatureFilterKeys = Omit<CreatureType, "">;
+type CreatureFilterKeys = Pick<CreatureType, "traits" | "rarity">;
 export type backgroundFilter = Filter<BgFilterKeys>;
 export type spellsFilter = Filter<SpellFilterKeys>;
 export type featFilter = Filter<FeatFilterKeys>;
@@ -130,6 +159,7 @@ export interface Tabs {
   spells: tab;
   actions: tab;
   favorites: tab;
+  creatures: tab
 }
 //
 //Utility types

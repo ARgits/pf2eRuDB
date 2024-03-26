@@ -108,7 +108,7 @@
             "defaultValue": []
         },
         "rarity": {
-            "name": "редкость",
+            "name": "Редкость",
             "value": [],
             "defaultValue": [],
             "disabled": [],
@@ -208,6 +208,29 @@
             "search": "",
             "hasSearch": false,
             "defaultValue": []
+        },
+        "save": {
+            "name": "Защита противника",
+            "selection": "multipleRadio",
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "multiply": false,
+            "options": [
+                "will",
+                "fortitude",
+                "reflex",
+                "ac"
+            ],
+            "search": "",
+            "value": [],
+            "optionsName": {
+                "will": "Воля",
+                "fortitude": "Стойкость",
+                "reflex": "Рефлекс",
+                "ac": "КБ"
+            }
         }
     }
 }

@@ -1,15 +1,26 @@
 <script lang="ts">
-  import { decode } from "js-base64";
-  import Table from "./lib/table.svelte";
-  import type { Tabs, tableHeaders } from "./types";
   import { setContext } from "svelte";
-  import { filters, currentTab, watch, } from "./store";
+  import { decode } from "js-base64";
   import { gsap } from "gsap";
   import { Draggable } from "gsap/Draggable";
-  import { dataStore } from "./store";
-  import { changeUrlOnFilter } from "./lib/filter/filterData";
-  import FavoritesTab from "./lib/favoritesTab.svelte";
+
+  import type { Tabs, tableHeaders } from "./types";
+  import { currentTab, watch } from "./stores/store";
+  import { dataStore } from "@stores/dataStore";
+  import { filters } from "@stores/filterStore";
+
+  import { changeUrlOnFilter } from "@components/filter/filterData";
+  import Table from "@components/table.svelte";
+  import FavoritesTab from "@components/Favorites/favoritesTab.svelte";
+  import { writable } from "svelte/store";
   gsap.registerPlugin(Draggable);
+  gsap.registerEffect({
+    name: "fade",
+    defaults: { duration: 2, onComplete: () => {} }, //defaults get applied to the "config" object passed to the effect below
+    effect: (targets, config) => {
+      return gsap.to(targets, { duration: config.duration, opacity: 0, onComplete: config.onComplete });
+    },
+  });
   setContext("currentTab", currentTab);
 
   const tabs: Tabs = {
@@ -37,6 +48,12 @@
       key: "actions",
       maxItems: 192,
     },
+    creatures: {
+      visible: true,
+      name: "Бестиарий",
+      key: "creatures",
+      maxItems: null,
+    },
     favorites: {
       visible: true,
       name: "Избранное",
@@ -59,20 +76,19 @@
       $filters[$currentTab] = parsedFilterValue;
     }
   }
-  watch([filters, currentTab], ([filt, currTab]) => {
-    console.log("filters changed");
-    changeUrlOnFilter(filt[currTab], currTab);
+  watch([filters, currentTab], ([$filters, $currentTab]) => {
+    console.log("filters changed", $filters);
+    changeUrlOnFilter($filters[$currentTab], $currentTab);
   });
   function base64ToStr(base64: string) {
     const binString = decode(base64);
     return new TextDecoder().decode(Uint8Array.from(binString, (m) => m.codePointAt(0)));
   }
-  dataStore.getData();
-  // console.log(data);
-  // setContext("data", data);
+  setContext("tableView", writable("table"));
+  dataStore.getData().then(() => console.log($dataStore.backgrounds));
   setContext("filters", filters);
 
-  const tableHeaders: tableHeaders = {
+  const tableHeadersValue: tableHeaders = {
     feats: [
       {
         name: "Название",
@@ -118,6 +134,7 @@
       },
     ],
     favorites: [],
+    creatures: [{ name: "Название", value: "fullName" }],
   };
   let headerHeight: number;
 </script>
@@ -136,7 +153,7 @@
           >
             {val.name}
           </button>
-          {#if val.maxItems !== $dataStore[val.key]?.length && !dataStore.getKeyData(val.key) && val.key !== "favorites"}
+          {#if val.maxItems !== $dataStore[val.key]?.length && val.maxItems !== null}
             <progress max={val.maxItems} value={$dataStore[val.key].length} />
           {/if}
         </div>
@@ -146,9 +163,9 @@
   {#key $currentTab}
     <div class="main">
       {#if $currentTab !== "favorites"}
-        <Table tableHeaders={tableHeaders[$currentTab]} />
+        <Table tableHeaders={tableHeadersValue[$currentTab]} />
       {:else}
-        <FavoritesTab></FavoritesTab>
+        <FavoritesTab />
       {/if}
     </div>
   {/key}

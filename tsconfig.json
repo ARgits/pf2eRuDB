@@ -2,6 +2,11 @@
   "extends": "@tsconfig/svelte/tsconfig.json",
   "compilerOptions": {
     "target": "ESNext",
+    "paths":{
+      "@components/*":["./src/components/*"],
+      "@data/*":["./src/data/*"],
+      "@stores/*":["./src/stores/*"]
+    },
     "useDefineForClassFields": true,
     "module": "ESNext",
     "resolveJsonModule": true,
@@ -19,6 +24,6 @@
     "types": ["vite/client"],
     "noEmit": true
   },
-  "include": ["src/data/dev/prepareData.ts", "src/**/*.d.ts", "src/**/*.ts", "src/**/*.js", "src/**/*.svelte", "src/lib/constants.ts"],
+  "include": ["src/data/dev/prepareData.ts", "src/**/*.d.ts", "src/**/*.ts", "src/**/*.js", "src/**/*.svelte", "src/components/constants.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }

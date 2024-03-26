@@ -14,9 +14,11 @@ import type {
   globalFilter,
   spellsFilter,
 } from "../../types";
+import { backgrounds as basckgroundsManual } from "../../manualData/backgrounds.js"
+import { spells as spellsManual } from "../../manualData/spells.js"
 import * as cheerio from "cheerio";
 import data from "../../assets/data.json" assert { type: "json" };
-import { conditions } from "../../lib/constants.js";
+import { conditions } from "../../components/constants.js";
 const allImgs = ["/PF_action_1.webp", "/PF_action_2.webp", "/PF_action_3.webp", "/PF_action_free.webp", "/PF_action_reaction.webp"];
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
@@ -26,6 +28,30 @@ const nameOfNum: { [index: string]: number } = {
   "2": 2,
   "3": 3,
 };
+const savesReplacement = {
+  "Вол": "will",
+  "Сто": "fortitude",
+  "Реф": "reflex"
+}
+const skillsReplacement = {
+  "Акробатик": "acr",
+  "Аркан": "arc",
+  "Атлетик": "ath",
+  "Ремесл": "cra",
+  "Обман": "dec",
+  "Дипломат": "dip",
+  "Запугиван": "itm",
+  "Медицин": "med",
+  "Природ": "nat",
+  "Оккутильзм": "occ",
+  "Выступлен": "prf",
+  "Религ": "rel",
+  "Обществ": "soc",
+  "Скрытност": "ste",
+  "Выживан": "sur",
+  "Воровств": "thi"
+}
+const skillsRegex = /(Акробатик)|(Аркан)|(Атлетик)|(Ремесл)|(Обман)|(Дипломат)|(Запугиван)|(Медицин)|(Природ)|(Оккутильзм)|(Выступлен)|(Религ)|(Обществ)|(Скрытност)|(Выживан)|(Воровств)/g
 const backgroundParagraphs = ["Источник:", "Особенность: ", "Вы обучены", "Ваши девиантные умения относятся к"];
 const abilitiesNames = ["Интеллект", "Сила", "Мудрость", "Ловкость", "Харизма", "Телосложение"];
 const backgrounds: BackgroundType[] = [];
@@ -109,7 +135,8 @@ function prepareBackgrounds() {
           src = child.prop("textContent").replace("Источник: ", "");
         }
       });
-
+    const id = getId($(res))
+    const skills = basckgroundsManual.get(id)
     const background: BackgroundType = {
       fullName,
       originalName,
@@ -123,7 +150,8 @@ function prepareBackgrounds() {
       customAbs: "",
       rarity: getRarity(alltraits),
       traits: alltraits,
-      id: getId($(res)),
+      skills,
+      id,
     };
     backgrounds.push(background);
     allData.push(background);
@@ -162,6 +190,15 @@ function prepareContentWithTraits() {
       allData.push(action);
     }
   });
+  $("section.creature").each((_, res) => {
+    const id = getId($(res))
+    if (!allData.find((content) => content.id === id) && id) {
+      const element = res.tagName === "span" ? $(res).parent() : $(res);
+      const creature = prepareCreature(element)
+      creatures.push(creature)
+      allData.push(creature)
+    }
+  })
 }
 
 function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
@@ -169,13 +206,25 @@ function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
   const traditionNode = el.children().filter((_, child) => $(child).prop("textContent")?.includes("Обычай: "));
   const tradition = traditionNode.length
     ? $(traditionNode)
-        .prop("textContent")
-        .replace("Обычай: ", "")
-        .split(", ")
-        .filter((t) => t !== "")
+      .prop("textContent")
+      .replace("Обычай: ", "")
+      .split(", ")
+      .filter((t) => t !== "")
     : [];
+  const id = getId(el)
   const alltraits = getTraits(el);
-  let spell: SpellType = {
+  function getSave() {
+    const manualSave = spellsManual.get(id)
+    if (manualSave) {
+      return manualSave.save
+    }
+    if (alltraits.includes('атака')) return ["ac"]
+    const saveElem = el.children().filter((_, child) => $(child).prop("textContent")?.includes("Спасбросок: "))
+    return saveElem.length ?
+      [$(saveElem).prop("textContent").replace("Спасбросок: ", "").replace("простой ", "").replace(/((Вол)|(Сто)|(Реф))[а-я]*/gm, (_, p1) => savesReplacement[p1])] : []
+  }
+  const save = getSave()
+  const spell: SpellType = {
     fullName,
     name,
     originalName,
@@ -188,18 +237,54 @@ function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
     src: getSrc(el),
     action: getAction(el),
     castingType: getCastingType(el),
-    id: getId(el),
+    id,
+    save
   };
   return spell;
 }
-function prepareCreature(el: Element): CreatureType | void {
-  return;
+function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): CreatureType {
+  const { fullName, name, originalName, level } = getFullname(el);
+  const traits = getTraits(el)
+  function getHP() {
+    const child = el.children().filter((_, p) => $(p).prop("textContent").includes('ОЗ:'))
+    if (!child.length) return 0
+    return parseInt($(child).prop("textContent").replace("ОЗ:", ""))
+  }
+  const creature: CreatureType = {
+    id: getId(el),
+    fullName,
+    name,
+    originalName,
+    level,
+    hp: getHP(),
+    attributes: {},
+    defences: {},
+    desc: getDescripton(el),
+    languages: [],
+    perception: 0,
+    traits,
+    rarity: getRarity(traits),
+    senses: [],
+    skills: {},
+    speed: {},
+    src: getSrc(el),
+  }
+  return creature;
+
 }
 function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): FeatType {
   const { fullName, name, originalName, level } = getFullname(el);
   const alltraits = getTraits(el);
   const id = getId(el);
   const archetype = id.includes("arch-feat") ? getArchetype(el) : "";
+  function getSkills() {
+    if (!alltraits.includes("навык")) return []
+    const requrementsElem = el.children().filter((_, p) => $(p).prop("textContent").includes('Предварительные условия:'))
+    if (!requrementsElem.length) return []
+    return [...$(requrementsElem[0]).prop("textContent").matchAll(skillsRegex)].map((d) => skillsReplacement[d[0]]) as string[]
+
+  }
+  const skills = getSkills()
   const feat: FeatType = {
     fullName,
     name,
@@ -212,6 +297,7 @@ function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): FeatType {
     action: getAction(el),
     id,
     archetype,
+    skills
   };
   return feat;
 }
@@ -256,7 +342,7 @@ function getFullname(element: cheerio.Cheerio<cheerio.Element>) {
         .text()
         .match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0]
         .trim() || "",
-    level: parseInt(header.text().match(/\d{1,2}/g)?.[0]) || 0,
+    level: parseInt(header.text().match(/-?\d{1,2}/g)?.[0]) || 0,
   };
 }
 function getAttributeArray(element: cheerio.Element) {
@@ -320,7 +406,7 @@ function getAction(element: cheerio.Cheerio<cheerio.Element>): string {
 }
 function getId(element: cheerio.Cheerio<cheerio.Element>): string {
   const firstSpan = element.children("span").first();
-  return firstSpan.attr("id").match(/\d+/) ? element.attr("id") : firstSpan.attr("id");
+  return firstSpan.attr("id")?.match(/\d+/) ? element.attr("id") : firstSpan.attr("id");
 }
 function getArchetype(element: cheerio.Cheerio<cheerio.Element>): string {
   const id = element.parents("[id^=archetype]").children("h1, h2, h3, h4, h5, h6");
@@ -342,7 +428,7 @@ function prepareFilters(data: Data): globalFilter {
     defaultValue: [],
   };
   const rarity: filterProps = {
-    name: "редкость",
+    name: "Редкость",
     value: [],
     defaultValue: [],
     disabled: [],
@@ -366,6 +452,34 @@ function prepareFilters(data: Data): globalFilter {
       value: [],
       multiply: false,
     },
+    skills: {
+      defaultValue: [],
+      disabled: [],
+      excluded: [],
+      hasSearch: false,
+      name: "Навыки",
+      search: "",
+      selection: "multipleRadio",
+      value: [],
+      multiply: false,
+      options: ["acr", "arc", "ath", "prf", "occ", "thi", "cra", "rel", "nat", "dip", "dec", "itm", "soc", "ste"],
+      optionsName: {
+        acr: "Акробатика",
+        arc: "Аркана",
+        ath: "Атлетика",
+        prf: "Выступление",
+        occ: "Оккультизм",
+        thi: "Воровство",
+        cra: "Ремесло",
+        rel: "Ремесло",
+        nat: "Природа",
+        dip: "Дипломатия",
+        dec: "Обман",
+        itm: "Запугивание",
+        soc: "Общество",
+        ste: "Скрытность"
+      }
+    }
   };
   const spells: spellsFilter = {
     traits: {
@@ -427,8 +541,55 @@ function prepareFilters(data: Data): globalFilter {
       hasSearch: false,
       defaultValue: [],
     },
+    save: {
+      name: "Защита противника",
+      selection: "multipleRadio",
+      defaultValue: [],
+      disabled: [],
+      excluded: [],
+      hasSearch: false,
+      multiply: false,
+      options: ["will", "fortitude", "reflex", "ac"],
+      search: "",
+      value: [],
+      optionsName: {
+        will: "Воля",
+        fortitude: "Стойкость",
+        reflex: "Рефлекс",
+        ac: "КБ"
+      }
+    }
   };
   const feats: featFilter = {
+    skills: {
+      value: [],
+      defaultValue: [],
+      disabled: [],
+      excluded: [],
+      hasSearch: false,
+      name: "Навыки",
+      options: ["acr", "arc", "ath", "cra", "dec", "dip", "itm", "med", "nat", "occ", "prf", "rel", "soc", "ste", "sur", "thi"],
+      search: "",
+      selection: "multipleRadio",
+      optionsName: {
+        "acr": "Акробатика",
+        "arc": "Аркана",
+        "ath": "Атлетика",
+        "cra": "Ремесло",
+        "dec": "Обман",
+        "dip": "Дипломатия",
+        "itm": "Запугивание",
+        "med": "Медицина",
+        "nat": "Природа",
+        "occ": "Оккультизм",
+        "prf": "Выступление",
+        "rel": "Религия",
+        "soc": "Общество",
+        "ste": "Скрытность",
+        "sur": "Выживание",
+        "thi": "Воровство"
+      }
+    },
     traits: {
       name: "Признаки",
       selection: "multipleRadio",
@@ -444,14 +605,14 @@ function prepareFilters(data: Data): globalFilter {
     rarity,
     level: {
       name: "Уровень",
-      selection: "minMax",
-      value: ["1", "20"],
-      options: [...new Set(data.feats.map((content) => content.level))].sort((a, b) => a - b).map((val) => val.toString()),
+      selection: "singleRadio",
+      value: [],
+      options: [...new Set(data.feats.map(f => f.level.toString()))],
       disabled: [],
       excluded: [],
       search: "",
       hasSearch: false,
-      defaultValue: ["1", "20"],
+      defaultValue: [],
     },
     action,
     archetype: {
@@ -483,10 +644,10 @@ function prepareFilters(data: Data): globalFilter {
   };
   const creatures: creatureFilter = {
     traits: {
-      name: "",
-      selection: "singleRadio",
+      name: "Признаки",
+      selection: "multipleRadio",
       value: [],
-      options: [],
+      options: [...new Set(data.creatures.map((content) => content.traits).flat())].filter((str) => str !== "").sort((a, b) => a.localeCompare(b)),
       multiply: false,
       disabled: [],
       excluded: [],
@@ -494,6 +655,18 @@ function prepareFilters(data: Data): globalFilter {
       hasSearch: false,
       defaultValue: [],
     },
+    // hp: {
+    //   name: "ОЗ",
+    //   value: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
+    //   defaultValue: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
+    //   disabled: [],
+    //   excluded: [],
+    //   hasSearch: false,
+    //   search: "",
+    //   selection: "minMax",
+    //   max: Math.max(...data.creatures.map((cr) => cr.hp)),
+    //   min: Math.min(...data.creatures.map((cr) => cr.hp))
+    // },
     rarity,
   };
   return { backgrounds, spells, feats, actions, creatures };

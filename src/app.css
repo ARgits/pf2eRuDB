@@ -69,7 +69,9 @@ div.main {
   gap: 1rem;
   justify-content: flex-end;
   & > .content {
-    flex: 1 0 75%;
+    flex: 1 0 75dvw;
+    max-width: 100dvw;
+
   }
   & .table {
     display: grid;
@@ -104,11 +106,6 @@ button {
     padding: 0;
     background: none;
     border: none;
-    &.favorite {
-      position: absolute;
-      right: 0.25rem;
-      z-index: 0;
-    }
   }
 }
 input,

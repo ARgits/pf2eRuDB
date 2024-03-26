@@ -1,55 +1,81 @@
 {
-  "backgrounds": {
-    "rarity": {
-      "name": "редкость",
-      "value": [],
-      "defaultValue": [],
-      "disabled": [],
-      "excluded": [],
-      "hasSearch": false,
-      "search": "",
-      "selection": "singleRadio",
-      "options": ["Обычный", "Необычный", "Редкий"]
-    },
-    "attributeValue": {
-      "defaultValue": [],
-      "disabled": [],
-      "excluded": [],
-      "hasSearch": false,
-      "name": "Характеристика",
-      "options": ["Сила", "Ловкость", "Телосложение", "Мудрость", "Харизма", "Интеллект"],
-      "search": "",
-      "selection": "multipleRadio",
-      "value": [],
-      "multiply": false
-    },
-    "skills": {
-      "defaultValue": [],
-      "disabled": [],
-      "excluded": [],
-      "hasSearch": false,
-      "name": "Навыки",
-      "search": "",
-      "selection": "multipleRadio",
-      "value": [],
-      "multiply": false,
-      "options": ["acr", "arc", "ath", "prf", "occ", "thi", "cra", "rel", "nat", "dip", "dec", "itm", "soc", "ste"],
-      "optionsName": {
-        "acr": "Акробатика",
-        "arc": "Аркана",
-        "ath": "Атлетика",
-        "prf": "Выступление",
-        "occ": "Оккультизм",
-        "thi": "Воровство",
-        "cra": "Ремесло",
-        "rel": "Ремесло",
-        "nat": "Природа",
-        "dip": "Дипломатия",
-        "dec": "Обман",
-        "itm": "Запугивание",
-        "soc": "Общество",
-        "ste": "Скрытность"
-      }
+    "backgrounds": {
+        "rarity": {
+            "name": "Редкость",
+            "value": [],
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "search": "",
+            "selection": "singleRadio",
+            "options": [
+                "Обычный",
+                "Необычный",
+                "Редкий"
+            ]
+        },
+        "attributeValue": {
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "name": "Характеристика",
+            "options": [
+                "Сила",
+                "Ловкость",
+                "Телосложение",
+                "Мудрость",
+                "Харизма",
+                "Интеллект"
+            ],
+            "search": "",
+            "selection": "multipleRadio",
+            "value": [],
+            "multiply": false
+        },
+        "skills": {
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "name": "Навыки",
+            "search": "",
+            "selection": "multipleRadio",
+            "value": [],
+            "multiply": false,
+            "options": [
+                "acr",
+                "arc",
+                "ath",
+                "prf",
+                "occ",
+                "thi",
+                "cra",
+                "rel",
+                "nat",
+                "dip",
+                "dec",
+                "itm",
+                "soc",
+                "ste"
+            ],
+            "optionsName": {
+                "acr": "Акробатика",
+                "arc": "Аркана",
+                "ath": "Атлетика",
+                "prf": "Выступление",
+                "occ": "Оккультизм",
+                "thi": "Воровство",
+                "cra": "Ремесло",
+                "rel": "Ремесло",
+                "nat": "Природа",
+                "dip": "Дипломатия",
+                "dec": "Обман",
+                "itm": "Запугивание",
+                "soc": "Общество",
+                "ste": "Скрытность"
+            }
+        }
     }
-  }
 }

@@ -1,5 +1,51 @@
 {
     "feats": {
+        "skills": {
+            "value": [],
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "name": "Навыки",
+            "options": [
+                "acr",
+                "arc",
+                "ath",
+                "cra",
+                "dec",
+                "dip",
+                "itm",
+                "med",
+                "nat",
+                "occ",
+                "prf",
+                "rel",
+                "soc",
+                "ste",
+                "sur",
+                "thi"
+            ],
+            "search": "",
+            "selection": "multipleRadio",
+            "optionsName": {
+                "acr": "Акробатика",
+                "arc": "Аркана",
+                "ath": "Атлетика",
+                "cra": "Ремесло",
+                "dec": "Обман",
+                "dip": "Дипломатия",
+                "itm": "Запугивание",
+                "med": "Медицина",
+                "nat": "Природа",
+                "occ": "Оккультизм",
+                "prf": "Выступление",
+                "rel": "Религия",
+                "soc": "Общество",
+                "ste": "Скрытность",
+                "sur": "Выживание",
+                "thi": "Воровство"
+            }
+        },
         "traits": {
             "name": "Признаки",
             "selection": "multipleRadio",
@@ -193,7 +239,7 @@
             "defaultValue": []
         },
         "rarity": {
-            "name": "редкость",
+            "name": "Редкость",
             "value": [],
             "defaultValue": [],
             "disabled": [],
@@ -209,41 +255,35 @@
         },
         "level": {
             "name": "Уровень",
-            "selection": "minMax",
-            "value": [
-                "1",
-                "20"
-            ],
+            "selection": "singleRadio",
+            "value": [],
             "options": [
                 "1",
-                "2",
                 "3",
-                "4",
-                "5",
-                "6",
                 "7",
-                "8",
-                "9",
-                "10",
                 "11",
-                "12",
-                "13",
-                "14",
-                "15",
-                "16",
-                "17",
-                "18",
                 "19",
+                "2",
+                "15",
+                "5",
+                "9",
+                "13",
+                "17",
+                "4",
+                "6",
+                "8",
+                "10",
+                "12",
+                "14",
+                "16",
+                "18",
                 "20"
             ],
             "disabled": [],
             "excluded": [],
             "search": "",
             "hasSearch": false,
-            "defaultValue": [
-                "1",
-                "20"
-            ]
+            "defaultValue": []
         },
         "action": {
             "name": "Действие",

@@ -1,12 +1,15 @@
-import { inject } from "@vercel/analytics";
-import { injectSpeedInsights } from '@vercel/speed-insights';
 import "./app.css";
 import App from "./App.svelte";
 
 const app = new App({
+  // biome-ignore lint/style/noNonNullAssertion: <explanation>
   target: document.getElementById("app")!,
 });
-inject();
-injectSpeedInsights()
+if (import.meta.env.PROD) {
+  const { inject } = await import('@vercel/analytics')
+  const { injectSpeedInsights } = await import('@vercel/speed-insights')
+  inject();
+  injectSpeedInsights()
+}
 
 export default app;
