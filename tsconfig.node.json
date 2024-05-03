@@ -1,14 +1,29 @@
 {
+  "extends": "@tsconfig/node20/tsconfig.json",
+  "include": [
+    "vite.config.*",
+    "vitest.config.*",
+    "cypress.config.*",
+    "nightwatch.conf.*",
+    "playwright.config.*",
+    "prepareForBuild.ts",
+    "src/data/dev/*",
+    "src/data/manualData/*",
+    "src/types.ts",
+  ],
   "compilerOptions": {
     "composite": true,
-    "skipLibCheck": true,
-    "module": "ESNext",
-    "moduleResolution": "bundler",
-    "allowSyntheticDefaultImports": true,
-    "esModuleInterop": true,
-    "allowImportingTsExtensions": true,
     "noEmit": true,
-    "target": "ESNext"
-  },
-  "include": ["vite.config.ts", "src/data/dev/prepareData.ts", "src/components/constants.ts", "src/manualData/*"]
+    "tsBuildInfoFile": "./node_modules/.tmp/tsconfig.node.tsbuildinfo",
+
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "esModuleInterop":true,
+    "types": ["node"],
+    "allowImportingTsExtensions":true,
+        "paths": {
+      "@data/*":["./src/data/*"],
+      "@types":["./src/types.ts"]
+    }
+  }
 }

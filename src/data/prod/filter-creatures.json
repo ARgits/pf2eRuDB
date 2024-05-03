@@ -118,6 +118,24 @@
             "hasSearch": false,
             "defaultValue": []
         },
+        "hp": {
+            "name": "ОЗ",
+            "value": [
+                "0",
+                "500"
+            ],
+            "defaultValue": [
+                "0",
+                "500"
+            ],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "search": "",
+            "selection": "minMax",
+            "max": 500,
+            "min": 0
+        },
         "rarity": {
             "name": "Редкость",
             "value": [],

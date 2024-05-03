@@ -1,24 +1,25 @@
 import type {
-  ActionType,
-  BackgroundType,
-  CreatureType,
-  Data,
-  FeatType,
-  SpellType,
   actionFilter,
+  actionType,
   ancestryType,
   backgroundFilter,
+  backgroundType,
   creatureFilter,
+  creatureType,
+  Data,
   featFilter,
+  featType,
   filterProps,
   globalFilter,
   spellsFilter,
-} from "../../types";
-import { backgrounds as basckgroundsManual } from "../../manualData/backgrounds.js"
-import { spells as spellsManual } from "../../manualData/spells.js"
+  spellType,
+} from "@types";
+import {backgrounds as backgroundsManual} from "../manualData/backgrounds"
+import {spells as spellsManual} from "../manualData/spells"
 import * as cheerio from "cheerio";
-import data from "../../assets/data.json" assert { type: "json" };
-import { conditions } from "../../components/constants.js";
+import data from "../dev/data.json" assert {type: "json"};
+import {conditions} from "../dev/constants.js";
+
 const allImgs = ["/PF_action_1.webp", "/PF_action_2.webp", "/PF_action_3.webp", "/PF_action_free.webp", "/PF_action_reaction.webp"];
 const nameOfNum: { [index: string]: number } = {
   " одно ": 1,
@@ -54,14 +55,14 @@ const skillsReplacement = {
 const skillsRegex = /(Акробатик)|(Аркан)|(Атлетик)|(Ремесл)|(Обман)|(Дипломат)|(Запугиван)|(Медицин)|(Природ)|(Оккутильзм)|(Выступлен)|(Религ)|(Обществ)|(Скрытност)|(Выживан)|(Воровств)/g
 const backgroundParagraphs = ["Источник:", "Особенность: ", "Вы обучены", "Ваши девиантные умения относятся к"];
 const abilitiesNames = ["Интеллект", "Сила", "Мудрость", "Ловкость", "Харизма", "Телосложение"];
-const backgrounds: BackgroundType[] = [];
-const spells: SpellType[] = [];
-const actions: ActionType[] = [];
-const feats: FeatType[] = [];
-const creatures: CreatureType[] = [];
+const backgrounds: backgroundType[] = [];
+const spells: spellType[] = [];
+const actions: actionType[] = [];
+const feats: featType[] = [];
+const creatures: creatureType[] = [];
 const traits: Set<string> = new Set();
 const paragraphs: Set<string> = new Set();
-const tables: Map<string, { fullName: string; desc: string }> = new Map();
+const tables: Map<string, { fullName: string; desc: string, dataType: 'table' }> = new Map();
 const ancestries: ancestryType[] = [];
 const allData: any[] = [];
 let $: cheerio.CheerioAPI;
@@ -72,17 +73,17 @@ function prepareData(data: any): Data {
     $('img[class*="action-"]').each((_, img) => {
       const tempSrc = img.attribs["src"]?.match(/(PF_action).+(?=.png)/g)?.[0];
       if (tempSrc) {
-        const src = allImgs.filter((item) => item.includes(tempSrc))[0];
-        img.attribs["src"] = src;
+        img.attribs["src"] = allImgs.filter((item) => item.includes(tempSrc))[0];
       }
     });
     $("table").each((_, res) => {
       const id = $(res).prev().attr("id");
-      if (!tables.has(id) && id) {
+      if (!id) return
+      if (!tables.has(id)) {
         $(res).find(".headerlink").remove();
-        const fullName = $(res).find("caption .caption-text").prop("outerHTML");
-        const desc = $(res).prop("outerHTML");
-        tables.set(id, { fullName, desc });
+        const fullName = $(res).find("caption .caption-text").prop("outerHTML")!;
+        const desc = [...$(res).children(':not(caption)')].reduce((prev, next) => prev + $(next).prop('outerHTML'), '')
+        tables.set(id, { fullName, desc, dataType: 'table' });
       }
     });
     prepareBackgrounds();
@@ -96,28 +97,28 @@ function prepareData(data: any): Data {
   );
   const tempData = { backgrounds, spells, actions, feats, creatures };
   for (const arr of Object.values(tempData)) {
-    if (arr instanceof Array)
-      for (const value of arr) {
-        if (value?.desc) {
-          const $ = cheerio.load(value.desc);
-          $("a.internal, span[class^='c-']").each((_, el) => {
-            const href =
+    for (const value of arr) {
+      if (value?.desc) {
+        const $ = cheerio.load(value.desc);
+        $("a.internal, span[class^='c-']").each((_, el) => {
+          const href =
               $(el)
-                .attr("href")
-                ?.match(/(?<=#).+/)?.[0] ?? $(el).attr("class");
+                  .attr("href")
+                  ?.match(/(?<=#).+/)?.[0] ?? $(el).attr("class");
 
-            const data = allData.find((v) => v.id === href)?.id ?? null;
-            const className = data ? "std std-ref" : "";
+          const data = allData.find((v) => v.id === href) ?? null;
+          const className = data ? "std std-ref" : "";
 
-            const textContent = $(el).prop("textContent");
-            const dataId = data ? `data-id=${data}` : "";
-            $(el).replaceWith(`<span class="card-link ${className}" ${dataId}>${textContent}</span>`);
-          });
-          value.desc = $("body").html();
-        }
+          const textContent = $(el).prop("textContent");
+          const dataId = data ? `data-id=${data.id}` : "";
+          const dataType = data ? `data-type=${data.dataType}` : ""
+          $(el).replaceWith(`<span class="card-link ${className}" ${dataId} ${dataType}>${textContent}</span>`);
+        });
+        value.desc = $("body").html()!;
       }
+    }
   }
-  return { ...tempData, tables, allData, traits, paragraphs };
+  return { ...tempData, tables: [...tables].map((a) => { return { id: a[0], desc: a[1].desc, dataType: a[1].dataType, fullName: a[1].fullName } }), allData, traits, paragraphs, conditions };
 }
 function prepareBackgrounds() {
   $('section[id^="bg"]').each((_, res) => {
@@ -131,13 +132,14 @@ function prepareBackgrounds() {
       .each((_, item) => {
         const child = $(item);
         desc += $(child).prop("outerHTML");
-        if (child.prop("textContent").includes("Источник:")) {
-          src = child.prop("textContent").replace("Источник: ", "");
+        if (child.prop("textContent")!.includes("Источник:")) {
+          src = child.prop("textContent")!.replace("Источник: ", "");
         }
       });
     const id = getId($(res))
-    const skills = basckgroundsManual.get(id)
-    const background: BackgroundType = {
+    const skills = backgroundsManual.get(id)!
+    const background: backgroundType = {
+      dataType: 'background',
       fullName,
       originalName,
       name,
@@ -163,7 +165,7 @@ function prepareContentWithTraits() {
     $(res)
       .children()
       .each((_, el) => {
-        traits.add($(el).prop("textContent"));
+        traits.add($(el).prop("textContent")!);
       });
   });
   $("section:not(:has(section:not(.creature))):has(>span[id^='spell-'])").each((_, res) => {
@@ -182,7 +184,7 @@ function prepareContentWithTraits() {
     'section:not(:has(section)):has(>span:is([id^="skill-"], [id|="action"])), section:not(:has(section)):is([id|="activity-"], [id^="skill-"], [id|="action"]):has(>span:first-child:not([id*="-terms-"])) '
   ).each((_, res) => {
     const id = getId($(res));
-    //There can be feats with id="skill", so we need to check this. Also we don't want class features be there
+    //There can be feats with id="skill", so we need to check this. Also, we don't want class features be there
     if (!allData.find((content) => content.id === id) && !id.includes("class-feature") && !id.includes("variants")) {
       const element = res.tagName === "span" ? $(res).parent() : $(res);
       const action = prepareAction(element);
@@ -201,12 +203,12 @@ function prepareContentWithTraits() {
   })
 }
 
-function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
+function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): spellType {
   const { fullName, name, originalName, level } = getFullname(el);
-  const traditionNode = el.children().filter((_, child) => $(child).prop("textContent")?.includes("Обычай: "));
+  const traditionNode = el.children().filter((_, child) => !!$(child).prop("textContent")?.includes("Обычай: "));
   const tradition = traditionNode.length
     ? $(traditionNode)
-      .prop("textContent")
+      .prop("textContent")!
       .replace("Обычай: ", "")
       .split(", ")
       .filter((t) => t !== "")
@@ -219,19 +221,20 @@ function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
       return manualSave.save
     }
     if (alltraits.includes('атака')) return ["ac"]
-    const saveElem = el.children().filter((_, child) => $(child).prop("textContent")?.includes("Спасбросок: "))
+    const saveElem = el.children().filter((_, child) => !!$(child).prop("textContent")?.includes("Спасбросок: "))
     return saveElem.length ?
-      [$(saveElem).prop("textContent").replace("Спасбросок: ", "").replace("простой ", "").replace(/((Вол)|(Сто)|(Реф))[а-я]*/gm, (_, p1) => savesReplacement[p1])] : []
+      [$(saveElem).prop("textContent")!.replace("Спасбросок: ", "").replace("простой ", "").replace(/((Вол)|(Сто)|(Реф))[а-я]*/gm, (_, p1: keyof typeof savesReplacement) => savesReplacement[p1])] : []
   }
   const save = getSave()
-  const spell: SpellType = {
+  return {
+    dataType: "spell",
     fullName,
     name,
     originalName,
     type: fullName.includes("/ Закл") ? "Заклинание" : fullName.includes("/ Ф.чары") ? "Ф.чары" : fullName.includes("/ Фокус") ? "Фокус" : "Чары",
     level,
     traits: alltraits,
-    desc: getDescripton(el),
+    desc: getDescription(el),
     rarity: getRarity(alltraits),
     tradition,
     src: getSrc(el),
@@ -240,17 +243,17 @@ function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): SpellType {
     id,
     save
   };
-  return spell;
 }
-function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): CreatureType {
+function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): creatureType {
   const { fullName, name, originalName, level } = getFullname(el);
   const traits = getTraits(el)
   function getHP() {
-    const child = el.children().filter((_, p) => $(p).prop("textContent").includes('ОЗ:'))
+    const child = el.children().filter((_, p) => $(p).prop("textContent")!.includes('ОЗ:'))
     if (!child.length) return 0
-    return parseInt($(child).prop("textContent").replace("ОЗ:", ""))
+    return parseInt($(child).prop("textContent")!.replace("ОЗ:", ""))
   }
-  const creature: CreatureType = {
+  return {
+    dataType: "creature",
     id: getId(el),
     fullName,
     name,
@@ -259,7 +262,7 @@ function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): CreatureType {
     hp: getHP(),
     attributes: {},
     defences: {},
-    desc: getDescripton(el),
+    desc: getDescription(el),
     languages: [],
     perception: 0,
     traits,
@@ -268,55 +271,53 @@ function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): CreatureType {
     skills: {},
     speed: {},
     src: getSrc(el),
-  }
-  return creature;
+  };
 
 }
-function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): FeatType {
+function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): featType {
   const { fullName, name, originalName, level } = getFullname(el);
   const alltraits = getTraits(el);
   const id = getId(el);
   const archetype = id.includes("arch-feat") ? getArchetype(el) : "";
   function getSkills() {
     if (!alltraits.includes("навык")) return []
-    const requrementsElem = el.children().filter((_, p) => $(p).prop("textContent").includes('Предварительные условия:'))
-    if (!requrementsElem.length) return []
-    return [...$(requrementsElem[0]).prop("textContent").matchAll(skillsRegex)].map((d) => skillsReplacement[d[0]]) as string[]
+    const requirementsElem = el.children().filter((_, p) => $(p).prop("textContent")!.includes('Предварительные условия:'))
+    if (!requirementsElem.length) return []
+    return [...$(requirementsElem[0]).prop("textContent")!.matchAll(skillsRegex)].map((d) => skillsReplacement[d[0] as keyof typeof skillsReplacement]) as string[]
 
   }
   const skills = getSkills()
-  const feat: FeatType = {
+  return {
+    dataType: 'feat',
     fullName,
     name,
     originalName,
     level,
     traits: alltraits,
     rarity: getRarity(alltraits),
-    desc: getDescripton(el),
+    desc: getDescription(el),
     src: getSrc(el),
     action: getAction(el),
     id,
     archetype,
     skills
   };
-  return feat;
 }
 
-function prepareAction(el: cheerio.Cheerio<cheerio.Element>): ActionType {
+function prepareAction(el: cheerio.Cheerio<cheerio.Element>): actionType {
   const { fullName, name, originalName } = getFullname(el);
-  const alltraits = getTraits(el);
-  const action: ActionType = {
+  return {
+    dataType: "action",
     fullName,
     name,
-    traits: alltraits,
+    traits: getTraits(el),
     originalName,
-    rarity: getRarity(alltraits),
-    desc: getDescripton(el),
+    rarity: getRarity(getTraits(el)),
+    desc: getDescription(el),
     src: getSrc(el),
     action: getAction(el),
     id: getId(el),
   };
-  return action;
 }
 function getTraits(element: cheerio.Cheerio<cheerio.Element>) {
   return (
@@ -332,7 +333,7 @@ function getFullname(element: cheerio.Cheerio<cheerio.Element>) {
   const idElem = header.find(".headerlink");
   idElem.remove();
   return {
-    fullName: header.html(),
+    fullName: header.html()!,
     name: header
       .text()
       .replace(/\((?<=\().+/, "")
@@ -342,30 +343,30 @@ function getFullname(element: cheerio.Cheerio<cheerio.Element>) {
         .text()
         .match(/(?<=\()((?<!\))[a-z-A-Z ']+)/)?.[0]
         .trim() || "",
-    level: parseInt(header.text().match(/-?\d{1,2}/g)?.[0]) || 0,
+    level: parseInt(header.text().match(/-?\d{1,2}/g)?.[0] || "0"),
   };
 }
 function getAttributeArray(element: cheerio.Element) {
   const $ = cheerio.load(element);
-  let child: cheerio.Element;
-  $("p").each((_, val) => {
-    if ($(val).text().includes("характеристик") && backgroundParagraphs.every((parag) => !$(val).text().includes(parag))) child = val;
-  });
-  const innerHTML = $(child).prop("innerHTML");
+  const child = $("p").filter((_, el) => $(el).text().includes("характеристик") && backgroundParagraphs.every((parag) => !$(el).text().includes(parag)))[0]
+  // let child: cheerio.Element;
+  // $("p").each((_, val) => {
+  //   if ($(val).text().includes("характеристик") && backgroundParagraphs.every((parag) => !$(val).text().includes(parag))) child = val;
+  // });
+  const innerHTML = $(child).prop("innerHTML")!;
   const attribParagraph = $(child).prop("outerHTML");
-  const attributeDesc = $(child).prop("textContent");
-  let attributeValue: string[][];
+  const attributeDesc = $(child).prop("textContent")!;
+  let attributeValue: string[][] = [];
   const abilities = [...innerHTML.matchAll(/((?<=<strong>)[а-яА-Я]*)|((?<=другое )[а-яА-Я]*)/g)].map((v) => v[0].replace(/^./, v[0][0].toUpperCase()));
-  for (let key of abilities.keys()) {
+  for (const key of abilities.keys()) {
     abilities[key] = abilitiesNames.filter((item) => item.includes(abilities[key].slice(0, 3)))[0] || "Свободное";
   }
   let numOfAbilities: RegExpMatchArray | null | number = innerHTML.match(/\d|(\sдва\s)|(\sодно\s)|(\sтри\s)/g);
-  if (!numOfAbilities) {
-  } else {
+  if (numOfAbilities) {
     numOfAbilities = nameOfNum[numOfAbilities[0]];
     const tempAbil = [];
     let tempInd = 0;
-    for (let ind of Array(numOfAbilities).keys()) {
+    for (const ind of Array(numOfAbilities).keys()) {
       tempAbil.push(abilities.slice(tempInd, ind + numOfAbilities).filter((ab) => ab !== "Свободное"));
       tempInd += ind + numOfAbilities;
     }
@@ -383,21 +384,21 @@ function getRarity(allTraits: string[]): string {
   return rarityStr.charAt(0).toUpperCase() + rarityStr.slice(1);
 }
 function getSrc(element: cheerio.Cheerio<cheerio.Element>): string {
-  const srcElem = element.children("p").filter((_, child) => $(child).prop("textContent").includes("Источник: "))?.[0];
+  const srcElem = element.children("p").filter((_, child) => $(child).prop("textContent")!.includes("Источник: "))?.[0];
   return $(srcElem)?.prop("textContent")?.replace("Источник: ", "") || "";
 }
 function getCastingType(element: cheerio.Cheerio<cheerio.Element>): string[] {
-  const castingTypeElem = element.children("p").filter((_, child) => $(child).prop("textContent").includes("Сотворение: "))?.[0];
+  const castingTypeElem = element.children("p").filter((_, child) => $(child).prop("textContent")!.includes("Сотворение: "))?.[0];
   return (
     $(castingTypeElem)
       ?.prop("textContent")
       ?.match(/материальный|жестовый|словесный/gm) || []
   );
 }
-function getDescripton(element: cheerio.Cheerio<cheerio.Element>): string {
+function getDescription(element: cheerio.Cheerio<cheerio.Element>): string {
   return element
     .children(":not(h1, h2, h3, h4, h5, h6, span, aside, .traits)")
-    .map((_, child) => $(child).prop("outerHTML").trim())
+    .map((_, child) => $(child).prop("outerHTML")!.trim())
     .toArray()
     .join("");
 }
@@ -406,13 +407,13 @@ function getAction(element: cheerio.Cheerio<cheerio.Element>): string {
 }
 function getId(element: cheerio.Cheerio<cheerio.Element>): string {
   const firstSpan = element.children("span").first();
-  return firstSpan.attr("id")?.match(/\d+/) ? element.attr("id") : firstSpan.attr("id");
+  return firstSpan.attr("id")?.match(/\d+/) ? element.attr("id")! : firstSpan.attr("id")!;
 }
 function getArchetype(element: cheerio.Cheerio<cheerio.Element>): string {
   const id = element.parents("[id^=archetype]").children("h1, h2, h3, h4, h5, h6");
-  const multiclass = element.parents("[id^=archetype]").attr("class").includes("multiclass") ? "Мультикласс " : "";
+  const multiclass = element.parents("[id^=archetype]").attr("class")!.includes("multiclass") ? "Мультикласс " : "";
   id.find(".headerlink").remove();
-  return (multiclass + id.prop("textContent").replace("(Archetype)", "")).trim();
+  return (multiclass + id.prop("textContent")!.replace("(Archetype)", "")).trim();
 }
 
 function prepareFilters(data: Data): globalFilter {
@@ -451,6 +452,17 @@ function prepareFilters(data: Data): globalFilter {
       selection: "multipleRadio",
       value: [],
       multiply: false,
+    },
+    traits: {
+      defaultValue: [],
+      disabled: [],
+      excluded: [],
+      hasSearch: false,
+      name: "Признаки",
+      selection: "multipleRadio",
+      options: [...new Set(data.backgrounds.map((content) => content.traits).flat())].sort((a, b) => a.localeCompare(b)),
+      search: '',
+      value: [],
     },
     skills: {
       defaultValue: [],
@@ -655,18 +667,18 @@ function prepareFilters(data: Data): globalFilter {
       hasSearch: false,
       defaultValue: [],
     },
-    // hp: {
-    //   name: "ОЗ",
-    //   value: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
-    //   defaultValue: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
-    //   disabled: [],
-    //   excluded: [],
-    //   hasSearch: false,
-    //   search: "",
-    //   selection: "minMax",
-    //   max: Math.max(...data.creatures.map((cr) => cr.hp)),
-    //   min: Math.min(...data.creatures.map((cr) => cr.hp))
-    // },
+    hp: {
+      name: "ОЗ",
+      value: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
+      defaultValue: [Math.min(...data.creatures.map((cr) => cr.hp)).toString(), Math.max(...data.creatures.map((cr) => cr.hp)).toString()],
+      disabled: [],
+      excluded: [],
+      hasSearch: false,
+      search: "",
+      selection: "minMax",
+      max: Math.max(...data.creatures.map((cr) => cr.hp)),
+      min: Math.min(...data.creatures.map((cr) => cr.hp))
+    },
     rarity,
   };
   return { backgrounds, spells, feats, actions, creatures };

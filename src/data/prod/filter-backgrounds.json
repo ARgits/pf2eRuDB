@@ -34,6 +34,21 @@
             "value": [],
             "multiply": false
         },
+        "traits": {
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "name": "Признаки",
+            "selection": "multipleRadio",
+            "options": [
+                "необычный",
+                "повсеместная магия",
+                "редкий"
+            ],
+            "search": "",
+            "value": []
+        },
         "skills": {
             "defaultValue": [],
             "disabled": [],
