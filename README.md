@@ -1,19 +1,45 @@
-# Pathfinder 2e RU Database
-Контент с сайта https://pf2e-ru-translation.readthedocs.io/ru/latest/, собранные в удобные таблицы с фильтрами/сортировками, наподобие https://2e.aonprd.com/.
+# PF2eRuDB
 
-# Framework
-Написано с помощью Vite+Svelte(TS)
-Парсинг сайта выполняется с помощью Axios+Cheerio
+This template should help get you started developing with Vue 3 in Vite.
 
-# Прогресс
-На данный момент можно смотреть все заклинания, способности, происхождения. Ведется работа над действиями.
+## Recommended IDE Setup
 
-# Планы
-1. Добавить контент:
- 1.1 монстры
- 1.2 предметы
- 1.3 родословные
- 1.4 наследия
-2. Добавить поиск названию ☑
-3. Добавить возможность применять наборы фильтров (?)
-4. Возможность составлять список избранного
+[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+
+## Type Support for `.vue` Imports in TS
+
+TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+
+## Customize configuration
+
+See [Vite Configuration Reference](https://vitejs.dev/config/).
+
+## Project Setup
+
+```sh
+npm install
+```
+
+### Compile and Hot-Reload for Development
+
+```sh
+npm run dev
+```
+
+### Type-Check, Compile and Minify for Production
+
+```sh
+npm run build
+```
+
+### Run Unit Tests with [Vitest](https://vitest.dev/)
+
+```sh
+npm run test:unit
+```
+
+### Lint with [ESLint](https://eslint.org/)
+
+```sh
+npm run lint
+```

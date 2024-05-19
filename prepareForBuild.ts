@@ -1,23 +1,24 @@
 import * as fs from "fs";
-import { filters, readyData } from "./src/data/dev/prepareData.js";
+import { filters, readyData } from "./src/data/dev/prepareData";
+import type { Entries, Data, globalFilter } from "./src/types"
 console.log("before backgrounds");
 const memorySizeLimit = 500;
-function createData() {
-  for (const [key, value] of Object.entries(readyData)) {
+export function createData() {
+  for (const [key, value] of Object.entries(readyData) as Entries<Data>) {
     if (key !== "allData") {
       const tempArr = [...value]; //in case we have Map or Set instead of Array
       const sliceArr = createSlices(tempArr);
       for (const [ind, { start, end }] of sliceArr.entries()) {
-        const obj = {};
+        const obj: Partial<Record<keyof Data, Data[keyof Data]>> = {};
         obj[key] = tempArr.slice(start, end);
-        fs.writeFile(`./src/data/prod/${key}-${ind+1}.json`, JSON.stringify(obj), () => {
-          console.log(`writing ${key} finished: ${ind+1} of ${sliceArr.length}`);
+        fs.writeFile(`./src/data/prod/${key}-${ind + 1}.json`, JSON.stringify(obj), () => {
+          console.log(`writing ${key} finished: ${ind + 1} of ${sliceArr.length}`);
         });
       }
     }
   }
-  for (const [key, value] of Object.entries(filters)) {
-    const obj = {};
+  for (const [key, value] of Object.entries(filters) as Entries<globalFilter>) {
+    const obj: Partial<Record<keyof globalFilter, globalFilter[keyof globalFilter]>> = {};
     obj[key] = value;
     fs.writeFile(`./src/data/prod/filter-${key}.json`, JSON.stringify(obj, null, 4), () => {
       console.log(`writing ${key} filters finished`);
@@ -49,8 +50,7 @@ function createSlices(arr: any[]) {
   }
   return sliceArr;
 }
-createData();
 
-function getSizeKb(arr:any[]) {
+function getSizeKb(arr: any[]) {
   return new TextEncoder().encode(JSON.stringify(arr)).length / 1024;
 }

@@ -1,15 +1,19 @@
-import "./app.css";
-import App from "./App.svelte";
+import './assets/main.css'
 
-const app = new App({
-  // biome-ignore lint/style/noNonNullAssertion: <explanation>
-  target: document.getElementById("app")!,
-});
-if (import.meta.env.PROD) {
-  const { inject } = await import('@vercel/analytics')
-  const { injectSpeedInsights } = await import('@vercel/speed-insights')
-  inject();
-  injectSpeedInsights()
-}
+import { createApp, markRaw } from 'vue'
+import { createPinia } from 'pinia'
 
-export default app;
+import App from './App.vue'
+import router from './router'
+
+
+const app = createApp(App)
+const pinia = createPinia()
+pinia.use(({ store }) => {
+    store.router = markRaw(router)
+})
+app.use(pinia)
+app.use(router)
+
+app.mount('#app')
+
