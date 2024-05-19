@@ -1,0 +1,39 @@
+@import './base.css';
+
+body {
+  display: flex;
+  place-items: center;
+}
+
+#app {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-weight: normal;
+  height: 100%;
+  width: 100%;
+}
+
+button {
+  cursor: pointer;
+  background: none;
+  border-radius: var(--border-radius);
+  padding: 0;
+
+}
+
+.svg-inline--fa {
+  /* border: .25rem solid transparent; */
+  --fa-animation-iteration-count: 1;
+  transition: all .5s ease;
+  aspect-ratio: 1/1;
+
+  /* & g {
+    --fa-animation-iteration-count: 1;
+    transition: all .5s ease;
+  } */
+}
+
+hr {
+  width: -webkit-fill-available;
+}
