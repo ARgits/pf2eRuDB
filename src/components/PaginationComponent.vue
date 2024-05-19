@@ -24,10 +24,11 @@ const paginationStore = usePaginationStore()
 </template>
 <style lang="scss">
 .pagination {
-    flex-basis: 10%;
+    flex-basis: fit-content;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    padding: 0 .5rem .25rem;
 
     & button {
         height: 1.5rem;
@@ -41,7 +42,7 @@ const paginationStore = usePaginationStore()
         }
 
         &.hidden {
-            opacity: 0
+            opacity: .5;
         }
 
         &:active {

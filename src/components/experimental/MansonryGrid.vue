@@ -74,7 +74,7 @@ onUnmounted(() => {
     column-gap: var(--grid-column-gap);
     // grid-template-rows: repeat(auto-fill, 10px);
     grid-auto-rows: auto;
-    align-items: center;
+    align-items: start;
     justify-items: center;
     justify-content: space-evenly;
     flex: 1 1 auto;

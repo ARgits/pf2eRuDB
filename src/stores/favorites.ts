@@ -14,6 +14,7 @@ export const useFavoritesStore = defineStore("favorites", () => {
             creatures: [],
             feats: [],
             spells: [],
+            ancestries: []
         }
 
         if (localStorage && contentStore.isDataFetched && localStorageRef.value.length) {
@@ -28,10 +29,10 @@ export const useFavoritesStore = defineStore("favorites", () => {
                     }
                 } else {
                     const { id, type } = val
-                    console.log(type,)
-                    const item = contentStore.contentData[`${type}s`].find((v) => v.id === id)
+                    const correctType = type === 'ancestry' ? 'ancestries' : `${type}s` as const
+                    const item = contentStore.contentData[correctType].find((v) => v.id === id)
                     if (item)
-                        result[`${type}s`].push(item)
+                        result[correctType].push(item)
                 }
             }
 

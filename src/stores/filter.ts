@@ -39,6 +39,7 @@ export const useFilterStore = defineStore('filter', () => {
                 spells: {},
                 feats: {},
                 creatures: {},
+                ancestries: {}
             }
             if (import.meta.env.DEV) {
                 console.log('Set filterData: favorites data', data)
@@ -48,18 +49,33 @@ export const useFilterStore = defineStore('filter', () => {
                     for (const [filtKey, filtData] of Object.entries(dataVal) as Entries<typeof dataVal>) {
                         console.log(filtKey, filtData)
                         if (filtData.selection === "minMax") {
-                            const min = Math.min(...data.value[dataKey].map((v) => v[filtKey] as unknown as number))
-                            const max = Math.max(...data.value[dataKey].map((v) => v[filtKey] as unknown as number))
-                            favFiltData[dataKey][filtKey] = { ...filtData, min, max }
+                            if (filtData.isDeep) {
+                                favFiltData[dataKey][filtKey] = { ...filtData }
+                            }
+                            else {
+                                const min = Math.min(...data.value[dataKey].map((v) => v[filtKey] as unknown as number))
+                                const max = Math.max(...data.value[dataKey].map((v) => v[filtKey] as unknown as number))
+                                favFiltData[dataKey][filtKey] = { ...filtData, min, max }
+                            }
                         } else if (filtData.selection === "multipleRadio") {
-                            const options = filtData.options?.filter((opt) => data.value[dataKey].some((v) => v[filtKey].includes(opt)))
-                            if (options.length > 1) {
-                                favFiltData[dataKey][filtKey] = { ...filtData, options }
+                            if (filtData.isDeep) {
+                                favFiltData[dataKey][filtKey] = { ...filtData }
+                            }
+                            else {
+                                const options = filtData.options?.filter((opt) => data.value[dataKey].some((v) => v[filtKey].includes(opt)))
+                                if (options.length > 1) {
+                                    favFiltData[dataKey][filtKey] = { ...filtData, options }
+                                }
                             }
                         } else if (filtData.selection === "singleRadio") {
-                            const options = filtData.options?.filter((opt) => data.value[dataKey].some((v) => v[filtKey].toString() === opt))
-                            if (options.length > 1) {
-                                favFiltData[dataKey][filtKey] = { ...filtData, options }
+                            if (filtData.isDeep) {
+                                favFiltData[dataKey][filtKey] = { ...filtData }
+                            }
+                            else {
+                                const options = filtData.options?.filter((opt) => data.value[dataKey].some((v) => v[filtKey].toString() === opt))
+                                if (options.length > 1) {
+                                    favFiltData[dataKey][filtKey] = { ...filtData, options }
+                                }
                             }
                         }
                     }
@@ -92,25 +108,43 @@ export const useFilterStore = defineStore('filter', () => {
         isDataFetched.value = true
     }
 
-    function changeState(dataType: keyof globalFilter, subFiltKey: keyof FilterKeys[keyof globalFilter], opt: string) {
-        const data = filterReadyData.value[dataType]
-
-        if (filterReadyData.value[dataType][subFiltKey].value.includes(opt)) {
-            const index = filterReadyData.value[dataType][subFiltKey].value.findIndex(val => val === opt)
-            filterReadyData.value[dataType][subFiltKey].value.splice(index, 1)
-            data[subFiltKey].disabled.push(opt)
-        }
-        else if (filterReadyData.value[dataType][subFiltKey].disabled.includes(opt)) {
-            const index = filterReadyData.value[dataType][subFiltKey].disabled.findIndex(val => val === opt)
-            filterReadyData.value[dataType][subFiltKey].disabled.splice(index, 1)
-        }
-        else {
-            filterReadyData.value[dataType][subFiltKey].value.push(opt)
+    function changeState(dataType: keyof globalFilter, subFiltKey: keyof FilterKeys[keyof globalFilter], opt: string, deepKey: string = '') {
+        const data = filterReadyData.value[dataType][subFiltKey]
+        if (data.isDeep) {
+            if (data.value[deepKey].includes(opt)) {
+                const index = data.value[deepKey].findIndex((val) => val === opt)
+                data.value[deepKey].splice(index, 1)
+                data.disabled[deepKey].push(opt)
+            }
+            else if (data.disabled[deepKey].includes(opt)) {
+                const index = data.disabled[deepKey].findIndex(val => val === opt)
+                data.disabled[deepKey].splice(index, 1)
+            } else {
+                data.value[deepKey].push(opt)
+            }
+        } else {
+            if (data.value.includes(opt)) {
+                const index = data.value.findIndex((val) => val === opt)
+                data.value.splice(index, 1)
+                data.disabled.push(opt)
+            }
+            else if (data.disabled.includes(opt)) {
+                const index = data.disabled.findIndex(val => val === opt)
+                data.disabled.splice(index, 1)
+            } else {
+                data.value.push(opt)
+            }
         }
     }
     function resetFilter(dataType: keyof globalFilter, filterKey: keyof FilterKeys[keyof globalFilter]) {
-        filterReadyData.value[dataType][filterKey].value = [...filterReadyData.value[dataType][filterKey].defaultValue]
-        filterReadyData.value[dataType][filterKey].disabled = []
+        const data = filterReadyData.value[dataType][filterKey]
+        if (data.isDeep) {
+            data.value = { ...data.defaultValue }
+            Object.values(data.disabled).forEach((v) => v = [])
+        } else {
+            data.value = [...data.defaultValue]
+            data.disabled = []
+        }
     }
     // watch(filterData, () => console.log(filterData), { deep: true })
     return { filterStaticData, filterReadyData, fetchData, changeState, isDataFetched, resetFilter }

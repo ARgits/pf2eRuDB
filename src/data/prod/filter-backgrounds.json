@@ -1,6 +1,7 @@
 {
     "backgrounds": {
         "rarity": {
+            "isDeep": false,
             "name": "Редкость",
             "value": [],
             "defaultValue": [],
@@ -15,7 +16,32 @@
                 "Редкий"
             ]
         },
+        "srcBook": {
+            "isDeep": false,
+            "name": "Источник",
+            "defaultValue": [],
+            "disabled": [],
+            "excluded": [],
+            "hasSearch": false,
+            "search": "",
+            "selection": "multipleRadio",
+            "options": [
+                "Abomination Vaults Player's Guide",
+                "Advanced Player's Guide",
+                "Book of the Dead",
+                "CoreBook",
+                "Dark Archive",
+                "Gatewalkers Player's Guide",
+                "Guns & Gears",
+                "Lost Omens: Gods & Magic",
+                "Lost Omens: World Guide",
+                "Secrets of Magic",
+                "The Fall of Plaguestone"
+            ],
+            "value": []
+        },
         "attributeValue": {
+            "isDeep": false,
             "defaultValue": [],
             "disabled": [],
             "excluded": [],
@@ -35,6 +61,7 @@
             "multiply": false
         },
         "traits": {
+            "isDeep": false,
             "defaultValue": [],
             "disabled": [],
             "excluded": [],
@@ -42,14 +69,15 @@
             "name": "Признаки",
             "selection": "multipleRadio",
             "options": [
-                "необычный",
-                "повсеместная магия",
-                "редкий"
+                "Необычный",
+                "Повсеместная магия",
+                "Редкий"
             ],
             "search": "",
             "value": []
         },
         "skills": {
+            "isDeep": false,
             "defaultValue": [],
             "disabled": [],
             "excluded": [],

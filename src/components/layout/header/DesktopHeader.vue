@@ -13,6 +13,7 @@ const favoriteStore = useFavoritesStore()
         <RouterLink to="/spells">Заклинания</RouterLink>
         <RouterLink to="/creatures">Бестиарий</RouterLink>
         <RouterLink to="/actions">Действия</RouterLink>
+        <RouterLink to="/ancestries">Родословные</RouterLink>
         <RouterLink to="/favorites">Избранное</RouterLink>
     </nav>
     <nav v-if="routeName?.includes('favorite')">
@@ -26,6 +27,8 @@ const favoriteStore = useFavoritesStore()
         <RouterLink :to="{ name: 'favoriteCreatures' }" v-if="favoriteStore.data['creatures'].length">Бестиарий
         </RouterLink>
         <RouterLink :to="{ name: 'favoriteActions' }" v-if="favoriteStore.data['actions'].length">Действия
+        </RouterLink>
+        <RouterLink :to="{ name: 'favoriteAncestries' }" v-if="favoriteStore.data['ancestries'].length">Родословные
         </RouterLink>
     </nav>
 

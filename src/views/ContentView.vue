@@ -1,21 +1,18 @@
 <script setup lang="ts">
-import { ref, watch } from 'vue';
-import FilterComponent from "@components/filter/FilterComponent.vue"
-import TableComponent from "@components/TableComponent.vue"
-import { useRoute } from 'vue-router';
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faFilter } from '@fortawesome/free-solid-svg-icons';
-const hidden = ref(false)
+import {watch} from 'vue';
+import MobileMainLayout from '@/components/layout/MobileMainLayout.vue';
+import DesktopMainLayout from '@/components/layout/DesktopMainLayout.vue';
+
+import {useRoute} from 'vue-router';
+import {isVertical} from '@/mediaGetters';
+
 const route = useRoute()
 watch(route, () => console.log(route))
 </script>
 <template>
   <main>
-    <FilterComponent :class="{ hidden: !hidden }" />
-    <TableComponent :class="{ hidden }" />
-    <button @click="() => { hidden = !hidden }" class="filter-visibility">
-    <FontAwesomeIcon :icon="faFilter"  size="3x"  />
-    </button>
+    <MobileMainLayout v-if="isVertical"></MobileMainLayout>
+    <DesktopMainLayout v-else></DesktopMainLayout>
   </main>
 </template>
 
@@ -25,25 +22,20 @@ main {
   display: flex;
   padding: 0 2rem;
   gap: 10px;
+  justify-content: center;
 }
 
-.filter-visibility {
-  display: none;
-  border: none;
-  position: absolute;
-  overflow: hidden;
-  left: 0;
-  top:2rem;
-  aspect-ratio: 1/1;
-}
-
-@media (max-aspect-ratio:1/1) {
+@media (max-aspect-ratio: 1/1) {
   main {
+    flex-basis: 95%;
     position: relative;
+    padding: 0;
+    flex-direction: column;
+    //align-items: stretch;
+    justify-content: space-around;
+
   }
 
-  .filter-visibility {
-    display: block;
-  }
+
 }
 </style>

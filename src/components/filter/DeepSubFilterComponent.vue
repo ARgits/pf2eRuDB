@@ -15,8 +15,8 @@ const dataType = computed(() => {
   return route.fullPath.includes('favorites') ? route.fullPath.split('/')[2] as DataRoutes : route.path.replace('/', '') as DataRoutes
 })
 const searchOption = ref("")
-const data = computed(() => filterStore.filterReadyData[dataType.value][subfiltKey] as filterProps & { isDeep: false })
-const dataOptions = computed(() => data.value.selection === "minMax" ? [] : data.value.options?.filter((opt) => opt.toLocaleLowerCase().includes(searchOption.value.toLocaleLowerCase())))
+const data = computed(() => filterStore.filterReadyData[dataType.value][subfiltKey] as filterProps & { isDeep: true })
+const dataOptions = computed(() => data.value.options)
 const openedFilter = inject<Ref<keyof FilterKeys[DataRoutes] | "">>("openedFilter")
 // const isShown = computed(() => openedFilter!.value === subfiltKey)
 const isOpened = ref(false)
@@ -36,19 +36,20 @@ function resetFilter() {
 }
 
 const isFilterNotEmpty = computed(() => {
-  if (data.value.isDeep) return false
-  if (data.value.value.length && !data.value.defaultValue.length) {
+  const value = Object.values(data.value.value)
+  const defaultValue = Object.values(data.value.defaultValue)
+  const disabled = Object.values(data.value.disabled)
+  if (value.reduce((prev, next) => prev + next.length, 0) && !defaultValue.reduce((prev, next) => prev + next.length, 0)) {
     return true
   }
-  if (data.value.disabled.length) {
+  if (disabled.reduce((prev, next) => prev + next.length, 0)) {
     return true
   }
-  if (data.value.defaultValue.length) {
-    return !data.value.value.every((item) => data.value.defaultValue.includes(item.toString()))
+  if (defaultValue.reduce((prev, next) => prev + next.length, 0)) {
+    return !value.every((item, ind) => defaultValue[ind].every((v) => item.includes(v)))
   }
   return false
 })
-
 </script>
 <template>
   <div class="subfilter">
@@ -61,26 +62,20 @@ const isFilterNotEmpty = computed(() => {
     </div>
     <ContainerSlideTransition>
       <template v-if="isShown">
-        <div v-if="data.selection === 'minMax'">
-          <label> От
-            <input type="number" :min="data.min" :max="data.value[1]" v-model="data.value[0]" />
-          </label>
-          <label> До
-            <input type="number" :min="data.value[0]" :max="data.max" v-model="data.value[1]" />
-          </label>
-        </div>
-
-        <div v-else class="options">
-          <div v-if="data.hasSearch" style="flex-basis: 100%;">
-            <input v-model="searchOption" />
-          </div>
-          <div v-for="opt of dataOptions" :key="opt" class="options_item"
-            :class="{ include: data.value.includes(opt), exclude: data.disabled.includes(opt) }"
-            @click="changeState(opt)">
-            <div>
-              {{ data.optionsName?.[opt] ?? opt }}
-            </div>
-          </div>
+        <div class="options">
+          <template v-for="(opt, key) of dataOptions" :key="key">
+            <template v-if="data.selection === 'minMax' && ('min' in opt)">
+              <span>{{ data.optionsName[key] }} </span>
+              <label> От
+                <input type="number" :min="opt.min" :max="data.value[key][1]" v-model="data.value[key][0]"
+                  @change="console.log(data, data.value[key])" />
+              </label>
+              <label> До
+                <input type="number" :min="data.value[key][0]" :max="opt.max" v-model="data.value[key][1]"
+                  @change="console.log(data, data.value[key])" />
+              </label>
+            </template>
+          </template>
         </div>
       </template>
     </ContainerSlideTransition>
@@ -126,7 +121,7 @@ label {
   & input {
     background-color: unset;
     border: none;
-    width: fit-content;
+    width: 2.5em;
 
     &:focus,
     &:focus-visible {
@@ -146,36 +141,8 @@ label {
 }
 
 .options {
-  display: flex;
-  flex-wrap: wrap;
+  display: grid;
+  grid-template-columns: 1fr repeat(2, auto);
   gap: 10px;
-  align-items: flex-start;
-  align-content: flex-start;
-  overflow-y: auto;
-  scrollbar-gutter: stable;
-  //border: 1px dotted black;
-  padding: 0 .5rem;
-  // height: 500px;
-  min-height: 1.5rem;
-  // max-height: 500px;
-
-
-
-  &_item {
-    display: flex;
-    border: 1px solid black;
-    border-radius: var(--border-radius);
-    user-select: none;
-    padding: 0 .25rem;
-    // min-height: min-content;
-
-    &.include {
-      background-color: hsl(113, 50%, 50%)
-    }
-
-    &.exclude {
-      background-color: hsl(0, 100%, 60%)
-    }
-  }
 }
 </style>

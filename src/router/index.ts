@@ -11,6 +11,11 @@ const router = createRouter({
       redirect: { path: '/backgrounds' }
     },
     {
+      path: '/ancestries',
+      name: 'ancestries',
+      component: () => import('@views/ContentView.vue'),
+    },
+    {
       path: '/feats',
       name: "feats",
       component: () => import('@views/ContentView.vue'),
@@ -39,7 +44,7 @@ const router = createRouter({
       path: '/favorites',
       redirect: _ => {
         const favoritesStore = useFavoritesStore()
-        for (const path of ['feats', 'spells', 'backgrounds', 'creatures', 'actions',] as DataRoutes[]) {
+        for (const path of ['feats', 'spells', 'backgrounds', 'creatures', 'actions', 'ancestries'] as DataRoutes[]) {
           if (favoritesStore.data[path].length) {
             return { name: `favorite${capitalize(path)}` }
           }
@@ -54,6 +59,7 @@ const router = createRouter({
         { path: 'actions', name: "favoriteActions", component: () => import('@views/ContentView.vue'), },
         { path: 'backgrounds', name: "favoriteBackgrounds", component: () => import('@views/ContentView.vue'), },
         { path: 'creatures', name: "favoriteCreatures", component: () => import('@views/ContentView.vue'), },
+        { path: 'ancestries', name: "favoriteAncestries", component: () => import('@views/ContentView.vue'), },
         // { path: '/favorites/spells', component: () => import('@views/ContentView.vue') }
       ]
     },

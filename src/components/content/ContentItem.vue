@@ -11,7 +11,7 @@ import { faCaretDown } from "@fortawesome/free-solid-svg-icons";
 import RotateTransition from "@components/transitions/RotateTransition.vue";
 import { useModalWindows } from "@stores/modalWindows";
 import { faSquareXmark } from '@fortawesome/free-solid-svg-icons';
-const props = defineProps<{ content: generalContent, inGrid: boolean, modal?: boolean }>()
+const props = defineProps<{ content: generalContent, modal?: boolean }>()
 
 const { closeModal } = useModalWindows()
 
@@ -40,23 +40,25 @@ function close() {
                 <FontAwesomeIcon :icon="faSquareXmark"></FontAwesomeIcon>
             </button>
             <FavoriteButton :id="content.id" :dataType="content.dataType"></FavoriteButton>
-            <span v-if="content.name">{{ content.name }} ({{ content.originalName }}) {{
-                "level" in content ? `/
-                ${content.level}` : ''
-              }}</span>
-            <span v-else v-html="content.fullName"></span>
+
+            <div v-if="content.name">
+                <div>{{ content.name }}</div>
+                <div>{{ content.originalName }}</div>
+                <div v-if="'level' in content">Уровень: {{ content.level }}</div>
+            </div>
+            <div v-else v-html="content.fullName"></div>
             <hr />
         </div>
         <ContentTraits v-if="content.traits?.length" :content="content"></ContentTraits>
-      <button @click="showHideDesc">
-        <RotateTransition angle="180deg" :trigger="isDescVisible">
-          <FontAwesomeIcon :icon="faCaretDown"></FontAwesomeIcon>
-        </RotateTransition>
-        Описание
-        <RotateTransition angle="180deg" :trigger="isDescVisible">
-          <FontAwesomeIcon :icon="faCaretDown"></FontAwesomeIcon>
-        </RotateTransition>
-      </button>
+        <button @click="showHideDesc">
+            <RotateTransition angle="180deg" :trigger="isDescVisible">
+                <FontAwesomeIcon :icon="faCaretDown"></FontAwesomeIcon>
+            </RotateTransition>
+            Описание
+            <RotateTransition angle="180deg" :trigger="isDescVisible">
+                <FontAwesomeIcon :icon="faCaretDown"></FontAwesomeIcon>
+            </RotateTransition>
+        </button>
         <ContainerSlideTransition>
             <ContentDescription v-if="isDescVisible" :description="content.desc">
             </ContentDescription>
@@ -69,6 +71,7 @@ function close() {
 .content_item {
     border: 1px solid black;
     border-radius: var(--border-radius);
+
     padding: 5px;
     width: calc(100% - 12px);
     max-width: 100%;
@@ -78,10 +81,14 @@ function close() {
     display: flex;
     flex-direction: column;
     transition: 1s;
+    background: var(--background-img);
 
+    &>button {
+        background-color: hsla(0, 0%, 0%, .1);
+    }
 }
 
-.close {
+b .close {
     display: inline;
     padding: 0;
     float: right;
@@ -93,9 +100,11 @@ function close() {
 
 .name {
 
-    & span {
+    &>div {
         font-size: 110%;
-        width: min-content;
+        display: flex;
+        flex-wrap: wrap;
+        gap: 10px;
     }
 }
 

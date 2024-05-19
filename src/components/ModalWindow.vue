@@ -24,8 +24,15 @@ const data = getData(props.id)
     position: absolute;
     border: 1px solid black;
     background: inherit;
+    width: max-content;
+    height: max-content;
     max-width: 50%;
-    margin: auto
+    max-height: 50%;
+    margin: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
 }
 
 .close {
