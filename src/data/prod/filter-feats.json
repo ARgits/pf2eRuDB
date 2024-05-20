@@ -8,7 +8,7 @@
             "excluded": [],
             "hasSearch": false,
             "search": "",
-            "selection": "singleRadio",
+            "selection": "multipleRadio",
             "options": [
                 "Advanced Player's Guide",
                 "Azarketi Ancestry Web Supplement",

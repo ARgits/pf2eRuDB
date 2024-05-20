@@ -133,7 +133,16 @@
             "search": "",
             "selection": "multipleRadio",
             "options": [
-                "CoreBook"
+                "Advanced Player's Guide",
+                "Book of the Dead",
+                "CoreBook",
+                "Guns & Gears",
+                "Lost Omens: Ancestry Guide",
+                "Lost Omens: Azarketi Ancestry Web Supplement",
+                "Lost Omens: Character Guide",
+                "Lost Omens: Grand Bazaar",
+                "Lost Omens: Impossible Lands",
+                "Lost Omens: The Mwangi Expanse"
             ],
             "value": []
         },

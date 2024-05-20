@@ -4,6 +4,7 @@ import type { Data, DataRoutes, Entries, generalContent } from "@types"
 import { useFilterStore } from "./filter"
 import { useRoute } from "vue-router"
 import { useFavoritesStore } from "./favorites"
+import { backgrounds } from "@/data/manualData/backgrounds"
 
 export const useContentStore = defineStore("content", () => {
     const contentData = reactive({}) as Pick<Data, "actions" | "backgrounds" | "creatures" | "feats" | "spells" | "ancestries">
@@ -14,9 +15,10 @@ export const useContentStore = defineStore("content", () => {
     const sortBy: Ref<"1" | "2" | "3" | "4" | "5" | "6"> = ref("3")
     const filteredData = computed(() => {
         const filterStore = useFilterStore()
-        if (!filterStore.isDataFetched || !isContentDataFetched.value) return []
-        // console.log(route.path)
         const dataType = (route.name! as String).includes('favorite') ? (route.name as String).replace('favorite', '').toLocaleLowerCase() as DataRoutes : route.name as DataRoutes
+        if (!filterStore.isDataFetched || !isFetchedByKey.value[dataType]) return []
+        // console.log(route.path)
+
         const data = (route.name! as String).includes('favorite') ? useFavoritesStore().data[dataType] : contentData[dataType]
         const filterSubData = filterStore.filterReadyData[dataType]
         if (!filterSubData) return data.sort(sortByNameAndLevel)
@@ -59,6 +61,10 @@ export const useContentStore = defineStore("content", () => {
                             //
                         }
                         else {
+                            if (content[key] === undefined) {
+                                console.log(key, content)
+                            }
+
                             const item = content[key].flat()
                             if (val.disabled.some((str) => item.includes(str))) return 0
                             numOfMatches += val.value.some((str) => item.includes(str)) || val.value.length === 0 ? 1 : 0
@@ -126,8 +132,17 @@ export const useContentStore = defineStore("content", () => {
         isContentDataFetched.value = true
         console.log(contentData)
     }
-
+    const isFetchedByKey = computed(() => {
+        return {
+            actions: contentData['actions']?.length === 192,
+            backgrounds: contentData["backgrounds"]?.length === 220,
+            ancestries: contentData["ancestries"]?.length === 35,
+            creatures: contentData['creatures']?.length === 680,
+            feats: contentData['feats']?.length === 3784,
+            spells: contentData['spells']?.length === 1091,
+        }
+    })
     watch(route, () => sortBy.value = "3")
     watch(sortBy, () => console.log(sortBy.value))
-    return { contentData, fetchData, filteredData, searchItem, isDataFetched: isContentDataFetched, sortBy }
+    return { contentData, fetchData, filteredData, searchItem, isDataFetched: isContentDataFetched, sortBy, isFetchedByKey }
 })

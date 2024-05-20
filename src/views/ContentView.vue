@@ -1,10 +1,10 @@
 <script setup lang="ts">
-import {watch} from 'vue';
+import { watch } from 'vue';
 import MobileMainLayout from '@/components/layout/MobileMainLayout.vue';
 import DesktopMainLayout from '@/components/layout/DesktopMainLayout.vue';
 
-import {useRoute} from 'vue-router';
-import {isVertical} from '@/mediaGetters';
+import { useRoute } from 'vue-router';
+import { isVertical } from '@/mediaGetters';
 
 const route = useRoute()
 watch(route, () => console.log(route))
@@ -23,6 +23,9 @@ main {
   padding: 0 2rem;
   gap: 10px;
   justify-content: center;
+  background-color: rgba(grey, .15);
+  border: 1px solid transparent;
+  border-radius: var(--border-radius);
 }
 
 @media (max-aspect-ratio: 1/1) {
@@ -33,7 +36,7 @@ main {
     flex-direction: column;
     //align-items: stretch;
     justify-content: space-around;
-
+    background-color: unset;
   }
 
 

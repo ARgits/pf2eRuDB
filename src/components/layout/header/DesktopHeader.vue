@@ -2,54 +2,65 @@
 import { computed } from 'vue';
 import { RouterLink, useRoute } from 'vue-router';
 import { useFavoritesStore } from "@stores/favorites"
+import ContainerSlideTransition from '@/components/transitions/ContainerSlideTransition.vue';
+import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
+import { faArrowTurnDown } from '@fortawesome/free-solid-svg-icons';
 const route = useRoute()
 const routeName = computed(() => route.name as string)
 const favoriteStore = useFavoritesStore()
 </script>
 <template>
     <nav>
-        <RouterLink to="/feats">Способности</RouterLink>
-        <RouterLink to="/backgrounds">Происхождения</RouterLink>
-        <RouterLink to="/spells">Заклинания</RouterLink>
-        <RouterLink to="/creatures">Бестиарий</RouterLink>
-        <RouterLink to="/actions">Действия</RouterLink>
-        <RouterLink to="/ancestries">Родословные</RouterLink>
-        <RouterLink to="/favorites">Избранное</RouterLink>
+        <div>
+            <RouterLink to="/feats">Способности</RouterLink>
+            <RouterLink to="/backgrounds">Происхождения</RouterLink>
+            <RouterLink to="/spells">Заклинания</RouterLink>
+            <RouterLink to="/creatures">Бестиарий</RouterLink>
+            <RouterLink to="/actions">Действия</RouterLink>
+            <RouterLink to="/ancestries">Родословные</RouterLink>
+            <RouterLink to="/favorites">Избранное</RouterLink>
+        </div>
+        <ContainerSlideTransition>
+            <div v-if="routeName?.includes('favorite')">
+                <RouterLink :to="{ name: 'favoriteFeats' }">Способности
+                </RouterLink>
+                <RouterLink :to="{ name: 'favoriteBackgrounds' }">
+                    Происхождения
+                </RouterLink>
+                <RouterLink :to="{ name: 'favoriteSpells' }">Заклинания
+                </RouterLink>
+                <RouterLink :to="{ name: 'favoriteCreatures' }">Бестиарий
+                </RouterLink>
+                <RouterLink :to="{ name: 'favoriteActions' }">Действия
+                </RouterLink>
+                <RouterLink :to="{ name: 'favoriteAncestries' }">Родословные
+                </RouterLink>
+                <FontAwesomeIcon :icon="faArrowTurnDown" rotation="90" size="2x"></FontAwesomeIcon>
+            </div>
+        </ContainerSlideTransition>
     </nav>
-    <nav v-if="routeName?.includes('favorite')">
-        <RouterLink :to="{ name: 'favoriteFeats' }" v-if="favoriteStore.data['feats'].length">Способности
-        </RouterLink>
-        <RouterLink :to="{ name: 'favoriteBackgrounds' }" v-if="favoriteStore.data['backgrounds'].length">
-            Происхождения
-        </RouterLink>
-        <RouterLink :to="{ name: 'favoriteSpells' }" v-if="favoriteStore.data['spells'].length">Заклинания
-        </RouterLink>
-        <RouterLink :to="{ name: 'favoriteCreatures' }" v-if="favoriteStore.data['creatures'].length">Бестиарий
-        </RouterLink>
-        <RouterLink :to="{ name: 'favoriteActions' }" v-if="favoriteStore.data['actions'].length">Действия
-        </RouterLink>
-        <RouterLink :to="{ name: 'favoriteAncestries' }" v-if="favoriteStore.data['ancestries'].length">Родословные
-        </RouterLink>
-    </nav>
-
 </template>
 <style scoped lang="scss">
 nav {
-    &:not(:first-child) {
-        width: fit-content;
-        background-color: rgba(grey, .25);
-        border-radius: 5px 0 5px 5px;
-    }
+    width: fit-content;
+    border-radius: var(--border-radius);
+    display: flex;
+    flex-direction: column;
+    // gap: 10px;
 
     & a {
         padding: 0 1rem;
         border-radius: 5px 5px 0 0;
+        background-color: rgba(grey, .55);
+        font-size: 110%;
+        // color: white;
 
         &.router-link-active {
             position: relative;
-            top: 2px;
-            color: red;
-            background-color: rgba(grey, .25);
+            background-color: rgba(grey, .15);
+            color: black // transform: translateY(.5px);
+                // top: 1px;
+                // background-color: white
         }
     }
 

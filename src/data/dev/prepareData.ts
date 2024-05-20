@@ -17,11 +17,11 @@ import type {
     spellsFilter,
     spellType,
 } from "@types";
-import {backgrounds as backgroundsManual} from "../manualData/backgrounds"
-import {spells as spellsManual} from "../manualData/spells"
+import { backgrounds as backgroundsManual } from "../manualData/backgrounds"
+import { spells as spellsManual } from "../manualData/spells"
 import * as cheerio from "cheerio";
 import data from "../dev/data.json" assert {type: "json"};
-import {conditions} from "../dev/constants.js";
+import { conditions } from "../dev/constants.js";
 
 const allImgs = ["/PF_action_1.webp", "/PF_action_2.webp", "/PF_action_3.webp", "/PF_action_free.webp", "/PF_action_reaction.webp"];
 const nameOfNum: { [index: string]: number } = {
@@ -64,7 +64,7 @@ const textToAncestryProp = {
     'Языки': 'languages',
     'Признаки': 'traits',
     'Редкость': 'rarity',
-    'Источник': 'src'
+    'Источник': 'srcBook'
 } as const
 const sizeReplacement = {
     "Крошечный": 'tiny',
@@ -140,7 +140,7 @@ function prepareData(data: any): Data {
                 $(res).find(".headerlink").remove();
                 const fullName = $(res).find("caption .caption-text").prop("outerHTML")!;
                 const desc = [...$(res).children(':not(caption)')].reduce((prev, next) => prev + $(next).prop('outerHTML'), '')
-                tables.set(id, {fullName, desc, dataType: 'table'});
+                tables.set(id, { fullName, desc, dataType: 'table' });
             }
         });
         prepareBackgrounds();
@@ -149,10 +149,10 @@ function prepareData(data: any): Data {
     allData.push(
         ...conditions,
         ...[...tables].map((val) => {
-            return {id: val[0], ...val[1]};
+            return { id: val[0], ...val[1] };
         })
     );
-    const tempData = {backgrounds, spells, actions, feats, creatures, ancestries};
+    const tempData = { backgrounds, spells, actions, feats, creatures, ancestries };
     for (const arr of Object.values(tempData)) {
         for (const value of arr) {
             if (value?.desc) {
@@ -177,16 +177,16 @@ function prepareData(data: any): Data {
     }
     return {
         ...tempData, tables: [...tables].map((a) => {
-            return {id: a[0], desc: a[1].desc, dataType: a[1].dataType, fullName: a[1].fullName}
+            return { id: a[0], desc: a[1].desc, dataType: a[1].dataType, fullName: a[1].fullName }
         }), allData, traits, paragraphs, conditions
     };
 }
 
 function prepareBackgrounds() {
     $('section[id^="bg"]').each((_, res) => {
-        const {fullName, originalName, name} = getFullname($(res));
+        const { fullName, originalName, name } = getFullname($(res));
         const alltraits = getTraits($(res));
-        const {attributeDesc, attributeValue} = getAttributeArray(res);
+        const { attributeDesc, attributeValue } = getAttributeArray(res);
         let desc = "";
         $(res)
             .children("p")
@@ -272,7 +272,7 @@ function prepareContentWithTraits() {
 }
 
 function prepareAncestry(el: cheerio.Cheerio<cheerio.Element>): ancestryType {
-    const {fullName, name, originalName} = getFullname(el)
+    const { fullName, name, originalName } = getFullname(el)
 
     function getAttrFromAside() {
         const aside = el.children('aside')
@@ -312,7 +312,7 @@ function prepareAncestry(el: cheerio.Cheerio<cheerio.Element>): ancestryType {
                         attributes.vision = childTextContent
                         currentProp = ""
                     } else {
-                        attributes.special.push({name: childTextContent, desc: ''})
+                        attributes.special.push({ name: childTextContent, desc: '' })
                         currentProp = "special"
                     }
 
@@ -333,7 +333,7 @@ function prepareAncestry(el: cheerio.Cheerio<cheerio.Element>): ancestryType {
                         attributes[currentProp] = rarityReplacement[childTextContent as keyof typeof rarityReplacement]
                         break
                     }
-                    case "src": {
+                    case "srcBook": {
                         const book = childTextContent.replace('Lost Omens ', 'Lost Omens: ').split(',').map((str) => str.match(/.*(?=pg)/gm)?.[0].trim() ?? "CoreBook")
                         attributes[currentProp] = book
                         break
@@ -353,7 +353,7 @@ function prepareAncestry(el: cheerio.Cheerio<cheerio.Element>): ancestryType {
                     }
                     case "boosts":
                     case "flaws": {
-                        const abil = attributeReplacement[childTextContent as keyof typeof attributeReplacement] ? [attributeReplacement[childTextContent as keyof typeof attributeReplacement]] : ["str", "dex", "con", "int", "wis", "cha"]
+                        const abil = attributeReplacement[childTextContent as keyof typeof attributeReplacement] ? [attributeReplacement[childTextContent as keyof typeof attributeReplacement]] : ["any"]
                         attributes[currentProp].push(abil)
                         break
                     }
@@ -408,7 +408,7 @@ function prepareAncestry(el: cheerio.Cheerio<cheerio.Element>): ancestryType {
 }
 
 function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): spellType {
-    const {fullName, name, originalName, level} = getFullname(el);
+    const { fullName, name, originalName, level } = getFullname(el);
     const traditionNode = el.children().filter((_, child) => !!$(child).prop("textContent")?.includes("Обычай: "));
     const tradition = traditionNode.length
         ? $(traditionNode)
@@ -453,7 +453,7 @@ function prepareSpell(el: cheerio.Cheerio<cheerio.Element>): spellType {
 }
 
 function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): creatureType {
-    const {fullName, name, originalName, level} = getFullname(el);
+    const { fullName, name, originalName, level } = getFullname(el);
     const traits = getTraits(el)
 
     function getHP() {
@@ -568,15 +568,15 @@ function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): creatureType {
         let perception: creatureType["perception"] = 0
         const senses: creatureType["senses"] = []
         const child = el.children().filter((_, p) => !!$(p).prop('textContent')?.includes('Восприятие:'))
-        if (!child.length) return {perception, senses}
+        if (!child.length) return { perception, senses }
         const percepAndSenses = child.prop('textContent')!.replace('Восприятие:', '').split(';').map((v) => v.includes(',') ? v.split(',') : v)
         perception = parseInt(percepAndSenses[0] as string)
         const sensesSlice = percepAndSenses.slice(1)
 
-        return {perception, senses}
+        return { perception, senses }
     }
 
-    const {perception, senses} = getPerceptionAndSenses()
+    const { perception, senses } = getPerceptionAndSenses()
     return {
         dataType: "creature",
         id: getId(el),
@@ -601,20 +601,27 @@ function prepareCreature(el: cheerio.Cheerio<cheerio.Element>): creatureType {
 }
 
 function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): featType {
-    const {fullName, name, originalName, level} = getFullname(el);
+    const { fullName, name, originalName, level } = getFullname(el);
     const alltraits = getTraits(el);
     const id = getId(el);
     const archetype = id.includes("arch-feat") ? getArchetype(el) : "";
 
     function getSkills() {
-        if (!alltraits.includes("навык")) return []
-        const requirementsElem = el.children().filter((_, p) => $(p).prop("textContent")!.includes('Предварительные условия:'))
+        if (name === 'Акробатическое выступление') {
+            console.log(alltraits, !alltraits.includes("Навык"))
+        }
+        if (!alltraits.includes("Навык")) return []
+        const requirementsElem = el.children().filter((_, p) => !!$(p).prop("textContent")?.includes('Предварительные условия:'))
+        if (name === 'Акробатическое выступление') {
+            console.log(!requirementsElem.length)
+        }
         if (!requirementsElem.length) return []
-        return [...$(requirementsElem[0]).prop("textContent")!.matchAll(skillsRegex)].map((d) => skillsReplacement[d[0] as keyof typeof skillsReplacement]) as string[]
+        if (name === 'Акробатическое выступление') {
+            console.log(requirementsElem.prop("textContent"))
+        }
+        return requirementsElem.prop("textContent")!.match(skillsRegex)?.map((d) => skillsReplacement[d as keyof typeof skillsReplacement]) ?? []
 
     }
-
-    const skills = getSkills()
     return {
         dataType: 'feat',
         fullName,
@@ -628,12 +635,12 @@ function prepareFeat(el: cheerio.Cheerio<cheerio.Element>): featType {
         action: getAction(el),
         id,
         archetype,
-        skills
+        skills: getSkills()
     };
 }
 
 function prepareAction(el: cheerio.Cheerio<cheerio.Element>): actionType {
-    const {fullName, name, originalName} = getFullname(el);
+    const { fullName, name, originalName } = getFullname(el);
     return {
         dataType: "action",
         fullName,
@@ -705,7 +712,7 @@ function getAttributeArray(element: cheerio.Element) {
             return ["Свободное"];
         });
     }
-    return {attribParagraph, attributeDesc, attributeValue};
+    return { attribParagraph, attributeDesc, attributeValue };
 }
 
 function getRarity(allTraits: string[]): string {
@@ -1035,7 +1042,7 @@ function prepareFilters(data: Data): globalFilter {
             excluded: [],
             hasSearch: false,
             search: '',
-            selection: "singleRadio",
+            selection: "multipleRadio",
             options: [...new Set(data.feats.map((content) => content.srcBook).flat())].sort((a, b) => a.localeCompare(b)),
             value: []
         },
@@ -1404,7 +1411,7 @@ function prepareFilters(data: Data): globalFilter {
         }
 
     };
-    return {backgrounds, spells, feats, actions, creatures, ancestries};
+    return { backgrounds, spells, feats, actions, creatures, ancestries };
 }
 
 export const readyData = prepareData(data);

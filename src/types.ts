@@ -49,8 +49,8 @@ type ancestryProperties = {
         value: string[]
     },
     vision: string,
-    boosts: ["str", "dex", "con", "int", "wis", "cha"][],
-    flaws: ["str", "dex", "con", "int", "wis", "cha"][],
+    boosts: ["str", "dex", "con", "int", "wis", "cha", "any"][],
+    flaws: ["str", "dex", "con", "int", "wis", "cha", "any"][],
     special: { name: string, desc: string }[]
 };
 // eslint-disable-next-line @typescript-eslint/no-unused-vars
