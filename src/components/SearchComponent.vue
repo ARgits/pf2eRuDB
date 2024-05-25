@@ -2,9 +2,16 @@
 import { useContentStore } from '@stores/content';
 import { usePaginationStore } from '@stores/pagination';
 import { storeToRefs } from 'pinia';
-
-const { filteredData, searchItem, sortBy } = storeToRefs(useContentStore())
+import ItemsCounterComponent from '@components/ItemsCounterComponent.vue';
+import { isVertical } from '@/mediaGetters';
+import { ref, watch } from 'vue';
+const emit = defineEmits(['changeNumOfColumns'])
+const { filteredData, searchItem, sortBy, } = storeToRefs(useContentStore())
 const { itemsPerPage } = storeToRefs(usePaginationStore())
+const numOfColumns = ref(1)
+watch(numOfColumns, () => {
+    emit('changeNumOfColumns', numOfColumns.value)
+})
 </script>
 <template>
     <div class="search" v-if="filteredData.length">
@@ -30,6 +37,8 @@ const { itemsPerPage } = storeToRefs(usePaginationStore())
                 <option value=100>100</option>
             </select>
         </div>
+        <ItemsCounterComponent></ItemsCounterComponent>
+        <input v-if="!isVertical" v-model="numOfColumns" type="number" min="1" />
     </div>
 </template>
 <style lang="scss" scoped>

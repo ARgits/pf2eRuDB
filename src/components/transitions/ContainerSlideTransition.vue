@@ -48,6 +48,7 @@ function onAfterEnter(el: Element) {
 
 function onLeave(el: Element, done: () => void) {
     transitionDone.value = false
+    console.log('leave')
     gsap.to(el, {
         maxHeight: 0,
         minHeight: 0,
@@ -62,7 +63,7 @@ function onLeave(el: Element, done: () => void) {
 </script>
 <template>
     <Transition name="containerSlide" :css="false" @before-enter="onBeforeEnter" @enter="onEnter"
-        @after-enter="onAfterEnter" @leave="onLeave">
+        @after-enter="onAfterEnter" @leave="onLeave" appear>
         <slot />
     </Transition>
 </template>

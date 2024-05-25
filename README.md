@@ -1,18 +1,47 @@
 # PF2eRuDB
 
-This template should help get you started developing with Vue 3 in Vite.
+Контент с сайта https://pf2e-ru-translation.readthedocs.io/ru/latest/, собранные в удобные таблицы с фильтрами/сортировками, наподобие https://2e.aonprd.com/.
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## Прогресс и планы
 
-## Type Support for `.vue` Imports in TS
+### Текущее наполнение и функционал
+1. Контент
+    - Заклинания 
+    - Происхождения 
+    - Способности 
+    - Действия 
+    - Бестиарий 
+    - Родословные 
+2. Фильтры (где это применимо)
+    - Источник (книга) 
+    - Редкость 
+    - Признаки 
+    - Уровень 
+    - Очки Здоровья (ОЗ) 
+    - Характеристики 
+    - Навыки 
+    - Кол-во требуемых действий 
+    - Тип заклинаний 
+    - Тип сотворения у заклинаний 
+    - Требуемый спасбросок (только у заклинаний) 
+    - Традиция заклинания 
+    - Принадлежность способности к конкретному архетипу 
+3. Возможность добавлять контент в избранное 
+    - применение фильтров в избранном 
+4. Поиск контента по названию (на английском и русском)
+5. Сортировка по названию и уровню (где это применимо)
 
-TypeScript cannot handle type information for `.vue` imports by default, so we replace the `tsc` CLI with `vue-tsc` for type checking. In editors, we need [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) to make the TypeScript language service aware of `.vue` types.
+### Появится в ближайшее время
+- Возможность открыть конкретное заклинание/способность/др. в отдельной вкладке
+- Расширенные фильтры для Бестиария
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
+### В планах (без сроков)
+1. Контент
+    - классы
+    - наследия
+    - предметы
+2. Сделать PWA конфигурацию (чтобы использовать оффлайн)
 
 ## Project Setup
 
@@ -26,7 +55,7 @@ npm install
 npm run dev
 ```
 
-### Type-Check, Compile and Minify for Production
+### Compile and Minify for Production
 
 ```sh
 npm run build
@@ -43,3 +72,4 @@ npm run test:unit
 ```sh
 npm run lint
 ```
+

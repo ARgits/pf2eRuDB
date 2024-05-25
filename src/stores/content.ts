@@ -1,13 +1,20 @@
 import { defineStore } from "pinia"
 import { computed, reactive, ref, watch, type Ref, } from "vue"
-import type { Data, DataRoutes, Entries, generalContent } from "@types"
+import type { Data, DataRoutes, Entries, actionType, ancestryType, backgroundType, creatureType, featType, generalContent, spellType } from "@types"
 import { useFilterStore } from "./filter"
 import { useRoute } from "vue-router"
 import { useFavoritesStore } from "./favorites"
-import { backgrounds } from "@/data/manualData/backgrounds"
 
 export const useContentStore = defineStore("content", () => {
-    const contentData = reactive({}) as Pick<Data, "actions" | "backgrounds" | "creatures" | "feats" | "spells" | "ancestries">
+    const contentData = reactive({
+        actions: [] as actionType[],
+        ancestries: [] as ancestryType[],
+        backgrounds: [] as backgroundType[],
+        creatures: [] as creatureType[],
+        feats: [] as featType[],
+        spells: [] as spellType[]
+    }) as Record<DataRoutes, generalContent[]>
+    const globalIndex = reactive({}) as Record<generalContent["id"], generalContent>
     const importedPaths: string[] = []
     const isContentDataFetched = ref(false)
     const route = useRoute()
@@ -15,6 +22,7 @@ export const useContentStore = defineStore("content", () => {
     const sortBy: Ref<"1" | "2" | "3" | "4" | "5" | "6"> = ref("3")
     const filteredData = computed(() => {
         const filterStore = useFilterStore()
+        console.log(route.name)
         const dataType = (route.name! as String).includes('favorite') ? (route.name as String).replace('favorite', '').toLocaleLowerCase() as DataRoutes : route.name as DataRoutes
         if (!filterStore.isDataFetched || !isFetchedByKey.value[dataType]) return []
         // console.log(route.path)
@@ -24,9 +32,6 @@ export const useContentStore = defineStore("content", () => {
         if (!filterSubData) return data.sort(sortByNameAndLevel)
         const notEmptyFilters = Object.entries(filterSubData).filter(([_, filt]) => {
             if (filt.isDeep) {
-                // return Object.entries(filt.value).some(([optKey, optVal]) =>
-                //     optVal === filt.disabled[optKey]
-                // )
                 return true
             }
             return filt.value.length !== 0 || filt.disabled.length !== 0
@@ -91,6 +96,7 @@ export const useContentStore = defineStore("content", () => {
         })
         return result.sort(sortByNameAndLevel)
     })
+    const numOfItems = computed(() => filteredData.value.length)
     function sortByNameAndLevel(a: generalContent, b: generalContent) {
         switch (sortBy.value) {
             case "1": {
@@ -116,15 +122,14 @@ export const useContentStore = defineStore("content", () => {
         }
     }
     async function fetchData() {
+        console.log(route.name)
         const modules = import.meta.glob(["@data/prod/*.json", "!**/filter*.json"], { import: 'default' })
         for (const path in modules) {
-
             if (!importedPaths.includes(path)) {
                 // console.log(path)
-                const module = await modules[path]() as Partial<Pick<Data, "actions" | "backgrounds" | "creatures" | "feats" | "spells">>
+                const module = await modules[path]() as typeof contentData
                 const key = Object.keys(module)[0] as keyof Pick<Data, "actions" | "backgrounds" | "creatures" | "feats" | "spells">
-                //@ts-ignore
-                contentData[key] = contentData[key] ? [...contentData[key], ...module[key]] : [...module[key]]
+                addItems(key, module[key])
                 importedPaths.push(path)
             }
         }
@@ -132,17 +137,34 @@ export const useContentStore = defineStore("content", () => {
         isContentDataFetched.value = true
         console.log(contentData)
     }
+    const maxLengthContent = {
+        actions: 192,
+        backgrounds: 220,
+        ancestries: 35,
+        creatures: 680,
+        feats: 3784,
+        spells: 1091,
+    }
     const isFetchedByKey = computed(() => {
         return {
-            actions: contentData['actions']?.length === 192,
-            backgrounds: contentData["backgrounds"]?.length === 220,
-            ancestries: contentData["ancestries"]?.length === 35,
-            creatures: contentData['creatures']?.length === 680,
-            feats: contentData['feats']?.length === 3784,
-            spells: contentData['spells']?.length === 1091,
+            actions: contentData['actions'].length === maxLengthContent["actions"],
+            backgrounds: contentData["backgrounds"].length === maxLengthContent["backgrounds"],
+            ancestries: contentData["ancestries"].length === maxLengthContent["ancestries"],
+            creatures: contentData['creatures'].length === maxLengthContent["creatures"],
+            feats: contentData['feats'].length === maxLengthContent["feats"],
+            spells: contentData['spells'].length === maxLengthContent["spells"],
         }
     })
+    function addItems(dataType: DataRoutes, items: generalContent[]) {
+        if (!contentData[dataType]) {
+            contentData[dataType] = []
+        }
+        contentData[dataType].push(...items)
+        for (const item of items) {
+            globalIndex[item.id] = item
+        }
+    }
+
     watch(route, () => sortBy.value = "3")
-    watch(sortBy, () => console.log(sortBy.value))
-    return { contentData, fetchData, filteredData, searchItem, isDataFetched: isContentDataFetched, sortBy, isFetchedByKey }
+    return { contentData, fetchData, filteredData, searchItem, isDataFetched: isContentDataFetched, sortBy, isFetchedByKey, numOfItems, globalIndex, maxLengthContent }
 })

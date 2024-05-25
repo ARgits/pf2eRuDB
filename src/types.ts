@@ -31,7 +31,17 @@ export type generalContent =
         srcBook: string[];
         id: string;
     }
-    & (ancestryProperties | backgroundProperties | spellProperties | featProperties | creatureProperties | actionProperties)
+    & (ancestryProperties | backgroundProperties | spellProperties | featProperties | creatureProperties | actionProperties | classProperties)
+
+
+export type classType = Extract<generalContent, { datatype: 'class' }>
+export type ancestryType = Extract<generalContent, { dataType: 'ancestry' }>
+export type backgroundType = Extract<generalContent, { dataType: 'background' }>
+export type spellType = Extract<generalContent, { dataType: 'spell' }>
+export type featType = Extract<generalContent, { dataType: 'feat' }>
+export type creatureType = Extract<generalContent, { dataType: 'creature' }>
+export type actionType = Extract<generalContent, { dataType: 'action' }>
+//data specific properties
 type ancestryProperties = {
     dataType: "ancestry",
     hp: number,
@@ -53,13 +63,6 @@ type ancestryProperties = {
     flaws: ["str", "dex", "con", "int", "wis", "cha", "any"][],
     special: { name: string, desc: string }[]
 };
-// eslint-disable-next-line @typescript-eslint/no-unused-vars
-export type ancestryType = Extract<generalContent, { dataType: 'ancestry' }>
-export type backgroundType = Extract<generalContent, { dataType: 'background' }>
-export type spellType = Extract<generalContent, { dataType: 'spell' }>
-export type featType = Extract<generalContent, { dataType: 'feat' }>
-export type creatureType = Extract<generalContent, { dataType: 'creature' }>
-export type actionType = Extract<generalContent, { dataType: 'action' }>
 type backgroundProperties = {
     dataType: "background",
     attributeValue: string[][];
@@ -75,7 +78,6 @@ type actionProperties = {
 }
 type spellProperties = {
     dataType: "spell",
-    //[index: string]: string;
     type: "Заклинание" | "Чары" | "Ф.чары" | "Фокус" | "-";
     level: number;
     tradition: string[];
@@ -104,6 +106,30 @@ type featProperties = {
     level: number;
     archetype: string;
     skills: string[]
+}
+type classProperties = {
+    dataType: 'class'
+    hp: number,
+    perception: {
+        start: proficiencyRankEnum,
+        end: proficiencyRankEnum
+    },
+    will: {
+        start: proficiencyRankEnum,
+        end: proficiencyRankEnum
+    }
+    reflex: {
+        start: proficiencyRankEnum,
+        end: proficiencyRankEnum
+    },
+    fortitude: {
+        start: proficiencyRankEnum,
+        end: proficiencyRankEnum
+    }
+
+    feats: featType[],
+    spellTradition: spellTraditionEnum
+
 }
 //
 //Filters Type
@@ -255,12 +281,23 @@ enum DefencesEnum {
     will = "will",
     reflex = "reflex"
 }
-
+enum spellTraditionEnum {
+    arcane = 'arcane',
+    divine = 'divine',
+    primal = 'primal',
+    occult = 'occult'
+}
 enum SpeedEnum {
     common = "common",
     burrow = "burrow",
     climb = "climb",
     fly = "fly",
     swim = "swim",
-
+}
+enum proficiencyRankEnum {
+    untrained = "untrained",
+    trained = "trained",
+    expert = "expert",
+    master = "master",
+    legend = "legend"
 }

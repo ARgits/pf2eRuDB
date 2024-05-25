@@ -5,12 +5,14 @@ import PaginationComponent from "@components/PaginationComponent.vue";
 import SearchComponent from '@components/SearchComponent.vue';
 import ContentContainer from '@components/content/ContentContainer.vue';
 import { isVertical } from '@/mediaGetters';
+import { ref } from 'vue';
 const contentStore = useContentStore()
 const { filteredData } = storeToRefs(contentStore)
+const numOfColumns = ref(1)
 </script>
 <template>
   <div class="content_main" v-if="filteredData.length">
-    <SearchComponent v-if="!isVertical"></SearchComponent>
+    <SearchComponent v-if="!isVertical" @change-num-of-columns="(n) => numOfColumns = n"></SearchComponent>
     <ContentContainer class="content_group"></ContentContainer>
     <PaginationComponent></PaginationComponent>
   </div>
@@ -26,6 +28,7 @@ const { filteredData } = storeToRefs(contentStore)
   flex-direction: column;
   flex-basis: 70%;
   gap: 10px;
+  --numOfColumns: v-bind(numOfColumns)
 }
 
 

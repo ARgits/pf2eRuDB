@@ -66,6 +66,10 @@ const tabName = computed(() => {
   text-align: center;
 }
 
+h3 {
+  margin: 0;
+}
+
 a {
   flex: 1;
   border: 1px solid black;

@@ -42,6 +42,7 @@ const router = createRouter({
     },
     {
       path: '/favorites',
+      name: 'favorites',
       redirect: _ => {
         const favoritesStore = useFavoritesStore()
         for (const path of ['feats', 'spells', 'backgrounds', 'creatures', 'actions', 'ancestries'] as DataRoutes[]) {
@@ -64,7 +65,7 @@ const router = createRouter({
       ]
     },
     {
-      path: '/content:id',
+      path: '/content/:id',
       component: () => import('@views/ItemView.vue')
     }
   ]

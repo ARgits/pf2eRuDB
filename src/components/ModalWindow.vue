@@ -8,14 +8,19 @@ const props = defineProps<{ id: generalContent["id"], show: boolean }>()
 const { getData } = useModalWindows()
 const containerRef: Ref<HTMLElement | null> = ref(null)
 watch(containerRef, () => {
-    if (containerRef.value) { new Draggable(containerRef.value) }
+    if (containerRef.value) {
+        new Draggable(containerRef.value, {
+            dragClickables: false,
+            trigger: '.content_item>div:not(.description)'
+        })
+    }
 })
 const data = getData(props.id)
 </script>
 <template>
     <Transition name="fade">
         <div class="container" v-if="$props.show" ref="containerRef">
-            <ContentItem :content="data" v-if="data" :in-grid="false" :modal="true"></ContentItem>
+            <ContentItem :content="data" v-if="data" :in-grid="false" :modal="true" :isDescOpened="true"></ContentItem>
         </div>
     </Transition>
 </template>
@@ -27,7 +32,7 @@ const data = getData(props.id)
     width: max-content;
     height: max-content;
     max-width: 50%;
-    max-height: 50%;
+    // max-height: 50%;
     margin: auto;
     top: 0;
     left: 0;

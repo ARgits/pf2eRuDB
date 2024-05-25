@@ -26,9 +26,8 @@ export const useModalWindows = defineStore('modalWindows', () => {
     }
     function getData(id: generalContent["id"]) {
         if (modalData.value.has(id)) {
-            const dataType = modalData.value.get(id)!.dataType
             const contentStore = useContentStore()
-            return contentStore.contentData[`${dataType}s`].find((v) => v.id === id)
+            return contentStore.globalIndex[id]
         }
         return null
     }
