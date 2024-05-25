@@ -1,18 +1,18 @@
 <script setup lang="ts">
-import { usePaginationStore } from '@/stores/pagination';
+import {usePaginationStore} from '@/stores/pagination';
 import ContentItem from './ContentItem.vue';
-import { storeToRefs } from 'pinia';
-import { computed, onMounted, onUnmounted, ref, type Ref, watch } from 'vue';
-import { useContentStore } from '@/stores/content';
-import type { generalContent } from '@/types';
+import {storeToRefs} from 'pinia';
+import {computed, onMounted, onUnmounted, ref, type Ref, watch} from 'vue';
+import {useContentStore} from '@/stores/content';
+import type {generalContent} from '@/types';
 
-const { filteredData } = storeToRefs(useContentStore())
+const {filteredData} = storeToRefs(useContentStore())
 const paginationStore = usePaginationStore()
-const { itemsPerPage } = storeToRefs(paginationStore)
+const {itemsPerPage} = storeToRefs(paginationStore)
 const dataSliceStart = computed(() => itemsPerPage.value * paginationStore.currentPage)
 const dataSliceEnd = computed(() => itemsPerPage.value * (paginationStore.currentPage + 1))
 const data = computed(() =>
-  filteredData.value.slice(dataSliceStart.value, dataSliceEnd.value)
+    filteredData.value.slice(dataSliceStart.value, dataSliceEnd.value)
 )
 const numOfColumns = ref(1)
 const columns: Ref<generalContent[][]> = ref([])
@@ -43,8 +43,13 @@ function onResize() {
 watch(data, onResize)
 </script>
 <template>
-  <div class="main">
+  <div class="main" v-if="data.length">
     <ContentItem v-for="content in data" :key="content.id" :content="content"></ContentItem>
+  </div>
+  <div class="main" v-else>
+    <span>Пусто :(
+    </span>
+    
   </div>
 </template>
 <style scoped lang="scss">

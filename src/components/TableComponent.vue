@@ -1,17 +1,19 @@
 <script setup lang="ts">
-import { storeToRefs } from 'pinia'
-import { useContentStore } from "@stores/content"
+import {storeToRefs} from 'pinia'
+import {useContentStore} from "@stores/content"
 import PaginationComponent from "@components/PaginationComponent.vue";
 import SearchComponent from '@components/SearchComponent.vue';
 import ContentContainer from '@components/content/ContentContainer.vue';
-import { isVertical } from '@/mediaGetters';
-import { ref } from 'vue';
+import {isVertical} from '@/mediaGetters';
+import {computed, ref} from 'vue';
+
 const contentStore = useContentStore()
-const { filteredData } = storeToRefs(contentStore)
+const {filteredData, searchItem} = storeToRefs(contentStore)
 const numOfColumns = ref(1)
+const isContentExist = computed(() => !!filteredData.value.length || !!searchItem.value.length)
 </script>
 <template>
-  <div class="content_main" v-if="filteredData.length">
+  <div class="content_main" v-if="isContentExist">
     <SearchComponent v-if="!isVertical" @change-num-of-columns="(n) => numOfColumns = n"></SearchComponent>
     <ContentContainer class="content_group"></ContentContainer>
     <PaginationComponent></PaginationComponent>
@@ -41,7 +43,6 @@ const numOfColumns = ref(1)
 .container {
   position: relative;
 }
-
 
 
 .loading {
