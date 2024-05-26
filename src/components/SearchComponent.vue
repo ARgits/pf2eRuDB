@@ -4,10 +4,16 @@ import {usePaginationStore} from '@stores/pagination';
 import {storeToRefs} from 'pinia';
 import ItemsCounterComponent from '@components/ItemsCounterComponent.vue';
 import {isVertical} from '@/mediaGetters';
-import {ref, watch} from 'vue';
+import {computed, ref, watch} from 'vue';
+import {useFilterStore} from "@stores/filter";
+import {useRoute} from "vue-router";
+import type {DataRoutes} from "@types";
 
 const emit = defineEmits(['changeNumOfColumns'])
-const {filteredData, searchItem, sortBy,} = storeToRefs(useContentStore())
+const route = useRoute()
+const dataType = computed(() => (route.name as string).replace('favorite', '').toLowerCase() as DataRoutes)
+const {filterStaticData} = storeToRefs(useFilterStore())
+const {searchItem, sortBy,} = storeToRefs(useContentStore())
 const {itemsPerPage} = storeToRefs(usePaginationStore())
 const numOfColumns = ref(1)
 watch(numOfColumns, () => {
@@ -21,8 +27,8 @@ watch(numOfColumns, () => {
     </div>
     <div>
       <select v-model="sortBy">
-        <option v-if="'level' in filteredData[0]" value="1">Уровень по возрастанию</option>
-        <option v-if="'level' in filteredData[0]" value="2">Уровень по убыванию</option>
+        <option v-if="'level' in filterStaticData[dataType]!" value="1">Уровень по возрастанию</option>
+        <option v-if="'level' in filterStaticData[dataType]!" value="2">Уровень по убыванию</option>
         <option value="3">Название А-Я</option>
         <option value="4">Название Я-А</option>
         <option value="5">Оригинальное название A-Z</option>
