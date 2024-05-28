@@ -1188,7 +1188,7 @@ function prepareFilters(data: Data): globalFilter {
             isDeep: false,
             name: 'Уровень',
             value: [],
-            options: [...new Set(data.feats.map((content) => content.level))].sort((a, b) => a - b).map((val) => val.toString()),
+            options: [...new Set(data.creatures.map((content) => content.level))].sort((a, b) => a - b).map((val) => val.toString()),
             defaultValue: [],
             disabled: [],
             excluded: [],
