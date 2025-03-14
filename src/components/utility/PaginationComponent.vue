@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faArrowLeft, faArrowRight } from '@fortawesome/free-solid-svg-icons';
-import { usePaginationStore } from '@stores/pagination';
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import { faArrowLeft, faArrowRight } from "@fortawesome/free-solid-svg-icons";
+import { usePaginationStore } from "@stores/pagination";
 
 const paginationStore = usePaginationStore()
 </script>
@@ -56,7 +56,7 @@ const paginationStore = usePaginationStore()
         aspect-ratio: 1/1;
         border-radius: var(--border-radius);
         background-color: rgba(grey, .1);
-        transition: all .5s ease;
+        transition: opacity .5s ease;
 
         &.active {
             background-color: green;

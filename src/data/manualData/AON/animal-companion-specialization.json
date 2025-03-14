@@ -1,0 +1,618 @@
+[
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-1",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Ambusher](/AnimalCompanions.aspx?ID=1&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nIn your companion's natural environment, it can use a [Sneak](/Actions.aspx?ID=63) action even if it's currently observed. Its proficiency rank in [Stealth](/Skills.aspx?ID=15) increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.",
+  "name": "Ambusher",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-13"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn your companion's natural environment, it can use a  Sneak  action even if it's currently observed. Its proficiency rank in  Stealth  increases to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "In your companion's natural environment, it can use a  Sneak  action even if it's currently observed. Its proficiency rank in  Stealth  increases to …",
+  "summary_markdown": "In your companion's natural environment, it can use a  Sneak  action even if it's currently observed. Its proficiency rank in  Stealth  increases to …",
+  "text": " Ambusher Source Core Rulebook pg. 217 4.0 In your companion's natural environment, it can use a Sneak action even if it's currently observed. Its proficiency rank in Stealth increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=1&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-2",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Bully](/AnimalCompanions.aspx?ID=2&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nYour companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for [Athletics](/Skills.aspx?ID=3) and [Intimidation](/Skills.aspx?ID=7) increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.",
+  "name": "Bully",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-14"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …",
+  "summary_markdown": "Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …",
+  "text": " Bully Source Core Rulebook pg. 217 4.0 Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for Athletics and Intimidation increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=2&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-3",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Daredevil](/AnimalCompanions.aspx?ID=3&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nYour companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn't [flat-footed](/Conditions.aspx?ID=16) to [hidden](/Conditions.aspx?ID=22), [undetected](/Conditions.aspx?ID=39), or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in [Acrobatics](/Skills.aspx?ID=1) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.",
+  "name": "Daredevil",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-15"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn't  flat-footed  to  hidden ,  undetected …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn't  flat-footed  to  hidden ,  undetected …",
+  "summary_markdown": "Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn't  flat-footed  to  hidden ,  undetected …",
+  "text": " Daredevil Source Core Rulebook pg. 217 4.0 Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn't flat-footed to hidden, undetected, or flanking creatures unless such a creature's level is greater than yours. Its proficiency rank in Acrobatics increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=3&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-4",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Racer](/AnimalCompanions.aspx?ID=4&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nYour companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves increases to legendary, and its Constitution modifier increases by 1.",
+  "name": "Racer",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-16"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves …",
+  "summary_markdown": "Your companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves …",
+  "text": " Racer Source Core Rulebook pg. 217 4.0 Your companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves increases to legendary, and its Constitution modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=4&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-5",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Tracker](/AnimalCompanions.aspx?ID=5&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nYour companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in [Survival](/Skills.aspx?ID=16) increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.",
+  "name": "Tracker",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-17"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in  Survival  increases to expert (or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in  Survival  increases to expert (or …",
+  "summary_markdown": "Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in  Survival  increases to expert (or …",
+  "text": " Tracker Source Core Rulebook pg. 217 4.0 Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in Survival increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=5&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-6",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Wrecker](/AnimalCompanions.aspx?ID=6&amp;Specialized=true)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\n\n \r\n\r\nYour companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its [Athletics](/Skills.aspx?ID=3) proficiency increases to master, and its Strength modifier increases by 1.",
+  "name": "Wrecker",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 217",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-specialization-18"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its  Athletics  proficiency increases to master, and its …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 217"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 217 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its  Athletics  proficiency increases to master, and its …",
+  "summary_markdown": "Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its  Athletics  proficiency increases to master, and its …",
+  "text": " Wrecker Source Core Rulebook pg. 217 4.0 Your companion smashes things. Its unarmed attacks ignore half an object's Hardness. Its Athletics proficiency increases to master, and its Strength modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=6&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-7",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Deep Diver](/AnimalCompanions.aspx?ID=7&amp;Specialized=true)</title>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\n\n \r\n\r\nYour companion gains a swim Speed of 30 feet or a +10-foot status bonus to its existing swim Speed and can breathe underwater if it couldn't already. Its Constitution modifier increases by 1. Its proficiency rank for [Athletics](/Skills.aspx?ID=3) increases to master and for barding increases to expert. This specialization can only be selected by [marid-touched companions](/AnimalCompanions.aspx?Advanced=true&amp;ID=4).",
+  "name": "Deep Diver",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion gains a swim Speed of 30 feet or a +10-foot status bonus to its existing swim Speed and can breathe underwater if it couldn't already. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 123",
+  "speed": {},
+  "summary": "Your companion gains a swim Speed of 30 feet or a +10-foot status bonus to its existing swim Speed and can breathe underwater if it couldn't already. …",
+  "summary_markdown": "Your companion gains a swim Speed of 30 feet or a +10-foot status bonus to its existing swim Speed and can breathe underwater if it couldn't already. …",
+  "text": " Deep Diver Source Legends pg. 123 Your companion gains a swim Speed of 30 feet or a +10-foot status bonus to its existing swim Speed and can breathe underwater if it couldn't already. Its Constitution modifier increases by 1. Its proficiency rank for Athletics increases to master and for barding increases to expert. This specialization can only be selected by marid-touched companions.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=7&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-8",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Steadfast Strider](/AnimalCompanions.aspx?ID=8&amp;Specialized=true)</title>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\n\n \r\n\r\nYour companion ignores natural difficult terrain and greater difficult terrain from sediment or stone and can move across quicksand, mud, and similar surfaces as if they were solid. It gains a +2 status bonus to saving throws and DCs to prevent being [Shoved](/Actions.aspx?ID=38) or [Tripped](/Actions.aspx?ID=40). Its Strength modifier increases by 1 and its proficiency for barding increases to expert. This specialization can only be selected by [shaitan-touched companions](/AnimalCompanions.aspx?Advanced=true&amp;ID=4).",
+  "name": "Steadfast Strider",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion ignores natural difficult terrain and greater difficult terrain from sediment or stone and can move across quicksand, mud, and similar …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 123",
+  "speed": {},
+  "summary": "Your companion ignores natural difficult terrain and greater difficult terrain from sediment or stone and can move across quicksand, mud, and similar …",
+  "summary_markdown": "Your companion ignores natural difficult terrain and greater difficult terrain from sediment or stone and can move across quicksand, mud, and similar …",
+  "text": " Steadfast Strider Source Legends pg. 123 Your companion ignores natural difficult terrain and greater difficult terrain from sediment or stone and can move across quicksand, mud, and similar surfaces as if they were solid. It gains a +2 status bonus to saving throws and DCs to prevent being Shoved or Tripped. Its Strength modifier increases by 1 and its proficiency for barding increases to expert. This specialization can only be selected by shaitan-touched companions.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=8&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-9",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Wildfire Scorcher](/AnimalCompanions.aspx?ID=9&amp;Specialized=true)</title>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\n\n \r\n\r\nYour companion gains resistance to fire equal to your level. Any creature that attempts to [Grapple](/Actions.aspx?ID=35) or [Grab](/MonsterAbilities.aspx?ID=18) your companion, hits your companion with a melee unarmed attack, or hits your companion with a melee weapon Strike while adjacent to your companion takes 2d6 fire damage. Its Dexterity modifier increases by 1 and its proficiency rank increases to legendary for Reflex saves and to expert for unarmored defense. This specialization can only be selected by [efreeti-touched companions](/AnimalCompanions.aspx?Advanced=true&amp;ID=4).",
+  "name": "Wildfire Scorcher",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion gains resistance to fire equal to your level. Any creature that attempts to  Grapple  or  Grab  your companion, hits your companion …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 123",
+  "speed": {},
+  "summary": "Your companion gains resistance to fire equal to your level. Any creature that attempts to  Grapple  or  Grab  your companion, hits your companion …",
+  "summary_markdown": "Your companion gains resistance to fire equal to your level. Any creature that attempts to  Grapple  or  Grab  your companion, hits your companion …",
+  "text": " Wildfire Scorcher Source Legends pg. 123 Your companion gains resistance to fire equal to your level. Any creature that attempts to Grapple or Grab your companion, hits your companion with a melee unarmed attack, or hits your companion with a melee weapon Strike while adjacent to your companion takes 2d6 fire damage. Its Dexterity modifier increases by 1 and its proficiency rank increases to legendary for Reflex saves and to expert for unarmored defense. This specialization can only be selected by efreeti-touched companions.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=9&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-10",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Wind Chaser](/AnimalCompanions.aspx?ID=10&amp;Specialized=true)</title>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\n\n \r\n\r\nYour companion gains a +20-foot status bonus to its Speed or fly Speed (your choice if it has both). Its proficiency in [Acrobatics](/Skills.aspx?ID=1) increases to master and its Dexterity modifier increases by 1. Its proficiency rank increases to legendary for Reflex saves and to expert for unarmored defense. This specialization can only be selected by [djinni-touched companions](/AnimalCompanions.aspx?Advanced=true&amp;ID=4).",
+  "name": "Wind Chaser",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion gains a +20-foot status bonus to its Speed or fly Speed (your choice if it has both). Its proficiency in  Acrobatics  increases to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 123",
+  "speed": {},
+  "summary": "Your companion gains a +20-foot status bonus to its Speed or fly Speed (your choice if it has both). Its proficiency in  Acrobatics  increases to …",
+  "summary_markdown": "Your companion gains a +20-foot status bonus to its Speed or fly Speed (your choice if it has both). Its proficiency in  Acrobatics  increases to …",
+  "text": " Wind Chaser Source Legends pg. 123 Your companion gains a +20-foot status bonus to its Speed or fly Speed (your choice if it has both). Its proficiency in Acrobatics increases to master and its Dexterity modifier increases by 1. Its proficiency rank increases to legendary for Reflex saves and to expert for unarmored defense. This specialization can only be selected by djinni-touched companions.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=10&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "access": " Shadowcaster ",
+  "access_markdown": "[Shadowcaster](/Archetypes.aspx?ID=101)",
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-12",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Shade](/AnimalCompanions.aspx?ID=12&amp;Specialized=true)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>\n\n**Access** [Shadowcaster](/Archetypes.aspx?ID=101)\r\n\r\nYour companion's physical form is made, in whole or in part, of shadow. It gains [darkvision](/MonsterAbilities.aspx?ID=12), resistance 5 to all damage except [force](/Traits.aspx?ID=75), and in areas of dim light or darkness, it can Step 10 feet instead of 5 feet. Its proficiency rank in unarmored defense increases to expert. \n\n A [Shadowcaster](/Archetypes.aspx?ID=101) has access to this specialization.\n\n_Nethys Note: The Shade animal companion specialization was affected by the [_Core Rulebook_ 3rd printing errata](https://paizo.com/pathfinder/faq) that reduced the nimble animal companion's proficiency with unarmored defense._ ",
+  "name": "Shade",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 229",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion's physical form is made, in whole or in part, of shadow. It gains  darkvision , resistance 5 to all damage except  force , and in …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 229"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Your companion's physical form is made, in whole or in part, of shadow. It gains  darkvision , resistance 5 to all damage except  force , and in …",
+  "summary_markdown": "Your companion's physical form is made, in whole or in part, of shadow. It gains  darkvision , resistance 5 to all damage except  force , and in …",
+  "text": " Shade Source Secrets of Magic pg. 229 1.1 Access Shadowcaster Your companion's physical form is made, in whole or in part, of shadow. It gains darkvision, resistance 5 to all damage except force, and in areas of dim light or darkness, it can Step 10 feet instead of 5 feet. Its proficiency rank in unarmored defense increases to expert. A Shadowcaster has access to this specialization. Nethys Note: The Shade animal companion specialization was affected by the Core Rulebook 3rd printing errata that reduced the nimble animal companion's proficiency with unarmored defense. ",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=12&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-13",
+  "legacy_id": [
+   "animal-companion-specialization-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Ambusher](/AnimalCompanions.aspx?ID=13&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nIn your companion’s natural environment, it can use a [Sneak](/Actions.aspx?ID=2405) action even if it’s currently [observed](/Conditions.aspx?ID=84). Its proficiency rank in [Stealth](/Skills.aspx?ID=48) increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.",
+  "name": "Ambusher",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn your companion’s natural environment, it can use a  Sneak  action even if it’s currently  observed . Its proficiency rank in  Stealth  increases …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "In your companion’s natural environment, it can use a  Sneak  action even if it’s currently  observed . Its proficiency rank in  Stealth  increases …",
+  "summary_markdown": "In your companion’s natural environment, it can use a  Sneak  action even if it’s currently  observed . Its proficiency rank in  Stealth  increases …",
+  "text": " Ambusher Source Player Core pg. 211 2.0 In your companion’s natural environment, it can use a Sneak action even if it’s currently observed. Its proficiency rank in Stealth increases to expert (or master if it was already an expert from its type), and its Dexterity modifier increases by 1. Its proficiency rank for unarmored defense increases to expert.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=13&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-14",
+  "legacy_id": [
+   "animal-companion-specialization-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Bully](/AnimalCompanions.aspx?ID=14&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nYour companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for [Athletics](/Skills.aspx?ID=36) and [Intimidation](/Skills.aspx?ID=40) increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.",
+  "name": "Bully",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …",
+  "summary_markdown": "Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for  Athletics  and  …",
+  "text": " Bully Source Player Core pg. 211 2.0 Your companion terrorizes foes with dominance displays and pushes them around the battlefield. Its proficiency ranks for Athletics and Intimidation increase to expert (or master if it was already expert from its type), its Strength modifier increases by 1, and its Charisma modifier increases by 3.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=14&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-15",
+  "legacy_id": [
+   "animal-companion-specialization-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Daredevil](/AnimalCompanions.aspx?ID=15&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nYour companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn’t [off-guard](/Conditions.aspx?ID=58) to [hidden](/Conditions.aspx?ID=79), [undetected](/Conditions.aspx?ID=96), or [flanking](/Rules.aspx?ID=2375) creatures unless such a creature’s level is greater than yours. Its proficiency rank in [Acrobatics](/Skills.aspx?ID=34) increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.",
+  "name": "Daredevil",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn’t  off-guard  to  hidden ,  undetected , …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn’t  off-guard  to  hidden ,  undetected , …",
+  "summary_markdown": "Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn’t  off-guard  to  hidden ,  undetected , …",
+  "text": " Daredevil Source Player Core pg. 211 2.0 Your companion joins the fray with graceful leaps and dives. It gains the deny advantage ability, so it isn’t off-guard to hidden, undetected, or flanking creatures unless such a creature’s level is greater than yours. Its proficiency rank in Acrobatics increases to master, and its Dexterity modifier increases by 1. Its proficiency rank in unarmored defense increases to expert.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=15&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-16",
+  "legacy_id": [
+   "animal-companion-specialization-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Racer](/AnimalCompanions.aspx?ID=16&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nYour companion races. It gains a +10-foot status bonus to its Speed, [swim Speed](/Rules.aspx?ID=2351), or [fly Speed](/Rules.aspx?ID=2350) (your choice). Its proficiency in Fortitude saves increases to legendary, and its Constitution modifier increases by 1.",
+  "name": "Racer",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion races. It gains a +10-foot status bonus to its Speed,  swim Speed , or  fly Speed  (your choice). Its proficiency in Fortitude saves …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your companion races. It gains a +10-foot status bonus to its Speed,  swim Speed , or  fly Speed  (your choice). Its proficiency in Fortitude saves …",
+  "summary_markdown": "Your companion races. It gains a +10-foot status bonus to its Speed,  swim Speed , or  fly Speed  (your choice). Its proficiency in Fortitude saves …",
+  "text": " Racer Source Player Core pg. 211 2.0 Your companion races. It gains a +10-foot status bonus to its Speed, swim Speed, or fly Speed (your choice). Its proficiency in Fortitude saves increases to legendary, and its Constitution modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=16&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-17",
+  "legacy_id": [
+   "animal-companion-specialization-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Tracker](/AnimalCompanions.aspx?ID=17&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nYour companion is an incredible tracker. It can move at full Speed while [following tracks](/Actions.aspx?ID=2408). Its proficiency rank in [Survival](/Skills.aspx?ID=49) increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.",
+  "name": "Tracker",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion is an incredible tracker. It can move at full Speed while  following tracks . Its proficiency rank in  Survival  increases to expert …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your companion is an incredible tracker. It can move at full Speed while  following tracks . Its proficiency rank in  Survival  increases to expert …",
+  "summary_markdown": "Your companion is an incredible tracker. It can move at full Speed while  following tracks . Its proficiency rank in  Survival  increases to expert …",
+  "text": " Tracker Source Player Core pg. 211 2.0 Your companion is an incredible tracker. It can move at full Speed while following tracks. Its proficiency rank in Survival increases to expert (or master if it was already an expert from its type), and its Wisdom modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=17&Specialized=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-specialization",
+  "exclude_from_search": false,
+  "id": "animal-companion-specialization-18",
+  "legacy_id": [
+   "animal-companion-specialization-6"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Specialization \" pfs=\"Standard\">[Wrecker](/AnimalCompanions.aspx?ID=18&amp;Specialized=true)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\n \r\n\r\nYour companion smashes things. Its unarmed attacks ignore half an object’s [Hardness](/Rules.aspx?ID=2160). Its [Athletics](/Skills.aspx?ID=36) proficiency increases to master, and its Strength modifier increases by 1.",
+  "name": "Wrecker",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour companion smashes things. Its unarmed attacks ignore half an object’s  Hardness . Its  Athletics  proficiency increases to master, and its …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your companion smashes things. Its unarmed attacks ignore half an object’s  Hardness . Its  Athletics  proficiency increases to master, and its …",
+  "summary_markdown": "Your companion smashes things. Its unarmed attacks ignore half an object’s  Hardness . Its  Athletics  proficiency increases to master, and its …",
+  "text": " Wrecker Source Player Core pg. 211 2.0 Your companion smashes things. Its unarmed attacks ignore half an object’s Hardness. Its Athletics proficiency increases to master, and its Strength modifier increases by 1.",
+  "type": "Animal Companion Specialization",
+  "url": "/AnimalCompanions.aspx?ID=18&Specialized=true",
+  "weakness": {}
+ }
+]

@@ -1,93 +1,189 @@
-/* color palette from <https://github.com/vuejs/theme> */
 :root {
-  --background-img: url('./parchmentBackground.jpg');
-  --border-radius: 5px;
-  --body-margin: 16px;
-  --vt-c-white: #ffffff;
-  --vt-c-white-soft: #f8f8f8;
-  --vt-c-white-mute: #f2f2f2;
+  /* Базовые цвета */
+  --white-color: 240, 240, 240;
+  --black-color: 15, 15, 15;
+  --main-opacity-background: .5;
+  /* Основные цветовые токены */
+  --color-primary: 33, 150, 243;
+  /* Синий */
+  --color-secondary: 156, 39, 176;
+  /* Фиолетовый */
+  --color-success: 76, 175, 80;
+  /* Зеленый */
+  --color-warning: 255, 152, 0;
+  /* Оранжевый */
+  --color-error: 244, 67, 54;
+  /* Красный */
+  --numOfdivs: calc(100% / 24px);
+  --vt-shadow-1: 0 1px 2px rgba(0, 0, 0, .04), 0 1px 2px rgba(0, 0, 0, .06);
 
-  --vt-c-black: #181818;
-  --vt-c-black-soft: #222222;
-  --vt-c-black-mute: #282828;
+  /* Настройки светлой темы по умолчанию */
+  --background-primary: var(--white-color);
+  --background-secondary: 155, 155, 155;
+  --background-secondary-transparent: var(--background-secondary), var(--main-opacity-background);
+  --background-primary-transparent: var(--background-primary), var(--main-opacity-background);
+  --text-primary: var(--black-color);
+  --text-secondary: 97, 97, 97;
+  --border-color: 66, 66, 66;
 
-  --vt-c-indigo: #2c3e50;
 
-  --vt-c-divider-light-1: rgba(60, 60, 60, 0.29);
-  --vt-c-divider-light-2: rgba(60, 60, 60, 0.12);
-  --vt-c-divider-dark-1: rgba(84, 84, 84, 0.65);
-  --vt-c-divider-dark-2: rgba(84, 84, 84, 0.48);
+  /* Системные переменные */
+  --gap: .5rem;
+  --border-radius: .25rem;
+  --main-padding: 1rem;
+  --main-padding-half: calc(var(--main-padding) / 2);
+  --main-padding-double: calc(var(--main-padding) * 2);
+  --basic-border-width: 1px;
+  --basic-border: var(--basic-border-width) solid rgba(var(--border-color));
 
-  --vt-c-text-light-1: var(--vt-c-indigo);
-  --vt-c-text-light-2: rgba(60, 60, 60, 0.66);
-  --vt-c-text-dark-1: var(--vt-c-white);
-  --vt-c-text-dark-2: rgba(235, 235, 235, 0.64);
+
+
 }
 
-/* semantic color variables for this project */
-:root {
-  --color-background: var(--vt-c-white);
-  --color-background-soft: var(--vt-c-white-soft);
-  --color-background-mute: var(--vt-c-white-mute);
-
-  --color-border: var(--vt-c-divider-light-2);
-  --color-border-hover: var(--vt-c-divider-light-1);
-
-  --color-heading: var(--vt-c-text-light-1);
-  --color-text: var(--vt-c-text-light-1);
-
-  --section-gap: 160px;
+@property --scrollbar-background {
+  syntax: "<color>";
+  initial-value: rgba(0, 0, 0, 0);
+  inherits: false;
 }
 
-/*@media (prefers-color-scheme: dark) {*/
-/*  :root {*/
-/*    --color-background: var(--vt-c-black);*/
-/*    --color-background-soft: var(--vt-c-black-soft);*/
-/*    --color-background-mute: var(--vt-c-black-mute);*/
-
-/*    --color-border: var(--vt-c-divider-dark-2);*/
-/*    --color-border-hover: var(--vt-c-divider-dark-1);*/
-
-/*    --color-heading: var(--vt-c-text-dark-1);*/
-/*    --color-text: var(--vt-c-text-dark-2);*/
-/*  }*/
-/*}*/
-
-@media (max-aspect-ratio:1/1) {
+@supports selector(::-webkit-scrollbar) {
   :root {
-    --body-margin: 0px;
+
+    /* --main-padding: var(--main-padding); */
+    ::-webkit-scrollbar {
+      background-color: transparent;
+      width: var(--main-padding);
+    }
+
+    ::-webkit-scrollbar:horizontal {
+      height: 10px;
+    }
+
+    ::-webkit-scrollbar-button {
+      display: none;
+    }
+
+    ::-webkit-scrollbar-thumb {
+      border: .25rem solid rgba(0, 0, 0, 0);
+      background-clip: padding-box;
+      background-color: var(--scrollbar-background);
+      border-radius: 99px;
+      transition: --scrollbar-background 5s ease;
+    }
+
+    ::-webkit-scrollbar-corner {
+      display: none;
+    }
+
+    :hover::-webkit-scrollbar-thumb {
+      --scrollbar-background: rgba(var(--background-secondary))
+    }
   }
 }
-*{
-  font-family: "Times New Roman",sans-serif;
-}
-body {
 
-  height: calc(100dvh - 2* var(--body-margin));
-  width: calc(100dvw - 2* var(--body-margin));
-  margin: var(--body-margin);
-  color: var(--color-text);
-  background:var(--background-img);
+
+
+* {
+  font-family: "Times New Roman", sans-serif;
+}
+
+body {
+  scrollbar-gutter: stable;
+  height: calc(100dvh - 1 * var(--main-padding));
+  width: calc(100dvw - 2 * var(--main-padding));
+  margin: 0;
+  overflow: hidden;
+  padding: var(--main-padding);
+  padding-bottom: 0;
+  color: rgb(var(--text-primary));
+  background-color: rgba(var(--background-primary));
   transition:
     color 0.5s,
     background-color 0.5s;
   line-height: 1.6;
   font-family:
-    /*Inter,*/
-    /*-apple-system,*/
-    /*BlinkMacSystemFont,*/
-    /*'Segoe UI',*/
-    /*Roboto,*/
-    /*Oxygen,*/
-    /*Ubuntu,*/
-    /*Cantarell,*/
-    /*'Fira Sans',*/
-    /*'Droid Sans',*/
-    /*'Helvetica Neue',*/
-  "Times New Roman",
+    Inter,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    Roboto,
+    Oxygen,
+    Ubuntu,
+    Cantarell,
+    'Fira Sans',
+    'Droid Sans',
+    'Helvetica Neue',
+    "Times New Roman",
     sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   text-rendering: optimizeLegibility;
   -webkit-font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -o-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+
+  &::before {
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: radial-gradient(circle, black 0%, transparent 100%);
+    top: 0;
+    right: 0;
+    transform: translate(50%, -50%) scale(0);
+    border-radius: 50%;
+    transition: transform .25s ease-out, background .25s ease-out;
+    z-index: 1;
+    pointer-events: none;
+  }
+}
+
+img {
+  transition: filter .5s;
+  filter: invert(0%);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme]) {
+    --background-primary: var(--black-color);
+    --background-secondary: 100, 100, 100;
+    --text-primary: var(--white-color), .85;
+    --text-secondary: 158, 158, 158;
+    --border-color: 224, 224, 224;
+
+    body::before {
+      background: radial-gradient(circle, black 0%, transparent 100%);
+      transform: translate(50%, -50%) scale(3);
+    }
+
+    img {
+      /* filter: invert(100%); */
+    }
+  }
+
+
+}
+
+:root[data-theme="dark"] {
+  --background-primary: var(--black-color);
+  --background-secondary: 100, 100, 100;
+  --text-primary: var(--white-color);
+  --text-secondary: 158, 158, 158;
+  --border-color: 224, 224, 224;
+
+  body::before {
+    background: radial-gradient(circle, black 0%, transparent 100%);
+    transform: translate(50%, -50%) scale(3);
+    z-index: -1;
+  }
+
+  img {
+    /* filter: invert(1); */
+  }
+}
+
+@media (max-width:600px) {
+  :root {
+    --main-padding: .25rem;
+  }
 }

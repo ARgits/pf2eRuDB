@@ -1,0 +1,308 @@
+[
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-1",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Distant Grasp](/ConsciousMinds.aspx?ID=1)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 16\n\nMotion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to move things as well, wielding telekinesis as an arm that can grasp the furthest and finest of objects.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [Kinetic Ram](/Spells.aspx?ID=1156)\r\n- **2nd** [Telekinetic Maneuver](/Spells.aspx?ID=333)\r\n- **3rd** [Levitate](/Spells.aspx?ID=170)\r\n- **4th** [Fly](/Spells.aspx?ID=125)\r\n- **5th** [Telekinetic Haul](/Spells.aspx?ID=332)\r\n- **6th** [Poltergeist's Fury](/Spells.aspx?ID=1160)\r\n- **7th** [Telekinetic Bombardment](/Spells.aspx?ID=1165)\r\n- **8th** [Falling Sky](/Spells.aspx?ID=1153)\r\n- **9th** [Implosion](/Spells.aspx?ID=162)\r\n\r\n**Standard Psi Cantrips** [Mage Hand](/Spells.aspx?ID=177) and [Telekinetic Projectile](/Spells.aspx?ID=334)\r\n\r\n**Surface Psi Cantrip** [Telekinetic Rend](/Spells.aspx?ID=1130)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Vector Screen](/Spells.aspx?ID=1131)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Dancing Blade](/Spells.aspx?ID=1132)\r\n\r\n</column>\n\n<title level=\"2\">Mage Hand</title>\r\n\r\nYour _mage hand_ can carry up to 1 Bulk instead of only light Bulk. If the spell is heightened to 3rd level or higher, its maximum Bulk is 2. If the spell is heightened to 7th level or higher, its maximum Bulk is 3. It also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You create a multitude of telekinetic hands that grip onto a creature and move it about. Target a creature of Medium size or smaller with the amped spell instead of an object. You attempt to Shove the target in a direction of your choice, rolling a spell attack roll against its Fortitude DC instead of an Athletics check. The creature takes a –10-foot circumstance penalty to its Speeds until the spell ends. Starting the round after you Cast the Spell, the first time each round you Sustain the Spell, you can attempt to Shove the creature again.\r\n\r\n**Amp Heightened (4th)** You can attempt to [Disarm](/Actions.aspx?ID=41) the creature instead of attempting to Shove it. If you knock an item out of the creature's grasp in this way, the _mage hand_ immediately grabs it. Any effect of the _mage hand_ on the creature ends, and the spell now carries the item, just like you had picked it up with an unamped _mage hand_.\n\n</column>\r\n\r\n<title level=\"2\">Telekinetic Projectile</title>\r\n\r\nYour telekinetic projectiles can fly much further away. Increase the range of _telekinetic projectile_ to 60 feet. It also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You fling objects with even more force, driving your opponents backwards in a hail of objects. On a success, you [push](/Rules.aspx?ID=451) the target 5 feet away from you, and on a critical success, you push the target 10 feet away from you in addition to dealing double damage.\r\n\r\n**Amp Heightened (+1)** The damage increases by 2d6 instead of by 1d6.\n\n</column>",
+  "name": "The Distant Grasp",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 16",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 16\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMotion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 16"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 16",
+  "speed": {},
+  "spell": [
+   "Mage Hand",
+   "Telekinetic Projectile",
+   "Telekinetic Rend",
+   "Vector Screen",
+   "Dancing Blade",
+   "Kinetic Ram",
+   "Telekinetic Maneuver",
+   "Levitate",
+   "Fly",
+   "Telekinetic Haul",
+   "Poltergeist's Fury",
+   "Telekinetic Bombardment",
+   "Falling Sky",
+   "Implosion"
+  ],
+  "spell_markdown": "[Dancing Blade](/Spells.aspx?ID=1132), [Falling Sky](/Spells.aspx?ID=1153), [Fly](/Spells.aspx?ID=125), [Implosion](/Spells.aspx?ID=162), [Kinetic Ram](/Spells.aspx?ID=1156), [Levitate](/Spells.aspx?ID=170), [Mage Hand](/Spells.aspx?ID=177), [Poltergeist's Fury](/Spells.aspx?ID=1160), [Telekinetic Bombardment](/Spells.aspx?ID=1165), [Telekinetic Haul](/Spells.aspx?ID=332), [Telekinetic Maneuver](/Spells.aspx?ID=333), [Telekinetic Projectile](/Spells.aspx?ID=334), [Telekinetic Rend](/Spells.aspx?ID=1130), [Vector Screen](/Spells.aspx?ID=1131)",
+  "summary": "Motion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to …",
+  "summary_markdown": "Motion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to …",
+  "text": " The Distant Grasp Source Dark Archive pg. 16 Motion characterizes the physical—a boulder falls, creatures move, the world turns. You believe the truest form of mind over matter is therefore to move things as well, wielding telekinesis as an arm that can grasp the furthest and finest of objects. Granted Spells - 1st Kinetic Ram - 2nd Telekinetic Maneuver - 3rd Levitate - 4th Fly - 5th Telekinetic Haul - 6th Poltergeist's Fury - 7th Telekinetic Bombardment - 8th Falling Sky - 9th Implosion Standard Psi Cantrips Mage Hand and Telekinetic Projectile Surface Psi Cantrip Telekinetic Rend Deeper Psi Cantrip (Level 6) Vector Screen Deepest Psi Cantrip (Level 10) Dancing Blade Mage Hand Your mage hand can carry up to 1 Bulk instead of only light Bulk. If the spell is heightened to 3rd level or higher, its maximum Bulk is 2. If the spell is heightened to 7th level or higher, its maximum Bulk is 3. It also gains the following amp. Amp You create a multitude of telekinetic hands that grip onto a creature and move it about. Target a creature of Medium size or smaller with the amped spell instead of an object. You attempt to Shove the target in a direction of your choice, rolling a spell attack roll against its Fortitude DC instead of an Athletics check. The creature takes a –10-foot circumstance penalty to its Speeds until the spell ends. Starting the round after you Cast the Spell, the first time each round you Sustain the Spell, you can attempt to Shove the creature again. Amp Heightened (4th) You can attempt to Disarm the creature instead of attempting to Shove it. If you knock an item out of the creature's grasp in this way, the mage hand immediately grabs it. Any effect of the mage hand on the creature ends, and the spell now carries the item, just like you had picked it up with an unamped mage hand . Telekinetic Projectile Your telekinetic projectiles can fly much further away. Increase the range of telekinetic projectile to 60 feet. It also gains the following amp. Amp You fling objects with even more force, driving your opponents backwards in a hail of objects. On a success, you push the target 5 feet away from you, and on a critical success, you push the target 10 feet away from you in addition to dealing double damage. Amp Heightened (+1) The damage increases by 2d6 instead of by 1d6.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-2",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Infinite Eye](/ConsciousMinds.aspx?ID=2)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 18\n\nThe true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow your experiences—and with them, your power—you devote yourself to observing as much as possible, casting your senses through space and time with clairvoyance and precognition.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [True Strike](/Spells.aspx?ID=345)\r\n- **2nd** [Augury](/Spells.aspx?ID=15)\r\n- **3rd** [Organsight](/Spells.aspx?ID=963)\r\n- **4th** [Clairvoyance](/Spells.aspx?ID=40)\r\n- **5th** [Prying Eye](/Spells.aspx?ID=239)\r\n- **6th** [True Seeing](/Spells.aspx?ID=344)\r\n- **7th** [True Target](/Spells.aspx?ID=346)\r\n- **8th** [Unrelenting Observation](/Spells.aspx?ID=351)\r\n- **9th** [Foresight](/Spells.aspx?ID=127)\r\n\r\n**Standard Psi Cantrips** [Detect Magic](/Spells.aspx?ID=66) and [Guidance](/Spells.aspx?ID=142)\r\n\r\n**Surface Psi Cantrip** [Glimpse Weakness](/Spells.aspx?ID=1133)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Omnidirectional Scan](/Spells.aspx?ID=1134)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Foresee the Path](/Spells.aspx?ID=1135)\r\n\r\n</column>\n\n<title level=\"2\">Detect Magic</title>\r\n\r\nYou have the kind of fine control that other spellcasters can only dream of. When you cast _detect magic_, you're aware of any creature in the emanation affected by a spell or carrying a magic item, and you determine the main location of magic within any [magical](/Traits.aspx?ID=103) hazard in the emanation (with the normal restrictions on detecting illusions). This typically manifests as an alteration to your vision, such as seeing a soft aura around the creature or hazard. Sensing these phenomena doesn't make it clear which spell is on a creature, nor which of its items are magical. Your _detect magic_ also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** Your pulse of detection magic helps you gain a sense of nearby magic's strengths or weaknesses. When you detect the presence of magic on an enemy or hazard, you gain a +1 status bonus to saves against magic originating from that enemy or hazard for 3 rounds. If you find magic from multiple sources with a single casting of _detect magic_, you get the bonus against all of them.\r\n\r\n**Amp Heightened (7th)** The status bonus to saves against magic increases to +2.\n\n</column>\r\n\r\n<title level=\"2\">Guidance</title>\r\n\r\nYou have eyes everywhere, allowing you to guide people from a great distance. The range of _guidance_ increases to 120 feet. It also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You can project a flash of insight to your ally in the nick of time to save them from failure. Amped _guidance_ doesn't cause a creature to become temporarily immune to _guidance_, and a creature can be targeted by amped _guidance_ even if it is temporarily immune to _guidance_.\n\n You can cast an amped _guidance_ spell as a reaction triggered when your ally fails or critically fails an attack roll, Perception check, saving throw, or skill check, and the bonus from _guidance_ would change the failure to a success or the critical failure to a normal failure. The bonus from _guidance_ applies retroactively to their check.\r\n\r\n**Amp Heightened (6th)** The bonus from the spell increases to +2.\n\n</column>",
+  "name": "The Infinite Eye",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 18",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 18\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 18"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 18",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Guidance",
+   "Glimpse Weakness",
+   "Omnidirectional Scan",
+   "Foresee the Path",
+   "True Strike",
+   "Augury",
+   "Organsight",
+   "Clairvoyance",
+   "Prying Eye",
+   "True Seeing",
+   "True Target",
+   "Unrelenting Observation",
+   "Foresight"
+  ],
+  "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Clairvoyance](/Spells.aspx?ID=40), [Detect Magic](/Spells.aspx?ID=66), [Foresee the Path](/Spells.aspx?ID=1135), [Foresight](/Spells.aspx?ID=127), [Glimpse Weakness](/Spells.aspx?ID=1133), [Guidance](/Spells.aspx?ID=142), [Omnidirectional Scan](/Spells.aspx?ID=1134), [Organsight](/Spells.aspx?ID=963), [Prying Eye](/Spells.aspx?ID=239), [True Seeing](/Spells.aspx?ID=344), [True Strike](/Spells.aspx?ID=345), [True Target](/Spells.aspx?ID=346), [Unrelenting Observation](/Spells.aspx?ID=351)",
+  "summary": "The true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow …",
+  "summary_markdown": "The true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow …",
+  "text": " The Infinite Eye Source Dark Archive pg. 18 The true strength of the mind lies in the knowledge it contains, with each new observation contributing to the totality of its experiences. To grow your experiences—and with them, your power—you devote yourself to observing as much as possible, casting your senses through space and time with clairvoyance and precognition. Granted Spells - 1st True Strike - 2nd Augury - 3rd Organsight - 4th Clairvoyance - 5th Prying Eye - 6th True Seeing - 7th True Target - 8th Unrelenting Observation - 9th Foresight Standard Psi Cantrips Detect Magic and Guidance Surface Psi Cantrip Glimpse Weakness Deeper Psi Cantrip (Level 6) Omnidirectional Scan Deepest Psi Cantrip (Level 10) Foresee the Path Detect Magic You have the kind of fine control that other spellcasters can only dream of. When you cast detect magic , you're aware of any creature in the emanation affected by a spell or carrying a magic item, and you determine the main location of magic within any magical hazard in the emanation (with the normal restrictions on detecting illusions). This typically manifests as an alteration to your vision, such as seeing a soft aura around the creature or hazard. Sensing these phenomena doesn't make it clear which spell is on a creature, nor which of its items are magical. Your detect magic also gains the following amp. Amp Your pulse of detection magic helps you gain a sense of nearby magic's strengths or weaknesses. When you detect the presence of magic on an enemy or hazard, you gain a +1 status bonus to saves against magic originating from that enemy or hazard for 3 rounds. If you find magic from multiple sources with a single casting of detect magic , you get the bonus against all of them. Amp Heightened (7th) The status bonus to saves against magic increases to +2. Guidance You have eyes everywhere, allowing you to guide people from a great distance. The range of guidance increases to 120 feet. It also gains the following amp. Amp You can project a flash of insight to your ally in the nick of time to save them from failure. Amped guidance doesn't cause a creature to become temporarily immune to guidance , and a creature can be targeted by amped guidance even if it is temporarily immune to guidance . You can cast an amped guidance spell as a reaction triggered when your ally fails or critically fails an attack roll, Perception check, saving throw, or skill check, and the bonus from guidance would change the failure to a success or the critical failure to a normal failure. The bonus from guidance applies retroactively to their check. Amp Heightened (6th) The bonus from the spell increases to +2.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-3",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Oscillating Wave](/ConsciousMinds.aspx?ID=3)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 19\r\n\r\n_[**PFS Note**](/pathfinder-society) Per design clarification, change the third sentence of the psychic’s Conservation of Energy ability to read “The first time in an encounter that you cast a granted spell from your conscious mind or a standard psi cantrip[...]” The intent is for Conservation of Energy to apply to produce flame and ray of frost, but not the unique cantrips, which are designed to function as written._\r\n\r\nAt the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your powers let you shift energy—either concentrating it in a single point to explosive end or freezing objects by plundering it away— in an endless oscillation of temperature.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [Burning Hands](/Spells.aspx?ID=30)\r\n- **2nd** [Heat Metal](/Spells.aspx?ID=694)\r\n- **3rd** [Fireball](/Spells.aspx?ID=119)\r\n- **4th** [Fire Shield](/Spells.aspx?ID=118)\r\n- **5th** [Cone of Cold](/Spells.aspx?ID=47)\r\n- **6th** [Flame Vortex](/Spells.aspx?ID=911)\r\n- **7th** [Fiery Body](/Spells.aspx?ID=115)\r\n- **8th** [Polar Ray](/Spells.aspx?ID=224)\r\n- **9th** [Meteor Swarm](/Spells.aspx?ID=191)\r\n\r\n**Standard Psi Cantrips** [Frostbite](/Spells.aspx?ID=1539) and [Ignition](/Spells.aspx?ID=1565)\r\n\r\n**Surface Psi Cantrip** [Thermal Stasis](/Spells.aspx?ID=1136)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Entropic Wheel](/Spells.aspx?ID=1137)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Redistribute Potential](/Spells.aspx?ID=1138)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Conservation of Energy</title>\r\n\r\nEnergy can't be created or destroyed, only transferred or changed. Whenever you use your magic to add or remove energy, you must then balance it with the opposing force. The first time in an encounter that you cast a granted spell or a standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells. When you [Refocus](/Actions.aspx?ID=71), you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell.\n\n **Adding Energy:** The ability gains the [fire](/Traits.aspx?ID=72) trait, any damage it deals is fire damage, and any resistance it grants is to cold damage. It loses any traits matching damage types it no longer deals.<br /> **Removing Energy**: The ability gains the [cold](/Traits.aspx?ID=27) trait, any damage it deals is cold damage, and any resistance it grants is to fire damage. It loses any traits matching damage types it no longer deals. Fiery body grants ray of frost instead of produce flame when cast this way.<br />**Mindshift**: When you use an action that has the [mindshift](/Traits.aspx?ID=428) trait, you can choose to add or remove energy to it instead of making it mental. Alter it as normal for adding or removing energy and change any save it requires to a Reflex save.\r\n\r\n<title level=\"2\">Frostbite</title>\r\n\r\nYou can freeze people from even farther away. The range of your frostbite increases to 120 feet. Your _frostbite_ also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You drain thermal energy at a distance, using what you plunder to replenish yourself. The orb deals 3d4 cold damage. You gain temporary Hit Points equal to half the damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute.\r\n\r\n**Amp Heightened (+1)** The initial damage increases by 2d4 instead of 1d4. The weakness on a critical failure increases by 1.\n\n</column>\r\n\r\n<title level=\"2\">Ignition</title>\r\n\r\nYou can drastically increase the heat against targets at a distance. When using _ignition_ as a ranged attack, increase the range to 60 feet. When using ignition as a melee attack, your reach increases by 5 feet. Your ignition also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You project pure heat that causes a target to combust. The initial damage changes to 1d10 fire damage plus 1 fire splash damage. When using amped _ignition_ as a melee attack, increase the damage dice of the initial damage from d10s to d12s. You are not harmed by splash damage from amped _ignition_.\r\n\r\n**Amp Heightened (+1)** Instead of using _ignition’s_ normal heightened entry, the initial damage increases by 1d10 (1d12 for melee) and the splash damage increases by 1. The persistent fire damage on a critical hit increases by 1d4.\n\n</column>",
+  "name": "The Oscillating Wave",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 19",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 19\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAt the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 19"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 19",
+  "speed": {},
+  "spell": [
+   "Frostbite",
+   "Ignition",
+   "Thermal Stasis",
+   "Entropic Wheel",
+   "Redistribute Potential",
+   "Burning Hands",
+   "Heat Metal",
+   "Fireball",
+   "Fire Shield",
+   "Cone of Cold",
+   "Flame Vortex",
+   "Fiery Body",
+   "Polar Ray",
+   "Meteor Swarm"
+  ],
+  "spell_markdown": "[Burning Hands](/Spells.aspx?ID=30), [Cone of Cold](/Spells.aspx?ID=47), [Entropic Wheel](/Spells.aspx?ID=1137), [Fiery Body](/Spells.aspx?ID=115), [Fire Shield](/Spells.aspx?ID=118), [Fireball](/Spells.aspx?ID=119), [Flame Vortex](/Spells.aspx?ID=911), [Frostbite](/Spells.aspx?ID=1539), [Heat Metal](/Spells.aspx?ID=694), [Ignition](/Spells.aspx?ID=1565), [Meteor Swarm](/Spells.aspx?ID=191), [Polar Ray](/Spells.aspx?ID=224), [Redistribute Potential](/Spells.aspx?ID=1138), [Thermal Stasis](/Spells.aspx?ID=1136)",
+  "summary": "At the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your …",
+  "summary_markdown": "At the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your …",
+  "text": " The Oscillating Wave Source Dark Archive pg. 19 PFS Note Per design clarification, change the third sentence of the psychic’s Conservation of Energy ability to read “The first time in an encounter that you cast a granted spell from your conscious mind or a standard psi cantrip[...]” The intent is for Conservation of Energy to apply to produce flame and ray of frost, but not the unique cantrips, which are designed to function as written. At the heart of all things is energy. Though it may change its form or resting place, it is eternal, fundamental, the purest of building blocks. Your powers let you shift energy—either concentrating it in a single point to explosive end or freezing objects by plundering it away— in an endless oscillation of temperature. Granted Spells - 1st Burning Hands - 2nd Heat Metal - 3rd Fireball - 4th Fire Shield - 5th Cone of Cold - 6th Flame Vortex - 7th Fiery Body - 8th Polar Ray - 9th Meteor Swarm Standard Psi Cantrips Frostbite and Ignition Surface Psi Cantrip Thermal Stasis Deeper Psi Cantrip (Level 6) Entropic Wheel Deepest Psi Cantrip (Level 10) Redistribute Potential Conservation of Energy Energy can't be created or destroyed, only transferred or changed. Whenever you use your magic to add or remove energy, you must then balance it with the opposing force. The first time in an encounter that you cast a granted spell or a standard psi cantrip from your conscious mind, decide whether you're adding energy or removing it. Once you add energy, you must remove energy the next time you cast one of these spells. When you Refocus, you restore yourself to a neutral state, allowing you to once again freely choose whether you add or remove energy on your next spell. Adding Energy: The ability gains the fire trait, any damage it deals is fire damage, and any resistance it grants is to cold damage. It loses any traits matching damage types it no longer deals. Removing Energy : The ability gains the cold trait, any damage it deals is cold damage, and any resistance it grants is to fire damage. It loses any traits matching damage types it no longer deals. Fiery body grants ray of frost instead of produce flame when cast this way. Mindshift : When you use an action that has the mindshift trait, you can choose to add or remove energy to it instead of making it mental. Alter it as normal for adding or removing energy and change any save it requires to a Reflex save. Frostbite You can freeze people from even farther away. The range of your frostbite increases to 120 feet. Your frostbite also gains the following amp. Amp You drain thermal energy at a distance, using what you plunder to replenish yourself. The orb deals 3d4 cold damage. You gain temporary Hit Points equal to half the damage the target takes (after applying resistances and the like). You lose any remaining temporary Hit Points after 1 minute. Amp Heightened (+1) The initial damage increases by 2d4 instead of 1d4. The weakness on a critical failure increases by 1. Ignition You can drastically increase the heat against targets at a distance. When using ignition as a ranged attack, increase the range to 60 feet. When using ignition as a melee attack, your reach increases by 5 feet. Your ignition also gains the following amp. Amp You project pure heat that causes a target to combust. The initial damage changes to 1d10 fire damage plus 1 fire splash damage. When using amped ignition as a melee attack, increase the damage dice of the initial damage from d10s to d12s. You are not harmed by splash damage from amped ignition . Amp Heightened (+1) Instead of using ignition’s normal heightened entry, the initial damage increases by 1d10 (1d12 for melee) and the splash damage increases by 1. The persistent fire damage on a critical hit increases by 1d4.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-4",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Silent Whisper](/ConsciousMinds.aspx?ID=4)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 20\n\nEvery mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic then, than the very thoughts of those around you? Your versatile telepathic abilities let you soothe and communicate with your allies or control your enemies.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [Mindlink](/Spells.aspx?ID=195)\r\n- **2nd** [Touch of Idiocy](/Spells.aspx?ID=341)\r\n- **3rd** [Heroism](/Spells.aspx?ID=149)\r\n- **4th** [Telepathy](/Spells.aspx?ID=337)\r\n- **5th** [Synaptic Pulse](/Spells.aspx?ID=327)\r\n- **5th** [Sending](/Spells.aspx?ID=272)\r\n- **7th** [Visions of Danger](/Spells.aspx?ID=358)\r\n- **8th** [Uncontrollable Dance](/Spells.aspx?ID=347)\r\n- **9th** [Telepathic Demand](/Spells.aspx?ID=336)\r\n\r\n**Standard Psi Cantrips** [Daze](/Spells.aspx?ID=61) and [Message](/Spells.aspx?ID=190)\r\n\r\n**Surface Psi Cantrip** [Forbidden Thought](/Spells.aspx?ID=1139)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Shatter Mind](/Spells.aspx?ID=1140)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Contagious Idea](/Spells.aspx?ID=1141)\r\n\r\n</column>\n\n<title level=\"2\">Daze</title>\r\n\r\nYou can _daze_ from a great distance. The range increases to 120 feet. Your _daze_ also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being stunned 1). The weakness applies before _daze_ deals damage.\r\n\r\n**Amp Heightened (+2)** The spell's damage increases by 2d10, and the weakness on a failure or critical failure increases by 1.\n\n</column>\r\n\r\n<title level=\"2\">Message</title>\r\n\r\nYour _message_ is not so easily bound by obstacles. The spell can travel up to 120 feet to reach the target, bending around walls and obstacles; this means you don't need a straight line of effect or line of sight to cast _message_ as long as you know the target's space and there is an unblocked path of 120 feet or less that can reach them. It also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** Your telepathic message allows you to coordinate your actions while you pass on information. The target of the message can immediately spend its reaction to Step or Stride.\r\n\r\n**Amp Heightened (4th)** The target of the message can choose to [Shove](/Actions.aspx?ID=38), Strike, or [Trip](/Actions.aspx?ID=40) with its reaction instead.\n\n</column>",
+  "name": "The Silent Whisper",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 20",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 20\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEvery mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 20"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 20",
+  "speed": {},
+  "spell": [
+   "Daze",
+   "Message",
+   "Forbidden Thought",
+   "Shatter Mind",
+   "Contagious Idea",
+   "Mindlink",
+   "Touch of Idiocy",
+   "Heroism",
+   "Telepathy",
+   "Synaptic Pulse",
+   "Sending",
+   "Visions of Danger",
+   "Uncontrollable Dance",
+   "Telepathic Demand"
+  ],
+  "spell_markdown": "[Contagious Idea](/Spells.aspx?ID=1141), [Daze](/Spells.aspx?ID=61), [Forbidden Thought](/Spells.aspx?ID=1139), [Heroism](/Spells.aspx?ID=149), [Message](/Spells.aspx?ID=190), [Mindlink](/Spells.aspx?ID=195), [Sending](/Spells.aspx?ID=272), [Shatter Mind](/Spells.aspx?ID=1140), [Synaptic Pulse](/Spells.aspx?ID=327), [Telepathic Demand](/Spells.aspx?ID=336), [Telepathy](/Spells.aspx?ID=337), [Touch of Idiocy](/Spells.aspx?ID=341), [Uncontrollable Dance](/Spells.aspx?ID=347), [Visions of Danger](/Spells.aspx?ID=358)",
+  "summary": "Every mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic …",
+  "summary_markdown": "Every mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic …",
+  "text": " The Silent Whisper Source Dark Archive pg. 20 Every mind murmurs constantly, and the static from those nearby reverberates in your head like wind through leaves. What better focus for your magic then, than the very thoughts of those around you? Your versatile telepathic abilities let you soothe and communicate with your allies or control your enemies. Granted Spells - 1st Mindlink - 2nd Touch of Idiocy - 3rd Heroism - 4th Telepathy - 5th Synaptic Pulse - 5th Sending - 7th Visions of Danger - 8th Uncontrollable Dance - 9th Telepathic Demand Standard Psi Cantrips Daze and Message Surface Psi Cantrip Forbidden Thought Deeper Psi Cantrip (Level 6) Shatter Mind Deepest Psi Cantrip (Level 10) Contagious Idea Daze You can daze from a great distance. The range increases to 120 feet. Your daze also gains the following amp. Amp Your spell cracks the target's mental defenses, leaving it susceptible to further psychic attack. The spell's damage changes to 1d10. If the target fails its Will save, until the end of its next turn, it gains weakness 1 to mental damage and takes a –1 status penalty to Will saves. On a critical failure, the weakness is 3 (in addition to the target being stunned 1). The weakness applies before daze deals damage. Amp Heightened (+2) The spell's damage increases by 2d10, and the weakness on a failure or critical failure increases by 1. Message Your message is not so easily bound by obstacles. The spell can travel up to 120 feet to reach the target, bending around walls and obstacles; this means you don't need a straight line of effect or line of sight to cast message as long as you know the target's space and there is an unblocked path of 120 feet or less that can reach them. It also gains the following amp. Amp Your telepathic message allows you to coordinate your actions while you pass on information. The target of the message can immediately spend its reaction to Step or Stride. Amp Heightened (4th) The target of the message can choose to Shove, Strike, or Trip with its reaction instead.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-5",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Tangible Dream](/ConsciousMinds.aspx?ID=5)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 21\n\nYou pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [Color Spray](/Spells.aspx?ID=44)\r\n- **2nd** [Mirror Image](/Spells.aspx?ID=197)\r\n- **3rd** [Sea of Thought](/Spells.aspx?ID=1162)\r\n- **4th** [Resilient Sphere](/Spells.aspx?ID=255)\r\n- **5th** [Etheric Shards](/Spells.aspx?ID=1152)\r\n- **6th** [Blade Barrier](/Spells.aspx?ID=24)\r\n- **7th** [Project Image](/Spells.aspx?ID=237)\r\n- **8th** [Scintillating Pattern](/Spells.aspx?ID=267)\r\n- **9th** [Prismatic Sphere](/Spells.aspx?ID=232)\r\n\r\n**Standard Psi Cantrips** [Figment](/Spells.aspx?ID=1528) and [Shield](/Spells.aspx?ID=280)\r\n\r\n**Surface Psi Cantrip** [Imaginary Weapon](/Spells.aspx?ID=1142)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Astral Rain](/Spells.aspx?ID=1143)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Hologram Cage](/Spells.aspx?ID=1144)\r\n\r\n</column>\n\n<title level=\"2\">Figment</title>\r\n\r\nYour minor illusions shift and dance. The range of _figment_ increases to 60 feet. When you Sustain the spell, you can move the apparent sound or vision up to 15 feet. You can then attempt to [Create a Diversion](/Actions.aspx?ID=45) as usual. Those creatures who disbelieved the illusion aren't affected by this diversion. Your figment also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp**  When you amp the spell, you can create a particularly distracting illusion as part of its normal effects. Choose an unoccupied square within the spell's range. The illusion in that square provides flanking for a single melee attack made before the beginning of your next turn. If you Sustain the spell, the details of the illusion change and shift to keep your enemies unsettled; the flanking illusion's duration extends until the beginning of your next turn and you can move it to any unoccupied square in the spell's range. The flanking illusion can't provide its benefit against any creature who has disbelieved the _figment_.\n\n</column>\r\n\r\n<title level=\"2\">Shield</title>\r\n\r\nYour _shield_ spell can be deployed on behalf of others. When you cast _shield_, you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to [Shield Block](/Feats.aspx?ID=839) with the spell is up to you and uses your reaction, not the target's. Your _shield_ also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** You create a layered barrier of three shields to improve your defenses. The duration increases to sustained up to 1 minute. The shield still lowers at the start of each of your turns, but you can raise it again when you Sustain the Spell.\n\n When you Shield Block with this spell, one of the three layers breaks and you cease to gain the bonus to AC, but the spell doesn't end. You can keep using the spell until the final layer breaks; once it does, the spell ends and you can't cast _shield_ or amped _shield_ again for 10 minutes. You can choose to break additional layers when you Shield Block with this spell to improve your defenses. If you break two layers instead of one, increase the Hardness to 1-1/2 × the normal amount (7 at 1st level, 15 at 3rd level, 22 at 5th level, 30 at 7th level, and 37 at 9th level). If you break all three layers, increase the Hardness to double the normal amount.\n\n</column>",
+  "name": "The Tangible Dream",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 21",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 21\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 21"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 21",
+  "speed": {},
+  "spell": [
+   "Figment",
+   "Shield",
+   "Imaginary Weapon",
+   "Astral Rain",
+   "Hologram Cage",
+   "Color Spray",
+   "Mirror Image",
+   "Sea of Thought",
+   "Resilient Sphere",
+   "Etheric Shards",
+   "Blade Barrier",
+   "Project Image",
+   "Scintillating Pattern",
+   "Prismatic Sphere"
+  ],
+  "spell_markdown": "[Astral Rain](/Spells.aspx?ID=1143), [Blade Barrier](/Spells.aspx?ID=24), [Color Spray](/Spells.aspx?ID=44), [Etheric Shards](/Spells.aspx?ID=1152), [Figment](/Spells.aspx?ID=1528), [Hologram Cage](/Spells.aspx?ID=1144), [Imaginary Weapon](/Spells.aspx?ID=1142), [Mirror Image](/Spells.aspx?ID=197), [Prismatic Sphere](/Spells.aspx?ID=232), [Project Image](/Spells.aspx?ID=237), [Resilient Sphere](/Spells.aspx?ID=255), [Scintillating Pattern](/Spells.aspx?ID=267), [Sea of Thought](/Spells.aspx?ID=1162), [Shield](/Spells.aspx?ID=280)",
+  "summary": "You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures …",
+  "summary_markdown": "You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures …",
+  "text": " The Tangible Dream Source Dark Archive pg. 21 You pull colors and shapes from the depth of your mind, projecting impossible creations into the world as tapestries of astral thread or sculptures of force and light. Granted Spells - 1st Color Spray - 2nd Mirror Image - 3rd Sea of Thought - 4th Resilient Sphere - 5th Etheric Shards - 6th Blade Barrier - 7th Project Image - 8th Scintillating Pattern - 9th Prismatic Sphere Standard Psi Cantrips Figment and Shield Surface Psi Cantrip Imaginary Weapon Deeper Psi Cantrip (Level 6) Astral Rain Deepest Psi Cantrip (Level 10) Hologram Cage Figment Your minor illusions shift and dance. The range of figment increases to 60 feet. When you Sustain the spell, you can move the apparent sound or vision up to 15 feet. You can then attempt to Create a Diversion as usual. Those creatures who disbelieved the illusion aren't affected by this diversion. Your figment also gains the following amp. Amp When you amp the spell, you can create a particularly distracting illusion as part of its normal effects. Choose an unoccupied square within the spell's range. The illusion in that square provides flanking for a single melee attack made before the beginning of your next turn. If you Sustain the spell, the details of the illusion change and shift to keep your enemies unsettled; the flanking illusion's duration extends until the beginning of your next turn and you can move it to any unoccupied square in the spell's range. The flanking illusion can't provide its benefit against any creature who has disbelieved the figment . Shield Your shield spell can be deployed on behalf of others. When you cast shield , you can choose a target ally within 30 feet to gain the benefits of the spell instead of you. The option to Shield Block with the spell is up to you and uses your reaction, not the target's. Your shield also gains the following amp. Amp You create a layered barrier of three shields to improve your defenses. The duration increases to sustained up to 1 minute. The shield still lowers at the start of each of your turns, but you can raise it again when you Sustain the Spell. When you Shield Block with this spell, one of the three layers breaks and you cease to gain the bonus to AC, but the spell doesn't end. You can keep using the spell until the final layer breaks; once it does, the spell ends and you can't cast shield or amped shield again for 10 minutes. You can choose to break additional layers when you Shield Block with this spell to improve your defenses. If you break two layers instead of one, increase the Hardness to 1-1/2 × the normal amount (7 at 1st level, 15 at 3rd level, 22 at 5th level, 30 at 7th level, and 37 at 9th level). If you break all three layers, increase the Hardness to double the normal amount.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "conscious-mind",
+  "exclude_from_search": false,
+  "id": "conscious-mind-6",
+  "markdown": "<title level=\"1\" right=\"Psychic Conscious Mind \" pfs=\"Standard\">[The Unbound Step](/ConsciousMinds.aspx?ID=6)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 23\n\nThe mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical three, allowing for versatile abilities that alter positioning.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Granted Spells**\r\n- **1st** [Thoughtful Gift](/Spells.aspx?ID=722)\r\n- **2nd** [Enlarge](/Spells.aspx?ID=102)\r\n- **3rd** [Rally Point](/Spells.aspx?ID=1161)\r\n- **4th** [Dimension Door](/Spells.aspx?ID=69)\r\n- **5th** [Strange Geometry](/Spells.aspx?ID=719)\r\n- **6th** [Collective Transposition](/Spells.aspx?ID=43)\r\n- **7th** [Momentary Recovery](/Spells.aspx?ID=1157)\r\n- **8th** [Maze](/Spells.aspx?ID=187)\r\n- **9th** [Bilocation](/Spells.aspx?ID=1149)\r\n\r\n**Standard Psi Cantrips** [Phase Bolt](/Spells.aspx?ID=1159) and [Warp Step](/Spells.aspx?ID=1166)\r\n\r\n**Surface Psi Cantrip** [Distortion Lens](/Spells.aspx?ID=1145)\r\n\r\n**Deeper Psi Cantrip (Level 6)** [Ghostly Shift](/Spells.aspx?ID=1146)\r\n\r\n**Deepest Psi Cantrip (Level 10)** [Tesseract Tunnel](/Spells.aspx?ID=1147)\r\n\r\n</column>\n\n<title level=\"2\">Phase Bolt</title>\r\n\r\nYour _phase bolt_ temporarily sends the target's cover out of phase if it hits. On a success, reduce the target's circumstance bonus to AC (if any) by 1 until the beginning of your next turn. Your _phase bolt_ also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** Your bolt leaves phase completely, becoming invisible and intangible until it's already embedded in the target— giving the impression it simply teleported itself into place. The target is [flat-footed](/Conditions.aspx?ID=16) against the attack. Additionally, the bolt ignores an amount of Hardness or resistance to piercing damage equal to half the spell's level. On a critical success, the target can't be affected by [teleportation](/Traits.aspx?ID=156) effects until the start of your next turn.\r\n\r\n**Amp Heightened (+1)** The bolt's damage increases by 2d4 instead of 1d4.\n\n</column>\r\n\r\n<title level=\"2\">Warp Step</title>\r\n\r\nYou warp space more compactly, granting you a +10-foot status to your Speed instead of a +5-foot status bonus when you _warp step_. The spell also gains the following amp.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Amp** Space contracts with hardly a thought, letting you Cast the Spell as a single action.\r\n\r\n**Amp Heightened (4th)** You twist space so completely you don't need to travel the interposing distance. You can choose to instead teleport to a space within your line of sight and line of effect with a range equal to your double your Speed (after applying the status bonus from _warp step_). This grants the spell the [teleportation](/Traits.aspx?ID=156) trait.\n\n</column>",
+  "name": "The Unbound Step",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 23",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 23\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 23"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 23",
+  "speed": {},
+  "spell": [
+   "Phase Bolt",
+   "Warp Step",
+   "Distortion Lens",
+   "Ghostly Shift",
+   "Tesseract Tunnel",
+   "Thoughtful Gift",
+   "Enlarge",
+   "Rally Point",
+   "Dimension Door",
+   "Strange Geometry",
+   "Collective Transposition",
+   "Momentary Recovery",
+   "Maze",
+   "Bilocation"
+  ],
+  "spell_markdown": "[Bilocation](/Spells.aspx?ID=1149), [Collective Transposition](/Spells.aspx?ID=43), [Dimension Door](/Spells.aspx?ID=69), [Distortion Lens](/Spells.aspx?ID=1145), [Enlarge](/Spells.aspx?ID=102), [Ghostly Shift](/Spells.aspx?ID=1146), [Maze](/Spells.aspx?ID=187), [Momentary Recovery](/Spells.aspx?ID=1157), [Phase Bolt](/Spells.aspx?ID=1159), [Rally Point](/Spells.aspx?ID=1161), [Strange Geometry](/Spells.aspx?ID=719), [Tesseract Tunnel](/Spells.aspx?ID=1147), [Thoughtful Gift](/Spells.aspx?ID=722), [Warp Step](/Spells.aspx?ID=1166)",
+  "summary": "The mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical …",
+  "summary_markdown": "The mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical …",
+  "text": " The Unbound Step Source Dark Archive pg. 23 The mind can flit from thought to thought; why too shouldn't you? You focus on motion in a higher order of spatial dimensions, not just the typical three, allowing for versatile abilities that alter positioning. Granted Spells - 1st Thoughtful Gift - 2nd Enlarge - 3rd Rally Point - 4th Dimension Door - 5th Strange Geometry - 6th Collective Transposition - 7th Momentary Recovery - 8th Maze - 9th Bilocation Standard Psi Cantrips Phase Bolt and Warp Step Surface Psi Cantrip Distortion Lens Deeper Psi Cantrip (Level 6) Ghostly Shift Deepest Psi Cantrip (Level 10) Tesseract Tunnel Phase Bolt Your phase bolt temporarily sends the target's cover out of phase if it hits. On a success, reduce the target's circumstance bonus to AC (if any) by 1 until the beginning of your next turn. Your phase bolt also gains the following amp. Amp Your bolt leaves phase completely, becoming invisible and intangible until it's already embedded in the target— giving the impression it simply teleported itself into place. The target is flat-footed against the attack. Additionally, the bolt ignores an amount of Hardness or resistance to piercing damage equal to half the spell's level. On a critical success, the target can't be affected by teleportation effects until the start of your next turn. Amp Heightened (+1) The bolt's damage increases by 2d4 instead of 1d4. Warp Step You warp space more compactly, granting you a +10-foot status to your Speed instead of a +5-foot status bonus when you warp step . The spell also gains the following amp. Amp Space contracts with hardly a thought, letting you Cast the Spell as a single action. Amp Heightened (4th) You twist space so completely you don't need to travel the interposing distance. You can choose to instead teleport to a space within your line of sight and line of effect with a range equal to your double your Speed (after applying the status bonus from warp step ). This grants the spell the teleportation trait.\n",
+  "type": "Psychic Conscious Mind",
+  "url": "/ConsciousMinds.aspx?ID=6",
+  "weakness": {}
+ }
+]

@@ -1,0 +1,298 @@
+[
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-1",
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Alchemical Sciences](/Methodologies.aspx?ID=1)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>\n\nYour methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.\n\n You're trained in [Crafting](/Skills.aspx?ID=4) and gain the [Alchemical Crafting](/Feats.aspx?ID=752) skill feat. In addition, you gain a standard [formula book](/Equipment.aspx?ID=22) for free and learn the formulas for two additional common 1st-level alchemical items, which must be [elixirs](/Equipment.aspx?Category=6&amp;Subcategory=8) or [tools](/Equipment.aspx?Category=6&amp;Subcategory=10). Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create. \n\nDuring your daily preparations, you can create a number of versatile vials—alchemical concoctions that can quickly be turned into elixirs and tools— equal to your Intelligence modifier. You can use the Quick Tincture action to turn one of these vials into an elixir or alchemical tool for which you know the formula.\n\n<document level=\"2\" id=\"action-547\" />",
+  "name": "Alchemical Sciences",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 57",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "methodology-5"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 57"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …",
+  "summary_markdown": "Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …",
+  "text": " Alchemical Sciences Source Advanced Player's Guide pg. 57 2.0 Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases. You're trained in Crafting and gain the Alchemical Crafting skill feat. In addition, you gain a standard formula book for free and learn the formulas for two additional common 1st-level alchemical items, which must be elixirs or tools. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create. During your daily preparations, you can create a number of versatile vials—alchemical concoctions that can quickly be turned into elixirs and tools— equal to your Intelligence modifier. You can use the Quick Tincture action to turn one of these vials into an elixir or alchemical tool for which you know the formula.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-2",
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Empiricism](/Methodologies.aspx?ID=2)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>\n\nEverything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.\n\n You are trained in one Intelligence-based skill of your choice. You gain the [That's Odd](/Feats.aspx?ID=1449) investigator feat, and you gain the Expeditious Inspection free action.\n\n<document level=\"2\" id=\"action-548\" />",
+  "name": "Empiricism",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 57",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "methodology-6"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEverything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 57"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 57 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …",
+  "summary_markdown": "Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …",
+  "text": " Empiricism Source Advanced Player's Guide pg. 57 2.0 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention. You are trained in one Intelligence-based skill of your choice. You gain the That's Odd investigator feat, and you gain the Expeditious Inspection free action.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-3",
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Forensic Medicine](/Methodologies.aspx?ID=3)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>\n\nYou've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.\n\n You're trained in [Medicine](/Skills.aspx?ID=9) and gain the [Forensic Acumen](/Feats.aspx?ID=2128) and [Battle Medicine](/Feats.aspx?ID=760) skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.",
+  "name": "Forensic Medicine",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 58",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "methodology-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 58"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. …",
+  "summary_markdown": "You've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. …",
+  "text": " Forensic Medicine Source Advanced Player's Guide pg. 58 2.0 You've learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they'd like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene. You're trained in Medicine and gain the Forensic Acumen and Battle Medicine skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-4",
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Interrogation](/Methodologies.aspx?ID=4)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>\n\nPeople can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you've developed interrogative techniques to help you get to the truth of your investigations.\n\n You are trained in [Diplomacy](/Skills.aspx?ID=6). You gain the [No Cause for Alarm](/Feats.aspx?ID=2139) skill feat. You can also [Pursue a Lead](/Actions.aspx?ID=544) over the course of a conversation rather than spending dedicated time looking into the lead, provided the conversation lasts 1 minute or longer. For example, while trying to [Make an Impression](/Actions.aspx?ID=50), you could pursue the creature you're conversing with as a lead, and you could Pursue a Lead about an object while someone is telling you information about that object. You also gain the Pointed Question action.\n\n<document level=\"2\" id=\"action-549\" />",
+  "name": "Interrogation",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 58",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "methodology-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPeople can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 58"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 58 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …",
+  "summary_markdown": "People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …",
+  "text": " Interrogation Source Advanced Player's Guide pg. 58 2.0 People can't help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you've developed interrogative techniques to help you get to the truth of your investigations. You are trained in Diplomacy. You gain the No Cause for Alarm skill feat. You can also Pursue a Lead over the course of a conversation rather than spending dedicated time looking into the lead, provided the conversation lasts 1 minute or longer. For example, while trying to Make an Impression, you could pursue the creature you're conversing with as a lead, and you could Pursue a Lead about an object while someone is telling you information about that object. You also gain the Pointed Question action.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-5",
+  "legacy_id": [
+   "methodology-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Alchemical Sciences](/Methodologies.aspx?ID=5)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 103\n\nYour methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases.\n\nYou’re trained in [Crafting](/Skills.aspx?ID=37) and gain the [Alchemical Crafting](/Feats.aspx?ID=5117) skill feat. You start with a standard [formula book](/Equipment.aspx?ID=2724), which contains the [formulas](/Rules.aspx?ID=2214) for two common 1st-level alchemical items of your choice (these must be [elixirs](/Equipment.aspx?Category=6&amp;Subcategory=8) or [tools](/Equipment.aspx?Category=6&amp;Subcategory=10)), in addition to the formulas gained from Alchemical Crafting. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create.\n\nDuring your daily preparations, you can create a number of versatile vials equal to your Intelligence modifier. Statistics for versatile vials appear in the [alchemist](/Classes.aspx?ID=56) class.\n\nYou gain the Quick Tincture action, which you can use to turn one of these vials into an elixir or alchemical tool for which you know the formula. If you have the ability to create versatile vials from more than one source (such as the [alchemist multiclass archetype](/Archetypes.aspx?ID=228)), you can use any of your versatile vials for any ability you have that requires them.\n\n<document level=\"2\" id=\"action-2814\" />",
+  "name": "Alchemical Sciences",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 103",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 103\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 103"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 103",
+  "speed": {},
+  "summary": "Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …",
+  "summary_markdown": "Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You …",
+  "text": " Alchemical Sciences Source Player Core 2 pg. 103 Your methodology emphasizes chemical and alchemical analysis, collecting information from unusual particles and fluids found on the scene. You possess enough alchemical know-how to whip up a few tinctures to help you with your cases. You’re trained in Crafting and gain the Alchemical Crafting skill feat. You start with a standard formula book, which contains the formulas for two common 1st-level alchemical items of your choice (these must be elixirs or tools), in addition to the formulas gained from Alchemical Crafting. Each time you gain a level, you learn the formula for one common alchemical elixir or alchemical tool of any level of item you can create. During your daily preparations, you can create a number of versatile vials equal to your Intelligence modifier. Statistics for versatile vials appear in the alchemist class. You gain the Quick Tincture action, which you can use to turn one of these vials into an elixir or alchemical tool for which you know the formula. If you have the ability to create versatile vials from more than one source (such as the alchemist multiclass archetype), you can use any of your versatile vials for any ability you have that requires them.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-6",
+  "legacy_id": [
+   "methodology-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Empiricism](/Methodologies.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\n\nEverything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention.\n\nYou are trained in one Intelligence-based skill of your choice. You gain the [That’s Odd](/Feats.aspx?ID=5938) investigator feat, and you gain the Expeditious Inspection free action.\n\n<document level=\"2\" id=\"action-2815\" />",
+  "name": "Empiricism",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 104",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEverything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 104"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 104",
+  "speed": {},
+  "summary": "Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …",
+  "summary_markdown": "Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome …",
+  "text": " Empiricism Source Player Core 2 pg. 104 Everything comes down to data. Calculating statistics, running numbers, and using inductive reasoning allows you to determine the most likely outcome of any scenario, and anything out of place draws your keen attention. You are trained in one Intelligence-based skill of your choice. You gain the That’s Odd investigator feat, and you gain the Expeditious Inspection free action.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-7",
+  "legacy_id": [
+   "methodology-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Forensic Medicine](/Methodologies.aspx?ID=7)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\n\nYou’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene.\n\nYou’re trained in [Medicine](/Skills.aspx?ID=42) and gain the [Forensic Acumen](/Feats.aspx?ID=6483) and [Battle Medicine](/Feats.aspx?ID=5125) skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.",
+  "name": "Forensic Medicine",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 104",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 104"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 104",
+  "speed": {},
+  "summary": "You’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. …",
+  "summary_markdown": "You’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. …",
+  "text": " Forensic Medicine Source Player Core 2 pg. 104 You’ve learned that in most cases, especially murders, criminals tend to leave more evidence of the crime on the body than they’d like to believe. Information from bruising, bone fractures, blood spatters, and even the life cycle of carrion insects can provide valuable clues that help reconstruct the scene. You’re trained in Medicine and gain the Forensic Acumen and Battle Medicine skill feats. When you use Battle Medicine, on a success the target recovers additional Hit Points equal to your level, and the target becomes temporarily immune for only 1 hour, not 1 day.",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "methodology",
+  "exclude_from_search": false,
+  "id": "methodology-8",
+  "legacy_id": [
+   "methodology-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Investigator Methodology \" pfs=\"Standard\">[Interrogation](/Methodologies.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\n\nPeople can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you’ve developed interrogative techniques to help you get to the truth of your investigations.\n\nYou are trained in [Diplomacy](/Skills.aspx?ID=39). You gain the [No Cause for Alarm](/Feats.aspx?ID=5184) skill feat. You can also Pursue a Lead at the same time you [Make an Impression](/Actions.aspx?ID=2392), as long as you ask a question related to the creature with which you’re conversing or a topic of your conversation. You also gain the Pointed Question action.\n\n<document level=\"2\" id=\"action-2816\" />",
+  "name": "Interrogation",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 104",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 104\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPeople can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 104"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 104",
+  "speed": {},
+  "summary": "People can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …",
+  "summary_markdown": "People can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you …",
+  "text": " Interrogation Source Player Core 2 pg. 104 People can’t help but trust you, whether through your inherent likableness or your firm insistence on sticking to the truth. You have a way about you that gets others talking, and you’ve developed interrogative techniques to help you get to the truth of your investigations. You are trained in Diplomacy. You gain the No Cause for Alarm skill feat. You can also Pursue a Lead at the same time you Make an Impression, as long as you ask a question related to the creature with which you’re conversing or a topic of your conversation. You also gain the Pointed Question action.\n",
+  "type": "Investigator Methodology",
+  "url": "/Methodologies.aspx?ID=8",
+  "weakness": {}
+ }
+]

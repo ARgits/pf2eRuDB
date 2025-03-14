@@ -1,0 +1,406 @@
+[
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-1",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Animal](/DruidicOrders.aspx?ID=1)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>\n\nYou have a strong connection to beasts, and you are allied with a beast companion. You are trained in [Athletics](/Skills.aspx?ID=3). You also gain the [Animal Companion](/Feats.aspx?ID=311) druid feat. You gain the [_heal animal_](/Spells.aspx?ID=474) order spell. Committing wanton cruelty to animals or killing animals unnecessarily is anathema to your order. (This doesn’t prevent you from defending yourself against animals or killing them cleanly for food.)",
+  "name": "Animal",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 131",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "druidic-order-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a strong connection to beasts, and you are allied with a beast companion. You are trained in  Athletics . You also gain the  Animal …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 131"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You have a strong connection to beasts, and you are allied with a beast companion. You are trained in  Athletics . You also gain the  Animal …",
+  "summary_markdown": "You have a strong connection to beasts, and you are allied with a beast companion. You are trained in  Athletics . You also gain the  Animal …",
+  "text": " Animal Source Core Rulebook pg. 131 4.0 You have a strong connection to beasts, and you are allied with a beast companion. You are trained in Athletics. You also gain the Animal Companion druid feat. You gain the heal animal order spell. Committing wanton cruelty to animals or killing animals unnecessarily is anathema to your order. (This doesn’t prevent you from defending yourself against animals or killing them cleanly for food.)",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-2",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Leaf](/DruidicOrders.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>\n\nYou revere plants and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, and helping areas regrow after disasters or negligent humanoid expansion. You are trained in [Diplomacy](/Skills.aspx?ID=6). You also gain the [Leshy Familiar](/Feats.aspx?ID=312) druid feat. You gain the [_goodberry_](/Spells.aspx?ID=473) order spell, and you increase the number of Focus Points in your focus pool by 1. Committing wanton cruelty to plants or fungi or killing plants unnecessarily is anathema to your order. (This doesn’t prevent you from defending yourself against plants or fungi or harvesting them when necessary for survival.)",
+  "name": "Leaf",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 131",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "druidic-order-9"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou revere plants and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 131"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 131 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You revere plants and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, …",
+  "summary_markdown": "You revere plants and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, …",
+  "text": " Leaf Source Core Rulebook pg. 131 4.0 You revere plants and the bounty of nature, acting as both a gardener and warden for the wilderness, teaching sustainable techniques to communities, and helping areas regrow after disasters or negligent humanoid expansion. You are trained in Diplomacy. You also gain the Leshy Familiar druid feat. You gain the goodberry order spell, and you increase the number of Focus Points in your focus pool by 1. Committing wanton cruelty to plants or fungi or killing plants unnecessarily is anathema to your order. (This doesn’t prevent you from defending yourself against plants or fungi or harvesting them when necessary for survival.)",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-3",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Storm](/DruidicOrders.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>\n\nYou carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in [Acrobatics](/Skills.aspx?ID=1). You also gain the [Storm Born](/Feats.aspx?ID=314) druid feat. You gain the [_tempest surge_](/Spells.aspx?ID=479) order spell, and you increase the number of Focus Points in your focus pool by 1. Polluting the air or allowing those who cause major air pollution or climate shifts to go unpunished is anathema to your order. (This doesn’t force you to take action against merely potential harm to the environment or to sacrifice yourself against an obviously superior foe.)",
+  "name": "Storm",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 132",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "druidic-order-10"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in  Acrobatics . …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 132"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in  Acrobatics . …",
+  "summary_markdown": "You carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in  Acrobatics . …",
+  "text": " Storm Source Core Rulebook pg. 132 4.0 You carry the fury of the storm within you, channeling it to terrifying effect and riding the winds through the sky. You are trained in Acrobatics. You also gain the Storm Born druid feat. You gain the tempest surge order spell, and you increase the number of Focus Points in your focus pool by 1. Polluting the air or allowing those who cause major air pollution or climate shifts to go unpunished is anathema to your order. (This doesn’t force you to take action against merely potential harm to the environment or to sacrifice yourself against an obviously superior foe.)",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-4",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Wild](/DruidicOrders.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>\n\nThe savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a wild creature. You are trained in [Intimidation](/Skills.aspx?ID=7). You also gain the [Wild Shape](/Feats.aspx?ID=316) druid feat. You gain the [_wild morph_](/Spells.aspx?ID=480) order spell. Becoming fully domesticated by the temptations of civilization is anathema to your order. (This doesn’t prevent you from buying and using processed goods or staying in a city for an adventure, but you can never come to rely on these conveniences or truly call such a place your permanent home.)",
+  "name": "Wild",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 132",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "druidic-order-11"
+  ],
+  "remaster_name": [
+   "Untamed"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 132"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 132 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a …",
+  "summary_markdown": "The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a …",
+  "text": " Wild Source Core Rulebook pg. 132 4.0 The savage, uncontrollable call of the natural world infuses you, granting you the ability to change your shape and take on the ferocious form of a wild creature. You are trained in Intimidation. You also gain the Wild Shape druid feat. You gain the wild morph order spell. Becoming fully domesticated by the temptations of civilization is anathema to your order. (This doesn’t prevent you from buying and using processed goods or staying in a city for an adventure, but you can never come to rely on these conveniences or truly call such a place your permanent home.)",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-5",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Flame](/DruidicOrders.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\n\nYou feel a kinship with flames and can use them for succor and destruction. You're trained in [Acrobatics](/Skills.aspx?ID=1). You also gain the [Fire Lung](/Feats.aspx?ID=2970) druid feat. You gain the [_wildfire_](/Spells.aspx?ID=1059) order spell. Allowing unnatural fires to spread or preventing natural fires from occurring in a way that harms the environment are anathema to your order (this doesn't prevent you from using fire destructively or force you to combat a controlled or natural fire).",
+  "name": "Flame",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou feel a kinship with flames and can use them for succor and destruction. You're trained in  Acrobatics . You also gain the  Fire Lung  druid feat. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "You feel a kinship with flames and can use them for succor and destruction. You're trained in  Acrobatics . You also gain the  Fire Lung  druid feat. …",
+  "summary_markdown": "You feel a kinship with flames and can use them for succor and destruction. You're trained in  Acrobatics . You also gain the  Fire Lung  druid feat. …",
+  "text": " Flame Source Secrets of Magic pg. 198 1.1 You feel a kinship with flames and can use them for succor and destruction. You're trained in Acrobatics. You also gain the Fire Lung druid feat. You gain the wildfire order spell. Allowing unnatural fires to spread or preventing natural fires from occurring in a way that harms the environment are anathema to your order (this doesn't prevent you from using fire destructively or force you to combat a controlled or natural fire).",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-6",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Stone](/DruidicOrders.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\n\nYou're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in [Crafting](/Skills.aspx?ID=4). You also gain the [Steadying Stone](/Feats.aspx?ID=2972) druid feat. You gain the [_crushing ground_](/Spells.aspx?ID=1053) order spell. Poisoning or polluting the land and heedlessly carving the earth to plunder its natural resources are anathema to your order (this doesn't prevent you from responsibly digging or mining).",
+  "name": "Stone",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in  Crafting . You also gain the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "You're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in  Crafting . You also gain the …",
+  "summary_markdown": "You're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in  Crafting . You also gain the …",
+  "text": " Stone Source Secrets of Magic pg. 198 1.1 You're as enduring as stone, and you take comfort in its steadfast presence, both natural and worked. You're trained in Crafting. You also gain the Steadying Stone druid feat. You gain the crushing ground order spell. Poisoning or polluting the land and heedlessly carving the earth to plunder its natural resources are anathema to your order (this doesn't prevent you from responsibly digging or mining).",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-7",
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Wave](/DruidicOrders.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\n\nWater is the source of life, and you've learned to shape how it flows. You're trained in [Medicine](/Skills.aspx?ID=9). You also gain the [Shore Step](/Feats.aspx?ID=2971) druid feat. You gain the [_rising surf_](/Spells.aspx?ID=1056) order spell. Polluting water or allowing those who pollute water sources to go unpunished is anathema to your order (this doesn't force you to take action against potential water pollution or to sacrifice yourself against an obviously superior foe).",
+  "name": "Wave",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWater is the source of life, and you've learned to shape how it flows. You're trained in  Medicine . You also gain the  Shore Step  druid feat. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 198 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Water is the source of life, and you've learned to shape how it flows. You're trained in  Medicine . You also gain the  Shore Step  druid feat. You …",
+  "summary_markdown": "Water is the source of life, and you've learned to shape how it flows. You're trained in  Medicine . You also gain the  Shore Step  druid feat. You …",
+  "text": " Wave Source Secrets of Magic pg. 198 1.1 Water is the source of life, and you've learned to shape how it flows. You're trained in Medicine. You also gain the Shore Step druid feat. You gain the rising surf order spell. Polluting water or allowing those who pollute water sources to go unpunished is anathema to your order (this doesn't force you to take action against potential water pollution or to sacrifice yourself against an obviously superior foe).",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-8",
+  "legacy_id": [
+   "druidic-order-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Animal](/DruidicOrders.aspx?ID=8)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\n\nYou have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals of nature, a powerful animal companion at your side.",
+  "name": "Animal",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 125",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 125"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals …",
+  "summary_markdown": "You have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals …",
+  "text": " Animal Source Player Core pg. 125 2.0 You have a strong connection to beasts, always feeling like you understood them (and they you) better than your own people. You stand for the animals of nature, a powerful animal companion at your side.",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-9",
+  "legacy_id": [
+   "druidic-order-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Leaf](/DruidicOrders.aspx?ID=9)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\n\nYou revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas regrow after disasters or negligent expansion and turn flora against those who would abuse them.",
+  "name": "Leaf",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 125",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 125"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas …",
+  "summary_markdown": "You revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas …",
+  "text": " Leaf Source Player Core pg. 125 2.0 You revere the bounty of nature, acting as both a gardener and warden for the wilderness. With your leshy familiar at your side, you help areas regrow after disasters or negligent expansion and turn flora against those who would abuse them.",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-10",
+  "legacy_id": [
+   "druidic-order-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Storm](/DruidicOrders.aspx?ID=10)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\n\nWhether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, channeling thunder to terrifying destructive effect and riding the winds through the air.",
+  "name": "Storm",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 125",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 125"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 125 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Whether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, …",
+  "summary_markdown": "Whether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, …",
+  "text": " Storm Source Player Core pg. 125 2.0 Whether you were born under a tempest or survived a bolt of lightning from a clear blue sky, you now carry the fury of the storm in your heart, channeling thunder to terrifying destructive effect and riding the winds through the air.",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "druidic-order",
+  "exclude_from_search": false,
+  "id": "druidic-order-11",
+  "legacy_id": [
+   "druidic-order-4"
+  ],
+  "legacy_name": [
+   "Wild"
+  ],
+  "markdown": "<title level=\"1\" right=\"Druidic Order \" pfs=\"Standard\">[Untamed](/DruidicOrders.aspx?ID=11)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 126 <sup>2.0</sup>\n\nThe uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject the artifices of cities after growing up in one. Now, primal magic grants you the ability to wear the form of an untamed creature.",
+  "name": "Untamed",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 126",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 126 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 126"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 126 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject …",
+  "summary_markdown": "The uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject …",
+  "text": " Untamed Source Player Core pg. 126 2.0 The uncontrollable call of the natural world courses through your body. You might have been raised by a wild animal, or you might have come to reject the artifices of cities after growing up in one. Now, primal magic grants you the ability to wear the form of an untamed creature.",
+  "type": "Druidic Order",
+  "url": "/DruidicOrders.aspx?ID=11",
+  "weakness": {}
+ }
+]

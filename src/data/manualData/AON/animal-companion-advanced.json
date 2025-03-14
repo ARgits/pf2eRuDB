@@ -1,0 +1,263 @@
+[
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-1",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Savage](/AnimalCompanions.aspx?ID=1&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>\n\nTo advance a mature animal companion to a savage animal companion, increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in Athletics to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows by one size. Its attacks become magical for the purpose of ignoring resistances.",
+  "name": "Savage",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 214",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-advanced-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 214"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Savage Source Core Rulebook pg. 214 4.0 To advance a mature animal companion to a savage animal companion, increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in Athletics to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows by one size. Its attacks become magical for the purpose of ignoring resistances.",
+  "trait_markdown": "",
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=1&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-2",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Nimble](/AnimalCompanions.aspx?ID=2&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>\n\nTo advance a mature animal companion to a nimble animal companion, increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1. It deals 2 additional damage with its [unarmed](/Traits.aspx?ID=199) attacks. Increase its proficiency ranks in [Acrobatics](/Skills.aspx?ID=1) to expert. It also learns the advanced maneuver for its type. Its attacks become [magical](/Traits.aspx?ID=103) for the purpose of ignoring resistances.",
+  "name": "Nimble",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 214",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "animal-companion-advanced-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 214"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 214 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Nimble Source Core Rulebook pg. 214 4.0 To advance a mature animal companion to a nimble animal companion, increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1. It deals 2 additional damage with its unarmed attacks. Increase its proficiency ranks in Acrobatics to expert. It also learns the advanced maneuver for its type. Its attacks become magical for the purpose of ignoring resistances.",
+  "trait_markdown": "",
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=2&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-3",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Indomitable](/AnimalCompanions.aspx?ID=3&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [World Guide](/Sources.aspx?ID=6) pg. 117 <sup>2.0</sup>\n\nWhen you pick your animal companion, you can choose to have it be a megafauna animal companion. Megafauna animal companions are mostly similar to other animal companions of the same category, though they look different, and they have one difference in their upgrade path. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, a megafauna companion instead can choose to become a savage or indomitable companion. An indomitable companion increases its Constitution modifier by 2 and its Strength, Dexterity, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in Athletics to expert and its proficiency rank in barding to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows in size by one category. Its attacks count as magical for the purpose of ignoring resistances.",
+  "name": "Indomitable",
+  "pfs": "Standard",
+  "primary_source": "World Guide",
+  "primary_source_raw": "World Guide pg. 117",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-31",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [World Guide](/Sources.aspx?ID=6) pg. 117 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "World Guide"
+  ],
+  "source_raw": [
+   "World Guide pg. 117"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[World Guide](/Sources.aspx?ID=6) pg. 117 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Indomitable Source World Guide pg. 117 2.0 When you pick your animal companion, you can choose to have it be a megafauna animal companion. Megafauna animal companions are mostly similar to other animal companions of the same category, though they look different, and they have one difference in their upgrade path. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, a megafauna companion instead can choose to become a savage or indomitable companion. An indomitable companion increases its Constitution modifier by 2 and its Strength, Dexterity, and Wisdom modifiers by 1. It deals 3 additional damage with its unarmed attacks. Increase its proficiency rank in Athletics to expert and its proficiency rank in barding to expert. It also learns the advanced maneuver for its type. If your companion is Medium or smaller, it grows in size by one category. Its attacks count as magical for the purpose of ignoring resistances.",
+  "trait_markdown": "",
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=3&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-4",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Genie-Touched](/AnimalCompanions.aspx?ID=4&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\n\nXerbystes II has had his palace spellcasters work to develop ways to replicate the great powers of the genie-touched horses of Qadira. These spellcasters have a rudimentary method in place that can grant such power to any animal companion, infusing them with elemental power and granting them otherworldly insight. Xerbystes will sometimes gift these companions as a favor to others or have his spellcasters infuse the companions of trusted allies.\n\n If you take a feat that would normally allow you to choose to have a savage or nimble animal companion, you can instead choose to for it to become a genie-touched companion. When you choose the feat, select the type of genie whose power infuses your companion. The genies and their elemental traits are as follows: [djinni](/Monsters.aspx?ID=212) ([air](/Traits.aspx?ID=5)), [efreeti](/Monsters.aspx?ID=214) ([fire](/Traits.aspx?ID=72)), [marid](/Monsters.aspx?ID=215) ([water](/Traits.aspx?ID=165)), or [shaitan](/Monsters.aspx?ID=213) ([earth](/Traits.aspx?ID=55)). A genie-touched companion increases its Wisdom modifier by 2 and its Strength, Dexterity, and Constitution modifiers by 1. It deals 3 additional damage with its unarmed attacks; this damage is fire damage for an efreet-touched companion or of the same type as the unarmed attack for the others. It gains resistance 5 to damage of a type depending on the genie: acid for djinni, fire for efreeti or marid, and electricity for shaitan. If the companion is djinni-touched or efreeti-touched, increase its proficiency rank in [Acrobatics](/Skills.aspx?ID=1) to expert; if it is marid-touched or shaitan-touched, increase its proficiency rank in [Athletics](/Skills.aspx?ID=3) to expert. It also learns the advanced maneuver for its type. Its attacks count as magical for the purpose of ignoring resistances and gain the genie's elemental trait.",
+  "name": "Genie-Touched",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 123\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 123",
+  "speed": {},
+  "text": " Genie-Touched Source Legends pg. 123 Xerbystes II has had his palace spellcasters work to develop ways to replicate the great powers of the genie-touched horses of Qadira. These spellcasters have a rudimentary method in place that can grant such power to any animal companion, infusing them with elemental power and granting them otherworldly insight. Xerbystes will sometimes gift these companions as a favor to others or have his spellcasters infuse the companions of trusted allies. If you take a feat that would normally allow you to choose to have a savage or nimble animal companion, you can instead choose to for it to become a genie-touched companion. When you choose the feat, select the type of genie whose power infuses your companion. The genies and their elemental traits are as follows: djinni (air), efreeti (fire), marid (water), or shaitan (earth). A genie-touched companion increases its Wisdom modifier by 2 and its Strength, Dexterity, and Constitution modifiers by 1. It deals 3 additional damage with its unarmed attacks; this damage is fire damage for an efreet-touched companion or of the same type as the unarmed attack for the others. It gains resistance 5 to damage of a type depending on the genie: acid for djinni, fire for efreeti or marid, and electricity for shaitan. If the companion is djinni-touched or efreeti-touched, increase its proficiency rank in Acrobatics to expert; if it is marid-touched or shaitan-touched, increase its proficiency rank in Athletics to expert. It also learns the advanced maneuver for its type. Its attacks count as magical for the purpose of ignoring resistances and gain the genie's elemental trait.",
+  "trait": [
+   "Rare"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Rare"
+  ],
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=4&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-5",
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Unseen](/AnimalCompanions.aspx?ID=5&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 65\n\nCryptid animal companions look a touch peculiar, often with uncanny features or ones that seem to come from a different animal. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, you can choose to make it an unseen animal companion instead. An unseen companion increases its Wisdom modifier by 2 and its Strength, Dexterity, and Constitution modifiers by 1. It deals 3 additional damage with its [unarmed](/Traits.aspx?ID=199) attacks and deals an extra 1d4 precision damage against [flat-footed](/Conditions.aspx?ID=16) targets (if the animal companion already deals precision damage, such as a cat, combine the precision damage). Increase its proficiency rank in [Stealth](/Skills.aspx?ID=15) to expert. It also learns the advanced maneuver for its type.",
+  "name": "Unseen",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 65",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 65\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 65"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 65",
+  "speed": {},
+  "text": " Unseen Source Dark Archive pg. 65 Cryptid animal companions look a touch peculiar, often with uncanny features or ones that seem to come from a different animal. If you take a feat that would normally allow you to choose to have your companion become a savage or nimble animal companion, you can choose to make it an unseen animal companion instead. An unseen companion increases its Wisdom modifier by 2 and its Strength, Dexterity, and Constitution modifiers by 1. It deals 3 additional damage with its unarmed attacks and deals an extra 1d4 precision damage against flat-footed targets (if the animal companion already deals precision damage, such as a cat, combine the precision damage). Increase its proficiency rank in Stealth to expert. It also learns the advanced maneuver for its type.",
+  "trait": [
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Uncommon"
+  ],
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=5&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-7",
+  "legacy_id": [
+   "animal-companion-advanced-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Nimble](/AnimalCompanions.aspx?ID=7&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\nTo advance a mature animal companion to a nimble animal companion: \n<ul><li>Increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1.</li><li>Increase its proficiency ranks in [Acrobatics](/Skills.aspx?ID=34) to expert.</li><li>It deals 2 additional damage with its unarmed attacks. Its attacks become [magical](/Traits.aspx?ID=644) for the purpose of ignoring resistances.</li><li>It learns the advanced maneuver for its type.</li></ul>",
+  "name": "Nimble",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Nimble Source Player Core pg. 211 2.0 To advance a mature animal companion to a nimble animal companion: Increase its Dexterity modifier by 2 and its Strength, Constitution, and Wisdom modifiers by 1. Increase its proficiency ranks in Acrobatics to expert. It deals 2 additional damage with its unarmed attacks. Its attacks become magical for the purpose of ignoring resistances. It learns the advanced maneuver for its type. ",
+  "trait_markdown": "",
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=7&Advanced=true",
+  "weakness": {}
+ },
+ {
+  "category": "animal-companion-advanced",
+  "exclude_from_search": false,
+  "id": "animal-companion-advanced-8",
+  "legacy_id": [
+   "animal-companion-advanced-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Animal Companion Advanced Option \" pfs=\"Standard\">[Savage](/AnimalCompanions.aspx?ID=8&amp;Advanced=true)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\n\nTo advance a mature animal companion to a savage animal companion: \n<ul><li>If your companion is Medium or smaller, it grows by one size.</li><li>Increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1.</li><li>Increase its proficiency rank in [Athletics](/Skills.aspx?ID=36) to expert.</li><li>It deals 3 additional damage with its unarmed attacks. Its attacks become [magical](/Traits.aspx?ID=644) for the purpose of ignoring resistances.</li><li>It learns the advanced maneuver for its type.</li></ul>",
+  "name": "Savage",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 211",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 211"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 211 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Savage Source Player Core pg. 211 2.0 To advance a mature animal companion to a savage animal companion: If your companion is Medium or smaller, it grows by one size. Increase its Strength modifier by 2 and its Dexterity, Constitution, and Wisdom modifiers by 1. Increase its proficiency rank in Athletics to expert. It deals 3 additional damage with its unarmed attacks. Its attacks become magical for the purpose of ignoring resistances. It learns the advanced maneuver for its type. ",
+  "trait_markdown": "",
+  "type": "Animal Companion Advanced Option",
+  "url": "/AnimalCompanions.aspx?ID=8&Advanced=true",
+  "weakness": {}
+ }
+]

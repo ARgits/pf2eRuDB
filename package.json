@@ -15,8 +15,8 @@
     "format": "prettier --write src/"
   },
   "dependencies": {
-    "@electric-sql/pglite": "^0.2.15",
-    "@electric-sql/pglite-vue": "^0.2.15",
+    "@electric-sql/pglite": "^0.2.16",
+    "@electric-sql/pglite-vue": "^0.2.16",
     "@fortawesome/fontawesome-svg-core": "^6.7.2",
     "@fortawesome/free-brands-svg-icons": "^6.7.2",
     "@fortawesome/free-regular-svg-icons": "^6.7.2",

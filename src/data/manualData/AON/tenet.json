@@ -1,0 +1,68 @@
+[
+ {
+  "category": "tenet",
+  "exclude_from_search": false,
+  "id": "tenet-1",
+  "markdown": "<title level=\"1\" right=\"Champion Tenet \" pfs=\"\">[Good](/Tenets.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\n\n<ul><li>You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an [evil](/Traits.aspx?ID=64) spell.</li><li>You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it. This tenet doesn't force you to take action against possible harm to innocents at an indefinite time in the future, or to sacrifice your life to protect them.</li></ul>",
+  "name": "Good",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 106",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n  You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an  evil  spell.  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 106"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "  You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an  evil  spell.  …",
+  "summary_markdown": "  You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an  evil  spell.  …",
+  "text": " Good Source Core Rulebook pg. 106 4.0 You must never perform acts anathema to your deity or willingly commit an evil act, such as murder, torture, or the casting of an evil spell. You must never knowingly harm an innocent, or allow immediate harm to one through inaction when you know you could reasonably prevent it. This tenet doesn't force you to take action against possible harm to innocents at an indefinite time in the future, or to sacrifice your life to protect them. ",
+  "type": "Champion Tenet",
+  "url": "/Tenets.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "tenet",
+  "exclude_from_search": false,
+  "id": "tenet-2",
+  "markdown": "<title level=\"1\" right=\"Champion Tenet \" pfs=\"\">[Evil](/Tenets.aspx?ID=2)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\n\nThe tenets and causes of evil follow the rules provided in the _Core Rulebook_. While evil characters in general can range from self-serving but loyal allies to the extremes of depravity, evil champions are particularly vile, with a code that requires, enforces, and depends upon their villainous behavior. This means they can be extremely disruptive to a typical game and should be accessible player character options only in appropriate adventures or campaigns where the group collectively decides to embrace them. The tenets and causes of evil are [uncommon](/Traits.aspx?ID=159) options. While the feats and actions suitable for evil champions don't separately list access entries, typically if your GM grants you access to evil tenets, you also gain access to champion actions and feats that require those tenets.\n<ul><li>You must never perform acts anathema to your deity or willingly commit a purely good act, such as giving something solely out of charity, casting a [good](/Traits.aspx?ID=83) spell, or using a good item.</li><li>You must never put another person's needs before your own, and you must never put your own needs before those of your deity. Though you can perform acts others might consider helpful, it must be done with the expectation that it ultimately furthers your own goals or those of your master.</li></ul>",
+  "name": "Evil",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe tenets and causes of evil follow the rules provided in the  Core Rulebook . While evil characters in general can range from self-serving but …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The tenets and causes of evil follow the rules provided in the  Core Rulebook . While evil characters in general can range from self-serving but …",
+  "summary_markdown": "The tenets and causes of evil follow the rules provided in the  Core Rulebook . While evil characters in general can range from self-serving but …",
+  "text": " Evil Source Advanced Player's Guide pg. 116 2.0 The tenets and causes of evil follow the rules provided in the Core Rulebook . While evil characters in general can range from self-serving but loyal allies to the extremes of depravity, evil champions are particularly vile, with a code that requires, enforces, and depends upon their villainous behavior. This means they can be extremely disruptive to a typical game and should be accessible player character options only in appropriate adventures or campaigns where the group collectively decides to embrace them. The tenets and causes of evil are uncommon options. While the feats and actions suitable for evil champions don't separately list access entries, typically if your GM grants you access to evil tenets, you also gain access to champion actions and feats that require those tenets. You must never perform acts anathema to your deity or willingly commit a purely good act, such as giving something solely out of charity, casting a good spell, or using a good item. You must never put another person's needs before your own, and you must never put your own needs before those of your deity. Though you can perform acts others might consider helpful, it must be done with the expectation that it ultimately furthers your own goals or those of your master. ",
+  "type": "Champion Tenet",
+  "url": "/Tenets.aspx?ID=2",
+  "weakness": {}
+ }
+]

@@ -1,0 +1,272 @@
+[
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Flail"
+  ],
+  "favored_weapon_markdown": "[Flail](/Weapons.aspx?ID=19)",
+  "id": "hellknight-order-1",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Chain](/HellknightOrders.aspx?ID=1)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\n\n**Favored Weapon**\r\n[Flail](/Weapons.aspx?ID=19)\r\n\r\n</column>\r\n\r\nMembers of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nShackles of Law\r\n<actions string=\"Two Actions\" />\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Flourish\" url=\"/Traits.aspx?ID=73\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\n\n</column>\r\n\r\nYou attempt to subdue a target with an attack and a follow-up grab. Make a melee Strike. If it hits and deals damage, you can attempt an [Athletics](/Skills.aspx?ID=3) check to Grapple the creature you hit. If you’re wielding a flail, you can ignore Grapple’s requirement that you have a hand free. Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nSturdy Bindings\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\n\n</column>\r\n\r\nYour grapples are incredibly reliable. When you roll a critical failure on a check to Grapple a target, you get a failure instead. In addition, when a creature you have grabbed rolls a failure on its check to Escape, it gets a critical failure instead, and if it rolls a critical success, it gets a success instead.",
+  "name": "Order of the Chain",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 81",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMembers of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 81"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Members of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice.",
+  "summary_markdown": "Members of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice.",
+  "text": " Order of the Chain Source Character Guide pg. 81 2.0 Favored Weapon Flail Members of the Order of the Chain are skilled at hunting down and capturing criminals, especially those who dare flee from justice. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Shackles of Law Two Actions Source Character Guide pg. 81 2.0 You attempt to subdue a target with an attack and a follow-up grab. Make a melee Strike. If it hits and deals damage, you can attempt an Athletics check to Grapple the creature you hit. If you’re wielding a flail, you can ignore Grapple’s requirement that you have a hand free. Both attacks count toward your multiple attack penalty, but the penalty doesn’t increase until after you’ve made both of them. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Sturdy Bindings Source Character Guide pg. 81 2.0 Your grapples are incredibly reliable. When you roll a critical failure on a check to Grapple a target, you get a failure instead. In addition, when a creature you have grabbed rolls a failure on its check to Escape, it gets a critical failure instead, and if it rolls a critical success, it gets a success instead.",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Dagger"
+  ],
+  "favored_weapon_markdown": "[Dagger](/Weapons.aspx?ID=3)",
+  "id": "hellknight-order-2",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Gate](/HellknightOrders.aspx?ID=2)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\n\n**Favored Weapon**\r\n[Dagger](/Weapons.aspx?ID=3)\r\n\r\n</column>\r\n\r\nThe Hellknight signifers of the Order of the Gate seek to prevent lawlessness of all types through the use of their considerable spellcasting prowess and command of fiendish outsiders.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nLocate Lawbreakers\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\n\n</column>\r\n\r\nYour pursuit is relentless, and you are able to magically locate stolen objects and outlaws. You gain [_locate_](/Spells.aspx?ID=173) as an innate spell of a tradition of your choice, which you can cast once per day. If you are a member of the Order of the Gate, when you reach 14th level, the spell is heightened to 5th level.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nDevil Allies\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n</column>\r\n\r\nYou can call in devils to assist your efforts. You gain [_summon fiend_](/Spells.aspx?ID=323) as an innate spell of a tradition of your choice, which you can cast once per day. When you cast this spell, you can summon only creatures that have the devil trait. At 16th level and every 2 levels thereafter, the spell is heightened by 1 level (to a maximum of 8th level when you reach 20th level).",
+  "name": "Order of the Gate",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 81",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Hellknight signifers of the Order of the Gate seek to prevent lawlessness of all types through the use of their considerable spellcasting prowess …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 81"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 81 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The Hellknight signifers of the Order of the Gate seek to prevent lawlessness of all types through the use of their considerable spellcasting prowess …",
+  "summary_markdown": "The Hellknight signifers of the Order of the Gate seek to prevent lawlessness of all types through the use of their considerable spellcasting prowess …",
+  "text": " Order of the Gate Source Character Guide pg. 81 2.0 Favored Weapon Dagger The Hellknight signifers of the Order of the Gate seek to prevent lawlessness of all types through the use of their considerable spellcasting prowess and command of fiendish outsiders. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Locate Lawbreakers Source Character Guide pg. 81 2.0 Your pursuit is relentless, and you are able to magically locate stolen objects and outlaws. You gain locate as an innate spell of a tradition of your choice, which you can cast once per day. If you are a member of the Order of the Gate, when you reach 14th level, the spell is heightened to 5th level. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Devil Allies Source Character Guide pg. 82 2.0 You can call in devils to assist your efforts. You gain summon fiend as an innate spell of a tradition of your choice, which you can cast once per day. When you cast this spell, you can summon only creatures that have the devil trait. At 16th level and every 2 levels thereafter, the spell is heightened by 1 level (to a maximum of 8th level when you reach 20th level).",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Morningstar"
+  ],
+  "favored_weapon_markdown": "[Morningstar](/Weapons.aspx?ID=8)",
+  "id": "hellknight-order-3",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Godclaw](/HellknightOrders.aspx?ID=3)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n**Favored Weapon**\r\n[Morningstar](/Weapons.aspx?ID=8)\r\n\r\n</column>\r\n\r\nThe Order of the Godclaw’s Hellknights see their cause as a holy mandate from the Godclaw. They seek to punish criminals with a zeal rarely matched by others who enforce the law.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nDedication to the Five\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n</column>\r\n\r\nYour dedication to the Godclaw borders on a cleric’s. You gain the cleric’s [Domain Initiate](/Feats.aspx?ID=265) feat but must select [perfection](/Domains.aspx?ID=26), [protection](/Domains.aspx?ID=27), [tyranny](/Domains.aspx?ID=33), or [zeal](/Domains.aspx?ID=37) as your domain. In addition, you can use any religious symbol of [Abadar](/Deities.aspx?ID=1), [Asmodeus](/Deities.aspx?ID=2), [Iomedae](/Deities.aspx?ID=9), [Irori](/Deities.aspx?ID=10), or [Torag](/Deities.aspx?ID=18) as your divine focus.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nBlessing of the Five\r\n<actions string=\"Three Actions\" />\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Healing\" url=\"/Traits.aspx?ID=89\" />\r\n<trait label=\"Manipulate\" url=\"/Traits.aspx?ID=104\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Positive\" url=\"/Traits.aspx?ID=128\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n**Frequency**\r\nonce per day\r\n\r\n</column>\r\n\r\nYou call out to the Godclaw to heal your allies. You cast the 3-action version of [_heal_](/Spells.aspx?ID=148), heightened to a level 1 lower than half your level rounded up. You can select up to four creatures in the area to remain unaffected by the spell. You can instead use this ability to bring a creature within 30 feet that has died within the last round back from the dead. If you do, the creature is restored to 1 Hit Point and is doomed 1 for 24 hours.",
+  "name": "Order of the Godclaw",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 82",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Order of the Godclaw’s Hellknights see their cause as a holy mandate from the Godclaw. They seek to punish criminals with a zeal rarely matched …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 82"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The Order of the Godclaw’s Hellknights see their cause as a holy mandate from the Godclaw. They seek to punish criminals with a zeal rarely matched …",
+  "summary_markdown": "The Order of the Godclaw’s Hellknights see their cause as a holy mandate from the Godclaw. They seek to punish criminals with a zeal rarely matched …",
+  "text": " Order of the Godclaw Source Character Guide pg. 82 2.0 Favored Weapon Morningstar The Order of the Godclaw’s Hellknights see their cause as a holy mandate from the Godclaw. They seek to punish criminals with a zeal rarely matched by others who enforce the law. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Dedication to the Five Source Character Guide pg. 82 2.0 Your dedication to the Godclaw borders on a cleric’s. You gain the cleric’s Domain Initiate feat but must select perfection, protection, tyranny, or zeal as your domain. In addition, you can use any religious symbol of Abadar, Asmodeus, Iomedae, Irori, or Torag as your divine focus. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Blessing of the Five Three Actions Source Character Guide pg. 82 2.0 Frequency once per day You call out to the Godclaw to heal your allies. You cast the 3-action version of heal , heightened to a level 1 lower than half your level rounded up. You can select up to four creatures in the area to remain unaffected by the spell. You can instead use this ability to bring a creature within 30 feet that has died within the last round back from the dead. If you do, the creature is restored to 1 Hit Point and is doomed 1 for 24 hours.",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Halberd",
+   "Lance"
+  ],
+  "favored_weapon_markdown": "[Halberd](/Weapons.aspx?ID=26), [Lance](/Weapons.aspx?ID=28)",
+  "id": "hellknight-order-4",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Nail](/HellknightOrders.aspx?ID=4)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n**Favored Weapons**\r\n[Halberd](/Weapons.aspx?ID=26), [Lance](/Weapons.aspx?ID=28)\r\n\r\n</column>\r\n\r\nMembers of the Order of the Nail see civilized society as an ideal and seek to unite all people within their cultural baseline. They also seek to destroy anyone who does not accept Chelaxian culture along with the wild beasts that threaten the safety of civilization.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nTrailblazing Stride\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n</column>\r\n\r\nYou are used to moving through the wilderness. While moving on land, you ignore the effects of non-magical difficult terrain.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nReveal Beasts\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\n\n</column>\r\n\r\nYou are adept at revealing—or creating—weaknesses among those who are a threat to civilization. If you roll a success on a check to [Recall Knowledge](/Actions.aspx?ID=26) to identify an animal or a beast, you get a critical success instead. The next time you damage that creature, it gains weakness 5 during that attack to one damage type of your choice that you dealt it.",
+  "name": "Order of the Nail",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 82",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMembers of the Order of the Nail see civilized society as an ideal and seek to unite all people within their cultural baseline. They also seek to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 82"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 82 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Members of the Order of the Nail see civilized society as an ideal and seek to unite all people within their cultural baseline. They also seek to …",
+  "summary_markdown": "Members of the Order of the Nail see civilized society as an ideal and seek to unite all people within their cultural baseline. They also seek to …",
+  "text": " Order of the Nail Source Character Guide pg. 82 2.0 Favored Weapons Halberd, Lance Members of the Order of the Nail see civilized society as an ideal and seek to unite all people within their cultural baseline. They also seek to destroy anyone who does not accept Chelaxian culture along with the wild beasts that threaten the safety of civilization. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Trailblazing Stride Source Character Guide pg. 82 2.0 You are used to moving through the wilderness. While moving on land, you ignore the effects of non-magical difficult terrain. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Reveal Beasts Source Character Guide pg. 82 2.0 You are adept at revealing—or creating—weaknesses among those who are a threat to civilization. If you roll a success on a check to Recall Knowledge to identify an animal or a beast, you get a critical success instead. The next time you damage that creature, it gains weakness 5 during that attack to one damage type of your choice that you dealt it.",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Glaive"
+  ],
+  "favored_weapon_markdown": "[Glaive](/Weapons.aspx?ID=20)",
+  "id": "hellknight-order-5",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Pyre](/HellknightOrders.aspx?ID=5)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n**Favored Weapon**\r\n[Glaive](/Weapons.aspx?ID=20)\r\n\r\n</column>\r\n\r\nThe Order of the Pyre is dedicated to eliminating those faiths and beliefs they consider to be a threat to the Inner Sea region. They are particularly keen on stamping out dangerous cults.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nRighteous Resistance\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n</column>\r\n\r\nYou can cast [_resist energy_](/Spells.aspx?ID=256) twice per day as a divine innate spell, except you can target only yourself. If you grant yourself resistance to fire damage, the resistance is equal to either the spell’s normal value or to your level, whichever is higher.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nSpiritual Disruption\r\n<actions string=\"Two Actions\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n</column>\r\n\r\nYou channel disruptive power that severs a foe’s spiritual connection to their heretical magic. Make a melee Strike. If the attack hits, any time the target attempts to cast a divine or occult spell, the spell is [disrupted](/Rules.aspx?ID=394) unless they succeed at a DC 5 flat check (DC 7 on a critical hit); if the target is also [stupefied](/Conditions.aspx?ID=37), it must attempt the harder of the two flat checks (but not both). This effect lasts for 1 minute.",
+  "name": "Order of the Pyre",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 83",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe Order of the Pyre is dedicated to eliminating those faiths and beliefs they consider to be a threat to the Inner Sea region. They are …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 83"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The Order of the Pyre is dedicated to eliminating those faiths and beliefs they consider to be a threat to the Inner Sea region. They are …",
+  "summary_markdown": "The Order of the Pyre is dedicated to eliminating those faiths and beliefs they consider to be a threat to the Inner Sea region. They are …",
+  "text": " Order of the Pyre Source Character Guide pg. 83 2.0 Favored Weapon Glaive The Order of the Pyre is dedicated to eliminating those faiths and beliefs they consider to be a threat to the Inner Sea region. They are particularly keen on stamping out dangerous cults. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Righteous Resistance Source Character Guide pg. 83 2.0 You can cast resist energy twice per day as a divine innate spell, except you can target only yourself. If you grant yourself resistance to fire damage, the resistance is equal to either the spell’s normal value or to your level, whichever is higher. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Spiritual Disruption Two Actions Source Character Guide pg. 83 2.0 You channel disruptive power that severs a foe’s spiritual connection to their heretical magic. Make a melee Strike. If the attack hits, any time the target attempts to cast a divine or occult spell, the spell is disrupted unless they succeed at a DC 5 flat check (DC 7 on a critical hit); if the target is also stupefied, it must attempt the harder of the two flat checks (but not both). This effect lasts for 1 minute.",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Longsword",
+   "Whip"
+  ],
+  "favored_weapon_markdown": "[Longsword](/Weapons.aspx?ID=31), [Whip](/Weapons.aspx?ID=48)",
+  "id": "hellknight-order-6",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Rack](/HellknightOrders.aspx?ID=6)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n**Favored Weapons**\r\n[Longsword](/Weapons.aspx?ID=31), [Whip](/Weapons.aspx?ID=48)\r\n\r\n</column>\r\n\r\nMembers of the Order of the Rack seek to eliminate wastefulness throughout the Inner Sea region. They seek to quash pointless dreams, quell rebellions, and destroy dangerous inventions.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nDisillusionment\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n</column>\r\n\r\nDreams are pointless illusions you seek to quash. If you roll a success on a saving throw against an illusion or dream effect or a Perception check to disbelieve an illusion, you get a critical success instead. If you roll a critical failure on any of those checks, you get a failure instead.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nSilence Heresy\r\n<actions string=\"Two Actions\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n</column>\r\n\r\nYou channel a power that stifles dangerous words. Make a melee Strike. If the attack hits, the target is unable to speak in a voice louder than a whisper for 1 round. This prevents the target from using most auditory effects involving its voice, and it must succeed at a DC 5 flat check to Cast a Spell with a verbal component or the spell is disrupted. If your Strike is a critical hit, the target is entirely unable to speak for 1 round and is limited to a whisper for 1 minute thereafter. Once a creature has been affected by this ability, it is temporarily immune for 1 minute.",
+  "name": "Order of the Rack",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 83",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMembers of the Order of the Rack seek to eliminate wastefulness throughout the Inner Sea region. They seek to quash pointless dreams, quell …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 83"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Members of the Order of the Rack seek to eliminate wastefulness throughout the Inner Sea region. They seek to quash pointless dreams, quell …",
+  "summary_markdown": "Members of the Order of the Rack seek to eliminate wastefulness throughout the Inner Sea region. They seek to quash pointless dreams, quell …",
+  "text": " Order of the Rack Source Character Guide pg. 83 2.0 Favored Weapons Longsword, Whip Members of the Order of the Rack seek to eliminate wastefulness throughout the Inner Sea region. They seek to quash pointless dreams, quell rebellions, and destroy dangerous inventions. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Disillusionment Source Character Guide pg. 83 2.0 Dreams are pointless illusions you seek to quash. If you roll a success on a saving throw against an illusion or dream effect or a Perception check to disbelieve an illusion, you get a critical success instead. If you roll a critical failure on any of those checks, you get a failure instead. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Silence Heresy Two Actions Source Character Guide pg. 83 2.0 You channel a power that stifles dangerous words. Make a melee Strike. If the attack hits, the target is unable to speak in a voice louder than a whisper for 1 round. This prevents the target from using most auditory effects involving its voice, and it must succeed at a DC 5 flat check to Cast a Spell with a verbal component or the spell is disrupted. If your Strike is a critical hit, the target is entirely unable to speak for 1 round and is limited to a whisper for 1 minute thereafter. Once a creature has been affected by this ability, it is temporarily immune for 1 minute.",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "hellknight-order",
+  "exclude_from_search": false,
+  "favored_weapon": [
+   "Mace",
+   "Scourge",
+   "Whip"
+  ],
+  "favored_weapon_markdown": "[Mace](/Weapons.aspx?ID=7), [Scourge](/Weapons.aspx?ID=89), [Whip](/Weapons.aspx?ID=48)",
+  "id": "hellknight-order-7",
+  "markdown": "<title level=\"1\" right=\"Hellknight Order \" pfs=\"Standard\">[Order of the Scourge](/HellknightOrders.aspx?ID=7)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n**Favored Weapons**\r\n[Mace](/Weapons.aspx?ID=7), [Scourge](/Weapons.aspx?ID=89), [Whip](/Weapons.aspx?ID=48)\r\n\r\n</column>\r\n\r\nHellknights of the Order of the Scourge hunt those who pervert the law for their own selfish ends. They seek to destroy corruption and those who hide behind unjust laws and bureaucracy.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Lesser Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nFear No Law, Fear No One\r\n<actions string=\"\" />\r\n</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n</column>\r\n\r\nWhen you roll a success on a save against a fear effect, you get a critical success instead. In addition, any time you gain the [frightened](/Conditions.aspx?ID=19) condition, reduce the condition’s value by 1. As usual, this ability reduces the initial [frightened](/Conditions.aspx?ID=19) condition by 1, so if you have multiple similar abilities, they don’t both take effect.\r\n\r\n<title\r\n    level=\"2\"\r\n    right=\"Greater Order Benefit\"\r\n    pfs=\"Standard\"\r\n>\r\nSeek Injustice\r\n<actions string=\"Three Actions\" />\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Concentrate\" url=\"/Traits.aspx?ID=32\" />\r\n<trait label=\"Divination\" url=\"/Traits.aspx?ID=47\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=103\" />\r\n<trait label=\"Revelation\" url=\"/Traits.aspx?ID=138\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\n\n**Frequency**\r\nonce per day\r\n\r\n</column>\r\n\r\nWith a moment spent focusing, you can locate the telltale signs of corruption no matter what means it may use to hide from your sight. For 1 minute, you can see through up to 5 feet of stone, wood, or similar barriers as if they didn’t exist (though any amount of metal or denser barriers block this effect).",
+  "name": "Order of the Scourge",
+  "pfs": "Standard",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 83",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHellknights of the Order of the Scourge hunt those who pervert the law for their own selfish ends. They seek to destroy corruption and those who hide …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 83"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 83 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Hellknights of the Order of the Scourge hunt those who pervert the law for their own selfish ends. They seek to destroy corruption and those who hide …",
+  "summary_markdown": "Hellknights of the Order of the Scourge hunt those who pervert the law for their own selfish ends. They seek to destroy corruption and those who hide …",
+  "text": " Order of the Scourge Source Character Guide pg. 83 2.0 Favored Weapons Mace, Scourge, Whip Hellknights of the Order of the Scourge hunt those who pervert the law for their own selfish ends. They seek to destroy corruption and those who hide behind unjust laws and bureaucracy. <title level=\"2\" right=\"Lesser Order Benefit\" pfs=\"Standard\" > Fear No Law, Fear No One Source Character Guide pg. 83 2.0 When you roll a success on a save against a fear effect, you get a critical success instead. In addition, any time you gain the frightened condition, reduce the condition’s value by 1. As usual, this ability reduces the initial frightened condition by 1, so if you have multiple similar abilities, they don’t both take effect. <title level=\"2\" right=\"Greater Order Benefit\" pfs=\"Standard\" > Seek Injustice Three Actions Source Character Guide pg. 83 2.0 Frequency once per day With a moment spent focusing, you can locate the telltale signs of corruption no matter what means it may use to hide from your sight. For 1 minute, you can see through up to 5 feet of stone, wood, or similar barriers as if they didn’t exist (though any amount of metal or denser barriers block this effect).",
+  "type": "Hellknight Order",
+  "url": "/HellknightOrders.aspx?ID=7",
+  "weakness": {}
+ }
+]

@@ -1,0 +1,224 @@
+[
+ {
+  "category": "element",
+  "element": [
+   "Air"
+  ],
+  "exclude_from_search": false,
+  "id": "element-1",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Air](/Elements.aspx?ID=1)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=air%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Air impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d6 electricity or slashing, 60 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nBefore or after the other effects of the impulse, you can either Stride up to half your Speed or Step. If you have a fly Speed, you can Fly up to half your fly Speed instead.\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** [Push](/Rules.aspx?ID=451) the target up to 10 feet.\n\n**Elemental Resistance** air, electricity\n\n**Aura Junction** You and any ally that starts its turn in the aura gets a +10-foot status bonus to land Speed until the end of that turn, and to fly Speed if applicable.\n\n**Skill Junction**\r\n[Stealth](/Skills.aspx?ID=15),\r\n[Experienced Smuggler](/Feats.aspx?ID=779)\r\n</column>",
+  "name": "Air",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Air Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Air impulse feats. Elemental Blast 1d6 electricity or slashing, 60 feet Impulse Junction (Single Gate) Before or after the other effects of the impulse, you can either Stride up to half your Speed or Step. If you have a fly Speed, you can Fly up to half your fly Speed instead. Gate Junction Critical Blast Push the target up to 10 feet. Elemental Resistance air, electricity Aura Junction You and any ally that starts its turn in the aura gets a +10-foot status bonus to land Speed until the end of that turn, and to fly Speed if applicable. Skill Junction Stealth, Experienced Smuggler ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "element",
+  "element": [
+   "Earth"
+  ],
+  "exclude_from_search": false,
+  "id": "element-2",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Earth](/Elements.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=earth%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Earth impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d8 bludgeoning or piercing, 30 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nFragments of stone float around you, granting you a +1 circumstance bonus to AC until the start of your next turn.\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** If the target is on the ground, it's knocked [prone](/Conditions.aspx?ID=31); if it isn't on the ground, it descends up to 20 feet (you choose the distance).\n\n**Elemental Resistance** earth, poison\r\n\r\n**Aura Junction** Squares in the aura are [difficult terrain](/Rules.aspx?ID=453) for your enemies, but only if moving into the square would make the enemy farther away from you.\n\n**Skill Junction**\r\n[Athletics](/Skills.aspx?ID=3),\r\n[Hefty Hauler](/Feats.aspx?ID=790)\r\n</column>",
+  "name": "Earth",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Earth Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Earth impulse feats. Elemental Blast 1d8 bludgeoning or piercing, 30 feet Impulse Junction (Single Gate) Fragments of stone float around you, granting you a +1 circumstance bonus to AC until the start of your next turn. Gate Junction Critical Blast If the target is on the ground, it's knocked prone; if it isn't on the ground, it descends up to 20 feet (you choose the distance). Elemental Resistance earth, poison Aura Junction Squares in the aura are difficult terrain for your enemies, but only if moving into the square would make the enemy farther away from you. Skill Junction Athletics, Hefty Hauler ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "element",
+  "element": [
+   "Fire"
+  ],
+  "exclude_from_search": false,
+  "id": "element-3",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Fire](/Elements.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=fire%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Fire impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d6 fire, 60 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nIncrease the damage die size of fire damage dealt by the impulse by one step.\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** The target takes 1d6 [persistent fire damage](/Conditions.aspx?ID=29). You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.\r\n\r\n**Elemental Resistance** cold, fire\r\n\r\n**Aura Junction** Enemies in your kinetic aura gain weakness to fire from your fire impulses. The weakness is equal to half your level (minimum weakness 1).\n\n**Skill Junction**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Intimidating Glare](/Feats.aspx?ID=796)\r\n</column>",
+  "name": "Fire",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Fire Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Fire impulse feats. Elemental Blast 1d6 fire, 60 feet Impulse Junction (Single Gate) Increase the damage die size of fire damage dealt by the impulse by one step. Gate Junction Critical Blast The target takes 1d6 persistent fire damage. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a gate attenuator . Elemental Resistance cold, fire Aura Junction Enemies in your kinetic aura gain weakness to fire from your fire impulses. The weakness is equal to half your level (minimum weakness 1). Skill Junction Intimidation, Intimidating Glare ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "element",
+  "element": [
+   "Metal"
+  ],
+  "exclude_from_search": false,
+  "id": "element-5",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Metal](/Elements.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=metal%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Metal impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d8 piercing or slashing, 30 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nChoose acid, electricity, or piercing. Until the start of your next turn, each time a creature touches you or damages you with an unarmed melee attack or nonreach melee weapon, it takes damage of the chosen type equal to half your level (minimum 1 damage).\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** The target takes 1d6 [persistent bleed damage](/Conditions.aspx?ID=29); if the creature has the [metal](/Traits.aspx?ID=505) trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a _gate attenuator_.\r\n\r\n**Elemental Resistance** electricity, metal\r\n\r\n**Aura Junction** Your enemies in the aura take a –1 status penalty to attacks with metal objects, and they take a –1 status penalty to AC if they're wearing metal armor, have the [metal](/Traits.aspx?ID=505) trait, or are made of metal.\n\n**Skill Junction**\r\n[Crafting](/Skills.aspx?ID=4),\r\n[Quick Repair](/Feats.aspx?ID=827)\r\n</column>",
+  "name": "Metal",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Metal Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Metal impulse feats. Elemental Blast 1d8 piercing or slashing, 30 feet Impulse Junction (Single Gate) Choose acid, electricity, or piercing. Until the start of your next turn, each time a creature touches you or damages you with an unarmed melee attack or nonreach melee weapon, it takes damage of the chosen type equal to half your level (minimum 1 damage). Gate Junction Critical Blast The target takes 1d6 persistent bleed damage; if the creature has the metal trait or is made of metal, it instead takes 1d6 persistent damage with no type from rust. You gain an item bonus to this persistent damage equal to your item bonus to impulse attack rolls, such as from a gate attenuator . Elemental Resistance electricity, metal Aura Junction Your enemies in the aura take a –1 status penalty to attacks with metal objects, and they take a –1 status penalty to AC if they're wearing metal armor, have the metal trait, or are made of metal. Skill Junction Crafting, Quick Repair ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "element",
+  "element": [
+   "Water"
+  ],
+  "exclude_from_search": false,
+  "id": "element-6",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Water](/Elements.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=water%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Water impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d8 bludgeoning or cold, 30 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nAfter the impulse's other effects, you can move one creature targeted by the impulse or in its area 5 feet in any direction, or 10 feet if it's in a body of water. This can't move the creature into the air. You can choose only a creature that's willing to be moved, that failed its save against the impulse, or that you succeeded at an impulse attack roll against.\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** The blast deals 2 [splash](/Traits.aspx?ID=150) damage per damage die of the blast, with the same damage type.\n\n**Elemental Resistance** fire, water\r\n\r\n**Aura Junction** The aura becomes saturated with humidity, and water moves as you please. Non-magical fires in the aura are extinguished, and creatures in the aura gain fire resistance equal to half your level.\n\n**Skill Junction**\r\n[Athletics](/Skills.aspx?ID=3),\r\n[Underwater Marauder](/Feats.aspx?ID=858)\r\n</column>",
+  "name": "Water",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Water Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Water impulse feats. Elemental Blast 1d8 bludgeoning or cold, 30 feet Impulse Junction (Single Gate) After the impulse's other effects, you can move one creature targeted by the impulse or in its area 5 feet in any direction, or 10 feet if it's in a body of water. This can't move the creature into the air. You can choose only a creature that's willing to be moved, that failed its save against the impulse, or that you succeeded at an impulse attack roll against. Gate Junction Critical Blast The blast deals 2 splash damage per damage die of the blast, with the same damage type. Elemental Resistance fire, water Aura Junction The aura becomes saturated with humidity, and water moves as you please. Non-magical fires in the aura are extinguished, and creatures in the aura gain fire resistance equal to half your level. Skill Junction Athletics, Underwater Marauder ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "element",
+  "element": [
+   "Wood"
+  ],
+  "exclude_from_search": false,
+  "id": "element-7",
+  "markdown": "<title level=\"1\" right=\"Kineticist Element \" pfs=\"\">[Wood](/Elements.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\n\n<title level=\"2\">Impulse Feats</title>\r\n[Click here](/Feats.aspx?Traits=504&amp;include-traits=wood%3Bimpulse&amp;sort=level-asc%2Cname-asc&amp;display=full) for a pre-filtered list of all Wood impulse feats.\r\n\r\n<title level=\"2\" right=\"Level 1\">Elemental Blast</title>\r\n1d8 bludgeoning or vitality, 30 feet\r\n\r\n<title level=\"2\" right=\"Level 1\">Impulse Junction (Single Gate)</title>\r\nYou gain temporary Hit Points equal to your level that last until the start of your next turn.\r\n\r\n<title level=\"2\" right=\"Level 5\">Gate Junction</title>\r\n\r\n<column gap=\"small\">\r\n**Critical Blast** If the target of the critical hit is adjacent to a surface, roots entangle it. The target is [immobilized](/Conditions.aspx?ID=24) and must spend an Interact action to attempt a DC 10 [Athletics](/Skills.aspx?ID=3) check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort.\n\n**Elemental Resistance** poison, wood\r\n\r\n**Aura Junction** Life-giving blossoms spring up around you. Any ally that begins its turn in the aura gains 1 temporary Hit Point that lasts until the start of its next turn. This increases to 2 temporary Hit Points if you're 10th level or higher and to 3 temporary Hit Points if you're 15th level or higher.\n\n**Skill Junction**\r\n[Survival](/Skills.aspx?ID=16),\r\n[Terrain Expertise (forest)](/Feats.aspx?ID=851)\r\n</column>",
+  "name": "Wood",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 14",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 14"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 14 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "",
+  "summary_markdown": "",
+  "text": " Wood Source Rage of Elements pg. 14 2.0 Impulse Feats Click here for a pre-filtered list of all Wood impulse feats. Elemental Blast 1d8 bludgeoning or vitality, 30 feet Impulse Junction (Single Gate) You gain temporary Hit Points equal to your level that last until the start of your next turn. Gate Junction Critical Blast If the target of the critical hit is adjacent to a surface, roots entangle it. The target is immobilized and must spend an Interact action to attempt a DC 10 Athletics check to pull itself free. The target doesn't become stuck if it is incorporeal, is liquid, or could otherwise escape without effort. Elemental Resistance poison, wood Aura Junction Life-giving blossoms spring up around you. Any ally that begins its turn in the aura gains 1 temporary Hit Point that lasts until the start of its next turn. This increases to 2 temporary Hit Points if you're 10th level or higher and to 3 temporary Hit Points if you're 15th level or higher. Skill Junction Survival, Terrain Expertise (forest) ",
+  "trait_markdown": "",
+  "type": "Kineticist Element",
+  "url": "/Elements.aspx?ID=7",
+  "weakness": {}
+ }
+]

@@ -1,26 +1,35 @@
 <script setup lang="ts">
-import { useContentStore } from '@/stores/content';
-import type { filterQueryResult } from '@/types';
-import { ref, capitalize } from 'vue';
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import RotateTransition from '@components/transitions/RotateTransition.vue';
-import { faBan, faCaretLeft, faXmark, faCheck } from '@fortawesome/free-solid-svg-icons';
-const { resetFilter, updateMinFilterOption, updateMaxFilterOption, setDisabledTextFilterOption, setEnabledTextFilterOption } = useContentStore()
-const { subFilter } = defineProps<{ subFilter: filterQueryResult }>()
+import {useContentStore} from "@/stores/content";
+import type {filterQueryResult} from "@/types";
+import {ref, capitalize, computed} from "vue";
+import {FontAwesomeIcon} from "@fortawesome/vue-fontawesome";
+import RotateTransition from "@components/transitions/RotateTransition.vue";
+import {faBan, faCaretLeft, faXmark, faCheck} from "@fortawesome/free-solid-svg-icons";
+import ContainerFadeSlideTransition from "../transitions/ContainerFadeSlideTransition.vue";
+const {
+  resetFilter,
+  updateMinFilterOption, updateMaxFilterOption, setDisabledTextFilterOption, setEnabledTextFilterOption
+} = useContentStore()
+const {subFilter} = defineProps<{ subFilter: filterQueryResult }>()
 const isClosed = ref(true)
+const optionSearch = ref("")
+const optionSearchLower = computed(()=>optionSearch.value.toLowerCase())
+const filteredOptions = computed(()=>
+  subFilter.id
+    .map<[string,number]>((v,ind)=>[v,ind])
+    .filter(([v,ind])=>
+      v.toLowerCase().includes(optionSearchLower.value) ||
+      subFilter.option_name[ind].includes(optionSearchLower.value)))
 function updateMaxOption(event: Event, option: string) {
-  
   const el = event?.target as HTMLInputElement
   updateMaxFilterOption(option, parseInt(el.value), subFilter.data_group)
 }
 function updateMinOption(event: Event, option: string) {
-  
   const el = event?.target as HTMLInputElement
   updateMinFilterOption(option, parseInt(el.value), subFilter.data_group)
 }
-function updateTextOption(option: string, type: 'enable' | 'disable') {
-  
-  if (type === 'enable') {
+function updateTextOption(option: string, type: "enable" | "disable") {
+  if (type === "enable") {
     setEnabledTextFilterOption(option, subFilter.data_group)
   } else {
     setDisabledTextFilterOption(option, subFilter.data_group)
@@ -29,28 +38,21 @@ function updateTextOption(option: string, type: 'enable' | 'disable') {
 function checkNumericInput(event: KeyboardEvent) {
   const key = event.key
   const pattern = new RegExp((event.target as HTMLInputElement).pattern)
-
-  
-  if (!key.match(pattern) && key !== 'Backspace') {
-    
+  if (!key.match(pattern) && key !== "Backspace") {
     event.preventDefault()
     event.stopPropagation()
     return
   }
   const target = event.target as HTMLInputElement
-  
-  const newVal = key === 'Backspace' ? parseInt(target.value.slice(0, target.value.length - 1)) : parseInt(target.value + key)
-  
-  
+  const newVal = key === "Backspace" ? parseInt(target.value.slice(0, target.value.length - 1)) : parseInt(target.value + key)
   if (parseInt(target.min) > newVal || parseInt(target.max) < newVal) {
-    
     event.stopImmediatePropagation()
   }
 }
 </script>
 <template>
-  <div>
-    <div>
+  <div class="filter_item">
+    <div class="filter_header">
       <span class="name"> {{ capitalize(subFilter.filter_name) }}</span>
       <button
         v-if="subFilter.disabled.some(f => f) || subFilter.enabled.some(f => f)"
@@ -79,30 +81,41 @@ function checkNumericInput(event: KeyboardEvent) {
       :class="{ closed: isClosed, grid: subFilter.data_max[0] }"
     >
       <template v-if="!subFilter.data_max[0]">
-        <label
-          v-for="(value, index) in subFilter.id"
-          :key="value"
-          class="options_item"
+        <input
+          v-if="subFilter.id.length>=10"
+          v-model="optionSearch"
+          class="search"
+          placeholder="Поиск опции"
         >
-          <span>{{ capitalize(subFilter.option_name[index]) }}</span>
-          <button
-            class="button"
-            :class="{ enabled: subFilter.enabled[index], excluded: subFilter.exclude_enabled[index] }"
-            @click="updateTextOption(value, 'enable')"
+        <ContainerFadeSlideTransition>
+          <label
+            v-for="[value, index] in filteredOptions"
+            :key="value"
+            class="options_item"
           >
-            <FontAwesomeIcon :icon="faCheck" />
-          </button>
-          <button
-            class="button"
-            :class="{ disabled: subFilter.disabled[index], excluded: subFilter.exclude_disabled[index] }"
-            @click="updateTextOption(value, 'disable')"
-          >
-            <FontAwesomeIcon :icon="faXmark" />
-          </button>
-        </label>
+            <span>{{ capitalize(subFilter.option_name[index]) }}</span>
+            <button
+              class="button"
+              :class="{ enabled: subFilter.enabled[index], excluded: subFilter.exclude_enabled[index] }"
+              @click="updateTextOption(value, 'enable')"
+            >
+              <FontAwesomeIcon :icon="faCheck" />
+            </button>
+            <button
+              class="button"
+              :class="{ disabled: subFilter.disabled[index], excluded: subFilter.exclude_disabled[index] }"
+              @click="updateTextOption(value, 'disable')"
+            >
+              <FontAwesomeIcon :icon="faXmark" />
+            </button>
+          </label>
+        </ContainerFadeSlideTransition>
       </template>
       <template v-else>
-        <template v-for="(value, index) in subFilter.id">
+        <template
+          v-for="(value, index) in subFilter.id"
+          :key="value+index"
+        >
           <span v-if="value !== subFilter.data_group"> {{ capitalize(capitalize(subFilter.option_name[index])) }}
           </span>
           <label>От
@@ -134,7 +147,20 @@ function checkNumericInput(event: KeyboardEvent) {
     </div>
   </div>
 </template>
-<style lang="scss">
+<style lang="scss" scoped>
+.filter_item{
+  display: flex;
+  flex-direction: column;
+  gap:var(--gap);
+  background-color: rgba(var(--background-secondary));
+  padding: var(--main-padding-half);
+  border-radius: var(--border-radius);
+  &:has(>.options.closed){
+    gap:0;
+  }
+}
+.filter_header{
+}
 .options {
   display: flex;
   flex-wrap: wrap;
@@ -143,9 +169,9 @@ function checkNumericInput(event: KeyboardEvent) {
   align-content: flex-start;
   overflow-y: hidden;
   scrollbar-gutter: stable;
-  padding: 0 .5rem;
+  // padding-inline:var(--main-padding-half);
   height: calc-size(auto, size);
-  transition: height .2s ease;
+  transition: height .5s ease;
   transition-behavior: allow-discrete;
 
   & input {
@@ -158,9 +184,10 @@ function checkNumericInput(event: KeyboardEvent) {
     align-items: stretch;
     border: 1px solid black;
     border-radius: var(--border-radius);
+    background-color: rgba(var(--background-primary-transparent));
 
     span {
-      padding: 0 10px;
+      padding-inline: var(--main-padding-half);
       // margin-right: 10px;
       text-align: center;
       // font-weight: bold;
@@ -193,8 +220,8 @@ function checkNumericInput(event: KeyboardEvent) {
     border: 1px solid black;
     border-radius: var(--border-radius);
     user-select: none;
-    padding: 0 .25rem;
-    transition: background-color .5s linear;
+    padding-inline: var(--main-padding-half);
+    transition: background-color .5s ease;
 
     &.excluded {
       background-color: hsl(0, 0%, 50%)
@@ -209,5 +236,9 @@ function checkNumericInput(event: KeyboardEvent) {
     }
   }
 
+}
+input.search{
+  flex: 1 1 100%;
+  max-width: 100%;
 }
 </style>

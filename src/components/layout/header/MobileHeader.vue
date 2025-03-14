@@ -17,7 +17,7 @@ watch([route, currentMobileMenu], ([_,oldMenu],[__, newMenu]) => {
   currentNavigationMenu.value=''
 }
 )
-function changeMenu(menuName:  string) {
+function changeMenu(menuName: string) {
   if(menuName==='filterSearch'||menuName==='about'){
     currentMobileMenu.value = currentMobileMenu.value === menuName ? 'content' : menuName
   }

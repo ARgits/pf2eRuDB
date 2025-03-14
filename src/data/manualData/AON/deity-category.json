@@ -1,0 +1,1090 @@
+[
+ {
+  "category": "deity-category",
+  "deity": [
+   "Atheism",
+   "Atheism",
+   "Esoteric Order of the Palatine Eye",
+   "God Calling",
+   "Green Faith",
+   "Green Faith",
+   "Laws of Mortality",
+   "Prophecies of Kalistrade",
+   "Sangpotshi",
+   "Shoanti Animism",
+   "Whispering Way"
+  ],
+  "deity_markdown": "[Atheism](/Deities.aspx?ID=21), [Atheism](/Deities.aspx?ID=297), [Esoteric Order of the Palatine Eye](/Deities.aspx?ID=199), [God Calling](/Deities.aspx?ID=200), [Green Faith](/Deities.aspx?ID=22), [Green Faith](/Deities.aspx?ID=298), [Laws of Mortality](/Deities.aspx?ID=201), [Prophecies of Kalistrade](/Deities.aspx?ID=23), [Sangpotshi](/Deities.aspx?ID=202), [Shoanti Animism](/Deities.aspx?ID=203), [Whispering Way](/Deities.aspx?ID=24)",
+  "deity_category": "Faiths & Philosophies",
+  "exclude_from_search": false,
+  "id": "deity-category-0",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Faiths &amp; Philosophies](/DeityCategories.aspx?ID=0)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 440 <sup>4.0</sup>\n\nOf course, faith can express itself in more ways than venerating a single deity—or a deity at all. A few examples of nondeific religions and philosophies are presented below. [Clerics](/Classes.aspx?ID=5) can work with allied faiths and philosophies, but the organizations here turn to other classes—such as [sorcerers](/Classes.aspx?ID=11) with divine bloodlines, [druids](/Classes.aspx?ID=6), or [monks](/Classes.aspx?ID=8)—to serve as their leaders. These faiths and philosophies don't have an external godhead that offers benefits to devotees.\r\n\r\n**Members** [Atheism](/Deities.aspx?ID=21), [Atheism](/Deities.aspx?ID=297), [Esoteric Order of the Palatine Eye](/Deities.aspx?ID=199), [God Calling](/Deities.aspx?ID=200), [Green Faith](/Deities.aspx?ID=22), [Green Faith](/Deities.aspx?ID=298), [Laws of Mortality](/Deities.aspx?ID=201), [Prophecies of Kalistrade](/Deities.aspx?ID=23), [Sangpotshi](/Deities.aspx?ID=202), [Shoanti Animism](/Deities.aspx?ID=203), [Whispering Way](/Deities.aspx?ID=24)",
+  "name": "Faiths & Philosophies",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 440",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 440 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 440"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 440 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Faiths &amp; Philosophies Source Core Rulebook pg. 440 4.0 Of course, faith can express itself in more ways than venerating a single deity—or a deity at all. A few examples of nondeific religions and philosophies are presented below. Clerics can work with allied faiths and philosophies, but the organizations here turn to other classes—such as sorcerers with divine bloodlines, druids, or monks—to serve as their leaders. These faiths and philosophies don't have an external godhead that offers benefits to devotees. Members Atheism, Atheism, Esoteric Order of the Palatine Eye, God Calling, Green Faith, Green Faith, Laws of Mortality, Prophecies of Kalistrade, Sangpotshi, Shoanti Animism, Whispering Way",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=0",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Abadar",
+   "Abadar",
+   "Asmodeus",
+   "Asmodeus",
+   "Calistria",
+   "Calistria",
+   "Cayden Cailean",
+   "Cayden Cailean",
+   "Desna",
+   "Desna",
+   "Erastil",
+   "Erastil",
+   "Gorum",
+   "Gorum",
+   "Gozreh",
+   "Gozreh",
+   "Iomedae",
+   "Iomedae",
+   "Irori",
+   "Irori",
+   "Lamashtu",
+   "Lamashtu",
+   "Nethys",
+   "Nethys",
+   "Norgorber",
+   "Norgorber",
+   "Pharasma",
+   "Pharasma",
+   "Rovagug",
+   "Rovagug",
+   "Sarenrae",
+   "Sarenrae",
+   "Shelyn",
+   "Shelyn",
+   "Torag",
+   "Torag",
+   "Urgathoa",
+   "Urgathoa",
+   "Zon-Kuthon",
+   "Zon-Kuthon"
+  ],
+  "deity_markdown": "[Abadar](/Deities.aspx?ID=1), [Abadar](/Deities.aspx?ID=277), [Asmodeus](/Deities.aspx?ID=2), [Asmodeus](/Deities.aspx?ID=278), [Calistria](/Deities.aspx?ID=3), [Calistria](/Deities.aspx?ID=279), [Cayden Cailean](/Deities.aspx?ID=4), [Cayden Cailean](/Deities.aspx?ID=280), [Desna](/Deities.aspx?ID=5), [Desna](/Deities.aspx?ID=281), [Erastil](/Deities.aspx?ID=6), [Erastil](/Deities.aspx?ID=282), [Gorum](/Deities.aspx?ID=7), [Gorum](/Deities.aspx?ID=283), [Gozreh](/Deities.aspx?ID=8), [Gozreh](/Deities.aspx?ID=284), [Iomedae](/Deities.aspx?ID=9), [Iomedae](/Deities.aspx?ID=285), [Irori](/Deities.aspx?ID=10), [Irori](/Deities.aspx?ID=286), [Lamashtu](/Deities.aspx?ID=11), [Lamashtu](/Deities.aspx?ID=287), [Nethys](/Deities.aspx?ID=12), [Nethys](/Deities.aspx?ID=288), [Norgorber](/Deities.aspx?ID=13), [Norgorber](/Deities.aspx?ID=289), [Pharasma](/Deities.aspx?ID=14), [Pharasma](/Deities.aspx?ID=290), [Rovagug](/Deities.aspx?ID=15), [Rovagug](/Deities.aspx?ID=291), [Sarenrae](/Deities.aspx?ID=16), [Sarenrae](/Deities.aspx?ID=292), [Shelyn](/Deities.aspx?ID=17), [Shelyn](/Deities.aspx?ID=293), [Torag](/Deities.aspx?ID=18), [Torag](/Deities.aspx?ID=294), [Urgathoa](/Deities.aspx?ID=19), [Urgathoa](/Deities.aspx?ID=295), [Zon-Kuthon](/Deities.aspx?ID=20), [Zon-Kuthon](/Deities.aspx?ID=296)",
+  "deity_category": "Gods of the Inner Sea",
+  "exclude_from_search": false,
+  "id": "deity-category-1",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Gods of the Inner Sea](/DeityCategories.aspx?ID=1)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>\n\nThe 20 primary deities of the Inner Sea region are well known due to either widespread worship or their historical tendency to help or harm the people who live there.\r\n\r\n**Members** [Abadar](/Deities.aspx?ID=1), [Abadar](/Deities.aspx?ID=277), [Asmodeus](/Deities.aspx?ID=2), [Asmodeus](/Deities.aspx?ID=278), [Calistria](/Deities.aspx?ID=3), [Calistria](/Deities.aspx?ID=279), [Cayden Cailean](/Deities.aspx?ID=4), [Cayden Cailean](/Deities.aspx?ID=280), [Desna](/Deities.aspx?ID=5), [Desna](/Deities.aspx?ID=281), [Erastil](/Deities.aspx?ID=6), [Erastil](/Deities.aspx?ID=282), [Gorum](/Deities.aspx?ID=7), [Gorum](/Deities.aspx?ID=283), [Gozreh](/Deities.aspx?ID=8), [Gozreh](/Deities.aspx?ID=284), [Iomedae](/Deities.aspx?ID=9), [Iomedae](/Deities.aspx?ID=285), [Irori](/Deities.aspx?ID=10), [Irori](/Deities.aspx?ID=286), [Lamashtu](/Deities.aspx?ID=11), [Lamashtu](/Deities.aspx?ID=287), [Nethys](/Deities.aspx?ID=12), [Nethys](/Deities.aspx?ID=288), [Norgorber](/Deities.aspx?ID=13), [Norgorber](/Deities.aspx?ID=289), [Pharasma](/Deities.aspx?ID=14), [Pharasma](/Deities.aspx?ID=290), [Rovagug](/Deities.aspx?ID=15), [Rovagug](/Deities.aspx?ID=291), [Sarenrae](/Deities.aspx?ID=16), [Sarenrae](/Deities.aspx?ID=292), [Shelyn](/Deities.aspx?ID=17), [Shelyn](/Deities.aspx?ID=293), [Torag](/Deities.aspx?ID=18), [Torag](/Deities.aspx?ID=294), [Urgathoa](/Deities.aspx?ID=19), [Urgathoa](/Deities.aspx?ID=295), [Zon-Kuthon](/Deities.aspx?ID=20), [Zon-Kuthon](/Deities.aspx?ID=296)",
+  "name": "Gods of the Inner Sea",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 11",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 11"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Gods of the Inner Sea Source Gods &amp; Magic pg. 11 2.0 The 20 primary deities of the Inner Sea region are well known due to either widespread worship or their historical tendency to help or harm the people who live there. Members Abadar, Abadar, Asmodeus, Asmodeus, Calistria, Calistria, Cayden Cailean, Cayden Cailean, Desna, Desna, Erastil, Erastil, Gorum, Gorum, Gozreh, Gozreh, Iomedae, Iomedae, Irori, Irori, Lamashtu, Lamashtu, Nethys, Nethys, Norgorber, Norgorber, Pharasma, Pharasma, Rovagug, Rovagug, Sarenrae, Sarenrae, Shelyn, Shelyn, Torag, Torag, Urgathoa, Urgathoa, Zon-Kuthon, Zon-Kuthon",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Aakriti",
+   "Achaekek",
+   "Achaekek",
+   "Ahriman",
+   "Alseta",
+   "Apsu",
+   "Arazni",
+   "Besmara",
+   "Brigh",
+   "Casandalee",
+   "Chaldira",
+   "Conqueror Worm",
+   "Dahak",
+   "Erecura",
+   "Followers of Fate",
+   "Followers of Fate",
+   "Gendowyn",
+   "Ghlaunder",
+   "Green Man",
+   "Groetus",
+   "Gyronna",
+   "Hanspur",
+   "Jaidi",
+   "Kazutal",
+   "Kitumu",
+   "Kurgess",
+   "Lissala",
+   "Lorthact",
+   "Milani",
+   "Naderi",
+   "Nivi Rhombodazzle",
+   "Nocticula",
+   "Picoperi",
+   "Ravithra",
+   "Sivanah",
+   "Thamir",
+   "Thisamet",
+   "Vineshvakhi",
+   "Ydersius",
+   "Ydersius",
+   "Yelayne",
+   "Zyphus"
+  ],
+  "deity_markdown": "[Aakriti](/Deities.aspx?ID=261), [Achaekek](/Deities.aspx?ID=29), [Achaekek](/Deities.aspx?ID=325), [Ahriman](/Deities.aspx?ID=220), [Alseta](/Deities.aspx?ID=30), [Apsu](/Deities.aspx?ID=149), [Arazni](/Deities.aspx?ID=31), [Besmara](/Deities.aspx?ID=32), [Brigh](/Deities.aspx?ID=33), [Casandalee](/Deities.aspx?ID=34), [Chaldira](/Deities.aspx?ID=35), [Conqueror Worm](/Deities.aspx?ID=234), [Dahak](/Deities.aspx?ID=150), [Erecura](/Deities.aspx?ID=151), [Followers of Fate](/Deities.aspx?ID=210), [Followers of Fate](/Deities.aspx?ID=322), [Gendowyn](/Deities.aspx?ID=152), [Ghlaunder](/Deities.aspx?ID=36), [Green Man](/Deities.aspx?ID=221), [Groetus](/Deities.aspx?ID=38), [Gyronna](/Deities.aspx?ID=153), [Hanspur](/Deities.aspx?ID=154), [Jaidi](/Deities.aspx?ID=155), [Kazutal](/Deities.aspx?ID=41), [Kitumu](/Deities.aspx?ID=229), [Kurgess](/Deities.aspx?ID=42), [Lissala](/Deities.aspx?ID=156), [Lorthact](/Deities.aspx?ID=243), [Milani](/Deities.aspx?ID=43), [Naderi](/Deities.aspx?ID=157), [Nivi Rhombodazzle](/Deities.aspx?ID=44), [Nocticula](/Deities.aspx?ID=45), [Picoperi](/Deities.aspx?ID=266), [Ravithra](/Deities.aspx?ID=218), [Sivanah](/Deities.aspx?ID=46), [Thamir](/Deities.aspx?ID=158), [Thisamet](/Deities.aspx?ID=267), [Vineshvakhi](/Deities.aspx?ID=262), [Ydersius](/Deities.aspx?ID=211), [Ydersius](/Deities.aspx?ID=323), [Yelayne](/Deities.aspx?ID=268), [Zyphus](/Deities.aspx?ID=160)",
+  "deity_category": "Other Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-2",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Other Gods](/DeityCategories.aspx?ID=2)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>\n\nThese deities are not quite as widely worshiped as the 20 primary deities of the Inner Sea region, though they grant their worshippers just as much power and are just as important in their worshippers' lives.\r\n\r\n**Members** [Aakriti](/Deities.aspx?ID=261), [Achaekek](/Deities.aspx?ID=29), [Achaekek](/Deities.aspx?ID=325), [Ahriman](/Deities.aspx?ID=220), [Alseta](/Deities.aspx?ID=30), [Apsu](/Deities.aspx?ID=149), [Arazni](/Deities.aspx?ID=31), [Besmara](/Deities.aspx?ID=32), [Brigh](/Deities.aspx?ID=33), [Casandalee](/Deities.aspx?ID=34), [Chaldira](/Deities.aspx?ID=35), [Conqueror Worm](/Deities.aspx?ID=234), [Dahak](/Deities.aspx?ID=150), [Erecura](/Deities.aspx?ID=151), [Followers of Fate](/Deities.aspx?ID=210), [Followers of Fate](/Deities.aspx?ID=322), [Gendowyn](/Deities.aspx?ID=152), [Ghlaunder](/Deities.aspx?ID=36), [Green Man](/Deities.aspx?ID=221), [Groetus](/Deities.aspx?ID=38), [Gyronna](/Deities.aspx?ID=153), [Hanspur](/Deities.aspx?ID=154), [Jaidi](/Deities.aspx?ID=155), [Kazutal](/Deities.aspx?ID=41), [Kitumu](/Deities.aspx?ID=229), [Kurgess](/Deities.aspx?ID=42), [Lissala](/Deities.aspx?ID=156), [Lorthact](/Deities.aspx?ID=243), [Milani](/Deities.aspx?ID=43), [Naderi](/Deities.aspx?ID=157), [Nivi Rhombodazzle](/Deities.aspx?ID=44), [Nocticula](/Deities.aspx?ID=45), [Picoperi](/Deities.aspx?ID=266), [Ravithra](/Deities.aspx?ID=218), [Sivanah](/Deities.aspx?ID=46), [Thamir](/Deities.aspx?ID=158), [Thisamet](/Deities.aspx?ID=267), [Vineshvakhi](/Deities.aspx?ID=262), [Ydersius](/Deities.aspx?ID=211), [Ydersius](/Deities.aspx?ID=323), [Yelayne](/Deities.aspx?ID=268), [Zyphus](/Deities.aspx?ID=160)",
+  "name": "Other Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 11",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 11"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 11 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Other Gods Source Gods &amp; Magic pg. 11 2.0 These deities are not quite as widely worshiped as the 20 primary deities of the Inner Sea region, though they grant their worshippers just as much power and are just as important in their worshippers' lives. Members Aakriti, Achaekek, Achaekek, Ahriman, Alseta, Apsu, Arazni, Besmara, Brigh, Casandalee, Chaldira, Conqueror Worm, Dahak, Erecura, Followers of Fate, Followers of Fate, Gendowyn, Ghlaunder, Green Man, Groetus, Gyronna, Hanspur, Jaidi, Kazutal, Kitumu, Kurgess, Lissala, Lorthact, Milani, Naderi, Nivi Rhombodazzle, Nocticula, Picoperi, Ravithra, Sivanah, Thamir, Thisamet, Vineshvakhi, Ydersius, Ydersius, Yelayne, Zyphus",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Anubis",
+   "Bastet",
+   "Bes",
+   "Hathor",
+   "Horus",
+   "Isis",
+   "Ma'at",
+   "Osiris",
+   "Ra",
+   "Sekhmet",
+   "Selket",
+   "Set",
+   "Sobek",
+   "Thoth",
+   "Wadjet"
+  ],
+  "deity_markdown": "[Anubis](/Deities.aspx?ID=49), [Bastet](/Deities.aspx?ID=50), [Bes](/Deities.aspx?ID=51), [Hathor](/Deities.aspx?ID=52), [Horus](/Deities.aspx?ID=53), [Isis](/Deities.aspx?ID=54), [Ma'at](/Deities.aspx?ID=55), [Osiris](/Deities.aspx?ID=56), [Ra](/Deities.aspx?ID=57), [Sekhmet](/Deities.aspx?ID=58), [Selket](/Deities.aspx?ID=59), [Set](/Deities.aspx?ID=242), [Sobek](/Deities.aspx?ID=60), [Thoth](/Deities.aspx?ID=61), [Wadjet](/Deities.aspx?ID=62)",
+  "deity_category": "Ancient Osirian Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-3",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Ancient Osirian Gods](/DeityCategories.aspx?ID=3)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 125 <sup>2.0</sup>\n\n**Members** [Anubis](/Deities.aspx?ID=49), [Bastet](/Deities.aspx?ID=50), [Bes](/Deities.aspx?ID=51), [Hathor](/Deities.aspx?ID=52), [Horus](/Deities.aspx?ID=53), [Isis](/Deities.aspx?ID=54), [Ma'at](/Deities.aspx?ID=55), [Osiris](/Deities.aspx?ID=56), [Ra](/Deities.aspx?ID=57), [Sekhmet](/Deities.aspx?ID=58), [Selket](/Deities.aspx?ID=59), [Set](/Deities.aspx?ID=242), [Sobek](/Deities.aspx?ID=60), [Thoth](/Deities.aspx?ID=61), [Wadjet](/Deities.aspx?ID=62)",
+  "name": "Ancient Osirian Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 125",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 125 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 125"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 125 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Ancient Osirian Gods Source Gods &amp; Magic pg. 125 2.0 Members Anubis, Bastet, Bes, Hathor, Horus, Isis, Ma'at, Osiris, Ra, Sekhmet, Selket, Set, Sobek, Thoth, Wadjet",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Baalzebul",
+   "Barbatos",
+   "Belial",
+   "Dispater",
+   "Geryon",
+   "Mammon",
+   "Mephistopheles",
+   "Moloch"
+  ],
+  "deity_markdown": "[Baalzebul](/Deities.aspx?ID=63), [Barbatos](/Deities.aspx?ID=64), [Belial](/Deities.aspx?ID=65), [Dispater](/Deities.aspx?ID=66), [Geryon](/Deities.aspx?ID=67), [Mammon](/Deities.aspx?ID=68), [Mephistopheles](/Deities.aspx?ID=69), [Moloch](/Deities.aspx?ID=70)",
+  "deity_category": "Archdevils",
+  "exclude_from_search": false,
+  "id": "deity-category-4",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Archdevils](/DeityCategories.aspx?ID=4)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 75 <sup>2.0</sup>\n\nEach archdevil holds uncontested rule over one of the first eight realms of [Hell](/Planes.aspx?ID=18).\r\n\r\n**Members** [Baalzebul](/Deities.aspx?ID=63), [Barbatos](/Deities.aspx?ID=64), [Belial](/Deities.aspx?ID=65), [Dispater](/Deities.aspx?ID=66), [Geryon](/Deities.aspx?ID=67), [Mammon](/Deities.aspx?ID=68), [Mephistopheles](/Deities.aspx?ID=69), [Moloch](/Deities.aspx?ID=70)",
+  "name": "Archdevils",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 75",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 75 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 75"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 75 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Archdevils Source Gods &amp; Magic pg. 75 2.0 Each archdevil holds uncontested rule over one of the first eight realms of Hell. Members Baalzebul, Barbatos, Belial, Dispater, Geryon, Mammon, Mephistopheles, Moloch",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Abraxas",
+   "Baphomet",
+   "Cyth-V'sug",
+   "Dagon",
+   "Gogunta",
+   "Gogunta",
+   "Haagenti",
+   "Kabriri",
+   "Kostchtchie",
+   "Nurgal",
+   "Orcus",
+   "Pazuzu",
+   "Shax",
+   "Sifkesh",
+   "Treerazer",
+   "Treerazer",
+   "Zevgavizeb",
+   "Zura"
+  ],
+  "deity_markdown": "[Abraxas](/Deities.aspx?ID=71), [Baphomet](/Deities.aspx?ID=73), [Cyth-V'sug](/Deities.aspx?ID=74), [Dagon](/Deities.aspx?ID=75), [Gogunta](/Deities.aspx?ID=25), [Gogunta](/Deities.aspx?ID=321), [Haagenti](/Deities.aspx?ID=260), [Kabriri](/Deities.aspx?ID=76), [Kostchtchie](/Deities.aspx?ID=77), [Nurgal](/Deities.aspx?ID=78), [Orcus](/Deities.aspx?ID=241), [Pazuzu](/Deities.aspx?ID=79), [Shax](/Deities.aspx?ID=80), [Sifkesh](/Deities.aspx?ID=81), [Treerazer](/Deities.aspx?ID=26), [Treerazer](/Deities.aspx?ID=324), [Zevgavizeb](/Deities.aspx?ID=82), [Zura](/Deities.aspx?ID=83)",
+  "deity_category": "Demon Lords",
+  "exclude_from_search": false,
+  "id": "deity-category-5",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Demon Lords](/DeityCategories.aspx?ID=5)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 77 <sup>2.0</sup>\n\nThe Outer Rifts of the [Abyss](/Planes.aspx?ID=13) consist of unending layers of evil and depravity, many of which are ruled over by powerful, unique fiends known as demon lords. These demigods have risen above their peers through strength, cunning, or an unmatched capacity for cruelty, overseeing innumerable lesser [demons](/MonsterFamilies.aspx?ID=28) that serve, fear, and revile them. Beneath them, yet more demons clamor to attain their heights of power as nascent demon lords, waiting for the right opportunity to complete their ascension. Fortunately for the mortals of the world, while the ranks of the demon lords are numerous beyond comprehension, only a small subset have so intensely turned their baleful gazes toward Golarion as to have a presence on the planet. These demon lords are served by vile cults that commit atrocities and blasphemies in exchange for power, wealth, and the opportunity to indulge their hearts' darkest desires.\r\n\r\n**Members** [Abraxas](/Deities.aspx?ID=71), [Baphomet](/Deities.aspx?ID=73), [Cyth-V'sug](/Deities.aspx?ID=74), [Dagon](/Deities.aspx?ID=75), [Gogunta](/Deities.aspx?ID=25), [Gogunta](/Deities.aspx?ID=321), [Haagenti](/Deities.aspx?ID=260), [Kabriri](/Deities.aspx?ID=76), [Kostchtchie](/Deities.aspx?ID=77), [Nurgal](/Deities.aspx?ID=78), [Orcus](/Deities.aspx?ID=241), [Pazuzu](/Deities.aspx?ID=79), [Shax](/Deities.aspx?ID=80), [Sifkesh](/Deities.aspx?ID=81), [Treerazer](/Deities.aspx?ID=26), [Treerazer](/Deities.aspx?ID=324), [Zevgavizeb](/Deities.aspx?ID=82), [Zura](/Deities.aspx?ID=83)",
+  "name": "Demon Lords",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 77",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 77 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 77"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 77 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Demon Lords Source Gods &amp; Magic pg. 77 2.0 The Outer Rifts of the Abyss consist of unending layers of evil and depravity, many of which are ruled over by powerful, unique fiends known as demon lords. These demigods have risen above their peers through strength, cunning, or an unmatched capacity for cruelty, overseeing innumerable lesser demons that serve, fear, and revile them. Beneath them, yet more demons clamor to attain their heights of power as nascent demon lords, waiting for the right opportunity to complete their ascension. Fortunately for the mortals of the world, while the ranks of the demon lords are numerous beyond comprehension, only a small subset have so intensely turned their baleful gazes toward Golarion as to have a presence on the planet. These demon lords are served by vile cults that commit atrocities and blasphemies in exchange for power, wealth, and the opportunity to indulge their hearts' darkest desires. Members Abraxas, Baphomet, Cyth-V'sug, Dagon, Gogunta, Gogunta, Haagenti, Kabriri, Kostchtchie, Nurgal, Orcus, Pazuzu, Shax, Sifkesh, Treerazer, Treerazer, Zevgavizeb, Zura",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Angradd",
+   "Bolka",
+   "Dranngvit",
+   "Droskar",
+   "Folgrit",
+   "Grundinnar",
+   "Kols",
+   "Magrim",
+   "Trudd"
+  ],
+  "deity_markdown": "[Angradd](/Deities.aspx?ID=84), [Bolka](/Deities.aspx?ID=85), [Dranngvit](/Deities.aspx?ID=86), [Droskar](/Deities.aspx?ID=28), [Folgrit](/Deities.aspx?ID=87), [Grundinnar](/Deities.aspx?ID=88), [Kols](/Deities.aspx?ID=89), [Magrim](/Deities.aspx?ID=90), [Trudd](/Deities.aspx?ID=91)",
+  "deity_category": "Dwarven Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-6",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Dwarven Gods](/DeityCategories.aspx?ID=6)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>\n\nThe [dwarven](/Ancestries.aspx?ID=1) gods are one large family, with Torag as its patriarch. He is joined by his brothers Magrim (the Taskmaster) and Angradd (the Forge Fire), his half-sister Dranngvit (the Debt Minder), and his wife Folgrit (the Watchful Mother). His children are Bolka (the Golden Gift), Grundinnar (the Peacemaker), Kols (the Oath-Keeper), and Trudd (the Mighty). Torag's evil former student Droskar (the Dark Smith), though technically part of the [dwarven pantheon](/Deities.aspx?ID=196), is rarely invoked by any save [duergar](/MonsterFamilies.aspx?ID=38).\r\n\r\n**Members** [Angradd](/Deities.aspx?ID=84), [Bolka](/Deities.aspx?ID=85), [Dranngvit](/Deities.aspx?ID=86), [Droskar](/Deities.aspx?ID=28), [Folgrit](/Deities.aspx?ID=87), [Grundinnar](/Deities.aspx?ID=88), [Kols](/Deities.aspx?ID=89), [Magrim](/Deities.aspx?ID=90), [Trudd](/Deities.aspx?ID=91)",
+  "name": "Dwarven Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 93",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 93"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Dwarven Gods Source Gods &amp; Magic pg. 93 2.0 The dwarven gods are one large family, with Torag as its patriarch. He is joined by his brothers Magrim (the Taskmaster) and Angradd (the Forge Fire), his half-sister Dranngvit (the Debt Minder), and his wife Folgrit (the Watchful Mother). His children are Bolka (the Golden Gift), Grundinnar (the Peacemaker), Kols (the Oath-Keeper), and Trudd (the Mighty). Torag's evil former student Droskar (the Dark Smith), though technically part of the dwarven pantheon, is rarely invoked by any save duergar. Members Angradd, Bolka, Dranngvit, Droskar, Folgrit, Grundinnar, Kols, Magrim, Trudd",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Count Ranalc",
+   "Imbrex",
+   "Magdh",
+   "Ng",
+   "Ragadahn",
+   "Shyka",
+   "The Green Mother",
+   "The Lantern King",
+   "The Lost Prince"
+  ],
+  "deity_markdown": "[Count Ranalc](/Deities.aspx?ID=92), [Imbrex](/Deities.aspx?ID=94), [Magdh](/Deities.aspx?ID=97), [Ng](/Deities.aspx?ID=98), [Ragadahn](/Deities.aspx?ID=99), [Shyka](/Deities.aspx?ID=100), [The Green Mother](/Deities.aspx?ID=93), [The Lantern King](/Deities.aspx?ID=95), [The Lost Prince](/Deities.aspx?ID=96)",
+  "deity_category": "Eldest",
+  "exclude_from_search": false,
+  "id": "deity-category-7",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Eldest](/DeityCategories.aspx?ID=7)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 79 <sup>2.0</sup>\n\nWhen the gods abandoned the [First World](/Planes.aspx?ID=10)—their initial rough draft of creation shaped in distant prehistory— native beings of incredible power stepped in to fill the vacuum. These beings, called the Eldest, hold deific power over the First World but have little of the other gods' aspirations. The Eldest don't concern themselves with expanding their followings or advocating particular ideologies. Many barely acknowledge their worshippers at all, concerning themselves only with their own mysterious motivations and doling out divine power merely because they have much to spare and doing so amuses them.\n\n Devotees of the Eldest on Golarion are usually solitary in their worship, residing near breaches to the unpredictable First World. Most worshippers are [fey](/Traits.aspx?ID=69) or [gnomes](/Ancestries.aspx?ID=3), although other creatures who feel a close kinship with fey might revere the capricious and uncaring Eldest as well.\r\n\r\n**Members** [Count Ranalc](/Deities.aspx?ID=92), [Imbrex](/Deities.aspx?ID=94), [Magdh](/Deities.aspx?ID=97), [Ng](/Deities.aspx?ID=98), [Ragadahn](/Deities.aspx?ID=99), [Shyka](/Deities.aspx?ID=100), [The Green Mother](/Deities.aspx?ID=93), [The Lantern King](/Deities.aspx?ID=95), [The Lost Prince](/Deities.aspx?ID=96)",
+  "name": "Eldest",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 79",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 79 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 79"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 79 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Eldest Source Gods &amp; Magic pg. 79 2.0 When the gods abandoned the First World—their initial rough draft of creation shaped in distant prehistory— native beings of incredible power stepped in to fill the vacuum. These beings, called the Eldest, hold deific power over the First World but have little of the other gods' aspirations. The Eldest don't concern themselves with expanding their followings or advocating particular ideologies. Many barely acknowledge their worshippers at all, concerning themselves only with their own mysterious motivations and doling out divine power merely because they have much to spare and doing so amuses them. Devotees of the Eldest on Golarion are usually solitary in their worship, residing near breaches to the unpredictable First World. Most worshippers are fey or gnomes, although other creatures who feel a close kinship with fey might revere the capricious and uncaring Eldest as well. Members Count Ranalc, Imbrex, Magdh, Ng, Ragadahn, Shyka, The Green Mother, The Lantern King, The Lost Prince",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Atreia",
+   "Ayrzul",
+   "Ferrumnestra",
+   "Hshurha",
+   "Kelizandri",
+   "Laudinmio",
+   "Lysianassa",
+   "Ranginori",
+   "Sairazul",
+   "Shumunue",
+   "Verilorn",
+   "Ymeri"
+  ],
+  "deity_markdown": "[Atreia](/Deities.aspx?ID=101), [Ayrzul](/Deities.aspx?ID=102), [Ferrumnestra](/Deities.aspx?ID=273), [Hshurha](/Deities.aspx?ID=103), [Kelizandri](/Deities.aspx?ID=104), [Laudinmio](/Deities.aspx?ID=274), [Lysianassa](/Deities.aspx?ID=105), [Ranginori](/Deities.aspx?ID=106), [Sairazul](/Deities.aspx?ID=107), [Shumunue](/Deities.aspx?ID=275), [Verilorn](/Deities.aspx?ID=276), [Ymeri](/Deities.aspx?ID=108)",
+  "deity_category": "Elemental Lords",
+  "exclude_from_search": false,
+  "id": "deity-category-8",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Elemental Lords](/DeityCategories.aspx?ID=8)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 81 <sup>2.0</sup>\n\nBorn amid the primal chaos of the multiverse's earliest days, the eight elemental lords are divine embodiments of the Inner Spheres' raw elemental forces. With two lords of air, two of earth, two of fire, and two of water, half their number represent the aspects of each element that mortals consider benevolent, while the others represent the malicious and destructive aspects of those same elements. When the [Material Plane](/Planes.aspx?ID=1) was born, the benevolent elemental lords seeded it with all the potential of their elements, creating planets, stars, oceans, and life. Yet as mortality evolved, it began harnessing the elements for malevolent purposes, causing anguished dissent between the benevolent elemental lords and emboldening their evil counterparts. Kelizandri, the fearsome lord of water, forged an alliance with the other evil elemental lords— Ayrzul, Hshurha, and Ymeri—to seal each good elemental lord in a prison penetrable only by combining the other three elemental powers once more; this feat has been achieved only once in the ages since. The four surviving lords have ruled their respective planes mercilessly for time uncounted, free to write the stories of their own creations, invent their own titles of nobility, and claim sole dominion over the elemental planes.\r\n\r\n**Members** [Atreia](/Deities.aspx?ID=101), [Ayrzul](/Deities.aspx?ID=102), [Ferrumnestra](/Deities.aspx?ID=273), [Hshurha](/Deities.aspx?ID=103), [Kelizandri](/Deities.aspx?ID=104), [Laudinmio](/Deities.aspx?ID=274), [Lysianassa](/Deities.aspx?ID=105), [Ranginori](/Deities.aspx?ID=106), [Sairazul](/Deities.aspx?ID=107), [Shumunue](/Deities.aspx?ID=275), [Verilorn](/Deities.aspx?ID=276), [Ymeri](/Deities.aspx?ID=108)",
+  "name": "Elemental Lords",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 81",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 81 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 81"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 81 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Elemental Lords Source Gods &amp; Magic pg. 81 2.0 Born amid the primal chaos of the multiverse's earliest days, the eight elemental lords are divine embodiments of the Inner Spheres' raw elemental forces. With two lords of air, two of earth, two of fire, and two of water, half their number represent the aspects of each element that mortals consider benevolent, while the others represent the malicious and destructive aspects of those same elements. When the Material Plane was born, the benevolent elemental lords seeded it with all the potential of their elements, creating planets, stars, oceans, and life. Yet as mortality evolved, it began harnessing the elements for malevolent purposes, causing anguished dissent between the benevolent elemental lords and emboldening their evil counterparts. Kelizandri, the fearsome lord of water, forged an alliance with the other evil elemental lords— Ayrzul, Hshurha, and Ymeri—to seal each good elemental lord in a prison penetrable only by combining the other three elemental powers once more; this feat has been achieved only once in the ages since. The four surviving lords have ruled their respective planes mercilessly for time uncounted, free to write the stories of their own creations, invent their own titles of nobility, and claim sole dominion over the elemental planes. Members Atreia, Ayrzul, Ferrumnestra, Hshurha, Kelizandri, Laudinmio, Lysianassa, Ranginori, Sairazul, Shumunue, Verilorn, Ymeri",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Findeladlara",
+   "Ketephys",
+   "Yuelral"
+  ],
+  "deity_markdown": "[Findeladlara](/Deities.aspx?ID=109), [Ketephys](/Deities.aspx?ID=110), [Yuelral](/Deities.aspx?ID=111)",
+  "deity_category": "Elven Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-9",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Elven Gods](/DeityCategories.aspx?ID=9)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup>\n\nThe traditional deities of the [elven pantheon](/Deities.aspx?ID=197) are [Calistria](/Deities.aspx?ID=3), [Desna](/Deities.aspx?ID=5), Findeladlara (goddess of twilight and traditional art and architecture), Ketephys (god of hunting and the moon), and Yuelral (goddess of gems, craft, and magic). Elves have also adopted [Alseta](/Deities.aspx?ID=30), a minor goddess of doors and transitions, as their patron of teleportation and aiudara (commonly known as elf gates). Most elves value magic, beauty, freedom, and friendship as part of a fulfilling life and tend to worship all of the deities together as exemplars of these values. Alongside fullblooded elves, many half-elves—whether raised by elves or seeking a closer connection to their elven heritage— worship the elven pantheon.\r\n\r\n**Members** [Findeladlara](/Deities.aspx?ID=109), [Ketephys](/Deities.aspx?ID=110), [Yuelral](/Deities.aspx?ID=111)",
+  "name": "Elven Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 94",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 94"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 94 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Elven Gods Source Gods &amp; Magic pg. 94 2.0 The traditional deities of the elven pantheon are Calistria, Desna, Findeladlara (goddess of twilight and traditional art and architecture), Ketephys (god of hunting and the moon), and Yuelral (goddess of gems, craft, and magic). Elves have also adopted Alseta, a minor goddess of doors and transitions, as their patron of teleportation and aiudara (commonly known as elf gates). Most elves value magic, beauty, freedom, and friendship as part of a fulfilling life and tend to worship all of the deities together as exemplars of these values. Alongside fullblooded elves, many half-elves—whether raised by elves or seeking a closer connection to their elven heritage— worship the elven pantheon. Members Findeladlara, Ketephys, Yuelral",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Andoletta",
+   "Arqueros",
+   "Arshea",
+   "Ashava",
+   "Black Butterfly",
+   "Cernunnos",
+   "Dammerich",
+   "Eritrice",
+   "Falayna",
+   "Halcamora",
+   "Irez",
+   "Jaidz",
+   "Korada",
+   "Lymnieris",
+   "Marishi",
+   "Pulura",
+   "Ragathiel",
+   "Shei",
+   "Soralyon",
+   "Tanagaar",
+   "Vildeis",
+   "Winlas",
+   "Ylimancha",
+   "Zohls"
+  ],
+  "deity_markdown": "[Andoletta](/Deities.aspx?ID=112), [Arqueros](/Deities.aspx?ID=244), [Arshea](/Deities.aspx?ID=113), [Ashava](/Deities.aspx?ID=114), [Black Butterfly](/Deities.aspx?ID=115), [Cernunnos](/Deities.aspx?ID=116), [Dammerich](/Deities.aspx?ID=117), [Eritrice](/Deities.aspx?ID=118), [Falayna](/Deities.aspx?ID=119), [Halcamora](/Deities.aspx?ID=120), [Irez](/Deities.aspx?ID=121), [Jaidz](/Deities.aspx?ID=122), [Korada](/Deities.aspx?ID=123), [Lymnieris](/Deities.aspx?ID=124), [Marishi](/Deities.aspx?ID=265), [Pulura](/Deities.aspx?ID=125), [Ragathiel](/Deities.aspx?ID=126), [Shei](/Deities.aspx?ID=127), [Soralyon](/Deities.aspx?ID=128), [Tanagaar](/Deities.aspx?ID=129), [Vildeis](/Deities.aspx?ID=130), [Winlas](/Deities.aspx?ID=131), [Ylimancha](/Deities.aspx?ID=132), [Zohls](/Deities.aspx?ID=133)",
+  "deity_category": "Empyreal Lords",
+  "exclude_from_search": false,
+  "id": "deity-category-10",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Empyreal Lords](/DeityCategories.aspx?ID=10)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 83 <sup>2.0</sup>\n\nMuch as demon lords and archdevils are the preeminent incarnations of malice and sin, on the side of righteousness stand the empyreal lords—exceptional beings that represent the good in the myriad everyday actions of the multiverse. Drawn from the most powerful ranks of the [celestial](/Languages.aspx?ID=16) host, the multitudinous empyreal lords include agathions, [angels](/MonsterFamilies.aspx?ID=3), [archons](/MonsterFamilies.aspx?ID=9), and [azatas](/MonsterFamilies.aspx?ID=10) alike. Most of these beings gained prominence as immortal champions of virtue, though some are instead mortal paragons who ascended, while others spontaneously formed from exceptional deeds of good that echoed throughout the planes. While all empyreal lords are dedicated to good, their philosophies, interests, and personalities vary, and they don't always agree with one another. Worship of the empyreal lords is not nearly as widespread as that of the major deities, but it is still surprisingly common. Most worship takes place at small shrines, statues, or artifacts (such as the sculpture known as the Mistress of Angels in Magnimar), or simply through the doing of deeds that reflect an empyreal lord's interest or beliefs. Centers of worship like churches or cathedrals are extremely uncommon. Most followers consider worship to be an individual matter, and it is rare to see a follower of any empyreal lord proselytizing. However, adherents sometimes congregate in small groups called mystery cults, and some of these groups maintain small temples. The city of Magnimar is home to several mystery cults, as the Varisian people have long held the empyreal lords in high esteem. It is not uncommon for mystery cultists to worship multiple empyreal lords in various combinations, or even all of them, though most have a favorite patron.\n\n Presented below are some of the empyreal lords commonly worshipped in the Inner Sea region.\r\n\r\n**Members** [Andoletta](/Deities.aspx?ID=112), [Arqueros](/Deities.aspx?ID=244), [Arshea](/Deities.aspx?ID=113), [Ashava](/Deities.aspx?ID=114), [Black Butterfly](/Deities.aspx?ID=115), [Cernunnos](/Deities.aspx?ID=116), [Dammerich](/Deities.aspx?ID=117), [Eritrice](/Deities.aspx?ID=118), [Falayna](/Deities.aspx?ID=119), [Halcamora](/Deities.aspx?ID=120), [Irez](/Deities.aspx?ID=121), [Jaidz](/Deities.aspx?ID=122), [Korada](/Deities.aspx?ID=123), [Lymnieris](/Deities.aspx?ID=124), [Marishi](/Deities.aspx?ID=265), [Pulura](/Deities.aspx?ID=125), [Ragathiel](/Deities.aspx?ID=126), [Shei](/Deities.aspx?ID=127), [Soralyon](/Deities.aspx?ID=128), [Tanagaar](/Deities.aspx?ID=129), [Vildeis](/Deities.aspx?ID=130), [Winlas](/Deities.aspx?ID=131), [Ylimancha](/Deities.aspx?ID=132), [Zohls](/Deities.aspx?ID=133)",
+  "name": "Empyreal Lords",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 83",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 83 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 83"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 83 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Empyreal Lords Source Gods &amp; Magic pg. 83 2.0 Much as demon lords and archdevils are the preeminent incarnations of malice and sin, on the side of righteousness stand the empyreal lords—exceptional beings that represent the good in the myriad everyday actions of the multiverse. Drawn from the most powerful ranks of the celestial host, the multitudinous empyreal lords include agathions, angels, archons, and azatas alike. Most of these beings gained prominence as immortal champions of virtue, though some are instead mortal paragons who ascended, while others spontaneously formed from exceptional deeds of good that echoed throughout the planes. While all empyreal lords are dedicated to good, their philosophies, interests, and personalities vary, and they don't always agree with one another. Worship of the empyreal lords is not nearly as widespread as that of the major deities, but it is still surprisingly common. Most worship takes place at small shrines, statues, or artifacts (such as the sculpture known as the Mistress of Angels in Magnimar), or simply through the doing of deeds that reflect an empyreal lord's interest or beliefs. Centers of worship like churches or cathedrals are extremely uncommon. Most followers consider worship to be an individual matter, and it is rare to see a follower of any empyreal lord proselytizing. However, adherents sometimes congregate in small groups called mystery cults, and some of these groups maintain small temples. The city of Magnimar is home to several mystery cults, as the Varisian people have long held the empyreal lords in high esteem. It is not uncommon for mystery cultists to worship multiple empyreal lords in various combinations, or even all of them, though most have a favorite patron. Presented below are some of the empyreal lords commonly worshipped in the Inner Sea region. Members Andoletta, Arqueros, Arshea, Ashava, Black Butterfly, Cernunnos, Dammerich, Eritrice, Falayna, Halcamora, Irez, Jaidz, Korada, Lymnieris, Marishi, Pulura, Ragathiel, Shei, Soralyon, Tanagaar, Vildeis, Winlas, Ylimancha, Zohls",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Apollyon",
+   "Charon",
+   "Szuriel",
+   "Trelmarixian"
+  ],
+  "deity_markdown": "[Apollyon](/Deities.aspx?ID=134), [Charon](/Deities.aspx?ID=135), [Szuriel](/Deities.aspx?ID=136), [Trelmarixian](/Deities.aspx?ID=137)",
+  "deity_category": "Horsemen",
+  "exclude_from_search": false,
+  "id": "deity-category-11",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Horsemen](/DeityCategories.aspx?ID=11)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 87 <sup>2.0</sup>\n\nAt the end of the River Styx await the rulers of [Abaddon](/Planes.aspx?ID=12): the Four Horsemen of the Apocalypse and their [daemonic](/MonsterFamilies.aspx?ID=26) brood. Hatred for living things fuels all of daemonkind, who see existence as a great mistake. Though all of the Horsemen began their lives as mortals, they are completely devoted to the eradication of reality itself. Riding atop their dreaded steeds, they strive for true apocalypse. Only when all life has been snuffed out does their mission end, and they can then consign themselves to the waiting oblivion.\n\n Only the truly nihilistic worship the Horsemen. Those who seek vengeance on all the world or lust for power are drawn to the Horsemen's easy promises, thinking they will be spared from their masters' cataclysmic mission. They never are. To the Horsemen, their followers are entirely disposable, tools with a purpose until they too are devoured.\r\n\r\n**Members** [Apollyon](/Deities.aspx?ID=134), [Charon](/Deities.aspx?ID=135), [Szuriel](/Deities.aspx?ID=136), [Trelmarixian](/Deities.aspx?ID=137)",
+  "name": "Horsemen",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 87",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 87 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 87"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 87 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Horsemen Source Gods &amp; Magic pg. 87 2.0 At the end of the River Styx await the rulers of Abaddon: the Four Horsemen of the Apocalypse and their daemonic brood. Hatred for living things fuels all of daemonkind, who see existence as a great mistake. Though all of the Horsemen began their lives as mortals, they are completely devoted to the eradication of reality itself. Riding atop their dreaded steeds, they strive for true apocalypse. Only when all life has been snuffed out does their mission end, and they can then consign themselves to the waiting oblivion. Only the truly nihilistic worship the Horsemen. Those who seek vengeance on all the world or lust for power are drawn to the Horsemen's easy promises, thinking they will be spared from their masters' cataclysmic mission. They never are. To the Horsemen, their followers are entirely disposable, tools with a purpose until they too are devoured. Members Apollyon, Charon, Szuriel, Trelmarixian",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Barzahk",
+   "Imot",
+   "Kerkamoth",
+   "Monad",
+   "Mother Vulture",
+   "Narakaas",
+   "Narriseminek",
+   "Otolmens",
+   "Saloc",
+   "Valmallos",
+   "Ydajisk"
+  ],
+  "deity_markdown": "[Barzahk](/Deities.aspx?ID=138), [Imot](/Deities.aspx?ID=139), [Kerkamoth](/Deities.aspx?ID=140), [Monad](/Deities.aspx?ID=141), [Mother Vulture](/Deities.aspx?ID=142), [Narakaas](/Deities.aspx?ID=143), [Narriseminek](/Deities.aspx?ID=144), [Otolmens](/Deities.aspx?ID=145), [Saloc](/Deities.aspx?ID=146), [Valmallos](/Deities.aspx?ID=147), [Ydajisk](/Deities.aspx?ID=148)",
+  "deity_category": "Monitor Demigods",
+  "exclude_from_search": false,
+  "id": "deity-category-12",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Monitor Demigods](/DeityCategories.aspx?ID=12)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 89 <sup>2.0</sup>\n\nWhile fiends exploit mortals' baser natures and celestials encourage their better selves, monitors are concerned more with method than morality, from the rigid law of [aeons](/MonsterFamilies.aspx?ID=2) and inevitables to the pragmatic neutrality of [psychopomps](/MonsterFamilies.aspx?ID=83), to the unpredictable chaos of [proteans](/Languages.aspx?ID=33). Rather than immersing themselves in issues of philosophy, monitors take a more cosmic approach, battling each other over universal laws, the planes, and reality itself.\n\n Mortals worship monitor demigods just as they do [empyreal lords](/DeityCategories.aspx?ID=10) and [fiendish](/Traits.aspx?ID=70) demigods. Some are drawn to the enigmatic Monad or primordial inevitables out of a desire for control or the reassurance of an orderly universe—often those in governance or academia. Artists and bon vivants who seek the creativity and freedom offered by the paragons of chaos revere protean lords. While many assume worshippers of psychopomp ushers to be morbid, that is rarely the case. Psychopomp worship is also found among those who bring life into the world, such as midwives and farmers, and those who eschew idealism for more practical philosophies.\r\n\r\n**Members** [Barzahk](/Deities.aspx?ID=138), [Imot](/Deities.aspx?ID=139), [Kerkamoth](/Deities.aspx?ID=140), [Monad](/Deities.aspx?ID=141), [Mother Vulture](/Deities.aspx?ID=142), [Narakaas](/Deities.aspx?ID=143), [Narriseminek](/Deities.aspx?ID=144), [Otolmens](/Deities.aspx?ID=145), [Saloc](/Deities.aspx?ID=146), [Valmallos](/Deities.aspx?ID=147), [Ydajisk](/Deities.aspx?ID=148)",
+  "name": "Monitor Demigods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 89",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 89 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 89"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 89 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Monitor Demigods Source Gods &amp; Magic pg. 89 2.0 While fiends exploit mortals' baser natures and celestials encourage their better selves, monitors are concerned more with method than morality, from the rigid law of aeons and inevitables to the pragmatic neutrality of psychopomps, to the unpredictable chaos of proteans. Rather than immersing themselves in issues of philosophy, monitors take a more cosmic approach, battling each other over universal laws, the planes, and reality itself. Mortals worship monitor demigods just as they do empyreal lords and fiendish demigods. Some are drawn to the enigmatic Monad or primordial inevitables out of a desire for control or the reassurance of an orderly universe—often those in governance or academia. Artists and bon vivants who seek the creativity and freedom offered by the paragons of chaos revere protean lords. While many assume worshippers of psychopomp ushers to be morbid, that is rarely the case. Psychopomp worship is also found among those who bring life into the world, such as midwives and farmers, and those who eschew idealism for more practical philosophies. Members Barzahk, Imot, Kerkamoth, Monad, Mother Vulture, Narakaas, Narriseminek, Otolmens, Saloc, Valmallos, Ydajisk",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Azathoth",
+   "Hastur",
+   "Nhimbaloth",
+   "Nyarlathotep (Haunter in the Dark)",
+   "Nyarlathotep (The Crawling Chaos)",
+   "Xhamen-Dor",
+   "Yog-Sothoth"
+  ],
+  "deity_markdown": "[Azathoth](/Deities.aspx?ID=161), [Hastur](/Deities.aspx?ID=162), [Nhimbaloth](/Deities.aspx?ID=163), [Nyarlathotep (Haunter in the Dark)](/Deities.aspx?ID=222), [Nyarlathotep (The Crawling Chaos)](/Deities.aspx?ID=164), [Xhamen-Dor](/Deities.aspx?ID=165), [Yog-Sothoth](/Deities.aspx?ID=166)",
+  "deity_category": "Outer Gods and Great Old Ones",
+  "exclude_from_search": false,
+  "id": "deity-category-13",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Outer Gods and Great Old Ones](/DeityCategories.aspx?ID=13)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 91 <sup>2.0</sup>\n\nThe Outer Gods, along with the Great Old Ones with whom the Outer Gods are sometimes confused, are ancient, inscrutable, cosmic beings. The Great Old Ones are titanic monstrosities imprisoned since time immemorial beneath the sea, deep within the world, or on other planets, but the Outer Gods are even less comprehensible. These unfathomable entities lurk within the Dark Tapestry—the vast void between the stars on the [Material Plane](/Planes.aspx?ID=1)—and dwarf other deities just as those deities dwarf ordinary mortals.\n\n To worship these gods is to acknowledge a cold truth: the universe has no meaning. All the things mortal civilizations hold dear—virtues, deities, great works— are things those mortals have invented to distract them from their own insignificance. History is a comforting lie told because mortals are afraid of the dark. The universe is immeasurably vast, beyond understanding, and cares nothing for life. Ultimately, every creature is alone, unmourned, and unloved. And because life has no meaning or purpose, self-indulgence and nihilism are the only rational responses.\r\n\r\n**Members** [Azathoth](/Deities.aspx?ID=161), [Hastur](/Deities.aspx?ID=162), [Nhimbaloth](/Deities.aspx?ID=163), [Nyarlathotep (Haunter in the Dark)](/Deities.aspx?ID=222), [Nyarlathotep (The Crawling Chaos)](/Deities.aspx?ID=164), [Xhamen-Dor](/Deities.aspx?ID=165), [Yog-Sothoth](/Deities.aspx?ID=166)",
+  "name": "Outer Gods and Great Old Ones",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 91",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 91 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 91"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 91 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Outer Gods and Great Old Ones Source Gods &amp; Magic pg. 91 2.0 The Outer Gods, along with the Great Old Ones with whom the Outer Gods are sometimes confused, are ancient, inscrutable, cosmic beings. The Great Old Ones are titanic monstrosities imprisoned since time immemorial beneath the sea, deep within the world, or on other planets, but the Outer Gods are even less comprehensible. These unfathomable entities lurk within the Dark Tapestry—the vast void between the stars on the Material Plane—and dwarf other deities just as those deities dwarf ordinary mortals. To worship these gods is to acknowledge a cold truth: the universe has no meaning. All the things mortal civilizations hold dear—virtues, deities, great works— are things those mortals have invented to distract them from their own insignificance. History is a comforting lie told because mortals are afraid of the dark. The universe is immeasurably vast, beyond understanding, and cares nothing for life. Ultimately, every creature is alone, unmourned, and unloved. And because life has no meaning or purpose, self-indulgence and nihilism are the only rational responses. Members Azathoth, Hastur, Nhimbaloth, Nyarlathotep (Haunter in the Dark), Nyarlathotep (The Crawling Chaos), Xhamen-Dor, Yog-Sothoth",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Ardad Lili",
+   "Doloras",
+   "Eiseth",
+   "Mahathallah"
+  ],
+  "deity_markdown": "[Ardad Lili](/Deities.aspx?ID=167), [Doloras](/Deities.aspx?ID=168), [Eiseth](/Deities.aspx?ID=169), [Mahathallah](/Deities.aspx?ID=170)",
+  "deity_category": "Queens of the Night",
+  "exclude_from_search": false,
+  "id": "deity-category-14",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Queens of the Night](/DeityCategories.aspx?ID=14)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 76 <sup>2.0</sup>\n\nThe Queens of the Night have won their own measure of power in [Hell](/Planes.aspx?ID=18).\r\n\r\n**Members** [Ardad Lili](/Deities.aspx?ID=167), [Doloras](/Deities.aspx?ID=168), [Eiseth](/Deities.aspx?ID=169), [Mahathallah](/Deities.aspx?ID=170)",
+  "name": "Queens of the Night",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 76",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 76 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 76"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 76 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Queens of the Night Source Gods &amp; Magic pg. 76 2.0 The Queens of the Night have won their own measure of power in Hell. Members Ardad Lili, Doloras, Eiseth, Mahathallah",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Alglenweis",
+   "Stag Mother of the Forest of Stones",
+   "Sturovenen"
+  ],
+  "deity_markdown": "[Alglenweis](/Deities.aspx?ID=171), [Stag Mother of the Forest of Stones](/Deities.aspx?ID=172), [Sturovenen](/Deities.aspx?ID=173)",
+  "deity_category": "Sarkorian Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-15",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Sarkorian Gods](/DeityCategories.aspx?ID=15)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\n\n**Members** [Alglenweis](/Deities.aspx?ID=171), [Stag Mother of the Forest of Stones](/Deities.aspx?ID=172), [Sturovenen](/Deities.aspx?ID=173)",
+  "name": "Sarkorian Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 133",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 133"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Sarkorian Gods Source Gods &amp; Magic pg. 133 2.0 Members Alglenweis, Stag Mother of the Forest of Stones, Sturovenen",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Baekho",
+   "Daikitsu",
+   "Daikitsu",
+   "Fumeiyoshi",
+   "Fumeiyoshi",
+   "General Susumu",
+   "General Susumu",
+   "Hei Feng",
+   "Hei Feng",
+   "Jin Li",
+   "Jin Li",
+   "Kofusachi",
+   "Kofusachi",
+   "Lady Jingxi",
+   "Lady Jingxi",
+   "Lady Nanbyo",
+   "Lady Nanbyo",
+   "Lao Shu Po",
+   "Lao Shu Po",
+   "Mugura and Nrithu",
+   "Nalinivati",
+   "Nalinivati",
+   "Phi Deva",
+   "Qi Zhong",
+   "Qi Zhong",
+   "Shizuru",
+   "Shizuru",
+   "Srikalis, Sritaming, and Sribaril",
+   "Sun Wukong",
+   "Sun Wukong",
+   "The Lady of the North Star",
+   "Tsukiyo",
+   "Tsukiyo",
+   "Yaezhing",
+   "Yaezhing",
+   "Yamatsumi",
+   "Yamatsumi"
+  ],
+  "deity_markdown": "[Baekho](/Deities.aspx?ID=299), [Daikitsu](/Deities.aspx?ID=174), [Daikitsu](/Deities.aspx?ID=304), [Fumeiyoshi](/Deities.aspx?ID=175), [Fumeiyoshi](/Deities.aspx?ID=305), [General Susumu](/Deities.aspx?ID=176), [General Susumu](/Deities.aspx?ID=306), [Hei Feng](/Deities.aspx?ID=40), [Hei Feng](/Deities.aspx?ID=307), [Jin Li](/Deities.aspx?ID=264), [Jin Li](/Deities.aspx?ID=308), [Kofusachi](/Deities.aspx?ID=177), [Kofusachi](/Deities.aspx?ID=309), [Lady Jingxi](/Deities.aspx?ID=178), [Lady Jingxi](/Deities.aspx?ID=310), [Lady Nanbyo](/Deities.aspx?ID=179), [Lady Nanbyo](/Deities.aspx?ID=311), [Lao Shu Po](/Deities.aspx?ID=180), [Lao Shu Po](/Deities.aspx?ID=312), [Mugura and Nrithu](/Deities.aspx?ID=300), [Nalinivati](/Deities.aspx?ID=181), [Nalinivati](/Deities.aspx?ID=313), [Phi Deva](/Deities.aspx?ID=301), [Qi Zhong](/Deities.aspx?ID=182), [Qi Zhong](/Deities.aspx?ID=314), [Shizuru](/Deities.aspx?ID=47), [Shizuru](/Deities.aspx?ID=315), [Srikalis, Sritaming, and Sribaril](/Deities.aspx?ID=302), [Sun Wukong](/Deities.aspx?ID=183), [Sun Wukong](/Deities.aspx?ID=316), [The Lady of the North Star](/Deities.aspx?ID=303), [Tsukiyo](/Deities.aspx?ID=48), [Tsukiyo](/Deities.aspx?ID=317), [Yaezhing](/Deities.aspx?ID=184), [Yaezhing](/Deities.aspx?ID=318), [Yamatsumi](/Deities.aspx?ID=185), [Yamatsumi](/Deities.aspx?ID=319)",
+  "deity_category": "Tian Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-16",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Tian Gods](/DeityCategories.aspx?ID=16)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\n\n**Members** [Baekho](/Deities.aspx?ID=299), [Daikitsu](/Deities.aspx?ID=174), [Daikitsu](/Deities.aspx?ID=304), [Fumeiyoshi](/Deities.aspx?ID=175), [Fumeiyoshi](/Deities.aspx?ID=305), [General Susumu](/Deities.aspx?ID=176), [General Susumu](/Deities.aspx?ID=306), [Hei Feng](/Deities.aspx?ID=40), [Hei Feng](/Deities.aspx?ID=307), [Jin Li](/Deities.aspx?ID=264), [Jin Li](/Deities.aspx?ID=308), [Kofusachi](/Deities.aspx?ID=177), [Kofusachi](/Deities.aspx?ID=309), [Lady Jingxi](/Deities.aspx?ID=178), [Lady Jingxi](/Deities.aspx?ID=310), [Lady Nanbyo](/Deities.aspx?ID=179), [Lady Nanbyo](/Deities.aspx?ID=311), [Lao Shu Po](/Deities.aspx?ID=180), [Lao Shu Po](/Deities.aspx?ID=312), [Mugura and Nrithu](/Deities.aspx?ID=300), [Nalinivati](/Deities.aspx?ID=181), [Nalinivati](/Deities.aspx?ID=313), [Phi Deva](/Deities.aspx?ID=301), [Qi Zhong](/Deities.aspx?ID=182), [Qi Zhong](/Deities.aspx?ID=314), [Shizuru](/Deities.aspx?ID=47), [Shizuru](/Deities.aspx?ID=315), [Srikalis, Sritaming, and Sribaril](/Deities.aspx?ID=302), [Sun Wukong](/Deities.aspx?ID=183), [Sun Wukong](/Deities.aspx?ID=316), [The Lady of the North Star](/Deities.aspx?ID=303), [Tsukiyo](/Deities.aspx?ID=48), [Tsukiyo](/Deities.aspx?ID=317), [Yaezhing](/Deities.aspx?ID=184), [Yaezhing](/Deities.aspx?ID=318), [Yamatsumi](/Deities.aspx?ID=185), [Yamatsumi](/Deities.aspx?ID=319)",
+  "name": "Tian Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 133",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 133"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Tian Gods Source Gods &amp; Magic pg. 133 2.0 Members Baekho, Daikitsu, Daikitsu, Fumeiyoshi, Fumeiyoshi, General Susumu, General Susumu, Hei Feng, Hei Feng, Jin Li, Jin Li, Kofusachi, Kofusachi, Lady Jingxi, Lady Jingxi, Lady Nanbyo, Lady Nanbyo, Lao Shu Po, Lao Shu Po, Mugura and Nrithu, Nalinivati, Nalinivati, Phi Deva, Qi Zhong, Qi Zhong, Shizuru, Shizuru, Srikalis, Sritaming, and Sribaril, Sun Wukong, Sun Wukong, The Lady of the North Star, Tsukiyo, Tsukiyo, Yaezhing, Yaezhing, Yamatsumi, Yamatsumi",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Arundhat",
+   "Ashukharma",
+   "Chamidu",
+   "Dhalavei",
+   "Diomazul",
+   "Gruhastha",
+   "Lahkgya",
+   "Likha",
+   "Matravash",
+   "Ragdya",
+   "Raumya",
+   "Suyuddha"
+  ],
+  "deity_markdown": "[Arundhat](/Deities.aspx?ID=186), [Ashukharma](/Deities.aspx?ID=187), [Chamidu](/Deities.aspx?ID=188), [Dhalavei](/Deities.aspx?ID=189), [Diomazul](/Deities.aspx?ID=190), [Gruhastha](/Deities.aspx?ID=39), [Lahkgya](/Deities.aspx?ID=191), [Likha](/Deities.aspx?ID=192), [Matravash](/Deities.aspx?ID=193), [Ragdya](/Deities.aspx?ID=194), [Raumya](/Deities.aspx?ID=195), [Suyuddha](/Deities.aspx?ID=245)",
+  "deity_category": "Vudrani Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-17",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Vudrani Gods](/DeityCategories.aspx?ID=17)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\n\n**Members** [Arundhat](/Deities.aspx?ID=186), [Ashukharma](/Deities.aspx?ID=187), [Chamidu](/Deities.aspx?ID=188), [Dhalavei](/Deities.aspx?ID=189), [Diomazul](/Deities.aspx?ID=190), [Gruhastha](/Deities.aspx?ID=39), [Lahkgya](/Deities.aspx?ID=191), [Likha](/Deities.aspx?ID=192), [Matravash](/Deities.aspx?ID=193), [Ragdya](/Deities.aspx?ID=194), [Raumya](/Deities.aspx?ID=195), [Suyuddha](/Deities.aspx?ID=245)",
+  "name": "Vudrani Gods",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 133",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 133"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 133 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Vudrani Gods Source Gods &amp; Magic pg. 133 2.0 Members Arundhat, Ashukharma, Chamidu, Dhalavei, Diomazul, Gruhastha, Lahkgya, Likha, Matravash, Ragdya, Raumya, Suyuddha",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Cosmic Caravan",
+   "Demon Bringers",
+   "Dwarven Pantheon",
+   "Elven Pantheon",
+   "Gravelady's Guard",
+   "Hearth and Harvest",
+   "Keepers of the Hearth",
+   "Pillars of Knowledge",
+   "Seafarer's Hope",
+   "Sky Keepers",
+   "Sorrow's Sword",
+   "The Deliberate Journey",
+   "The Divine Dare",
+   "The Endless Road",
+   "The Enlightened Scholar's Path",
+   "The Freeing Flame",
+   "The Godclaw",
+   "The Laborer's Bastion",
+   "The Last Breath",
+   "The Offering Plate",
+   "The Path of the Heavens",
+   "The Perplexing Jest",
+   "The Prismatic Ray",
+   "The Resplendent Court",
+   "Touch of the Sun",
+   "Urban Prosperity",
+   "Wards of the Pharaoh"
+  ],
+  "deity_markdown": "[Cosmic Caravan](/Deities.aspx?ID=219), [Demon Bringers](/Deities.aspx?ID=230), [Dwarven Pantheon](/Deities.aspx?ID=196), [Elven Pantheon](/Deities.aspx?ID=197), [Gravelady's Guard](/Deities.aspx?ID=247), [Hearth and Harvest](/Deities.aspx?ID=252), [Keepers of the Hearth](/Deities.aspx?ID=248), [Pillars of Knowledge](/Deities.aspx?ID=209), [Seafarer's Hope](/Deities.aspx?ID=255), [Sky Keepers](/Deities.aspx?ID=232), [Sorrow's Sword](/Deities.aspx?ID=249), [The Deliberate Journey](/Deities.aspx?ID=250), [The Divine Dare](/Deities.aspx?ID=269), [The Endless Road](/Deities.aspx?ID=246), [The Enlightened Scholar's Path](/Deities.aspx?ID=251), [The Freeing Flame](/Deities.aspx?ID=231), [The Godclaw](/Deities.aspx?ID=198), [The Laborer's Bastion](/Deities.aspx?ID=253), [The Last Breath](/Deities.aspx?ID=270), [The Offering Plate](/Deities.aspx?ID=254), [The Path of the Heavens](/Deities.aspx?ID=213), [The Perplexing Jest](/Deities.aspx?ID=271), [The Prismatic Ray](/Deities.aspx?ID=207), [The Resplendent Court](/Deities.aspx?ID=272), [Touch of the Sun](/Deities.aspx?ID=233), [Urban Prosperity](/Deities.aspx?ID=256), [Wards of the Pharaoh](/Deities.aspx?ID=208)",
+  "deity_category": "Pantheons",
+  "exclude_from_search": false,
+  "id": "deity-category-18",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Pantheons](/DeityCategories.aspx?ID=18)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>\n\nA pantheon is a group of related gods worshipped either individually or together. Most pantheons are associated with a specific ancestry or geopolitical region, but rarely, a pantheon consists of deities with overlapping areas of concern. Followers work to advance the shared interests of their pantheon, directing prayers to whichever god presides over their current activity or circumstance. At the GM's discretion, [champions](/Classes.aspx?ID=4) and [clerics](/Classes.aspx?ID=5) can dedicate themselves to a pantheon. In such cases, the characters still worship a specific patron deity among those in the pantheon, but also follow the edicts and anathema of the pantheon as a whole. A character who worships a pantheon this way can gain the domains, alternate domains, and spells from the pantheon instead of those from their patron deity. They must uphold the ideals of both their patron deity and the pantheon, though the patron deity's edicts and anathema take precedence. For example, a worshipper of [Iomedae](/Deities.aspx?ID=9) could worship the Godclaw, but they wouldn't take the [tyranny](/Domains.aspx?ID=33) domain, as it would be in conflict with Iomedae's edicts. In rare cases, a character can worship a pantheon without following a patron deity. Such cases are unique and subject to GM approval.\r\n\r\n**Members** [Cosmic Caravan](/Deities.aspx?ID=219), [Demon Bringers](/Deities.aspx?ID=230), [Dwarven Pantheon](/Deities.aspx?ID=196), [Elven Pantheon](/Deities.aspx?ID=197), [Gravelady's Guard](/Deities.aspx?ID=247), [Hearth and Harvest](/Deities.aspx?ID=252), [Keepers of the Hearth](/Deities.aspx?ID=248), [Pillars of Knowledge](/Deities.aspx?ID=209), [Seafarer's Hope](/Deities.aspx?ID=255), [Sky Keepers](/Deities.aspx?ID=232), [Sorrow's Sword](/Deities.aspx?ID=249), [The Deliberate Journey](/Deities.aspx?ID=250), [The Divine Dare](/Deities.aspx?ID=269), [The Endless Road](/Deities.aspx?ID=246), [The Enlightened Scholar's Path](/Deities.aspx?ID=251), [The Freeing Flame](/Deities.aspx?ID=231), [The Godclaw](/Deities.aspx?ID=198), [The Laborer's Bastion](/Deities.aspx?ID=253), [The Last Breath](/Deities.aspx?ID=270), [The Offering Plate](/Deities.aspx?ID=254), [The Path of the Heavens](/Deities.aspx?ID=213), [The Perplexing Jest](/Deities.aspx?ID=271), [The Prismatic Ray](/Deities.aspx?ID=207), [The Resplendent Court](/Deities.aspx?ID=272), [Touch of the Sun](/Deities.aspx?ID=233), [Urban Prosperity](/Deities.aspx?ID=256), [Wards of the Pharaoh](/Deities.aspx?ID=208)",
+  "name": "Pantheons",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 93",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 93"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 93 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Pantheons Source Gods &amp; Magic pg. 93 2.0 A pantheon is a group of related gods worshipped either individually or together. Most pantheons are associated with a specific ancestry or geopolitical region, but rarely, a pantheon consists of deities with overlapping areas of concern. Followers work to advance the shared interests of their pantheon, directing prayers to whichever god presides over their current activity or circumstance. At the GM's discretion, champions and clerics can dedicate themselves to a pantheon. In such cases, the characters still worship a specific patron deity among those in the pantheon, but also follow the edicts and anathema of the pantheon as a whole. A character who worships a pantheon this way can gain the domains, alternate domains, and spells from the pantheon instead of those from their patron deity. They must uphold the ideals of both their patron deity and the pantheon, though the patron deity's edicts and anathema take precedence. For example, a worshipper of Iomedae could worship the Godclaw, but they wouldn't take the tyranny domain, as it would be in conflict with Iomedae's edicts. In rare cases, a character can worship a pantheon without following a patron deity. Such cases are unique and subject to GM approval. Members Cosmic Caravan, Demon Bringers, Dwarven Pantheon, Elven Pantheon, Gravelady's Guard, Hearth and Harvest, Keepers of the Hearth, Pillars of Knowledge, Seafarer's Hope, Sky Keepers, Sorrow's Sword, The Deliberate Journey, The Divine Dare, The Endless Road, The Enlightened Scholar's Path, The Freeing Flame, The Godclaw, The Laborer's Bastion, The Last Breath, The Offering Plate, The Path of the Heavens, The Perplexing Jest, The Prismatic Ray, The Resplendent Court, Touch of the Sun, Urban Prosperity, Wards of the Pharaoh",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Chohar",
+   "Dajermube",
+   "Luhar",
+   "Tlehar"
+  ],
+  "deity_markdown": "[Chohar](/Deities.aspx?ID=215), [Dajermube](/Deities.aspx?ID=235), [Luhar](/Deities.aspx?ID=216), [Tlehar](/Deities.aspx?ID=217)",
+  "deity_category": "Old Sun Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-19",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Old Sun Gods](/DeityCategories.aspx?ID=19)</title>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 100\n\nAlthough once mostly forgotten, the Old Sun Gods have slowly been brought back to the people of Mzali thanks to Sihar and the [Bright Lions](/Archetypes.aspx?ID=129).\r\n\r\n**Members** [Chohar](/Deities.aspx?ID=215), [Dajermube](/Deities.aspx?ID=235), [Luhar](/Deities.aspx?ID=216), [Tlehar](/Deities.aspx?ID=217)",
+  "name": "Old Sun Gods",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 100",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 100\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 100"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 100",
+  "speed": {},
+  "text": " Old Sun Gods Source Legends pg. 100 Although once mostly forgotten, the Old Sun Gods have slowly been brought back to the people of Mzali thanks to Sihar and the Bright Lions. Members Chohar, Dajermube, Luhar, Tlehar",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Adanye",
+   "Angazhan",
+   "Balumbdar",
+   "Grandmother Spider",
+   "Kalekot",
+   "Lubaiko",
+   "Mazludeh",
+   "Uvuko",
+   "Walkena"
+  ],
+  "deity_markdown": "[Adanye](/Deities.aspx?ID=223), [Angazhan](/Deities.aspx?ID=72), [Balumbdar](/Deities.aspx?ID=224), [Grandmother Spider](/Deities.aspx?ID=37), [Kalekot](/Deities.aspx?ID=225), [Lubaiko](/Deities.aspx?ID=226), [Mazludeh](/Deities.aspx?ID=227), [Uvuko](/Deities.aspx?ID=228), [Walkena](/Deities.aspx?ID=159)",
+  "deity_category": "Mwangi Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-20",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Mwangi Gods](/DeityCategories.aspx?ID=20)</title>\r\n\r\n**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 131 <sup>2.0</sup>\n\nNatural barriers and vast distances have shaped the Expanse's religions as much as its people, creating a thousand variants comprised of familiar deities and regional faiths. For all the diversity in worship and artistic depiction, common themes unite the Mwangi approach to worship.\n\nAt the root of their identities, the gods are symbolic expressions of the Mwangi Expanse's most enduring aspirations and anxieties. Angazhan represents power, dominance, and destruction, just as Grandmother Spider forms the foundation for oral traditions. Walkena's undead existence drives home the narrative of outside invaders, feeding the fears of foreign exploitation. Here the gods are not so much the source of animal strength, cleverness, or hate so much as a means of personifying and translating those concepts, and anyone who would understand the Expanse's people would do well to study their faiths.\r\n\r\n**Members** [Adanye](/Deities.aspx?ID=223), [Angazhan](/Deities.aspx?ID=72), [Balumbdar](/Deities.aspx?ID=224), [Grandmother Spider](/Deities.aspx?ID=37), [Kalekot](/Deities.aspx?ID=225), [Lubaiko](/Deities.aspx?ID=226), [Mazludeh](/Deities.aspx?ID=227), [Uvuko](/Deities.aspx?ID=228), [Walkena](/Deities.aspx?ID=159)",
+  "name": "Mwangi Gods",
+  "primary_source": "The Mwangi Expanse",
+  "primary_source_raw": "The Mwangi Expanse pg. 131",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-07-07",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 131 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "The Mwangi Expanse"
+  ],
+  "source_raw": [
+   "The Mwangi Expanse pg. 131"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 131 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Mwangi Gods Source The Mwangi Expanse pg. 131 2.0 Natural barriers and vast distances have shaped the Expanse's religions as much as its people, creating a thousand variants comprised of familiar deities and regional faiths. For all the diversity in worship and artistic depiction, common themes unite the Mwangi approach to worship. At the root of their identities, the gods are symbolic expressions of the Mwangi Expanse's most enduring aspirations and anxieties. Angazhan represents power, dominance, and destruction, just as Grandmother Spider forms the foundation for oral traditions. Walkena's undead existence drives home the narrative of outside invaders, feeding the fears of foreign exploitation. Here the gods are not so much the source of animal strength, cleverness, or hate so much as a means of personifying and translating those concepts, and anyone who would understand the Expanse's people would do well to study their faiths. Members Adanye, Angazhan, Balumbdar, Grandmother Spider, Kalekot, Lubaiko, Mazludeh, Uvuko, Walkena",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "deity-category",
+  "deity": [
+   "Bergelmir",
+   "Fandarra",
+   "Immonhiel",
+   "Rowdrosh",
+   "Skode"
+  ],
+  "deity_markdown": "[Bergelmir](/Deities.aspx?ID=237), [Fandarra](/Deities.aspx?ID=236), [Immonhiel](/Deities.aspx?ID=238), [Rowdrosh](/Deities.aspx?ID=240), [Skode](/Deities.aspx?ID=239)",
+  "deity_category": "Mammoth Lord Gods",
+  "exclude_from_search": false,
+  "id": "deity-category-22",
+  "markdown": "<title level=\"1\" right=\"Deity Category \" pfs=\"\">[Mammoth Lord Gods](/DeityCategories.aspx?ID=22)</title>\r\n\r\n**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 61\n\nWhatever their role in a following’s belief system, the deities worshipped throughout the Realm of the Mammoth Lords differ than those from southern Avistan and Garund. Numerous deities popular in this region are less well-known, perhaps even unheard of, throughout much of Golarion. Others, such as Sarenrae and Erastil, are popular throughout Golarion but have different depictions within the Realm of the Mammoth Lords, with different appearances, appellations, and even roles than their southern counterparts. Fandarra, for example, is worshipped almost exclusively by giants throughout much of Golarion, but she’s one of the most commonly worshipped deities within the Realm of the Mammoth Lords. Similarly, Sarenrae is known as Sister Cinder, and her faith focuses less on her role as the sun goddess and more on her role as goddess of the hearth—the center of life among many nomadic communities.\r\n\r\n**Members** [Bergelmir](/Deities.aspx?ID=237), [Fandarra](/Deities.aspx?ID=236), [Immonhiel](/Deities.aspx?ID=238), [Rowdrosh](/Deities.aspx?ID=240), [Skode](/Deities.aspx?ID=239)",
+  "name": "Mammoth Lord Gods",
+  "primary_source": "Pathfinder #176: Lost Mammoth Valley",
+  "primary_source_raw": "Pathfinder #176: Lost Mammoth Valley pg. 61",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Quest for the Frozen Flame",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-02-23",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 61\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #176: Lost Mammoth Valley"
+  ],
+  "source_raw": [
+   "Pathfinder #176: Lost Mammoth Valley pg. 61"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Quest for the Frozen Flame"
+  ],
+  "source_markdown": "[Pathfinder #176: Lost Mammoth Valley](/Sources.aspx?ID=113) pg. 61",
+  "speed": {},
+  "text": " Mammoth Lord Gods Source Pathfinder #176: Lost Mammoth Valley pg. 61 Whatever their role in a following’s belief system, the deities worshipped throughout the Realm of the Mammoth Lords differ than those from southern Avistan and Garund. Numerous deities popular in this region are less well-known, perhaps even unheard of, throughout much of Golarion. Others, such as Sarenrae and Erastil, are popular throughout Golarion but have different depictions within the Realm of the Mammoth Lords, with different appearances, appellations, and even roles than their southern counterparts. Fandarra, for example, is worshipped almost exclusively by giants throughout much of Golarion, but she’s one of the most commonly worshipped deities within the Realm of the Mammoth Lords. Similarly, Sarenrae is known as Sister Cinder, and her faith focuses less on her role as the sun goddess and more on her role as goddess of the hearth—the center of life among many nomadic communities. Members Bergelmir, Fandarra, Immonhiel, Rowdrosh, Skode",
+  "type": "Deity Category",
+  "url": "/DeityCategories.aspx?ID=22",
+  "weakness": {}
+ }
+]

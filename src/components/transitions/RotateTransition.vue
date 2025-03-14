@@ -1,8 +1,6 @@
 <script setup lang="ts">
-import { toRef, } from 'vue'
-const props = withDefaults(defineProps<{ angle?: number | string, trigger: boolean }>(), {
-  angle: '90deg'
-})
+import { toRef, } from "vue"
+const props = withDefaults(defineProps<{ angle?: number | string, trigger: boolean }>(), {angle: "90deg"})
 const angle = toRef(props.angle)
 </script>
 <template>

@@ -3,7 +3,7 @@
 <template>
   <footer>
     <p>
-      Made by Alexander "ARgits" Kudryavtsev. Использовался перевод с сайта <a
+      Использовался перевод с сайта <a
         href="https://pf2e-ru-translation.readthedocs.io/ru/latest/index.html"
       >Yuri
         "Balt" Voronin. </a>. В случае обнаружения ошибок можно создать issue на <a
@@ -15,8 +15,8 @@
 </template>
 <style scoped>
 footer {
-  flex-basis: 5%;
-  width: calc(100% - 2rem);
+  /* flex-basis: 5%;
+  width: calc(100% - 2rem); */
   display: flex;
   justify-content: center;
   align-items: end;

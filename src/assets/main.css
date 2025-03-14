@@ -8,10 +8,9 @@ body {
 #app {
   display: flex;
   flex-direction: column;
-  /* gap: 10px; */
-  font-weight: normal;
   height: 100%;
   width: 100%;
+  gap: var(--gap);
 }
 
 button {
@@ -19,19 +18,24 @@ button {
   background: none;
   border-radius: var(--border-radius);
   padding: 0;
+  color: rgb(var(--text-primary));
+  min-width: 24px;
+  min-height: 24px;
 
+  &.no-border {
+    border: 0;
+  }
+
+  .svg-inline--fa {
+    min-height: 100%;
+    vertical-align: unset;
+  }
 }
 
 :not(.loading)>.svg-inline--fa {
-  /* border: .25rem solid transparent; */
   --fa-animation-iteration-count: 1;
-  transition: all .5s ease;
+  transition: color .5s ease;
   aspect-ratio: 1/1;
-
-  /* & g {
-    --fa-animation-iteration-count: 1;
-    transition: all .5s ease;
-  } */
 }
 
 hr {
@@ -40,7 +44,7 @@ hr {
 
 a {
   display: inline-block;
-  color: black;
+  color: var(--text-primary);
   text-decoration: none;
   transition: top .15s ease;
   top: 0;
@@ -61,7 +65,7 @@ button.icon {
 h3.title {
   background-color: green;
   height: 1.5em;
-  color: black;
+  color: var(--text-primary);
   border-radius: var(--border-radius);
 }
 
@@ -72,8 +76,43 @@ h3 {
   margin-block: 0;
 }
 
-/* @media (max-aspect-ratio: 1/1) {
-  button {
-    font-size: 24px;
+.select {}
+
+.input {
+  color: var(--text-primary);
+}
+
+.link-icon {
+  width: 24px;
+  height: 2rem;
+  aspect-ratio: 1/1;
+
+  svg {
+    width: 100%;
+    height: 100%;
   }
-} */
+}
+
+.logo {
+  position: relative;
+  height: 100%;
+
+  img {
+    position: absolute;
+    height: 100%;
+    border-radius: var(--border-radius);
+  }
+}
+
+aside {
+  /* width: 40%; */
+  /* float: right; */
+  padding-left: var(--main-padding);
+  margin-left: var(--main-padding);
+  box-shadow: inset 5px 0 5px -5px rgba(var(--text-secondary));
+
+  >* {
+    color: rgb(var(--text-primary));
+  }
+
+}

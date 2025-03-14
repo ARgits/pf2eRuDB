@@ -1,0 +1,2246 @@
+[
+ {
+  "category": "class-sample",
+  "class": "Alchemist",
+  "exclude_from_search": false,
+  "id": "class-sample-1",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Chirurgeon](/ClassSamples.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 74 <sup>4.0</sup>\r\n\r\n_You use alchemy for medicinal purposes, healing and protecting others across the lands._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence and Wisdom. Constitution increases your survivability, and Dexterity helps you hit with ranged attacks when violence is necessary.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Crafting](/Skills.aspx?ID=4), [Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Nature](/Skills.aspx?ID=10), [Occultism](/Skills.aspx?ID=11), [Religion](/Skills.aspx?ID=13), [Society](/Skills.aspx?ID=14), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Research Field</title>\r\n[Chirurgeon](/ResearchFields.aspx?ID=2)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Alchemical Savant](/Feats.aspx?ID=93)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Poison Resistance](/Feats.aspx?ID=96) (2nd), [Efficient Alchemy (Alchemist)](/Feats.aspx?ID=100) (4th), [Combine Elixirs](/Feats.aspx?ID=102) (6th), [Merciful Elixir](/Feats.aspx?ID=111) (10th), [Greater Merciful Elixir](/Feats.aspx?ID=117) (14th), [Miracle Worker](/Feats.aspx?ID=125) (18th), [Craft Philosopher's Stone](/Feats.aspx?ID=127) (20th)",
+  "name": "Chirurgeon",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 74 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 74 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You use alchemy for medicinal purposes, healing and protecting others across the lands.",
+  "summary_markdown": "You use alchemy for medicinal purposes, healing and protecting others across the lands.",
+  "text": " Chirurgeon Source Core Rulebook pg. 74 4.0 You use alchemy for medicinal purposes, healing and protecting others across the lands. Attributes Prioritize Intelligence and Wisdom. Constitution increases your survivability, and Dexterity helps you hit with ranged attacks when violence is necessary. Skills Crafting, Diplomacy, Medicine, Nature, Occultism, Religion, Society, Survival Research Field Chirurgeon Starting Feat Alchemical Savant Higher-Level Feats Poison Resistance (2nd), Efficient Alchemy (Alchemist) (4th), Combine Elixirs (6th), Merciful Elixir (10th), Greater Merciful Elixir (14th), Miracle Worker (18th), Craft Philosopher's Stone (20th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Alchemist",
+  "exclude_from_search": false,
+  "id": "class-sample-2",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Bomber](/ClassSamples.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 78 <sup>4.0</sup>\r\n\r\n_You can mix an explosive out of just about anything!_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence and Dexterity. Constitution helps you survive explosions gone wrong, and Wisdom prevents you from bombing the wrong target.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4), [Deception](/Skills.aspx?ID=5), [Intimidation](/Skills.aspx?ID=7), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Research Field</title>\r\n[Bomber](/ResearchFields.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Quick Bomber](/Feats.aspx?ID=95)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Smoke Bomb](/Feats.aspx?ID=98) (2nd), [Calculated Splash](/Feats.aspx?ID=99) (4th), [Directional Bombs](/Feats.aspx?ID=104) (6th), [Sticky Bomb](/Feats.aspx?ID=107) (8th), [Expanded Splash](/Feats.aspx?ID=109) (10th), [Mega Bomb](/Feats.aspx?ID=128) (20th)",
+  "name": "Bomber",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 78",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 78 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 78"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 78 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You can mix an explosive out of just about anything!",
+  "summary_markdown": "You can mix an explosive out of just about anything!",
+  "text": " Bomber Source Core Rulebook pg. 78 4.0 You can mix an explosive out of just about anything! Attributes Prioritize Intelligence and Dexterity. Constitution helps you survive explosions gone wrong, and Wisdom prevents you from bombing the wrong target. Skills Acrobatics, Arcana, Crafting, Deception, Intimidation, Society, Stealth, Thievery Research Field Bomber Starting Feat Quick Bomber Higher-Level Feats Smoke Bomb (2nd), Calculated Splash (4th), Directional Bombs (6th), Sticky Bomb (8th), Expanded Splash (10th), Mega Bomb (20th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Alchemist",
+  "exclude_from_search": false,
+  "id": "class-sample-3",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Mutagenist](/ClassSamples.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 80 <sup>4.0</sup>\r\n\r\n_You transform yourself and others with mutagens._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence and Strength. Constitution helps you survive transformations and combat, and Wisdom helps keep your mind intact despite the warping.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Intimidation](/Skills.aspx?ID=7), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Research Field</title>\r\n[Mutagenist](/ResearchFields.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Alchemical Familiar](/Feats.aspx?ID=92)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Revivifying Mutagen](/Feats.aspx?ID=97) (2nd), [Feral Mutagen](/Feats.aspx?ID=105) (8th), [Invincible Mutagen](/Feats.aspx?ID=114) (12th), [Persistent Mutagen](/Feats.aspx?ID=122) (16th), [Perfect Mutagen](/Feats.aspx?ID=129) (20th)",
+  "name": "Mutagenist",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 80",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 80 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 80"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 80 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You transform yourself and others with mutagens.",
+  "summary_markdown": "You transform yourself and others with mutagens.",
+  "text": " Mutagenist Source Core Rulebook pg. 80 4.0 You transform yourself and others with mutagens. Attributes Prioritize Intelligence and Strength. Constitution helps you survive transformations and combat, and Wisdom helps keep your mind intact despite the warping. Skills Arcana, Athletics, Crafting, Intimidation, Occultism, Society, Stealth, Survival Research Field Mutagenist Starting Feat Alchemical Familiar Higher-Level Feats Revivifying Mutagen (2nd), Feral Mutagen (8th), Invincible Mutagen (12th), Persistent Mutagen (16th), Perfect Mutagen (20th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Bard",
+  "exclude_from_search": false,
+  "id": "class-sample-4",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Dancer](/ClassSamples.aspx?ID=4)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 102 <sup>4.0</sup>\r\n\r\n_Through myriad styles of dance, you inspire your allies and channel otherworldly magic._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nMake Charisma highest, followed by Dexterity. Add to Constitution for more health and to Intelligence for skills.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Occultism](/Skills.aspx?ID=11), [Performance](/Skills.aspx?ID=12)\r\n\r\n<title level=\"2\">Muse</title>\r\n[Maestro](/Muses.aspx?ID=2)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Inspire Competence](/Feats.aspx?ID=185) (2nd), [Triple Time](/Feats.aspx?ID=190) (4th), [Allegro](/Feats.aspx?ID=203) (14th)",
+  "name": "Dancer",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 102",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 102 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 102"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 102 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Through myriad styles of dance, you inspire your allies and channel otherworldly magic.",
+  "summary_markdown": "Through myriad styles of dance, you inspire your allies and channel otherworldly magic.",
+  "text": " Dancer Source Core Rulebook pg. 102 4.0 Through myriad styles of dance, you inspire your allies and channel otherworldly magic. Attributes Make Charisma highest, followed by Dexterity. Add to Constitution for more health and to Intelligence for skills. Skills Acrobatics, Athletics, Diplomacy, Medicine, Occultism, Performance Muse Maestro Higher-Level Feats Inspire Competence (2nd), Triple Time (4th), Allegro (14th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Barbarian",
+  "exclude_from_search": false,
+  "id": "class-sample-5",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Animal Rager](/ClassSamples.aspx?ID=5)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 90 <sup>4.0</sup>\r\n\r\n_The animal within you breaks free, turning you into a feral creature of nature when you rage. You follow your instincts rather than reason, and you find yourself at home in the wilderness._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIncrease your Strength as high as you can, followed by your Constitution and Dexterity. A high Wisdom can improve your senses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Intimidation](/Skills.aspx?ID=7), [Nature](/Skills.aspx?ID=10), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Instinct</title>\r\n[Animal Instinct](/Instincts.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Raging Intimidation](/Feats.aspx?ID=132)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[No Escape](/Feats.aspx?ID=137) (2nd), [Animal Skin](/Feats.aspx?ID=144) (6th), [Animal Rage](/Feats.aspx?ID=151) (8th), [Terrifying Howl](/Feats.aspx?ID=161) (10th), [Predator's Pounce](/Feats.aspx?ID=164) (12th)",
+  "name": "Animal Rager",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 90",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 90 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 90"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 90 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The animal within you breaks free, turning you into a feral creature of nature when you rage. You follow your instincts rather than reason, and you …",
+  "summary_markdown": "The animal within you breaks free, turning you into a feral creature of nature when you rage. You follow your instincts rather than reason, and you …",
+  "text": " Animal Rager Source Core Rulebook pg. 90 4.0 The animal within you breaks free, turning you into a feral creature of nature when you rage. You follow your instincts rather than reason, and you find yourself at home in the wilderness. Attributes Increase your Strength as high as you can, followed by your Constitution and Dexterity. A high Wisdom can improve your senses. Skills Athletics, Intimidation, Nature, Survival Instinct Animal Instinct Starting Feat Raging Intimidation Higher-Level Feats No Escape (2nd), Animal Skin (6th), Animal Rage (8th), Terrifying Howl (10th), Predator's Pounce (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Barbarian",
+  "exclude_from_search": false,
+  "id": "class-sample-6",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Fury](/ClassSamples.aspx?ID=6)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup>\r\n\r\n_You keep things simple, because you need only one thing to drive you: your own inner rage._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize your Strength, then your Constitution and Dexterity. Wisdom can make you more perceptive.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Intimidation](/Skills.aspx?ID=7), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Instinct</title>\r\n[Fury Instinct](/Instincts.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Sudden Charge](/Feats.aspx?ID=134)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Furious Finish](/Feats.aspx?ID=136) (2nd), [Fast Movement](/Feats.aspx?ID=140) (4th), [Attack of Opportunity](/Feats.aspx?ID=145) (6th), [Whirlwind Strike](/Feats.aspx?ID=170) (14th)",
+  "name": "Fury",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 92",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 92"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 92 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You keep things simple, because you need only one thing to drive you: your own inner rage.",
+  "summary_markdown": "You keep things simple, because you need only one thing to drive you: your own inner rage.",
+  "text": " Fury Source Core Rulebook pg. 92 4.0 You keep things simple, because you need only one thing to drive you: your own inner rage. Attributes Prioritize your Strength, then your Constitution and Dexterity. Wisdom can make you more perceptive. Skills Acrobatics, Athletics, Intimidation, Stealth Instinct Fury Instinct Starting Feat Sudden Charge Higher-Level Feats Furious Finish (2nd), Fast Movement (4th), Attack of Opportunity (6th), Whirlwind Strike (14th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Champion",
+  "exclude_from_search": false,
+  "id": "class-sample-7",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Redeemer](/ClassSamples.aspx?ID=7)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup>\r\n\r\n_Your truth and compassion glow strong as the sun, bringing the evil into the light of your goddess, the Dawnflower._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nTake a high Strength for your combat abilities, and a good Charisma for your devotion spells.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Religion](/Skills.aspx?ID=13)\r\n\r\n<title level=\"2\">Deity and Cause</title>\r\n[Sarenrae](/Deities.aspx?ID=16),  &lt;%CLASS.CHAMPION.CAUSES%2%%&gt; \r\nredeemer &lt;%END>\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Deity's Domain (truth)](/Feats.aspx?ID=214)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Shining Oath](/Feats.aspx?ID=221) (2nd), [Mercy](/Feats.aspx?ID=225) (4th), [Litany Against Wrath](/Feats.aspx?ID=227) (6th), [Sense Evil](/Feats.aspx?ID=236) (8th), [Devoted Focus](/Feats.aspx?ID=237) (10th), [Lasting Doubt](/Feats.aspx?ID=247) (12th), [Ultimate Mercy](/Feats.aspx?ID=260) (18th)",
+  "name": "Redeemer",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 112",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 112"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 112 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your truth and compassion glow strong as the sun, bringing the evil into the light of your goddess, the Dawnflower.",
+  "summary_markdown": "Your truth and compassion glow strong as the sun, bringing the evil into the light of your goddess, the Dawnflower.",
+  "text": " Redeemer Source Core Rulebook pg. 112 4.0 Your truth and compassion glow strong as the sun, bringing the evil into the light of your goddess, the Dawnflower. Attributes Take a high Strength for your combat abilities, and a good Charisma for your devotion spells. Skills Athletics, Diplomacy, Medicine, Religion Deity and Cause Sarenrae, &lt;%CLASS.CHAMPION.CAUSES%2%%&gt; redeemer &lt;%END> Starting Feat Deity's Domain (truth) Higher-Level Feats Shining Oath (2nd), Mercy (4th), Litany Against Wrath (6th), Sense Evil (8th), Devoted Focus (10th), Lasting Doubt (12th), Ultimate Mercy (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Champion",
+  "exclude_from_search": false,
+  "id": "class-sample-8",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Liberator](/ClassSamples.aspx?ID=8)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup>\r\n\r\n_With the name of the Savored Sting on your lips, you free those held against their will and exact revenge upon their captors._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nFocus on Dexterity. Charisma helps your devotion spells and Deception, and good Wisdom and Constitution improve your defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Deception](/Skills.aspx?ID=5), [Religion](/Skills.aspx?ID=13), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Deity and Cause</title>\r\n[Calistria](/Deities.aspx?ID=3), [liberator](/Causes.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Unimpeded Step](/Feats.aspx?ID=216)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Divine Grace](/Feats.aspx?ID=218) (2nd), [Aura of Courage](/Feats.aspx?ID=223) (4th), [Attack of Opportunity](/Feats.aspx?ID=145) (6th), [Liberating Stride](/Feats.aspx?ID=248) (12th)",
+  "name": "Liberator",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 114",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 114"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 114 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "With the name of the Savored Sting on your lips, you free those held against their will and exact revenge upon their captors.",
+  "summary_markdown": "With the name of the Savored Sting on your lips, you free those held against their will and exact revenge upon their captors.",
+  "text": " Liberator Source Core Rulebook pg. 114 4.0 With the name of the Savored Sting on your lips, you free those held against their will and exact revenge upon their captors. Attributes Focus on Dexterity. Charisma helps your devotion spells and Deception, and good Wisdom and Constitution improve your defenses. Skills Deception, Religion, Society, Stealth Deity and Cause Calistria, liberator Starting Feat Unimpeded Step Higher-Level Feats Divine Grace (2nd), Aura of Courage (4th), Attack of Opportunity (6th), Liberating Stride (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Ranger",
+  "exclude_from_search": false,
+  "id": "class-sample-9",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Animal Ranger](/ClassSamples.aspx?ID=9)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 174 <sup>4.0</sup>\r\n\r\n_Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you want to deal more damage.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Medicine](/Skills.aspx?ID=9), [Nature](/Skills.aspx?ID=10), [Stealth](/Skills.aspx?ID=15), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Hunter's Edge</title>\r\n[Outwit](/HuntersEdge.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Animal Companion](/Feats.aspx?ID=311)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Companion's Cry](/Feats.aspx?ID=500) (4th), [Mature Animal Companion (Ranger)](/Feats.aspx?ID=508) (6th), [Incredible Companion (Ranger)](/Feats.aspx?ID=520) (10th), [Side by Side (Ranger)](/Feats.aspx?ID=529) (12th), [Specialized Companion (Ranger)](/Feats.aspx?ID=538) (16th), [Masterful Companion](/Feats.aspx?ID=543) (18th)",
+  "name": "Animal Ranger",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 174",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 174 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 174"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 174 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem.",
+  "summary_markdown": "Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem.",
+  "text": " Animal Ranger Source Core Rulebook pg. 174 4.0 Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem. Attributes Prioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you want to deal more damage. Skills Acrobatics, Athletics, Medicine, Nature, Stealth, Survival Hunter's Edge Outwit Starting Feat Animal Companion Higher-Level Feats Companion's Cry (4th), Mature Animal Companion (Ranger) (6th), Incredible Companion (Ranger) (10th), Side by Side (Ranger) (12th), Specialized Companion (Ranger) (16th), Masterful Companion (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-10",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Archer](/ClassSamples.aspx?ID=10)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 152 <sup>4.0</sup>\r\n\r\n_You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity. Constitution and Wisdom helps with survivability, and Strength adds damage with propulsive weapons.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Medicine](/Skills.aspx?ID=9), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\n\n<title level=\"2\">Starting Feat</title>\r\n[Point-Blank Shot](/Feats.aspx?ID=358)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Double Shot](/Feats.aspx?ID=370) (4th), [Triple Shot](/Feats.aspx?ID=387) (6th), [Debilitating Shot](/Feats.aspx?ID=399) (10th), [Multishot Stance](/Feats.aspx?ID=424) (16th), [Impossible Volley](/Feats.aspx?ID=426) (18th)",
+  "name": "Archer",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 152",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 152 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 152"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 152 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies",
+  "summary_markdown": "You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies",
+  "text": " Archer Source Core Rulebook pg. 152 4.0 You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies Attributes Prioritize Dexterity. Constitution and Wisdom helps with survivability, and Strength adds damage with propulsive weapons. Skills Acrobatics, Medicine, Stealth, Thievery Starting Feat Point-Blank Shot Higher-Level Feats Double Shot (4th), Triple Shot (6th), Debilitating Shot (10th), Multishot Stance (16th), Impossible Volley (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-11",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Bully](/ClassSamples.aspx?ID=11)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 148 <sup>4.0</sup>\r\n\r\n_Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in your way._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritizing Strength, Constitution, and Wisdom helps with survivability and increases your damage, and Dexterity allows extra maneuverability.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Intimidation](/Skills.aspx?ID=7), [Medicine](/Skills.aspx?ID=9)\n\n<title level=\"2\">Starting Feat</title>\r\n[Power Attack](/Feats.aspx?ID=359)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Knockdown](/Feats.aspx?ID=372) (4th), [Furious Focus](/Feats.aspx?ID=381) (6th), [Positioning Assault](/Feats.aspx?ID=393) (8th), [Brutal Finish](/Feats.aspx?ID=406) (12th), [Savage Critical](/Feats.aspx?ID=427) (18th)",
+  "name": "Bully",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 148",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 148 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 148"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 148 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in …",
+  "summary_markdown": "Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in …",
+  "text": " Bully Source Core Rulebook pg. 148 4.0 Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in your way. Attributes Prioritizing Strength, Constitution, and Wisdom helps with survivability and increases your damage, and Dexterity allows extra maneuverability. Skills Athletics, Crafting, Intimidation, Medicine Starting Feat Power Attack Higher-Level Feats Knockdown (4th), Furious Focus (6th), Positioning Assault (8th), Brutal Finish (12th), Savage Critical (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-12",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Duelist](/ClassSamples.aspx?ID=12)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 150 <sup>4.0</sup>\r\n\r\n_With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being ready for their clumsy attacks._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Strength. Dexterity and Wisdom help with survivability and versatility, and Constitution grants some extra toughness.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Deception](/Skills.aspx?ID=5), [Medicine](/Skills.aspx?ID=9)\n\n<title level=\"2\">Starting Feat</title>\r\n[Snagging Strike](/Feats.aspx?ID=361)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Dueling Parry (Fighter)](/Feats.aspx?ID=367) (2nd), [Guardian's Deflection (Fighter)](/Feats.aspx?ID=382) (6th), [Dueling Riposte](/Feats.aspx?ID=389) (8th), [Dueling Dance (Fighter)](/Feats.aspx?ID=407) (12th), [Stance Savant (Fighter)](/Feats.aspx?ID=419) (14th)",
+  "name": "Duelist",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 150",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 150 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 150"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 150 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being …",
+  "summary_markdown": "With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being …",
+  "text": " Duelist Source Core Rulebook pg. 150 4.0 With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being ready for their clumsy attacks. Attributes Prioritize Strength. Dexterity and Wisdom help with survivability and versatility, and Constitution grants some extra toughness. Skills Acrobatics, Athletics, Deception, Medicine Starting Feat Snagging Strike Higher-Level Feats Dueling Parry (Fighter) (2nd), Guardian's Deflection (Fighter) (6th), Dueling Riposte (8th), Dueling Dance (Fighter) (12th), Stance Savant (Fighter) (14th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Monk",
+  "exclude_from_search": false,
+  "id": "class-sample-13",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Ki Monk](/ClassSamples.aspx?ID=13)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>\r\n\r\n_Centering yourself, you call forth the internal magical energy that dwells within all living things. This ki can empower your body or flash out as pure energy._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Strength. Wisdom empowers your ki spells, Perception, and Will saves. Constitution and Dexterity help your physical defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Occultism](/Skills.aspx?ID=11), [Stealth](/Skills.aspx?ID=15)\n\n<title level=\"2\">Starting Feat</title>\r\n[Ki Strike (occult)](/Feats.aspx?ID=433)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Mountain Stance](/Feats.aspx?ID=435) (1st), [Elemental Fist](/Feats.aspx?ID=441) (2nd), [Wholeness of Body](/Feats.aspx?ID=448) (4th), [Ki Blast](/Feats.aspx?ID=452) (6th), [Meditative Focus](/Feats.aspx?ID=471) (12th), [Quivering Palm](/Feats.aspx?ID=481) (16th), [Empty Body](/Feats.aspx?ID=484) (20th)",
+  "name": "Ki Monk",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 162",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 162"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 162 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Centering yourself, you call forth the internal magical energy that dwells within all living things. This ki can empower your body or flash out as …",
+  "summary_markdown": "Centering yourself, you call forth the internal magical energy that dwells within all living things. This ki can empower your body or flash out as …",
+  "text": " Ki Monk Source Core Rulebook pg. 162 4.0 Centering yourself, you call forth the internal magical energy that dwells within all living things. This ki can empower your body or flash out as pure energy. Attributes Prioritize Strength. Wisdom empowers your ki spells, Perception, and Will saves. Constitution and Dexterity help your physical defenses. Skills Acrobatics, Athletics, Occultism, Stealth Starting Feat Ki Strike (occult) Higher-Level Feats Mountain Stance (1st), Elemental Fist (2nd), Wholeness of Body (4th), Ki Blast (6th), Meditative Focus (12th), Quivering Palm (16th), Empty Body (20th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Ranger",
+  "exclude_from_search": false,
+  "id": "class-sample-14",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Archer](/ClassSamples.aspx?ID=14)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 176 <sup>4.0</sup>\r\n\r\n_You keep your distance from your prey, shooting arrows with incredible precision to hinder or kill those you hunt._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, then Wisdom. Choose Strength if you want to use a composite bow or thrown weapon, or Intelligence to be more skilled.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Nature](/Skills.aspx?ID=10), [Stealth](/Skills.aspx?ID=15), [Survival](/Skills.aspx?ID=16), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Hunter's Edge</title>\r\n[Flurry](/HuntersEdge.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Hunted Shot](/Feats.aspx?ID=492)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Quick Draw](/Feats.aspx?ID=498) (2nd), [Far Shot](/Feats.aspx?ID=502) (4th), [Skirmish Strike](/Feats.aspx?ID=510) (6th), [Deadly Aim](/Feats.aspx?ID=514) (8th), [Penetrating Shot](/Feats.aspx?ID=522) (10th), [Distracting Shot](/Feats.aspx?ID=525) (12th), [Impossible Volley](/Feats.aspx?ID=426) (18th)",
+  "name": "Archer",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 176",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 176 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 176"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 176 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You keep your distance from your prey, shooting arrows with incredible precision to hinder or kill those you hunt.",
+  "summary_markdown": "You keep your distance from your prey, shooting arrows with incredible precision to hinder or kill those you hunt.",
+  "text": " Archer Source Core Rulebook pg. 176 4.0 You keep your distance from your prey, shooting arrows with incredible precision to hinder or kill those you hunt. Attributes Prioritize Dexterity, then Wisdom. Choose Strength if you want to use a composite bow or thrown weapon, or Intelligence to be more skilled. Skills Acrobatics, Athletics, Nature, Stealth, Survival, Thievery Hunter's Edge Flurry Starting Feat Hunted Shot Higher-Level Feats Quick Draw (2nd), Far Shot (4th), Skirmish Strike (6th), Deadly Aim (8th), Penetrating Shot (10th), Distracting Shot (12th), Impossible Volley (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Rogue",
+  "exclude_from_search": false,
+  "id": "class-sample-15",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Thief](/ClassSamples.aspx?ID=15)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 186 <sup>4.0</sup>\r\n\r\n_Furtive and swift, you pick locks, find secret doors and traps, and collect all the best loot_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity. Constitution improves your health and Wisdom helps you notice traps.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Society](/Skills.aspx?ID=14), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Rogue's Racket</title>\r\n[Thief](/Rackets.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Trap Finder](/Feats.aspx?ID=551)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Quick Draw](/Feats.aspx?ID=498) (2nd), [Skirmish Strike](/Feats.aspx?ID=510) (6th), [Sneak Savant](/Feats.aspx?ID=579) (10th), [Spring from the Shadows](/Feats.aspx?ID=586) (12th), [Implausible Infiltration](/Feats.aspx?ID=596) (18th)",
+  "name": "Thief",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 186",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 186 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 186"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 186 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Furtive and swift, you pick locks, find secret doors and traps, and collect all the best loot",
+  "summary_markdown": "Furtive and swift, you pick locks, find secret doors and traps, and collect all the best loot",
+  "text": " Thief Source Core Rulebook pg. 186 4.0 Furtive and swift, you pick locks, find secret doors and traps, and collect all the best loot Attributes Prioritize Dexterity. Constitution improves your health and Wisdom helps you notice traps. Skills Acrobatics, Arcana, Athletics, Crafting, Deception, Diplomacy, Society, Thievery Rogue's Racket Thief Starting Feat Trap Finder Higher-Level Feats Quick Draw (2nd), Skirmish Strike (6th), Sneak Savant (10th), Spring from the Shadows (12th), Implausible Infiltration (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Rogue",
+  "exclude_from_search": false,
+  "id": "class-sample-16",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Scoundrel](/ClassSamples.aspx?ID=16)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 184 <sup>4.0</sup>\r\n\r\n_Your attacks are made deadly through distraction._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, plus Charisma to improve your feints.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Rogue's Racket</title>\r\n[Scoundrel](/Rackets.aspx?ID=2)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[You're Next](/Feats.aspx?ID=553)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Distracting Feint](/Feats.aspx?ID=555) (2nd), [Dread Striker](/Feats.aspx?ID=561) (4th), [Tactical Debilitations](/Feats.aspx?ID=580) (10th), [Perfect Distraction](/Feats.aspx?ID=595) (16th)",
+  "name": "Scoundrel",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 184",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 184 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 184"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 184 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your attacks are made deadly through distraction.",
+  "summary_markdown": "Your attacks are made deadly through distraction.",
+  "text": " Scoundrel Source Core Rulebook pg. 184 4.0 Your attacks are made deadly through distraction. Attributes Prioritize Dexterity, plus Charisma to improve your feints. Skills Acrobatics, Athletics, Crafting, Deception, Diplomacy, Intimidation, Occultism, Society, Stealth, Thievery Rogue's Racket Scoundrel Starting Feat You're Next Higher-Level Feats Distracting Feint (2nd), Dread Striker (4th), Tactical Debilitations (10th), Perfect Distraction (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Cleric",
+  "exclude_from_search": false,
+  "id": "class-sample-17",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Gozren](/ClassSamples.aspx?ID=17)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 124 <sup>4.0</sup>\r\n\r\n_Following the Wind and the Waves, you protect the beauty of nature in all its forms._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom and Strength. Charisma increases your divine font heal spells.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Nature](/Skills.aspx?ID=10), [Religion](/Skills.aspx?ID=13), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Deity</title>\r\n[Gozreh](/Deities.aspx?ID=8) (alignment: LN; divine font: heal)\r\n\r\n<title level=\"2\">Doctrine</title>\r\n[Warpriest](/Doctrines.aspx?ID=3)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Domain Initiate (water, 1st)](/Feats.aspx?ID=265) (1st), [Divine Weapon](/Feats.aspx?ID=282) (6th)",
+  "name": "Gozren",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 124",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 124 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 124"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 124 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Following the Wind and the Waves, you protect the beauty of nature in all its forms.",
+  "summary_markdown": "Following the Wind and the Waves, you protect the beauty of nature in all its forms.",
+  "text": " Gozren Source Core Rulebook pg. 124 4.0 Following the Wind and the Waves, you protect the beauty of nature in all its forms. Attributes Prioritize Wisdom and Strength. Charisma increases your divine font heal spells. Skills Athletics, Nature, Religion, Survival Deity Gozreh (alignment: LN; divine font: heal) Doctrine Warpriest Higher-Level Feats Domain Initiate (water, 1st) (1st), Divine Weapon (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Cleric",
+  "exclude_from_search": false,
+  "id": "class-sample-18",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Pharasmin](/ClassSamples.aspx?ID=18)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 126 <sup>4.0</sup>\r\n\r\n_A follower of the Lady of Graves, you respect the sanctity of both life and death._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom, with Charisma second to maximize your healing and help you spread the word of your faith.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Occultism](/Skills.aspx?ID=11), [Religion](/Skills.aspx?ID=13)\r\n\r\n<title level=\"2\">Deity</title>\r\n &lt;%DEITIES%14%%&gt; \r\nPharasma &lt;%END> (alignment: N; divine font: heal)\r\n\r\n<title level=\"2\">Doctrine</title>\r\n[Cloistered cleric (death domain)](/Doctrines.aspx?ID=2)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Turn Undead](/Feats.aspx?ID=274) (2nd), [Selective Energy](/Feats.aspx?ID=283) (6th)",
+  "name": "Pharasmin",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 126",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 126 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 126"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 126 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "A follower of the Lady of Graves, you respect the sanctity of both life and death.",
+  "summary_markdown": "A follower of the Lady of Graves, you respect the sanctity of both life and death.",
+  "text": " Pharasmin Source Core Rulebook pg. 126 4.0 A follower of the Lady of Graves, you respect the sanctity of both life and death. Attributes Prioritize Wisdom, with Charisma second to maximize your healing and help you spread the word of your faith. Skills Diplomacy, Medicine, Occultism, Religion Deity &lt;%DEITIES%14%%&gt; Pharasma &lt;%END> (alignment: N; divine font: heal) Doctrine Cloistered cleric (death domain) Higher-Level Feats Turn Undead (2nd), Selective Energy (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-19",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Wild Druid](/ClassSamples.aspx?ID=19)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 134 <sup>4.0</sup>\r\n\r\n_Taking on the forms of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite society._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom and Strength so you can cast spells and enter melee combat. You'll also want Dexterity and Constitution to improve your defenses and survivability.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Intimidation](/Skills.aspx?ID=7), [Nature](/Skills.aspx?ID=10)\r\n\r\n<title level=\"2\">Order</title>\r\n[Wild](/DruidicOrders.aspx?ID=4)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Form Control](/Feats.aspx?ID=321) (4th), [Insect Shape](/Feats.aspx?ID=327) (6th), [Soaring Shape](/Feats.aspx?ID=333) (8th), [Plant Shape](/Feats.aspx?ID=338) (10th), [Monstrosity Shape](/Feats.aspx?ID=349) (16th)",
+  "name": "Wild Druid",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 134",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 134 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 134"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 134 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Taking on the forms of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite …",
+  "summary_markdown": "Taking on the forms of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite …",
+  "text": " Wild Druid Source Core Rulebook pg. 134 4.0 Taking on the forms of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite society. Attributes Prioritize Wisdom and Strength so you can cast spells and enter melee combat. You'll also want Dexterity and Constitution to improve your defenses and survivability. Skills Acrobatics, Athletics, Intimidation, Nature Order Wild Higher-Level Feats Form Control (4th), Insect Shape (6th), Soaring Shape (8th), Plant Shape (10th), Monstrosity Shape (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-20",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Storm Druid](/ClassSamples.aspx?ID=20)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 136 <sup>4.0</sup>\r\n\r\n_You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom. You typically stay at range, so take a high Dexterity. You can choose whether to focus more on your health with Constitution or be more knowledgeable and skilled with Intelligence.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Medicine](/Skills.aspx?ID=9), [Nature](/Skills.aspx?ID=10), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Order</title>\r\n[Storm](/DruidicOrders.aspx?ID=3)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Widen Spell](/Feats.aspx?ID=315) (1st), [Storm Retribution](/Feats.aspx?ID=329) (6th), [Wind Caller](/Feats.aspx?ID=334) (8th), [Primal Focus](/Feats.aspx?ID=342) (12th), [Invoke Disaster](/Feats.aspx?ID=350) (18th)",
+  "name": "Storm Druid",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 136",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 136 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 136"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 136 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells.",
+  "summary_markdown": "You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells.",
+  "text": " Storm Druid Source Core Rulebook pg. 136 4.0 You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells. Attributes Prioritize Wisdom. You typically stay at range, so take a high Dexterity. You can choose whether to focus more on your health with Constitution or be more knowledgeable and skilled with Intelligence. Skills Acrobatics, Medicine, Nature, Survival Order Storm Higher-Level Feats Widen Spell (1st), Storm Retribution (6th), Wind Caller (8th), Primal Focus (12th), Invoke Disaster (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-21",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Leaf Druid](/ClassSamples.aspx?ID=21)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 138 <sup>4.0</sup>\r\n\r\n_You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom. Take Dexterity and Constitution for your defenses, and Charisma to be more diplomatic or Strength if you want to deal more damage in melee.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Nature](/Skills.aspx?ID=10), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Order</title>\r\n[Leaf](/DruidicOrders.aspx?ID=2)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Call of the Wild](/Feats.aspx?ID=317) (2nd), [Woodland Stride](/Feats.aspx?ID=325) (4th), [Green Empathy](/Feats.aspx?ID=326) (6th), [Plant Shape](/Feats.aspx?ID=338) (10th), [Green Tongue](/Feats.aspx?ID=341) (12th)",
+  "name": "Leaf Druid",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 138",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 138 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 138"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 138 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you.",
+  "summary_markdown": "You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you.",
+  "text": " Leaf Druid Source Core Rulebook pg. 138 4.0 You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you. Attributes Prioritize Wisdom. Take Dexterity and Constitution for your defenses, and Charisma to be more diplomatic or Strength if you want to deal more damage in melee. Skills Diplomacy, Medicine, Nature, Survival Order Leaf Higher-Level Feats Call of the Wild (2nd), Woodland Stride (4th), Green Empathy (6th), Plant Shape (10th), Green Tongue (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Sorcerer",
+  "exclude_from_search": false,
+  "id": "class-sample-22",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Fey-Touched](/ClassSamples.aspx?ID=22)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n\r\n_Your blood ties you to the magic of the First World and the otherworldly fey. Like them, you’re capricious, charming, and hard to pin down._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nImprove your Charisma first. Good Dexterity, Constitution, and Wisdom provide solid defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Nature](/Skills.aspx?ID=10), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Bloodline</title>\r\n[Fey](/Bloodlines.aspx?ID=7)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Reach Spell](/Feats.aspx?ID=181) (1st), [Primal Evolution](/Feats.aspx?ID=613) (4th), [Advanced Bloodline](/Feats.aspx?ID=614) (6th), [Greater Bloodline](/Feats.aspx?ID=618) (10th), [Bloodline Focus](/Feats.aspx?ID=621) (12th)",
+  "name": "Fey-Touched",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 196",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 196"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your blood ties you to the magic of the First World and the otherworldly fey. Like them, you’re capricious, charming, and hard to pin down.",
+  "summary_markdown": "Your blood ties you to the magic of the First World and the otherworldly fey. Like them, you’re capricious, charming, and hard to pin down.",
+  "text": " Fey-Touched Source Core Rulebook pg. 196 4.0 Your blood ties you to the magic of the First World and the otherworldly fey. Like them, you’re capricious, charming, and hard to pin down. Attributes Improve your Charisma first. Good Dexterity, Constitution, and Wisdom provide solid defenses. Skills Deception, Diplomacy, Nature, Stealth Bloodline Fey Higher-Level Feats Reach Spell (1st), Primal Evolution (4th), Advanced Bloodline (6th), Greater Bloodline (10th), Bloodline Focus (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Sorcerer",
+  "exclude_from_search": false,
+  "id": "class-sample-23",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Demonblood](/ClassSamples.aspx?ID=23)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 200 <sup>4.0</sup>\r\n\r\n_The grotesque and chaotic creatures of the Abyss left their mark on your family’s bloodline. You have a vicious streak and find wanton destruction thrilling_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nYour Charisma is most important, and boosting Strength, Dexterity, and Constitution make you a better combatant.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Deception](/Skills.aspx?ID=5), [Intimidation](/Skills.aspx?ID=7), [Religion](/Skills.aspx?ID=13)\r\n\r\n<title level=\"2\">Bloodline</title>\r\n[Demonic](/Bloodlines.aspx?ID=3)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Dangerous Sorcery](/Feats.aspx?ID=603) (1st), [Divine Evolution](/Feats.aspx?ID=611) (4th), [Advanced Bloodline](/Feats.aspx?ID=614) (6th), [Bloodline Resistance](/Feats.aspx?ID=616) (8th), [Greater Bloodline](/Feats.aspx?ID=618) (10th), [Bloodline Focus](/Feats.aspx?ID=621) (12th)",
+  "name": "Demonblood",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 200",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 200 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 200"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 200 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The grotesque and chaotic creatures of the Abyss left their mark on your family’s bloodline. You have a vicious streak and find wanton destruction …",
+  "summary_markdown": "The grotesque and chaotic creatures of the Abyss left their mark on your family’s bloodline. You have a vicious streak and find wanton destruction …",
+  "text": " Demonblood Source Core Rulebook pg. 200 4.0 The grotesque and chaotic creatures of the Abyss left their mark on your family’s bloodline. You have a vicious streak and find wanton destruction thrilling Attributes Your Charisma is most important, and boosting Strength, Dexterity, and Constitution make you a better combatant. Skills Athletics, Deception, Intimidation, Religion Bloodline Demonic Higher-Level Feats Dangerous Sorcery (1st), Divine Evolution (4th), Advanced Bloodline (6th), Bloodline Resistance (8th), Greater Bloodline (10th), Bloodline Focus (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Wizard",
+  "exclude_from_search": false,
+  "id": "class-sample-24",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Conjurer](/ClassSamples.aspx?ID=24)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n\r\n_Your magic summons creatures, transports you, and creates useful items. You know about odd creatures and distant realms._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4), [Diplomacy](/Skills.aspx?ID=6), [Nature](/Skills.aspx?ID=10), [Occultism](/Skills.aspx?ID=11), [Religion](/Skills.aspx?ID=13), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">Specialization</title>\r\n[Conjuration](/ArcaneSchools.aspx?ID=2)\r\n\r\n<title level=\"2\">Thesis</title>\r\n[Improved Familiar Attunement](/ArcaneThesis.aspx?ID=1)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Enhanced Familiar](/Feats.aspx?ID=318) (2nd), [Advanced School Spell](/Feats.aspx?ID=647) (8th), [Effortless Concentration](/Feats.aspx?ID=206) (16th)",
+  "name": "Conjurer",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your magic summons creatures, transports you, and creates useful items. You know about odd creatures and distant realms.",
+  "summary_markdown": "Your magic summons creatures, transports you, and creates useful items. You know about odd creatures and distant realms.",
+  "text": " Conjurer Source Core Rulebook pg. 208 4.0 Your magic summons creatures, transports you, and creates useful items. You know about odd creatures and distant realms. Attributes Prioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defenses. Skills Arcana, Crafting, Diplomacy, Nature, Occultism, Religion, Society Specialization Conjuration Thesis Improved Familiar Attunement Higher-Level Feats Enhanced Familiar (2nd), Advanced School Spell (8th), Effortless Concentration (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Wizard",
+  "exclude_from_search": false,
+  "id": "class-sample-25",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Illusionist](/ClassSamples.aspx?ID=25)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 212 <sup>4.0</sup>\r\n\r\n_You cast illusory spells that fool the senses, and you excel at bypassing threats without violence._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence. Increase Dexterity and Charisma so you can sneak and deceive people with skills as well as spells\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Specialization</title>\r\n[Illusion](/ArcaneSchools.aspx?ID=6)\r\n\r\n<title level=\"2\">Thesis</title>\r\n[Spell Blending](/ArcaneThesis.aspx?ID=3)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Conceal Spell](/Feats.aspx?ID=640) (2nd), [Silent Spell](/Feats.aspx?ID=644) (4th), [Advanced School Spell](/Feats.aspx?ID=647) (8th), [Magic Sense](/Feats.aspx?ID=622) (12th)",
+  "name": "Illusionist",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 212",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 212 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 212"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 212 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You cast illusory spells that fool the senses, and you excel at bypassing threats without violence.",
+  "summary_markdown": "You cast illusory spells that fool the senses, and you excel at bypassing threats without violence.",
+  "text": " Illusionist Source Core Rulebook pg. 212 4.0 You cast illusory spells that fool the senses, and you excel at bypassing threats without violence. Attributes Prioritize Intelligence. Increase Dexterity and Charisma so you can sneak and deceive people with skills as well as spells Skills Arcana, Deception, Diplomacy, Occultism, Society, Stealth, Thievery Specialization Illusion Thesis Spell Blending Higher-Level Feats Conceal Spell (2nd), Silent Spell (4th), Advanced School Spell (8th), Magic Sense (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Monk",
+  "exclude_from_search": false,
+  "id": "class-sample-26",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Crane Monk](/ClassSamples.aspx?ID=26)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 164 <sup>4.0</sup>\r\n\r\n_Striving for grace in all things, you mimic the fluid movements of the crane. Your strikes are quick as the wind and your mind clear as a placid pool._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity for finesse attacks and high defenses. A good Wisdom lets you perceive dangers and act quickly, and Constitution improves your hardiness.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Nature](/Skills.aspx?ID=10), [Religion](/Skills.aspx?ID=13), [Stealth](/Skills.aspx?ID=15)\n\n<title level=\"2\">Starting Feat</title>\r\n[Crane Stance](/Feats.aspx?ID=430)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Dancing Leaf](/Feats.aspx?ID=440) (2nd), [Flying Kick](/Feats.aspx?ID=445) (4th), [Crane Flutter](/Feats.aspx?ID=450) (6th), [Winding Flow](/Feats.aspx?ID=467) (10th), [Stance Savant (Monk)](/Feats.aspx?ID=472) (12th), [Enduring Quickness](/Feats.aspx?ID=487) (20th)",
+  "name": "Crane Monk",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 164",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 164 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 164"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 164 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Striving for grace in all things, you mimic the fluid movements of the crane. Your strikes are quick as the wind and your mind clear as a placid pool.",
+  "summary_markdown": "Striving for grace in all things, you mimic the fluid movements of the crane. Your strikes are quick as the wind and your mind clear as a placid pool.",
+  "text": " Crane Monk Source Core Rulebook pg. 164 4.0 Striving for grace in all things, you mimic the fluid movements of the crane. Your strikes are quick as the wind and your mind clear as a placid pool. Attributes Prioritize Dexterity for finesse attacks and high defenses. A good Wisdom lets you perceive dangers and act quickly, and Constitution improves your hardiness. Skills Acrobatics, Nature, Religion, Stealth Starting Feat Crane Stance Higher-Level Feats Dancing Leaf (2nd), Flying Kick (4th), Crane Flutter (6th), Winding Flow (10th), Stance Savant (Monk) (12th), Enduring Quickness (20th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Investigator",
+  "exclude_from_search": false,
+  "id": "class-sample-27",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Coroner](/ClassSamples.aspx?ID=27)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 62 <sup>2.0</sup>\r\n\r\n_When someone finds a body, you're first on the scene. You share the clues you learn through keen observation with your team to ensure you always apprehend the culprit.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIntelligence comes first, followed by Wisdom to support your perceptiveness and healing abilities. Dexterity helps your defenses.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Occultism](/Skills.aspx?ID=11), [Religion](/Skills.aspx?ID=13), [Society](/Skills.aspx?ID=14), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Methodology</title>\r\n[Forensic medicine](/Methodologies.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[That's Odd](/Feats.aspx?ID=1449)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Scalpel's Point](/Feats.aspx?ID=1460) (4th), [Thorough Research](/Feats.aspx?ID=1464) (6th), [Strategic Bypass](/Feats.aspx?ID=1475) (14th), [Reconstruct the Scene](/Feats.aspx?ID=1478) (16th)",
+  "name": "Coroner",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 62 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 62 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "When someone finds a body, you're first on the scene. You share the clues you learn through keen observation with your team to ensure you always …",
+  "summary_markdown": "When someone finds a body, you're first on the scene. You share the clues you learn through keen observation with your team to ensure you always …",
+  "text": " Coroner Source Advanced Player's Guide pg. 62 2.0 When someone finds a body, you're first on the scene. You share the clues you learn through keen observation with your team to ensure you always apprehend the culprit. Attributes Intelligence comes first, followed by Wisdom to support your perceptiveness and healing abilities. Dexterity helps your defenses. Skills Arcana, Athletics, Diplomacy, Medicine, Occultism, Religion, Society, Survival Methodology Forensic medicine Starting Feat That's Odd Higher-Level Feats Scalpel's Point (4th), Thorough Research (6th), Strategic Bypass (14th), Reconstruct the Scene (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=27",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Investigator",
+  "exclude_from_search": false,
+  "id": "class-sample-28",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Chemist](/ClassSamples.aspx?ID=28)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 64 <sup>2.0</sup>\r\n\r\n_With carefully formulated chemical compounds, you find chemical clues at crime scenes and boost your investigative acumen with mutagens and other elixirs._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence for your alchemy and deductive reasoning. Dexterity helps you stay out of harm's way, while Constitution keeps you healthy.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4), [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Nature](/Skills.aspx?ID=10), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Methodology</title>\r\n[Alchemical sciences](/Methodologies.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Known Weaknesses](/Feats.aspx?ID=1447)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Alchemical Discoveries](/Feats.aspx?ID=1456) (4th), [Predictive Purchase (Investigator)](/Feats.aspx?ID=1463) (6th), [Implausible Purchase (Investigator)](/Feats.aspx?ID=1477) (16th)",
+  "name": "Chemist",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 64",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 64 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 64"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 64 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With carefully formulated chemical compounds, you find chemical clues at crime scenes and boost your investigative acumen with mutagens and other …",
+  "summary_markdown": "With carefully formulated chemical compounds, you find chemical clues at crime scenes and boost your investigative acumen with mutagens and other …",
+  "text": " Chemist Source Advanced Player's Guide pg. 64 2.0 With carefully formulated chemical compounds, you find chemical clues at crime scenes and boost your investigative acumen with mutagens and other elixirs. Attributes Prioritize Intelligence for your alchemy and deductive reasoning. Dexterity helps you stay out of harm's way, while Constitution keeps you healthy. Skills Acrobatics, Arcana, Crafting, Deception, Diplomacy, Nature, Society, Stealth, Thievery Methodology Alchemical sciences Starting Feat Known Weaknesses Higher-Level Feats Alchemical Discoveries (4th), Predictive Purchase (Investigator) (6th), Implausible Purchase (Investigator) (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=28",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Oracle",
+  "exclude_from_search": false,
+  "id": "class-sample-29",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Flame Augur](/ClassSamples.aspx?ID=29)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>\r\n\r\n_You are a flaming force to be reckoned with on the battlefield, scorching foes near and far.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Charisma for your spellcasting. Constitution improves your hardiness, and Dexterity keeps you out of harm's way.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Intimidation](/Skills.aspx?ID=7), [Occultism](/Skills.aspx?ID=11), [Religion](/Skills.aspx?ID=13)\r\n\r\n<title level=\"2\">Mystery</title>\r\n[Flames](/Mysteries.aspx?ID=5)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Widen Spell](/Feats.aspx?ID=315) (1st), [Vision of Weakness](/Feats.aspx?ID=1491) (4th), [Surging Might](/Feats.aspx?ID=1499) (10th), [Portentous Spell](/Feats.aspx?ID=1506) (16th), [Blaze of Revelation](/Feats.aspx?ID=1507) (18th)",
+  "name": "Flame Augur",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You are a flaming force to be reckoned with on the battlefield, scorching foes near and far.\r\n",
+  "summary_markdown": "You are a flaming force to be reckoned with on the battlefield, scorching foes near and far.\r\n",
+  "text": " Flame Augur Source Advanced Player's Guide pg. 74 2.0 You are a flaming force to be reckoned with on the battlefield, scorching foes near and far. Attributes Prioritize Charisma for your spellcasting. Constitution improves your hardiness, and Dexterity keeps you out of harm's way. Skills Acrobatics, Arcana, Intimidation, Occultism, Religion Mystery Flames Higher-Level Feats Widen Spell (1st), Vision of Weakness (4th), Surging Might (10th), Portentous Spell (16th), Blaze of Revelation (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=29",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Oracle",
+  "exclude_from_search": false,
+  "id": "class-sample-30",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Lifebringer](/ClassSamples.aspx?ID=30)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>\r\n\r\n_You channel divine power into healing energy for your allies, though it taxes your body to do so.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nFocus on Charisma to boost your skills, and Constitution to better withstand the effects of your curse. Wisdom helps you understand and treat the ailments your magic can't heal.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Deception](/Skills.aspx?ID=5), [Medicine](/Skills.aspx?ID=9), [Nature](/Skills.aspx?ID=10), [Religion](/Skills.aspx?ID=13), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Mystery</title>\r\n[Life](/Mysteries.aspx?ID=6)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Divine Aegis](/Feats.aspx?ID=1487) (2nd), [Advanced Revelation](/Feats.aspx?ID=1492) (6th), [Read Disaster](/Feats.aspx?ID=1496) (8th), [Oracular Warning](/Feats.aspx?ID=1497) (10th), [Divine Effusion](/Feats.aspx?ID=1508) (18th)",
+  "name": "Lifebringer",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 76",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 76"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You channel divine power into healing energy for your allies, though it taxes your body to do so.\r\n",
+  "summary_markdown": "You channel divine power into healing energy for your allies, though it taxes your body to do so.\r\n",
+  "text": " Lifebringer Source Advanced Player's Guide pg. 76 2.0 You channel divine power into healing energy for your allies, though it taxes your body to do so. Attributes Focus on Charisma to boost your skills, and Constitution to better withstand the effects of your curse. Wisdom helps you understand and treat the ailments your magic can't heal. Skills Deception, Medicine, Nature, Religion, Stealth Mystery Life Higher-Level Feats Divine Aegis (2nd), Advanced Revelation (6th), Read Disaster (8th), Oracular Warning (10th), Divine Effusion (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=30",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Swashbuckler",
+  "exclude_from_search": false,
+  "id": "class-sample-31",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Gymnast](/ClassSamples.aspx?ID=31)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 90 <sup>2.0</sup>\r\n\r\n_You fight with both agility and muscle, controlling your foe's movements on the battlefield with style and flair.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity and Strength for Acrobatics, Athletics, attacks, and damage.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Deception](/Skills.aspx?ID=5), [Intimidation](/Skills.aspx?ID=7), [Medicine](/Skills.aspx?ID=9), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">Swashbuckler's Style</title>\r\n[Gymnast](/Styles.aspx?ID=4)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Disarming Flair](/Feats.aspx?ID=1513)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Flamboyant Athlete](/Feats.aspx?ID=1527) (4th), [Agile Maneuvers](/Feats.aspx?ID=1533) (6th), [Derring-Do](/Feats.aspx?ID=1544) (10th), [Flamboyant Leap](/Feats.aspx?ID=1550) (14th)",
+  "name": "Gymnast",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 90",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 90 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 90"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 90 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You fight with both agility and muscle, controlling your foe's movements on the battlefield with style and flair.\r\n",
+  "summary_markdown": "You fight with both agility and muscle, controlling your foe's movements on the battlefield with style and flair.\r\n",
+  "text": " Gymnast Source Advanced Player's Guide pg. 90 2.0 You fight with both agility and muscle, controlling your foe's movements on the battlefield with style and flair. Attributes Prioritize Dexterity and Strength for Acrobatics, Athletics, attacks, and damage. Skills Acrobatics, Athletics, Deception, Intimidation, Medicine, Society Swashbuckler's Style Gymnast Starting Feat Disarming Flair Higher-Level Feats Flamboyant Athlete (4th), Agile Maneuvers (6th), Derring-Do (10th), Flamboyant Leap (14th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=31",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Swashbuckler",
+  "exclude_from_search": false,
+  "id": "class-sample-32",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Fencer](/ClassSamples.aspx?ID=32)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup>\r\n\r\n_You befuddle your foes with deft movements, feints, and traps, leading them into your cunning counterattacks.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity for accuracy, as well as Charisma for Deception.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Swashbuckler's Style</title>\r\n[Fencer](/Styles.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Goading Feint](/Feats.aspx?ID=1517)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Tumble Behind (Swashbuckler)](/Feats.aspx?ID=1525) (2nd), [Attack of Opportunity](/Feats.aspx?ID=145) (6th), [Reflexive Riposte](/Feats.aspx?ID=1546) (10th), [Felicitous Riposte](/Feats.aspx?ID=1555) (16th)",
+  "name": "Fencer",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 92",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 92"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 92 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You befuddle your foes with deft movements, feints, and traps, leading them into your cunning counterattacks.\r\n",
+  "summary_markdown": "You befuddle your foes with deft movements, feints, and traps, leading them into your cunning counterattacks.\r\n",
+  "text": " Fencer Source Advanced Player's Guide pg. 92 2.0 You befuddle your foes with deft movements, feints, and traps, leading them into your cunning counterattacks. Attributes Prioritize Dexterity for accuracy, as well as Charisma for Deception. Skills Acrobatics, Deception, Diplomacy, Society, Stealth, Thievery Swashbuckler's Style Fencer Starting Feat Goading Feint Higher-Level Feats Tumble Behind (Swashbuckler) (2nd), Attack of Opportunity (6th), Reflexive Riposte (10th), Felicitous Riposte (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=32",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Witch",
+  "exclude_from_search": false,
+  "id": "class-sample-33",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Hedge Witch](/ClassSamples.aspx?ID=33)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 104 <sup>2.0</sup>\r\n\r\n_With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIntelligence fuels your spells. Dexterity and Constitution provide solid defenses, while Charisma can help you influence people.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Crafting](/Skills.aspx?ID=4), [Diplomacy](/Skills.aspx?ID=6), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">Patron Theme</title>\r\n[Fate](/Patrons.aspx?ID=3)\r\n\r\n<title level=\"2\">Lessons</title>\r\nBasic: [protection](/Lessons.aspx?ID=4); greater: [mischief](/Lessons.aspx?ID=6); major: [renewal](/Lessons.aspx?ID=10)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Cauldron](/Feats.aspx?ID=1562) (1st), [Basic Lesson](/Feats.aspx?ID=1565) (2nd), [Greater Lesson](/Feats.aspx?ID=1574) (6th), [Witch's Bottle](/Feats.aspx?ID=1578) (8th), [Major Lesson](/Feats.aspx?ID=1579) (10th), [Hex Focus](/Feats.aspx?ID=1583) (12th)",
+  "name": "Hedge Witch",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 104",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 104 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 104"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 104 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies.\r\n",
+  "summary_markdown": "With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies.\r\n",
+  "text": " Hedge Witch Source Advanced Player's Guide pg. 104 2.0 With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies. Attributes Intelligence fuels your spells. Dexterity and Constitution provide solid defenses, while Charisma can help you influence people. Skills Crafting, Diplomacy, Occultism, Society Patron Theme Fate Lessons Basic: protection; greater: mischief; major: renewal Higher-Level Feats Cauldron (1st), Basic Lesson (2nd), Greater Lesson (6th), Witch's Bottle (8th), Major Lesson (10th), Hex Focus (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=33",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Magus",
+  "exclude_from_search": false,
+  "id": "class-sample-34",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Arcane Scrapper](/ClassSamples.aspx?ID=34)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 44 <sup>1.1</sup>\r\n\r\n_You infuse spell energy into a massive weapon._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nMake Strength your highest score, and choose a good Constitution.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Intimidation](/Skills.aspx?ID=7), [Medicine](/Skills.aspx?ID=9)\r\n\r\n<title level=\"2\">Hybrid Study</title>\r\n[Inexorable iron](/HybridStudies.aspx?ID=1)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Force Fang](/Feats.aspx?ID=2850) (2nd), [Devastating Spellstrike](/Feats.aspx?ID=2853) (4th), [Attack of Opportunity](/Feats.aspx?ID=145) (6th), [Fused Staff](/Feats.aspx?ID=2864) (8th)",
+  "name": "Arcane Scrapper",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 44",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 44 <sup>1.1</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 44"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 44 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "You infuse spell energy into a massive weapon.",
+  "summary_markdown": "You infuse spell energy into a massive weapon.",
+  "text": " Arcane Scrapper Source Secrets of Magic pg. 44 1.1 You infuse spell energy into a massive weapon. Attributes Make Strength your highest score, and choose a good Constitution. Skills Arcana, Athletics, Crafting, Intimidation, Medicine Hybrid Study Inexorable iron Higher-Level Feats Force Fang (2nd), Devastating Spellstrike (4th), Attack of Opportunity (6th), Fused Staff (8th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=34",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Magus",
+  "exclude_from_search": false,
+  "id": "class-sample-35",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Arcane Fist](/ClassSamples.aspx?ID=35)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 46 <sup>1.1</sup>\r\n\r\n_Magic empowers your unarmed attacks._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nMake Dexterity your highest score, and get a decent Charisma.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Deception](/Skills.aspx?ID=5), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Hybrid Study</title>\r\n[Laughing shadow](/HybridStudies.aspx?ID=2)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Arcane Fists](/Feats.aspx?ID=3033) (1st), [Distracting Spellstrike](/Feats.aspx?ID=2854) (4th), [Spell Swipe](/Feats.aspx?ID=2866) (8th)",
+  "name": "Arcane Fist",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 46",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 46 <sup>1.1</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 46"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 46 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Magic empowers your unarmed attacks.",
+  "summary_markdown": "Magic empowers your unarmed attacks.",
+  "text": " Arcane Fist Source Secrets of Magic pg. 46 1.1 Magic empowers your unarmed attacks. Attributes Make Dexterity your highest score, and get a decent Charisma. Skills Acrobatics, Arcana, Athletics, Deception, Stealth Hybrid Study Laughing shadow Higher-Level Feats Arcane Fists (1st), Distracting Spellstrike (4th), Spell Swipe (8th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=35",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Magus",
+  "exclude_from_search": false,
+  "id": "class-sample-36",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Spell Sniper](/ClassSamples.aspx?ID=36)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 48 <sup>1.1</sup>\r\n\r\n_Your spells fly as swift and true as your arrows._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nDexterity is your most important ability score.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Deception](/Skills.aspx?ID=5), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Hybrid Study</title>\r\n[Starlit span](/HybridStudies.aspx?ID=4)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Expansive Spellstrike](/Feats.aspx?ID=2849) (2nd), [Starlit Eyes](/Feats.aspx?ID=2856) (4th), [Runic Impression](/Feats.aspx?ID=2865) (8th)",
+  "name": "Spell Sniper",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 48",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 48 <sup>1.1</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 48"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 48 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Your spells fly as swift and true as your arrows.",
+  "summary_markdown": "Your spells fly as swift and true as your arrows.",
+  "text": " Spell Sniper Source Secrets of Magic pg. 48 1.1 Your spells fly as swift and true as your arrows. Attributes Dexterity is your most important ability score. Skills Acrobatics, Arcana, Deception, Society, Stealth Hybrid Study Starlit span Higher-Level Feats Expansive Spellstrike (2nd), Starlit Eyes (4th), Runic Impression (8th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=36",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Summoner",
+  "exclude_from_search": false,
+  "id": "class-sample-37",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Angelic Vessel](/ClassSamples.aspx?ID=37)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 68 <sup>1.1</sup>\r\n\r\n_Your eidolon is a being from the angelic hosts._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nImprove your Charisma first, then Constitution, Dexterity, and Wisdom.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), [Medicine](/Skills.aspx?ID=9), [Occultism](/Skills.aspx?ID=11)\r\n\r\n<title level=\"2\">Eidolon</title>\r\n[Angel](/Eidolons.aspx?ID=1)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Glider Form](/Feats.aspx?ID=2891) (1st), [Ranged Combatant](/Feats.aspx?ID=2897) (2nd), [Lifelink Surge](/Feats.aspx?ID=2903) (4th)",
+  "name": "Angelic Vessel",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 68",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 68 <sup>1.1</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 68"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 68 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Your eidolon is a being from the angelic hosts.",
+  "summary_markdown": "Your eidolon is a being from the angelic hosts.",
+  "text": " Angelic Vessel Source Secrets of Magic pg. 68 1.1 Your eidolon is a being from the angelic hosts. Attributes Improve your Charisma first, then Constitution, Dexterity, and Wisdom. Skills Diplomacy, Intimidation, Medicine, Occultism Eidolon Angel Higher-Level Feats Glider Form (1st), Ranged Combatant (2nd), Lifelink Surge (4th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=37",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Summoner",
+  "exclude_from_search": false,
+  "id": "class-sample-38",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[God Caller](/ClassSamples.aspx?ID=38)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 72 <sup>1.1</sup>\r\n\r\n_Your eidolon is a god born of the land's life force._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nFocus on Charisma, Constitution, and then Strength.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=3), [Intimidation](/Skills.aspx?ID=7), [Nature](/Skills.aspx?ID=10), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Eidolon</title>\r\n[Beast](/Eidolons.aspx?ID=3)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Advanced Weaponry](/Feats.aspx?ID=2886) (1st), [Reinforce Eidolon](/Feats.aspx?ID=2898) (2nd), [Tandem Strike](/Feats.aspx?ID=2915) (6th)",
+  "name": "God Caller",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 72 <sup>1.1</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 72 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Your eidolon is a god born of the land's life force.",
+  "summary_markdown": "Your eidolon is a god born of the land's life force.",
+  "text": " God Caller Source Secrets of Magic pg. 72 1.1 Your eidolon is a god born of the land's life force. Attributes Focus on Charisma, Constitution, and then Strength. Skills Athletics, Intimidation, Nature, Survival Eidolon Beast Higher-Level Feats Advanced Weaponry (1st), Reinforce Eidolon (2nd), Tandem Strike (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=38",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Inventor",
+  "exclude_from_search": false,
+  "id": "class-sample-39",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Armor Inventor](/ClassSamples.aspx?ID=39)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 26 <sup>2.0</sup>\r\n\r\n_You’ve created an experimental armor that protects you while you go toe to toe with foes._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Strength for melee combat and Intelligence for your inventor abilities.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Athletics](/Skills.aspx?ID=3), [Crafting](/Skills.aspx?ID=4), [Medicine](/Skills.aspx?ID=9), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">Innovation</title>\r\n[Armor](/Innovations.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Tamper](/Feats.aspx?ID=3049)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Collapse Armor](/Feats.aspx?ID=3051) (2nd), [Megaton Strike](/Feats.aspx?ID=3059) (4th), [Clockwork Celerity](/Feats.aspx?ID=3060) (6th), [Gigaton Strike](/Feats.aspx?ID=3064) (8th), [Electrify Armor](/Feats.aspx?ID=3070) (10th)",
+  "name": "Armor Inventor",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 26",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 26 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 26"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 26 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You’ve created an experimental armor that protects you while you go toe to toe with foes.",
+  "summary_markdown": "You’ve created an experimental armor that protects you while you go toe to toe with foes.",
+  "text": " Armor Inventor Source Guns &amp; Gears pg. 26 2.0 You’ve created an experimental armor that protects you while you go toe to toe with foes. Attributes Prioritize Strength for melee combat and Intelligence for your inventor abilities. Skills Arcana, Athletics, Crafting, Medicine, Occultism, Society Innovation Armor Starting Feat Tamper Higher-Level Feats Collapse Armor (2nd), Megaton Strike (4th), Clockwork Celerity (6th), Gigaton Strike (8th), Electrify Armor (10th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=39",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Inventor",
+  "exclude_from_search": false,
+  "id": "class-sample-40",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Weapon Inventor](/ClassSamples.aspx?ID=40)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 30 <sup>2.0</sup>\r\n\r\n_You've created an experimental weapon, in this case a bow, to wreak havoc on your foes from afar._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence for your inventor abilities and Dexterity to hit with your bow innovation.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Crafting](/Skills.aspx?ID=4), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Innovation</title>\r\n[Weapon](/Innovations.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Explosive Leap](/Feats.aspx?ID=3045)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Searing Restoration](/Feats.aspx?ID=3054) (2nd), [Dual-Form Weapon](/Feats.aspx?ID=3057) (4th), [Megavolt](/Feats.aspx?ID=3062) (6th), [Manifold Modifications](/Feats.aspx?ID=3066) (8th), [Helpful Tinkering](/Feats.aspx?ID=3071) (10th), [Gigavolt](/Feats.aspx?ID=3076) (12th), [Unstable Redundancies](/Feats.aspx?ID=3081) (14th), [Persistent Boost](/Feats.aspx?ID=3083) (16th), [Devastating Weaponry](/Feats.aspx?ID=3085) (18th)",
+  "name": "Weapon Inventor",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 30",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 30 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 30"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 30 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You've created an experimental weapon, in this case a bow, to wreak havoc on your foes from afar.",
+  "summary_markdown": "You've created an experimental weapon, in this case a bow, to wreak havoc on your foes from afar.",
+  "text": " Weapon Inventor Source Guns &amp; Gears pg. 30 2.0 You've created an experimental weapon, in this case a bow, to wreak havoc on your foes from afar. Attributes Prioritize Intelligence for your inventor abilities and Dexterity to hit with your bow innovation. Skills Acrobatics, Arcana, Crafting, Occultism, Society, Stealth, Thievery Innovation Weapon Starting Feat Explosive Leap Higher-Level Feats Searing Restoration (2nd), Dual-Form Weapon (4th), Megavolt (6th), Manifold Modifications (8th), Helpful Tinkering (10th), Gigavolt (12th), Unstable Redundancies (14th), Persistent Boost (16th), Devastating Weaponry (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=40",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Gunslinger",
+  "exclude_from_search": false,
+  "id": "class-sample-41",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Drifter](/ClassSamples.aspx?ID=41)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 114 <sup>2.0</sup>\r\n\r\n_With a gun in one hand and a blade or club in the other, you strike and move, never standing still._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, followed by Strength and Constitution.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Athletics](/Skills.aspx?ID=3), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Way</title>\r\n[Drifter](/Ways.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Sword and Pistol](/Feats.aspx?ID=3159)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Fake Out](/Feats.aspx?ID=3161) (2nd), [Black Powder Boost](/Feats.aspx?ID=3166) (4th)",
+  "name": "Drifter",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 114",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 114 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 114"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 114 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With a gun in one hand and a blade or club in the other, you strike and move, never standing still.",
+  "summary_markdown": "With a gun in one hand and a blade or club in the other, you strike and move, never standing still.",
+  "text": " Drifter Source Guns &amp; Gears pg. 114 2.0 With a gun in one hand and a blade or club in the other, you strike and move, never standing still. Attributes Prioritize Dexterity, followed by Strength and Constitution. Skills Acrobatics, Athletics, Stealth, Thievery Way Drifter Starting Feat Sword and Pistol Higher-Level Feats Fake Out (2nd), Black Powder Boost (4th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=41",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Gunslinger",
+  "exclude_from_search": false,
+  "id": "class-sample-42",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Pistolero](/ClassSamples.aspx?ID=42)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 116 <sup>2.0</sup>\r\n\r\n_Quick wits and faster hands mean you're always ready for anything._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, followed by Charisma and Constitution.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Deception](/Skills.aspx?ID=5), [Intimidation](/Skills.aspx?ID=7), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">Way</title>\r\n[Pistolero](/Ways.aspx?ID=2)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Dual-Weapon Reload](/Feats.aspx?ID=1952)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Pistol Twirl](/Feats.aspx?ID=3162) (2nd), [Paired Shots](/Feats.aspx?ID=3168) (4th)",
+  "name": "Pistolero",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 116 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 116 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Quick wits and faster hands mean you're always ready for anything.",
+  "summary_markdown": "Quick wits and faster hands mean you're always ready for anything.",
+  "text": " Pistolero Source Guns &amp; Gears pg. 116 2.0 Quick wits and faster hands mean you're always ready for anything. Attributes Prioritize Dexterity, followed by Charisma and Constitution. Skills Acrobatics, Deception, Intimidation, Thievery Way Pistolero Starting Feat Dual-Weapon Reload Higher-Level Feats Pistol Twirl (2nd), Paired Shots (4th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=42",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Gunslinger",
+  "exclude_from_search": false,
+  "id": "class-sample-43",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Sniper](/ClassSamples.aspx?ID=43)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 118 <sup>2.0</sup>\r\n\r\n_You favor long-range guns and powerful shots taken while hiding at a safe distance.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity. Wisdom can improve your Perception and make your stubborn class feature even more effective, while Intelligence can give you access to a broader array of skills you can utilize from your perch, away from the thick of battle.\n\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Crafting](/Skills.aspx?ID=4), [Stealth](/Skills.aspx?ID=15), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Way</title>\r\n[Sniper](/Ways.aspx?ID=3)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Cover Fire](/Feats.aspx?ID=3155)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Risky Reload](/Feats.aspx?ID=3163) (2nd), [Alchemical Shot](/Feats.aspx?ID=3165) (4th)",
+  "name": "Sniper",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 118 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 118 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You favor long-range guns and powerful shots taken while hiding at a safe distance.\r\n",
+  "summary_markdown": "You favor long-range guns and powerful shots taken while hiding at a safe distance.\r\n",
+  "text": " Sniper Source Guns &amp; Gears pg. 118 2.0 You favor long-range guns and powerful shots taken while hiding at a safe distance. Attributes Prioritize Dexterity. Wisdom can improve your Perception and make your stubborn class feature even more effective, while Intelligence can give you access to a broader array of skills you can utilize from your perch, away from the thick of battle. Skills Acrobatics, Crafting, Stealth, Survival Way Sniper Starting Feat Cover Fire Higher-Level Feats Risky Reload (2nd), Alchemical Shot (4th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=43",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Gunslinger",
+  "exclude_from_search": false,
+  "id": "class-sample-44",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Spellshot](/ClassSamples.aspx?ID=44)</title>\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 141 <sup>2.0</sup>\r\n\r\n_You use a little bit of a magic and a whole lot of firepower to make your mark on the world._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity first, followed by Intelligence.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Arcana](/Skills.aspx?ID=2), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Way</title>\r\n[Spellshot](/Ways.aspx?ID=5)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Munitions Crafter](/Feats.aspx?ID=3158)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Spellshot Dedication](/Feats.aspx?ID=3267) (2nd), [Alchemical Shot](/Feats.aspx?ID=3165) (4th), [Fulminating Shot](/Feats.aspx?ID=3268) (6th)",
+  "name": "Spellshot",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 141",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 141 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 141"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 141 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You use a little bit of a magic and a whole lot of firepower to make your mark on the world.",
+  "summary_markdown": "You use a little bit of a magic and a whole lot of firepower to make your mark on the world.",
+  "text": " Spellshot Source Guns &amp; Gears pg. 141 2.0 You use a little bit of a magic and a whole lot of firepower to make your mark on the world. Attributes Prioritize Dexterity first, followed by Intelligence. Skills Acrobatics, Arcana, Occultism, Society, Stealth Way Spellshot Starting Feat Munitions Crafter Higher-Level Feats Spellshot Dedication (2nd), Alchemical Shot (4th), Fulminating Shot (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=44",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Psychic",
+  "exclude_from_search": false,
+  "id": "class-sample-45",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Student of Thoughts](/ClassSamples.aspx?ID=45)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 22\r\n\r\n_You hear and learn from other minds to grow your knowledge._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIntelligence, Wisdom, and Charisma \r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=2), [Occultism](/Skills.aspx?ID=11), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">Subconscious</title>\r\n[Gathered Lore](/SubconsciousMinds.aspx?ID=2)\r\n\r\n<title level=\"2\">Conscious</title>\r\n[The Silent Whisper](/ConsciousMinds.aspx?ID=4)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Mental Balm](/Feats.aspx?ID=3660) (2nd), [Astral Tether](/Feats.aspx?ID=3663) (4th), [Thoughtsense](/Feats.aspx?ID=3676) (8th)",
+  "name": "Student of Thoughts",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 22",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 22\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 22"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 22",
+  "speed": {},
+  "summary": "You hear and learn from other minds to grow your knowledge.",
+  "summary_markdown": "You hear and learn from other minds to grow your knowledge.",
+  "text": " Student of Thoughts Source Dark Archive pg. 22 You hear and learn from other minds to grow your knowledge. Attributes Intelligence, Wisdom, and Charisma Skills Arcana, Occultism, Society Subconscious Gathered Lore Conscious The Silent Whisper Higher-Level Feats Mental Balm (2nd), Astral Tether (4th), Thoughtsense (8th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=45",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Psychic",
+  "exclude_from_search": false,
+  "id": "class-sample-46",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Pillar of Resolve](/ClassSamples.aspx?ID=46)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 26\r\n\r\n_Determination is all you need to move obstacles out of your way. _\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nCharisma, Wisdom, Constitution \r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), [Occultism](/Skills.aspx?ID=11)\r\n\r\n<title level=\"2\">Subconscious</title>\r\n[Emotional Acceptance](/SubconsciousMinds.aspx?ID=1)\r\n\r\n<title level=\"2\">Conscious</title>\r\n[The Distant Grasp](/ConsciousMinds.aspx?ID=1)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Psi Burst](/Feats.aspx?ID=3661) (2nd), [Violent Unleash](/Feats.aspx?ID=3667) (4th), [Strain Mind](/Feats.aspx?ID=3671) (6th)",
+  "name": "Pillar of Resolve",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 26",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 26\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 26"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 26",
+  "speed": {},
+  "summary": "Determination is all you need to move obstacles out of your way. ",
+  "summary_markdown": "Determination is all you need to move obstacles out of your way. ",
+  "text": " Pillar of Resolve Source Dark Archive pg. 26 Determination is all you need to move obstacles out of your way. Attributes Charisma, Wisdom, Constitution Skills Diplomacy, Intimidation, Occultism Subconscious Emotional Acceptance Conscious The Distant Grasp Higher-Level Feats Psi Burst (2nd), Violent Unleash (4th), Strain Mind (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=46",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Psychic",
+  "exclude_from_search": false,
+  "id": "class-sample-47",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Nomadic Visionary](/ClassSamples.aspx?ID=47)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 28\r\n\r\n_Your powers let you cross any gulf as you seek new experiences._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nCharisma, Dexterity, Constitution \r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Occultism](/Skills.aspx?ID=11), [Survival](/Skills.aspx?ID=16)\r\n\r\n<title level=\"2\">Subconscious</title>\r\n[Wandering Reverie](/SubconsciousMinds.aspx?ID=4)\r\n\r\n<title level=\"2\">Conscious</title>\r\n[The Unbound Step](/ConsciousMinds.aspx?ID=6)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Warp Space](/Feats.aspx?ID=3662) (2nd), [Homing Beacon](/Feats.aspx?ID=3664) (4th), [Whispering Steps](/Feats.aspx?ID=3677) (8th)",
+  "name": "Nomadic Visionary",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 28",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 28\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 28"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 28",
+  "speed": {},
+  "summary": "Your powers let you cross any gulf as you seek new experiences.",
+  "summary_markdown": "Your powers let you cross any gulf as you seek new experiences.",
+  "text": " Nomadic Visionary Source Dark Archive pg. 28 Your powers let you cross any gulf as you seek new experiences. Attributes Charisma, Dexterity, Constitution Skills Acrobatics, Occultism, Survival Subconscious Wandering Reverie Conscious The Unbound Step Higher-Level Feats Warp Space (2nd), Homing Beacon (4th), Whispering Steps (8th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=47",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Thaumaturge",
+  "exclude_from_search": false,
+  "id": "class-sample-48",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Trickster](/ClassSamples.aspx?ID=48)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 40\r\n\r\n_You use mirrors to confound and control areas._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nRaise Charisma, Constitution, and Dexterity or Strength, depending on your weapon.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Deception](/Skills.aspx?ID=5), [Stealth](/Skills.aspx?ID=15), [Thievery](/Skills.aspx?ID=17)\r\n\r\n<title level=\"2\">First Implement</title>\r\n[Mirror](/Implements.aspx?ID=5)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Divine Disharmony](/Feats.aspx?ID=3700)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Talisman Esoterica](/Feats.aspx?ID=3706) (2nd), [Elaborate Talisman Esoterica](/Feats.aspx?ID=3716) (8th), [Grand Talisman Esoterica](/Feats.aspx?ID=3725) (14th), [Sever Magic](/Feats.aspx?ID=3729) (16th)",
+  "name": "Trickster",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 40\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 40",
+  "speed": {},
+  "summary": "You use mirrors to confound and control areas.",
+  "summary_markdown": "You use mirrors to confound and control areas.",
+  "text": " Trickster Source Dark Archive pg. 40 You use mirrors to confound and control areas. Attributes Raise Charisma, Constitution, and Dexterity or Strength, depending on your weapon. Skills Deception, Stealth, Thievery First Implement Mirror Starting Feat Divine Disharmony Higher-Level Feats Talisman Esoterica (2nd), Elaborate Talisman Esoterica (8th), Grand Talisman Esoterica (14th), Sever Magic (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=48",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Thaumaturge",
+  "exclude_from_search": false,
+  "id": "class-sample-49",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Protector](/ClassSamples.aspx?ID=49)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 44\r\n\r\n_You use amulets to defend yourself and allies._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nRaise Charisma, Constitution, and enough Strength and Dexterity for your armor.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Intimidation](/Skills.aspx?ID=7), [Medicine](/Skills.aspx?ID=9)\r\n\r\n<title level=\"2\">First Implement</title>\r\n[Amulet](/Implements.aspx?ID=1)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Root to Life](/Feats.aspx?ID=3702)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Turn Away Misfortune](/Feats.aspx?ID=3707) (2nd), [Paired Link](/Feats.aspx?ID=3710) (4th), [Seven-Part Link](/Feats.aspx?ID=3728) (16th)",
+  "name": "Protector",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 44",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 44\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 44"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 44",
+  "speed": {},
+  "summary": "You use amulets to defend yourself and allies.",
+  "summary_markdown": "You use amulets to defend yourself and allies.",
+  "text": " Protector Source Dark Archive pg. 44 You use amulets to defend yourself and allies. Attributes Raise Charisma, Constitution, and enough Strength and Dexterity for your armor. Skills Diplomacy, Intimidation, Medicine First Implement Amulet Starting Feat Root to Life Higher-Level Feats Turn Away Misfortune (2nd), Paired Link (4th), Seven-Part Link (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=49",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Thaumaturge",
+  "exclude_from_search": false,
+  "id": "class-sample-50",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Lorekeeper](/ClassSamples.aspx?ID=50)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 46\r\n\r\n_You use tomes to channel knowledge._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nRaise Charisma as well as other mental abilities, plus Constitution for survivability.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=6), [Medicine](/Skills.aspx?ID=9), [Society](/Skills.aspx?ID=14)\r\n\r\n<title level=\"2\">First Implement</title>\r\n[Tome](/Implements.aspx?ID=7)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Diverse Lore](/Feats.aspx?ID=3699)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Esoteric Warden](/Feats.aspx?ID=3705) (2nd), [Instructive Strike](/Feats.aspx?ID=3709) (4th), [Know-It-All](/Feats.aspx?ID=197) (8th), [Shared Warding](/Feats.aspx?ID=3722) (12th)",
+  "name": "Lorekeeper",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 46",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 46\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 46"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 46",
+  "speed": {},
+  "summary": "You use tomes to channel knowledge.",
+  "summary_markdown": "You use tomes to channel knowledge.",
+  "text": " Lorekeeper Source Dark Archive pg. 46 You use tomes to channel knowledge. Attributes Raise Charisma as well as other mental abilities, plus Constitution for survivability. Skills Diplomacy, Medicine, Society First Implement Tome Starting Feat Diverse Lore Higher-Level Feats Esoteric Warden (2nd), Instructive Strike (4th), Know-It-All (8th), Shared Warding (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=50",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Kineticist",
+  "exclude_from_search": false,
+  "id": "class-sample-51",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Element Explorer](/ClassSamples.aspx?ID=51)</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 20 <sup>2.0</sup>\r\n\r\n_You grow your elemental magic over time until eventually you can attune to all six elements.\r\n_\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nConstitution, Dexterity, Charisma\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=1), [Deception](/Skills.aspx?ID=5), [Stealth](/Skills.aspx?ID=15)\r\n\r\n<title level=\"2\">Gate's Threshold</title>\r\n**5th** [Ravel of Thorns](/Feats.aspx?ID=4285); **9th** [Call the Hurricane](/Feats.aspx?ID=4274); **13th** [Rock Rampart](/Feats.aspx?ID=4232); **17th** [Alloy Flesh and Steel](/Feats.aspx?ID=4263)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Flying Flame](/Feats.aspx?ID=4238)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Four Winds](/Feats.aspx?ID=4208) (1st), [Whisper on the Wind](/Feats.aspx?ID=4209) (1st), [Two-Element Infusion](/Feats.aspx?ID=4193) (6th)",
+  "name": "Element Explorer",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 20",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 20 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 20"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 20 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You grow your elemental magic over time until eventually you can attune to all six elements.\r\n",
+  "summary_markdown": "You grow your elemental magic over time until eventually you can attune to all six elements.\r\n",
+  "text": " Element Explorer Source Rage of Elements pg. 20 2.0 You grow your elemental magic over time until eventually you can attune to all six elements. Attributes Constitution, Dexterity, Charisma Skills Acrobatics, Deception, Stealth Gate's Threshold 5th Ravel of Thorns; 9th Call the Hurricane; 13th Rock Rampart; 17th Alloy Flesh and Steel Starting Feat Flying Flame Higher-Level Feats Four Winds (1st), Whisper on the Wind (1st), Two-Element Infusion (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=51",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Bard",
+  "exclude_from_search": false,
+  "id": "class-sample-59",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Dancer](/ClassSamples.aspx?ID=59)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 102 <sup>2.0</sup>\r\n\r\n_Through myriad styles of dance, you inspire your allies and channel otherworldly magic._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nMake Charisma highest, followed by Dexterity. Add to Constitution for more health and to Intelligence for skills.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Athletics](/Skills.aspx?ID=36), [Diplomacy](/Skills.aspx?ID=39), [Medicine](/Skills.aspx?ID=42), [Occultism](/Skills.aspx?ID=44), [Performance](/Skills.aspx?ID=45)\r\n\r\n<title level=\"2\">Muse</title>\r\n[Maestro](/Muses.aspx?ID=6)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Uplifting Overture](/Feats.aspx?ID=4587) (2nd), [Triple Time](/Feats.aspx?ID=4594) (4th), [Allegro](/Feats.aspx?ID=4622) (14th)",
+  "name": "Dancer",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 102",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 102 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 102"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 102 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Through myriad styles of dance, you inspire your allies and channel otherworldly magic.",
+  "summary_markdown": "Through myriad styles of dance, you inspire your allies and channel otherworldly magic.",
+  "text": " Dancer Source Player Core pg. 102 2.0 Through myriad styles of dance, you inspire your allies and channel otherworldly magic. Attributes Make Charisma highest, followed by Dexterity. Add to Constitution for more health and to Intelligence for skills. Skills Acrobatics, Athletics, Diplomacy, Medicine, Occultism, Performance Muse Maestro Higher-Level Feats Uplifting Overture (2nd), Triple Time (4th), Allegro (14th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=59",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Cleric",
+  "exclude_from_search": false,
+  "id": "class-sample-60",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Gozren](/ClassSamples.aspx?ID=60)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 118 <sup>2.0</sup>\r\n\r\n_Following the Wind and the Waves, you protect the beauty of nature in all its forms._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nTake Wisdom for your spellcasting and Strength for attacks.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=36), [Nature](/Skills.aspx?ID=43), [Religion](/Skills.aspx?ID=46), [Survival](/Skills.aspx?ID=49)\r\n\r\n<title level=\"2\">Deity</title>\r\n[Gozreh](/Deities.aspx?ID=284) (divine font: [_heal_](/Spells.aspx?ID=1554))\r\n\r\n<title level=\"2\">Doctrine</title>\r\n[warpriest](/Doctrines.aspx?ID=5)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Emblazon Armament](/Feats.aspx?ID=4649) (2nd), [Divine Weapon](/Feats.aspx?ID=4663) (6th)",
+  "name": "Gozren",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 118 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 118 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Following the Wind and the Waves, you protect the beauty of nature in all its forms.",
+  "summary_markdown": "Following the Wind and the Waves, you protect the beauty of nature in all its forms.",
+  "text": " Gozren Source Player Core pg. 118 2.0 Following the Wind and the Waves, you protect the beauty of nature in all its forms. Attributes Take Wisdom for your spellcasting and Strength for attacks. Skills Athletics, Nature, Religion, Survival Deity Gozreh (divine font: heal ) Doctrine warpriest Higher-Level Feats Emblazon Armament (2nd), Divine Weapon (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=60",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Cleric",
+  "exclude_from_search": false,
+  "id": "class-sample-61",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Pharasmin](/ClassSamples.aspx?ID=61)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 120 <sup>2.0</sup>\r\n\r\n_A follower of the Lady of Graves, you respect the sanctity of both life and death._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom. Charisma helps you spread the word of your faith.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=39), [Medicine](/Skills.aspx?ID=42), [Occultism](/Skills.aspx?ID=44), [Religion](/Skills.aspx?ID=46)\r\n\r\n<title level=\"2\">Deity</title>\r\n[cloistered cleric](/Doctrines.aspx?ID=4) ([death](/Domains.aspx?ID=70) domain)\r\n\r\n<title level=\"2\">Doctrine</title>\r\n[Pharasma](/Deities.aspx?ID=290) (divine font: [_heal_](/Spells.aspx?ID=1554))\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Panic the Dead](/Feats.aspx?ID=4650) (2nd), [Selective Energy](/Feats.aspx?ID=4665) (6th)",
+  "name": "Pharasmin",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 120",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 120 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 120"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 120 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A follower of the Lady of Graves, you respect the sanctity of both life and death.",
+  "summary_markdown": "A follower of the Lady of Graves, you respect the sanctity of both life and death.",
+  "text": " Pharasmin Source Player Core pg. 120 2.0 A follower of the Lady of Graves, you respect the sanctity of both life and death. Attributes Prioritize Wisdom. Charisma helps you spread the word of your faith. Skills Diplomacy, Medicine, Occultism, Religion Deity cloistered cleric (death domain) Doctrine Pharasma (divine font: heal ) Higher-Level Feats Panic the Dead (2nd), Selective Energy (6th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=61",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-62",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Leaf Druid](/ClassSamples.aspx?ID=62)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 134 <sup>2.0</sup>\r\n\r\n_You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom. Take Dexterity and Constitution for your defenses, and Charisma to be more diplomatic or Strength if you want to deal more damage in melee.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Diplomacy](/Skills.aspx?ID=39), [Medicine](/Skills.aspx?ID=42), [Nature](/Skills.aspx?ID=43), [Survival](/Skills.aspx?ID=49)\r\n\r\n<title level=\"2\">Order</title>\r\n[Leaf](/DruidicOrders.aspx?ID=9)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Call of the Wild](/Feats.aspx?ID=4716) (2nd), [Forest Passage](/Feats.aspx?ID=4722) (4th), [Plant Empathy](/Feats.aspx?ID=4711) (6th), [Plant Shape](/Feats.aspx?ID=4744) (10th), [Green Tongue](/Feats.aspx?ID=341) (12th)",
+  "name": "Leaf Druid",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 134",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 134 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 134"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 134 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you.",
+  "summary_markdown": "You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you.",
+  "text": " Leaf Druid Source Player Core pg. 134 2.0 You’re a nurturing caretaker in tune with the natural world and the magic of life. A little plant creature called a leshy accompanies you. Attributes Prioritize Wisdom. Take Dexterity and Constitution for your defenses, and Charisma to be more diplomatic or Strength if you want to deal more damage in melee. Skills Diplomacy, Medicine, Nature, Survival Order Leaf Higher-Level Feats Call of the Wild (2nd), Forest Passage (4th), Plant Empathy (6th), Plant Shape (10th), Green Tongue (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=62",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-63",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Storm Druid](/ClassSamples.aspx?ID=63)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 132 <sup>2.0</sup>\r\n\r\n_You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom. You typically stay at range, so take a high Dexterity. You can identify creatures from the safety of the air with high Intelligence.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Medicine](/Skills.aspx?ID=42), [Nature](/Skills.aspx?ID=43), [Survival](/Skills.aspx?ID=49)\r\n\r\n<title level=\"2\">Order</title>\r\n[storm](/DruidicOrders.aspx?ID=10)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Widen Spell](/Feats.aspx?ID=4715) (1st), [Storm Retribution](/Feats.aspx?ID=4732) (6th), [Wind Caller](/Feats.aspx?ID=4740) (8th), [Primal Focus](/Feats.aspx?ID=4751) (12th), [Invoke Disaster](/Feats.aspx?ID=4762) (18th)",
+  "name": "Storm Druid",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 132",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 132 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 132"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 132 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells.",
+  "summary_markdown": "You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells.",
+  "text": " Storm Druid Source Player Core pg. 132 2.0 You call upon the power of nature to let loose bolts of lightning, intense weather, and elemental spells. Attributes Prioritize Wisdom. You typically stay at range, so take a high Dexterity. You can identify creatures from the safety of the air with high Intelligence. Skills Acrobatics, Medicine, Nature, Survival Order storm Higher-Level Feats Widen Spell (1st), Storm Retribution (6th), Wind Caller (8th), Primal Focus (12th), Invoke Disaster (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=63",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Druid",
+  "exclude_from_search": false,
+  "id": "class-sample-64",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Untamed Druid](/ClassSamples.aspx?ID=64)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 130 <sup>2.0</sup>\r\n\r\n_Taking on the shapes of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite society._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Wisdom and Strength so you can cast spells and enter melee combat. You’ll also want Dexterity and Constitution to improve your defenses and survivability.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Athletics](/Skills.aspx?ID=36), [Intimidation](/Skills.aspx?ID=40), [Nature](/Skills.aspx?ID=43)\r\n\r\n<title level=\"2\">Order</title>\r\n[untamed](/DruidicOrders.aspx?ID=11)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Form Control](/Feats.aspx?ID=4723) (4th), [Insect Shape](/Feats.aspx?ID=4730) (6th), [Soaring Shape](/Feats.aspx?ID=4739) (8th), [Plant Shape](/Feats.aspx?ID=4744) (10th), [Monstrosity Shape](/Feats.aspx?ID=4760) (16th)",
+  "name": "Untamed Druid",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 130",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 130 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 130"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 130 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Taking on the shapes of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite …",
+  "summary_markdown": "Taking on the shapes of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite …",
+  "text": " Untamed Druid Source Player Core pg. 130 2.0 Taking on the shapes of dangerous creatures, you fight with feral intensity. Though you trust your instincts, you might mistrust the ways of polite society. Attributes Prioritize Wisdom and Strength so you can cast spells and enter melee combat. You’ll also want Dexterity and Constitution to improve your defenses and survivability. Skills Acrobatics, Athletics, Intimidation, Nature Order untamed Higher-Level Feats Form Control (4th), Insect Shape (6th), Soaring Shape (8th), Plant Shape (10th), Monstrosity Shape (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=64",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-65",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Archer](/ClassSamples.aspx?ID=65)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 148 <sup>2.0</sup>\r\n\r\n_You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity. Constitution and Wisdom helps with survivability, and Strength adds damage with propulsive weapons.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Medicine](/Skills.aspx?ID=42), [Stealth](/Skills.aspx?ID=48), [Thievery](/Skills.aspx?ID=50)\n\n<title level=\"2\">Starting Feat</title>\r\n[Point Blank Stance](/Feats.aspx?ID=4771)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Double Shot](/Feats.aspx?ID=4788) (4th), [Triple Shot](/Feats.aspx?ID=4808) (6th), [Debilitating Shot](/Feats.aspx?ID=4823) (10th), [Opening Stance (Fighter)](/Feats.aspx?ID=4845) (14th), [Multishot Stance](/Feats.aspx?ID=4851) (16th), [Impossible Volley](/Feats.aspx?ID=4854) (18th)",
+  "name": "Archer",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 148",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 148 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 148"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 148 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies.",
+  "summary_markdown": "You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies.",
+  "text": " Archer Source Player Core pg. 148 2.0 You take out your opponents from a distance with ranged weapons, and you excel at dispatching flying or other hard-to-reach enemies. Attributes Prioritize Dexterity. Constitution and Wisdom helps with survivability, and Strength adds damage with propulsive weapons. Skills Acrobatics, Medicine, Stealth, Thievery Starting Feat Point Blank Stance Higher-Level Feats Double Shot (4th), Triple Shot (6th), Debilitating Shot (10th), Opening Stance (Fighter) (14th), Multishot Stance (16th), Impossible Volley (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=65",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-66",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Bully](/ClassSamples.aspx?ID=66)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 144 <sup>2.0</sup>\r\n\r\n_Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in your way._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritizing Strength and Constitution. Wisdom helps with survivability and increases your damage; Dexterity enables extra maneuverability.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Athletics](/Skills.aspx?ID=36), [Crafting](/Skills.aspx?ID=37), [Intimidation](/Skills.aspx?ID=40), [Medicine](/Skills.aspx?ID=42)\n\n<title level=\"2\">Starting Feat</title>\r\n[Vicious Swing](/Feats.aspx?ID=4775)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Slam Down](/Feats.aspx?ID=4794) (4th), [Furious Focus](/Feats.aspx?ID=4801) (6th), [Positioning Assault](/Feats.aspx?ID=4815) (8th), [Brutal Finish](/Feats.aspx?ID=4832) (12th), [Savage Critical](/Feats.aspx?ID=4855) (18th)",
+  "name": "Bully",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 144",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 144 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 144"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 144 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in …",
+  "summary_markdown": "Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in …",
+  "text": " Bully Source Player Core pg. 144 2.0 Using a two-handed weapon, you push your foes about the battlefield and deal grievous wounds. You excel at taking down the biggest enemy standing in your way. Attributes Prioritizing Strength and Constitution. Wisdom helps with survivability and increases your damage; Dexterity enables extra maneuverability. Skills Athletics, Crafting, Intimidation, Medicine Starting Feat Vicious Swing Higher-Level Feats Slam Down (4th), Furious Focus (6th), Positioning Assault (8th), Brutal Finish (12th), Savage Critical (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=66",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Fighter",
+  "exclude_from_search": false,
+  "id": "class-sample-67",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Duelist](/ClassSamples.aspx?ID=67)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 146 <sup>2.0</sup>\r\n\r\n_With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being ready for their clumsy attacks._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Strength. Dexterity and Wisdom help with survivability and versatility, and Constitution grants some extra toughness.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Athletics](/Skills.aspx?ID=36), [Deception](/Skills.aspx?ID=38), [Medicine](/Skills.aspx?ID=42)\n\n<title level=\"2\">Starting Feat</title>\r\n[Snagging Strike](/Feats.aspx?ID=4773)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Dueling Parry (Fighter)](/Feats.aspx?ID=4781) (2nd), [Disarming Stance](/Feats.aspx?ID=4800) (6th), [Disarming Twist](/Feats.aspx?ID=4824) (10th), [Dueling Dance (Fighter)](/Feats.aspx?ID=4834) (12th), [Opening Stance (Fighter)](/Feats.aspx?ID=4845) (14th), [Master of Many Styles](/Feats.aspx?ID=4850) (16th)",
+  "name": "Duelist",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 146",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 146 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 146"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 146 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being …",
+  "summary_markdown": "With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being …",
+  "text": " Duelist Source Player Core pg. 146 2.0 With one hand free and a blade in the others, you are adept at foiling your opponents by way of misdirection, disarming strikes, and by always being ready for their clumsy attacks. Attributes Prioritize Strength. Dexterity and Wisdom help with survivability and versatility, and Constitution grants some extra toughness. Skills Acrobatics, Athletics, Deception, Medicine Starting Feat Snagging Strike Higher-Level Feats Dueling Parry (Fighter) (2nd), Disarming Stance (6th), Disarming Twist (10th), Dueling Dance (Fighter) (12th), Opening Stance (Fighter) (14th), Master of Many Styles (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=67",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Ranger",
+  "exclude_from_search": false,
+  "id": "class-sample-68",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Animal Ranger](/ClassSamples.aspx?ID=68)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 160 <sup>2.0</sup>\r\n\r\n_Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you want to deal more damage.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Athletics](/Skills.aspx?ID=36), [Medicine](/Skills.aspx?ID=42), [Nature](/Skills.aspx?ID=43), [Stealth](/Skills.aspx?ID=48), [Survival](/Skills.aspx?ID=49)\r\n\r\n<title level=\"2\">Hunter's Edge</title>\r\n[outwit](/HuntersEdge.aspx?ID=6)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[Animal Companion](/Feats.aspx?ID=4708)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Companion's Cry](/Feats.aspx?ID=4871) (4th), [Mature Animal Companion (Ranger)](/Feats.aspx?ID=4879) (6th), [Incredible Companion (Ranger)](/Feats.aspx?ID=4888) (10th), [Side by Side (Ranger)](/Feats.aspx?ID=4896) (12th), [Specialized Companion (Ranger)](/Feats.aspx?ID=4905) (16th), [Masterful Companion](/Feats.aspx?ID=4909) (18th)",
+  "name": "Animal Ranger",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 160",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 160 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 160"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 160 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem.",
+  "summary_markdown": "Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem.",
+  "text": " Animal Ranger Source Player Core pg. 160 2.0 Sharing a powerful bond, you and your beloved animal explore the wilds and fight in tandem. Attributes Prioritize Dexterity, followed by Constitution and Wisdom. Take Strength if you want to deal more damage. Skills Acrobatics, Athletics, Medicine, Nature, Stealth, Survival Hunter's Edge outwit Starting Feat Animal Companion Higher-Level Feats Companion's Cry (4th), Mature Animal Companion (Ranger) (6th), Incredible Companion (Ranger) (10th), Side by Side (Ranger) (12th), Specialized Companion (Ranger) (16th), Masterful Companion (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=68",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Rogue",
+  "exclude_from_search": false,
+  "id": "class-sample-69",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Ruffian](/ClassSamples.aspx?ID=69)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 174 <sup>2.0</sup>\r\n\r\n_You rely on brute force and underhanded deeds to get the job done._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Dexterity, plus Strength to deal extra damage. Charisma helps you intimidate others.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Acrobatics](/Skills.aspx?ID=34), [Athletics](/Skills.aspx?ID=36), [Deception](/Skills.aspx?ID=38), [Diplomacy](/Skills.aspx?ID=39), [Intimidation](/Skills.aspx?ID=40), [Society](/Skills.aspx?ID=47), [Stealth](/Skills.aspx?ID=48), [Survival](/Skills.aspx?ID=49), [Thievery](/Skills.aspx?ID=50)\r\n\r\n<title level=\"2\">Rogue's Racket</title>\r\n[Ruffian](/Rackets.aspx?ID=7)\r\n\r\n<title level=\"2\">Starting Feat</title>\r\n[You're Next](/Feats.aspx?ID=4922)\r\n\r\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Brutal Beating](/Feats.aspx?ID=4923) (2nd), [Head Stomp](/Feats.aspx?ID=4931) (4th), [Vicious Debilitations](/Feats.aspx?ID=4966) (10th), [Stay Down!](/Feats.aspx?ID=4978) (14th), [Powerful Sneak](/Feats.aspx?ID=4988) (18th)",
+  "name": "Ruffian",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 174",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 174 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 174"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 174 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You rely on brute force and underhanded deeds to get the job done.",
+  "summary_markdown": "You rely on brute force and underhanded deeds to get the job done.",
+  "text": " Ruffian Source Player Core pg. 174 2.0 You rely on brute force and underhanded deeds to get the job done. Attributes Prioritize Dexterity, plus Strength to deal extra damage. Charisma helps you intimidate others. Skills Acrobatics, Athletics, Deception, Diplomacy, Intimidation, Society, Stealth, Survival, Thievery Rogue's Racket Ruffian Starting Feat You're Next Higher-Level Feats Brutal Beating (2nd), Head Stomp (4th), Vicious Debilitations (10th), Stay Down! (14th), Powerful Sneak (18th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=69",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Witch",
+  "exclude_from_search": false,
+  "id": "class-sample-70",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Hedge Witch](/ClassSamples.aspx?ID=70)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 188 <sup>2.0</sup>\r\n\r\n_With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIntelligence fuels your spells. Dexterity and Constitution provide solid defenses, while Charisma can help you influence people\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Crafting](/Skills.aspx?ID=37), [Diplomacy](/Skills.aspx?ID=39), [Occultism](/Skills.aspx?ID=44), [Society](/Skills.aspx?ID=47)\r\n\r\n<title level=\"2\">Lessons</title>\r\nBasic: [protection](/Lessons.aspx?ID=19); greater: [mischief](/Lessons.aspx?ID=21); major: [renewal](/Lessons.aspx?ID=25)\r\n\r\n<title level=\"2\">Patron</title>\r\n[Spinner of threads](/Patrons.aspx?ID=16)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Cauldron](/Feats.aspx?ID=4993) (1st), [Basic Lesson](/Feats.aspx?ID=4996) (2nd), [Greater Lesson](/Feats.aspx?ID=5002) (6th), [Witch’s Bottle](/Feats.aspx?ID=5008) (8th), [Major Lesson](/Feats.aspx?ID=5010) (10th), [Hex Focus](/Feats.aspx?ID=5013) (12th)",
+  "name": "Hedge Witch",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 188",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 188 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 188"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 188 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies.",
+  "summary_markdown": "With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies.",
+  "text": " Hedge Witch Source Player Core pg. 188 2.0 With an eccentric personality and unconventional magic, you and your familiar support your allies and undermine your enemies. Attributes Intelligence fuels your spells. Dexterity and Constitution provide solid defenses, while Charisma can help you influence people Skills Crafting, Diplomacy, Occultism, Society Lessons Basic: protection; greater: mischief; major: renewal Patron Spinner of threads Higher-Level Feats Cauldron (1st), Basic Lesson (2nd), Greater Lesson (6th), Witch’s Bottle (8th), Major Lesson (10th), Hex Focus (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=70",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Witch",
+  "exclude_from_search": false,
+  "id": "class-sample-71",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Ice Witch](/ClassSamples.aspx?ID=71)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 190 <sup>2.0</sup>\r\n\r\n_With a heart of ice, perhaps inherited from your patron, you command the chill winds and biting cold of winter._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nIntelligence is crucial for your spells. Wisdom makes you perceptive and supports your knowledge of the wild. Dexterity and Constitution round out your defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Crafting](/Skills.aspx?ID=37), [Deception](/Skills.aspx?ID=38), [Nature](/Skills.aspx?ID=43), [Survival](/Skills.aspx?ID=49)\r\n\r\n<title level=\"2\">Lessons</title>\r\nBasic: [elements](/Lessons.aspx?ID=17); greater: [snow](/Lessons.aspx?ID=23); major: [death](/Lessons.aspx?ID=24)\r\n\r\n<title level=\"2\">Patron</title>\r\n[Silence in Snow](/Patrons.aspx?ID=15)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Cackle](/Feats.aspx?ID=4992) (1st), [Basic Lesson](/Feats.aspx?ID=4996) (2nd), [Greater Lesson](/Feats.aspx?ID=5002) (6th), [Murksight](/Feats.aspx?ID=5005) (8th), [Major Lesson](/Feats.aspx?ID=5010) (10th), [Hex Focus](/Feats.aspx?ID=5013) (12th)",
+  "name": "Ice Witch",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 190",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 190 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 190"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 190 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "With a heart of ice, perhaps inherited from your patron, you command the chill winds and biting cold of winter.",
+  "summary_markdown": "With a heart of ice, perhaps inherited from your patron, you command the chill winds and biting cold of winter.",
+  "text": " Ice Witch Source Player Core pg. 190 2.0 With a heart of ice, perhaps inherited from your patron, you command the chill winds and biting cold of winter. Attributes Intelligence is crucial for your spells. Wisdom makes you perceptive and supports your knowledge of the wild. Dexterity and Constitution round out your defenses. Skills Crafting, Deception, Nature, Survival Lessons Basic: elements; greater: snow; major: death Patron Silence in Snow Higher-Level Feats Cackle (1st), Basic Lesson (2nd), Greater Lesson (6th), Murksight (8th), Major Lesson (10th), Hex Focus (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=71",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Wizard",
+  "exclude_from_search": false,
+  "id": "class-sample-72",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Mindbender](/ClassSamples.aspx?ID=72)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 202 <sup>2.0</sup>\r\n\r\n_You excel at bypassing threats without violence, using mental nudges and illusions to fool the senses._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence. Increase Dexterity and Charisma so you can sneak and deceive people with skills as well as spells.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=35), [Deception](/Skills.aspx?ID=38), [Diplomacy](/Skills.aspx?ID=39), [Occultism](/Skills.aspx?ID=44), [Society](/Skills.aspx?ID=47), [Stealth](/Skills.aspx?ID=48), [Thievery](/Skills.aspx?ID=50)\r\n\r\n<title level=\"2\">Arcane School</title>\r\n[School of Mentalism](/ArcaneSchools.aspx?ID=19)\r\n\r\n<title level=\"2\">Thesis</title>\r\n[Spell blending](/ArcaneThesis.aspx?ID=8)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Conceal Spell](/Feats.aspx?ID=4997) (2nd), [Convincing Illusion](/Feats.aspx?ID=5032) (6th), [Advanced School Spell](/Feats.aspx?ID=5036) (8th), [Magic Sense](/Feats.aspx?ID=5044) (12th)",
+  "name": "Mindbender",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 202 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 202 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You excel at bypassing threats without violence, using mental nudges and illusions to fool the senses.",
+  "summary_markdown": "You excel at bypassing threats without violence, using mental nudges and illusions to fool the senses.",
+  "text": " Mindbender Source Player Core pg. 202 2.0 You excel at bypassing threats without violence, using mental nudges and illusions to fool the senses. Attributes Prioritize Intelligence. Increase Dexterity and Charisma so you can sneak and deceive people with skills as well as spells. Skills Arcana, Deception, Diplomacy, Occultism, Society, Stealth, Thievery Arcane School School of Mentalism Thesis Spell blending Higher-Level Feats Conceal Spell (2nd), Convincing Illusion (6th), Advanced School Spell (8th), Magic Sense (12th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=72",
+  "weakness": {}
+ },
+ {
+  "category": "class-sample",
+  "class": "Wizard",
+  "exclude_from_search": false,
+  "id": "class-sample-73",
+  "markdown": "<title level=\"1\" right=\"Class Sample Build\">[Student of the Void](/ClassSamples.aspx?ID=73)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\r\n\r\n_Your magic summons spirits, transports you, and lets you channel the energy of other planes. You know about odd creatures and distant realms._\r\n\r\n<title level=\"2\">Attributes</title>\r\n\r\nPrioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defenses.\r\n\r\n<title level=\"2\">Skills</title>\r\n\r\n[Arcana](/Skills.aspx?ID=35), [Crafting](/Skills.aspx?ID=37), [Diplomacy](/Skills.aspx?ID=39), [Nature](/Skills.aspx?ID=43), [Occultism](/Skills.aspx?ID=44), [Religion](/Skills.aspx?ID=46), [Society](/Skills.aspx?ID=47)\r\n\r\n<title level=\"2\">Arcane School</title>\r\n[School of the Boundary](/ArcaneSchools.aspx?ID=17)\r\n\r\n<title level=\"2\">Thesis</title>\r\n[Improved familiar attunement](/ArcaneThesis.aspx?ID=7)\n\n<title level=\"2\">Higher-Level Feats</title>\r\n\r\n[Enhanced Familiar](/Feats.aspx?ID=4717) (2nd), [Advanced School Spell](/Feats.aspx?ID=5036) (8th), [Effortless Concentration](/Feats.aspx?ID=4629) (16th)",
+  "name": "Student of the Void",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 200",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 200"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your magic summons spirits, transports you, and lets you channel the energy of other planes. You know about odd creatures and distant realms.",
+  "summary_markdown": "Your magic summons spirits, transports you, and lets you channel the energy of other planes. You know about odd creatures and distant realms.",
+  "text": " Student of the Void Source Player Core pg. 200 2.0 Your magic summons spirits, transports you, and lets you channel the energy of other planes. You know about odd creatures and distant realms. Attributes Prioritize Intelligence. Dexterity, Constitution, and Wisdom round out your defenses. Skills Arcana, Crafting, Diplomacy, Nature, Occultism, Religion, Society Arcane School School of the Boundary Thesis Improved familiar attunement Higher-Level Feats Enhanced Familiar (2nd), Advanced School Spell (8th), Effortless Concentration (16th)",
+  "type": "Class Sample Build",
+  "url": "/ClassSamples.aspx?ID=73",
+  "weakness": {}
+ }
+]

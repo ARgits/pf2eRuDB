@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import { useModalWindows } from '@stores/modalWindows';
-import type { generalContent } from '@types';
-import { Draggable } from 'gsap/Draggable';
-import { computed, ref, type Ref, watch } from 'vue';
-import ContentItem from '@components/content/ContentItem.vue';
+import { useModalWindows } from "@stores/modalWindows";
+import type { generalContent } from "@types";
+import { Draggable } from "gsap/Draggable";
+import { computed, ref, type Ref, watch } from "vue";
+import ContentItem from "@components/content/ContentItem.vue";
 import { faSquareXmark } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
-import { storeToRefs } from 'pinia';
+import { storeToRefs } from "pinia";
 const props = defineProps<{ id: generalContent["id"] }>()
 const modalStore = useModalWindows()
 const { closeModal } = modalStore
@@ -18,7 +18,7 @@ const data = computed(() => item.value.data)
 const name = computed(() => item.value.name)
 watch(containerRef, () => {
   if (containerRef.value) {
-    const zIndex = [...document.querySelectorAll('.modal[id]')].reduce((prev, next) => Math.max(prev, parseInt(getComputedStyle(next).zIndex) || 1000), 1000);
+    const zIndex = [...document.querySelectorAll(".modal[id]")].reduce((prev, next) => Math.max(prev, parseInt(getComputedStyle(next).zIndex) || 1000), 1000);
     new Draggable(`.modal#${props.id}`, {
       dragClickables: false,
       trigger: `.modal#${props.id} .header`,
@@ -102,7 +102,7 @@ watch(containerRef, () => {
 
     &-enter-active,
     &-leave-active {
-        transition: all .5s ease;
+        transition: opacity .5s ease;
     }
 
     &-enter-from,

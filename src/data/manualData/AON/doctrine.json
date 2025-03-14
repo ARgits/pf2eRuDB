@@ -1,0 +1,150 @@
+[
+ {
+  "category": "doctrine",
+  "exclude_from_search": false,
+  "id": "doctrine-2",
+  "markdown": "<title level=\"1\" right=\"Cleric Doctrine \" pfs=\"Standard\">[Cloistered Cleric](/Doctrines.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 119 <sup>4.0</sup>\n\nYou are a cleric of the cloth, focusing on divine magic and your connection to your deity’s [domains](Domains.aspx).\r\n\r\n- **First Doctrine (1st)** You gain the [Domain Initiate](/Feats.aspx?ID=265) cleric feat.\r\n- **Second Doctrine (3rd)** Your proficiency rank for Fortitude saves increases to expert.\r\n- **Third Doctrine (7th)** Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert.\r\n- **Fourth Doctrine (11th)** You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary.\r\n- **Fifth Doctrine (15th)** Your proficiency ranks for divine spell attack rolls and spell DCs increase to master.\r\n- **Final Doctrine (19th)** Your proficiency ranks for divine spell attack rolls and spell DCs increase to legendary.",
+  "name": "Cloistered Cleric",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "doctrine-4"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 119 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 119 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .",
+  "summary_markdown": "You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .",
+  "text": " Cloistered Cleric Source Core Rulebook pg. 119 4.0 You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s domains. - First Doctrine (1st) You gain the Domain Initiate cleric feat. - Second Doctrine (3rd) Your proficiency rank for Fortitude saves increases to expert. - Third Doctrine (7th) Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert. - Fourth Doctrine (11th) You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary. - Fifth Doctrine (15th) Your proficiency ranks for divine spell attack rolls and spell DCs increase to master. - Final Doctrine (19th) Your proficiency ranks for divine spell attack rolls and spell DCs increase to legendary.",
+  "type": "Cleric Doctrine",
+  "url": "/Doctrines.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "doctrine",
+  "exclude_from_search": false,
+  "id": "doctrine-3",
+  "markdown": "<title level=\"1\" right=\"Cleric Doctrine \" pfs=\"Standard\">[Warpriest](/Doctrines.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 120 <sup>4.0</sup>\n\nYou have trained in the more militant doctrine of your church, focusing on both spells and battle.\r\n\r\n- **First Doctrine (1st)** You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the [Shield Block](/Feats.aspx?ID=839) general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the [Deadly Simplicity](/Feats.aspx?ID=264) cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor.\r\n- **Second Doctrine (3rd)** You’re trained in martial weapons.\r\n- **Third Doctrine (7th)** You gain expert proficiency with your deity's favored weapon, simple weapons, and [unarmed](/Traits.aspx?ID=199) attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's [critical specialization effect](/Rules.aspx?ID=235); use your divine spell DC if necessary.\r\n- **Fourth Doctrine (11th)** Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert.\r\n- **Fifth Doctrine (15th)** Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.\r\n- **Final Doctrine (19th)** Your proficiency ranks for divine spell attack rolls and spell DCs increase to master.",
+  "name": "Warpriest",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 120",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "doctrine-5"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 120 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained in the more militant doctrine of your church, focusing on both spells and battle.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 120"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 120 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You have trained in the more militant doctrine of your church, focusing on both spells and battle.",
+  "summary_markdown": "You have trained in the more militant doctrine of your church, focusing on both spells and battle.",
+  "text": " Warpriest Source Core Rulebook pg. 120 4.0 You have trained in the more militant doctrine of your church, focusing on both spells and battle. - First Doctrine (1st) You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the Shield Block general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the Deadly Simplicity cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor. - Second Doctrine (3rd) You’re trained in martial weapons. - Third Doctrine (7th) You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your divine spell DC if necessary. - Fourth Doctrine (11th) Your proficiency ranks for divine spell attack rolls and spell DCs increase to expert. - Fifth Doctrine (15th) Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead. - Final Doctrine (19th) Your proficiency ranks for divine spell attack rolls and spell DCs increase to master.",
+  "type": "Cleric Doctrine",
+  "url": "/Doctrines.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "doctrine",
+  "exclude_from_search": false,
+  "id": "doctrine-4",
+  "legacy_id": [
+   "doctrine-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Cleric Doctrine \" pfs=\"Standard\">[Cloistered Cleric](/Doctrines.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>\n\nYou are a cleric of the cloth, focusing on divine magic and your connection to your deity’s [domains](Domains.aspx).\r\n\r\n- **First Doctrine (1st)** You gain the [Domain Initiate](/Feats.aspx?ID=4644) cleric feat.\r\n- **Second Doctrine (3rd)** Your proficiency rank for Fortitude saves increases to expert.\r\n- **Third Doctrine (7th)** Your proficiency ranks for the spell\r\nattack modifier and spell DC statistics increase to expert.\r\n- **Fourth Doctrine (11th)** You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's [critical specialization](/Rules.aspx?ID=2203) effect; use your spell DC in place of your class DC.\r\n- **Fifth Doctrine (15th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to master.\r\n- **Final Doctrine (19th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to legendary.",
+  "name": "Cloistered Cleric",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 112",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 112"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .",
+  "summary_markdown": "You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s  domains .",
+  "text": " Cloistered Cleric Source Player Core pg. 112 2.0 You are a cleric of the cloth, focusing on divine magic and your connection to your deity’s domains. - First Doctrine (1st) You gain the Domain Initiate cleric feat. - Second Doctrine (3rd) Your proficiency rank for Fortitude saves increases to expert. - Third Doctrine (7th) Your proficiency ranks for the spell attack modifier and spell DC statistics increase to expert. - Fourth Doctrine (11th) You gain expert proficiency with your deity's favored weapon, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; use your spell DC in place of your class DC. - Fifth Doctrine (15th) Your proficiency ranks for the spell attack modifier and spell DC statistics increase to master. - Final Doctrine (19th) Your proficiency ranks for the spell attack modifier and spell DC statistics increase to legendary.",
+  "type": "Cleric Doctrine",
+  "url": "/Doctrines.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "doctrine",
+  "exclude_from_search": false,
+  "id": "doctrine-5",
+  "legacy_id": [
+   "doctrine-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Cleric Doctrine \" pfs=\"Standard\">[Warpriest](/Doctrines.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>\n\nYou have trained in the more militant doctrine of your church, focusing on both spells and battle.\r\n\r\n- **First Doctrine (1st)** You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the [Shield Block](/Feats.aspx?ID=5212) general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the [Deadly Simplicity](/Feats.aspx?ID=4642) cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor.\r\n- **Second Doctrine (3rd)** You’re trained in martial weapons.\r\n- **Third Doctrine (7th)** You gain expert proficiency with your deity's favored weapon, martial weapons, simple weapons, and [unarmed](/Traits.aspx?ID=199) attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's [critical specialization](/Rules.aspx?ID=2203) effect; You can use your spell DC in place of your class DC.\r\n- **Fourth Doctrine (11th)** Your proficiency ranks for the spell attack modifier and spell DC statistics increase to expert.\r\n- **Fifth Doctrine (15th)** Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead.\r\n- **Final Doctrine (19th)** You gain master proficiency with your deity's favored weapon, spell attack modifier, and spell DC.",
+  "name": "Warpriest",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 112",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained in the more militant doctrine of your church, focusing on both spells and battle.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 112"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 112 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You have trained in the more militant doctrine of your church, focusing on both spells and battle.",
+  "summary_markdown": "You have trained in the more militant doctrine of your church, focusing on both spells and battle.",
+  "text": " Warpriest Source Player Core pg. 112 2.0 You have trained in the more militant doctrine of your church, focusing on both spells and battle. - First Doctrine (1st) You’re trained in light and medium armor, and you have expert proficiency in Fortitude saves. You gain the Shield Block general feat, a reaction to reduce damage with a shield. If your deity’s weapon is a simple weapon or an unarmed attack, you gain the Deadly Simplicity cleric feat. At 13th level, if you gain the divine defense class feature, you also gain expert proficiency in light and medium armor. - Second Doctrine (3rd) You’re trained in martial weapons. - Third Doctrine (7th) You gain expert proficiency with your deity's favored weapon, martial weapons, simple weapons, and unarmed attacks. When you critically succeed at an attack roll using your deity's favored weapon, you apply the weapon's critical specialization effect; You can use your spell DC in place of your class DC. - Fourth Doctrine (11th) Your proficiency ranks for the spell attack modifier and spell DC statistics increase to expert. - Fifth Doctrine (15th) Your proficiency rank for Fortitude saves increases to master. When you roll a success at a Fortitude save, you get a critical success instead. - Final Doctrine (19th) You gain master proficiency with your deity's favored weapon, spell attack modifier, and spell DC.",
+  "type": "Cleric Doctrine",
+  "url": "/Doctrines.aspx?ID=5",
+  "weakness": {}
+ }
+]

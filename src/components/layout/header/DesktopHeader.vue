@@ -1,16 +1,16 @@
 <script setup lang="ts">
-import { computed } from 'vue';
-import { RouterLink, useRoute } from 'vue-router';
-import ContainerSlideTransition from '@components/transitions/ContainerSlideTransition.vue';
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faArrowTurnDown } from '@fortawesome/free-solid-svg-icons';
-import CustomLinkComponent from '@components/utility/CustonLinkComponent.vue';
+import { computed } from "vue";
+import { RouterLink, useRoute } from "vue-router";
+import ContainerSlideTransition from "@components/transitions/ContainerSlideTransition.vue";
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import { faArrowTurnDown } from "@fortawesome/free-solid-svg-icons";
+import CustomLinkComponent from "@/components/utility/CustomLinkComponent.vue";
 const route = useRoute()
 const routeName = computed(() => route.name as string)
 </script>
 <template>
   <nav class="nav">
-    <div>
+    <div class="nav_container">
       <CustomLinkComponent
         name="feat"
         label="Способности"
@@ -75,18 +75,19 @@ const routeName = computed(() => route.name as string)
     border-radius: var(--border-radius);
     display: flex;
     flex-direction: column;
-
-
+    background-color: rgba(var(--background-secondary-transparent));
+    // padding: var(--main-padding-half);
+    &_container{
+      display: flex;
+      // gap:var(--gap);
+    }
     & a {
         padding: 0 1rem;
-        border-radius: 5px 5px 0 0;
-
+        border-radius: var(--border-radius);
         font-size: 110%;
-
-
+        color:var(--color-text);
         &.router-link-active {
             position: relative;
-            color: black
         }
     }
 

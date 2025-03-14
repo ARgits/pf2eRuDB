@@ -1,12 +1,12 @@
 <script setup lang="ts">
-import { ref, capitalize} from 'vue'
-import { OnClickOutside,} from '@vueuse/components';
-import ContainerFadeSlideTransition from '../transitions/ContainerFadeSlideTransition.vue';
-import {useViewStore} from '@/stores/viewStore'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faEye, faEyeSlash, faArrowUp, faArrowDown } from '@fortawesome/free-solid-svg-icons';
-import {storeToRefs} from 'pinia'
-import CustomSortSettings from './CustomSortSettings.vue';
+import { ref, capitalize} from "vue"
+import { OnClickOutside,} from "@vueuse/components";
+import ContainerFadeSlideTransition from "../transitions/ContainerFadeSlideTransition.vue";
+import {useViewStore} from "@/stores/viewStore"
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import { faEye, faEyeSlash, faArrowUp, faArrowDown } from "@fortawesome/free-solid-svg-icons";
+import {storeToRefs} from "pinia"
+import CustomSortSettings from "./CustomSortSettings.vue";
 const isOpened = ref(false)
 
 const viewStore = useViewStore()
@@ -79,7 +79,7 @@ function close() {
   position: relative;
   padding: 5px;
   width: 200px;
-  background: var(--background-img);
+  background-color:rgba(var(--background-primary));
   border: 1px solid black;
   border-radius: var(--border-radius);
   box-sizing: border-box;
@@ -89,7 +89,7 @@ function close() {
   }
 
   .inner {
-    background: var(--background-img);
+    background-color:inherit;
     border: 1px solid black;
     border-radius: var(--border-radius);
     position:absolute;

@@ -1,45 +1,51 @@
 <script lang="ts" setup>
-import { ref, capitalize, reactive, computed, watch, } from 'vue'
-import { OnClickOutside,} from '@vueuse/components';
-import ContainerFadeSlideTransition from '../transitions/ContainerFadeSlideTransition.vue';
-import {useViewStore} from '@/stores/viewStore'
-import { FontAwesomeIcon } from '@fortawesome/vue-fontawesome';
-import { faArrowUp, faArrowDown, faPlus, faMinus } from '@fortawesome/free-solid-svg-icons';
-import {storeToRefs} from 'pinia'
-import type {columnItem} from '@/types'
+import { ref, capitalize, reactive, computed, watch, } from "vue"
+import { OnClickOutside,} from "@vueuse/components";
+import ContainerFadeSlideTransition from "../transitions/ContainerFadeSlideTransition.vue";
+import {useViewStore} from "@/stores/viewStore"
+import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
+import { faArrowUp, faArrowDown, faPlus, faMinus } from "@fortawesome/free-solid-svg-icons";
+import {storeToRefs} from "pinia"
+import type {columnItem} from "@/types"
 const isOpened = ref(false)
 const viewStore = useViewStore()
 const {currentColumns,currentSortingCriteria, currentSortingOrder} = storeToRefs(viewStore)
 const { saveSortingCriteria, getSortingOrder } = viewStore
-const sortOptions = reactive<{key:columnItem['key']|'-',sorting:'ASC'|'DESC'}[]>(currentSortingCriteria.value?currentSortingCriteria.value.map(v=>{return{...v}}):[{key:'name',sorting:'ASC'}])
-const sortWithoutEmpty = computed(()=>sortOptions.filter((v)=>v.key!=='-') as {key:columnItem["key"],sorting:'ASC'|'DESC'}[])
-const sortingOrder = computed(()=>sortWithoutEmpty.value.map((v)=>
-{switch (v.key){
-case "name":
-case "original_name":{
-  return `nullif(lower(${v.key}),'') ${v.sorting} nulls last`
-}
-case "rarity":{
-  return `array_position(array['common','uncommon','rare','unique'],rarity) ${v.sorting}`
-}
-default:{
-  return `${v.key} ${v.sorting}`
-}
-}}
-).join(', '))
+const sortOptions = reactive<{ key:columnItem["key"]|"-", sorting:"ASC"|"DESC" }[]>(currentSortingCriteria.value?
+    currentSortingCriteria.value.map(v=>{ return {...v} }):
+    [{key:"name",sorting:"ASC"}]);
+const sortWithoutEmpty = computed(()=>sortOptions.filter((v)=>v.key!=="-") as { key:columnItem["key"], sorting:"ASC"|"DESC" }[])
+const sortingOrder = computed(()=>sortWithoutEmpty.value.map((v)=>{
+  switch (v.key){
+      case "name":
+      case "original_name":{
+        return `nullif(lower(${v.key}),'') ${v.sorting} nulls last`
+      }
+      case "rarity":{
+        return `array_position(array['common','uncommon','rare','unique'],rarity) ${v.sorting}`
+      }
+      default:{
+        return `${v.key} ${v.sorting}`
+      }
+  } }
+).join(", "))
 const sortingChanged = computed(()=> currentSortingOrder.value!==sortingOrder.value)
 function close() {
   isOpened.value = false
+
   // sortOptions.splice(0,sortOptions.length,...currentSortingCriteria.value!.map(v=>{return{...v}}))
 }
 function addSorting(){
-  sortOptions.push({key:'-',sorting:'ASC'})
+  sortOptions.push({
+    key:"-",
+    sorting:"ASC"
+  })
   console.log(getSortingOrder(),sortingOrder.value)
 }
 function removeSort(ind:number){
   sortOptions.splice(ind,1)
 }
-function moveColumnUp(key:columnItem['key']|"-"){
+function moveColumnUp(key:columnItem["key"]|"-"){
   const index = sortOptions.findIndex(item => item.key === key)
   if(index > 0){
     const temp = sortOptions[index];
@@ -48,7 +54,7 @@ function moveColumnUp(key:columnItem['key']|"-"){
 
   }
 }
-function moveColumnDown(key:columnItem['key']|"-"){
+function moveColumnDown(key:columnItem["key"]|"-"){
   const index = sortOptions.findIndex(item => item.key === key)
   if(index<sortOptions.length-1&&index!==-1){
     const temp = sortOptions[index];
@@ -56,7 +62,7 @@ function moveColumnDown(key:columnItem['key']|"-"){
     sortOptions[index + 1] = temp
   }
 }
-watch(isOpened,()=>sortOptions.splice(0,sortOptions.length,...currentSortingCriteria.value!.map(v=>{return{...v}})))
+watch(isOpened,()=>sortOptions.splice(0,sortOptions.length,...currentSortingCriteria.value!.map(v=>{ return{...v} })))
 </script>
 <template>
   <OnClickOutside @trigger="close">
@@ -133,9 +139,9 @@ watch(isOpened,()=>sortOptions.splice(0,sortOptions.length,...currentSortingCrit
 <style lang="scss" scoped>
 .wrapper {
   position: relative;
-  padding: 5px;
-  width: 300px;
-  background: var(--background-img);
+  padding: var(--main-padding-half);
+  // width: 300px;
+  background-color: rgba(var(--background-primary-transparent));
   border: 1px solid black;
   border-radius: var(--border-radius);
   box-sizing: border-box;
@@ -145,13 +151,13 @@ watch(isOpened,()=>sortOptions.splice(0,sortOptions.length,...currentSortingCrit
   }
 
   .inner {
-    background: var(--background-img);
+    background-color: rgba(var(--background-primary-transparent));
     border: 1px solid black;
     border-radius: var(--border-radius);
     position:absolute;
     z-index: 2;
-    padding: 5px;
-    width: 100%;
+    padding: var(--main-padding-half);
+    // width: 100%;
     top: 0;
     left: 0;
     display: grid;
@@ -167,7 +173,7 @@ watch(isOpened,()=>sortOptions.splice(0,sortOptions.length,...currentSortingCrit
       will-change: background-color;
       user-select: none;
       border:1px solid black;
-      padding: 5px;
+      padding: var(--main-padding-half);
       display: flex;
       justify-content: space-between;
       &.hidden{

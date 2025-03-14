@@ -1,0 +1,2563 @@
+[
+ {
+  "ac": 17,
+  "ammunition": "ballista bolt (5 sp, 1 Bulk)",
+  "ammunition_markdown": "ballista bolt (5 sp, 1 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "fortitude_save": 12,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-2",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 5\">[Ballista](/SiegeWeapons.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 320 gp\r\n\r\n**Ammunition** ballista bolt (5 sp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 10 feet long, 5 feet wide, 4 feet tall\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17\r\n\r\n**Fort** +12\r\n\r\n**Ref** +11\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 20 feet (pulled or pushed)\r\n\r\n---\r\n\r\nResembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. Also referred to as a scorpion, this weapon requires fewer crew members than the larger heavy ballista and can be Aimed and Loaded much more quickly.<br /> **Aim** <actions string=\"Single Action\" /> 35 feet, minimum distance 25 feet<br /> **Load**<actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times<br /> **Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=15), [manipulate](/Traits.aspx?ID=104), [range increment 120](/Traits.aspx?ID=248) feet) 4d12 piercing, single target, DC 19 Reflex",
+  "name": "Ballista",
+  "pfs": "Restricted",
+  "price": 32000,
+  "price_raw": "320 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 11,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nResembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>",
+  "space": "10 feet long, 5 feet wide, 4 feet tall",
+  "speed": {
+   "land": 20,
+   "max": 20
+  },
+  "speed_markdown": "20 feet (pulled or pushed)",
+  "speed_raw": "20 feet (pulled or pushed)",
+  "summary": "Resembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. …",
+  "summary_markdown": "Resembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. …",
+  "text": " Ballista Source Guns &amp; Gears pg. 74 2.0 Price 320 gp Ammunition ballista bolt (5 sp, 1 Bulk) --- Usage mounted Space 10 feet long, 5 feet wide, 4 feet tall Crew 2 Proficiency martial --- AC 17 Fort +12 Ref +11 Hardness 10 HP 40 Immunities object immunities --- Speed 20 feet (pulled or pushed) --- Resembling a massive crossbow mounted on a tripod, but with a pair of arms for torsion instead of a single prod, a ballista flings massive bolts. Also referred to as a scorpion, this weapon requires fewer crew members than the larger heavy ballista and can be Aimed and Loaded much more quickly. Aim Single Action 35 feet, minimum distance 25 feet Load Two Actions (manipulate) 2 times Launch Single Action (attack, manipulate, range increment 120 feet) 4d12 piercing, single target, DC 19 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=2",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "bulk": 20,
+  "bulk_raw": "20",
+  "category": "siege-weapon",
+  "crew": "6",
+  "exclude_from_search": false,
+  "id": "siege-weapon-3",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 5\">[Battering Ram](/SiegeWeapons.aspx?ID=3)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 160 gp\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable, held in 12 hands\r\n\r\n**Bulk** 20\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nSimple but powerful, a battering ram is a full tree stripped of limbs with one end clad in iron, often shaped like a ram's head. Large handles are affixed to the sides so it can be hefted and carried by a crew.<br /> Ram <actions string=\"Two Actions\" /> **Requirements** The other members of the crew have Readied to Stride on your order; **Effect** You and the crew Stride, with a maximum distance equal to the slowest crew member's Speed, then make a melee Strike with the ram against a structure or an unattended, stationary object. The damage of this Strike is 5d8 + the highest Strength modifier among members of the crew.",
+  "name": "Battering Ram",
+  "pfs": "Restricted",
+  "price": 16000,
+  "price_raw": "160 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSimple but powerful, a battering ram is a full tree stripped of limbs with one end clad in iron, often shaped like a ram's head. Large handles are …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Simple but powerful, a battering ram is a full tree stripped of limbs with one end clad in iron, often shaped like a ram's head. Large handles are …",
+  "summary_markdown": "Simple but powerful, a battering ram is a full tree stripped of limbs with one end clad in iron, often shaped like a ram's head. Large handles are …",
+  "text": " Battering Ram Source Guns &amp; Gears pg. 74 2.0 Price 160 gp --- Usage portable, held in 12 hands Bulk 20 Crew 6 Proficiency martial --- Simple but powerful, a battering ram is a full tree stripped of limbs with one end clad in iron, often shaped like a ram's head. Large handles are affixed to the sides so it can be hefted and carried by a crew. Ram Two Actions Requirements The other members of the crew have Readied to Stride on your order; Effect You and the crew Stride, with a maximum distance equal to the slowest crew member's Speed, then make a melee Strike with the ram against a structure or an unattended, stationary object. The damage of this Strike is 5d8 + the highest Strength modifier among members of the crew.",
+  "trait": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=3",
+  "usage": "portable, held in 12 hands",
+  "usage_markdown": "portable, held in 12 hands",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "bulk": 20,
+  "bulk_raw": "20",
+  "category": "siege-weapon",
+  "crew": "6",
+  "exclude_from_search": false,
+  "id": "siege-weapon-4",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 6\">[Covered Battering Ram](/SiegeWeapons.aspx?ID=4)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 250 gp\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable, held in 12 hands\r\n\r\n**Bulk** 20\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nThough it has the same Ram activity as the [basic battering ram](/SiegeWeapons.aspx?ID=3), a covered battering ram is additionally suspended from a protective roof attached to large wheels. This gives the crew members greater cover against attacks from outside. The cover is on the left and right flank, but open on the front and rear to allow for operating the ram. The roof has AC 23, Hardness 12, HP 48, and BT 24. Breaking the roof doesn't affect the operation of the battering ram but eliminates the cover.",
+  "name": "Covered Battering Ram",
+  "pfs": "Restricted",
+  "price": 25000,
+  "price_raw": "250 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThough it has the same Ram activity as the  basic battering ram , a covered battering ram is additionally suspended from a protective roof attached …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 74 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Though it has the same Ram activity as the  basic battering ram , a covered battering ram is additionally suspended from a protective roof attached …",
+  "summary_markdown": "Though it has the same Ram activity as the  basic battering ram , a covered battering ram is additionally suspended from a protective roof attached …",
+  "text": " Covered Battering Ram Source Guns &amp; Gears pg. 74 2.0 Price 250 gp --- Usage portable, held in 12 hands Bulk 20 Crew 6 Proficiency martial --- Though it has the same Ram activity as the basic battering ram, a covered battering ram is additionally suspended from a protective roof attached to large wheels. This gives the crew members greater cover against attacks from outside. The cover is on the left and right flank, but open on the front and rear to allow for operating the ram. The roof has AC 23, Hardness 12, HP 48, and BT 24. Breaking the roof doesn't affect the operation of the battering ram but eliminates the cover.",
+  "trait": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=4",
+  "usage": "portable, held in 12 hands",
+  "usage_markdown": "portable, held in 12 hands",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 20,
+  "ammunition": "stones (0 gp, 4 Bulk)",
+  "ammunition_markdown": "stones (0 gp, 4 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 15,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 60,
+  "hp_raw": "60",
+  "id": "siege-weapon-5",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Catapult](/SiegeWeapons.aspx?ID=5)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 650 gp\r\n\r\n**Ammunition** stones (0 gp, 4 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 10 feet long, 10 feet wide, 6 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20\r\n\r\n**Fort** +15\r\n\r\n**Ref** +8\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 60\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pushed or pulled)\r\n\r\n---\r\n\r\nA sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the payload, typically heavy stones. The arm is winched back to create torsion, until the release is pulled to abruptly swing the arm forward and fling the payload.<br /> **Aim**<actions string=\"Two Actions\" /> 50 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=15), [manipulate](/Traits.aspx?ID=104), [range increment 150 feet](/Traits.aspx?ID=248)) 5d10 bludgeoning, 10-foot burst, DC 22 Reflex",
+  "name": "Catapult",
+  "pfs": "Restricted",
+  "price": 65000,
+  "price_raw": "650 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 8,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>",
+  "space": "10 feet long, 10 feet wide, 6 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pushed or pulled)",
+  "speed_raw": "15 feet (pushed or pulled)",
+  "summary": "A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the …",
+  "summary_markdown": "A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the …",
+  "text": " Catapult Source Guns &amp; Gears pg. 75 2.0 Price 650 gp Ammunition stones (0 gp, 4 Bulk) --- Usage mounted Space 10 feet long, 10 feet wide, 6 feet high Crew 2-4 Proficiency martial --- AC 20 Fort +15 Ref +8 Hardness 10 HP 60 Immunities object immunities --- Speed 15 feet (pushed or pulled) --- A sturdy wooden frame holds the spring-loaded beam that gives this weapon its power. At the end of the beam, a bowl-shaped wooden recession holds the payload, typically heavy stones. The arm is winched back to create torsion, until the release is pulled to abruptly swing the arm forward and fling the payload. Aim Two Actions 50 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range increment 150 feet) 5d10 bludgeoning, 10-foot burst, DC 22 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=5",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "bulk": 3,
+  "bulk_raw": "3",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "id": "siege-weapon-6",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 2\">[Door Ram](/SiegeWeapons.aspx?ID=6)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Small\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 30 gp\n\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable, held in 4 hands\r\n\r\n**Bulk** 3\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** simple\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nA door ram is a small siege weapon meant for breaking down doors, palisades, and weak portcullises. It consists of a log with an iron cap, and has handholds carved into it or grips attached to it.<br /> **Ram** <actions string=\"Two Actions\" /> **Requirements** The other member of the crew has Readied to Stride on your order; **Effect** You and the other crew member Stride, with a maximum distance equal to the slowest crew member's Speed, then make a melee Strike with the ram against a structure or an unattended, stationary object. The damage of this Strike is 2d8 + the highest Strength modifier among members of the crew.",
+  "name": "Door Ram",
+  "pfs": "Restricted",
+  "price": 3000,
+  "price_raw": "30 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA door ram is a small siege weapon meant for breaking down doors, palisades, and weak portcullises. It consists of a log with an iron cap, and has …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Small"
+  ],
+  "size_id": [
+   2
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A door ram is a small siege weapon meant for breaking down doors, palisades, and weak portcullises. It consists of a log with an iron cap, and has …",
+  "summary_markdown": "A door ram is a small siege weapon meant for breaking down doors, palisades, and weak portcullises. It consists of a log with an iron cap, and has …",
+  "text": " Door Ram Source Guns &amp; Gears pg. 75 2.0 Price 30 gp --- Usage portable, held in 4 hands Bulk 3 Crew 2 Proficiency simple --- A door ram is a small siege weapon meant for breaking down doors, palisades, and weak portcullises. It consists of a log with an iron cap, and has handholds carved into it or grips attached to it. Ram Two Actions Requirements The other member of the crew has Readied to Stride on your order; Effect You and the other crew member Stride, with a maximum distance equal to the slowest crew member's Speed, then make a melee Strike with the ram against a structure or an unattended, stationary object. The damage of this Strike is 2d8 + the highest Strength modifier among members of the crew.",
+  "trait": [
+   "Portable",
+   "Uncommon",
+   "Small"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Portable",
+   "Uncommon",
+   "Small"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=6",
+  "usage": "portable, held in 4 hands",
+  "usage_markdown": "portable, held in 4 hands",
+  "weakness": {},
+  "weapon_category": "simple"
+ },
+ {
+  "ac": 22,
+  "ammunition": "heavy ballista bolt (3 gp, 3 Bulk)",
+  "ammunition_markdown": "heavy ballista bolt (3 gp, 3 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-6",
+  "exclude_from_search": false,
+  "fortitude_save": 18,
+  "hardness": 15,
+  "hardness_raw": "15",
+  "hp": 80,
+  "hp_raw": "80",
+  "id": "siege-weapon-7",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 8\">[Heavy Ballista](/SiegeWeapons.aspx?ID=7)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 900 gp\r\n\r\n**Ammunition** heavy ballista bolt (3 gp, 3 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 15 feet long, 12 feet wide, 12 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22\r\n\r\n**Fort** +18\r\n\r\n**Ref** +12\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 15\r\n\r\n**HP** 80\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pushed or pulled)\r\n\r\n---\r\n\r\nCapable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar fortifications.<br /> **Aim**<actions string=\"Two Actions\" /> 60 feet, minimum distance 40 feet <br />**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=15), [manipulate](/Traits.aspx?ID=104), [range increment 180 feet](/Traits.aspx?ID=248)) 7d12 piercing, single target, DC 23 Reflex",
+  "name": "Heavy Ballista",
+  "pfs": "Restricted",
+  "price": 90000,
+  "price_raw": "900 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 12,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCapable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 75 <sup>2.0</sup>",
+  "space": "15 feet long, 12 feet wide, 12 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pushed or pulled)",
+  "speed_raw": "15 feet (pushed or pulled)",
+  "summary": "Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar …",
+  "summary_markdown": "Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar …",
+  "text": " Heavy Ballista Source Guns &amp; Gears pg. 75 2.0 Price 900 gp Ammunition heavy ballista bolt (3 gp, 3 Bulk) --- Usage mounted Space 15 feet long, 12 feet wide, 12 feet high Crew 3-6 Proficiency martial --- AC 22 Fort +18 Ref +12 Hardness 15 HP 80 Immunities object immunities --- Speed 15 feet (pushed or pulled) --- Capable of launching bolts the size of fully grown trees, a heavy ballista is best suited to smashing down castle gates, walls, or similar fortifications. Aim Two Actions 60 feet, minimum distance 40 feet Load Two Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range increment 180 feet) 7d12 piercing, single target, DC 23 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=7",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 20,
+  "ammunition": "springald arrows (5 sp, 2 Bulk)",
+  "ammunition_markdown": "springald arrows (5 sp, 2 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-5",
+  "exclude_from_search": false,
+  "fortitude_save": 16,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-8",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Springald](/SiegeWeapons.aspx?ID=8)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 700 gp\r\n\r\n**Ammunition** springald arrows (5 sp, 2 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 15 feet long, 12 feet wide, 15 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-5\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20\r\n\r\n**Fort** +16\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 10 feet (pushed or pulled)\r\n\r\n---\r\n\r\nA springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has a flat back end. Releasing the board strikes the backs of the arrows, sending them hurtling through the air.<br /> **Aim**<actions string=\"Two Actions\" /> 30 feet, minimum distance 50 feet<br /> **Load**<actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times<br /> **Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=15), [manipulate](/Traits.aspx?ID=104), [range increment 100 feet](/Traits.aspx?ID=248)) 5d8 piercing, three different targets within a 15-foot burst, DC 22 Reflex",
+  "name": "Springald",
+  "pfs": "Restricted",
+  "price": 70000,
+  "price_raw": "700 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 76",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 13,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 76"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>",
+  "space": "15 feet long, 12 feet wide, 15 feet high",
+  "speed": {
+   "land": 10,
+   "max": 10
+  },
+  "speed_markdown": "10 feet (pushed or pulled)",
+  "speed_raw": "10 feet (pushed or pulled)",
+  "summary": "A springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has …",
+  "summary_markdown": "A springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has …",
+  "text": " Springald Source Guns &amp; Gears pg. 76 2.0 Price 700 gp Ammunition springald arrows (5 sp, 2 Bulk) --- Usage mounted Space 15 feet long, 12 feet wide, 15 feet high Crew 3-5 Proficiency martial --- AC 20 Fort +16 Ref +13 Hardness 10 HP 40 Immunities object immunities --- Speed 10 feet (pushed or pulled) --- A springald consists of a wooden board cranked backward and chutes that hold up to three oversized arrows. Rather than having a nock, each arrow has a flat back end. Releasing the board strikes the backs of the arrows, sending them hurtling through the air. Aim Two Actions 30 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times Launch Single Action (attack, manipulate, range increment 100 feet) 5d8 piercing, three different targets within a 15-foot burst, DC 22 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=8",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 24,
+  "ammunition": "stones (0 gp, 6 Bulk)",
+  "ammunition_markdown": "stones (0 gp, 6 Bulk)",
+  "category": "siege-weapon",
+  "crew": "4-6",
+  "exclude_from_search": false,
+  "fortitude_save": 21,
+  "hardness": 17,
+  "hardness_raw": "17",
+  "hp": 68,
+  "hp_raw": "68",
+  "id": "siege-weapon-9",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 10\">[Trebuchet](/SiegeWeapons.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 2,000 gp\r\n\r\n**Ammunition** stones (0 gp, 6 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 25 feet long, 15 feet wide, 25 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 4-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 24\r\n\r\n**Fort** +21\r\n\r\n**Ref** +16\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 17\r\n\r\n**HP** 68\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nBuilt with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the ideal point in the arm's arc.<br /> **Aim**<actions string=\"Two Actions\" /> 100 feet, minimum distance 200 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=15), [manipulate](/Traits.aspx?ID=104), [range increment 400 feet](/Traits.aspx?ID=248)) 8d10 bludgeoning, 20-foot burst, DC 26 Reflex",
+  "name": "Trebuchet",
+  "pfs": "Restricted",
+  "price": 200000,
+  "price_raw": "2,000 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 76",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 16,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBuilt with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Gargantuan"
+  ],
+  "size_id": [
+   6
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 76"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 76 <sup>2.0</sup>",
+  "space": "25 feet long, 15 feet wide, 25 feet high",
+  "speed": {},
+  "summary": "Built with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the …",
+  "summary_markdown": "Built with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the …",
+  "text": " Trebuchet Source Guns &amp; Gears pg. 76 2.0 Price 2,000 gp Ammunition stones (0 gp, 6 Bulk) --- Usage mounted Space 25 feet long, 15 feet wide, 25 feet high Crew 4-6 Proficiency martial --- AC 24 Fort +21 Ref +16 Hardness 17 HP 68 Immunities object immunities --- Built with a long wooden arm and a heavy counterweight, a trebuchet can hurl massive projectiles from a large sling, releasing the projectile at the ideal point in the arm's arc. Aim Two Actions 100 feet, minimum distance 200 feet Load Two Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range increment 400 feet) 8d10 bludgeoning, 20-foot burst, DC 26 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=9",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 29,
+  "ammunition": "bomb arrows (100 gp, 2 Bulk)",
+  "ammunition_markdown": "bomb arrows (100 gp, 2 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-5",
+  "exclude_from_search": false,
+  "fortitude_save": 23,
+  "hardness": 15,
+  "hardness_raw": "15",
+  "hp": 200,
+  "hp_raw": "200",
+  "id": "siege-weapon-10",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 13,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 13\">[Alchemical Springald](/SiegeWeapons.aspx?ID=10)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 6,000 gp\r\n\r\n**Ammunition** bomb arrows (100 gp, 2 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 15 feet long, 12 feet wide, 15 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-5\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29\r\n\r\n**Fort** +23\r\n\r\n**Ref** +16\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 15\r\n\r\n**HP** 200\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 10 feet (pushed or pulled)\r\n\r\n---\r\n\r\nLike the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted and balanced bomb arrows that carry black powder enhanced alchemical payloads that explode on impact.<br /> **Aim** <actions string=\"Two Actions\" /> 30 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 100 feet](/Traits.aspx?ID=248)) 10d6 damage and 3 [splash](/Traits.aspx?ID=150) damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the splash damage only once from the launch, even if they're in the area of more than one of the three splashes.",
+  "name": "Alchemical Springald",
+  "pfs": "Restricted",
+  "price": 600000,
+  "price_raw": "6,000 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 173",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 16,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLike the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 173"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>",
+  "space": "15 feet long, 12 feet wide, 15 feet high",
+  "speed": {
+   "land": 10,
+   "max": 10
+  },
+  "speed_markdown": "10 feet (pushed or pulled)",
+  "speed_raw": "10 feet (pushed or pulled)",
+  "summary": "Like the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted …",
+  "summary_markdown": "Like the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted …",
+  "text": " Alchemical Springald Source Guns &amp; Gears pg. 173 2.0 Price 6,000 gp Ammunition bomb arrows (100 gp, 2 Bulk) --- Usage mounted (black powder) Space 15 feet long, 12 feet wide, 15 feet high Crew 3-5 Proficiency martial --- AC 29 Fort +23 Ref +16 Hardness 15 HP 200 Immunities object immunities --- Speed 10 feet (pushed or pulled) --- Like the standard springald, an alchemical springald can launch three arrows simultaneously when its paddle is released. It fires specially crafted and balanced bomb arrows that carry black powder enhanced alchemical payloads that explode on impact. Aim Two Actions 30 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times Launch Single Action (manipulate, range increment 100 feet) 10d6 damage and 3 splash damage, three different targets within a 15-foot burst, DC 30 Reflex. The damage type depends on the alchemical ammunition used: acid, cold, electricity, or fire. Creatures take the splash damage only once from the launch, even if they're in the area of more than one of the three splashes.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=10",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ammunition": "ram powder charge (2 gp, 1 Bulk)",
+  "ammunition_markdown": "ram powder charge (2 gp, 1 Bulk)",
+  "bulk": 14,
+  "bulk_raw": "14",
+  "category": "siege-weapon",
+  "crew": "4",
+  "exclude_from_search": false,
+  "id": "siege-weapon-11",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Blasting Ram](/SiegeWeapons.aspx?ID=11)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 360 gp\r\n\r\n**Ammunition** ram powder charge (2 gp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable (black powder), held in 8 hands\r\n\r\n**Bulk** 14\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nA blasting ram is a smaller battering ram that supplements the crew's size with explosive force. A steel reservoir holds a charge of black powder that ignites on impact. The body of the ram is reinforced to absorb the force of the explosion, while the head itself has a blast shield to protect the crew. Despite being a portable siege weapon, a blast ram has the Load action, which the crew uses to load the powder charge in the ram's head.<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times<br /> **Ram** <actions string=\"Two Actions\" /> **Requirements** The other members of the crew have Readied to Stride on your order; **Effect** You and the crew Stride, with a maximum distance equal to the slowest crew member's Speed. Then, make a melee Strike with the ram against a structure or unattended stationary object. As you do, the black powder in the steel reservoir explodes, significantly increasing the damage of your attack. Due to the black powder's additional force, the damage of this Strike is 7d8 + the highest Strength modifier among members of the crew.",
+  "name": "Blasting Ram",
+  "pfs": "Restricted",
+  "price": 36000,
+  "price_raw": "360 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 173",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA blasting ram is a smaller battering ram that supplements the crew's size with explosive force. A steel reservoir holds a charge of black powder …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 173"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A blasting ram is a smaller battering ram that supplements the crew's size with explosive force. A steel reservoir holds a charge of black powder …",
+  "summary_markdown": "A blasting ram is a smaller battering ram that supplements the crew's size with explosive force. A steel reservoir holds a charge of black powder …",
+  "text": " Blasting Ram Source Guns &amp; Gears pg. 173 2.0 Price 360 gp Ammunition ram powder charge (2 gp, 1 Bulk) --- Usage portable (black powder), held in 8 hands Bulk 14 Crew 4 Proficiency martial --- A blasting ram is a smaller battering ram that supplements the crew's size with explosive force. A steel reservoir holds a charge of black powder that ignites on impact. The body of the ram is reinforced to absorb the force of the explosion, while the head itself has a blast shield to protect the crew. Despite being a portable siege weapon, a blast ram has the Load action, which the crew uses to load the powder charge in the ram's head. Load Two Actions (manipulate) 2 times Ram Two Actions Requirements The other members of the crew have Readied to Stride on your order; Effect You and the crew Stride, with a maximum distance equal to the slowest crew member's Speed. Then, make a melee Strike with the ram against a structure or unattended stationary object. As you do, the black powder in the steel reservoir explodes, significantly increasing the damage of your attack. Due to the black powder's additional force, the damage of this Strike is 7d8 + the highest Strength modifier among members of the crew.",
+  "trait": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=11",
+  "usage": "portable (black powder), held in 8 hands",
+  "usage_markdown": "portable (black powder), held in 8 hands",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 17,
+  "ammunition": "stone spheres (4 gp, 4 Bulk)",
+  "ammunition_markdown": "stone spheres (4 gp, 4 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 12,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-12",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 5\">[Bombard](/SiegeWeapons.aspx?ID=12)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 300 gp\r\n\r\n**Ammunition** stone spheres (4 gp, 4 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 10 feet long, 4 feet wide, 5 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 17\r\n\r\n**Fort** +12\r\n\r\n**Ref** +5\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 10 feet (pushed or pulled)\r\n\r\n---\r\n\r\nBombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their clumsy and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively <br />**Aim** <actions string=\"Two Actions\" /> 30 feet, minimum distance 30 feet <br />**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check <br />**Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 150 feet](/Traits.aspx?ID=248)) 4d10 bludgeoning, 10-foot burst, DC 19 Reflex",
+  "name": "Bombard",
+  "pfs": "Restricted",
+  "price": 30000,
+  "price_raw": "300 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 173",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 5,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 173"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 173 <sup>2.0</sup>",
+  "space": "10 feet long, 4 feet wide, 5 feet high",
+  "speed": {
+   "land": 10,
+   "max": 10
+  },
+  "speed_markdown": "10 feet (pushed or pulled)",
+  "speed_raw": "10 feet (pushed or pulled)",
+  "summary": "Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but …",
+  "summary_markdown": "Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but …",
+  "text": " Bombard Source Guns &amp; Gears pg. 173 2.0 Price 300 gp Ammunition stone spheres (4 gp, 4 Bulk) --- Usage mounted (black powder) Space 10 feet long, 4 feet wide, 5 feet high Crew 2-4 Proficiency martial --- AC 17 Fort +12 Ref +5 Hardness 10 HP 40 Immunities object immunities --- Speed 10 feet (pushed or pulled) --- Bombards are some of the oldest and simplest of black powder siege weapons, devised based on many of the same principles as a hand cannon, but deploying them on a larger scale and scope. A bombard's body is usually made of brass or iron, which causes the bombard to resemble the shape of a large bell. While they are capable of moving very slowly, their clumsy and weighty design means bombards usually remain stationary. This in turn means they're often used more defensively than offensively Aim Two Actions 30 feet, minimum distance 30 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate, range increment 150 feet) 4d10 bludgeoning, 10-foot burst, DC 19 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=12",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 22,
+  "ammunition": "cannonball (10 gp, 6 Bulk)",
+  "ammunition_markdown": "cannonball (10 gp, 6 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 16,
+  "hardness": 15,
+  "hardness_raw": "15",
+  "hp": 80,
+  "hp_raw": "80",
+  "id": "siege-weapon-13",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 8\">[Cannon](/SiegeWeapons.aspx?ID=13)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 900 gp\r\n\r\n**Ammunition** cannonball (10 gp, 6 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 7 feet long, 5 feet wide, 4 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22\r\n\r\n**Fort** +16\r\n\r\n**Ref** +9\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 15\r\n\r\n**HP** 80\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pushed or pulled)\r\n\r\n---\r\n\r\nCannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and expense. Keeps and fortresses in Alkenstar prefer to fortify their forces with cannons, as they're relatively easy to construct and their ammunition is cheap enough to build up great supplies.<br /> **Aim**<actions string=\"Three Actions\" /> 100 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 200 feet](/Traits.aspx?ID=248)) 6d12 bludgeoning, single target, DC 23 Reflex",
+  "name": "Cannon",
+  "pfs": "Restricted",
+  "price": 90000,
+  "price_raw": "900 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 174",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 9,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 174"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>",
+  "space": "7 feet long, 5 feet wide, 4 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pushed or pulled)",
+  "speed_raw": "15 feet (pushed or pulled)",
+  "summary": "Cannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and …",
+  "summary_markdown": "Cannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and …",
+  "text": " Cannon Source Guns &amp; Gears pg. 174 2.0 Price 900 gp Ammunition cannonball (10 gp, 6 Bulk) --- Usage mounted (black powder) Space 7 feet long, 5 feet wide, 4 feet high Crew 2-4 Proficiency martial --- AC 22 Fort +16 Ref +9 Hardness 15 HP 80 Immunities object immunities --- Speed 15 feet (pushed or pulled) --- Cannons are perhaps the most well known of all black powder siege weapons, and that's because they represent a good midpoint between power and expense. Keeps and fortresses in Alkenstar prefer to fortify their forces with cannons, as they're relatively easy to construct and their ammunition is cheap enough to build up great supplies. Aim Three Actions 100 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate, range increment 200 feet) 6d12 bludgeoning, single target, DC 23 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=13",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 26,
+  "ammunition": "cannonball (10 gp, 6 Bulk)",
+  "ammunition_markdown": "cannonball (10 gp, 6 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-6",
+  "exclude_from_search": false,
+  "fortitude_save": 21,
+  "hardness": 18,
+  "hardness_raw": "18",
+  "hp": 90,
+  "hp_raw": "90",
+  "id": "siege-weapon-14",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 11\">[Fiend's Mouth Cannon](/SiegeWeapons.aspx?ID=14)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 2,800 gp\r\n\r\n**Ammunition** cannonball (10 gp, 6 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 15 feet long, 15 feet wide, 8 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26\r\n\r\n**Fort** +21\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 18\r\n\r\n**HP** 90\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nFiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location. They get their name from the fiendish features usually adorning their barrels and frames. Compared to a standard field cannon, a fiend's mouth cannon can be aimed more easily, but flexibility comes at the cost of mobility. The barrel rests on a platform which can be rotated 360 degrees to allow for precise aiming.<br /> **Aim** <actions string=\"Two Actions\" /> 200 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 300 feet](/Traits.aspx?ID=248)) 8d12 bludgeoning, single target, DC 27 Reflex",
+  "name": "Fiend's Mouth Cannon",
+  "pfs": "Restricted",
+  "price": 280000,
+  "price_raw": "2,800 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 174",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 13,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location. They get their name from the …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 174"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 174 <sup>2.0</sup>",
+  "space": "15 feet long, 15 feet wide, 8 feet high",
+  "speed": {},
+  "summary": "Fiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location. They get their name from the …",
+  "summary_markdown": "Fiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location. They get their name from the …",
+  "text": " Fiend's Mouth Cannon Source Guns &amp; Gears pg. 174 2.0 Price 2,800 gp Ammunition cannonball (10 gp, 6 Bulk) --- Usage mounted (black powder) Space 15 feet long, 15 feet wide, 8 feet high Crew 3-6 Proficiency martial --- AC 26 Fort +21 Ref +13 Hardness 18 HP 90 Immunities object immunities --- Fiend's mouth cannons are large-scale cannons designed to blast a target at great distance, from a stationary location. They get their name from the fiendish features usually adorning their barrels and frames. Compared to a standard field cannon, a fiend's mouth cannon can be aimed more easily, but flexibility comes at the cost of mobility. The barrel rests on a platform which can be rotated 360 degrees to allow for precise aiming. Aim Two Actions 200 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate, range increment 300 feet) 8d12 bludgeoning, single target, DC 27 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=14",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 22,
+  "ammunition": "alchemical fire barrel (50 gp, 3 Bulk)",
+  "ammunition_markdown": "alchemical fire barrel (50 gp, 3 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-5",
+  "exclude_from_search": false,
+  "fortitude_save": 16,
+  "hardness": 12,
+  "hardness_raw": "12",
+  "hp": 70,
+  "hp_raw": "70",
+  "id": "siege-weapon-15",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 8\">[Firedrake](/SiegeWeapons.aspx?ID=15)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 1,000 gp\r\n\r\n**Ammunition** alchemical fire barrel (50 gp, 3 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 15 feet long, 12 feet wide, 10 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-5\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22\r\n\r\n**Fort** +16\r\n\r\n**Ref** +9\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 12\r\n\r\n**HP** 70\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pushed or pulled)\r\n\r\n---\r\n\r\nThis alchemical black powder hybrid siege weapon uses a blast of black powder to spray [alchemical fire](/Domains.aspx?ID=13) from a long metal nozzle, often sculpted or painted with designs resembling a dragon's neck and head. The nozzle turns on a ratcheted, rotating disc with a reservoir in the center to hold a barrel full of combustible alchemical liquid, using black powder to propel the fire. This main structure is atop a wheeled cart to allow it to be easily moved. Unlike most mounted siege weapons, a firedrake is intended to be wheeled out into the thick of a skirmish rather than shooting from a distance.<br /> **Aim** <actions string=\"Two Actions\" /> rotate 45º<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104)) 8d6 fire plus 1d6 persistent fire, 60-foot line or 30-foot cone, DC 23 Reflex. Switching between the firedrake's line or cone mode takes an Interact action, and any of the crew can perform the action.",
+  "name": "Firedrake",
+  "pfs": "Restricted",
+  "price": 100000,
+  "price_raw": "1,000 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 175",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 9,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis alchemical black powder hybrid siege weapon uses a blast of black powder to spray  alchemical fire  from a long metal nozzle, often sculpted or …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 175"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>",
+  "space": "15 feet long, 12 feet wide, 10 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pushed or pulled)",
+  "speed_raw": "15 feet (pushed or pulled)",
+  "summary": "This alchemical black powder hybrid siege weapon uses a blast of black powder to spray  alchemical fire  from a long metal nozzle, often sculpted or …",
+  "summary_markdown": "This alchemical black powder hybrid siege weapon uses a blast of black powder to spray  alchemical fire  from a long metal nozzle, often sculpted or …",
+  "text": " Firedrake Source Guns &amp; Gears pg. 175 2.0 Price 1,000 gp Ammunition alchemical fire barrel (50 gp, 3 Bulk) --- Usage mounted (black powder) Space 15 feet long, 12 feet wide, 10 feet high Crew 3-5 Proficiency martial --- AC 22 Fort +16 Ref +9 Hardness 12 HP 70 Immunities object immunities --- Speed 15 feet (pushed or pulled) --- This alchemical black powder hybrid siege weapon uses a blast of black powder to spray alchemical fire from a long metal nozzle, often sculpted or painted with designs resembling a dragon's neck and head. The nozzle turns on a ratcheted, rotating disc with a reservoir in the center to hold a barrel full of combustible alchemical liquid, using black powder to propel the fire. This main structure is atop a wheeled cart to allow it to be easily moved. Unlike most mounted siege weapons, a firedrake is intended to be wheeled out into the thick of a skirmish rather than shooting from a distance. Aim Two Actions rotate 45º Load Two Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate) 8d6 fire plus 1d6 persistent fire, 60-foot line or 30-foot cone, DC 23 Reflex. Switching between the firedrake's line or cone mode takes an Interact action, and any of the crew can perform the action.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=15",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 29,
+  "ammunition": "artillery shell (80 gp, 4 Bulk)",
+  "ammunition_markdown": "artillery shell (80 gp, 4 Bulk)",
+  "category": "siege-weapon",
+  "crew": "4-6",
+  "exclude_from_search": false,
+  "fortitude_save": 23,
+  "hardness": 18,
+  "hardness_raw": "18",
+  "hp": 150,
+  "hp_raw": "150",
+  "id": "siege-weapon-16",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 13,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 13\">[Steelheart 21](/SiegeWeapons.aspx?ID=16)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 6,000 gp\r\n\r\n**Ammunition** artillery shell (80 gp, 4 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 9 feet long, 7 feet wide, 5 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 4-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29\r\n\r\n**Fort** +23\r\n\r\n**Ref** +16\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 18\r\n\r\n**HP** 150\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 20 feet (pulled or pushed)\r\n\r\n---\r\n\r\nNamed for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun artillery uses metallurgy and alchemy to negate nearly all of the immense amount of recoil a shot from a siege weapon usually produces. The barrel of the Steelheart 21 is suspended in a mix of alchemical fluids that first compress to dampen the recoil when fired, then expand to push the barrel back into place afterwards. The result reduces the amount of time needed to reset the aim of the siege weapon. The crew member who launches the Steelheart 21 can use the Quick Aim reaction (below), allowing them to adjust the weapon's aim on the fly as they fire to adapt to a faulty initial target, changing battlefield conditions, the use of illusions by the enemy, or any of a variety of other factors that lead to the need to alter the siege weapon's course.\n\n **Quick Aim** <actions string=\"Reaction\" /> **Trigger** You Launch this siege weapon, after determining the effects of the Launch action. **Effect** You Aim this siege weapon, moving the aim up to 10 feet instead of its normal distance.<br /> **Aim** <actions string=\"Two Actions\" /> 100 feet, minimum distance 150 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch**<actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 500 feet](/Traits.aspx?ID=248)) 8d12 bludgeoning, 20-foot burst, DC 30 Reflex",
+  "name": "Steelheart 21",
+  "pfs": "Restricted",
+  "price": 600000,
+  "price_raw": "6,000 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 175",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 16,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNamed for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 175"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>",
+  "space": "9 feet long, 7 feet wide, 5 feet high",
+  "speed": {
+   "land": 20,
+   "max": 20
+  },
+  "speed_markdown": "20 feet (pulled or pushed)",
+  "speed_raw": "20 feet (pulled or pushed)",
+  "summary": "Named for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun …",
+  "summary_markdown": "Named for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun …",
+  "text": " Steelheart 21 Source Guns &amp; Gears pg. 175 2.0 Price 6,000 gp Ammunition artillery shell (80 gp, 4 Bulk) --- Usage mounted (black powder) Space 9 feet long, 7 feet wide, 5 feet high Crew 4-6 Proficiency martial --- AC 29 Fort +23 Ref +16 Hardness 18 HP 150 Immunities object immunities --- Speed 20 feet (pulled or pushed) --- Named for Brondar Steelheart, one of the most important historical dwarven pioneers in the use of black powder, this remarkable piece of new Dongun artillery uses metallurgy and alchemy to negate nearly all of the immense amount of recoil a shot from a siege weapon usually produces. The barrel of the Steelheart 21 is suspended in a mix of alchemical fluids that first compress to dampen the recoil when fired, then expand to push the barrel back into place afterwards. The result reduces the amount of time needed to reset the aim of the siege weapon. The crew member who launches the Steelheart 21 can use the Quick Aim reaction (below), allowing them to adjust the weapon's aim on the fly as they fire to adapt to a faulty initial target, changing battlefield conditions, the use of illusions by the enemy, or any of a variety of other factors that lead to the need to alter the siege weapon's course. Quick Aim Reaction Trigger You Launch this siege weapon, after determining the effects of the Launch action. Effect You Aim this siege weapon, moving the aim up to 10 feet instead of its normal distance. Aim Two Actions 100 feet, minimum distance 150 feet Load Two Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate, range increment 500 feet) 8d12 bludgeoning, 20-foot burst, DC 30 Reflex",
+  "trait": [
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=16",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 23,
+  "ammunition": "large stone spheres (8 gp, 16 Bulk)",
+  "ammunition_markdown": "large stone spheres (8 gp, 16 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-6",
+  "exclude_from_search": false,
+  "fortitude_save": 18,
+  "hardness": 18,
+  "hardness_raw": "18",
+  "hp": 50,
+  "hp_raw": "50",
+  "id": "siege-weapon-17",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 9,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 9\">[Heavy Bombard](/SiegeWeapons.aspx?ID=17)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 1,400 gp\r\n\r\n**Ammunition** large stone spheres (8 gp, 16 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 17 feet long, 6 feet wide, 6 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23\r\n\r\n**Fort** +18\r\n\r\n**Ref** +10\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 18\r\n\r\n**HP** 50\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nA heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of the weapon allows it to strike far and hard.<br /> **Aim**<actions string=\"Three Actions\" /> 50 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 250 feet](/Traits.aspx?ID=248)) 7d10 bludgeoning, 20-foot burst, DC 25 Reflex",
+  "name": "Heavy Bombard",
+  "pfs": "Restricted",
+  "price": 140000,
+  "price_raw": "1,400 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 175",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 10,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Gargantuan"
+  ],
+  "size_id": [
+   6
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 175"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>",
+  "space": "17 feet long, 6 feet wide, 6 feet high",
+  "speed": {},
+  "summary": "A heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of …",
+  "summary_markdown": "A heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of …",
+  "text": " Heavy Bombard Source Guns &amp; Gears pg. 175 2.0 Price 1,400 gp Ammunition large stone spheres (8 gp, 16 Bulk) --- Usage mounted (black powder) Space 17 feet long, 6 feet wide, 6 feet high Crew 3-6 Proficiency martial --- AC 23 Fort +18 Ref +10 Hardness 18 HP 50 Immunities object immunities --- A heavy bombard looks like little more than a large metal cylinder, resembling the barrel of a firearm so large that it's immobile. The sheer size of the weapon allows it to strike far and hard. Aim Three Actions 50 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Single Action (manipulate, range increment 250 feet) 7d10 bludgeoning, 20-foot burst, DC 25 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=17",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 16,
+  "ammunition": "100 hwacha arrows (2 gp, 1 Bulk)",
+  "ammunition_markdown": "100 hwacha arrows (2 gp, 1 Bulk)",
+  "category": "siege-weapon",
+  "crew": "1-4",
+  "exclude_from_search": false,
+  "fortitude_save": 11,
+  "hardness": 5,
+  "hardness_raw": "5",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-18",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 4,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 4\">[Hwacha](/SiegeWeapons.aspx?ID=18)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 180 gp\r\n\r\n**Ammunition** 100 hwacha arrows (2 gp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 8 feet long, 6 feet wide, 6 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 1-4\r\n\r\n**Proficiency** simple\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16\r\n\r\n**Fort** +11\r\n\r\n**Ref** +4\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 5\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 25 feet (pulled or pushed)\r\n\r\n---\r\n\r\nRather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha holds 100 tubes, each loaded with an arrow or a small bundle of arrows wrapped with a small amount  of black powder and attached to a fuse. By lighting a master fuse, you can make all of the arrows fire in rapid succession.<br /> **Aim** <actions string=\"Two Actions\" /> 40 feet, minimum distance 40 feet<br /> **Load** <actions string=\"Three Actions\" /> ([manipulate](/Traits.aspx?ID=104)) Each Load action loads 10 hwacha arrows. Taking the Launch action requires three Load actions to load 30 hwacha arrows, but you can continue to Load more arrows to increase the effect of the next Launch action, as detailed below.<br /> **Launch** <actions string=\"Single Action\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 300 feet](/Traits.aspx?ID=248)) 4d8 piercing, 20-foot burst, DC 18 Reflex. If you loaded at least 70 hwacha arrows, the area increases to a 25-foot burst. If you loaded 100 hwacha arrows, the area increases to a 30-foot burst and the damage to 5d8 piercing.",
+  "name": "Hwacha",
+  "pfs": "Restricted",
+  "price": 18000,
+  "price_raw": "180 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 175",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 4,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 175"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 175 <sup>2.0</sup>",
+  "space": "8 feet long, 6 feet wide, 6 feet high",
+  "speed": {
+   "land": 25,
+   "max": 25
+  },
+  "speed_markdown": "25 feet (pulled or pushed)",
+  "speed_raw": "25 feet (pulled or pushed)",
+  "summary": "Rather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha …",
+  "summary_markdown": "Rather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha …",
+  "text": " Hwacha Source Guns &amp; Gears pg. 175 2.0 Price 180 gp Ammunition 100 hwacha arrows (2 gp, 1 Bulk) --- Usage mounted (black powder) Space 8 feet long, 6 feet wide, 6 feet high Crew 1-4 Proficiency simple --- AC 16 Fort +11 Ref +4 Hardness 5 HP 40 Immunities object immunities --- Speed 25 feet (pulled or pushed) --- Rather than a shoot a single, large projectile like a boulder, the hwacha fires dozens of rocket-propelled arrows at once. The frame of the hwacha holds 100 tubes, each loaded with an arrow or a small bundle of arrows wrapped with a small amount of black powder and attached to a fuse. By lighting a master fuse, you can make all of the arrows fire in rapid succession. Aim Two Actions 40 feet, minimum distance 40 feet Load Three Actions (manipulate) Each Load action loads 10 hwacha arrows. Taking the Launch action requires three Load actions to load 30 hwacha arrows, but you can continue to Load more arrows to increase the effect of the next Launch action, as detailed below. Launch Single Action (manipulate, range increment 300 feet) 4d8 piercing, 20-foot burst, DC 18 Reflex. If you loaded at least 70 hwacha arrows, the area increases to a 25-foot burst. If you loaded 100 hwacha arrows, the area increases to a 30-foot burst and the damage to 5d8 piercing.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=18",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "simple"
+ },
+ {
+  "ac": 20,
+  "ammunition": "mortar round (5 gp, 1 Bulk) ",
+  "ammunition_markdown": "mortar round (5 gp, 1 Bulk) ",
+  "category": "siege-weapon",
+  "crew": "3-4",
+  "exclude_from_search": false,
+  "fortitude_save": 15,
+  "hardness": 12,
+  "hardness_raw": "12",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-19",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Mortar](/SiegeWeapons.aspx?ID=19)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Medium\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 720 gp\r\n\r\n**Ammunition** mortar round (5 gp, 1 Bulk) \r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 8 feet long, 4 feet wide, 5 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20\r\n\r\n**Fort** +15\r\n\r\n**Ref** +8\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 12\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 20 feet (pulled or pushed)\r\n\r\n---\r\n\r\nA mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a wall or in another hard-to-access area to protect themselves while retaining full functionality. Due to the steep angle of its arc, such mortars are especially useful when opposing barricaded targets.<br /> **Aim** <actions string=\"Two Actions\" /> 40 feet, minimum distance 50 feet<br /> **Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times<br /> **Launch** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 100 feet](/Traits.aspx?ID=248)) 5d10 slashing, 20-foot burst, DC 21. Because a mortar launches its round at a high angle, the mortar round descends on the center of the burst from above, not in a straight line from the mortar. This affects whether creatures have cover from the mortar launch.",
+  "name": "Mortar",
+  "pfs": "Restricted",
+  "price": 72000,
+  "price_raw": "720 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 176",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 8,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Medium"
+  ],
+  "size_id": [
+   3
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 176"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>",
+  "space": "8 feet long, 4 feet wide, 5 feet high",
+  "speed": {
+   "land": 20,
+   "max": 20
+  },
+  "speed_markdown": "20 feet (pulled or pushed)",
+  "speed_raw": "20 feet (pulled or pushed)",
+  "summary": "A mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a …",
+  "summary_markdown": "A mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a …",
+  "text": " Mortar Source Guns &amp; Gears pg. 176 2.0 Price 720 gp Ammunition mortar round (5 gp, 1 Bulk) --- Usage mounted (black powder) Space 8 feet long, 4 feet wide, 5 feet high Crew 3-4 Proficiency martial --- AC 20 Fort +15 Ref +8 Hardness 12 HP 40 Immunities object immunities --- Speed 20 feet (pulled or pushed) --- A mortar fires its shells at a high angle, allowing it to bypass obstacles and strike from above. A crew typically sets up such a weapon behind a wall or in another hard-to-access area to protect themselves while retaining full functionality. Due to the steep angle of its arc, such mortars are especially useful when opposing barricaded targets. Aim Two Actions 40 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times Launch Two Actions (manipulate, range increment 100 feet) 5d10 slashing, 20-foot burst, DC 21. Because a mortar launches its round at a high angle, the mortar round descends on the center of the burst from above, not in a straight line from the mortar. This affects whether creatures have cover from the mortar launch.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Medium"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Medium"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=19",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 32,
+  "ammunition": "scattershot barrels (25 gp, 5 Bulk)",
+  "ammunition_markdown": "scattershot barrels (25 gp, 5 Bulk)",
+  "category": "siege-weapon",
+  "crew": "4-6",
+  "exclude_from_search": false,
+  "fortitude_save": 26,
+  "hardness": 15,
+  "hardness_raw": "15",
+  "hp": 200,
+  "hp_raw": "200",
+  "id": "siege-weapon-20",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 15\">[Alkenstar Cannon](/SiegeWeapons.aspx?ID=20)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 12,000 gp\r\n\r\n**Ammunition** scattershot barrels (25 gp, 5 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted  (black powder)\n\n**Space** 18 feet long, 7 feet wide, 8 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 4-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 32\r\n\r\n**Fort** +26\r\n\r\n**Ref** +18\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 15\r\n\r\n**HP** 200\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 10 feet (pushed or pulled)\r\n\r\n---\r\n\r\nNamed for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just how mobile it actually is. The barrel of an Alkenstar cannon is nearly 3 feet in diameter, making it impractical to manufacture and handle cannonballs of sufficient size. Instead, Alkenstar cannons spray buckshot in a similar way to [blunderbusses](/Weapons.aspx?ID=196), firing large barrels that break apart mid-flight and release a rain of scattershot over a massive area. The slow movement and short range make this siege weapon fit fewer situations than most, but when used effectively, such as to stop a charge of Mana Waste mutants against the walls of Alkenstar, the results are devastating.<br /> **Aim**<actions string=\"Three Actions\" /> 50 feet, minimum distance 50 feet <br />**Load**<actions string=\"Three Actions\" /> ([manipulate](/Traits.aspx?ID=104)) 3 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=3) check <br />**Launch** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=104), [range increment 50 feet](/Traits.aspx?ID=248)) 10d12 bludgeoning, 50-foot burst, DC 33 Reflex",
+  "name": "Alkenstar Cannon",
+  "pfs": "Restricted",
+  "price": 1200000,
+  "price_raw": "12,000 gp",
+  "primary_source": "Guns & Gears",
+  "primary_source_raw": "Guns & Gears pg. 176",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 18,
+  "release_date": "2021-10-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Guns &amp; Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNamed for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Guns & Gears"
+  ],
+  "source_raw": [
+   "Guns & Gears pg. 176"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Guns & Gears](/Sources.aspx?ID=98) pg. 176 <sup>2.0</sup>",
+  "space": "18 feet long, 7 feet wide, 8 feet high",
+  "speed": {
+   "land": 10,
+   "max": 10
+  },
+  "speed_markdown": "10 feet (pushed or pulled)",
+  "speed_raw": "10 feet (pushed or pulled)",
+  "summary": "Named for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just …",
+  "summary_markdown": "Named for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just …",
+  "text": " Alkenstar Cannon Source Guns &amp; Gears pg. 176 2.0 Price 12,000 gp Ammunition scattershot barrels (25 gp, 5 Bulk) --- Usage mounted (black powder) Space 18 feet long, 7 feet wide, 8 feet high Crew 4-6 Proficiency martial --- AC 32 Fort +26 Ref +18 Hardness 15 HP 200 Immunities object immunities --- Speed 10 feet (pushed or pulled) --- Named for Ancil Alkenstar, this bronze cannon is one of the largest pieces of mobile artillery ever deployed, though its immense weight limits just how mobile it actually is. The barrel of an Alkenstar cannon is nearly 3 feet in diameter, making it impractical to manufacture and handle cannonballs of sufficient size. Instead, Alkenstar cannons spray buckshot in a similar way to blunderbusses, firing large barrels that break apart mid-flight and release a rain of scattershot over a massive area. The slow movement and short range make this siege weapon fit fewer situations than most, but when used effectively, such as to stop a charge of Mana Waste mutants against the walls of Alkenstar, the results are devastating. Aim Three Actions 50 feet, minimum distance 50 feet Load Three Actions (manipulate) 3 times, requires a successful DC 20 Athletics check Launch Two Actions (manipulate, range increment 50 feet) 10d12 bludgeoning, 50-foot burst, DC 33 Reflex",
+  "trait": [
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=20",
+  "usage": "mounted  (black powder)",
+  "usage_markdown": "mounted  (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 30,
+  "ammunition": "spring-loaded iron jaw (25 gp, 2 Bulk)",
+  "ammunition_markdown": "spring-loaded iron jaw (25 gp, 2 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3",
+  "exclude_from_search": false,
+  "fortitude_save": 29,
+  "hardness": 15,
+  "hardness_raw": "15",
+  "hp": 160,
+  "hp_raw": "160",
+  "id": "siege-weapon-21",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 13,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 13\">[Anesthetizing Jaws](/SiegeWeapons.aspx?ID=21)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=661\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 6,000 gp\r\n\r\n**Ammunition** spring-loaded iron jaw (25 gp, 2 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 8 feet long, 6 feet wide, 4 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30\r\n\r\n**Fort** +29\r\n\r\n**Ref** +19\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 15\r\n\r\n**HP** 160\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nCommunities use these large jaws to nonlethally subdue large game so it can be safely moved, treated for injury, or otherwise studied. The jaws are attached via a length of chain, which channels stunning magic into the target and aids in retrieval.\n\n**Aim** <actions string=\"Two Actions\" /> 50 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 3 times\n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range 250 feet](/Rules.aspx?ID=2195), [versatile B](/Traits.aspx?ID=724)) 9d10 piercing, single target, DC 31 Reflex. On a failure, the target is also [grabbed](/Conditions.aspx?ID=77). On a critical failure, the target is [restrained](/Conditions.aspx?ID=90) instead of grabbed. A target that is grabbed or restrained by the _anesthetizing jaws_ is attached to the weapon by the linked chain. Until the creature [Escapes](/Actions.aspx?ID=2296) the jaws, it cannot move more than 250 feet from the _anesthetizing jaws_. The Escape DC is 32.\n\n**Anesthetic Surge** <actions string=\"Two Actions\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645)) **Requirements** The _anesthetizing jaws_ have a creature grabbed or restrained; **Effect** A crew member activates the anesthetic properties of the jaws, which deals 8d12 mental damage (DC 30 [basic](/Rules.aspx?ID=329) Will) to the grabbed or restrained creature",
+  "name": "Anesthetizing Jaws",
+  "pfs": "Restricted",
+  "price": 600000,
+  "price_raw": "6,000 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 114",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 19,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n<trait label=\"Nonlethal\" url=\"/Traits.aspx?ID=661\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCommunities use these large jaws to nonlethally subdue large game so it can be safely moved, treated for injury, or otherwise studied. The jaws are …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 114"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>",
+  "space": "8 feet long, 6 feet wide, 4 feet high",
+  "speed": {},
+  "summary": "Communities use these large jaws to nonlethally subdue large game so it can be safely moved, treated for injury, or otherwise studied. The jaws are …",
+  "summary_markdown": "Communities use these large jaws to nonlethally subdue large game so it can be safely moved, treated for injury, or otherwise studied. The jaws are …",
+  "text": " Anesthetizing Jaws Source Howl of the Wild pg. 114 2.0 Price 6,000 gp Ammunition spring-loaded iron jaw (25 gp, 2 Bulk) --- Usage mounted Space 8 feet long, 6 feet wide, 4 feet high Crew 3 Proficiency martial --- AC 30 Fort +29 Ref +19 Hardness 15 HP 160 Immunities object immunities --- Communities use these large jaws to nonlethally subdue large game so it can be safely moved, treated for injury, or otherwise studied. The jaws are attached via a length of chain, which channels stunning magic into the target and aids in retrieval. Aim Two Actions 50 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times Launch Single Action (attack, manipulate, range 250 feet, versatile B) 9d10 piercing, single target, DC 31 Reflex. On a failure, the target is also grabbed. On a critical failure, the target is restrained instead of grabbed. A target that is grabbed or restrained by the anesthetizing jaws is attached to the weapon by the linked chain. Until the creature Escapes the jaws, it cannot move more than 250 feet from the anesthetizing jaws . The Escape DC is 32. Anesthetic Surge Two Actions (attack, manipulate) Requirements The anesthetizing jaws have a creature grabbed or restrained; Effect A crew member activates the anesthetic properties of the jaws, which deals 8d12 mental damage (DC 30 basic Will) to the grabbed or restrained creature",
+  "trait": [
+   "Magical",
+   "Mounted",
+   "Nonlethal",
+   "Rare",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Mounted](/Traits.aspx?ID=411), [Nonlethal](/Traits.aspx?ID=661), [Rare](/Traits.aspx?ID=683)",
+  "trait_raw": [
+   "Magical",
+   "Mounted",
+   "Nonlethal",
+   "Rare",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=21",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 30,
+  "ammunition": "seasplinter capsule (1,200 gp, 4 Bulk)",
+  "ammunition_markdown": "seasplinter capsule (1,200 gp, 4 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 32,
+  "hardness": 17,
+  "hardness_raw": "17",
+  "hp": 200,
+  "hp_raw": "200",
+  "id": "siege-weapon-22",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 15\">[Aquatic Disintegrator](/SiegeWeapons.aspx?ID=22)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 12,500 gp\r\n\r\n**Ammunition** seasplinter capsule (1,200 gp, 4 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted (black powder)\n\n**Space** 6 feet long, 4 feet wide, 3 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 30\r\n\r\n**Fort** +32\r\n\r\n**Ref** +18\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 17\r\n\r\n**HP** 200\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 20 feet (pulled or pushed)\r\n\r\n---\r\n\r\nOriginally developed as a means of deterring kaiju rampages, aquatic disintegrators are specialized cannons designed to fire capsules containing seasplinter, a compound that is harmless on land but erupts in saltwater, causing a chain reaction that devastates any beings that contain salt in their bodies (which is most creatures). While aquatic disintegrators have never put a permanent end to any known kaiju, the damage they inflict upon other marine life has generated mass outcry, with [athamarus](/Ancestries.aspx?ID=71) and other advocates of Golarion's oceans calling for their complete ban. Despite the controversy, these lethal weapons have found popularity on the black market with marine hunters and pirates who care little about ecological impact when it comes to battling titans of the deep. \n\n**Aim** <actions string=\"Three Actions\" /> 100 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=36) check \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 200 feet](/Rules.aspx?ID=2195)) 10d10 damage (no damage type), 30-foot burst, DC 33 Reflex. The seasplinter capsule must land in saltwater for this damage to occur. Any creature in the burst radius whose body is not in saltwater takes no damage and doesn't need to attempt a Reflex save. A creature reduced to 0 HP by this damage disintegrates into a skeleton. <br />**Success** The target takes half damage. <br />**Failure** The target takes full damage and is [stunned](/Conditions.aspx?ID=93) 1. <br />**Critical Failure** The target takes double damage and is stunned 2.",
+  "name": "Aquatic Disintegrator",
+  "pfs": "Restricted",
+  "price": 1250000,
+  "price_raw": "12,500 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 114",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 18,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOriginally developed as a means of deterring kaiju rampages, aquatic disintegrators are specialized cannons designed to fire capsules containing …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 114"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 114 <sup>2.0</sup>",
+  "space": "6 feet long, 4 feet wide, 3 feet high",
+  "speed": {
+   "land": 20,
+   "max": 20
+  },
+  "speed_markdown": "20 feet (pulled or pushed)",
+  "speed_raw": "20 feet (pulled or pushed)",
+  "summary": "Originally developed as a means of deterring kaiju rampages, aquatic disintegrators are specialized cannons designed to fire capsules containing …",
+  "summary_markdown": "Originally developed as a means of deterring kaiju rampages, aquatic disintegrators are specialized cannons designed to fire capsules containing …",
+  "text": " Aquatic Disintegrator Source Howl of the Wild pg. 114 2.0 Price 12,500 gp Ammunition seasplinter capsule (1,200 gp, 4 Bulk) --- Usage mounted (black powder) Space 6 feet long, 4 feet wide, 3 feet high Crew 2-4 Proficiency martial --- AC 30 Fort +32 Ref +18 Hardness 17 HP 200 Immunities object immunities --- Speed 20 feet (pulled or pushed) --- Originally developed as a means of deterring kaiju rampages, aquatic disintegrators are specialized cannons designed to fire capsules containing seasplinter, a compound that is harmless on land but erupts in saltwater, causing a chain reaction that devastates any beings that contain salt in their bodies (which is most creatures). While aquatic disintegrators have never put a permanent end to any known kaiju, the damage they inflict upon other marine life has generated mass outcry, with athamarus and other advocates of Golarion's oceans calling for their complete ban. Despite the controversy, these lethal weapons have found popularity on the black market with marine hunters and pirates who care little about ecological impact when it comes to battling titans of the deep. Aim Three Actions 100 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range increment 200 feet) 10d10 damage (no damage type), 30-foot burst, DC 33 Reflex. The seasplinter capsule must land in saltwater for this damage to occur. Any creature in the burst radius whose body is not in saltwater takes no damage and doesn't need to attempt a Reflex save. A creature reduced to 0 HP by this damage disintegrates into a skeleton. Success The target takes half damage. Failure The target takes full damage and is stunned 1. Critical Failure The target takes double damage and is stunned 2.",
+  "trait": [
+   "Alchemical",
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "trait_group": [
+   "Monster",
+   "Equipment",
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=683)",
+  "trait_raw": [
+   "Alchemical",
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=22",
+  "usage": "mounted (black powder)",
+  "usage_markdown": "mounted (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ammunition": "blob paste (60 gp, 1 Bulk)",
+  "ammunition_markdown": "blob paste (60 gp, 1 Bulk)",
+  "bulk": 5,
+  "bulk_raw": "5",
+  "category": "siege-weapon",
+  "crew": "3",
+  "exclude_from_search": false,
+  "id": "siege-weapon-23",
+  "item_category": "Siege Weapons",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 8\">[Blob Paste Propulsor](/SiegeWeapons.aspx?ID=23)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 900 gp\r\n\r\n**Ammunition** blob paste (60 gp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable, held in 6 hands\r\n\r\n**Bulk** 5\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nThe blob paste propulsor is a mortar with a 25-foot hose attached to a reinforced pot. The pot holds blob paste, a viscous gunk synthesized from oozes. Twin levers are attached to the top of the pot and generate sparks within when pulled, temporarily transforming the gunk into a liquid form that can be aimed with the hose and mortar. This unique ammunition, as well as the weapon used to shoot it, was originally engineered by Garundi alchemists and inventors as an unorthodox but reliable means of knocking flying pests out of the sky. In recent years, blob paste propulsors have won high praise from wildlife researchers as a non-lethal means of subduing destructive monsters and keeping them alive for study and eventual release. \n\n**Aim** <actions string=\"Single Action\" /> rotate 45° \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times \n\n**Launch** <actions string=\"Two Actions\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 75 feet](/Rules.aspx?ID=2195)) Single target. If the Strike hits, blob paste immediately spreads across the target’s body, weighing it down and restricting movement. The target is [grabbed](/Conditions.aspx?ID=77) for 1 minute, after which the blob paste melts away. The [Escape](/Actions.aspx?ID=2296) DC to break free of the blob paste is 23.",
+  "name": "Blob Paste Propulsor",
+  "pfs": "Restricted",
+  "price": 90000,
+  "price_raw": "900 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 115",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe blob paste propulsor is a mortar with a 25-foot hose attached to a reinforced pot. The pot holds blob paste, a viscous gunk synthesized from …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 115"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The blob paste propulsor is a mortar with a 25-foot hose attached to a reinforced pot. The pot holds blob paste, a viscous gunk synthesized from …",
+  "summary_markdown": "The blob paste propulsor is a mortar with a 25-foot hose attached to a reinforced pot. The pot holds blob paste, a viscous gunk synthesized from …",
+  "text": " Blob Paste Propulsor Source Howl of the Wild pg. 115 2.0 Price 900 gp Ammunition blob paste (60 gp, 1 Bulk) --- Usage portable, held in 6 hands Bulk 5 Crew 3 Proficiency martial --- The blob paste propulsor is a mortar with a 25-foot hose attached to a reinforced pot. The pot holds blob paste, a viscous gunk synthesized from oozes. Twin levers are attached to the top of the pot and generate sparks within when pulled, temporarily transforming the gunk into a liquid form that can be aimed with the hose and mortar. This unique ammunition, as well as the weapon used to shoot it, was originally engineered by Garundi alchemists and inventors as an unorthodox but reliable means of knocking flying pests out of the sky. In recent years, blob paste propulsors have won high praise from wildlife researchers as a non-lethal means of subduing destructive monsters and keeping them alive for study and eventual release. Aim Single Action rotate 45° Load Two Actions (manipulate) 2 times Launch Two Actions (attack, manipulate, range increment 75 feet) Single target. If the Strike hits, blob paste immediately spreads across the target’s body, weighing it down and restricting movement. The target is grabbed for 1 minute, after which the blob paste melts away. The Escape DC to break free of the blob paste is 23.",
+  "trait": [
+   "Alchemical",
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Monster",
+   "Equipment",
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Alchemical",
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=23",
+  "usage": "portable, held in 6 hands",
+  "usage_markdown": "portable, held in 6 hands",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 20,
+  "ammunition": "harpoon cannon bolt (3 gp, 2 Bulk)",
+  "ammunition_markdown": "harpoon cannon bolt (3 gp, 2 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-5",
+  "exclude_from_search": false,
+  "fortitude_save": 17,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 70,
+  "hp_raw": "70",
+  "id": "siege-weapon-24",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Harpoon Cannon](/SiegeWeapons.aspx?ID=24)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 700 gp\r\n\r\n**Ammunition** harpoon cannon bolt (3 gp, 2 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted (black powder)\n\n**Space** 9 feet long, 7 feet wide, 5 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-5\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20\r\n\r\n**Fort** +17\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 70\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pulled or pushed)\r\n\r\n---\r\n\r\nHarpoon cannons fire bolts about 6 feet long that are attached to 200 feet of rope. Traditionally, they are used at sea to impale aquatic creatures, particularly [giant squids](/Monsters.aspx?ID=820), [megalodons](/Monsters.aspx?ID=3189), and [sea serpents](/Monsters.aspx?ID=3177). But these weapons can also be useful to tether land-based big game, especially those with the capability to [burrow](/Actions.aspx?ID=2310).\n\nAim <actions string=\"Single Action\" /> 60 feet, minimum distance 40 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times, requires a successful DC 20 [Athletics](/Skills.aspx?ID=36) check \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range 200 feet](/Rules.aspx?ID=2195)) 6d12 piercing, single target, DC 22 Reflex. On a failed save, the harpoon becomes lodged in the target’s body. The target can remove the harpoon with a DC 22 check to [Escape](/Actions.aspx?ID=2296) or [Force Open](/Actions.aspx?ID=2375), but on a failure, the target takes 6d4 piercing damage. As long as the harpoon cannon bolt remains lodged, the target cannot move more than 200 feet away from the harpoon cannon. If the harpoon cannon bolt is embedded in a creature that isn’t swimming, one member of the crew can attempt to [Trip](/Actions.aspx?ID=2382) the creature by tugging on the rope if all other crew members [Aid](/Actions.aspx?ID=2292). On a failure, the bolt rips free, causing 4d4 piercing damage to the target but releasing it.",
+  "name": "Harpoon Cannon",
+  "pfs": "Restricted",
+  "price": 70000,
+  "price_raw": "700 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 115",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 13,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHarpoon cannons fire bolts about 6 feet long that are attached to 200 feet of rope. Traditionally, they are used at sea to impale aquatic creatures, …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 115"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>",
+  "space": "9 feet long, 7 feet wide, 5 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pulled or pushed)",
+  "speed_raw": "15 feet (pulled or pushed)",
+  "summary": "Harpoon cannons fire bolts about 6 feet long that are attached to 200 feet of rope. Traditionally, they are used at sea to impale aquatic creatures, …",
+  "summary_markdown": "Harpoon cannons fire bolts about 6 feet long that are attached to 200 feet of rope. Traditionally, they are used at sea to impale aquatic creatures, …",
+  "text": " Harpoon Cannon Source Howl of the Wild pg. 115 2.0 Price 700 gp Ammunition harpoon cannon bolt (3 gp, 2 Bulk) --- Usage mounted (black powder) Space 9 feet long, 7 feet wide, 5 feet high Crew 3-5 Proficiency martial --- AC 20 Fort +17 Ref +13 Hardness 10 HP 70 Immunities object immunities --- Speed 15 feet (pulled or pushed) --- Harpoon cannons fire bolts about 6 feet long that are attached to 200 feet of rope. Traditionally, they are used at sea to impale aquatic creatures, particularly giant squids, megalodons, and sea serpents. But these weapons can also be useful to tether land-based big game, especially those with the capability to burrow. Aim Single Action 60 feet, minimum distance 40 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range 200 feet) 6d12 piercing, single target, DC 22 Reflex. On a failed save, the harpoon becomes lodged in the target’s body. The target can remove the harpoon with a DC 22 check to Escape or Force Open, but on a failure, the target takes 6d4 piercing damage. As long as the harpoon cannon bolt remains lodged, the target cannot move more than 200 feet away from the harpoon cannon. If the harpoon cannon bolt is embedded in a creature that isn’t swimming, one member of the crew can attempt to Trip the creature by tugging on the rope if all other crew members Aid. On a failure, the bolt rips free, causing 4d4 piercing damage to the target but releasing it.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=24",
+  "usage": "mounted (black powder)",
+  "usage_markdown": "mounted (black powder)",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 20,
+  "ammunition": "kickback charge (2 gp, 1 Bulk)",
+  "ammunition_markdown": "kickback charge (2 gp, 1 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "fortitude_save": 16,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 50,
+  "hp_raw": "50",
+  "id": "siege-weapon-25",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 7\">[Kickback Spring](/SiegeWeapons.aspx?ID=25)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Gargantuan\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 700 gp\r\n\r\n**Ammunition** kickback charge (2 gp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 18 feet long, 5 feet wide, 7 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 20\r\n\r\n**Fort** +16\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 50\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nA smaller version of the _kickback spring_ was first deployed as a deterrent to keep crops safe from nuisance foragers like [moose](/Monsters.aspx?ID=1233). These larger versions often line walls or other defensive points, providing a final layer of protection before a large creature would breach such areas. The _kickback spring_ fires a compressed disk of rapidly expanding air at creatures, attempting to push them back and provide defenders a moment to regroup. \n\n**Aim** <actions string=\"Two Actions\" /> 25 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times, requires a successful DC 22 [Athletics](/Skills.aspx?ID=36) check \n\n**Launch** <actions string=\"Single Action\" /> ([air](/Traits.aspx?ID=527), [attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 60 feet](/Rules.aspx?ID=2195)) 6d8 bludgeoning, 15-foot cone, DC 22 Reflex. A creature that fails its Reflex save is [pushed](/Rules.aspx?ID=451) 25 feet away from the _kickback spring_ as air rapidly vents from the device. On a critical failure, a creature falls [prone](/Conditions.aspx?ID=88) after being pushed back.",
+  "name": "Kickback Spring",
+  "pfs": "Restricted",
+  "price": 70000,
+  "price_raw": "700 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 115",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 13,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA smaller version of the  kickback spring  was first deployed as a deterrent to keep crops safe from nuisance foragers like  moose . These larger …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Gargantuan"
+  ],
+  "size_id": [
+   6
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 115"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 115 <sup>2.0</sup>",
+  "space": "18 feet long, 5 feet wide, 7 feet high",
+  "speed": {},
+  "summary": "A smaller version of the  kickback spring  was first deployed as a deterrent to keep crops safe from nuisance foragers like  moose . These larger …",
+  "summary_markdown": "A smaller version of the  kickback spring  was first deployed as a deterrent to keep crops safe from nuisance foragers like  moose . These larger …",
+  "text": " Kickback Spring Source Howl of the Wild pg. 115 2.0 Price 700 gp Ammunition kickback charge (2 gp, 1 Bulk) --- Usage mounted Space 18 feet long, 5 feet wide, 7 feet high Crew 2 Proficiency martial --- AC 20 Fort +16 Ref +13 Hardness 10 HP 50 Immunities object immunities --- A smaller version of the kickback spring was first deployed as a deterrent to keep crops safe from nuisance foragers like moose. These larger versions often line walls or other defensive points, providing a final layer of protection before a large creature would breach such areas. The kickback spring fires a compressed disk of rapidly expanding air at creatures, attempting to push them back and provide defenders a moment to regroup. Aim Two Actions 25 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times, requires a successful DC 22 Athletics check Launch Single Action (air, attack, manipulate, range increment 60 feet) 6d8 bludgeoning, 15-foot cone, DC 22 Reflex. A creature that fails its Reflex save is pushed 25 feet away from the kickback spring as air rapidly vents from the device. On a critical failure, a creature falls prone after being pushed back.",
+  "trait": [
+   "Magical",
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Magical",
+   "Mounted",
+   "Uncommon",
+   "Gargantuan"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=25",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 23,
+  "ammunition": "segmented chain (4 gp, 5 Bulk)",
+  "ammunition_markdown": "segmented chain (4 gp, 5 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-5",
+  "exclude_from_search": false,
+  "fortitude_save": 21,
+  "hardness": 18,
+  "hardness_raw": "18",
+  "hp": 64,
+  "hp_raw": "64",
+  "id": "siege-weapon-26",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 9,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 9\">[Lashtail](/SiegeWeapons.aspx?ID=26)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 1,500 gp\r\n\r\n**Ammunition** segmented chain (4 gp, 5 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 7 feet long, 15 feet wide, 8 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-5\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 23\r\n\r\n**Fort** +21\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 18\r\n\r\n**HP** 64\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nThe lashtail is named after the segmented chain that the weapon sweeps in a horizontal arc. The chain links are thick and flat, which look somewhat like scales, and linked together to resemble a great dragon’s tail. The chain is stretched against a spring-backed launcher. When released, the lashtail swings the chain outward, typically aimed to take down stampeding animals approaching on foot.\n\n**Aim** <actions string=\"Two Actions\" /> rotate 45° \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 3 times, requires a successful DC 26 Athletics \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 120 feet](/Rules.aspx?ID=2195)) 8d8 bludgeoning, 30-foot cone, DC 25 Reflex. A creature that fails its Reflex save is [off-guard](/Conditions.aspx?ID=58) until the end of their next turn. On a critical failure, a creature is instead knocked [prone](/Conditions.aspx?ID=88) by the chain.",
+  "name": "Lashtail",
+  "pfs": "Restricted",
+  "price": 150000,
+  "price_raw": "1,500 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 13,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe lashtail is named after the segmented chain that the weapon sweeps in a horizontal arc. The chain links are thick and flat, which look somewhat …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>",
+  "space": "7 feet long, 15 feet wide, 8 feet high",
+  "speed": {},
+  "summary": "The lashtail is named after the segmented chain that the weapon sweeps in a horizontal arc. The chain links are thick and flat, which look somewhat …",
+  "summary_markdown": "The lashtail is named after the segmented chain that the weapon sweeps in a horizontal arc. The chain links are thick and flat, which look somewhat …",
+  "text": " Lashtail Source Howl of the Wild pg. 116 2.0 Price 1,500 gp Ammunition segmented chain (4 gp, 5 Bulk) --- Usage mounted Space 7 feet long, 15 feet wide, 8 feet high Crew 3-5 Proficiency martial --- AC 23 Fort +21 Ref +13 Hardness 18 HP 64 Immunities object immunities --- The lashtail is named after the segmented chain that the weapon sweeps in a horizontal arc. The chain links are thick and flat, which look somewhat like scales, and linked together to resemble a great dragon’s tail. The chain is stretched against a spring-backed launcher. When released, the lashtail swings the chain outward, typically aimed to take down stampeding animals approaching on foot. Aim Two Actions rotate 45° Load Two Actions (manipulate) 3 times, requires a successful DC 26 Athletics Launch Single Action (attack, manipulate, range increment 120 feet) 8d8 bludgeoning, 30-foot cone, DC 25 Reflex. A creature that fails its Reflex save is off-guard until the end of their next turn. On a critical failure, a creature is instead knocked prone by the chain.",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=26",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 18,
+  "ammunition": "marking fluid canister (3 gp, 2 Bulk)",
+  "ammunition_markdown": "marking fluid canister (3 gp, 2 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "fortitude_save": 13,
+  "hardness": 8,
+  "hardness_raw": "8",
+  "hp": 36,
+  "hp_raw": "36",
+  "id": "siege-weapon-27",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 5\">[Marking Powder Cannon](/SiegeWeapons.aspx?ID=27)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=640\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 350 gp\r\n\r\n**Ammunition** marking fluid canister (3 gp, 2 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 7 feet long, 4 feet wide, 3 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** simple\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 18\r\n\r\n**Fort** +13\r\n\r\n**Ref** +11\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 8\r\n\r\n**HP** 36\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pulled or pushed)\r\n\r\n---\r\n\r\nThe fine spray dispersed by a marking powder cannon outlines beasts that evade sight. This weapon was developed against creatures that use brush to hide their approach, but its application has spread to include underwater creatures and nighttime predators. The spray is an oil that shimmers orange, making it an excellent camouflage breaker. It is also used to mark targets, if multiple creatures are expected to approach simultaneously.\n\n**Aim** <actions string=\"Two Actions\" /> 60 feet, minimum distance 30 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 100 feet](/Rules.aspx?ID=2195)) 10- foot burst, DC 19 Reflex. Creatures who fail the saving throw are coated with marking fluid, which glows with [dim orange light](/Rules.aspx?ID=408) out to 10 feet for 1 hour or until the fluid is washed off. In addition, on a failed save creatures that were [undetected](/Conditions.aspx?ID=96) become [hidden](/Conditions.aspx?ID=79) and affected creatures that were hidden become [concealed](/Conditions.aspx?ID=62). An [invisible](/Conditions.aspx?ID=83) creature that fails its save has its invisibility negated for 2 rounds, during which time it is concealed instead of invisible. Affected creatures take a –2 penalty to [Stealth](/Skills.aspx?ID=48) checks to [Hide](/Actions.aspx?ID=2404) and [Sneak](/Actions.aspx?ID=2405) for as long as they are coated with marking fluid.",
+  "name": "Marking Powder Cannon",
+  "pfs": "Restricted",
+  "price": 35000,
+  "price_raw": "350 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 11,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Light\" url=\"/Traits.aspx?ID=640\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe fine spray dispersed by a marking powder cannon outlines beasts that evade sight. This weapon was developed against creatures that use brush to …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>",
+  "space": "7 feet long, 4 feet wide, 3 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pulled or pushed)",
+  "speed_raw": "15 feet (pulled or pushed)",
+  "summary": "The fine spray dispersed by a marking powder cannon outlines beasts that evade sight. This weapon was developed against creatures that use brush to …",
+  "summary_markdown": "The fine spray dispersed by a marking powder cannon outlines beasts that evade sight. This weapon was developed against creatures that use brush to …",
+  "text": " Marking Powder Cannon Source Howl of the Wild pg. 116 2.0 Price 350 gp Ammunition marking fluid canister (3 gp, 2 Bulk) --- Usage mounted Space 7 feet long, 4 feet wide, 3 feet high Crew 2 Proficiency simple --- AC 18 Fort +13 Ref +11 Hardness 8 HP 36 Immunities object immunities --- Speed 15 feet (pulled or pushed) --- The fine spray dispersed by a marking powder cannon outlines beasts that evade sight. This weapon was developed against creatures that use brush to hide their approach, but its application has spread to include underwater creatures and nighttime predators. The spray is an oil that shimmers orange, making it an excellent camouflage breaker. It is also used to mark targets, if multiple creatures are expected to approach simultaneously. Aim Two Actions 60 feet, minimum distance 30 feet Load Two Actions (manipulate) 2 times Launch Single Action (attack, manipulate, range increment 100 feet) 10- foot burst, DC 19 Reflex. Creatures who fail the saving throw are coated with marking fluid, which glows with dim orange light out to 10 feet for 1 hour or until the fluid is washed off. In addition, on a failed save creatures that were undetected become hidden and affected creatures that were hidden become concealed. An invisible creature that fails its save has its invisibility negated for 2 rounds, during which time it is concealed instead of invisible. Affected creatures take a –2 penalty to Stealth checks to Hide and Sneak for as long as they are coated with marking fluid.",
+  "trait": [
+   "Light",
+   "Magical",
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Light](/Traits.aspx?ID=640), [Magical](/Traits.aspx?ID=644), [Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=683)",
+  "trait_raw": [
+   "Light",
+   "Magical",
+   "Mounted",
+   "Rare",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=27",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "simple"
+ },
+ {
+  "ac": 19,
+  "ammunition": "concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp, 1 Bulk)",
+  "ammunition_markdown": "concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp, 1 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 18,
+  "hardness": 8,
+  "hardness_raw": "8",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-28",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 5\">[Pheromone Sprayer](/SiegeWeapons.aspx?ID=28)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 350 gp\r\n\r\n**Ammunition** concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 12 feet long, 6 feet wide, 4 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 19\r\n\r\n**Fort** +18\r\n\r\n**Ref** +6\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 8\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pulled or pushed)\r\n\r\n---\r\n\r\nPheromone sprayers are used to fire mass amounts of alchemical [animal pheromones](/Equipment.aspx?ID=3228) in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. \n\n**Aim** <actions string=\"Single Action\" /> rotate 45° \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [olfactory](/Traits.aspx?ID=664)) 80-foot line or 40-foot cone, DC 20 Will. Switching between the line or cone mode takes an [Interact](/Actions.aspx?ID=2297) action, which any of the crew can perform. Designated kinds of animals that fail their save experience the following effects, depending on dilution.\n<ul><li>**Low Dilution** Affected creatures are [stunned](/Conditions.aspx?ID=93) 2.</li><li>**Medium Dilution** Affected creatures are [fascinated](/Conditions.aspx?ID=72) by the scent of the pheromones and [off-guard](/Conditions.aspx?ID=58) until the end of their next turn.</li><li>**High Dilution** Affected creatures are [slowed](/Conditions.aspx?ID=92) 1 for 1 minute.</li></ul>",
+  "name": "Pheromone Sprayer",
+  "pfs": "Restricted",
+  "price": 35000,
+  "price_raw": "350 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 6,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Alchemical\" url=\"/Traits.aspx?ID=528\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPheromone sprayers are used to fire mass amounts of alchemical  animal pheromones  in a more weaponized form to allow researchers an easy way to …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 116 <sup>2.0</sup>",
+  "space": "12 feet long, 6 feet wide, 4 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pulled or pushed)",
+  "speed_raw": "15 feet (pulled or pushed)",
+  "summary": "Pheromone sprayers are used to fire mass amounts of alchemical  animal pheromones  in a more weaponized form to allow researchers an easy way to …",
+  "summary_markdown": "Pheromone sprayers are used to fire mass amounts of alchemical  animal pheromones  in a more weaponized form to allow researchers an easy way to …",
+  "text": " Pheromone Sprayer Source Howl of the Wild pg. 116 2.0 Price 350 gp Ammunition concentrated pheromone tank (30 gp, 1 Bulk), water tank (5 sp, 1 Bulk) --- Usage mounted Space 12 feet long, 6 feet wide, 4 feet high Crew 2-4 Proficiency martial --- AC 19 Fort +18 Ref +6 Hardness 8 HP 40 Immunities object immunities --- Speed 15 feet (pulled or pushed) --- Pheromone sprayers are used to fire mass amounts of alchemical animal pheromones in a more weaponized form to allow researchers an easy way to influence otherwise dangerous creatures. Like animal pheromones, the ammunition for this siege weapon must be crafted for a specific kind of animal. A pheromone sprayer consists of two large tanks mounted atop a narrow, cannon-like barrel. One of the tanks contains concentrated alchemical pheromones, while the other tank is loaded with water, which is used to dilute the pheromones to produce different effects upon launch. Aim Single Action rotate 45° Load Two Actions (manipulate) 2 times Launch Single Action (attack, manipulate, olfactory) 80-foot line or 40-foot cone, DC 20 Will. Switching between the line or cone mode takes an Interact action, which any of the crew can perform. Designated kinds of animals that fail their save experience the following effects, depending on dilution. Low Dilution Affected creatures are stunned 2. Medium Dilution Affected creatures are fascinated by the scent of the pheromones and off-guard until the end of their next turn. High Dilution Affected creatures are slowed 1 for 1 minute. ",
+  "trait": [
+   "Alchemical",
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Monster",
+   "Equipment",
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Alchemical](/Traits.aspx?ID=528), [Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Alchemical",
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=28",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 22,
+  "ammunition": "resonating orb (320 gp, 6 Bulk)",
+  "ammunition_markdown": "resonating orb (320 gp, 6 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "fortitude_save": 25,
+  "hardness": 12,
+  "hardness_raw": "12",
+  "hp": 80,
+  "hp_raw": "80",
+  "id": "siege-weapon-29",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 10\">[Sonic Horn](/SiegeWeapons.aspx?ID=29)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n<trait label=\"Sonic\" url=\"/Traits.aspx?ID=697\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 2,000 gp\r\n\r\n**Ammunition** resonating orb (320 gp, 6 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 10 feet long, 5 feet wide, 5 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 22\r\n\r\n**Fort** +25\r\n\r\n**Ref** +14\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 12\r\n\r\n**HP** 80\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n**Speed** 15 feet (pulled or pushed)\r\n\r\n---\r\n\r\nThis siege weapon consists of a horn-shaped nozzle, a base typically decorated with ornate musical notes, and two cranks attached to both sides of the base. Crystalline resonating orbs made from powdered [soniphak](/Monsters.aspx?ID=3269) horn are inserted into a compartment within the base. Once an orb is loaded and the nozzle aimed, both cranks must be turned. This causes compressors within the base to grind away at the resonating orb, crushing it and releasing the sonic energy contained within. To reduce the likelihood of these weapons causing hearing damage, horns come equipped with earplugs and colored flags to enable crew members to communicate without the need for speech. \n\n**Aim** <actions string=\"Two Actions\" /> 40 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Three Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times. These load actions include donning earplugs and securing them during subsequent sonic horn firings. The earplugs impose a –2 item penalty to [Perception](/Rules.aspx?ID=2298) checks involving sound, and may be removed with an [Interact](/Actions.aspx?ID=2297) action. \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 250 feet](/Rules.aspx?ID=2195)) 6d12 sonic damage, 60-foot cone, DC 25 Fortitude. Creatures that fail or critically fail the save are also [deafened](/Conditions.aspx?ID=66) for 3d6 rounds.",
+  "name": "Sonic Horn",
+  "pfs": "Restricted",
+  "price": 200000,
+  "price_raw": "2,000 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 117",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 14,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n<trait label=\"Sonic\" url=\"/Traits.aspx?ID=697\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis siege weapon consists of a horn-shaped nozzle, a base typically decorated with ornate musical notes, and two cranks attached to both sides of …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 117"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>",
+  "space": "10 feet long, 5 feet wide, 5 feet high",
+  "speed": {
+   "land": 15,
+   "max": 15
+  },
+  "speed_markdown": "15 feet (pulled or pushed)",
+  "speed_raw": "15 feet (pulled or pushed)",
+  "summary": "This siege weapon consists of a horn-shaped nozzle, a base typically decorated with ornate musical notes, and two cranks attached to both sides of …",
+  "summary_markdown": "This siege weapon consists of a horn-shaped nozzle, a base typically decorated with ornate musical notes, and two cranks attached to both sides of …",
+  "text": " Sonic Horn Source Howl of the Wild pg. 117 2.0 Price 2,000 gp Ammunition resonating orb (320 gp, 6 Bulk) --- Usage mounted Space 10 feet long, 5 feet wide, 5 feet high Crew 2 Proficiency martial --- AC 22 Fort +25 Ref +14 Hardness 12 HP 80 Immunities object immunities --- Speed 15 feet (pulled or pushed) --- This siege weapon consists of a horn-shaped nozzle, a base typically decorated with ornate musical notes, and two cranks attached to both sides of the base. Crystalline resonating orbs made from powdered soniphak horn are inserted into a compartment within the base. Once an orb is loaded and the nozzle aimed, both cranks must be turned. This causes compressors within the base to grind away at the resonating orb, crushing it and releasing the sonic energy contained within. To reduce the likelihood of these weapons causing hearing damage, horns come equipped with earplugs and colored flags to enable crew members to communicate without the need for speech. Aim Two Actions 40 feet, minimum distance 50 feet Load Three Actions (manipulate) 2 times. These load actions include donning earplugs and securing them during subsequent sonic horn firings. The earplugs impose a –2 item penalty to Perception checks involving sound, and may be removed with an Interact action. Launch Single Action (attack, manipulate, range increment 250 feet) 6d12 sonic damage, 60-foot cone, DC 25 Fortitude. Creatures that fail or critically fail the save are also deafened for 3d6 rounds.",
+  "trait": [
+   "Magical",
+   "Mounted",
+   "Sonic",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Energy",
+   "Monster",
+   "Rarity"
+  ],
+  "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Mounted](/Traits.aspx?ID=411), [Sonic](/Traits.aspx?ID=697), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Magical",
+   "Mounted",
+   "Sonic",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=29",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 26,
+  "ammunition": "enchanted seedpods (10 gp, 1 Bulk)",
+  "ammunition_markdown": "enchanted seedpods (10 gp, 1 Bulk)",
+  "category": "siege-weapon",
+  "crew": "3-6",
+  "exclude_from_search": false,
+  "fortitude_save": 23,
+  "hardness": 10,
+  "hardness_raw": "10",
+  "hp": 90,
+  "hp_raw": "90",
+  "id": "siege-weapon-30",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 11\">[Seedpod Shooter](/SiegeWeapons.aspx?ID=30)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 3,000 gp\r\n\r\n**Ammunition** enchanted seedpods (10 gp, 1 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 12 feet long, 15 feet wide, 10 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 3-6\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 26\r\n\r\n**Fort** +23\r\n\r\n**Ref** +13\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 10\r\n\r\n**HP** 90\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nA large quantity of enchanted seedpods are packed into a seedpod shooter’s funnel. The siege engine controls the dispersal of seedpods into the air and enhances their speed and sharpness when fired. While these seedpods naturally whistle when blown through the air, the device causes this sound to reverberate at a frequency that can cause nausea. \n\n**Aim** <actions string=\"Two Actions\" /> 100 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [auditory](/Traits.aspx?ID=541), [manipulate](/Traits.aspx?ID=645), [range increment 300 feet](/Rules.aspx?ID=2195)) 8d12 slashing, 30-foot burst, DC 27 Reflex. A creature that fails their Reflex save becomes [sickened](/Conditions.aspx?ID=91) 2.",
+  "name": "Seedpod Shooter",
+  "pfs": "Restricted",
+  "price": 300000,
+  "price_raw": "3,000 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 117",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 13,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Magical\" url=\"/Traits.aspx?ID=644\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA large quantity of enchanted seedpods are packed into a seedpod shooter’s funnel. The siege engine controls the dispersal of seedpods into the air …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 117"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>",
+  "space": "12 feet long, 15 feet wide, 10 feet high",
+  "speed": {},
+  "summary": "A large quantity of enchanted seedpods are packed into a seedpod shooter’s funnel. The siege engine controls the dispersal of seedpods into the air …",
+  "summary_markdown": "A large quantity of enchanted seedpods are packed into a seedpod shooter’s funnel. The siege engine controls the dispersal of seedpods into the air …",
+  "text": " Seedpod Shooter Source Howl of the Wild pg. 117 2.0 Price 3,000 gp Ammunition enchanted seedpods (10 gp, 1 Bulk) --- Usage mounted Space 12 feet long, 15 feet wide, 10 feet high Crew 3-6 Proficiency martial --- AC 26 Fort +23 Ref +13 Hardness 10 HP 90 Immunities object immunities --- A large quantity of enchanted seedpods are packed into a seedpod shooter’s funnel. The siege engine controls the dispersal of seedpods into the air and enhances their speed and sharpness when fired. While these seedpods naturally whistle when blown through the air, the device causes this sound to reverberate at a frequency that can cause nausea. Aim Two Actions 100 feet, minimum distance 50 feet Load Two Actions (manipulate) 2 times Launch Single Action (attack, auditory, manipulate, range increment 300 feet) 8d12 slashing, 30-foot burst, DC 27 Reflex. A creature that fails their Reflex save becomes sickened 2.",
+  "trait": [
+   "Magical",
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Magical](/Traits.aspx?ID=644), [Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=683)",
+  "trait_raw": [
+   "Magical",
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=30",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ac": 29,
+  "ammunition": "resonance rods (25 gp, 5 Bulk)",
+  "ammunition_markdown": "resonance rods (25 gp, 5 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2-4",
+  "exclude_from_search": false,
+  "fortitude_save": 32,
+  "hardness": 20,
+  "hardness_raw": "20",
+  "hp": 140,
+  "hp_raw": "140",
+  "id": "siege-weapon-31",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 15\">[Seismic Amplifier](/SiegeWeapons.aspx?ID=31)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Huge\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 13,000 gp\r\n\r\n**Ammunition** resonance rods (25 gp, 5 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 15 feet long, 12 feet wide, 18 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2-4\r\n\r\n**Proficiency** martial\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 29\r\n\r\n**Fort** +32\r\n\r\n**Ref** +18\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 20\r\n\r\n**HP** 140\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nSeismic amplifiers are devastating underground, where they tap into the energy of nearby faults. Installing one requires drilling a steel shaft into the stone and loading it with crystal resonance rods. Breaking the rod releases the energy into a disk-like amplifier. Any creatures burrowed into ground within the burst treat the result of their Reflex save as one step worse. \n\n**Aim** <actions string=\"Two Actions\" /> 200 feet, minimum distance 50 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 3 times, requires a successful DC 25 [Athletics](/Skills.aspx?ID=36) check \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 200 feet](/Rules.aspx?ID=2195)) 9d12 bludgeoning, 5-foot burst, DC 33 Reflex",
+  "name": "Seismic Amplifier",
+  "pfs": "Restricted",
+  "price": 1300000,
+  "price_raw": "13,000 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 117",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "reflex_save": 18,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=683\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSeismic amplifiers are devastating underground, where they tap into the energy of nearby faults. Installing one requires drilling a steel shaft into …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Huge"
+  ],
+  "size_id": [
+   5
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 117"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>",
+  "space": "15 feet long, 12 feet wide, 18 feet high",
+  "speed": {},
+  "summary": "Seismic amplifiers are devastating underground, where they tap into the energy of nearby faults. Installing one requires drilling a steel shaft into …",
+  "summary_markdown": "Seismic amplifiers are devastating underground, where they tap into the energy of nearby faults. Installing one requires drilling a steel shaft into …",
+  "text": " Seismic Amplifier Source Howl of the Wild pg. 117 2.0 Price 13,000 gp Ammunition resonance rods (25 gp, 5 Bulk) --- Usage mounted Space 15 feet long, 12 feet wide, 18 feet high Crew 2-4 Proficiency martial --- AC 29 Fort +32 Ref +18 Hardness 20 HP 140 Immunities object immunities --- Seismic amplifiers are devastating underground, where they tap into the energy of nearby faults. Installing one requires drilling a steel shaft into the stone and loading it with crystal resonance rods. Breaking the rod releases the energy into a disk-like amplifier. Any creatures burrowed into ground within the burst treat the result of their Reflex save as one step worse. Aim Two Actions 200 feet, minimum distance 50 feet Load Two Actions (manipulate) 3 times, requires a successful DC 25 Athletics check Launch Single Action (attack, manipulate, range increment 200 feet) 9d12 bludgeoning, 5-foot burst, DC 33 Reflex",
+  "trait": [
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Rare](/Traits.aspx?ID=683)",
+  "trait_raw": [
+   "Mounted",
+   "Rare",
+   "Huge"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=31",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "martial"
+ },
+ {
+  "ammunition": "boulder (0 gp, 5 Bulk)",
+  "ammunition_markdown": "boulder (0 gp, 5 Bulk)",
+  "bulk": 15,
+  "bulk_raw": "15",
+  "category": "siege-weapon",
+  "crew": "4-6",
+  "exclude_from_search": false,
+  "id": "siege-weapon-32",
+  "item_category": "Siege Weapons",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 1\">[Teekdoon](/SiegeWeapons.aspx?ID=32)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 50 gp\r\n\r\n**Ammunition** boulder (0 gp, 5 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** portable, held in 8 hands\r\n\r\n**Bulk** 15\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 4-6\r\n\r\n**Proficiency** simple\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nWhile the official name of this contraption is the “portable catapult,” it gained the name “teekdoon” as a reference to the weapon’s initial inspiration: the diving takedowns of peregrine falcons. However, it replaces elegant dives with the brute force of falling weights that hit targets from above.\n\n**Aim** <actions string=\"Two Actions\" /> 25 feet, minimum distance 25 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times, requires a successful DC 12 [Athletics](/Skills.aspx?ID=36) check \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 80 feet](/Rules.aspx?ID=2195)) 2d8 bludgeoning, single target, DC 14 Reflex. A boulder launched from a teekdoon descends on a creature from above, which might affect if a creature has [cover](/Rules.aspx?ID=2372) against the attack.",
+  "name": "Teekdoon",
+  "pfs": "Restricted",
+  "price": 5000,
+  "price_raw": "50 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 117",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Portable\" url=\"/Traits.aspx?ID=412\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the official name of this contraption is the “portable catapult,” it gained the name “teekdoon” as a reference to the weapon’s initial …\r\n</summary>",
+  "siege_weapon_category": "Portable",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 117"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "While the official name of this contraption is the “portable catapult,” it gained the name “teekdoon” as a reference to the weapon’s initial …",
+  "summary_markdown": "While the official name of this contraption is the “portable catapult,” it gained the name “teekdoon” as a reference to the weapon’s initial …",
+  "text": " Teekdoon Source Howl of the Wild pg. 117 2.0 Price 50 gp Ammunition boulder (0 gp, 5 Bulk) --- Usage portable, held in 8 hands Bulk 15 Crew 4-6 Proficiency simple --- While the official name of this contraption is the “portable catapult,” it gained the name “teekdoon” as a reference to the weapon’s initial inspiration: the diving takedowns of peregrine falcons. However, it replaces elegant dives with the brute force of falling weights that hit targets from above. Aim Two Actions 25 feet, minimum distance 25 feet Load Two Actions (manipulate) 2 times, requires a successful DC 12 Athletics check Launch Single Action (attack, manipulate, range increment 80 feet) 2d8 bludgeoning, single target, DC 14 Reflex. A boulder launched from a teekdoon descends on a creature from above, which might affect if a creature has cover against the attack.",
+  "trait": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Portable](/Traits.aspx?ID=412), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Portable",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=32",
+  "usage": "portable, held in 8 hands",
+  "usage_markdown": "portable, held in 8 hands",
+  "weakness": {},
+  "weapon_category": "simple"
+ },
+ {
+  "ac": 16,
+  "ammunition": "iron rod (5 gp, 4 Bulk)",
+  "ammunition_markdown": "iron rod (5 gp, 4 Bulk)",
+  "category": "siege-weapon",
+  "crew": "2",
+  "exclude_from_search": false,
+  "fortitude_save": 12,
+  "hardness": 5,
+  "hardness_raw": "5",
+  "hp": 40,
+  "hp_raw": "40",
+  "id": "siege-weapon-33",
+  "immunity": [
+   "object immunities"
+  ],
+  "immunity_markdown": "object immunities",
+  "item_category": "Siege Weapons",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Siege Weapon 3\">[Trapdoor Actuator](/SiegeWeapons.aspx?ID=33)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Large\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n**Price** 140 gp\r\n\r\n**Ammunition** iron rod (5 gp, 4 Bulk)\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**Usage** mounted\n\n**Space** 10 feet long, 4 feet wide, 6 feet high\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Crew** 2\r\n\r\n**Proficiency** simple\r\n</row>\r\n\r\n</column>\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n<row gap=\"medium\">\r\n**AC** 16\r\n\r\n**Fort** +12\r\n\r\n**Ref** +4\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n**Hardness** 5\r\n\r\n**HP** 40\r\n\r\n**Immunities** object immunities\r\n</row>\r\n\r\n</column>\r\n\r\n---\n\nTrapdoor actuators are designed to be well hidden (usually as part of a cliff face) and operated by small, untrained crews. Cleverly designed springs launch an iron rod from the protective wall. Typically, this level of camouflage allows the trapdoor actuator to remain unnoticed unless a creature succeeds at a DC 18 [Perception](/Rules.aspx?ID=2298) check to spot it. After a launch, the trapdoor actuator’s camouflage can be reset as a two-action activity. \n\n**Aim** <actions string=\"Two Actions\" /> 25 feet, minimum distance 10 feet \n\n**Load** <actions string=\"Two Actions\" /> ([manipulate](/Traits.aspx?ID=645)) 2 times, requires a successful DC 20 Athletics check \n\n**Launch** <actions string=\"Single Action\" /> ([attack](/Traits.aspx?ID=540), [manipulate](/Traits.aspx?ID=645), [range increment 100 feet](/Rules.aspx?ID=2195)) 3d10 bludgeoning, single target, DC 18 Reflex",
+  "name": "Trapdoor Actuator",
+  "pfs": "Restricted",
+  "price": 14000,
+  "price_raw": "140 gp",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 117",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "reflex_save": 4,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Mounted\" url=\"/Traits.aspx?ID=411\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTrapdoor actuators are designed to be well hidden (usually as part of a cliff face) and operated by small, untrained crews. Cleverly designed springs …\r\n</summary>",
+  "siege_weapon_category": "Mounted",
+  "size": [
+   "Large"
+  ],
+  "size_id": [
+   4
+  ],
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 117"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 117 <sup>2.0</sup>",
+  "space": "10 feet long, 4 feet wide, 6 feet high",
+  "speed": {},
+  "summary": "Trapdoor actuators are designed to be well hidden (usually as part of a cliff face) and operated by small, untrained crews. Cleverly designed springs …",
+  "summary_markdown": "Trapdoor actuators are designed to be well hidden (usually as part of a cliff face) and operated by small, untrained crews. Cleverly designed springs …",
+  "text": " Trapdoor Actuator Source Howl of the Wild pg. 117 2.0 Price 140 gp Ammunition iron rod (5 gp, 4 Bulk) --- Usage mounted Space 10 feet long, 4 feet wide, 6 feet high Crew 2 Proficiency simple --- AC 16 Fort +12 Ref +4 Hardness 5 HP 40 Immunities object immunities --- Trapdoor actuators are designed to be well hidden (usually as part of a cliff face) and operated by small, untrained crews. Cleverly designed springs launch an iron rod from the protective wall. Typically, this level of camouflage allows the trapdoor actuator to remain unnoticed unless a creature succeeds at a DC 18 Perception check to spot it. After a launch, the trapdoor actuator’s camouflage can be reset as a two-action activity. Aim Two Actions 25 feet, minimum distance 10 feet Load Two Actions (manipulate) 2 times, requires a successful DC 20 Athletics check Launch Single Action (attack, manipulate, range increment 100 feet) 3d10 bludgeoning, single target, DC 18 Reflex",
+  "trait": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "trait_group": [
+   "Weapon",
+   "Rarity"
+  ],
+  "trait_markdown": "[Mounted](/Traits.aspx?ID=411), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Mounted",
+   "Uncommon",
+   "Large"
+  ],
+  "type": "Siege Weapon",
+  "url": "/SiegeWeapons.aspx?ID=33",
+  "usage": "mounted",
+  "usage_markdown": "mounted",
+  "weakness": {},
+  "weapon_category": "simple"
+ }
+]

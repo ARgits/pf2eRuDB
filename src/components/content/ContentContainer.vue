@@ -1,15 +1,18 @@
 <script setup lang="ts">
-import ContentItem from './ContentItem.vue';
-import ContentContainerTableView from './ContentContainerTableView.vue'
-import { storeToRefs } from 'pinia';
-import { useContentStore } from '@/stores/content';
-import { useViewStore } from '@/stores/viewStore';
+import ContentItem from "./ContentItem.vue";
+import ContentContainerTableView from "./ContentContainerTableView.vue"
+import { storeToRefs } from "pinia";
+import { useContentStore } from "@/stores/content";
+import { useViewStore } from "@/stores/viewStore";
 import ContainerFadeSlideTransition from "@components/transitions/ContainerFadeSlideTransition.vue"
+import {devLog} from "@/utils"
+import {watch} from "vue"
 const { numOfItems, currentContent } = storeToRefs(useContentStore())
 const { viewType } = storeToRefs(useViewStore())
+watch(currentContent,()=>{ devLog("ContentContainer: currentContent",currentContent.value, viewType.value) })
 </script>
 <template>
-  <div v-if="numOfItems">
+  <div v-if="numOfItems>0">
     <template v-if="viewType === 'list'">
       <ContainerFadeSlideTransition>
         <ContentItem
@@ -40,15 +43,14 @@ const { viewType } = storeToRefs(useViewStore())
 }
 
 .content_group {
-  // display: flex;
+  position: relative;
   display: grid;
-  grid-template-columns: repeat(var(--numOfColumns, 1), 1fr);
+  grid-template-columns: 1fr;
   grid-template-rows: auto;
-  gap: 10px;
+  gap:var(--gap);
   flex: 1 0 auto;
-  overflow-y: auto;
+  overflow-y: scroll;
   overflow-x: hidden;
   height: 0;
-  position: relative;
 }
 </style>

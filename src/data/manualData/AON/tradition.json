@@ -1,0 +1,287 @@
+[
+ {
+  "category": "tradition",
+  "exclude_from_search": false,
+  "id": "tradition-1",
+  "markdown": "<title level=\"1\" right=\"Tradition\">[Arcane](/SpellLists.aspx?Tradition=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n\r\nArcane spellcasters use logic and rationality to categorize the magic inherent in the world around them. Because of its far-reaching approach, the arcane tradition has the broadest spell list, though it’s generally poor at affecting the spirit or the soul. Wizards are the most iconic arcane spellcasters, poring over tomes and grimoires, though arcane sorcerers study the secrets of their blood to unlock the power within themselves.",
+  "name": "Arcane",
+  "navigation": [
+   {
+    "label": "All Spells",
+    "url": "/spells"
+   },
+   {
+    "label": "Arcane",
+    "url": "/spells/arcane"
+   },
+   {
+    "label": "Divine",
+    "url": "/spells/divine"
+   },
+   {
+    "label": "Elemental",
+    "url": "/spells/elemental"
+   },
+   {
+    "label": "Occult",
+    "url": "/spells/occult"
+   },
+   {
+    "label": "Primal",
+    "url": "/spells/primal"
+   }
+  ],
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 299",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArcane spellcasters use logic and rationality to categorize the magic inherent in the world around them. Because of its far-reaching approach, the arcane tradition has the broadest spell list, though it’s generally poor at affecting the spirit or the soul. Wizards are the most iconic arcane spellcasters, poring over tomes and grimoires, though arcane sorcerers study the secrets of their blood to unlock the power within themselves.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 299"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Arcane Source Core Rulebook pg. 299 4.0 Arcane spellcasters use logic and rationality to categorize the magic inherent in the world around them. Because of its far-reaching approach, the arcane tradition has the broadest spell list, though it’s generally poor at affecting the spirit or the soul. Wizards are the most iconic arcane spellcasters, poring over tomes and grimoires, though arcane sorcerers study the secrets of their blood to unlock the power within themselves.",
+  "type": "Tradition",
+  "url": "/SpellLists.aspx?Tradition=1",
+  "weakness": {}
+ },
+ {
+  "category": "tradition",
+  "exclude_from_search": false,
+  "id": "tradition-2",
+  "markdown": "<title level=\"1\" right=\"Tradition\">[Divine](/SpellLists.aspx?Tradition=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n\r\nThe power of the divine is steeped in faith, the unseen, and belief in a power source from beyond the Material Plane. Clerics are the most iconic divine spellcasters, beseeching the gods to grant them their magic. Divine sorcerers can use the blood of their celestial or fiendish ancestors as a divine conduit, and champions call upon their gods to grant them martial prowess through divine guidance.",
+  "name": "Divine",
+  "navigation": [
+   {
+    "label": "All Spells",
+    "url": "/spells"
+   },
+   {
+    "label": "Arcane",
+    "url": "/spells/arcane"
+   },
+   {
+    "label": "Divine",
+    "url": "/spells/divine"
+   },
+   {
+    "label": "Elemental",
+    "url": "/spells/elemental"
+   },
+   {
+    "label": "Occult",
+    "url": "/spells/occult"
+   },
+   {
+    "label": "Primal",
+    "url": "/spells/primal"
+   }
+  ],
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 299",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe power of the divine is steeped in faith, the unseen, and belief in a power source from beyond the Material Plane. Clerics are the most iconic divine spellcasters, beseeching the gods to grant them their magic. Divine sorcerers can use the blood of their celestial or fiendish ancestors as a divine conduit, and champions call upon their gods to grant them martial prowess through divine guidance.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 299"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Divine Source Core Rulebook pg. 299 4.0 The power of the divine is steeped in faith, the unseen, and belief in a power source from beyond the Material Plane. Clerics are the most iconic divine spellcasters, beseeching the gods to grant them their magic. Divine sorcerers can use the blood of their celestial or fiendish ancestors as a divine conduit, and champions call upon their gods to grant them martial prowess through divine guidance.",
+  "type": "Tradition",
+  "url": "/SpellLists.aspx?Tradition=2",
+  "weakness": {}
+ },
+ {
+  "category": "tradition",
+  "exclude_from_search": false,
+  "id": "tradition-3",
+  "markdown": "<title level=\"1\" right=\"Tradition\">[Occult](/SpellLists.aspx?Tradition=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n\r\nThe practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way. Bards are the most iconic occult spellcasters, collecting strange esoterica and using their performances to influence the mind or elevate the soul, and occult sorcerers strive to understand the mysterious power in their blood.",
+  "name": "Occult",
+  "navigation": [
+   {
+    "label": "All Spells",
+    "url": "/spells"
+   },
+   {
+    "label": "Arcane",
+    "url": "/spells/arcane"
+   },
+   {
+    "label": "Divine",
+    "url": "/spells/divine"
+   },
+   {
+    "label": "Elemental",
+    "url": "/spells/elemental"
+   },
+   {
+    "label": "Occult",
+    "url": "/spells/occult"
+   },
+   {
+    "label": "Primal",
+    "url": "/spells/primal"
+   }
+  ],
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 299",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way. Bards are the most iconic occult spellcasters, collecting strange esoterica and using their performances to influence the mind or elevate the soul, and occult sorcerers strive to understand the mysterious power in their blood.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 299"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Occult Source Core Rulebook pg. 299 4.0 The practitioners of occult traditions seek to understand the unexplainable, categorize the bizarre, and otherwise access the ephemeral in a systematic way. Bards are the most iconic occult spellcasters, collecting strange esoterica and using their performances to influence the mind or elevate the soul, and occult sorcerers strive to understand the mysterious power in their blood.",
+  "type": "Tradition",
+  "url": "/SpellLists.aspx?Tradition=3",
+  "weakness": {}
+ },
+ {
+  "category": "tradition",
+  "exclude_from_search": false,
+  "id": "tradition-4",
+  "markdown": "<title level=\"1\" right=\"Tradition\">[Primal](/SpellLists.aspx?Tradition=4)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n\r\nAn instinctual connection to and faith in the world, the cycle of day and night, the turning of the seasons, and the natural selection of predator and prey drive the primal tradition. Druids are the most iconic primal spellcasters, calling upon the magic of nature through deep faith and a connection to the plants and animals around them, and primal sorcerers call upon their fey or beast blood to harness the same natural energies.",
+  "name": "Primal",
+  "navigation": [
+   {
+    "label": "All Spells",
+    "url": "/spells"
+   },
+   {
+    "label": "Arcane",
+    "url": "/spells/arcane"
+   },
+   {
+    "label": "Divine",
+    "url": "/spells/divine"
+   },
+   {
+    "label": "Elemental",
+    "url": "/spells/elemental"
+   },
+   {
+    "label": "Occult",
+    "url": "/spells/occult"
+   },
+   {
+    "label": "Primal",
+    "url": "/spells/primal"
+   }
+  ],
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 299",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn instinctual connection to and faith in the world, the cycle of day and night, the turning of the seasons, and the natural selection of predator and prey drive the primal tradition. Druids are the most iconic primal spellcasters, calling upon the magic of nature through deep faith and a connection to the plants and animals around them, and primal sorcerers call upon their fey or beast blood to harness the same natural energies.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 299"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 299 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Primal Source Core Rulebook pg. 299 4.0 An instinctual connection to and faith in the world, the cycle of day and night, the turning of the seasons, and the natural selection of predator and prey drive the primal tradition. Druids are the most iconic primal spellcasters, calling upon the magic of nature through deep faith and a connection to the plants and animals around them, and primal sorcerers call upon their fey or beast blood to harness the same natural energies.",
+  "type": "Tradition",
+  "url": "/SpellLists.aspx?Tradition=4",
+  "weakness": {}
+ },
+ {
+  "category": "tradition",
+  "exclude_from_search": false,
+  "id": "tradition-5",
+  "markdown": "<title level=\"1\" right=\"Spell List\">[Elemental](/SpellLists.aspx?Tradition=5)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 203 <sup>1.1</sup>\r\n\r\nThe [elementalist](/Archetypes.aspx?ID=98) archetype uses this elemental spell list. It includes spells from all hardcover rulebooks up to this release.\n\n You can discuss with the GM any spells from other sources you want to add to your list. As a general rule, spells with the [air](/Traits.aspx?ID=5), [earth](/Traits.aspx?ID=55), [fire](/Traits.aspx?ID=72), or [water](/Traits.aspx?ID=165) trait belong on the list, including spells that add one of those traits depending on how they're cast, such as [_elemental zone_](/Spells.aspx?ID=905). Spells that are general and appear on every tradition's spell list also make good candidates.",
+  "name": "Elemental",
+  "navigation": [
+   {
+    "label": "All Spells",
+    "url": "/spells"
+   },
+   {
+    "label": "Arcane",
+    "url": "/spells/arcane"
+   },
+   {
+    "label": "Divine",
+    "url": "/spells/divine"
+   },
+   {
+    "label": "Elemental",
+    "url": "/spells/elemental"
+   },
+   {
+    "label": "Occult",
+    "url": "/spells/occult"
+   },
+   {
+    "label": "Primal",
+    "url": "/spells/primal"
+   }
+  ],
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 203",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 203 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe [elementalist](/Archetypes.aspx?ID=98) archetype uses this elemental spell list. It includes spells from all hardcover rulebooks up to this release.\n\n You can discuss with the GM any spells from other sources you want to add to your list. As a general rule, spells with the [air](/Traits.aspx?ID=5), [earth](/Traits.aspx?ID=55), [fire](/Traits.aspx?ID=72), or [water](/Traits.aspx?ID=165) trait belong on the list, including spells that add one of those traits depending on how they're cast, such as [_elemental zone_](/Spells.aspx?ID=905). Spells that are general and appear on every tradition's spell list also make good candidates.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 203"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 203 <sup>1.1</sup>",
+  "speed": {},
+  "text": " Elemental Source Secrets of Magic pg. 203 1.1 The elementalist archetype uses this elemental spell list. It includes spells from all hardcover rulebooks up to this release. You can discuss with the GM any spells from other sources you want to add to your list. As a general rule, spells with the air, earth, fire, or water trait belong on the list, including spells that add one of those traits depending on how they're cast, such as elemental zone . Spells that are general and appear on every tradition's spell list also make good candidates.",
+  "type": "Spell List",
+  "url": "/SpellLists.aspx?Tradition=5",
+  "weakness": {}
+ }
+]

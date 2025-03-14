@@ -1,0 +1,591 @@
+[
+ {
+  "ac": 16,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-1",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 1\" pfs=\"\">[Infantry Army](/KMWarArmies.aspx?ID=1)</title>\r\n\r\n<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 570\n\nThis is a platoon of armored soldiers armed with melee weapons.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +7\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 15\n\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 16\n\n**Maneuver** +4\r\n(low)\r\n\r\n**Morale** +10\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 2)\r\n\r\n**Melee**\r\nweapons +9\n\n</column>",
+  "name": "Infantry Army",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 570",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 570\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis is a platoon of armored soldiers armed with melee weapons.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 570"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 570",
+  "speed": {},
+  "summary": "This is a platoon of armored soldiers armed with melee weapons.",
+  "summary_markdown": "This is a platoon of armored soldiers armed with melee weapons.",
+  "text": " Infantry Army Source Kingmaker Adventure Path pg. 570 This is a platoon of armored soldiers armed with melee weapons. --- Scouting +7 Recruitment 15 Consumption 1 AC 16 Maneuver +4 (low) Morale +10 (high) HP 4 (RT 2) Melee weapons +9\n",
+  "trait": [
+   "Infantry"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455)",
+  "trait_raw": [
+   "Infantry"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "ac": 19,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-2",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 3\" pfs=\"\">[Cavalry](/KMWarArmies.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\n\nCavalry consists of armored soldiers armed with melee weapons and mounted on horses.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +9\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 18\n\n**Consumption** 2\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 19\n\n**Maneuver** +12\r\n(high)\r\n\r\n**Morale** +6\r\n(low)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 2)\r\n\r\n**Melee**\r\nweapons +12\n\n**Overrun** Cavalry armies gain a +1 status bonus on weapon attacks against [infantry](/Traits.aspx?ID=455) and [skirmisher](/Traits.aspx?ID=456) armies, but they suffer a –1 status penalty on Maneuver and Morale saves against area attacks and [mental](/Traits.aspx?ID=106) attacks.\r\n\r\n</column>",
+  "name": "Cavalry",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 571",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCavalry consists of armored soldiers armed with melee weapons and mounted on horses.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 571"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571",
+  "speed": {},
+  "summary": "Cavalry consists of armored soldiers armed with melee weapons and mounted on horses.",
+  "summary_markdown": "Cavalry consists of armored soldiers armed with melee weapons and mounted on horses.",
+  "text": " Cavalry Source Kingmaker Adventure Path pg. 571 Cavalry consists of armored soldiers armed with melee weapons and mounted on horses. --- Scouting +9 Recruitment 18 Consumption 2 AC 19 Maneuver +12 (high) Morale +6 (low) HP 4 (RT 2) Melee weapons +12 Overrun Cavalry armies gain a +1 status bonus on weapon attacks against infantry and skirmisher armies, but they suffer a –1 status penalty on Maneuver and Morale saves against area attacks and mental attacks. ",
+  "trait": [
+   "Infantry"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455)",
+  "trait_raw": [
+   "Infantry"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "ac": 20,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-3",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 5\" pfs=\"\">[Skirmishers](/KMWarArmies.aspx?ID=3)</title>\r\n\r\n<traits>\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\n\nSkirmishers are lightly armored, but their ability to move quickly and to focus on individual tactics rather than working as a unit make them more resilient in other ways. A skirmisher army's AC is two lower than normal for its level, but its Maneuver and Morale are two higher than normal for its level.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +12\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 20\n\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 20\n\n**Maneuver** +17\r\n(high)\r\n\r\n**Morale** +11\r\n(low)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 2)\r\n\r\n**Melee**\r\nweapons +15\n\n</column>",
+  "name": "Skirmishers",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 571",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSkirmishers are lightly armored, but their ability to move quickly and to focus on individual tactics rather than working as a unit make them more …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 571"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571",
+  "speed": {},
+  "summary": "Skirmishers are lightly armored, but their ability to move quickly and to focus on individual tactics rather than working as a unit make them more …",
+  "summary_markdown": "Skirmishers are lightly armored, but their ability to move quickly and to focus on individual tactics rather than working as a unit make them more …",
+  "text": " Skirmishers Source Kingmaker Adventure Path pg. 571 Skirmishers are lightly armored, but their ability to move quickly and to focus on individual tactics rather than working as a unit make them more resilient in other ways. A skirmisher army's AC is two lower than normal for its level, but its Maneuver and Morale are two higher than normal for its level. --- Scouting +12 Recruitment 20 Consumption 1 AC 20 Maneuver +17 (high) Morale +11 (low) HP 4 (RT 2) Melee weapons +15\n",
+  "trait": [
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Skirmisher"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "ac": 25,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 6,
+  "hp_raw": "6",
+  "id": "warfare-army-4",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 7\" pfs=\"\">[Siege Engines](/KMWarArmies.aspx?ID=4)</title>\r\n\r\n<traits>\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\n\nA siege engine army consists of several catapults, ballistae, trebuchets, or other mechanized engines of war.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +15\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 23\n\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 25\n\n**Maneuver** +12\r\n(low)\r\n\r\n**Morale** +18\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 6 (RT 3)\n\n**Ranged**\r\nsiege engine +15 (5 shots)\r\n\r\n**Engines of War** Siege engines cannot be outfitted with gear. They cannot attack [engaged](/Conditions.aspx?ID=48) armies. They are more difficult to destroy due to their higher hit points than other basic armies. A siege engine can attack and damage fortifications with its ranged attacks as part of the Battle or Overwhelming Bombardment actions.\r\n\r\n</column>",
+  "name": "Siege Engines",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 571",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA siege engine army consists of several catapults, ballistae, trebuchets, or other mechanized engines of war.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 571"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 571",
+  "speed": {},
+  "summary": "A siege engine army consists of several catapults, ballistae, trebuchets, or other mechanized engines of war.",
+  "summary_markdown": "A siege engine army consists of several catapults, ballistae, trebuchets, or other mechanized engines of war.",
+  "text": " Siege Engines Source Kingmaker Adventure Path pg. 571 A siege engine army consists of several catapults, ballistae, trebuchets, or other mechanized engines of war. --- Scouting +15 Recruitment 23 Consumption 1 AC 25 Maneuver +12 (low) Morale +18 (high) HP 6 (RT 3) Ranged siege engine +15 (5 shots) Engines of War Siege engines cannot be outfitted with gear. They cannot attack engaged armies. They are more difficult to destroy due to their higher hit points than other basic armies. A siege engine can attack and damage fortifications with its ranged attacks as part of the Battle or Overwhelming Bombardment actions. ",
+  "trait": [
+   "Siege"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Siege](/Traits.aspx?ID=457)",
+  "trait_raw": [
+   "Siege"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "ac": 23,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 6,
+  "hp_raw": "6",
+  "id": "warfare-army-12",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 7\" pfs=\"\">[Greengripe Bombardiers](/KMWarArmies.aspx?ID=12)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\n\nGreengripe [goblins](/Ancestries.aspx?ID=4) (encounter site **SH5**) have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +13\r\n(-2 adjustment)\r\n\r\n<row gap=\"medium\">\r\n\r\n**Recruitment** 28\r\n(+5 adjustment)\r\n\r\n**Consumption** 2\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 23\r\n(-2 adjusment)\r\n\r\n**Maneuver** +12\r\n(low)\r\n\r\n**Morale** +18\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 6 (RT 3)\r\n\r\n**Melee**\r\ndogslicers and torches +19 ( +1 adjustment)\r\n\r\n**Ranged**\r\nburning debris +18 (5 shots)\r\n\r\n**Burning Weaponry** (unique tactic) Unlike basic siege engine armies, Greengripe Bombardiers can make melee Strikes while [engaged](/Conditions.aspx?ID=48). When a Greengripe Bombardier scores a critical success on a Strike while taking the Battle action against an army (but not against a fortification), the army struck must make a successful Maneuver check against the Greengripe Bombardiers' Maneuver DC or take one additional point of damage from the goblins' burning weaponry.<br /> **Darkvision** (unique tactic)<br /> **Explosive Defeat** (unique tactic) When the Greengripe Bombardiers are [defeated](/Conditions.aspx?ID=45), their alchemical siege engine explodes. Any army [engaged](/Conditions.aspx?ID=48) with the Greengripe Bombardiers must succeed at a [Maneuver](/Traits.aspx?ID=459) check against the Greengripe Bombardier's Maneuver DC or take 1 point of damage (2 points of damage on a critical failure). As long as the Greengripe Bombardiers aren't destroyed, their siege engine gear is rebuilt automatically once the army loses the defeated condition.\r\n\r\n</column>",
+  "name": "Greengripe Bombardiers",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 572",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGreengripe  goblins  (encounter site  SH5 ) have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 572"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "Greengripe  goblins  (encounter site  SH5 ) have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris.",
+  "summary_markdown": "Greengripe  goblins  (encounter site  SH5 ) have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris.",
+  "text": " Greengripe Bombardiers Source Kingmaker Adventure Path pg. 572 Greengripe goblins (encounter site SH5 ) have built a mobile platform outfitted with a catapult-like flinging arm that can throw flammable debris. --- Scouting +13 (-2 adjustment) Recruitment 28 (+5 adjustment) Consumption 2 AC 23 (-2 adjusment) Maneuver +12 (low) Morale +18 (high) HP 6 (RT 3) Melee dogslicers and torches +19 ( +1 adjustment) Ranged burning debris +18 (5 shots) Burning Weaponry (unique tactic) Unlike basic siege engine armies, Greengripe Bombardiers can make melee Strikes while engaged. When a Greengripe Bombardier scores a critical success on a Strike while taking the Battle action against an army (but not against a fortification), the army struck must make a successful Maneuver check against the Greengripe Bombardiers' Maneuver DC or take one additional point of damage from the goblins' burning weaponry. Darkvision (unique tactic) Explosive Defeat (unique tactic) When the Greengripe Bombardiers are defeated, their alchemical siege engine explodes. Any army engaged with the Greengripe Bombardiers must succeed at a Maneuver check against the Greengripe Bombardier's Maneuver DC or take 1 point of damage (2 points of damage on a critical failure). As long as the Greengripe Bombardiers aren't destroyed, their siege engine gear is rebuilt automatically once the army loses the defeated condition. ",
+  "trait": [
+   "Rare",
+   "Siege"
+  ],
+  "trait_group": [
+   "Rarity",
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Siege](/Traits.aspx?ID=457)",
+  "trait_raw": [
+   "Rare",
+   "Siege"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "ac": 23,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-13",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 5\" pfs=\"\">[Lizardfolk Defenders](/KMWarArmies.aspx?ID=13)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\n\nThese [lizardfolk](/Ancestries.aspx?ID=15) are from the settlement on the banks of Candlemere (encounter site **KL3**); they fight with flails and javelins.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +13\r\n(+2 adjustment)\r\n\r\n<row gap=\"medium\">\r\n\r\n**Recruitment** 22\r\n(+2 adjustment)\r\n\r\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 23\r\n(+1 adjustment)\r\n\r\n**Maneuver** +9\r\n(low)\r\n\r\n**Morale** +15\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 2)\r\n\r\n**Melee**\r\nflails +12\r\n\r\n**Ranged**\r\njavelins +12 (5 shots)\r\n\r\n**Swamp Dwellers** (unique tactic) The lizardfolk defenders have the Live off the Land tactic for free (it does not count against the maximum number of tactics the army can possess), do not treat water or swamp on a battlefield as difficult terrain, and gain a +2 circumstance bonus to Scouting checks attempted in hexes that include swamps or water.\r\n\r\n</column>",
+  "name": "Lizardfolk Defenders",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 572",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese  lizardfolk  are from the settlement on the banks of Candlemere (encounter site  KL3 ); they fight with flails and javelins.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 572"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "These  lizardfolk  are from the settlement on the banks of Candlemere (encounter site  KL3 ); they fight with flails and javelins.",
+  "summary_markdown": "These  lizardfolk  are from the settlement on the banks of Candlemere (encounter site  KL3 ); they fight with flails and javelins.",
+  "text": " Lizardfolk Defenders Source Kingmaker Adventure Path pg. 572 These lizardfolk are from the settlement on the banks of Candlemere (encounter site KL3 ); they fight with flails and javelins. --- Scouting +13 (+2 adjustment) Recruitment 22 (+2 adjustment) Consumption 1 AC 23 (+1 adjustment) Maneuver +9 (low) Morale +15 (high) HP 4 (RT 2) Melee flails +12 Ranged javelins +12 (5 shots) Swamp Dwellers (unique tactic) The lizardfolk defenders have the Live off the Land tactic for free (it does not count against the maximum number of tactics the army can possess), do not treat water or swamp on a battlefield as difficult terrain, and gain a +2 circumstance bonus to Scouting checks attempted in hexes that include swamps or water. ",
+  "trait": [
+   "Skirmisher",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare",
+   "Rarity"
+  ],
+  "trait_markdown": "[Skirmisher](/Traits.aspx?ID=456), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Skirmisher",
+   "Uncommon"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "ac": 27,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 6,
+  "hp_raw": "6",
+  "id": "warfare-army-14",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 10\" pfs=\"\">[M'Botuu Frog Riders](/KMWarArmies.aspx?ID=14)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\n\nThese lance-armed [boggards](/MonsterFamilies.aspx?ID=16) from M'botuu (encounter site **HT6**) and ride giant frogs trained for warfare into battle.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +19\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 32\r\n(+5 adjustment)\r\n\r\n**Consumption** 2\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 27\n\n**Maneuver** +22\r\n(high)\r\n\r\n**Morale** +18\r\n(low, +2 adjustment)\r\n\r\n</row>\r\n\r\n**HP** 6 (RT 3)\r\n\r\n**Melee**\r\nlances +25 (+2 adjustment)\r\n\r\n**Ranged**\r\njavelins +23 (5 shots)\r\n\r\n**Amphibious** (unique tactic) Frog Riders ignore difficult terrain caused by swamps or water and gain a +2 circumstance bonus on [Maneuver](/Traits.aspx?ID=459) checks while fighting on a battlefield that features either of these terrains.<br /> **Chorus of Croaks** (unique tactic) The terrifying croaking that constantly issues from this army of boggards causes all engaged enemy armies to suffer a –2 status penalty on [Morale](/Traits.aspx?ID=460) checks. The M'botuu Frog Riders can use the Taunt tactical action. If they know the Focused Devotion tactic, they treat critical failures made when attempting to Taunt as failures instead.<br /> **Darkvision** (unique tactic)<br /> **Swamp Charge** (unique tactic) If the battlefield includes swamp or water, the M'botuu Frog Riders can start the encounter [engaged](/Conditions.aspx?ID=48) with a target enemy army. If they do so, they gain a +1 circumstance bonus on melee Strikes against that army on the first turn of the encounter.\r\n\r\n</column>",
+  "name": "M'Botuu Frog Riders",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 572",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese lance-armed  boggards  from M'botuu (encounter site  HT6 ) and ride giant frogs trained for warfare into battle.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 572"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 572",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "These lance-armed  boggards  from M'botuu (encounter site  HT6 ) and ride giant frogs trained for warfare into battle.",
+  "summary_markdown": "These lance-armed  boggards  from M'botuu (encounter site  HT6 ) and ride giant frogs trained for warfare into battle.",
+  "text": " M'Botuu Frog Riders Source Kingmaker Adventure Path pg. 572 These lance-armed boggards from M'botuu (encounter site HT6 ) and ride giant frogs trained for warfare into battle. --- Scouting +19 Recruitment 32 (+5 adjustment) Consumption 2 AC 27 Maneuver +22 (high) Morale +18 (low, +2 adjustment) HP 6 (RT 3) Melee lances +25 (+2 adjustment) Ranged javelins +23 (5 shots) Amphibious (unique tactic) Frog Riders ignore difficult terrain caused by swamps or water and gain a +2 circumstance bonus on Maneuver checks while fighting on a battlefield that features either of these terrains. Chorus of Croaks (unique tactic) The terrifying croaking that constantly issues from this army of boggards causes all engaged enemy armies to suffer a –2 status penalty on Morale checks. The M'botuu Frog Riders can use the Taunt tactical action. If they know the Focused Devotion tactic, they treat critical failures made when attempting to Taunt as failures instead. Darkvision (unique tactic) Swamp Charge (unique tactic) If the battlefield includes swamp or water, the M'botuu Frog Riders can start the encounter engaged with a target enemy army. If they do so, they gain a +1 circumstance bonus on melee Strikes against that army on the first turn of the encounter. ",
+  "trait": [
+   "Cavalry",
+   "Rare"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare",
+   "Rarity"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Cavalry",
+   "Rare"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "ac": 27,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-15",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 8\" pfs=\"\">[Nomen Scouts](/KMWarArmies.aspx?ID=15)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\n\nThis band of Nomen [centaurs](/Monsters.aspx?ID=76) (encounter site **NH1**) fight with spears and longbows.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +18\r\n(+2 adjustment)\r\n\r\n<row gap=\"medium\">\r\n\r\n**Recruitment** 26\r\n(+2 adjustment)\r\n\r\n**Consumption** -1\r\n(self-sufficient)\r\n\r\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 27\n\n**Maneuver** +14\r\n(low, +1 adjustment)\r\n\r\n**Morale** +19\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 0)\r\n\r\n**Melee**\r\nspears +20\r\n\r\n**Ranged**\r\nlongbows +20 (5 shots)\r\n\r\n**Brave** (unique tactic) Nomen scouts are extraordinarily fearless and do not possess a Rout Threshold, and gain a +2 circumstance bonus on [Morale](/Traits.aspx?ID=460) checks made to avoid rout from other sources.<br /> **Darkvision** (unique tactic)<br /> **Self-Sufficient** (unique tactic) Nomen scouts are adept at providing for themselves, and never count against the kingdom's consumption. Furthermore, they can provide for other armies, and as long as they are not defeated during a Kingdom turn's Upkeep phase, they reduce the kingdom's consumption value by 1.<br /> **Trample** <actions string=\"Three Actions\" /> (unique tactic) Nomen Scouts can attempt to trample an [engaged](/Conditions.aspx?ID=48) enemy army by attempting a +20 melee Strike against the army's AC. On a hit, they inflict 1 point of damage (2 points on a critical hit) and automatically move away from the army—they are no longer engaged with that army.\r\n\r\n</column>",
+  "name": "Nomen Scouts",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 573",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis band of Nomen  centaurs  (encounter site  NH1 ) fight with spears and longbows.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 573"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This band of Nomen  centaurs  (encounter site  NH1 ) fight with spears and longbows.",
+  "summary_markdown": "This band of Nomen  centaurs  (encounter site  NH1 ) fight with spears and longbows.",
+  "text": " Nomen Scouts Source Kingmaker Adventure Path pg. 573 This band of Nomen centaurs (encounter site NH1 ) fight with spears and longbows. --- Scouting +18 (+2 adjustment) Recruitment 26 (+2 adjustment) Consumption -1 (self-sufficient) AC 27 Maneuver +14 (low, +1 adjustment) Morale +19 (high) HP 4 (RT 0) Melee spears +20 Ranged longbows +20 (5 shots) Brave (unique tactic) Nomen scouts are extraordinarily fearless and do not possess a Rout Threshold, and gain a +2 circumstance bonus on Morale checks made to avoid rout from other sources. Darkvision (unique tactic) Self-Sufficient (unique tactic) Nomen scouts are adept at providing for themselves, and never count against the kingdom's consumption. Furthermore, they can provide for other armies, and as long as they are not defeated during a Kingdom turn's Upkeep phase, they reduce the kingdom's consumption value by 1. Trample Three Actions (unique tactic) Nomen Scouts can attempt to trample an engaged enemy army by attempting a +20 melee Strike against the army's AC. On a hit, they inflict 1 point of damage (2 points on a critical hit) and automatically move away from the army—they are no longer engaged with that army. ",
+  "trait": [
+   "Cavalry",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare",
+   "Rarity"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Cavalry",
+   "Uncommon"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "ac": 20,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-16",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 3\" pfs=\"\">[Sootscale Warriors](/KMWarArmies.aspx?ID=16)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\n\nSootscale [kobolds](/Rules.aspx?ID=18) (encounter site **GB20**) fight with shortswords and crossbows, although they tend to do so warily and cautiously.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +9\n\n<row gap=\"medium\">\r\n\r\n**Recruitment** 20\r\n(+2 adjustment)\r\n\r\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 20\r\n(+1 adjustment)\r\n\r\n**Maneuver** +14\r\n(high, +2 adjustment)\r\n\r\n**Morale** +5\r\n(low, -1 adjustment)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 3)\r\n\r\n**Melee**\r\nshortswords +12\r\n\r\n**Ranged**\r\ncrossbows +12 (7 shots)\r\n\r\n**Accustomed to Panic** <actions string=\"Reaction\" /> (unique tactic) **Trigger** The Sootscale Warriors' [shaken](/Conditions.aspx?ID=56) condition increases while they are not [routed](/Conditions.aspx?ID=55). **Effect** The Sootscales take comfort in their fear and channel the panic into energy. Rather than increase their shaken condition, they reduce their [weary](/Conditions.aspx?ID=57) condition value by 1. Additionally, when the Sootscales use the Disengage action, the result is improved one degree.<br /> **Darkvision** (unique tactic)\r\n\r\n</column>",
+  "name": "Sootscale Warriors",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 573",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSootscale  kobolds  (encounter site  GB20 ) fight with shortswords and crossbows, although they tend to do so warily and cautiously.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 573"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "Sootscale  kobolds  (encounter site  GB20 ) fight with shortswords and crossbows, although they tend to do so warily and cautiously.",
+  "summary_markdown": "Sootscale  kobolds  (encounter site  GB20 ) fight with shortswords and crossbows, although they tend to do so warily and cautiously.",
+  "text": " Sootscale Warriors Source Kingmaker Adventure Path pg. 573 Sootscale kobolds (encounter site GB20 ) fight with shortswords and crossbows, although they tend to do so warily and cautiously. --- Scouting +9 Recruitment 20 (+2 adjustment) Consumption 1 AC 20 (+1 adjustment) Maneuver +14 (high, +2 adjustment) Morale +5 (low, -1 adjustment) HP 4 (RT 3) Melee shortswords +12 Ranged crossbows +12 (7 shots) Accustomed to Panic Reaction (unique tactic) Trigger The Sootscale Warriors' shaken condition increases while they are not routed. Effect The Sootscales take comfort in their fear and channel the panic into energy. Rather than increase their shaken condition, they reduce their weary condition value by 1. Additionally, when the Sootscales use the Disengage action, the result is improved one degree. Darkvision (unique tactic) ",
+  "trait": [
+   "Infantry",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare",
+   "Rarity"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Infantry",
+   "Uncommon"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "ac": 32,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 6,
+  "hp_raw": "6",
+  "id": "warfare-army-17",
+  "level": 12,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 12\" pfs=\"\">[Tiger Lord Berserkers](/KMWarArmies.aspx?ID=17)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\n\nThese Tiger Lord barbarians (encounter area **TL3**) use rage in battle; they fight with greataxes.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +23\r\n(+1 adjustment)\r\n\r\n<row gap=\"medium\">\r\n\r\n**Recruitment** 32\r\n(+2 adjustment)\r\n\r\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 32\r\n(-1 adjustment)\r\n\r\n**Maneuver** +19\r\n(low)\r\n\r\n**Morale** +25\r\n(high)\r\n\r\n</row>\r\n\r\n**HP** 6 (RT 2)\r\n\r\n**Melee**\r\ngreataxes +28 (+2 adjustment)\n\n**Furious Charge** <actions string=\"Single Action\" /> (unique tactic) **Frequency** once per war encounter; **Effect** The Tiger Lord Berserkers charge at an enemy army, taking an Advance action to attempt to engage. If the Tiger Lords manage to engage successfully, they can attempt a melee Strike against the army as a reaction.<br /> **Reactive Rally** <actions string=\"Three Actions\" /> (unique tactic) **Requirement** The Tiger Lords are [routed](/Conditions.aspx?ID=55); **Effect** Instead of taking a Retreat action, the Tiger Lord Berserkers can attempt to Rally. **Revel in Battle** <actions string=\"Reaction\" /> (unique tactic) **Trigger** The Tiger Lord Berserkers score a critical hit with a melee Strike. **Effect** The barbarians are infused with vigor and furious passion at their devastating blow. The army restores 1 hit point.<br /> **Warmongers** (unique tactic) The Tiger Lord Berserkers can use the following Tactical Actions without needing to meet additional requirements: All-Out Assault, Counterattack, and Taunt.\r\n\r\n</column>",
+  "name": "Tiger Lord Berserkers",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 573",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese Tiger Lord barbarians (encounter area  TL3 ) use rage in battle; they fight with greataxes.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 573"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "These Tiger Lord barbarians (encounter area  TL3 ) use rage in battle; they fight with greataxes.",
+  "summary_markdown": "These Tiger Lord barbarians (encounter area  TL3 ) use rage in battle; they fight with greataxes.",
+  "text": " Tiger Lord Berserkers Source Kingmaker Adventure Path pg. 573 These Tiger Lord barbarians (encounter area TL3 ) use rage in battle; they fight with greataxes. --- Scouting +23 (+1 adjustment) Recruitment 32 (+2 adjustment) Consumption 1 AC 32 (-1 adjustment) Maneuver +19 (low) Morale +25 (high) HP 6 (RT 2) Melee greataxes +28 (+2 adjustment) Furious Charge Single Action (unique tactic) Frequency once per war encounter; Effect The Tiger Lord Berserkers charge at an enemy army, taking an Advance action to attempt to engage. If the Tiger Lords manage to engage successfully, they can attempt a melee Strike against the army as a reaction. Reactive Rally Three Actions (unique tactic) Requirement The Tiger Lords are routed; Effect Instead of taking a Retreat action, the Tiger Lord Berserkers can attempt to Rally. Revel in Battle Reaction (unique tactic) Trigger The Tiger Lord Berserkers score a critical hit with a melee Strike. Effect The barbarians are infused with vigor and furious passion at their devastating blow. The army restores 1 hit point. Warmongers (unique tactic) The Tiger Lord Berserkers can use the following Tactical Actions without needing to meet additional requirements: All-Out Assault, Counterattack, and Taunt. ",
+  "trait": [
+   "Infantry",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare",
+   "Rarity"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Infantry",
+   "Uncommon"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "ac": 31,
+  "category": "warfare-army",
+  "exclude_from_search": false,
+  "hp": 4,
+  "hp_raw": "4",
+  "id": "warfare-army-18",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Warfare Army 10\" pfs=\"\">[Tok-Nikrat Scouts](/KMWarArmies.aspx?ID=18)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\n\nCapable of striding across water, these [bog striders](/Monsters.aspx?ID=574) from the settlement of Tok-Nikrat (encounter area **HT12**) fight with nets and spears.\r\n\r\n---\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Scouting** +20\r\n(+1 adjustment)\r\n\r\n<row gap=\"medium\">\r\n\r\n**Recruitment** 32\r\n(+5 adjustment)\r\n\r\n**Consumption** 1\n\n</row>\r\n\r\n<row gap=\"medium\">\r\n\r\n**AC** 31\r\n(+1 adjustment)\r\n\r\n**Maneuver** +22\r\n(high)\r\n\r\n**Morale** +18\r\n(low, +2 adjustment)\r\n\r\n</row>\r\n\r\n**HP** 4 (RT 2)\r\n\r\n**Melee**\r\nspears +23\r\n\r\n**Ranged**\r\nnet +23 (5 shots)\r\n\r\n**Darkvision** (unique tactic)<br /> **Hurl Nets** (unique tactic) If the Tok-Nikrat Scouts hit an army with a net Strike, the army takes no damage. Instead, it increases its [mired](/Conditions.aspx?ID=51) condition value by 1 (or by 2 on a critical success). An army that is mired as a result of hurled nets can attempt to reduce the value of this mired condition (but not that caused by other sources) by attempting a Battle action against the Tok-Nikrat Scout's Maneuver DC. On a success, the army reduces their mired condition by 1 (or by 2 on a critical success), but on a critical failure, they increase the mired condition caused by the hurled nets by 1. Tok-Nikrat Scouts can't hurl nets at a target army that is [distant](/Conditions.aspx?ID=52).<br /> **Water Retreat** (unique tactic) If the battlefield features water terrain, Tok-Nikrat Scouts gain a +4 circumstance bonus on Maneuver checks made to Disengage.<br /> **Water Stride** (unique tactic) The Tok-Nikrat Scouts stride over watery surfaces, and they ignore difficult terrain caused by water or swamps. They gain a +4 circumstance bonus on initiative checks in war encounters when the battlefield features either terrain.\r\n\r\n</column>",
+  "name": "Tok-Nikrat Scouts",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 573",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCapable of striding across water, these  bog striders  from the settlement of Tok-Nikrat (encounter area  HT12 ) fight with nets and spears.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 573"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 573",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "Capable of striding across water, these  bog striders  from the settlement of Tok-Nikrat (encounter area  HT12 ) fight with nets and spears.",
+  "summary_markdown": "Capable of striding across water, these  bog striders  from the settlement of Tok-Nikrat (encounter area  HT12 ) fight with nets and spears.",
+  "text": " Tok-Nikrat Scouts Source Kingmaker Adventure Path pg. 573 Capable of striding across water, these bog striders from the settlement of Tok-Nikrat (encounter area HT12 ) fight with nets and spears. --- Scouting +20 (+1 adjustment) Recruitment 32 (+5 adjustment) Consumption 1 AC 31 (+1 adjustment) Maneuver +22 (high) Morale +18 (low, +2 adjustment) HP 4 (RT 2) Melee spears +23 Ranged net +23 (5 shots) Darkvision (unique tactic) Hurl Nets (unique tactic) If the Tok-Nikrat Scouts hit an army with a net Strike, the army takes no damage. Instead, it increases its mired condition value by 1 (or by 2 on a critical success). An army that is mired as a result of hurled nets can attempt to reduce the value of this mired condition (but not that caused by other sources) by attempting a Battle action against the Tok-Nikrat Scout's Maneuver DC. On a success, the army reduces their mired condition by 1 (or by 2 on a critical success), but on a critical failure, they increase the mired condition caused by the hurled nets by 1. Tok-Nikrat Scouts can't hurl nets at a target army that is distant. Water Retreat (unique tactic) If the battlefield features water terrain, Tok-Nikrat Scouts gain a +4 circumstance bonus on Maneuver checks made to Disengage. Water Stride (unique tactic) The Tok-Nikrat Scouts stride over watery surfaces, and they ignore difficult terrain caused by water or swamps. They gain a +4 circumstance bonus on initiative checks in war encounters when the battlefield features either terrain. ",
+  "trait": [
+   "Rare",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Rarity",
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Rare",
+   "Skirmisher"
+  ],
+  "type": "Warfare Army",
+  "url": "/KMWarArmies.aspx?ID=18",
+  "weakness": {}
+ }
+]

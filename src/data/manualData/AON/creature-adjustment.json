@@ -1,0 +1,1004 @@
+[
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-1",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Elite](/MonsterTemplates.aspx?ID=1)\r\n</title>\r\n\r\n**Source** [Bestiary](/Sources.aspx?ID=2) pg. 6\r\n\r\nSometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial, or show that one enemy is stronger than its kin. To do this quickly and easily, apply the elite adjustments to its statistics as follows: \n<ul><li>Increase the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2. </li><li>Increase the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s Breath Weapon), increase the damage by 4 instead. </li><li>Increase the creature’s Hit Points based on its starting level (see the table below).</li></ul>\n\n## Elite Adjustment\n<row gap=\"tiny\">\n<table> <tr><td>**Starting Level**</td><td>**HP Increase**</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2-4</td><td>15</td></tr> <tr><td>5-19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr> </table></row>",
+  "name": "Elite",
+  "primary_source": "Bestiary",
+  "primary_source_raw": "Bestiary pg. 6",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "creature-adjustment-22"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Bestiary](/Sources.aspx?ID=2) pg. 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial, or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary"
+  ],
+  "source_raw": [
+   "Bestiary pg. 6"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary](/Sources.aspx?ID=2) pg. 6",
+  "speed": {},
+  "summary": "Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial, or …",
+  "summary_markdown": "Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial, or …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Elite Source Bestiary pg. 6 Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial, or show that one enemy is stronger than its kin. To do this quickly and easily, apply the elite adjustments to its statistics as follows: Increase the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2. Increase the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s Breath Weapon), increase the damage by 4 instead. Increase the creature’s Hit Points based on its starting level (see the table below). ## Elite Adjustment Starting Level HP Increase 1 or lower 10 2-4 15 5-19 20 20+ 30 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-2",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Weak](/MonsterTemplates.aspx?ID=2)\r\n</title>\r\n\r\n**Source** [Bestiary](/Sources.aspx?ID=2) pg. 6\r\n\r\nSometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging, or show that one enemy is weaker than its kin. To do this quickly and easily, apply the weak adjustments to its statistics as follows. \n<ul><li>Decrease the creature’s AC, attack modifiers, DCs, saving throws, and skill modifiers by 2. </li><li>Decrease the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s Breath Weapon), decrease the damage by 4 instead. </li><li>Decrease the creature’s HP based on its starting level.</li></ul>\n\n## Weak Adjustment\n<row gap=\"tiny\">\n<table> <tr><td>**Starting Level**</td><td>**HP Decrease**</td></tr> <tr><td>1-2</td><td>-10</td></tr> <tr><td>3-5</td><td>-15</td></tr> <tr><td>6-20</td><td>-20</td></tr> <tr><td>21+</td><td>-30</td></tr> </table></row>",
+  "name": "Weak",
+  "primary_source": "Bestiary",
+  "primary_source_raw": "Bestiary pg. 6",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "creature-adjustment-23"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Bestiary](/Sources.aspx?ID=2) pg. 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging, or show that one enemy …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary"
+  ],
+  "source_raw": [
+   "Bestiary pg. 6"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary](/Sources.aspx?ID=2) pg. 6",
+  "speed": {},
+  "summary": "Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging, or show that one enemy …",
+  "summary_markdown": "Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging, or show that one enemy …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Weak Source Bestiary pg. 6 Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging, or show that one enemy is weaker than its kin. To do this quickly and easily, apply the weak adjustments to its statistics as follows. Decrease the creature’s AC, attack modifiers, DCs, saving throws, and skill modifiers by 2. Decrease the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s Breath Weapon), decrease the damage by 4 instead. Decrease the creature’s HP based on its starting level. ## Weak Adjustment Starting Level HP Decrease 1-2 -10 3-5 -15 6-20 -20 21+ -30 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-3",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Undead](/MonsterTemplates.aspx?ID=3)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n\r\nSometimes you might need to create a creature with [undead](/Traits.aspx?ID=160) attributes in a hurry. Like the [elite and weak adjustments](/Rules.aspx?ID=788) detailed in each _Bestiary_, the following special adjustments can be used to quickly customize any creature into an undead.\n\n As with any adjustments, these changes are meant to be fast, not comprehensive. It's best to check whether the adjustment breaks the creature in combat. For example, a creature with an important 3-action ability won't work well with zombie adjustments due to the slow ability. On the other hand, an adjustment lending a fly Speed to a creature with powerful ranged attacks might make the creature too able to harry the PCs from the air, especially at low levels.\n\n The undead adjustments below work for turning a creature into a type of undead that doesn't fall into any of the major undead categories, and the adjustments after that mimic more specific varieties of undead. \n\n<title level=\"3\" right=\"\">Undead Adjustments</title> This creature is a reanimated corpse. \n<ul><li>Add the [undead](/Traits.aspx?ID=160) trait and optionally the [mindless](/Traits.aspx?ID=108) trait.</li><li>Add the [Necril](/Languages.aspx?ID=20) language if it isn't mindless.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38). If it's mindless, add [mental](/Traits.aspx?ID=106) as well.</li></ul>  ",
+  "name": "Undead",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes you might need to create a creature with  undead  attributes in a hurry. Like the  elite and weak adjustments  detailed in each  Bestiary , …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 72",
+  "speed": {},
+  "summary": "Sometimes you might need to create a creature with  undead  attributes in a hurry. Like the  elite and weak adjustments  detailed in each  Bestiary , …",
+  "summary_markdown": "Sometimes you might need to create a creature with  undead  attributes in a hurry. Like the  elite and weak adjustments  detailed in each  Bestiary , …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Undead Source Book of the Dead pg. 72 Sometimes you might need to create a creature with undead attributes in a hurry. Like the elite and weak adjustments detailed in each Bestiary , the following special adjustments can be used to quickly customize any creature into an undead. As with any adjustments, these changes are meant to be fast, not comprehensive. It's best to check whether the adjustment breaks the creature in combat. For example, a creature with an important 3-action ability won't work well with zombie adjustments due to the slow ability. On the other hand, an adjustment lending a fly Speed to a creature with powerful ranged attacks might make the creature too able to harry the PCs from the air, especially at low levels. The undead adjustments below work for turning a creature into a type of undead that doesn't fall into any of the major undead categories, and the adjustments after that mimic more specific varieties of undead. Undead Adjustments This creature is a reanimated corpse. Add the undead trait and optionally the mindless trait. Add the Necril language if it isn't mindless. Add the following immunities: death effects, disease, paralyzed, poison, unconscious. If it's mindless, add mental as well. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-4",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Ghost](/MonsterTemplates.aspx?ID=4)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n\r\nThe ephemeral form of a [ghostly](/MonsterFamilies.aspx?ID=51) creature lets it pass through solid objects and float in the air. For simplicity, a creature with these adjustments isn't truly incorporeal, nor does it necessarily return after being destroyed. \n<ul><li>Add the [ghost](/Traits.aspx?ID=217), [spirit](/Traits.aspx?ID=149), and [undead](/Traits.aspx?ID=160) traits.</li><li>Add the [Necril](/Languages.aspx?ID=20) language.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38).</li><li>Add the following weaknesses, with a value based on the creature's level: [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), [positive](/Traits.aspx?ID=128).</li><li>If the creature can't fly, change its highest Speed to a fly Speed. Remove all other Speeds.</li><li>The damage of the creature's physical Strikes changes to [negative](/Traits.aspx?ID=118) damage, and those Strikes are [magical](/Traits.aspx?ID=103).</li><li>Add the following abilities.<br /> [**Darkvision**](/MonsterAbilities.aspx?ID=12)<br /> [**Negative Healing**](/MonsterAbilities.aspx?ID=42)<br /> **Ghostly Passage** <actions string=\"Single Action\" /> The creature [Flies](/Actions.aspx?ID=94) and, during this movement, can pass through walls, creatures, and other material obstacles as though [incorporeal](/Traits.aspx?ID=222). It must begin and end its movement outside of any physical obstacles, and passing through solid material is difficult terrain.</li></ul> \n\n## Ghost Adjustments\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**Weaknesses**</td></tr> <tr><td>3 or lower</td><td>3</td></tr> <tr><td>4–8</td><td>5</td></tr> <tr><td>9–13</td><td>10</td></tr> <tr><td>14+</td><td>15</td></tr></table>\r\n</row>  ",
+  "name": "Ghost",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ephemeral form of a  ghostly  creature lets it pass through solid objects and float in the air. For simplicity, a creature with these adjustments …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 72",
+  "speed": {},
+  "summary": "The ephemeral form of a  ghostly  creature lets it pass through solid objects and float in the air. For simplicity, a creature with these adjustments …",
+  "summary_markdown": "The ephemeral form of a  ghostly  creature lets it pass through solid objects and float in the air. For simplicity, a creature with these adjustments …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Ghost Source Book of the Dead pg. 72 The ephemeral form of a ghostly creature lets it pass through solid objects and float in the air. For simplicity, a creature with these adjustments isn't truly incorporeal, nor does it necessarily return after being destroyed. Add the ghost, spirit, and undead traits. Add the Necril language. Add the following immunities: death effects, disease, paralyzed, poison, precision, unconscious. Add the following weaknesses, with a value based on the creature's level: force, ghost touch , positive. If the creature can't fly, change its highest Speed to a fly Speed. Remove all other Speeds. The damage of the creature's physical Strikes changes to negative damage, and those Strikes are magical. Add the following abilities. Darkvision Negative Healing Ghostly Passage Single Action The creature Flies and, during this movement, can pass through walls, creatures, and other material obstacles as though incorporeal. It must begin and end its movement outside of any physical obstacles, and passing through solid material is difficult terrain. ## Ghost Adjustments Level Weaknesses 3 or lower 3 4–8 5 9–13 10 14+ 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-5",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Ghoul](/MonsterTemplates.aspx?ID=5)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n\r\n[Ghoul](/Monsters.aspx?ID=218) creatures are typically hairless and gaunt with blue or purple skin and pointed ears. \n<ul><li>Add the [ghoul](/Traits.aspx?ID=218) and [undead](/Traits.aspx?ID=160) traits.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38).</li><li>Decrease all saving throw modifiers by 1.</li><li>Add the paralysis ability to the creature's jaws, fangs, or similar [unarmed](/Traits.aspx?ID=199) attack. If the creature doesn't have one, add one with the same attack and damage as its strongest melee attack.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**<br /> **Paralysis** ([occult](/Traits.aspx?ID=120), [necromancy](/Traits.aspx?ID=117)) When the creature gets a critical hit with its jaws against a living, non-[elf](/Traits.aspx?ID=58) foe of the creature's level or lower, the foe is [paralyzed](/Conditions.aspx?ID=28) until the end of the foe's next turn.<br /> **Swift Leap** [one-action] ([move](/Traits.aspx?ID=114)) The creature jumps up to half its Speed. This movement doesn't trigger reactions.</li></ul>  ",
+  "name": "Ghoul",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nGhoul  creatures are typically hairless and gaunt with blue or purple skin and pointed ears.   Add the  ghoul  and  undead  traits.  Add the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 72",
+  "speed": {},
+  "summary": "Ghoul  creatures are typically hairless and gaunt with blue or purple skin and pointed ears.   Add the  ghoul  and  undead  traits.  Add the …",
+  "summary_markdown": "Ghoul  creatures are typically hairless and gaunt with blue or purple skin and pointed ears.   Add the  ghoul  and  undead  traits.  Add the …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Ghoul Source Book of the Dead pg. 72 Ghoul creatures are typically hairless and gaunt with blue or purple skin and pointed ears. Add the ghoul and undead traits. Add the following immunities: death effects, disease, paralyzed, poison, unconscious. Decrease all saving throw modifiers by 1. Add the paralysis ability to the creature's jaws, fangs, or similar unarmed attack. If the creature doesn't have one, add one with the same attack and damage as its strongest melee attack. Add the following abilities. Darkvision Negative Healing Paralysis (occult, necromancy) When the creature gets a critical hit with its jaws against a living, non-elf foe of the creature's level or lower, the foe is paralyzed until the end of the foe's next turn. Swift Leap one-action] ([move) The creature jumps up to half its Speed. This movement doesn't trigger reactions. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-6",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Mummy](/MonsterTemplates.aspx?ID=6)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n\r\nAll types of creatures can have their corpses preserved and rise as [mummies](/MonsterFamilies.aspx?ID=74). \n<ul><li>Add the [mummy](/Traits.aspx?ID=228) and [undead](/Traits.aspx?ID=160) traits.</li><li>Add the [Necril](/Languages.aspx?ID=20) language.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38).</li><li>Add weakness to [fire](/Traits.aspx?ID=72), with a value depending on the creature's level.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**<br /> **Lesser Despair** ([aura](/Traits.aspx?ID=206), [divine](/Traits.aspx?ID=48), [emotion](/Traits.aspx?ID=60), [enchantment](/Traits.aspx?ID=61), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) 30 feet. Living creatures of the mummy creature's level or lower are [frightened 1](/Conditions.aspx?ID=19) while in its despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave.</li></ul> \n\n## Mummy Adjustment\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**Weakness to Fire**</td></tr> <tr><td>3 or lower</td><td>3</td></tr> <tr><td>4–8</td><td>5</td></tr> <tr><td>9–13</td><td>10</td></tr> <tr><td>14+</td><td>15</td></tr></table>\r\n</row>  ",
+  "name": "Mummy",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAll types of creatures can have their corpses preserved and rise as  mummies .   Add the  mummy  and  undead  traits.  Add the  Necril  language.  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 72",
+  "speed": {},
+  "summary": "All types of creatures can have their corpses preserved and rise as  mummies .   Add the  mummy  and  undead  traits.  Add the  Necril  language.  …",
+  "summary_markdown": "All types of creatures can have their corpses preserved and rise as  mummies .   Add the  mummy  and  undead  traits.  Add the  Necril  language.  …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Mummy Source Book of the Dead pg. 72 All types of creatures can have their corpses preserved and rise as mummies. Add the mummy and undead traits. Add the Necril language. Add the following immunities: death effects, disease, paralyzed, poison, unconscious. Add weakness to fire, with a value depending on the creature's level. Add the following abilities. Darkvision Negative Healing Lesser Despair (aura, divine, emotion, enchantment, fear, mental) 30 feet. Living creatures of the mummy creature's level or lower are frightened 1 while in its despair aura. They can't naturally recover from this fear while in the area but recover instantly once they leave. ## Mummy Adjustment Level Weakness to Fire 3 or lower 3 4–8 5 9–13 10 14+ 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-7",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Shadow](/MonsterTemplates.aspx?ID=7)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n\r\nA [shadow](/MonsterFamilies.aspx?ID=89) creature is little more than a sentient shadow powered by negative energy. Shadows can easily travel to and from the [Shadow Plane](/Planes.aspx?ID=11). \n<ul><li>Add the [undead](/Traits.aspx?ID=160) trait.</li><li>Add the [Necril](/Languages.aspx?ID=20) language.</li><li>Add [Stealth](/Skills.aspx?ID=15) with a modifier equal to its highest skill modifier.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), precision, [unconscious](/Conditions.aspx?ID=38).</li><li>Add the following weaknesses, with a value based on the creature's level: [force](/Traits.aspx?ID=75), [_ghost touch_](/Equipment.aspx?ID=297), [positive](/Traits.aspx?ID=128).</li><li>If the creature can't fly, change its highest Speed to a fly Speed. Remove all other Speeds.</li><li>The damage of the creature's physical Strikes changes to [negative](/Traits.aspx?ID=118) damage, and those Strikes are [magical](/Traits.aspx?ID=103).</li><li>Add [_darkness_](/Spells.aspx?ID=59) as an innate divine spell usable once per day.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**<br /> **Slink in Shadows** The creature can [Hide](/Actions.aspx?ID=62) or end its [Sneak](/Actions.aspx?ID=63) in a creature's or object's shadow.</li></ul>\n\n## Shadow Adjustment\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**Weaknesses**</td></tr> <tr><td>3 or lower</td><td>3</td></tr> <tr><td>4–8</td><td>5</td></tr> <tr><td>9–13</td><td>10</td></tr> <tr><td>14+</td><td>15</td></tr></table>\r\n</row>  ",
+  "name": "Shadow",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 72\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  shadow  creature is little more than a sentient shadow powered by negative energy. Shadows can easily travel to and from the  Shadow Plane .   Add …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 72",
+  "speed": {},
+  "summary": "A  shadow  creature is little more than a sentient shadow powered by negative energy. Shadows can easily travel to and from the  Shadow Plane .   Add …",
+  "summary_markdown": "A  shadow  creature is little more than a sentient shadow powered by negative energy. Shadows can easily travel to and from the  Shadow Plane .   Add …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Shadow Source Book of the Dead pg. 72 A shadow creature is little more than a sentient shadow powered by negative energy. Shadows can easily travel to and from the Shadow Plane. Add the undead trait. Add the Necril language. Add Stealth with a modifier equal to its highest skill modifier. Add the following immunities: death effects, disease, paralyzed, poison, precision, unconscious. Add the following weaknesses, with a value based on the creature's level: force, ghost touch , positive. If the creature can't fly, change its highest Speed to a fly Speed. Remove all other Speeds. The damage of the creature's physical Strikes changes to negative damage, and those Strikes are magical. Add darkness as an innate divine spell usable once per day. Add the following abilities. Darkvision Negative Healing Slink in Shadows The creature can Hide or end its Sneak in a creature's or object's shadow. ## Shadow Adjustment Level Weaknesses 3 or lower 3 4–8 5 9–13 10 14+ 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-8",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Skeleton](/MonsterTemplates.aspx?ID=8)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n\r\nMost [skeletons](/MonsterFamilies.aspx?ID=92) are mindless and follow either the basic instincts they had in life or orders given by their creator. \n<ul><li>Add the [skeleton](/Traits.aspx?ID=236) and [undead](/Traits.aspx?ID=160) traits and, optionally, the [mindless](/Traits.aspx?ID=108) trait.</li><li>Add the [Necril](/Languages.aspx?ID=20) language if it isn't mindless.</li><li>Decrease the creature's HP based on its level.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38). If it's mindless, add [mental](/Traits.aspx?ID=106) as well.</li><li>Add the following resistances with a value based on the creature's level: [cold](/Traits.aspx?ID=27), [electricity](/Traits.aspx?ID=56), [fire](/Traits.aspx?ID=72), piercing, slashing.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**</li></ul> \n\n## Skeleton Adjustment\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**HP Decrease**</td><td>**Resistances**</td></tr> <tr><td>–1</td><td>–2</td><td>2</td></tr> <tr><td>0–1</td><td>–4</td><td>2</td></tr> <tr><td>2–5</td><td>–10</td><td>3</td></tr> <tr><td>6–10</td><td>–20</td><td>5</td></tr> <tr><td>11+</td><td>–40</td><td>10</td></tr></table>\r\n</row>  ",
+  "name": "Skeleton",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMost  skeletons  are mindless and follow either the basic instincts they had in life or orders given by their creator.   Add the  skeleton  and  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 73",
+  "speed": {},
+  "summary": "Most  skeletons  are mindless and follow either the basic instincts they had in life or orders given by their creator.   Add the  skeleton  and  …",
+  "summary_markdown": "Most  skeletons  are mindless and follow either the basic instincts they had in life or orders given by their creator.   Add the  skeleton  and  …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Skeleton Source Book of the Dead pg. 73 Most skeletons are mindless and follow either the basic instincts they had in life or orders given by their creator. Add the skeleton and undead traits and, optionally, the mindless trait. Add the Necril language if it isn't mindless. Decrease the creature's HP based on its level. Add the following immunities: death effects, disease, paralyzed, poison, unconscious. If it's mindless, add mental as well. Add the following resistances with a value based on the creature's level: cold, electricity, fire, piercing, slashing. Add the following abilities. Darkvision Negative Healing ## Skeleton Adjustment Level HP Decrease Resistances –1 –2 2 0–1 –4 2 2–5 –10 3 6–10 –20 5 11+ –40 10 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-9",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Vampire](/MonsterTemplates.aspx?ID=9)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n\r\nA [vampiric](/MonsterFamilies.aspx?ID=97) creature consumes the blood of the living for sustenance. It might also possess the compulsions and revulsions of a specific vampire bloodline. \n<ul><li>Add the [undead](/Traits.aspx?ID=160) and [vampire](/Traits.aspx?ID=242) traits.</li><li>Add the [Necril](/Languages.aspx?ID=20) language.</li><li>Decrease the creature's HP based on its level.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [sleep](/Traits.aspx?ID=145).</li><li>Add resistance to physical damage, with a value based on the creature's level. Choose one type of material that bypasses this resistance: [cold iron](/Equipment.aspx?ID=272) (vetalarana), [silver](/Equipment.aspx?ID=277) (moroi), or wood (jiang-shi or nosferatu).</li><li>Add a fangs Strike. It deals damage equal to the creature's lowest melee Strike and can be used to Feed. If the creature already has a jaws or fangs Strike, just add the Feed ability.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**<br /> **Feed** <actions string=\"Single Action\" /> ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)) **Requirements** The vampiric creature's most recent action was a successful jaws Strike that dealt damage; **Effect** The vampiric creature drains blood from its victim, dealing minimum jaws damage and regaining HP based on its level.</li></ul> \n\n## Vampire Adjustment\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**HP Decrease**</td><td>**Resistance/Feed HP**</td></tr> <tr><td>–1</td><td>–3</td><td>2</td></tr> <tr><td>0–1</td><td>–5</td><td>2</td></tr> <tr><td>2–5</td><td>–10</td><td>3</td></tr> <tr><td>6–10</td><td>–20</td><td>5</td></tr> <tr><td>11+</td><td>–40</td><td>10</td></tr></table>\r\n</row>  ",
+  "name": "Vampire",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  vampiric  creature consumes the blood of the living for sustenance. It might also possess the compulsions and revulsions of a specific vampire …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 73",
+  "speed": {},
+  "summary": "A  vampiric  creature consumes the blood of the living for sustenance. It might also possess the compulsions and revulsions of a specific vampire …",
+  "summary_markdown": "A  vampiric  creature consumes the blood of the living for sustenance. It might also possess the compulsions and revulsions of a specific vampire …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Vampire Source Book of the Dead pg. 73 A vampiric creature consumes the blood of the living for sustenance. It might also possess the compulsions and revulsions of a specific vampire bloodline. Add the undead and vampire traits. Add the Necril language. Decrease the creature's HP based on its level. Add the following immunities: death effects, disease, paralyzed, poison, sleep. Add resistance to physical damage, with a value based on the creature's level. Choose one type of material that bypasses this resistance: cold iron (vetalarana), silver (moroi), or wood (jiang-shi or nosferatu). Add a fangs Strike. It deals damage equal to the creature's lowest melee Strike and can be used to Feed. If the creature already has a jaws or fangs Strike, just add the Feed ability. Add the following abilities. Darkvision Negative Healing Feed Single Action (divine, necromancy) Requirements The vampiric creature's most recent action was a successful jaws Strike that dealt damage; Effect The vampiric creature drains blood from its victim, dealing minimum jaws damage and regaining HP based on its level. ## Vampire Adjustment Level HP Decrease Resistance/Feed HP –1 –3 2 0–1 –5 2 2–5 –10 3 6–10 –20 5 11+ –40 10 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-10",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Wight](/MonsterTemplates.aspx?ID=10)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n\r\nAll [wights](/MonsterFamilies.aspx?ID=163) can drain life through their unarmed attacks, but some can draw life force through weapons as well. \n<ul><li>Add the [undead](/Traits.aspx?ID=160) and [wight](/Traits.aspx?ID=259) traits.</li><li>Add the [Necril](/Languages.aspx?ID=20) language.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38).</li><li>Add drain life to any number of the creature's Strikes and reduce the damage of each of those Strikes by half the creature's level.</li><li>Add the following abilities.<br /> **[Darkvision](/MonsterAbilities.aspx?ID=12)**<br /> **[Negative Healing](/MonsterAbilities.aspx?ID=42)**<br />**Drain Life** ([divine](/Traits.aspx?ID=48), [necromancy](/Traits.aspx?ID=117)); When the creature damages a living creature with this Strike, it gains temporary HP equal to its level, and the target must succeed at a Fortitude save or become [drained 1](/Conditions.aspx?ID=10). This save uses the [moderate DC for the wight creature's level](/Rules.aspx?ID=1020).</li></ul>  ",
+  "name": "Wight",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAll  wights  can drain life through their unarmed attacks, but some can draw life force through weapons as well.   Add the  undead  and  wight  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 73",
+  "speed": {},
+  "summary": "All  wights  can drain life through their unarmed attacks, but some can draw life force through weapons as well.   Add the  undead  and  wight  …",
+  "summary_markdown": "All  wights  can drain life through their unarmed attacks, but some can draw life force through weapons as well.   Add the  undead  and  wight  …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Wight Source Book of the Dead pg. 73 All wights can drain life through their unarmed attacks, but some can draw life force through weapons as well. Add the undead and wight traits. Add the Necril language. Add the following immunities: death effects, disease, paralyzed, poison, unconscious. Add drain life to any number of the creature's Strikes and reduce the damage of each of those Strikes by half the creature's level. Add the following abilities. Darkvision Negative Healing Drain Life (divine, necromancy); When the creature damages a living creature with this Strike, it gains temporary HP equal to its level, and the target must succeed at a Fortitude save or become drained 1. This save uses the moderate DC for the wight creature's level. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-11",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Zombie](/MonsterTemplates.aspx?ID=11)\r\n</title>\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n\r\nA [zombified](/MonsterFamilies.aspx?ID=103) creature is a mindless, rotting corpse that attacks everything it perceives. \n<ul><li>Add the [mindless](/Traits.aspx?ID=108), [undead](/Traits.aspx?ID=160), and [zombie](/Traits.aspx?ID=245) traits.</li><li>Increase the creature's HP based on its level.</li><li>Add the following immunities: [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), [mental](/Traits.aspx?ID=106), [paralyzed](/Conditions.aspx?ID=28), [poison](/Traits.aspx?ID=126), [unconscious](/Conditions.aspx?ID=38).</li><li>Add the following weaknesses, with a value based on its level: [positive](/Traits.aspx?ID=128), slashing.</li><li>Add the following abilities.<br /> [Darkvision](/MonsterAbilities.aspx?ID=12)<br /> [Negative Healing](/MonsterAbilities.aspx?ID=42)<br /> **Slow** A zombie is permanently [slowed 1](/Conditions.aspx?ID=35) and can't use reactions.</li></ul> \n\n## Zombie Adjustment\n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**HP Increase**</td><td>**Weaknesses**</td></tr> <tr><td>1 or lower</td><td>10</td><td>5</td></tr> <tr><td>2–5</td><td>20</td><td>5</td></tr> <tr><td>6–10</td><td>50</td><td>10</td></tr> <tr><td>11–15</td><td>75</td><td>15</td></tr> <tr><td>16–19</td><td>100</td><td>20</td></tr> <tr><td>20+</td><td>150</td><td>25</td></tr></table>\r\n</row>  ",
+  "name": "Zombie",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 73\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  zombified  creature is a mindless, rotting corpse that attacks everything it perceives.   Add the  mindless ,  undead , and  zombie  traits.  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 73",
+  "speed": {},
+  "summary": "A  zombified  creature is a mindless, rotting corpse that attacks everything it perceives.   Add the  mindless ,  undead , and  zombie  traits.  …",
+  "summary_markdown": "A  zombified  creature is a mindless, rotting corpse that attacks everything it perceives.   Add the  mindless ,  undead , and  zombie  traits.  …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Zombie Source Book of the Dead pg. 73 A zombified creature is a mindless, rotting corpse that attacks everything it perceives. Add the mindless, undead, and zombie traits. Increase the creature's HP based on its level. Add the following immunities: death effects, disease, mental, paralyzed, poison, unconscious. Add the following weaknesses, with a value based on its level: positive, slashing. Add the following abilities. Darkvision Negative Healing Slow A zombie is permanently slowed 1 and can't use reactions. ## Zombie Adjustment Level HP Increase Weaknesses 1 or lower 10 5 2–5 20 5 6–10 50 10 11–15 75 15 16–19 100 20 20+ 150 25 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-12",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Experimental Cryptids](/MonsterTemplates.aspx?ID=12)\r\n</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 58\r\n\r\nAn experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. Although powerful, the process is volatile and imperfect. \n\n<title level=\"2\" right=\"\">Experimental Cryptid Adjustments</title> You can turn an existing creature into an experimental cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. \n<ul><li>Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.</li><li>Increase the damage of Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead.</li><li>Increase the creature's HP by the amount listed on the table.</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>Starting Level</td><td>HP Increase</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2–4</td><td>15</td></tr> <tr><td>5–19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr></table>\r\n</row> \n\n<title level=\"3\" right=\"\">Experimental Cryptid Abilities</title> An experimental cryptid gains the [experiment](/Traits.aspx?ID=433) trait and, depending on the type of construct parts, might gain the [alchemical](/Traits.aspx?ID=6) trait, [clockwork](/Traits.aspx?ID=331) trait, or another [construct](/Traits.aspx?ID=35)-related trait as appropriate. An experimental cryptid gains the following abilities.\n\n **[Darkvision](/MonsterAbilities.aspx?ID=12)**\n\n **Augmented** An experimental cryptid is partially artificial and designed in a way to specifically prevent biological afflictions and instant death. It gains a +2 circumstance bonus to saving throws against [death](/Traits.aspx?ID=40) effects, [disease](/Traits.aspx?ID=46), and [poison](/Traits.aspx?ID=126).\n\n **Operational Flaw** An experimental cryptid has a flaw in its construction that can be identified with a successful Perception check to [Seek](/Actions.aspx?ID=84) against the [hard DC of the creature's level](/Rules.aspx?ID=552). An experimental cryptid has weakness equal to its level to the attacks of any creature that has successfully located the experiment's operational flaw.\n\n **Clobber** <actions string=\"Two Actions\" />The experimental cryptid Strikes a creature. On a hit, the creature is [pushed](/Rules.aspx?ID=451) 5 feet (10 feet on a critical hit) and knocked [prone](/Conditions.aspx?ID=31). If this causes the creature to collide with a solid object, the creature takes an additional 1d10 damage. If the experimental cryptid is at least 5th level, this Strike deals one additional weapon damage die of damage, and if the experimental cryptid is at least 15th level, this Strike deals two additional weapon damage dice of damage.\n\n **Energy Wave** <actions string=\"Two Actions\" /> The experimental cryptid unleashes a 30-foot line of energy of a type specific to the experimental cryptid (typically electricity or fire). Creatures in the area take 1d6 damage per level of the cryptid with a [basic](/Rules.aspx?ID=329) Reflex save. The experimental cryptid can use this ability once every 1d4 rounds. This action has the damage type's trait. If the experiments that reshaped the creature were magical, this action also has the [evocation](/Traits.aspx?ID=65) trait and the trait matching the magical tradition of the experiments ([arcane](/Traits.aspx?ID=11), [divine](/Traits.aspx?ID=48), [occult](/Traits.aspx?ID=120), or [primal](/Traits.aspx?ID=134)).\n\n **Power Surge** <actions string=\"Single Action\" /> The experimental cryptid draws on its augmentations to empower its attacks. It attempts a DC 5 flat check. On a success, the experimental cryptid deals 1d6 additional damage with its Strikes until the end of its turn. On a failure, the experimental cryptid takes that much damage instead. The damage and traits for Power Surge are the same as those of Energy Wave.\n\n This additional damage increases to 2d6 if the experimental cryptid is 9th level or higher, 3d6 if the experimental cryptid is 15th level or higher, and 4d6 if the experimental cryptid is 18th level or higher.",
+  "name": "Experimental Cryptids",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 58",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 58\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 58"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 58",
+  "speed": {},
+  "summary": "An experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. …",
+  "summary_markdown": "An experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Experimental Cryptids Source Dark Archive pg. 58 An experimental cryptid has been purposefully altered through alchemy, engineering, magic, or ritual to contain some degree of construct components. Although powerful, the process is volatile and imperfect. Experimental Cryptid Adjustments You can turn an existing creature into an experimental cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table. ## Starting Level HP Increase 1 or lower 10 2–4 15 5–19 20 20+ 30 Experimental Cryptid Abilities An experimental cryptid gains the experiment trait and, depending on the type of construct parts, might gain the alchemical trait, clockwork trait, or another construct-related trait as appropriate. An experimental cryptid gains the following abilities. Darkvision Augmented An experimental cryptid is partially artificial and designed in a way to specifically prevent biological afflictions and instant death. It gains a +2 circumstance bonus to saving throws against death effects, disease, and poison. Operational Flaw An experimental cryptid has a flaw in its construction that can be identified with a successful Perception check to Seek against the hard DC of the creature's level. An experimental cryptid has weakness equal to its level to the attacks of any creature that has successfully located the experiment's operational flaw. Clobber Two ActionsThe experimental cryptid Strikes a creature. On a hit, the creature is pushed 5 feet (10 feet on a critical hit) and knocked prone. If this causes the creature to collide with a solid object, the creature takes an additional 1d10 damage. If the experimental cryptid is at least 5th level, this Strike deals one additional weapon damage die of damage, and if the experimental cryptid is at least 15th level, this Strike deals two additional weapon damage dice of damage. Energy Wave Two Actions The experimental cryptid unleashes a 30-foot line of energy of a type specific to the experimental cryptid (typically electricity or fire). Creatures in the area take 1d6 damage per level of the cryptid with a basic Reflex save. The experimental cryptid can use this ability once every 1d4 rounds. This action has the damage type's trait. If the experiments that reshaped the creature were magical, this action also has the evocation trait and the trait matching the magical tradition of the experiments (arcane, divine, occult, or primal). Power Surge Single Action The experimental cryptid draws on its augmentations to empower its attacks. It attempts a DC 5 flat check. On a success, the experimental cryptid deals 1d6 additional damage with its Strikes until the end of its turn. On a failure, the experimental cryptid takes that much damage instead. The damage and traits for Power Surge are the same as those of Energy Wave. This additional damage increases to 2d6 if the experimental cryptid is 9th level or higher, 3d6 if the experimental cryptid is 15th level or higher, and 4d6 if the experimental cryptid is 18th level or higher.",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-13",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Mutant Cryptids](/MonsterTemplates.aspx?ID=13)\r\n</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 59\r\n\r\nSome strange creatures defy what's expected from others of their kind due to a peculiar mutation. A mutation can come from a wide variety of sources: a quirk in their lineage, effects from their environment, radiation from bizarre crystals, or exposure to uncontrolled magic. A mutant cryptid can defy the normal expectations of its kind. A water elemental might have a planar disjunction that changes its makeup moment to moment, or a werewolf might detest music instead of silver. \n\n<title level=\"2\" right=\"\">Mutant Cryptid Adjustments</title> You can turn an existing, living creature into a mutant cryptid by completing the following steps.\n\n Increase the creature's level by 1 and change its statistics as follows. \n<ul><li>Add the [rare](/Traits.aspx?ID=137) trait.</li><li>Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.</li><li>Increase the damage of its Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead.</li><li>Increase the creature's HP by the amount listed on the table.</li></ul> \n\n##  \n<row gap=\"tiny\">\n<table><tr><td>Starting Level</td><td>HP Increase</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2–4</td><td>15</td></tr> <tr><td>5–19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr></table>\r\n</row> \n\n<title level=\"3\" right=\"\">Mutant Cryptid Abilities</title> A mutant cryptid should typically either have all four the following abilities or just two abilities, not including unusual bane.\n\n You might decide to give a specific mutant cryptid a unique mutant ability created just for that creature (or copied from a different creature). Such an ability replaces one of the three abilities that increases the monster's power, or replaces unusual bane if it's detrimental.\n\n **Unusual Bane** The mutant cryptid gains an unusual weakness to a specific bane—such as aversion to saffron or to the sound of children's laughter. The first time each round the creature comes within 15 feet of its bane or interacts with its bane (such as stepping over a line of saffron or hearing children laugh) it takes an amount of mental damage equal to its level and must attempt a Will save with a [hard DC for its level](/Rules.aspx?ID=552). On a failure, it's [stunned 1](/Conditions.aspx?ID=36) (stunned 3 on a critical failure).\n\n **Explosive End** The mutant cryptid's death reveals one last surprise as it explodes into flame, acid, a pile of toxic goop, or something stranger still. Choose a damage type appropriate for the mutant cryptid. When it dies, it explodes, dealing 1d6 damage of the chosen type to each creature in a 10-foot emanation, with a [basic](/Rules.aspx?ID=329) Reflex save against a [standard DC of the creature's level](/Rules.aspx?ID=552). The damage increases by 1d6 at 3rd level and every odd level thereafter.\n\n **Shifting Iridescence** ([abjuration](/Traits.aspx?ID=2), [magical](/Traits.aspx?ID=103)) Whenever the mutant cryptid takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 5 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance. The resistance increases to 10 at 9th level and 15 at 17th level.\n\n **Marrowlance** The mutant cryptid can make wicked spears of bone erupt from its body. The creature can make marrowlance ranged [unarmed](/Traits.aspx?ID=199) attacks. Use the highest attack modifier from the creature's highest ranged Strike, as well as the damage from that Strike. If it has no ranged attacks, use [moderate accuracy](/Rules.aspx?ID=1017) and [low damage](/Rules.aspx?ID=1018) for the creature's level. Marrowlance unarmed attacks have a [range of 60 feet](/Traits.aspx?ID=248) and the [versatile S](/Monsters.aspx?ID=1969) trait.",
+  "name": "Mutant Cryptids",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 59",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 59\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome strange creatures defy what's expected from others of their kind due to a peculiar mutation. A mutation can come from a wide variety of sources: …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 59"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 59",
+  "speed": {},
+  "summary": "Some strange creatures defy what's expected from others of their kind due to a peculiar mutation. A mutation can come from a wide variety of sources: …",
+  "summary_markdown": "Some strange creatures defy what's expected from others of their kind due to a peculiar mutation. A mutation can come from a wide variety of sources: …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Mutant Cryptids Source Dark Archive pg. 59 Some strange creatures defy what's expected from others of their kind due to a peculiar mutation. A mutation can come from a wide variety of sources: a quirk in their lineage, effects from their environment, radiation from bizarre crystals, or exposure to uncontrolled magic. A mutant cryptid can defy the normal expectations of its kind. A water elemental might have a planar disjunction that changes its makeup moment to moment, or a werewolf might detest music instead of silver. Mutant Cryptid Adjustments You can turn an existing, living creature into a mutant cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. Add the rare trait. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of its Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table. ## Starting Level HP Increase 1 or lower 10 2–4 15 5–19 20 20+ 30 Mutant Cryptid Abilities A mutant cryptid should typically either have all four the following abilities or just two abilities, not including unusual bane. You might decide to give a specific mutant cryptid a unique mutant ability created just for that creature (or copied from a different creature). Such an ability replaces one of the three abilities that increases the monster's power, or replaces unusual bane if it's detrimental. Unusual Bane The mutant cryptid gains an unusual weakness to a specific bane—such as aversion to saffron or to the sound of children's laughter. The first time each round the creature comes within 15 feet of its bane or interacts with its bane (such as stepping over a line of saffron or hearing children laugh) it takes an amount of mental damage equal to its level and must attempt a Will save with a hard DC for its level. On a failure, it's stunned 1 (stunned 3 on a critical failure). Explosive End The mutant cryptid's death reveals one last surprise as it explodes into flame, acid, a pile of toxic goop, or something stranger still. Choose a damage type appropriate for the mutant cryptid. When it dies, it explodes, dealing 1d6 damage of the chosen type to each creature in a 10-foot emanation, with a basic Reflex save against a standard DC of the creature's level. The damage increases by 1d6 at 3rd level and every odd level thereafter. Shifting Iridescence (abjuration, magical) Whenever the mutant cryptid takes energy damage to which it isn't resistant or immune, after taking the damage normally, it gains resistance 5 to that damage type. If it had a resistance to a different damage type from shifting iridescence, it replaces the old resistance with the new resistance. The resistance increases to 10 at 9th level and 15 at 17th level. Marrowlance The mutant cryptid can make wicked spears of bone erupt from its body. The creature can make marrowlance ranged unarmed attacks. Use the highest attack modifier from the creature's highest ranged Strike, as well as the damage from that Strike. If it has no ranged attacks, use moderate accuracy and low damage for the creature's level. Marrowlance unarmed attacks have a range of 60 feet and the versatile S trait.",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-14",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Primeval Cryptid](/MonsterTemplates.aspx?ID=14)\r\n</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 60\r\n\r\nScholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. Primeval cryptids are resilient survivors of their kind or particularly clever individuals. \n\n<title level=\"2\" right=\"\">Primeval Cryptid Adjustments</title> You can turn an existing, living creature into a primeval cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. \n<ul><li>Increase the creature's rarity to [uncommon](/Traits.aspx?ID=159) if it was common or [rare](/Traits.aspx?ID=137) if it was uncommon. If the creature was an animal, it loses the [animal](/Traits.aspx?ID=9) trait and gains the [beast](/Traits.aspx?ID=20) trait.</li><li>Increase the creature's size by one size. If this makes the creature Huge or Gargantuan, increase the reach of all its Strikes by 5 feet.</li><li>If the creature's Intelligence modifier is –4 or lower, increase it to –3.</li><li>Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.</li><li>Increase the damage of the creature's Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead.</li><li>Increase the creature's HP by the amount listed on the table.</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>Starting Level</td><td>HP Increase</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2–4</td><td>15</td></tr> <tr><td>5–19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr></table>\r\n</row> \n\n<title level=\"3\" right=\"\">Primeval Cryptid Abilities</title>Primeval cryptids gain two abilities from the list below. You can add more than two abilities if you wish to make an especially tough primeval cryptid, but you might need to weaken it in some other way to avoid making it too powerful.\n\n **Stench** ([aura](/MonsterAbilities.aspx?ID=5), [olfactory](/Traits.aspx?ID=246)) 30 feet. A creature entering the emanation or starting its turn in the emanation must succeed at a Fortitude save against the [standard DC for the creature's level](/Rules.aspx?ID=552) or become [sickened 1](/Conditions.aspx?ID=34) (plus [slowed 1](/Conditions.aspx?ID=35) as long as it's sickened on a critical failure). While within the emanation, affected creatures take a –2 circumstance penalty to saves against [diseases](/Traits.aspx?ID=46) and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute.\n\n **Broken Arsenal** Fragments of broken blades and spears, the remnants of countless failed attempts to fell the primeval cryptid, remain lodged in its flesh. When an adjacent creature hits the primeval cryptid with a melee attack or otherwise touches it, that creature takes piercing damage equal to half the primeval cryptid's level (minimum 1 damage).\n\n **Grasp for Life** <actions string=\"Free Action\" /> ([healing](/Traits.aspx?ID=89)) **Frequency** once per week; **Trigger** The primeval cryptid would be reduced to 0 Hit Points; **Effect** The cryptid's will to live is second nature, and its second wind has allowed it to survive when others of its kind went extinct. The creature shrugs off death. Instead of being reduced to 0 Hit Points, its Hit Points become equal to four times its level (or 4 Hit Points for a level 0 creature).\n\n **Shockwave** <actions string=\"Two Actions\" /> **Effect** The primeval cryptid creates a shockwave by stomping on the ground, beating its tail on the ground, or making another similarly violent, percussive slam. Creatures on the ground within 30 feet of the primeval cryptid take 1d6 bludgeoning damage per level of the primeval cryptid (minimum 2d6 damage), with a [basic](/Rules.aspx?ID=329) Reflex save. On a critical failure, a creature is also knocked [prone](/Conditions.aspx?ID=31).",
+  "name": "Primeval Cryptid",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 60",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 60\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nScholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. Primeval cryptids are resilient survivors of their …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 60"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 60",
+  "speed": {},
+  "summary": "Scholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. Primeval cryptids are resilient survivors of their …",
+  "summary_markdown": "Scholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. Primeval cryptids are resilient survivors of their …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Primeval Cryptid Source Dark Archive pg. 60 Scholars dream of discovering primeval creatures: remnants of an older age, long thought extinct. Primeval cryptids are resilient survivors of their kind or particularly clever individuals. Primeval Cryptid Adjustments You can turn an existing, living creature into a primeval cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. Increase the creature's rarity to uncommon if it was common or rare if it was uncommon. If the creature was an animal, it loses the animal trait and gains the beast trait. Increase the creature's size by one size. If this makes the creature Huge or Gargantuan, increase the reach of all its Strikes by 5 feet. If the creature's Intelligence modifier is –4 or lower, increase it to –3. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of the creature's Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table. ## Starting Level HP Increase 1 or lower 10 2–4 15 5–19 20 20+ 30 Primeval Cryptid Abilities Primeval cryptids gain two abilities from the list below. You can add more than two abilities if you wish to make an especially tough primeval cryptid, but you might need to weaken it in some other way to avoid making it too powerful. Stench (aura, olfactory) 30 feet. A creature entering the emanation or starting its turn in the emanation must succeed at a Fortitude save against the standard DC for the creature's level or become sickened 1 (plus slowed 1 as long as it's sickened on a critical failure). While within the emanation, affected creatures take a –2 circumstance penalty to saves against diseases and to recover from the sickened condition. A creature that succeeds at its save is temporarily immune for 1 minute. Broken Arsenal Fragments of broken blades and spears, the remnants of countless failed attempts to fell the primeval cryptid, remain lodged in its flesh. When an adjacent creature hits the primeval cryptid with a melee attack or otherwise touches it, that creature takes piercing damage equal to half the primeval cryptid's level (minimum 1 damage). Grasp for Life Free Action (healing) Frequency once per week; Trigger The primeval cryptid would be reduced to 0 Hit Points; Effect The cryptid's will to live is second nature, and its second wind has allowed it to survive when others of its kind went extinct. The creature shrugs off death. Instead of being reduced to 0 Hit Points, its Hit Points become equal to four times its level (or 4 Hit Points for a level 0 creature). Shockwave Two Actions Effect The primeval cryptid creates a shockwave by stomping on the ground, beating its tail on the ground, or making another similarly violent, percussive slam. Creatures on the ground within 30 feet of the primeval cryptid take 1d6 bludgeoning damage per level of the primeval cryptid (minimum 2d6 damage), with a basic Reflex save. On a critical failure, a creature is also knocked prone.",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-15",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Rumored Cryptid](/MonsterTemplates.aspx?ID=15)\r\n</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 61\r\n\r\nAs stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical body no longer confine it. \n\n<title level=\"2\" right=\"\">Rumored Cryptid Adjustments</title> You can turn an existing creature into a rumored cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. \n<ul><li>Add the [rare](/Traits.aspx?ID=137) trait. If the creature was an animal, it loses the [animal](/Traits.aspx?ID=9) trait and gains the [beast](/Traits.aspx?ID=20) trait.</li><li>If the creature's Intelligence modifier is –4 or lower, increase it to –3.</li><li>Add [Stealth](/Skills.aspx?ID=15) with a modifier equal to its highest skill modifier.</li><li>Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.</li><li>Increase the damage of the creature's Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead.</li><li>Increase the creature's HP by the amount listed on the table.</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>Starting Level</td><td>HP Increase</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2–4</td><td>15</td></tr> <tr><td>5–19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr></table>\r\n</row> \n\n<title level=\"3\" right=\"\">Rumored Cryptid Abilities</title> All rumored cryptids gain the following abilities, unless they conflict with the theme of the creature.\n\n**Burning Eyes** The cryptid's eyes are distinctive; perhaps they burn bright red in the dark night. The rumored cryptid gains [darkvision](/MonsterAbilities.aspx?ID=12). If the base creature already has darkvision, it gains greater darkvision.\n\n **Creature Obscura** The cryptid appears in so many urban legends, it can be identified using [Society](/Skills.aspx?ID=14) or a [Lore](/Skills.aspx?ID=8) skill connected to a nearby settlement, in addition to the normal skills. However, much of the information known about it is dubious. The DC to identify a rumored cryptid is [incredibly hard](/Rules.aspx?ID=555) (rather than very hard for most rare creatures), but all failures to identify a rumored cryptid gain the effects of the [Dubious Knowledge](/Feats.aspx?ID=776) skill feat.\n\n **Shifting Form** The cryptid is sustained by localized tales or reports from witnesses. As a result, its appearance morphs between different appearances. If all records of the rumored cryptid are destroyed or all witnesses die, the rumored cryptid ceases to exist.\n\n **Obscura Vulnerability** The cryptid is weakened by those who seek its truth. Whenever a creature succeeds at a [Recall Knowledge](/Actions.aspx?ID=26) check to identify the rumored cryptid, the rumored cryptid becomes [drained 1](/Conditions.aspx?ID=10) (or drained 2 if the Recall Knowledge check was a critical success).\n\n **Stalk** <actions string=\"Single Action\" /> **Requirements** The rumored cryptid is [undetected](/Conditions.aspx?ID=39); **Effect** The rumored cryptid swiftly stalks prey from hiding. It Strides, then Strikes.\n\n **Vanishing Escape** <actions string=\"Single Action\" /> The rumored cryptid breaks away and fades into the background. It Strides, then Hides. \n\n<title level=\"3\" right=\"\">Optional Abilities</title> The rumored cryptid might have one or both of the following optional abilities.\n\n **Hybrid Form** The cryptid's form morphs to be like a specific animal as the tales get longer. The rumored cryptid gains either a burrow, climb, or swim Speed equal to its land Speed.\n\n **Howl** <actions string=\"Two Actions\" /> ([auditory](/Traits.aspx?ID=16), [emotion](/Traits.aspx?ID=60), [fear](/Traits.aspx?ID=68), [mental](/Traits.aspx?ID=106)) The rumored cryptid calls out with a wretched sound no living creature should make. Each creature in a 30-foot emanation must attempt a Will save. A creature that fails is [frightened 1](/Conditions.aspx?ID=19) (or frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 minute. The DC is the [high DC for a creature of the rumored cryptid's level](/Rules.aspx?ID=552).",
+  "name": "Rumored Cryptid",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 61\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 61",
+  "speed": {},
+  "summary": "As stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical …",
+  "summary_markdown": "As stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Rumored Cryptid Source Dark Archive pg. 61 As stories spread about a rumored cryptid, the weight of collective belief transforms the creature to match the tales. The limits of its physical body no longer confine it. Rumored Cryptid Adjustments You can turn an existing creature into a rumored cryptid by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. Add the rare trait. If the creature was an animal, it loses the animal trait and gains the beast trait. If the creature's Intelligence modifier is –4 or lower, increase it to –3. Add Stealth with a modifier equal to its highest skill modifier. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of the creature's Strikes and other offensive abilities by 1. If an ability can be used only a small number of times (such as a dragon's Breath Weapon), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table. ## Starting Level HP Increase 1 or lower 10 2–4 15 5–19 20 20+ 30 Rumored Cryptid Abilities All rumored cryptids gain the following abilities, unless they conflict with the theme of the creature. Burning Eyes The cryptid's eyes are distinctive; perhaps they burn bright red in the dark night. The rumored cryptid gains darkvision. If the base creature already has darkvision, it gains greater darkvision. Creature Obscura The cryptid appears in so many urban legends, it can be identified using Society or a Lore skill connected to a nearby settlement, in addition to the normal skills. However, much of the information known about it is dubious. The DC to identify a rumored cryptid is incredibly hard (rather than very hard for most rare creatures), but all failures to identify a rumored cryptid gain the effects of the Dubious Knowledge skill feat. Shifting Form The cryptid is sustained by localized tales or reports from witnesses. As a result, its appearance morphs between different appearances. If all records of the rumored cryptid are destroyed or all witnesses die, the rumored cryptid ceases to exist. Obscura Vulnerability The cryptid is weakened by those who seek its truth. Whenever a creature succeeds at a Recall Knowledge check to identify the rumored cryptid, the rumored cryptid becomes drained 1 (or drained 2 if the Recall Knowledge check was a critical success). Stalk Single Action Requirements The rumored cryptid is undetected; Effect The rumored cryptid swiftly stalks prey from hiding. It Strides, then Strikes. Vanishing Escape Single Action The rumored cryptid breaks away and fades into the background. It Strides, then Hides. Optional Abilities The rumored cryptid might have one or both of the following optional abilities. Hybrid Form The cryptid's form morphs to be like a specific animal as the tales get longer. The rumored cryptid gains either a burrow, climb, or swim Speed equal to its land Speed. Howl Two Actions (auditory, emotion, fear, mental) The rumored cryptid calls out with a wretched sound no living creature should make. Each creature in a 30-foot emanation must attempt a Will save. A creature that fails is frightened 1 (or frightened 2 on a critical failure). A creature that succeeds is temporarily immune for 1 minute. The DC is the high DC for a creature of the rumored cryptid's level.",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-16",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Air](/MonsterTemplates.aspx?ID=16)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 67 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of air, you can use the following adjustments. \n<ul><li>Add the [air](/Traits.aspx?ID=5) trait.</li><li>If it has any languages, add [Sussuran](/Languages.aspx?ID=111).</li><li>If the creature is 8th level or higher, give it a fly Speed of 25 feet. If its level is lower than that, you can give it this fly Speed if it either doesn't have ranged attacks or you remove its ranged attacks; use discretion.</li><li>If the creature can cast spells, you can replace spells with air spells of the same rank, such as: **Cantrip** [_gale blast_](/Spells.aspx?ID=917), **1st** [_gust of wind_](/Spells.aspx?ID=143), **2nd** [_cleanse air_](/Spells.aspx?ID=1313), **3rd** [_wall of wind_](/Spells.aspx?ID=367), **4th** [_fly_](/Spells.aspx?ID=125), **5th** [_pressure zone_](/Spells.aspx?ID=1318), **6th** [_phantom orchestra_](/Spells.aspx?ID=1317), **7th** [_fly_](/Spells.aspx?ID=125), **8th** [_whirlwind_](/Spells.aspx?ID=1033), **9th** [_wrathful storm_](/Spells.aspx?ID=313).</li></ul>",
+  "name": "Air",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 67",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 67 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of air, you can use the following adjustments.   Add the  air  trait.  If it has any …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 67"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 67 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of air, you can use the following adjustments.   Add the  air  trait.  If it has any …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of air, you can use the following adjustments.   Add the  air  trait.  If it has any …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Air Source Rage of Elements pg. 67 2.0 To quickly give a creature a magical connection to the element of air, you can use the following adjustments. Add the air trait. If it has any languages, add Sussuran. If the creature is 8th level or higher, give it a fly Speed of 25 feet. If its level is lower than that, you can give it this fly Speed if it either doesn't have ranged attacks or you remove its ranged attacks; use discretion. If the creature can cast spells, you can replace spells with air spells of the same rank, such as: Cantrip gale blast , 1st gust of wind , 2nd cleanse air , 3rd wall of wind , 4th fly , 5th pressure zone , 6th phantom orchestra , 7th fly , 8th whirlwind , 9th wrathful storm . ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-17",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Earth](/MonsterTemplates.aspx?ID=17)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 91 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of earth, you can use the following adjustments. \n<ul><li>Add the [earth](/Traits.aspx?ID=55) trait.</li><li>Add [tremorsense](/MonsterAbilities.aspx?ID=40) 60 feet ([imprecise](/Rules.aspx?ID=412)).</li><li>If it has any languages, add [Petran](/Languages.aspx?ID=109).</li><li>Add a burrow Speed of 20 feet, or 40 feet if the creature is 8th level or higher.</li><li>If the creature can cast spells, you can replace spells with earth spells of the same rank, such as: **Cantrip** [_scatter scree_](/Spells.aspx?ID=990), **1st** [_pummeling rubble_](/Spells.aspx?ID=708), **2nd** [_exploding earth_](/Spells.aspx?ID=1331), **3rd** [_one with stone_](/Spells.aspx?ID=188), **4th** [_mountain resilience_](/Spells.aspx?ID=312), **5th** [_wall of stone_](/Spells.aspx?ID=365), **6th** [_petrify_](/Spells.aspx?ID=123), **7th** [_heaving earth_](/Spells.aspx?ID=1335), **8th** [_earthquake_](/Spells.aspx?ID=95).</li></ul>",
+  "name": "Earth",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 91",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 91 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of earth, you can use the following adjustments.   Add the  earth  trait.  Add  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 91"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 91 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of earth, you can use the following adjustments.   Add the  earth  trait.  Add  …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of earth, you can use the following adjustments.   Add the  earth  trait.  Add  …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Earth Source Rage of Elements pg. 91 2.0 To quickly give a creature a magical connection to the element of earth, you can use the following adjustments. Add the earth trait. Add tremorsense 60 feet (imprecise). If it has any languages, add Petran. Add a burrow Speed of 20 feet, or 40 feet if the creature is 8th level or higher. If the creature can cast spells, you can replace spells with earth spells of the same rank, such as: Cantrip scatter scree , 1st pummeling rubble , 2nd exploding earth , 3rd one with stone , 4th mountain resilience , 5th wall of stone , 6th petrify , 7th heaving earth , 8th earthquake . ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-18",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Fire](/MonsterTemplates.aspx?ID=18)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 115 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of fire, you can use the following adjustments. \n<ul><li>Add the [fire](/Traits.aspx?ID=72) trait.</li><li>If it has any languages, add [Pyric](/Languages.aspx?ID=110).</li><li>Add immunity to fire.</li><li>If the creature's Strikes deal more than one die of damage, change one die to fire damage. If not, add 1 fire damage to its Strikes.</li><li>If the creature can cast spells, you can replace spells with fire spells of the same rank: **Cantrip** [_ignition_](/Spells.aspx?ID=236), **1st** [_breathe fire_](/Spells.aspx?ID=30), **2nd** [_blazing bolt_](/Spells.aspx?ID=992), **3rd** [_fireball_](/Spells.aspx?ID=119), **4th** [_wall of fire_](/Spells.aspx?ID=362), **5th** [_fire's pathway_](/Spells.aspx?ID=1354), **6th** [_fireball_](/Spells.aspx?ID=119), **7th** [_fiery body_](/Spells.aspx?ID=115), **8th** [_burning blossoms_](/Spells.aspx?ID=878), **9th** [_falling stars_](/Spells.aspx?ID=191).</li></ul>",
+  "name": "Fire",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 115",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 115 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of fire, you can use the following adjustments.   Add the  fire  trait.  If it has any …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 115"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 115 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of fire, you can use the following adjustments.   Add the  fire  trait.  If it has any …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of fire, you can use the following adjustments.   Add the  fire  trait.  If it has any …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Fire Source Rage of Elements pg. 115 2.0 To quickly give a creature a magical connection to the element of fire, you can use the following adjustments. Add the fire trait. If it has any languages, add Pyric. Add immunity to fire. If the creature's Strikes deal more than one die of damage, change one die to fire damage. If not, add 1 fire damage to its Strikes. If the creature can cast spells, you can replace spells with fire spells of the same rank: Cantrip ignition , 1st breathe fire , 2nd blazing bolt , 3rd fireball , 4th wall of fire , 5th fire's pathway , 6th fireball , 7th fiery body , 8th burning blossoms , 9th falling stars . ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-19",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Metal](/MonsterTemplates.aspx?ID=19)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 139 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of metal, you can use the following adjustments. \n<ul><li>Add the [metal](/Traits.aspx?ID=505) trait.</li><li>If it has any languages, add [Talican](/Languages.aspx?ID=112).</li><li>Decrease the creature's HP based on its level.</li><li>Add resistance to electricity depending on its level.</li><li>If the creature has metal spikes or blades, you can give its physical Strikes your choice of [versatile](/Traits.aspx?ID=200) P or versatile S.</li><li>If the creature can cast spells, you can replace spells with metal spells of the same rank, such as: **Cantrip** [_needle darts_](/Spells.aspx?ID=1375), **1st** [_conductive weapon_](/Spells.aspx?ID=1367), **2nd** [_magnetic repulsion_](/Spells.aspx?ID=945), **3rd** [_noxious metals_](/Spells.aspx?ID=1376), **4th** [_rust cloud_](/Spells.aspx?ID=1377), **5th** [_impaling spike_](/Spells.aspx?ID=697), **6th** [_field of razors_](/Spells.aspx?ID=1370), **7th** [_beheading buzz saw_](/Spells.aspx?ID=1365), **8th** [_ferrous form_](/Spells.aspx?ID=1369), **9th** [_magnetic dominion_](/Spells.aspx?ID=1372).</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table> <tr><td>**Level**</td><td>HP **Decrease**</td><td>**Resistance to Electricity**</td></tr> <tr><td>3 or lower</td><td>6</td><td>3</td></tr> <tr><td>4–8</td><td>10</td><td>5</td></tr> <tr><td>9–13</td><td>20</td><td>10</td></tr> <tr><td>14+</td><td>30</td><td>15</td></tr></table></row>",
+  "name": "Metal",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 139",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 139 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of metal, you can use the following adjustments.   Add the  metal  trait.  If it has …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 139"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 139 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of metal, you can use the following adjustments.   Add the  metal  trait.  If it has …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of metal, you can use the following adjustments.   Add the  metal  trait.  If it has …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Metal Source Rage of Elements pg. 139 2.0 To quickly give a creature a magical connection to the element of metal, you can use the following adjustments. Add the metal trait. If it has any languages, add Talican. Decrease the creature's HP based on its level. Add resistance to electricity depending on its level. If the creature has metal spikes or blades, you can give its physical Strikes your choice of versatile P or versatile S. If the creature can cast spells, you can replace spells with metal spells of the same rank, such as: Cantrip needle darts , 1st conductive weapon , 2nd magnetic repulsion , 3rd noxious metals , 4th rust cloud , 5th impaling spike , 6th field of razors , 7th beheading buzz saw , 8th ferrous form , 9th magnetic dominion . ## Level HP Decrease Resistance to Electricity 3 or lower 6 3 4–8 10 5 9–13 20 10 14+ 30 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-20",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Water](/MonsterTemplates.aspx?ID=20)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 169 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of water, you can use the following adjustments. \n<ul><li>Add the [water](/Traits.aspx?ID=165) trait and either the [amphibious](/Traits.aspx?ID=207) or [aquatic](/Traits.aspx?ID=168) trait.</li><li>If it has any languages, add [Thalassic](/Languages.aspx?ID=113).</li><li>Decrease the creature's HP based on its level.</li><li>Add resistance to fire depending on its level.</li><li>Add a swim Speed of 25 feet, or 40 feet if the creature is 8th level or higher.</li><li>If the creature can cast spells, you can replace spells with water spells of the same rank, such as: **Cantrip** [_spout_](/Spells.aspx?ID=1002), **1st** [_hydraulic push_](/Spells.aspx?ID=154), **2nd** [_mist_](/Spells.aspx?ID=210), **3rd** [_aqueous orb_](/Spells.aspx?ID=669), **4th** [_hydraulic torrent_](/Spells.aspx?ID=155), **5th** [_control water_](/Spells.aspx?ID=51), **6th** [_personal ocean_](/Spells.aspx?ID=1393), **7th** [_hungry depths_](/Spells.aspx?ID=1391), **8th** [_whirlpool_](/Spells.aspx?ID=1398).</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**HP Decrease**</td><td>**Resistance to Fire**</td></tr> <tr><td>3 or lower</td><td>6</td><td>3</td></tr> <tr><td>4–8</td><td>10</td><td>5</td></tr> <tr><td>9–13</td><td>20</td><td>10</td></tr> <tr><td>14+</td><td>30</td><td>15</td></tr></table></row>",
+  "name": "Water",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 169",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 169 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of water, you can use the following adjustments.   Add the  water  trait and either …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 169"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 169 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of water, you can use the following adjustments.   Add the  water  trait and either …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of water, you can use the following adjustments.   Add the  water  trait and either …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Water Source Rage of Elements pg. 169 2.0 To quickly give a creature a magical connection to the element of water, you can use the following adjustments. Add the water trait and either the amphibious or aquatic trait. If it has any languages, add Thalassic. Decrease the creature's HP based on its level. Add resistance to fire depending on its level. Add a swim Speed of 25 feet, or 40 feet if the creature is 8th level or higher. If the creature can cast spells, you can replace spells with water spells of the same rank, such as: Cantrip spout , 1st hydraulic push , 2nd mist , 3rd aqueous orb , 4th hydraulic torrent , 5th control water , 6th personal ocean , 7th hungry depths , 8th whirlpool . ## Level HP Decrease Resistance to Fire 3 or lower 6 3 4–8 10 5 9–13 20 10 14+ 30 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-21",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Wood](/MonsterTemplates.aspx?ID=21)\r\n</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 193 <sup>2.0</sup>\r\n\r\nTo quickly give a creature a magical connection to the element of wood, you can use the following adjustments. \n<ul><li>Add the [wood](/Traits.aspx?ID=508) trait. If the creature is a growing plant, you can also add the [plant](/Traits.aspx?ID=125) trait.</li><li>If it has any languages, add [Muan](/Languages.aspx?ID=108).</li><li>Increase the creature's HP based on its level.</li><li>Add weaknesses to fire and to damage from [axes](/WeaponGroups.aspx?ID=1) depending on its level.</li><li>If the creature can cast spells, you can replace spells with wood spells of the same rank, such as: **Cantrip** [_timber_](/Spells.aspx?ID=1412), **1st** [_protector tree_](/Spells.aspx?ID=976), **2nd** [_oaken resilience_](/Spells.aspx?ID=20), **3rd** [_wall of thorns_](/Spells.aspx?ID=366), **4th** [_life-draining roots_](/Spells.aspx?ID=1403), **5th** [_nature's pathway_](/Spells.aspx?ID=343), **6th** [_lignify_](/Spells.aspx?ID=1404), **7th** [_pollen pods_](/Spells.aspx?ID=1407), **8th** [_burning blossoms_](/Spells.aspx?ID=878), **9th** [_one with the land_](/Spells.aspx?ID=960).</li></ul>\n\n##  \n<row gap=\"tiny\">\n<table> <tr><td>**Level**</td><td>**HP Increase**</td><td>**Weakness to Fire and Axes**</td></tr> <tr><td>3 or lower</td><td>10</td><td>3</td></tr> <tr><td>4–8</td><td>20</td><td>5</td></tr> <tr><td>9–13</td><td>40</td><td>10</td></tr> <tr><td>14+</td><td>60</td><td>15</td></tr></table></row>",
+  "name": "Wood",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 193",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 193 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo quickly give a creature a magical connection to the element of wood, you can use the following adjustments.   Add the  wood  trait. If the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 193"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 193 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To quickly give a creature a magical connection to the element of wood, you can use the following adjustments.   Add the  wood  trait. If the …",
+  "summary_markdown": "To quickly give a creature a magical connection to the element of wood, you can use the following adjustments.   Add the  wood  trait. If the …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Wood Source Rage of Elements pg. 193 2.0 To quickly give a creature a magical connection to the element of wood, you can use the following adjustments. Add the wood trait. If the creature is a growing plant, you can also add the plant trait. If it has any languages, add Muan. Increase the creature's HP based on its level. Add weaknesses to fire and to damage from axes depending on its level. If the creature can cast spells, you can replace spells with wood spells of the same rank, such as: Cantrip timber , 1st protector tree , 2nd oaken resilience , 3rd wall of thorns , 4th life-draining roots , 5th nature's pathway , 6th lignify , 7th pollen pods , 8th burning blossoms , 9th one with the land . ## Level HP Increase Weakness to Fire and Axes 3 or lower 10 3 4–8 20 5 9–13 40 10 14+ 60 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-22",
+  "legacy_id": [
+   "creature-adjustment-1"
+  ],
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Elite](/MonsterTemplates.aspx?ID=22)\r\n</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 6\r\n\r\nSometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial or show that one enemy is stronger than its kin. To do this quickly and easily, apply the elite adjustments to its statistics as follows: \n<ul><li>Increase the creature’s level by 1; if the creature is level –1 or 0, instead increase its level by 2.</li><li>Increase the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2.</li><li>Increase the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s breath), increase the damage by 4 instead.</li><li>Increase the creature’s Hit Points based on its starting level (see the table below).</li></ul>\n\n## Elite Adjustment\n<row gap=\"tiny\">\n<table> <tr><td>**Starting Level**</td><td>**HP Increase**</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2-4</td><td>15</td></tr> <tr><td>5-19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr> </table></row>",
+  "name": "Elite",
+  "primary_source": "Monster Core",
+  "primary_source_raw": "Monster Core pg. 6",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-03-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 6\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Monster Core"
+  ],
+  "source_raw": [
+   "Monster Core pg. 6"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 6",
+  "speed": {},
+  "summary": "Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial or …",
+  "summary_markdown": "Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial or …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Elite Source Monster Core pg. 6 Sometimes you’ll want a creature that’s just a bit more powerful than normal so that you can present a challenge that would otherwise be trivial or show that one enemy is stronger than its kin. To do this quickly and easily, apply the elite adjustments to its statistics as follows: Increase the creature’s level by 1; if the creature is level –1 or 0, instead increase its level by 2. Increase the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2. Increase the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s breath), increase the damage by 4 instead. Increase the creature’s Hit Points based on its starting level (see the table below). ## Elite Adjustment Starting Level HP Increase 1 or lower 10 2-4 15 5-19 20 20+ 30 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-23",
+  "legacy_id": [
+   "creature-adjustment-2"
+  ],
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Weak](/MonsterTemplates.aspx?ID=23)\r\n</title>\r\n\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 7\r\n\r\nSometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging or show that one enemy is weaker than its kin. To do this quickly and easily, apply the weak adjustments to its statistics as follows: \n<ul><li>Decrease the creature’s level by 1; if the creature is level 1, instead decrease its level by 2.</li><li>Decrease the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2.</li><li>Decrease the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s breath), decrease the damage by 4 instead.</li><li>Decrease the creature’s HP based on its starting level.</li></ul>\n\n## Weak Adjustment\n<row gap=\"tiny\">\n<table> <tr><td>**Starting Level**</td><td>**HP Decrease**</td></tr> <tr><td>1-2</td><td>-10</td></tr> <tr><td>3-5</td><td>-15</td></tr> <tr><td>6-20</td><td>-20</td></tr> <tr><td>21+</td><td>-30</td></tr> </table></row>",
+  "name": "Weak",
+  "primary_source": "Monster Core",
+  "primary_source_raw": "Monster Core pg. 7",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-03-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Monster Core](/Sources.aspx?ID=221) pg. 7\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging or show that one enemy …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Monster Core"
+  ],
+  "source_raw": [
+   "Monster Core pg. 7"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Monster Core](/Sources.aspx?ID=221) pg. 7",
+  "speed": {},
+  "summary": "Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging or show that one enemy …",
+  "summary_markdown": "Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging or show that one enemy …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Weak Source Monster Core pg. 7 Sometimes you’ll want a creature that’s weaker than normal so you can use a creature that would otherwise be too challenging or show that one enemy is weaker than its kin. To do this quickly and easily, apply the weak adjustments to its statistics as follows: Decrease the creature’s level by 1; if the creature is level 1, instead decrease its level by 2. Decrease the creature’s AC, attack modifiers, DCs, saving throws, Perception, and skill modifiers by 2. Decrease the damage of its Strikes and other offensive abilities by 2. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster’s spells or a dragon’s breath), decrease the damage by 4 instead. Decrease the creature’s HP based on its starting level. ## Weak Adjustment Starting Level HP Decrease 1-2 -10 3-5 -15 6-20 -20 21+ -30 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-24",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Amphibious](/MonsterTemplates.aspx?ID=24)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n\r\nAn amphibious creature has adapted to live both on land and in water. \n<ul><li>Add the [amphibious](/Traits.aspx?ID=529) trait. If the creature has the [aquatic](/Traits.aspx?ID=533) trait, remove it.</li><li>Add [Athletics](/Skills.aspx?ID=36) with a modifier equal to the creature's highest skill modifier.</li><li>If the creature doesn't have a swim Speed, add a swim Speed equal to half its land Speed (minimum 15 feet).</li><li>If the creature doesn't have a land Speed, add a land Speed equal to half its swim Speed (minimum 15 feet).</li><li>Add the following abilities:<br /> **[Low-light Vision](/MonsterAbilities.aspx?ID=69)**<br /> **Drag Along** <actions string=\"Single Action\" /> **Requirements** The amphibious creature's previous action was a successful melee Strike; **Effect** The amphibious creature Strides or [Swims](/Actions.aspx?ID=2381) 10 feet away from the target. The target moves the same direction and distance as forced movement.</li><li></li></ul>",
+  "name": "Amphibious",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 122",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn amphibious creature has adapted to live both on land and in water.   Add the  amphibious  trait. If the creature has the  aquatic  trait, remove …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 122"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "An amphibious creature has adapted to live both on land and in water.   Add the  amphibious  trait. If the creature has the  aquatic  trait, remove …",
+  "summary_markdown": "An amphibious creature has adapted to live both on land and in water.   Add the  amphibious  trait. If the creature has the  aquatic  trait, remove …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Amphibious Source Howl of the Wild pg. 122 2.0 An amphibious creature has adapted to live both on land and in water. Add the amphibious trait. If the creature has the aquatic trait, remove it. Add Athletics with a modifier equal to the creature's highest skill modifier. If the creature doesn't have a swim Speed, add a swim Speed equal to half its land Speed (minimum 15 feet). If the creature doesn't have a land Speed, add a land Speed equal to half its swim Speed (minimum 15 feet). Add the following abilities: Low-light Vision Drag Along Single Action Requirements The amphibious creature's previous action was a successful melee Strike; Effect The amphibious creature Strides or Swims 10 feet away from the target. The target moves the same direction and distance as forced movement. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-25",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Frostbound](/MonsterTemplates.aspx?ID=25)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n\r\nA frostbound creature grew in a harsh, freezing environment, such as a frigid tundra or a region of magical winters, and can better handle cold weather. \n<ul><li>Add a resistance to [cold](/Traits.aspx?ID=555) and a weakness to [fire](/Traits.aspx?ID=604), value dependent on the creature's level (see table below).</li><li>Add the following abilities:<br /> **Freezing Adaptation** The creature treats [environmental cold effects](/Rules.aspx?ID=642) as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on).<br /> **Winter Senses** The creature ignores [concealment](/Conditions.aspx?ID=62)caused by ice or snow.<br /> **Arctic Steps** The creature ignores [uneven ground](/Rules.aspx?ID=456) and [difficult terrain](/Rules.aspx?ID=453) caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to ordinary difficult terrain).<br />**Snow Spray** <actions string=\"Single Action\" /> **Requirements** The creature is standing on or adjacent to loose snow; **Effect** The frostbound creature kicks up the snow, becoming concealed to all creatures that are not adjacent to it until it moves or the end of its next turn.</li><li></li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**Resistance/Weakness**</td></tr> <tr><td>3 or lower </td><td>3</td></tr> <tr><td>4–8 </td><td>5</td></tr> <tr><td>9–13 </td><td>10</td></tr> <tr><td>14+ </td><td>15</td></tr></table></row> ",
+  "name": "Frostbound",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 122",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA frostbound creature grew in a harsh, freezing environment, such as a frigid tundra or a region of magical winters, and can better handle cold …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 122"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A frostbound creature grew in a harsh, freezing environment, such as a frigid tundra or a region of magical winters, and can better handle cold …",
+  "summary_markdown": "A frostbound creature grew in a harsh, freezing environment, such as a frigid tundra or a region of magical winters, and can better handle cold …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Frostbound Source Howl of the Wild pg. 122 2.0 A frostbound creature grew in a harsh, freezing environment, such as a frigid tundra or a region of magical winters, and can better handle cold weather. Add a resistance to cold and a weakness to fire, value dependent on the creature's level (see table below). Add the following abilities: Freezing Adaptation The creature treats environmental cold effects as if they were one step less extreme (incredible cold becomes extreme, extreme cold becomes severe, and so on). Winter Senses The creature ignores concealmentcaused by ice or snow. Arctic Steps The creature ignores uneven ground and difficult terrain caused by ice and the difficult terrain caused by snow (reducing greater difficult terrain from ice or snow to ordinary difficult terrain). Snow Spray Single Action Requirements The creature is standing on or adjacent to loose snow; Effect The frostbound creature kicks up the snow, becoming concealed to all creatures that are not adjacent to it until it moves or the end of its next turn. ## Level Resistance/Weakness 3 or lower 3 4–8 5 9–13 10 14+ 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-26",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Miniature](/MonsterTemplates.aspx?ID=26)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n\r\nA miniature creature is much smaller than others of its kind, often small enough to fit in the palm of a hand or keep in a small terrarium instead of large habitat. \n<ul><li>Reduce the creature's size to Tiny.</li><li>Reduce the reach of the creature's lowest-[reach](/Traits.aspx?ID=684) melee Strikes to 0 feet. If it has melee Strikes with notable reach (often a tail, tentacle, or similar long appendage), reduce the reach of these Strikes to 5 feet.</li><li>Add [Stealth](/Skills.aspx?ID=48) with a modifier equal to its highest skill modifier.</li><li>Add the following abilities:<br /> **Scamper Underfoot** <actions string=\"Two Actions\" /> **Effect** The creature Strides twice. It can pass through the space of creatures larger than itself during this movement, and its movement does not trigger reactions. </li><li></li></ul>",
+  "name": "Miniature",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 122",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA miniature creature is much smaller than others of its kind, often small enough to fit in the palm of a hand or keep in a small terrarium instead of …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 122"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 122 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A miniature creature is much smaller than others of its kind, often small enough to fit in the palm of a hand or keep in a small terrarium instead of …",
+  "summary_markdown": "A miniature creature is much smaller than others of its kind, often small enough to fit in the palm of a hand or keep in a small terrarium instead of …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Miniature Source Howl of the Wild pg. 122 2.0 A miniature creature is much smaller than others of its kind, often small enough to fit in the palm of a hand or keep in a small terrarium instead of large habitat. Reduce the creature's size to Tiny. Reduce the reach of the creature's lowest-reach melee Strikes to 0 feet. If it has melee Strikes with notable reach (often a tail, tentacle, or similar long appendage), reduce the reach of these Strikes to 5 feet. Add Stealth with a modifier equal to its highest skill modifier. Add the following abilities: Scamper Underfoot Two Actions Effect The creature Strides twice. It can pass through the space of creatures larger than itself during this movement, and its movement does not trigger reactions. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-27",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Sandbound](/MonsterTemplates.aspx?ID=27)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n\r\nA sandbound creature grew in a harsh, blistering environment, such as a sweltering desert or even near a volcano's caldera, and can better handle hot and dry weather. \n<ul><li>Add a resistance to [fire](/Traits.aspx?ID=604) and a weakness to [cold](/Traits.aspx?ID=555), value dependent on the creature's level (see table below).</li><li>If the creature doesn't have a burrow Speed, add a burrow Speed equal to half its fastest speed.</li><li>Add the following abilities.<br /> **Efficient Metabolism** The creature can go 10 times as long as normal before it's affected by [starvation and thirst](/Rules.aspx?ID=2603).<br /> **Scorching Adaptation** The creature treats [environmental heat effects](/Rules.aspx?ID=642) as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on).<br /> **Desert Steps** The creature ignores [uneven ground](/Rules.aspx?ID=456) and [difficult terrain](/Rules.aspx?ID=453) caused by sand (reducing greater difficult terrain from sand to ordinary difficult terrain).<br /> **Sand Burst** <actions string=\"Two Actions\" /> **Requirements** The sandbound creature is burrowed in loose sand or earth; **Effect** The creature [Burrows](/Actions.aspx?ID=2310) twice, then makes a melee Strike. If it was [undetected](/Conditions.aspx?ID=96) at the start of its movement, it remains undetected until after the attack.</li><li></li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>**Level**</td><td>**Resistance/Weakness**</td></tr> <tr><td>3 or lower </td><td>3</td></tr> <tr><td>4–8 </td><td>5</td></tr> <tr><td>9–13 </td><td>10</td></tr> <tr><td>14+ </td><td>15</td></tr></table></row> ",
+  "name": "Sandbound",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 123",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA sandbound creature grew in a harsh, blistering environment, such as a sweltering desert or even near a volcano's caldera, and can better handle hot …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 123"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A sandbound creature grew in a harsh, blistering environment, such as a sweltering desert or even near a volcano's caldera, and can better handle hot …",
+  "summary_markdown": "A sandbound creature grew in a harsh, blistering environment, such as a sweltering desert or even near a volcano's caldera, and can better handle hot …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Sandbound Source Howl of the Wild pg. 123 2.0 A sandbound creature grew in a harsh, blistering environment, such as a sweltering desert or even near a volcano's caldera, and can better handle hot and dry weather. Add a resistance to fire and a weakness to cold, value dependent on the creature's level (see table below). If the creature doesn't have a burrow Speed, add a burrow Speed equal to half its fastest speed. Add the following abilities. Efficient Metabolism The creature can go 10 times as long as normal before it's affected by starvation and thirst. Scorching Adaptation The creature treats environmental heat effects as if they were one step less extreme (incredible heat becomes extreme, extreme heat becomes severe, and so on). Desert Steps The creature ignores uneven ground and difficult terrain caused by sand (reducing greater difficult terrain from sand to ordinary difficult terrain). Sand Burst Two Actions Requirements The sandbound creature is burrowed in loose sand or earth; Effect The creature Burrows twice, then makes a melee Strike. If it was undetected at the start of its movement, it remains undetected until after the attack. ## Level Resistance/Weakness 3 or lower 3 4–8 5 9–13 10 14+ 15 ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=27",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-28",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Twinned](/MonsterTemplates.aspx?ID=28)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n\r\nA twinned creature has grown a second head either due to a strange mutation, exposure to transformative magic, a truly unfortunate alchemical reaction, or simply by random chance. This additional head acts independently and could quite possibly have an entirely unique personality, depending on the intelligence of the creature. The creature gains the following abilities.\n\n **Independent Brains** Each of the twinned creature's heads rolls its own initiative and has its own turn. Neither head can [Delay](/Actions.aspx?ID=2294). At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain can control the creature's body normally. Taking damage equal to half its hit points or any ability that would sever a twinned creature's head (such as the [_vorpal_](/Equipment.aspx?ID=2853) weapon property) destroys one head and causes the twinned creature to lose the turns, actions, and reactions of the severed head. [Mental](/Traits.aspx?ID=647) effects that target a single creature affect only one of the creature's heads.\n\n **Gnaw Free** <actions string=\"Reaction\" /> **Trigger** The twinned creature's other head attempts to [Escape](/Actions.aspx?ID=2296); **Effect** This head bites its grappler or restraints to help the other head break free. The twinned creature gains a +2 circumstance bonus to its Escape check.\n\n **[Reactive Strike](/MonsterAbilities.aspx?ID=48)** <actions string=\"Reaction\" />",
+  "name": "Twinned",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 123",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA twinned creature has grown a second head either due to a strange mutation, exposure to transformative magic, a truly unfortunate alchemical …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 123"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A twinned creature has grown a second head either due to a strange mutation, exposure to transformative magic, a truly unfortunate alchemical …",
+  "summary_markdown": "A twinned creature has grown a second head either due to a strange mutation, exposure to transformative magic, a truly unfortunate alchemical …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Twinned Source Howl of the Wild pg. 123 2.0 A twinned creature has grown a second head either due to a strange mutation, exposure to transformative magic, a truly unfortunate alchemical reaction, or simply by random chance. This additional head acts independently and could quite possibly have an entirely unique personality, depending on the intelligence of the creature. The creature gains the following abilities. Independent Brains Each of the twinned creature's heads rolls its own initiative and has its own turn. Neither head can Delay. At the start of a head's turn, that head gets 2 actions and 1 reaction. Each brain can control the creature's body normally. Taking damage equal to half its hit points or any ability that would sever a twinned creature's head (such as the vorpal weapon property) destroys one head and causes the twinned creature to lose the turns, actions, and reactions of the severed head. Mental effects that target a single creature affect only one of the creature's heads. Gnaw Free Reaction Trigger The twinned creature's other head attempts to Escape; Effect This head bites its grappler or restraints to help the other head break free. The twinned creature gains a +2 circumstance bonus to its Escape check. Reactive Strike Reaction",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=28",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-29",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Winged](/MonsterTemplates.aspx?ID=29)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n\r\nSome creatures adapt by growing wings. \n<ul><li>Add [Acrobatics](/Skills.aspx?ID=34) with a modifier equal to its highest skill modifier.</li><li>Add a fly Speed equ al to its highest Speed.</li><li>Add the following abilities.<br /> **Dropping Dodge** <actions string=\"Reaction\" /> **Requirements** the winged creature is flying; **Trigger** An enemy targets the winged creature with a Strike; **Effect** The winged creature folds its wings and drops to avoid the hit at the last second. The winged creature gains a +2 circumstance bonus to AC against the Strike. After the Strike resolves, the winged creature drops 15 feet. Even if it is stopped by the ground, it doesn't take [falling damage](/Rules.aspx?ID=402).</li></ul>",
+  "name": "Winged",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 123",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome creatures adapt by growing wings.   Add  Acrobatics  with a modifier equal to its highest skill modifier.  Add a fly Speed equ al to its highest …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 123"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 123 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Some creatures adapt by growing wings.   Add  Acrobatics  with a modifier equal to its highest skill modifier.  Add a fly Speed equ al to its highest …",
+  "summary_markdown": "Some creatures adapt by growing wings.   Add  Acrobatics  with a modifier equal to its highest skill modifier.  Add a fly Speed equ al to its highest …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Winged Source Howl of the Wild pg. 123 2.0 Some creatures adapt by growing wings. Add Acrobatics with a modifier equal to its highest skill modifier. Add a fly Speed equ al to its highest Speed. Add the following abilities. Dropping Dodge Reaction Requirements the winged creature is flying; Trigger An enemy targets the winged creature with a Strike; Effect The winged creature folds its wings and drops to avoid the hit at the last second. The winged creature gains a +2 circumstance bonus to AC against the Strike. After the Strike resolves, the winged creature drops 15 feet. Even if it is stopped by the ground, it doesn't take falling damage. ",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=29",
+  "weakness": {}
+ },
+ {
+  "category": "creature-adjustment",
+  "exclude_from_search": false,
+  "id": "creature-adjustment-30",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Creature Adjustment \"\r\n>\r\n[Broodpiercer](/MonsterTemplates.aspx?ID=30)\r\n</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 129 <sup>2.0</sup>\r\n\r\nBroodpiercer\r\nThe insects known as broodpiercers are particularly insidious parasites that target the eggs of birds, beasts, and dragons alike, piercing the shell with a needle-like proboscises and implanting their eggs into healthy embryos. The afflicted creature's cranium then develops around the larval broodpiercer, which lies dormant while subsisting off minimal resources from its host. It's not until years later, typically when the host creature has reached maturity, that the broodpiercer larva wrests greater control, pushing the host to travel far and wide—the better to disperse the parasite—and ultimately perish, as only upon the host's death can the now-adult broodpiercer break free and find new eggs to begin the cycle once again. Because of this, an infected creature often initiates fights and refuses to flee, even when death is certain. \n\n<title level=\"2\" right=\"\">Broodpiercer Host Adjustments</title> You can infect an existing animal, beast, humanoid, or dragon with a broodpiercer by completing the following steps.\n\n Increase the creature's level by 1 and change its statistics as follows. \n<ul><li>If the creature's Intelligence modifier is –4 or lower, increase it to –3.</li><li>Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1.</li><li>Increase the damage of its Strikes and other offensive abilities by 1. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster's spells or a dragon's breath), increase the damage by 2 instead.</li><li>Increase the creature's HP by the amount listed on the table.</li><li></li></ul>\n\n##  \n<row gap=\"tiny\">\n<table><tr><td>Starting Level</td><td>HP Increase</td></tr> <tr><td>1 or lower</td><td>10</td></tr> <tr><td>2–4</td><td>15</td></tr> <tr><td>5–19</td><td>20</td></tr> <tr><td>20+</td><td>30</td></tr></table></row> \n\n<title level=\"2\" right=\"\">Broodpiercer Host Abilities</title> All host creatures gain the following abilities.\n\n **Cold Stasis** A broodpiercer larva is vulnerable to [cold](/Traits.aspx?ID=555). Any effect that deals cold damage causes the host creature to become [slowed 1](/Conditions.aspx?ID=92) for 1d4 rounds. While slowed from cold, the broodpiercer can't use Fumbling Dodge or Erratic Barrage. This occurs even if the base creature is immune to cold. **Fumbling Dodge** <actions string=\"Reaction\" /> **Trigger** The host creature is targeted with an attack, or an effect that requires a Reflex save and is aware of the attacker; **Effect** The host creature lurches suddenly, stumbling out of harm's way as if dragged by a puppeteer. The creature gains a +3 circumstance bonus to AC against the triggering attack or to its Reflex save. After using Fumbling Dodge, the creature becomes [clumsy 2](/Conditions.aspx?ID=61) for 1 round. **Erratic Barrage** <actions string=\"Two Actions\" /> The host creature attacks twice while spinning ceaselessly, aiming blows from unexpected, seemingly illogical directions. The host creature makes two melee Strikes against the same creature; the host's multiple attack penalty does not increase until it has made both attacks. The target is [off-guard](/Conditions.aspx?ID=58) for the second Strike. The target creature then gets a sense for the erratic movement and becomes temporarily immune to Erratic Barrage for 1 day. **Induce Frenzy** <actions string=\"Single Action\" /> ([emotion](/Traits.aspx?ID=590)) The broodpiercer floods the brain of its host creature with adrenaline, amplifying the host's hunger and numbing its pain to drive it into an obsessive fugue. While frenzied, the creature gains a +2 circumstance bonus to Will saves, temporary Hit Points equal to its level, and a +10-foot circumstance bonus to its Speeds. The frenzy lasts for 1 minute, after which the host creature is [fatigued](/Conditions.aspx?ID=73) for 1 minute and can't enter another frenzy for 1 minute.",
+  "name": "Broodpiercer",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 129",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 129 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBroodpiercer\r\nThe insects known as broodpiercers are particularly insidious parasites that target the eggs of birds, beasts, and dragons alike, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 129"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Broodpiercer\r\nThe insects known as broodpiercers are particularly insidious parasites that target the eggs of birds, beasts, and dragons alike, …",
+  "summary_markdown": "Broodpiercer\r\nThe insects known as broodpiercers are particularly insidious parasites that target the eggs of birds, beasts, and dragons alike, …",
+  "text": "<title level=\"1\" right=\"Creature Adjustment \" > Broodpiercer Source Howl of the Wild pg. 129 2.0 Broodpiercer The insects known as broodpiercers are particularly insidious parasites that target the eggs of birds, beasts, and dragons alike, piercing the shell with a needle-like proboscises and implanting their eggs into healthy embryos. The afflicted creature's cranium then develops around the larval broodpiercer, which lies dormant while subsisting off minimal resources from its host. It's not until years later, typically when the host creature has reached maturity, that the broodpiercer larva wrests greater control, pushing the host to travel far and wide—the better to disperse the parasite—and ultimately perish, as only upon the host's death can the now-adult broodpiercer break free and find new eggs to begin the cycle once again. Because of this, an infected creature often initiates fights and refuses to flee, even when death is certain. Broodpiercer Host Adjustments You can infect an existing animal, beast, humanoid, or dragon with a broodpiercer by completing the following steps. Increase the creature's level by 1 and change its statistics as follows. If the creature's Intelligence modifier is –4 or lower, increase it to –3. Increase the creature's AC, attack bonuses, DCs, Perception modifier, saving throws, and skill modifiers by 1. Increase the damage of its Strikes and other offensive abilities by 1. If the creature has limits on how many times or how often it can use an ability (such as a spellcaster's spells or a dragon's breath), increase the damage by 2 instead. Increase the creature's HP by the amount listed on the table. ## Starting Level HP Increase 1 or lower 10 2–4 15 5–19 20 20+ 30 Broodpiercer Host Abilities All host creatures gain the following abilities. Cold Stasis A broodpiercer larva is vulnerable to cold. Any effect that deals cold damage causes the host creature to become slowed 1 for 1d4 rounds. While slowed from cold, the broodpiercer can't use Fumbling Dodge or Erratic Barrage. This occurs even if the base creature is immune to cold. Fumbling Dodge Reaction Trigger The host creature is targeted with an attack, or an effect that requires a Reflex save and is aware of the attacker; Effect The host creature lurches suddenly, stumbling out of harm's way as if dragged by a puppeteer. The creature gains a +3 circumstance bonus to AC against the triggering attack or to its Reflex save. After using Fumbling Dodge, the creature becomes clumsy 2 for 1 round. Erratic Barrage Two Actions The host creature attacks twice while spinning ceaselessly, aiming blows from unexpected, seemingly illogical directions. The host creature makes two melee Strikes against the same creature; the host's multiple attack penalty does not increase until it has made both attacks. The target is off-guard for the second Strike. The target creature then gets a sense for the erratic movement and becomes temporarily immune to Erratic Barrage for 1 day. Induce Frenzy Single Action (emotion) The broodpiercer floods the brain of its host creature with adrenaline, amplifying the host's hunger and numbing its pain to drive it into an obsessive fugue. While frenzied, the creature gains a +2 circumstance bonus to Will saves, temporary Hit Points equal to its level, and a +10-foot circumstance bonus to its Speeds. The frenzy lasts for 1 minute, after which the host creature is fatigued for 1 minute and can't enter another frenzy for 1 minute.",
+  "type": "Creature Adjustment",
+  "url": "/MonsterTemplates.aspx?ID=30",
+  "weakness": {}
+ }
+]

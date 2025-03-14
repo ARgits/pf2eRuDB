@@ -1,0 +1,1750 @@
+[
+ {
+  "bloodline": [
+   "Aberrant"
+  ],
+  "bloodline_markdown": "Aberrant",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-1",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Aberrant](/Bloodlines.aspx?ID=1)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\n\nSomething speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Occultism](/Skills.aspx?ID=11)\n\n**Granted Spells**\r\n- **Cantrip** [Daze](/Spells.aspx?ID=61)\r\n- **1st** [Spider Sting](/Spells.aspx?ID=300)\r\n- **2nd** [Touch of Idiocy](/Spells.aspx?ID=341)\r\n- **3rd** [Vampiric Touch](/Spells.aspx?ID=354)\r\n- **4th** [Confusion](/Spells.aspx?ID=48)\r\n- **5th** [Black Tentacles](/Spells.aspx?ID=23)\r\n- **6th** [Feeblemind](/Spells.aspx?ID=112)\r\n- **7th** [Warp Mind](/Spells.aspx?ID=369)\r\n- **8th** [Uncontrollable Dance](/Spells.aspx?ID=347)\r\n- **9th** [Unfathomable Song](/Spells.aspx?ID=349)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Tentacular Limbs](/Spells.aspx?ID=517)\r\n- **Advanced** [Aberrant Whispers](/Spells.aspx?ID=491)\r\n- **Greater** [Unusual Anatomy](/Spells.aspx?ID=519)\r\n\r\n**Blood Magic**\r\nAberrant whispers shield one target’s mind or your own, granting a +2 status bonus to Will saving throws for 1 round.\r\n\r\n</column>",
+  "name": "Aberrant",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-19"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Occultism](/Skills.aspx?ID=11)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSomething speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Occultism"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Daze",
+   "Spider Sting",
+   "Touch of Idiocy",
+   "Vampiric Touch",
+   "Confusion",
+   "Black Tentacles",
+   "Feeblemind",
+   "Warp Mind",
+   "Uncontrollable Dance",
+   "Unfathomable Song",
+   "Tentacular Limbs",
+   "Aberrant Whispers",
+   "Unusual Anatomy"
+  ],
+  "spell_markdown": "[Aberrant Whispers](/Spells.aspx?ID=491), [Black Tentacles](/Spells.aspx?ID=23), [Confusion](/Spells.aspx?ID=48), [Daze](/Spells.aspx?ID=61), [Feeblemind](/Spells.aspx?ID=112), [Spider Sting](/Spells.aspx?ID=300), [Tentacular Limbs](/Spells.aspx?ID=517), [Touch of Idiocy](/Spells.aspx?ID=341), [Uncontrollable Dance](/Spells.aspx?ID=347), [Unfathomable Song](/Spells.aspx?ID=349), [Unusual Anatomy](/Spells.aspx?ID=519), [Vampiric Touch](/Spells.aspx?ID=354), [Warp Mind](/Spells.aspx?ID=369)",
+  "summary": "Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.",
+  "summary_markdown": "Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind.",
+  "text": " Aberrant Source Core Rulebook pg. 195 4.0 Something speaks to you from beyond the stars or below the earth. Ancient and unknowable, this alien influence presses against your mind. Spell List Occult Bloodline Skills Intimidation, Occultism Granted Spells - Cantrip Daze - 1st Spider Sting - 2nd Touch of Idiocy - 3rd Vampiric Touch - 4th Confusion - 5th Black Tentacles - 6th Feeblemind - 7th Warp Mind - 8th Uncontrollable Dance - 9th Unfathomable Song Bloodline Spells - Initial Tentacular Limbs - Advanced Aberrant Whispers - Greater Unusual Anatomy Blood Magic Aberrant whispers shield one target’s mind or your own, granting a +2 status bonus to Will saving throws for 1 round. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Angelic"
+  ],
+  "bloodline_markdown": "Angelic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-2",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Angelic](/Bloodlines.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\n\nOne of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Light](/Spells.aspx?ID=171)\r\n- **1st** [Heal](/Spells.aspx?ID=148)\r\n- **2nd** [Spiritual Weapon](/Spells.aspx?ID=306)\r\n- **3rd** [Searing Light](/Spells.aspx?ID=269)\r\n- **4th** [Divine Wrath](/Spells.aspx?ID=86)\r\n- **5th** [Flame Strike](/Spells.aspx?ID=120)\r\n- **6th** [Blade Barrier](/Spells.aspx?ID=24)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=82)\r\n- **8th** [Divine Aura](/Spells.aspx?ID=81)\r\n- **9th** [Foresight](/Spells.aspx?ID=127)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Angelic Halo](/Spells.aspx?ID=494)\r\n- **Advanced** [Angelic Wings](/Spells.aspx?ID=495)\r\n- **Greater** [Celestial Brand](/Spells.aspx?ID=497)\r\n\r\n**Blood Magic**\r\nAn angelic aura protects you or one target, granting a +1 status bonus to saving throws for 1 round.\r\n\r\n</column>",
+  "name": "Angelic",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-20"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.\r\n</summary>",
+  "skill": [
+   "Diplomacy",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Light",
+   "Heal",
+   "Spiritual Weapon",
+   "Searing Light",
+   "Divine Wrath",
+   "Flame Strike",
+   "Blade Barrier",
+   "Divine Decree",
+   "Divine Aura",
+   "Foresight",
+   "Angelic Halo",
+   "Angelic Wings",
+   "Celestial Brand"
+  ],
+  "spell_markdown": "[Angelic Halo](/Spells.aspx?ID=494), [Angelic Wings](/Spells.aspx?ID=495), [Blade Barrier](/Spells.aspx?ID=24), [Celestial Brand](/Spells.aspx?ID=497), [Divine Aura](/Spells.aspx?ID=81), [Divine Decree](/Spells.aspx?ID=82), [Divine Wrath](/Spells.aspx?ID=86), [Flame Strike](/Spells.aspx?ID=120), [Foresight](/Spells.aspx?ID=127), [Heal](/Spells.aspx?ID=148), [Light](/Spells.aspx?ID=171), [Searing Light](/Spells.aspx?ID=269), [Spiritual Weapon](/Spells.aspx?ID=306)",
+  "summary": "One of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.",
+  "summary_markdown": "One of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed.",
+  "text": " Angelic Source Core Rulebook pg. 195 4.0 One of your forebears hailed from a celestial realm, or your ancestors’ devotion led to their lineage being blessed. Spell List Divine Bloodline Skills Diplomacy, Religion Granted Spells - Cantrip Light - 1st Heal - 2nd Spiritual Weapon - 3rd Searing Light - 4th Divine Wrath - 5th Flame Strike - 6th Blade Barrier - 7th Divine Decree - 8th Divine Aura - 9th Foresight Bloodline Spells - Initial Angelic Halo - Advanced Angelic Wings - Greater Celestial Brand Blood Magic An angelic aura protects you or one target, granting a +1 status bonus to saving throws for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Demonic"
+  ],
+  "bloodline_markdown": "Demonic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-3",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Demonic](/Bloodlines.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\n\nDemons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Acid Splash](/Spells.aspx?ID=3)\r\n- **1st** [Fear](/Spells.aspx?ID=110)\r\n- **2nd** [Enlarge](/Spells.aspx?ID=102)\r\n- **3rd** [Slow](/Spells.aspx?ID=289)\r\n- **4th** [Divine Wrath](/Spells.aspx?ID=86)\r\n- **5th** [Abyssal Plague](/Spells.aspx?ID=1)\r\n- **6th** [Disintegrate](/Spells.aspx?ID=76)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=82)\r\n- **8th** [Divine Aura](/Spells.aspx?ID=81)\r\n- **9th** [Implosion](/Spells.aspx?ID=162)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Glutton's Jaw](/Spells.aspx?ID=511)\r\n- **Advanced** [Swamp of Sloth](/Spells.aspx?ID=516)\r\n- **Greater** [Abyssal Wrath](/Spells.aspx?ID=492)\r\n\r\n**Blood Magic**\r\nThe corruption of sin weakens a target’s defenses or makes you more imposing. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +1 status bonus to Intimidation checks for 1 round.\r\n\r\n</column>",
+  "name": "Demonic",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-21"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDemons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 195 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Acid Splash",
+   "Fear",
+   "Enlarge",
+   "Slow",
+   "Divine Wrath",
+   "Abyssal Plague",
+   "Disintegrate",
+   "Divine Decree",
+   "Divine Aura",
+   "Implosion",
+   "Glutton's Jaw",
+   "Swamp of Sloth",
+   "Abyssal Wrath"
+  ],
+  "spell_markdown": "[Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Wrath](/Spells.aspx?ID=492), [Acid Splash](/Spells.aspx?ID=3), [Disintegrate](/Spells.aspx?ID=76), [Divine Aura](/Spells.aspx?ID=81), [Divine Decree](/Spells.aspx?ID=82), [Divine Wrath](/Spells.aspx?ID=86), [Enlarge](/Spells.aspx?ID=102), [Fear](/Spells.aspx?ID=110), [Glutton's Jaw](/Spells.aspx?ID=511), [Implosion](/Spells.aspx?ID=162), [Slow](/Spells.aspx?ID=289), [Swamp of Sloth](/Spells.aspx?ID=516)",
+  "summary": "Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.",
+  "summary_markdown": "Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin.",
+  "text": " Demonic Source Core Rulebook pg. 195 4.0 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you are burdened by that sin. Spell List Divine Bloodline Skills Intimidation, Religion Granted Spells - Cantrip Acid Splash - 1st Fear - 2nd Enlarge - 3rd Slow - 4th Divine Wrath - 5th Abyssal Plague - 6th Disintegrate - 7th Divine Decree - 8th Divine Aura - 9th Implosion Bloodline Spells - Initial Glutton's Jaw - Advanced Swamp of Sloth - Greater Abyssal Wrath Blood Magic The corruption of sin weakens a target’s defenses or makes you more imposing. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +1 status bonus to Intimidation checks for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Diabolic"
+  ],
+  "bloodline_markdown": "Diabolic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-4",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Diabolic](/Bloodlines.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\n\nDevils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Produce Flame](/Spells.aspx?ID=236)\r\n- **1st** [Charm](/Spells.aspx?ID=34)\r\n- **2nd** [Flaming Sphere](/Spells.aspx?ID=121)\r\n- **3rd** [Enthrall](/Spells.aspx?ID=104)\r\n- **4th** [Suggestion](/Spells.aspx?ID=315)\r\n- **5th** [Crushing Despair](/Spells.aspx?ID=57)\r\n- **6th** [True Seeing](/Spells.aspx?ID=344)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=82)\r\n- **8th** [Divine Aura](/Spells.aspx?ID=81)\r\n- **9th** [Meteor Swarm](/Spells.aspx?ID=191)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Diabolic Edict](/Spells.aspx?ID=498)\r\n- **Advanced** [Embrace the Pit](/Spells.aspx?ID=506)\r\n- **Greater** [Hellfire Plume](/Spells.aspx?ID=513)\r\n\r\n**Blood Magic**\r\nHellfire scorches a target or fills your tongue with lies. Either a target takes 1 fire damage per spell level (if the spell already deals initial fire damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to Deception checks for 1 round.\r\n\r\n</column>",
+  "name": "Diabolic",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 196",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-22"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDevils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 196"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Produce Flame",
+   "Charm",
+   "Flaming Sphere",
+   "Enthrall",
+   "Suggestion",
+   "Crushing Despair",
+   "True Seeing",
+   "Divine Decree",
+   "Divine Aura",
+   "Meteor Swarm",
+   "Diabolic Edict",
+   "Embrace the Pit",
+   "Hellfire Plume"
+  ],
+  "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Crushing Despair](/Spells.aspx?ID=57), [Diabolic Edict](/Spells.aspx?ID=498), [Divine Aura](/Spells.aspx?ID=81), [Divine Decree](/Spells.aspx?ID=82), [Embrace the Pit](/Spells.aspx?ID=506), [Enthrall](/Spells.aspx?ID=104), [Flaming Sphere](/Spells.aspx?ID=121), [Hellfire Plume](/Spells.aspx?ID=513), [Meteor Swarm](/Spells.aspx?ID=191), [Produce Flame](/Spells.aspx?ID=236), [Suggestion](/Spells.aspx?ID=315), [True Seeing](/Spells.aspx?ID=344)",
+  "summary": "Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.",
+  "summary_markdown": "Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.",
+  "text": " Diabolic Source Core Rulebook pg. 196 4.0 Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact. Spell List Divine Bloodline Skills Deception, Religion Granted Spells - Cantrip Produce Flame - 1st Charm - 2nd Flaming Sphere - 3rd Enthrall - 4th Suggestion - 5th Crushing Despair - 6th True Seeing - 7th Divine Decree - 8th Divine Aura - 9th Meteor Swarm Bloodline Spells - Initial Diabolic Edict - Advanced Embrace the Pit - Greater Hellfire Plume Blood Magic Hellfire scorches a target or fills your tongue with lies. Either a target takes 1 fire damage per spell level (if the spell already deals initial fire damage, combine this with the spell’s initial damage before determining weaknesses and resistances), or you gain a +1 status bonus to Deception checks for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Draconic"
+  ],
+  "bloodline_markdown": "Draconic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-5",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Draconic](/Bloodlines.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) The [_wyrmblessed_](/Bloodlines.aspx?ID=17) sorcerer bloodline provides options for primal and imperial dragons. Character with a similar draconic connection, such as draconic bloodline sorcerors or draconic instinct barbarians, can also select from these dragon types. You must own a copy of Lost Omens: The Mwangi Expanse to select these options._\r\n\r\nThe blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Intimidation](/Skills.aspx?ID=7)\n\n**Granted Spells**\r\n- **Cantrip** [Shield](/Spells.aspx?ID=280)\r\n- **1st** [True Strike](/Spells.aspx?ID=345)\r\n- **2nd** [Resist Energy](/Spells.aspx?ID=256)\r\n- **3rd** [Haste](/Spells.aspx?ID=147)\r\n- **4th** [Spell Immunity](/Spells.aspx?ID=296)\r\n- **5th** [Chromatic Wall](/Spells.aspx?ID=37)\r\n- **6th** [Dragon Form](/Spells.aspx?ID=88)\r\n- **7th** [Mask of Terror](/Spells.aspx?ID=185)\r\n- **8th** [Prismatic Wall](/Spells.aspx?ID=234)\r\n- **9th** [Overwhelming Presence](/Spells.aspx?ID=212)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Dragon Claws](/Spells.aspx?ID=500)\r\n- **Advanced** [Dragon Breath](/Spells.aspx?ID=499)\r\n- **Greater** [Dragon Wings](/Spells.aspx?ID=501)\r\n\r\n**Blood Magic**\r\nDraconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Dragon Type</title>\r\n\r\nAt 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This choice affects how some of your bloodline spells function. The good metallic dragons and their damage types are [brass](/MonsterFamilies.aspx?ID=170) (fire), [bronze](/MonsterFamilies.aspx?ID=171) (electricity), [copper](/MonsterFamilies.aspx?ID=172) (acid), [gold](/MonsterFamilies.aspx?ID=173) (fire), and [silver](/MonsterFamilies.aspx?ID=174) (cold). The evil chromatic dragons and their damage types are [black](/MonsterFamilies.aspx?ID=165) (acid), [blue](/MonsterFamilies.aspx?ID=166) (electricity), [green](/MonsterFamilies.aspx?ID=167) (poison), [red](/MonsterFamilies.aspx?ID=168) (fire), and [white](/MonsterFamilies.aspx?ID=169) (cold).\r\n\r\n<title level=\"2\">Related Bloodlines</title>\r\n\r\n**Source** [_Mwangi Expanse pg. 76_](https://paizo.com/products/btq027ot)<br />Because the [wyrmblessed](/Bloodlines.aspx?ID=17) and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.\n\n<title level=\"3\">Cloud dragon bloodline</title>\r\n**Source** [_Pathfinder #171: Hurricane's Howl pg. 78_](https://paizo.com/products/btq027kb)\n<table> <tr><td>**Dragon Type**</td><td>**Area and Damage Type**</td><td>**Saving Throw**</td></tr> <tr><td>Cloud</td><td>30-foot cone of electricity</td><td>Reflex</td></tr></table>",
+  "name": "Draconic",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 196",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-23"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Intimidation](/Skills.aspx?ID=7)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.\r\n</summary>",
+  "skill": [
+   "Arcana",
+   "Intimidation"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 196"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Shield",
+   "True Strike",
+   "Resist Energy",
+   "Haste",
+   "Spell Immunity",
+   "Chromatic Wall",
+   "Dragon Form",
+   "Mask of Terror",
+   "Prismatic Wall",
+   "Overwhelming Presence",
+   "Dragon Claws",
+   "Dragon Breath",
+   "Dragon Wings"
+  ],
+  "spell_markdown": "[Chromatic Wall](/Spells.aspx?ID=37), [Dragon Breath](/Spells.aspx?ID=499), [Dragon Claws](/Spells.aspx?ID=500), [Dragon Form](/Spells.aspx?ID=88), [Dragon Wings](/Spells.aspx?ID=501), [Haste](/Spells.aspx?ID=147), [Mask of Terror](/Spells.aspx?ID=185), [Overwhelming Presence](/Spells.aspx?ID=212), [Prismatic Wall](/Spells.aspx?ID=234), [Resist Energy](/Spells.aspx?ID=256), [Shield](/Spells.aspx?ID=280), [Spell Immunity](/Spells.aspx?ID=296), [True Strike](/Spells.aspx?ID=345)",
+  "summary": "The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.",
+  "summary_markdown": "The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.",
+  "text": " Draconic Source Core Rulebook pg. 196 4.0 PFS Note The wyrmblessed sorcerer bloodline provides options for primal and imperial dragons. Character with a similar draconic connection, such as draconic bloodline sorcerors or draconic instinct barbarians, can also select from these dragon types. You must own a copy of Lost Omens: The Mwangi Expanse to select these options. The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic. Spell List Arcane Bloodline Skills Arcana, Intimidation Granted Spells - Cantrip Shield - 1st True Strike - 2nd Resist Energy - 3rd Haste - 4th Spell Immunity - 5th Chromatic Wall - 6th Dragon Form - 7th Mask of Terror - 8th Prismatic Wall - 9th Overwhelming Presence Bloodline Spells - Initial Dragon Claws - Advanced Dragon Breath - Greater Dragon Wings Blood Magic Draconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round. Dragon Type At 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This choice affects how some of your bloodline spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold). Related Bloodlines Source Mwangi Expanse pg. 76 Because the wyrmblessed and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements. Cloud dragon bloodline Source Pathfinder #171: Hurricane's Howl pg. 78 Dragon Type Area and Damage Type Saving Throw Cloud 30-foot cone of electricity Reflex ",
+  "tradition": [
+   "Arcane"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Elemental"
+  ],
+  "bloodline_markdown": "Elemental",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-6",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Elemental](/Bloodlines.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\n\nA genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells marked with an asterisk (*), as well as your blood magic, function.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Spells**\r\n- **Cantrip** [Produce Flame](/Spells.aspx?ID=236)*\r\n- **1st** [Burning Hands](/Spells.aspx?ID=30)*\r\n- **2nd** [Resist Energy](/Spells.aspx?ID=256)\r\n- **3rd** [Fireball](/Spells.aspx?ID=119)*\r\n- **4th** [Freedom of Movement](/Spells.aspx?ID=128)\r\n- **5th** [Elemental Form](/Spells.aspx?ID=98)\r\n- **6th** [Repulsion](/Spells.aspx?ID=254)\r\n- **7th** [Energy Aegis](/Spells.aspx?ID=100)\r\n- **8th** [Prismatic Wall](/Spells.aspx?ID=234)\r\n- **9th** [Storm of Vengeance](/Spells.aspx?ID=313)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Elemental Toss](/Spells.aspx?ID=505)*\r\n- **Advanced** [Elemental Motion](/Spells.aspx?ID=504)\r\n- **Greater** [Elemental Blast](/Spells.aspx?ID=503)*\r\n\r\n**Blood Magic**\r\nElemental energy surrounds you or a target. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning or fire, according to your elemental type (see below). If the spell already deals that type of damage, combine it with the spell’s initial damage before determining weaknesses and resistances.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Elemental Type</title>\r\n\r\nChoose the type of elemental that influenced your bloodline: air, earth, fire, or water. If your element is air, you buffet your foes with powerful winds; if it's earth, you toss huge chunks of rock; if it's fire, you incinerate your foes with flame; and if it's water, you inundate your foes with torrents of water. For fire, all marked spells deal fire damage. For other elements, they deal bludgeoning damage. You replace any existing elemental traits with the trait of the element you chose.",
+  "name": "Elemental",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 196",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-24"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Nature](/Skills.aspx?ID=10)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells …\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 196"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 196 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Produce Flame",
+   "Burning Hands",
+   "Resist Energy",
+   "Fireball",
+   "Freedom of Movement",
+   "Elemental Form",
+   "Repulsion",
+   "Energy Aegis",
+   "Prismatic Wall",
+   "Storm of Vengeance",
+   "Elemental Toss",
+   "Elemental Motion",
+   "Elemental Blast"
+  ],
+  "spell_markdown": "[Burning Hands](/Spells.aspx?ID=30), [Elemental Blast](/Spells.aspx?ID=503), [Elemental Form](/Spells.aspx?ID=98), [Elemental Motion](/Spells.aspx?ID=504), [Elemental Toss](/Spells.aspx?ID=505), [Energy Aegis](/Spells.aspx?ID=100), [Fireball](/Spells.aspx?ID=119), [Freedom of Movement](/Spells.aspx?ID=128), [Prismatic Wall](/Spells.aspx?ID=234), [Produce Flame](/Spells.aspx?ID=236), [Repulsion](/Spells.aspx?ID=254), [Resist Energy](/Spells.aspx?ID=256), [Storm of Vengeance](/Spells.aspx?ID=313)",
+  "summary": "A genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells …",
+  "summary_markdown": "A genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells …",
+  "text": " Elemental Source Core Rulebook pg. 196 4.0 A genie ancestor or some other elemental influence has imbued your blood with primal fury, affecting how the bloodline spells and granted spells marked with an asterisk ( ), as well as your blood magic, function. Spell List Primal Bloodline Skills Intimidation, Nature Granted Spells - Cantrip Produce Flame - 1st Burning Hands - 2nd Resist Energy - 3rd Fireball - 4th Freedom of Movement - 5th Elemental Form - 6th Repulsion - 7th Energy Aegis - 8th Prismatic Wall - 9th Storm of Vengeance Bloodline Spells - Initial Elemental Toss - Advanced Elemental Motion - Greater Elemental Blast Blood Magic Elemental energy surrounds you or a target. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell level. The damage is bludgeoning or fire, according to your elemental type (see below). If the spell already deals that type of damage, combine it with the spell’s initial damage before determining weaknesses and resistances. Elemental Type Choose the type of elemental that influenced your bloodline: air, earth, fire, or water. If your element is air, you buffet your foes with powerful winds; if it's earth, you toss huge chunks of rock; if it's fire, you incinerate your foes with flame; and if it's water, you inundate your foes with torrents of water. For fire, all marked spells deal fire damage. For other elements, they deal bludgeoning damage. You replace any existing elemental traits with the trait of the element you chose.",
+  "tradition": [
+   "Primal"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Fey"
+  ],
+  "bloodline_markdown": "Fey",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-7",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Fey](/Bloodlines.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>\n\nFey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Spells**\r\n- **Cantrip** [Ghost Sound](/Spells.aspx?ID=132)\r\n- **1st** [Charm](/Spells.aspx?ID=34)\r\n- **2nd** [Hideous Laughter](/Spells.aspx?ID=150)\r\n- **3rd** [Enthrall](/Spells.aspx?ID=104)\r\n- **4th** [Suggestion](/Spells.aspx?ID=315)\r\n- **5th** [Cloak of Colors](/Spells.aspx?ID=41)\r\n- **6th** [Mislead](/Spells.aspx?ID=199)\r\n- **7th** [Visions of Danger](/Spells.aspx?ID=358)\r\n- **8th** [Uncontrollable Dance](/Spells.aspx?ID=347)\r\n- **9th** [Resplendent Mansion](/Spells.aspx?ID=257)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Faerie Dust](/Spells.aspx?ID=508)\r\n- **Advanced** [Fey Disappearance](/Spells.aspx?ID=509)\r\n- **Greater** [Fey Glamour](/Spells.aspx?ID=510)\r\n\r\n**Blood Magic**\r\nColorful fey glamours dance around you or one target, causing them to be concealed for 1 round. Such obvious concealment can’t be used to Hide.\r\n\r\n</column>",
+  "name": "Fey",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 197",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-25"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Nature](/Skills.aspx?ID=10)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 197"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Ghost Sound",
+   "Charm",
+   "Hideous Laughter",
+   "Enthrall",
+   "Suggestion",
+   "Cloak of Colors",
+   "Mislead",
+   "Visions of Danger",
+   "Uncontrollable Dance",
+   "Resplendent Mansion",
+   "Faerie Dust",
+   "Fey Disappearance",
+   "Fey Glamour"
+  ],
+  "spell_markdown": "[Charm](/Spells.aspx?ID=34), [Cloak of Colors](/Spells.aspx?ID=41), [Enthrall](/Spells.aspx?ID=104), [Faerie Dust](/Spells.aspx?ID=508), [Fey Disappearance](/Spells.aspx?ID=509), [Fey Glamour](/Spells.aspx?ID=510), [Ghost Sound](/Spells.aspx?ID=132), [Hideous Laughter](/Spells.aspx?ID=150), [Mislead](/Spells.aspx?ID=199), [Resplendent Mansion](/Spells.aspx?ID=257), [Suggestion](/Spells.aspx?ID=315), [Uncontrollable Dance](/Spells.aspx?ID=347), [Visions of Danger](/Spells.aspx?ID=358)",
+  "summary": "Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.",
+  "summary_markdown": "Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline.",
+  "text": " Fey Source Core Rulebook pg. 197 4.0 Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family’s bloodline. Spell List Primal Bloodline Skills Deception, Nature Granted Spells - Cantrip Ghost Sound - 1st Charm - 2nd Hideous Laughter - 3rd Enthrall - 4th Suggestion - 5th Cloak of Colors - 6th Mislead - 7th Visions of Danger - 8th Uncontrollable Dance - 9th Resplendent Mansion Bloodline Spells - Initial Faerie Dust - Advanced Fey Disappearance - Greater Fey Glamour Blood Magic Colorful fey glamours dance around you or one target, causing them to be concealed for 1 round. Such obvious concealment can’t be used to Hide. ",
+  "tradition": [
+   "Primal"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Hag"
+  ],
+  "bloodline_markdown": "Hag",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-8",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Hag](/Bloodlines.aspx?ID=8)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>\n\nA hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Occultism](/Skills.aspx?ID=11)\n\n**Granted Spells**\r\n- **Cantrip** [Daze](/Spells.aspx?ID=61)\r\n- **1st** [Illusory Disguise](/Spells.aspx?ID=159)\r\n- **2nd** [Touch of Idiocy](/Spells.aspx?ID=341)\r\n- **3rd** [Blindness](/Spells.aspx?ID=26)\r\n- **4th** [Outcast's Curse](/Spells.aspx?ID=211)\r\n- **5th** [Mariner's Curse](/Spells.aspx?ID=184)\r\n- **6th** [Baleful Polymorph](/Spells.aspx?ID=17)\r\n- **7th** [Warp Mind](/Spells.aspx?ID=369)\r\n- **8th** [Spiritual Epidemic](/Spells.aspx?ID=304)\r\n- **9th** [Nature's Enmity](/Spells.aspx?ID=205)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Jealous Hex](/Spells.aspx?ID=515)\r\n- **Advanced** [Horrific Visage](/Spells.aspx?ID=514)\r\n- **Greater** [You're Mine](/Spells.aspx?ID=520)\r\n\r\n**Blood Magic**\r\nSpiteful curses punish your foes. The first creature that deals damage to you before the end of your next turn takes 2 mental damage per spell level and must attempt a basic Will save.\r\n\r\n</column>",
+  "name": "Hag",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 197",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-26"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=5),\r\n[Occultism](/Skills.aspx?ID=11)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Occultism"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 197"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 197 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Daze",
+   "Illusory Disguise",
+   "Nature's Enmity",
+   "Touch of Idiocy",
+   "Blindness",
+   "Outcast's Curse",
+   "Mariner's Curse",
+   "Baleful Polymorph",
+   "Warp Mind",
+   "Spiritual Epidemic",
+   "Jealous Hex",
+   "You're Mine",
+   "Horrific Visage"
+  ],
+  "spell_markdown": "[Baleful Polymorph](/Spells.aspx?ID=17), [Blindness](/Spells.aspx?ID=26), [Daze](/Spells.aspx?ID=61), [Horrific Visage](/Spells.aspx?ID=514), [Illusory Disguise](/Spells.aspx?ID=159), [Jealous Hex](/Spells.aspx?ID=515), [Mariner's Curse](/Spells.aspx?ID=184), [Nature's Enmity](/Spells.aspx?ID=205), [Outcast's Curse](/Spells.aspx?ID=211), [Spiritual Epidemic](/Spells.aspx?ID=304), [Touch of Idiocy](/Spells.aspx?ID=341), [Warp Mind](/Spells.aspx?ID=369), [You're Mine](/Spells.aspx?ID=520)",
+  "summary": "A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.",
+  "summary_markdown": "A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul.",
+  "text": " Hag Source Core Rulebook pg. 197 4.0 A hag long ago cursed your family, or you are a descendant of a hag or changeling, and their accursed corruption infests your blood and soul. Spell List Occult Bloodline Skills Deception, Occultism Granted Spells - Cantrip Daze - 1st Illusory Disguise - 2nd Touch of Idiocy - 3rd Blindness - 4th Outcast's Curse - 5th Mariner's Curse - 6th Baleful Polymorph - 7th Warp Mind - 8th Spiritual Epidemic - 9th Nature's Enmity Bloodline Spells - Initial Jealous Hex - Advanced Horrific Visage - Greater You're Mine Blood Magic Spiteful curses punish your foes. The first creature that deals damage to you before the end of your next turn takes 2 mental damage per spell level and must attempt a basic Will save. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Imperial"
+  ],
+  "bloodline_markdown": "Imperial",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-9",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Imperial](/Bloodlines.aspx?ID=9)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>\n\nOne of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Society](/Skills.aspx?ID=14)\n\n**Granted Spells**\r\n- **Cantrip** [Detect Magic](/Spells.aspx?ID=66)\r\n- **1st** [Magic Missile](/Spells.aspx?ID=180)\r\n- **2nd** [Dispel Magic](/Spells.aspx?ID=78)\r\n- **3rd** [Haste](/Spells.aspx?ID=147)\r\n- **4th** [Dimension Door](/Spells.aspx?ID=69)\r\n- **5th** [Prying Eye](/Spells.aspx?ID=239)\r\n- **6th** [Disintegrate](/Spells.aspx?ID=76)\r\n- **7th** [Prismatic Spray](/Spells.aspx?ID=233)\r\n- **8th** [Maze](/Spells.aspx?ID=187)\r\n- **9th** [Prismatic Sphere](/Spells.aspx?ID=232)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Ancestral Memories](/Spells.aspx?ID=493)\r\n- **Advanced** [Extend Spell](/Spells.aspx?ID=507)\r\n- **Greater** [Arcane Countermeasure](/Spells.aspx?ID=496)\r\n\r\n**Blood Magic**\r\nA surge of ancestral memories grants you or one target a +1 status bonus to skill checks for 1 round.\r\n\r\n</column>",
+  "name": "Imperial",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-27"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Society](/Skills.aspx?ID=14)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.\r\n</summary>",
+  "skill": [
+   "Arcana",
+   "Society"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Magic Missile",
+   "Dispel Magic",
+   "Haste",
+   "Dimension Door",
+   "Prying Eye",
+   "Disintegrate",
+   "Prismatic Spray",
+   "Prismatic Sphere",
+   "Maze",
+   "Ancestral Memories",
+   "Extend Spell",
+   "Arcane Countermeasure"
+  ],
+  "spell_markdown": "[Ancestral Memories](/Spells.aspx?ID=493), [Arcane Countermeasure](/Spells.aspx?ID=496), [Detect Magic](/Spells.aspx?ID=66), [Dimension Door](/Spells.aspx?ID=69), [Disintegrate](/Spells.aspx?ID=76), [Dispel Magic](/Spells.aspx?ID=78), [Extend Spell](/Spells.aspx?ID=507), [Haste](/Spells.aspx?ID=147), [Magic Missile](/Spells.aspx?ID=180), [Maze](/Spells.aspx?ID=187), [Prismatic Sphere](/Spells.aspx?ID=232), [Prismatic Spray](/Spells.aspx?ID=233), [Prying Eye](/Spells.aspx?ID=239)",
+  "summary": "One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.",
+  "summary_markdown": "One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full.",
+  "text": " Imperial Source Core Rulebook pg. 198 4.0 One of your ancestors was a mortal who mastered magic. Such magical blood can remain latent for generations, but in you it manifested in full. Spell List Arcane Bloodline Skills Arcana, Society Granted Spells - Cantrip Detect Magic - 1st Magic Missile - 2nd Dispel Magic - 3rd Haste - 4th Dimension Door - 5th Prying Eye - 6th Disintegrate - 7th Prismatic Spray - 8th Maze - 9th Prismatic Sphere Bloodline Spells - Initial Ancestral Memories - Advanced Extend Spell - Greater Arcane Countermeasure Blood Magic A surge of ancestral memories grants you or one target a +1 status bonus to skill checks for 1 round. ",
+  "tradition": [
+   "Arcane"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Undead"
+  ],
+  "bloodline_markdown": "Undead",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-10",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Undead](/Bloodlines.aspx?ID=10)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>\n\nThe touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit different.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Chill Touch](/Spells.aspx?ID=35)\r\n- **1st** [Harm](/Spells.aspx?ID=146)\r\n- **2nd** [False Life](/Spells.aspx?ID=108)\r\n- **3rd** [Bind Undead](/Spells.aspx?ID=22)\r\n- **4th** [Talking Corpse](/Spells.aspx?ID=329)\r\n- **5th** [Cloudkill](/Spells.aspx?ID=42)\r\n- **6th** [Vampiric Exsanguination](/Spells.aspx?ID=353)\r\n- **7th** [Finger of Death](/Spells.aspx?ID=116)\r\n- **8th** [Horrid Wilting](/Spells.aspx?ID=152)\r\n- **9th** [Wail of the Banshee](/Spells.aspx?ID=361)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Undeath's Blessing](/Spells.aspx?ID=518)\r\n- **Advanced** [Drain Life](/Spells.aspx?ID=502)\r\n- **Greater** [Grasping Grave](/Spells.aspx?ID=512)\r\n\r\n**Blood Magic**\r\nNecromantic energy flows through you or one target. Either you gain temporary Hit Points equal to the spell’s level for 1 round, or a target takes 1 negative damage per spell level (if the spell already deals initial negative damage, combine this with the spell’s initial damage before determining weaknesses and resistances).\r\n\r\n</column>",
+  "name": "Undead",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "bloodline-28"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit …\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 198 <sup>4.0</sup>",
+  "speed": {},
+  "spell": [
+   "Chill Touch",
+   "Harm",
+   "False Life",
+   "Bind Undead",
+   "Talking Corpse",
+   "Cloudkill",
+   "Vampiric Exsanguination",
+   "Finger of Death",
+   "Horrid Wilting",
+   "Wail of the Banshee",
+   "Undeath's Blessing",
+   "Drain Life",
+   "Grasping Grave"
+  ],
+  "spell_markdown": "[Bind Undead](/Spells.aspx?ID=22), [Chill Touch](/Spells.aspx?ID=35), [Cloudkill](/Spells.aspx?ID=42), [Drain Life](/Spells.aspx?ID=502), [False Life](/Spells.aspx?ID=108), [Finger of Death](/Spells.aspx?ID=116), [Grasping Grave](/Spells.aspx?ID=512), [Harm](/Spells.aspx?ID=146), [Horrid Wilting](/Spells.aspx?ID=152), [Talking Corpse](/Spells.aspx?ID=329), [Undeath's Blessing](/Spells.aspx?ID=518), [Vampiric Exsanguination](/Spells.aspx?ID=353), [Wail of the Banshee](/Spells.aspx?ID=361)",
+  "summary": "The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit …",
+  "summary_markdown": "The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit …",
+  "text": " Undead Source Core Rulebook pg. 198 4.0 The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire, or perhaps you died and returned a bit different. Spell List Divine Bloodline Skills Intimidation, Religion Granted Spells - Cantrip Chill Touch - 1st Harm - 2nd False Life - 3rd Bind Undead - 4th Talking Corpse - 5th Cloudkill - 6th Vampiric Exsanguination - 7th Finger of Death - 8th Horrid Wilting - 9th Wail of the Banshee Bloodline Spells - Initial Undeath's Blessing - Advanced Drain Life - Greater Grasping Grave Blood Magic Necromantic energy flows through you or one target. Either you gain temporary Hit Points equal to the spell’s level for 1 round, or a target takes 1 negative damage per spell level (if the spell already deals initial negative damage, combine this with the spell’s initial damage before determining weaknesses and resistances). ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Genie"
+  ],
+  "bloodline_markdown": "Genie",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-11",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Genie](/Bloodlines.aspx?ID=11)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\n\nThrough lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Deception](/Skills.aspx?ID=5)\n\n**Granted Spells**\r\n- **Cantrip** [Detect Magic](/Spells.aspx?ID=66)\r\n- **1st** [Illusory Disguise](/Spells.aspx?ID=159)\r\n- **2nd** variable\r\n- **3rd** [Enthrall](/Spells.aspx?ID=104)\r\n- **4th** [Creation](/Spells.aspx?ID=54)\r\n- **5th** variable\r\n- **6th** [True Seeing](/Spells.aspx?ID=344)\r\n- **7th** [Energy Aegis](/Spells.aspx?ID=100)\r\n- **8th** variable\r\n- **9th** [Resplendent Mansion](/Spells.aspx?ID=257)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Genie's Veil](/Spells.aspx?ID=783)\r\n- **Advanced** [Heart's Desire](/Spells.aspx?ID=784)\r\n- **Greater** [Wish-Twisted Form](/Spells.aspx?ID=790)\r\n\r\n**Blood Magic**\r\nYour spellcasting warps reality and distracts your foes. Either you gain a +1 status bonus to [Deception](/Skills.aspx?ID=5) checks for 1 round, or a target takes a –1 status penalty to Perception for 1 round.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Genie Type</title>\r\n\r\nAt 1st level, choose the type of genie that influenced your bloodline: [janni](/Monsters.aspx?ID=211), [djinni](/Monsters.aspx?ID=212), [efreeti](/Monsters.aspx?ID=214), [marid](/Monsters.aspx?ID=215), or [shaitan](/Monsters.aspx?ID=213). You can't change your genie type later. This determines what granted spells you receive at 2nd, 5th, and 8th level. \n<ul><li>**Janni** 2nd: [_create food_](/Spells.aspx?ID=52); 5th: [_banishment_](/Spells.aspx?ID=19); 8th: [_scintillating pattern_](/Spells.aspx?ID=267)</li><li>**Djinni** 2nd: [_invisibility_](/Spells.aspx?ID=164); 5th: [_illusory scene_](/Spells.aspx?ID=161); 8th: [_punishing winds_](/Spells.aspx?ID=240)</li><li>**Efreeti** 2nd: [_enlarge_](/Spells.aspx?ID=102); 5th: [_elemental form_](/Spells.aspx?ID=98) (fire only); 8th: [_maze_](/Spells.aspx?ID=187)</li><li>**Marid** 2nd: [_water walk_](/Spells.aspx?ID=371); 5th: [_control water_](/Spells.aspx?ID=51); 8th: [_horrid wilting_](/Spells.aspx?ID=152)</li><li>**Shaitan** 2nd: [_glitterdust_](/Spells.aspx?ID=136); 5th: [_wall of stone_](/Spells.aspx?ID=365); 8th: [_earthquake_](/Spells.aspx?ID=95)</li></ul>",
+  "name": "Genie",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 138",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\r\n\r\n**Spell List**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=2),\r\n[Deception](/Skills.aspx?ID=5)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThrough lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.\r\n</summary>",
+  "skill": [
+   "Arcana",
+   "Deception"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 138"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Illusory Disguise",
+   "Abyssal Plague",
+   "Enthrall",
+   "Creation",
+   "Abyssal Plague",
+   "True Seeing",
+   "Energy Aegis",
+   "Abyssal Plague",
+   "Resplendent Mansion",
+   "Genie's Veil",
+   "Heart's Desire",
+   "Wish-Twisted Form"
+  ],
+  "spell_markdown": "[Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Creation](/Spells.aspx?ID=54), [Detect Magic](/Spells.aspx?ID=66), [Energy Aegis](/Spells.aspx?ID=100), [Enthrall](/Spells.aspx?ID=104), [Genie's Veil](/Spells.aspx?ID=783), [Heart's Desire](/Spells.aspx?ID=784), [Illusory Disguise](/Spells.aspx?ID=159), [Resplendent Mansion](/Spells.aspx?ID=257), [True Seeing](/Spells.aspx?ID=344), [Wish-Twisted Form](/Spells.aspx?ID=790)",
+  "summary": "Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.",
+  "summary_markdown": "Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins.",
+  "text": " Genie Source Advanced Player's Guide pg. 138 2.0 Through lineage, magic, or wishes made real, the blood of a noble genie flows through your veins. Spell List Arcane Bloodline Skills Arcana, Deception Granted Spells - Cantrip Detect Magic - 1st Illusory Disguise - 2nd variable - 3rd Enthrall - 4th Creation - 5th variable - 6th True Seeing - 7th Energy Aegis - 8th variable - 9th Resplendent Mansion Bloodline Spells - Initial Genie's Veil - Advanced Heart's Desire - Greater Wish-Twisted Form Blood Magic Your spellcasting warps reality and distracts your foes. Either you gain a +1 status bonus to Deception checks for 1 round, or a target takes a –1 status penalty to Perception for 1 round. Genie Type At 1st level, choose the type of genie that influenced your bloodline: janni, djinni, efreeti, marid, or shaitan. You can't change your genie type later. This determines what granted spells you receive at 2nd, 5th, and 8th level. Janni 2nd: create food ; 5th: banishment ; 8th: scintillating pattern Djinni 2nd: invisibility ; 5th: illusory scene ; 8th: punishing winds Efreeti 2nd: enlarge ; 5th: elemental form (fire only); 8th: maze Marid 2nd: water walk ; 5th: control water ; 8th: horrid wilting Shaitan 2nd: glitterdust ; 5th: wall of stone ; 8th: earthquake ",
+  "tradition": [
+   "Arcane"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Nymph"
+  ],
+  "bloodline_markdown": "Nymph",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-12",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Nymph](/Bloodlines.aspx?ID=12)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\n\nOne of your ancestors was inspired by a [nymph](/MonsterFamilies.aspx?ID=77), or perhaps was a nymph themself, and now the beauty of nature lives in you.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Spells**\r\n- **Cantrip** [Tanglefoot](/Spells.aspx?ID=330)\r\n- **1st** [Charm](/Spells.aspx?ID=34)\r\n- **2nd** [Calm Emotions](/Spells.aspx?ID=31)\r\n- **3rd** [Animal Vision](/Spells.aspx?ID=12)\r\n- **4th** [Vital Beacon](/Spells.aspx?ID=359)\r\n- **5th** [Crushing Despair](/Spells.aspx?ID=57)\r\n- **6th** [Repulsion](/Spells.aspx?ID=254)\r\n- **7th** [Unfettered Pack](/Spells.aspx?ID=350)\r\n- **8th** [Moment of Renewal](/Spells.aspx?ID=201)\r\n- **9th** [Overwhelming Presence](/Spells.aspx?ID=212)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Nymph's Token](/Spells.aspx?ID=785)\r\n- **Advanced** [Blinding Beauty](/Spells.aspx?ID=779)\r\n- **Greater** [Establish Ward](/Spells.aspx?ID=782)\r\n\r\n**Blood Magic**\r\nNymph grace accentuates your movements and distracts your foes, either granting you a +1 status bonus to [Diplomacy](/Skills.aspx?ID=6) checks for 1 round or imposing a –1 status penalty on one target's Will saves for 1 round.\r\n\r\n</column>",
+  "name": "Nymph",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 138",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Nature](/Skills.aspx?ID=10)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of your ancestors was inspired by a  nymph , or perhaps was a nymph themself, and now the beauty of nature lives in you.\r\n</summary>",
+  "skill": [
+   "Diplomacy",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 138"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Tanglefoot",
+   "Charm",
+   "Calm Emotions",
+   "Animal Vision",
+   "Vital Beacon",
+   "Crushing Despair",
+   "Repulsion",
+   "Unfettered Pack",
+   "Moment of Renewal",
+   "Overwhelming Presence",
+   "Nymph's Token",
+   "Blinding Beauty",
+   "Establish Ward"
+  ],
+  "spell_markdown": "[Animal Vision](/Spells.aspx?ID=12), [Blinding Beauty](/Spells.aspx?ID=779), [Calm Emotions](/Spells.aspx?ID=31), [Charm](/Spells.aspx?ID=34), [Crushing Despair](/Spells.aspx?ID=57), [Establish Ward](/Spells.aspx?ID=782), [Moment of Renewal](/Spells.aspx?ID=201), [Nymph's Token](/Spells.aspx?ID=785), [Overwhelming Presence](/Spells.aspx?ID=212), [Repulsion](/Spells.aspx?ID=254), [Tanglefoot](/Spells.aspx?ID=330), [Unfettered Pack](/Spells.aspx?ID=350), [Vital Beacon](/Spells.aspx?ID=359)",
+  "summary": "One of your ancestors was inspired by a  nymph , or perhaps was a nymph themself, and now the beauty of nature lives in you.",
+  "summary_markdown": "One of your ancestors was inspired by a  nymph , or perhaps was a nymph themself, and now the beauty of nature lives in you.",
+  "text": " Nymph Source Advanced Player's Guide pg. 138 2.0 One of your ancestors was inspired by a nymph, or perhaps was a nymph themself, and now the beauty of nature lives in you. Spell List Primal Bloodline Skills Diplomacy, Nature Granted Spells - Cantrip Tanglefoot - 1st Charm - 2nd Calm Emotions - 3rd Animal Vision - 4th Vital Beacon - 5th Crushing Despair - 6th Repulsion - 7th Unfettered Pack - 8th Moment of Renewal - 9th Overwhelming Presence Bloodline Spells - Initial Nymph's Token - Advanced Blinding Beauty - Greater Establish Ward Blood Magic Nymph grace accentuates your movements and distracts your foes, either granting you a +1 status bonus to Diplomacy checks for 1 round or imposing a –1 status penalty on one target's Will saves for 1 round. ",
+  "tradition": [
+   "Primal"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Psychopomp"
+  ],
+  "bloodline_markdown": "Psychopomp",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-13",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Psychopomp](/Bloodlines.aspx?ID=13)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\n\nFor good or ill, your ancestors' deeds drew the attention of [psychopomps](/MonsterFamilies.aspx?ID=83), or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Disrupt Undead](/Spells.aspx?ID=79)\r\n- **1st** [Heal](/Spells.aspx?ID=148)\r\n- **2nd** [Calm Emotions](/Spells.aspx?ID=31)\r\n- **3rd** [Searing Light](/Spells.aspx?ID=269)\r\n- **4th** [Dimensional Anchor](/Spells.aspx?ID=70)\r\n- **5th** [Death Ward](/Spells.aspx?ID=64)\r\n- **6th** [Spirit Blast](/Spells.aspx?ID=301)\r\n- **7th** [Finger of Death](/Spells.aspx?ID=116)\r\n- **8th** [Spirit Song](/Spells.aspx?ID=303)\r\n- **9th** [Massacre](/Spells.aspx?ID=186)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Sepulchral Mask](/Spells.aspx?ID=786)\r\n- **Advanced** [Spirit Veil](/Spells.aspx?ID=788)\r\n- **Greater** [Shepherd of Souls](/Spells.aspx?ID=787)\r\n\r\n**Blood Magic**\r\nThe border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is undead. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances.\r\n\r\n</column>",
+  "name": "Psychopomp",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 138",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFor good or ill, your ancestors' deeds drew the attention of  psychopomps , or you might somehow count one in your family tree. The presence of these …\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 138"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Disrupt Undead",
+   "Heal",
+   "Calm Emotions",
+   "Searing Light",
+   "Dimensional Anchor",
+   "Death Ward",
+   "Spirit Blast",
+   "Finger of Death",
+   "Spirit Song",
+   "Massacre",
+   "Sepulchral Mask",
+   "Spirit Veil",
+   "Shepherd of Souls"
+  ],
+  "spell_markdown": "[Calm Emotions](/Spells.aspx?ID=31), [Death Ward](/Spells.aspx?ID=64), [Dimensional Anchor](/Spells.aspx?ID=70), [Disrupt Undead](/Spells.aspx?ID=79), [Finger of Death](/Spells.aspx?ID=116), [Heal](/Spells.aspx?ID=148), [Massacre](/Spells.aspx?ID=186), [Searing Light](/Spells.aspx?ID=269), [Sepulchral Mask](/Spells.aspx?ID=786), [Shepherd of Souls](/Spells.aspx?ID=787), [Spirit Blast](/Spells.aspx?ID=301), [Spirit Song](/Spells.aspx?ID=303), [Spirit Veil](/Spells.aspx?ID=788)",
+  "summary": "For good or ill, your ancestors' deeds drew the attention of  psychopomps , or you might somehow count one in your family tree. The presence of these …",
+  "summary_markdown": "For good or ill, your ancestors' deeds drew the attention of  psychopomps , or you might somehow count one in your family tree. The presence of these …",
+  "text": " Psychopomp Source Advanced Player's Guide pg. 138 2.0 For good or ill, your ancestors' deeds drew the attention of psychopomps, or you might somehow count one in your family tree. The presence of these shepherds of souls and enemies of undeath has left an indelible mark on you. Spell List Divine Bloodline Skills Intimidation, Religion Granted Spells - Cantrip Disrupt Undead - 1st Heal - 2nd Calm Emotions - 3rd Searing Light - 4th Dimensional Anchor - 5th Death Ward - 6th Spirit Blast - 7th Finger of Death - 8th Spirit Song - 9th Massacre Bloodline Spells - Initial Sepulchral Mask - Advanced Spirit Veil - Greater Shepherd of Souls Blood Magic The border between life and death becomes blurred to you. Either you gain a +2 status bonus to Fortitude saving throws for 1 round, or a target takes 1 damage per spell level. The damage is negative if the target is living or positive if the target is undead. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Shadow"
+  ],
+  "bloodline_markdown": "Shadow",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-14",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Shadow](/Bloodlines.aspx?ID=14)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\n\nWhether due to a [velstrac's](/MonsterFamilies.aspx?ID=111) manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Occultism](/Skills.aspx?ID=11),\r\n[Stealth](/Skills.aspx?ID=15)\n\n**Granted Spells**\r\n- **Cantrip** [Chill Touch](/Spells.aspx?ID=35)\r\n- **1st** [Grim Tendrils](/Spells.aspx?ID=141)\r\n- **2nd** [Darkness](/Spells.aspx?ID=59)\r\n- **3rd** [Chilling Darkness](/Spells.aspx?ID=36)\r\n- **4th** [Phantasmal Killer](/Spells.aspx?ID=219)\r\n- **5th** [Shadow Siphon](/Spells.aspx?ID=274)\r\n- **6th** [Collective Transposition](/Spells.aspx?ID=43)\r\n- **7th** [Duplicate Foe](/Spells.aspx?ID=93)\r\n- **8th** [Disappearance](/Spells.aspx?ID=73)\r\n- **9th** [Weird](/Spells.aspx?ID=375)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Dim the Light](/Spells.aspx?ID=781)\r\n- **Advanced** [Steal Shadow](/Spells.aspx?ID=789)\r\n- **Greater** [Consuming Darkness](/Spells.aspx?ID=780)\r\n\r\n**Blood Magic**\r\nShadows grow deeper around you or one target, either granting a +1 status bonus to Stealth or imposing a –1 status penalty to Perception for 1 round.\r\n\r\n</column>",
+  "name": "Shadow",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 138",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Occultism](/Skills.aspx?ID=11),\r\n[Stealth](/Skills.aspx?ID=15)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether due to a  velstrac's  manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.\r\n</summary>",
+  "skill": [
+   "Occultism",
+   "Stealth"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 138"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 138 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Chill Touch",
+   "Grim Tendrils",
+   "Darkness",
+   "Chilling Darkness",
+   "Phantasmal Killer",
+   "Shadow Siphon",
+   "Collective Transposition",
+   "Duplicate Foe",
+   "Disappearance",
+   "Weird",
+   "Dim the Light",
+   "Steal Shadow",
+   "Consuming Darkness"
+  ],
+  "spell_markdown": "[Chill Touch](/Spells.aspx?ID=35), [Chilling Darkness](/Spells.aspx?ID=36), [Collective Transposition](/Spells.aspx?ID=43), [Consuming Darkness](/Spells.aspx?ID=780), [Darkness](/Spells.aspx?ID=59), [Dim the Light](/Spells.aspx?ID=781), [Disappearance](/Spells.aspx?ID=73), [Duplicate Foe](/Spells.aspx?ID=93), [Grim Tendrils](/Spells.aspx?ID=141), [Phantasmal Killer](/Spells.aspx?ID=219), [Shadow Siphon](/Spells.aspx?ID=274), [Steal Shadow](/Spells.aspx?ID=789), [Weird](/Spells.aspx?ID=375)",
+  "summary": "Whether due to a  velstrac's  manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.",
+  "summary_markdown": "Whether due to a  velstrac's  manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow.",
+  "text": " Shadow Source Advanced Player's Guide pg. 138 2.0 Whether due to a velstrac's manipulations or a planar jaunt gone horribly wrong, your bloodline was infused with a vein of shadow. Spell List Occult Bloodline Skills Occultism, Stealth Granted Spells - Cantrip Chill Touch - 1st Grim Tendrils - 2nd Darkness - 3rd Chilling Darkness - 4th Phantasmal Killer - 5th Shadow Siphon - 6th Collective Transposition - 7th Duplicate Foe - 8th Disappearance - 9th Weird Bloodline Spells - Initial Dim the Light - Advanced Steal Shadow - Greater Consuming Darkness Blood Magic Shadows grow deeper around you or one target, either granting a +1 status bonus to Stealth or imposing a –1 status penalty to Perception for 1 round. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Phoenix"
+  ],
+  "bloodline_markdown": "Phoenix",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-15",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Limited\">[Phoenix](/Bloodlines.aspx?ID=15)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 74\n\nYou have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual.\n\n Grant this new sorcerer bloodline to players who finish the Fists of the Ruby Phoenix Adventure Path. Players can then choose this bloodline for any new sorcerer characters they create for future campaigns.\n\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Spells**\r\n- **Cantrip** [Detect Magic](/Spells.aspx?ID=66)\r\n- **1st** [Burning Hands](/Spells.aspx?ID=30)\r\n- **2nd** [See Invisibility](/Spells.aspx?ID=271)\r\n- **3rd** [Fireball](/Spells.aspx?ID=119)\r\n- **4th** [Remove Curse](/Spells.aspx?ID=250)\r\n- **5th** [Breath of Life](/Spells.aspx?ID=29)\r\n- **6th** [Disintegrate](/Spells.aspx?ID=76)\r\n- **7th** [Contingency](/Spells.aspx?ID=49)\r\n- **8th** [Moment of Renewal](/Spells.aspx?ID=201)\r\n- **9th** [Meteor Swarm](/Spells.aspx?ID=191)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Rejuvenating Flames](/Spells.aspx?ID=850)\r\n- **Advanced** [Shroud of Flame](/Spells.aspx?ID=851)\r\n- **Greater** [Cleansing Flames](/Spells.aspx?ID=852)\r\n\r\n**Blood Magic**\r\nThe primal fire of life and death flows through you or one target. Choose to have either you or a target of the spell gain temporary Hit Points equal to the spell's level for 1 round, or to have a target of the spell take fire damage equal to the spell's level (if the spell already deals initial fire damage, combine this with the spell's initial damage before determining weaknesses and resistances).\n\n</column>",
+  "name": "Phoenix",
+  "pfs": "Limited",
+  "primary_source": "Pathfinder #168: King of the Mountain",
+  "primary_source_raw": "Pathfinder #168: King of the Mountain pg. 74",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Fists of the Ruby Phoenix",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-07-07",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 74\r\n\r\n**Spell List**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=6),\r\n[Nature](/Skills.aspx?ID=10)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual.   Grant this new sorcerer bloodline to …\r\n</summary>",
+  "skill": [
+   "Diplomacy",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #168: King of the Mountain"
+  ],
+  "source_raw": [
+   "Pathfinder #168: King of the Mountain pg. 74"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Fists of the Ruby Phoenix"
+  ],
+  "source_markdown": "[Pathfinder #168: King of the Mountain](/Sources.aspx?ID=87) pg. 74",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Burning Hands",
+   "See Invisibility",
+   "Fireball",
+   "Remove Curse",
+   "Breath of Life",
+   "Disintegrate",
+   "Contingency",
+   "Moment of Renewal",
+   "Meteor Swarm",
+   "Rejuvenating Flames",
+   "Shroud of Flame",
+   "Cleansing Flames"
+  ],
+  "spell_markdown": "[Breath of Life](/Spells.aspx?ID=29), [Burning Hands](/Spells.aspx?ID=30), [Cleansing Flames](/Spells.aspx?ID=852), [Contingency](/Spells.aspx?ID=49), [Detect Magic](/Spells.aspx?ID=66), [Disintegrate](/Spells.aspx?ID=76), [Fireball](/Spells.aspx?ID=119), [Meteor Swarm](/Spells.aspx?ID=191), [Moment of Renewal](/Spells.aspx?ID=201), [Rejuvenating Flames](/Spells.aspx?ID=850), [Remove Curse](/Spells.aspx?ID=250), [See Invisibility](/Spells.aspx?ID=271), [Shroud of Flame](/Spells.aspx?ID=851)",
+  "spoilers": "Fists of the Ruby Phoenix",
+  "summary": "You have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual.   Grant this new sorcerer bloodline to …",
+  "summary_markdown": "You have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual.   Grant this new sorcerer bloodline to …",
+  "text": " Phoenix Source Pathfinder #168: King of the Mountain pg. 74 You have been blessed by a phoenix, perhaps via some magical interaction with a similarly blessed individual. Grant this new sorcerer bloodline to players who finish the Fists of the Ruby Phoenix Adventure Path. Players can then choose this bloodline for any new sorcerer characters they create for future campaigns. Spell List Primal Bloodline Skills Diplomacy, Nature Granted Spells - Cantrip Detect Magic - 1st Burning Hands - 2nd See Invisibility - 3rd Fireball - 4th Remove Curse - 5th Breath of Life - 6th Disintegrate - 7th Contingency - 8th Moment of Renewal - 9th Meteor Swarm Bloodline Spells - Initial Rejuvenating Flames - Advanced Shroud of Flame - Greater Cleansing Flames Blood Magic The primal fire of life and death flows through you or one target. Choose to have either you or a target of the spell gain temporary Hit Points equal to the spell's level for 1 round, or to have a target of the spell take fire damage equal to the spell's level (if the spell already deals initial fire damage, combine this with the spell's initial damage before determining weaknesses and resistances).\n",
+  "tradition": [
+   "Primal"
+  ],
+  "trait": [
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Uncommon"
+  ],
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Wyrmblessed"
+  ],
+  "bloodline_markdown": "Wyrmblessed",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-17",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Wyrmblessed](/Bloodlines.aspx?ID=17)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 75 <sup>2.0</sup>\n\nYou lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your blood or, perhaps, from a celestial or draconic power blessing one of your ancestors received.\n\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\n\n**Granted Spells**\r\n- **Cantrip** [Read Aura](/Spells.aspx?ID=246)\r\n- **1st** [Mage Armor](/Spells.aspx?ID=176)\r\n- **2nd** [Resist Energy](/Spells.aspx?ID=256)\r\n- **3rd** [Haste](/Spells.aspx?ID=147)\r\n- **4th** [Reflective Scales](/Spells.aspx?ID=583)\r\n- **5th** [Cloak of Colors](/Spells.aspx?ID=41)\r\n- **6th** [Repulsion](/Spells.aspx?ID=254)\r\n- **7th** [Mask of Terror](/Spells.aspx?ID=185)\r\n- **8th** [Divine Inspiration](/Spells.aspx?ID=83)\r\n- **9th** [Overwhelming Presence](/Spells.aspx?ID=212)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Dragon Claws](/Spells.aspx?ID=500)\r\n- **Advanced** [Dragon Breath](/Spells.aspx?ID=499)\r\n- **Greater** [Dragon Wings](/Spells.aspx?ID=501)\r\n\r\n**Blood Magic**\r\nDraconic might carries in your voice. Either you gain a +1 status bonus to [Intimidation](/Skills.aspx?ID=7) checks for 1 round, or a target takes a –1 status penalty to Will saves for 1 round.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Dragon Type</title>\r\n\r\nAt 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This choice affects how some of your bloodline spells function. The good metallic dragons and their damage types are [brass](/MonsterFamilies.aspx?ID=170) (fire), [bronze](/MonsterFamilies.aspx?ID=171) (electricity), [copper](/MonsterFamilies.aspx?ID=172) (acid), [gold](/MonsterFamilies.aspx?ID=173) (fire), and [silver](/MonsterFamilies.aspx?ID=174) (cold). The evil chromatic dragons and their damage types are [black](/MonsterFamilies.aspx?ID=165) (acid), [blue](/MonsterFamilies.aspx?ID=166) (electricity), [green](/MonsterFamilies.aspx?ID=167) (poison), [red](/MonsterFamilies.aspx?ID=168) (fire), and [white](/MonsterFamilies.aspx?ID=169) (cold). The primal dragons of planar origin and their damage types are [brine](/MonsterFamilies.aspx?ID=175) (acid), [cloud](/MonsterFamilies.aspx?ID=176) (electricity), [crystal](/MonsterFamilies.aspx?ID=177) (piercing), [magma](/MonsterFamilies.aspx?ID=178) (fire), and [umbral](/MonsterFamilies.aspx?ID=179) (negative). The imperial dragons and their damage types are [forest](/MonsterFamilies.aspx?ID=227) (piercing), [sea](/MonsterFamilies.aspx?ID=228) (bludgeoning), [sky](/MonsterFamilies.aspx?ID=229) (electricity), [sovereign](/MonsterFamilies.aspx?ID=230) (mental), and [underworld](/MonsterFamilies.aspx?ID=231) (fire). For the [_dragon breath_](/Spells.aspx?ID=499) focus spell, the area is a 60-foot line for a brine dragon; a 30-foot cone for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a 10-foot burst within 30 feet for a sea, sky, or underworld dragon.\r\n\r\n<title level=\"2\">Related Bloodline</title>\r\n\r\nBecause the wyrmblessed and [draconic bloodlines](/Bloodlines.aspx?ID=5) have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.",
+  "name": "Wyrmblessed",
+  "pfs": "Standard",
+  "primary_source": "The Mwangi Expanse",
+  "primary_source_raw": "The Mwangi Expanse pg. 75",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-07-07",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [The Mwangi Expanse](/Sources.aspx?ID=89) pg. 75 <sup>2.0</sup>\r\n\r\n**Spell List**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=7),\r\n[Religion](/Skills.aspx?ID=13)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your …\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "The Mwangi Expanse"
+  ],
+  "source_raw": [
+   "The Mwangi Expanse pg. 75"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[The Mwangi Expanse](/Sources.aspx?ID=89) pg. 75 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Read Aura",
+   "Mage Armor",
+   "Resist Energy",
+   "Haste",
+   "Reflective Scales",
+   "Cloak of Colors",
+   "Repulsion",
+   "Mask of Terror",
+   "Divine Inspiration",
+   "Overwhelming Presence",
+   "Dragon Claws",
+   "Dragon Breath",
+   "Dragon Wings"
+  ],
+  "spell_markdown": "[Cloak of Colors](/Spells.aspx?ID=41), [Divine Inspiration](/Spells.aspx?ID=83), [Dragon Breath](/Spells.aspx?ID=499), [Dragon Claws](/Spells.aspx?ID=500), [Dragon Wings](/Spells.aspx?ID=501), [Haste](/Spells.aspx?ID=147), [Mage Armor](/Spells.aspx?ID=176), [Mask of Terror](/Spells.aspx?ID=185), [Overwhelming Presence](/Spells.aspx?ID=212), [Read Aura](/Spells.aspx?ID=246), [Reflective Scales](/Spells.aspx?ID=583), [Repulsion](/Spells.aspx?ID=254), [Resist Energy](/Spells.aspx?ID=256)",
+  "summary": "You lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your …",
+  "summary_markdown": "You lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your …",
+  "text": " Wyrmblessed Source The Mwangi Expanse pg. 75 2.0 You lay claim to the might of dragons, but your powers are sacred instead of arcane—born from a worship of draconic might so powerful it infused your blood or, perhaps, from a celestial or draconic power blessing one of your ancestors received. Spell List Divine Bloodline Skills Intimidation, Religion Granted Spells - Cantrip Read Aura - 1st Mage Armor - 2nd Resist Energy - 3rd Haste - 4th Reflective Scales - 5th Cloak of Colors - 6th Repulsion - 7th Mask of Terror - 8th Divine Inspiration - 9th Overwhelming Presence Bloodline Spells - Initial Dragon Claws - Advanced Dragon Breath - Greater Dragon Wings Blood Magic Draconic might carries in your voice. Either you gain a +1 status bonus to Intimidation checks for 1 round, or a target takes a –1 status penalty to Will saves for 1 round. Dragon Type At 1st level, choose the type of dragon that influenced your bloodline. You can't change your dragon type later. This choice affects how some of your bloodline spells function. The good metallic dragons and their damage types are brass (fire), bronze (electricity), copper (acid), gold (fire), and silver (cold). The evil chromatic dragons and their damage types are black (acid), blue (electricity), green (poison), red (fire), and white (cold). The primal dragons of planar origin and their damage types are brine (acid), cloud (electricity), crystal (piercing), magma (fire), and umbral (negative). The imperial dragons and their damage types are forest (piercing), sea (bludgeoning), sky (electricity), sovereign (mental), and underworld (fire). For the dragon breath focus spell, the area is a 60-foot line for a brine dragon; a 30-foot cone for a cloud, crystal, forest, magma, sovereign, or umbral dragon; and a 10-foot burst within 30 feet for a sea, sky, or underworld dragon. Related Bloodline Because the wyrmblessed and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Harrow"
+  ],
+  "bloodline_markdown": "Harrow",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-18",
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Limited\">[Harrow](/Bloodlines.aspx?ID=18)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Stolen Fate Player's Guide](/Sources.aspx?ID=197) pg. 15\n\nYou have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This connection gives you an uncanny influence over your own fate.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Occultism](/Skills.aspx?ID=11),\r\n[Performance](/Skills.aspx?ID=12)\n\n**Granted Spells**\r\n- **Cantrip** [Detect Magic](/Spells.aspx?ID=66)\r\n- **1st** [Ill Omen](/Spells.aspx?ID=696)\r\n- **2nd** [Augury](/Spells.aspx?ID=15)\r\n- **3rd** [Wanderer's Guide](/Spells.aspx?ID=368)\r\n- **4th** [Suggestion](/Spells.aspx?ID=315)\r\n- **5th** [Shadow Siphon](/Spells.aspx?ID=274)\r\n- **6th** [True Seeing](/Spells.aspx?ID=344)\r\n- **7th** [Retrocognition](/Spells.aspx?ID=260)\r\n- **8th** [Unrelenting Observation](/Spells.aspx?ID=351)\r\n- **9th** [Weird](/Spells.aspx?ID=375)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Unraveling Blast](/Spells.aspx?ID=1297)\r\n- **Advanced** [Invoke the Harrow](/Spells.aspx?ID=1298)\r\n- **Greater** [Rewrite Possibility](/Spells.aspx?ID=1299)\r\n\r\n**Blood Magic**\r\nYou become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain [concealment](/Conditions.aspx?ID=4) for 1 round, but can't use the concealment to [Hide](/Actions.aspx?ID=62).\r\n\r\n</column>",
+  "name": "Harrow",
+  "pfs": "Limited",
+  "primary_source": "Stolen Fate Player's Guide",
+  "primary_source_raw": "Stolen Fate Player's Guide pg. 15",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Stolen Fate",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-04-13",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Stolen Fate Player's Guide](/Sources.aspx?ID=197) pg. 15\r\n\r\n**Spell List**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Occultism](/Skills.aspx?ID=11),\r\n[Performance](/Skills.aspx?ID=12)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This …\r\n</summary>",
+  "skill": [
+   "Occultism",
+   "Performance"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Stolen Fate Player's Guide"
+  ],
+  "source_raw": [
+   "Stolen Fate Player's Guide pg. 15"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Stolen Fate"
+  ],
+  "source_markdown": "[Stolen Fate Player's Guide](/Sources.aspx?ID=197) pg. 15",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Ill Omen",
+   "Augury",
+   "Wanderer's Guide",
+   "Suggestion",
+   "Shadow Siphon",
+   "True Seeing",
+   "Retrocognition",
+   "Unrelenting Observation",
+   "Weird",
+   "Unraveling Blast",
+   "Invoke the Harrow",
+   "Rewrite Possibility"
+  ],
+  "spell_markdown": "[Augury](/Spells.aspx?ID=15), [Detect Magic](/Spells.aspx?ID=66), [Ill Omen](/Spells.aspx?ID=696), [Invoke the Harrow](/Spells.aspx?ID=1298), [Retrocognition](/Spells.aspx?ID=260), [Rewrite Possibility](/Spells.aspx?ID=1299), [Shadow Siphon](/Spells.aspx?ID=274), [Suggestion](/Spells.aspx?ID=315), [True Seeing](/Spells.aspx?ID=344), [Unraveling Blast](/Spells.aspx?ID=1297), [Unrelenting Observation](/Spells.aspx?ID=351), [Wanderer's Guide](/Spells.aspx?ID=368), [Weird](/Spells.aspx?ID=375)",
+  "summary": "You have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This …",
+  "summary_markdown": "You have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This …",
+  "text": " Harrow Source Stolen Fate Player's Guide pg. 15 You have a deep connection to the harrow, perhaps passed on through generations or unlocked after you had a harrow reading performed for you. This connection gives you an uncanny influence over your own fate. Spell List Occult Bloodline Skills Occultism, Performance Granted Spells - Cantrip Detect Magic - 1st Ill Omen - 2nd Augury - 3rd Wanderer's Guide - 4th Suggestion - 5th Shadow Siphon - 6th True Seeing - 7th Retrocognition - 8th Unrelenting Observation - 9th Weird Bloodline Spells - Initial Unraveling Blast - Advanced Invoke the Harrow - Greater Rewrite Possibility Blood Magic You become enveloped in possibility, represented as multiple versions of yourself from your possible futures overlaid on each other. You gain concealment for 1 round, but can't use the concealment to Hide. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Aberrant"
+  ],
+  "bloodline_markdown": "Aberrant",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-19",
+  "legacy_id": [
+   "bloodline-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Aberrant](/Bloodlines.aspx?ID=19)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 149\n\nSomething ancient and unknowable speaks to you from beyond the stars or below the earth.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Occultism](/Skills.aspx?ID=44)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Daze](/Spells.aspx?ID=1482)\r\n- **1st** [Phantom Pain](/Spells.aspx?ID=1632)\r\n- **2nd** [Stupefy](/Spells.aspx?ID=1691)\r\n- **3rd** [Vampiric Feast](/Spells.aspx?ID=1736)\r\n- **4th** [Confusion](/Spells.aspx?ID=1471)\r\n- **5th** [Slither](/Spells.aspx?ID=1676)\r\n- **6th** [Never Mind](/Spells.aspx?ID=1614)\r\n- **7th** [Warp Mind](/Spells.aspx?ID=1754)\r\n- **8th** [Uncontrollable Dance](/Spells.aspx?ID=1730)\r\n- **9th** [Unfathomable Song](/Spells.aspx?ID=1731)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Tentacular Limbs](/Spells.aspx?ID=2090)\r\n- **Advanced** [Aberrant Whispers](/Spells.aspx?ID=2091)\r\n- **Greater** [Unusual Anatomy](/Spells.aspx?ID=2092)\r\n\r\n**Blood Magic—Eerie Veil**\r\nAn ominous pall spills from your mind. Either one target takes a –1 status penalty to Will saving throws for 1 round or you gain a +2 status bonus to Will saving throws for 1 round.\r\n\r\n</column>",
+  "name": "Aberrant",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 149",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 149\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Occultism](/Skills.aspx?ID=44)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSomething ancient and unknowable speaks to you from beyond the stars or below the earth.\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Occultism"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 149"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 149",
+  "speed": {},
+  "spell": [
+   "Daze",
+   "Phantom Pain",
+   "Stupefy",
+   "Vampiric Feast",
+   "Confusion",
+   "Slither",
+   "Never Mind",
+   "Warp Mind",
+   "Uncontrollable Dance",
+   "Unfathomable Song",
+   "Tentacular Limbs",
+   "Aberrant Whispers",
+   "Unusual Anatomy"
+  ],
+  "spell_markdown": "[Aberrant Whispers](/Spells.aspx?ID=2091), [Confusion](/Spells.aspx?ID=1471), [Daze](/Spells.aspx?ID=1482), [Never Mind](/Spells.aspx?ID=1614), [Phantom Pain](/Spells.aspx?ID=1632), [Slither](/Spells.aspx?ID=1676), [Stupefy](/Spells.aspx?ID=1691), [Tentacular Limbs](/Spells.aspx?ID=2090), [Uncontrollable Dance](/Spells.aspx?ID=1730), [Unfathomable Song](/Spells.aspx?ID=1731), [Unusual Anatomy](/Spells.aspx?ID=2092), [Vampiric Feast](/Spells.aspx?ID=1736), [Warp Mind](/Spells.aspx?ID=1754)",
+  "summary": "Something ancient and unknowable speaks to you from beyond the stars or below the earth.",
+  "summary_markdown": "Something ancient and unknowable speaks to you from beyond the stars or below the earth.",
+  "text": " Aberrant Source Player Core 2 pg. 149 Something ancient and unknowable speaks to you from beyond the stars or below the earth. Tradition Occult Bloodline Skills Intimidation, Occultism Sourcerous Gifts - Cantrip Daze - 1st Phantom Pain - 2nd Stupefy - 3rd Vampiric Feast - 4th Confusion - 5th Slither - 6th Never Mind - 7th Warp Mind - 8th Uncontrollable Dance - 9th Unfathomable Song Bloodline Spells - Initial Tentacular Limbs - Advanced Aberrant Whispers - Greater Unusual Anatomy Blood Magic—Eerie Veil An ominous pall spills from your mind. Either one target takes a –1 status penalty to Will saving throws for 1 round or you gain a +2 status bonus to Will saving throws for 1 round. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Angelic"
+  ],
+  "bloodline_markdown": "Angelic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-20",
+  "legacy_id": [
+   "bloodline-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Angelic](/Bloodlines.aspx?ID=20)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\n\nOne of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=39),\r\n[Religion](/Skills.aspx?ID=46)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Light](/Spells.aspx?ID=1585)\r\n- **1st** [Heal](/Spells.aspx?ID=1554)\r\n- **2nd** [Spiritual Armament](/Spells.aspx?ID=1687)\r\n- **3rd** [Holy Light](/Spells.aspx?ID=1557)\r\n- **4th** [Divine Wrath](/Spells.aspx?ID=1499)\r\n- **5th** [Divine Immolation](/Spells.aspx?ID=1496)\r\n- **6th** [Blessed Boundary](/Spells.aspx?ID=1452)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=1495)\r\n- **8th** [Moment of Renewal](/Spells.aspx?ID=1607)\r\n- **9th** [Foresight](/Spells.aspx?ID=1537)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Angelic Halo](/Spells.aspx?ID=2093)\r\n- **Advanced** [Angelic Wings](/Spells.aspx?ID=2094)\r\n- **Greater** [Celestial Brand](/Spells.aspx?ID=2095)\r\n\r\n**Blood Magic—Divine Aura**\r\nYou project a warming aura that protects you or one target, granting a +1 status bonus to saving throws for 1 round.\r\n\r\n</column>",
+  "name": "Angelic",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 150",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Diplomacy](/Skills.aspx?ID=39),\r\n[Religion](/Skills.aspx?ID=46)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.\r\n</summary>",
+  "skill": [
+   "Diplomacy",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 150"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 150",
+  "speed": {},
+  "spell": [
+   "Light",
+   "Heal",
+   "Spiritual Armament",
+   "Holy Light",
+   "Divine Wrath",
+   "Divine Immolation",
+   "Blessed Boundary",
+   "Divine Decree",
+   "Moment of Renewal",
+   "Foresight",
+   "Angelic Halo",
+   "Angelic Wings",
+   "Celestial Brand"
+  ],
+  "spell_markdown": "[Angelic Halo](/Spells.aspx?ID=2093), [Angelic Wings](/Spells.aspx?ID=2094), [Blessed Boundary](/Spells.aspx?ID=1452), [Celestial Brand](/Spells.aspx?ID=2095), [Divine Decree](/Spells.aspx?ID=1495), [Divine Immolation](/Spells.aspx?ID=1496), [Divine Wrath](/Spells.aspx?ID=1499), [Foresight](/Spells.aspx?ID=1537), [Heal](/Spells.aspx?ID=1554), [Holy Light](/Spells.aspx?ID=1557), [Light](/Spells.aspx?ID=1585), [Moment of Renewal](/Spells.aspx?ID=1607), [Spiritual Armament](/Spells.aspx?ID=1687)",
+  "summary": "One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.",
+  "summary_markdown": "One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed.",
+  "text": " Angelic Source Player Core 2 pg. 150 One of your forebears hailed from a celestial realm, or your ancestors' devotion led to their lineage being blessed. Tradition Divine Bloodline Skills Diplomacy, Religion Sourcerous Gifts - Cantrip Light - 1st Heal - 2nd Spiritual Armament - 3rd Holy Light - 4th Divine Wrath - 5th Divine Immolation - 6th Blessed Boundary - 7th Divine Decree - 8th Moment of Renewal - 9th Foresight Bloodline Spells - Initial Angelic Halo - Advanced Angelic Wings - Greater Celestial Brand Blood Magic—Divine Aura You project a warming aura that protects you or one target, granting a +1 status bonus to saving throws for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Demonic"
+  ],
+  "bloodline_markdown": "Demonic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-21",
+  "legacy_id": [
+   "bloodline-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Demonic](/Bloodlines.aspx?ID=21)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\n\nDemons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Religion](/Skills.aspx?ID=46)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Caustic Blast](/Spells.aspx?ID=1461)\r\n- **1st** [Fear](/Spells.aspx?ID=1524)\r\n- **2nd** [Enlarge](/Spells.aspx?ID=1514)\r\n- **3rd** [Slow](/Spells.aspx?ID=1677)\r\n- **4th** [Divine Wrath](/Spells.aspx?ID=1499)\r\n- **5th** [Blister](/Spells.aspx?ID=1969)\r\n- **6th** [Disintegrate](/Spells.aspx?ID=1492)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=1495)\r\n- **8th** [Canticle of Everlasting Grief](/Spells.aspx?ID=1459)\r\n- **9th** [Implosion](/Spells.aspx?ID=1572)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Glutton's Jaws](/Spells.aspx?ID=2096)\r\n- **Advanced** [Swamp of Sloth](/Spells.aspx?ID=2097)\r\n- **Greater** [Chthonian Wrath](/Spells.aspx?ID=2098)\r\n\r\n**Blood Magic—Corruption of Sin**\r\nYou mentally broadcast brief glimpses into the darkest desires of the mind. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +2 status bonus to Intimidation checks for 1 round.\r\n\r\n</column>",
+  "name": "Demonic",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 150",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Religion](/Skills.aspx?ID=46)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDemons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin.\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 150"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 150",
+  "speed": {},
+  "spell": [
+   "Caustic Blast",
+   "Fear",
+   "Enlarge",
+   "Slow",
+   "Divine Wrath",
+   "Blister",
+   "Disintegrate",
+   "Divine Decree",
+   "Canticle of Everlasting Grief",
+   "Implosion",
+   "Glutton's Jaws",
+   "Swamp of Sloth",
+   "Chthonian Wrath"
+  ],
+  "spell_markdown": "[Blister](/Spells.aspx?ID=1969), [Canticle of Everlasting Grief](/Spells.aspx?ID=1459), [Caustic Blast](/Spells.aspx?ID=1461), [Chthonian Wrath](/Spells.aspx?ID=2098), [Disintegrate](/Spells.aspx?ID=1492), [Divine Decree](/Spells.aspx?ID=1495), [Divine Wrath](/Spells.aspx?ID=1499), [Enlarge](/Spells.aspx?ID=1514), [Fear](/Spells.aspx?ID=1524), [Glutton's Jaws](/Spells.aspx?ID=2096), [Implosion](/Spells.aspx?ID=1572), [Slow](/Spells.aspx?ID=1677), [Swamp of Sloth](/Spells.aspx?ID=2097)",
+  "summary": "Demons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin.",
+  "summary_markdown": "Demons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin.",
+  "text": " Demonic Source Player Core 2 pg. 150 Demons debase all they touch. One of your ancestors fell victim to their corruption, and you're burdened by that sin. Tradition Divine Bloodline Skills Intimidation, Religion Sourcerous Gifts - Cantrip Caustic Blast - 1st Fear - 2nd Enlarge - 3rd Slow - 4th Divine Wrath - 5th Blister - 6th Disintegrate - 7th Divine Decree - 8th Canticle of Everlasting Grief - 9th Implosion Bloodline Spells - Initial Glutton's Jaws - Advanced Swamp of Sloth - Greater Chthonian Wrath Blood Magic—Corruption of Sin You mentally broadcast brief glimpses into the darkest desires of the mind. Either a target takes a –1 status penalty to AC for 1 round, or you gain a +2 status bonus to Intimidation checks for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Diabolic"
+  ],
+  "bloodline_markdown": "Diabolic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-22",
+  "legacy_id": [
+   "bloodline-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Diabolic](/Bloodlines.aspx?ID=22)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\n\nDevils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Religion](/Skills.aspx?ID=46)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Ignition](/Spells.aspx?ID=1565)\r\n- **1st** [Charm](/Spells.aspx?ID=1463)\r\n- **2nd** [Floating Flame](/Spells.aspx?ID=1533)\r\n- **3rd** [Enthrall](/Spells.aspx?ID=1516)\r\n- **4th** [Suggestion](/Spells.aspx?ID=1693)\r\n- **5th** [Wave of Despair](/Spells.aspx?ID=1757)\r\n- **6th** [Truesight](/Spells.aspx?ID=1727)\r\n- **7th** [Divine Decree](/Spells.aspx?ID=1495)\r\n- **8th** [Divine Inspiration](/Spells.aspx?ID=1497)\r\n- **9th** [Falling Stars](/Spells.aspx?ID=1521)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Diabolic Edict](/Spells.aspx?ID=2099)\r\n- **Advanced** [Embrace the Pit](/Spells.aspx?ID=2100)\r\n- **Greater** [Hellfire Plume](/Spells.aspx?ID=2101)\r\n\r\n**Blood Magic—Tongue of Flame**\r\nYour tongue becomes laced with the fires of Hell, and you can either lash out at a foe with it or swallow it to make your lies more palatable. Either a target takes 1 fire damage per spell rank (if the spell already deals initial fire damage, combine this with the spell's initial damage before determining weaknesses and resistances), or you gain a +2 status bonus to Deception checks for 1 round.\r\n\r\n</column>",
+  "name": "Diabolic",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 150",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Religion](/Skills.aspx?ID=46)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDevils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 150"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 150",
+  "speed": {},
+  "spell": [
+   "Ignition",
+   "Charm",
+   "Floating Flame",
+   "Enthrall",
+   "Suggestion",
+   "Wave of Despair",
+   "Truesight",
+   "Divine Decree",
+   "Divine Inspiration",
+   "Falling Stars",
+   "Diabolic Edict",
+   "Embrace the Pit",
+   "Hellfire Plume"
+  ],
+  "spell_markdown": "[Charm](/Spells.aspx?ID=1463), [Diabolic Edict](/Spells.aspx?ID=2099), [Divine Decree](/Spells.aspx?ID=1495), [Divine Inspiration](/Spells.aspx?ID=1497), [Embrace the Pit](/Spells.aspx?ID=2100), [Enthrall](/Spells.aspx?ID=1516), [Falling Stars](/Spells.aspx?ID=1521), [Floating Flame](/Spells.aspx?ID=1533), [Hellfire Plume](/Spells.aspx?ID=2101), [Ignition](/Spells.aspx?ID=1565), [Suggestion](/Spells.aspx?ID=1693), [Truesight](/Spells.aspx?ID=1727), [Wave of Despair](/Spells.aspx?ID=1757)",
+  "summary": "Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.",
+  "summary_markdown": "Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact.",
+  "text": " Diabolic Source Player Core 2 pg. 150 Devils are evil with a silver tongue, and one of your ancestors dallied in darkness or made an infernal pact. Tradition Divine Bloodline Skills Deception, Religion Sourcerous Gifts - Cantrip Ignition - 1st Charm - 2nd Floating Flame - 3rd Enthrall - 4th Suggestion - 5th Wave of Despair - 6th Truesight - 7th Divine Decree - 8th Divine Inspiration - 9th Falling Stars Bloodline Spells - Initial Diabolic Edict - Advanced Embrace the Pit - Greater Hellfire Plume Blood Magic—Tongue of Flame Your tongue becomes laced with the fires of Hell, and you can either lash out at a foe with it or swallow it to make your lies more palatable. Either a target takes 1 fire damage per spell rank (if the spell already deals initial fire damage, combine this with the spell's initial damage before determining weaknesses and resistances), or you gain a +2 status bonus to Deception checks for 1 round. ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Draconic"
+  ],
+  "bloodline_markdown": "Draconic",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-23",
+  "legacy_id": [
+   "bloodline-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Draconic](/Bloodlines.aspx?ID=23)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\n\nThe blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n\r\nvariable (see Draconic Exemplars below)\r\n\r\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n\r\n and one other skill (see Draconic Exemplars below)\r\n\r\n**Sourcerous Gifts**\r\n- **Cantrip** [Shield](/Spells.aspx?ID=1671)\r\n- **1st** [Fear](/Spells.aspx?ID=1524)\r\n- **2nd** see Draconic Exemplars below\r\n- **3rd** [Haste](/Spells.aspx?ID=1553)\r\n- **4th** [Fly](/Spells.aspx?ID=1534)\r\n- **5th** see Draconic Exemplars below\r\n- **6th** [Dragon Form](/Spells.aspx?ID=1502) (dragon must match your draconic exemplar)\r\n- **7th** [Mask of Terror](/Spells.aspx?ID=1595)\r\n- **8th** see Draconic Exemplars below\r\n- **9th** [Overwhelming Presence](/Spells.aspx?ID=1621)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Flurry of Claws](/Spells.aspx?ID=2102)\r\n- **Advanced** [Dragon Breath](/Spells.aspx?ID=2103)\r\n- **Greater** [Dragon Wings](/Spells.aspx?ID=2104)\r\n\r\n**Blood Magic—Scaly Hide**\r\nDraconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Draconic Exemplars</title>\r\n\r\nAt 1st level, choose the tradition related to the dragon exemplar who influenced your bloodline. You can't change your dragon exemplar later. As noted, this affects both your bloodline's features and your sorcerous gift spells. \n<table> <tr> <th>Draconic Exemplar</th> <th>Tradition</th> <th>Bloodline Skill</th> <th>Sorcerous Gifts</th> </tr> <tr> <td>Arcane</td> <td>Arcane</td> <td>Arcana</td> <td>2nd: [_blazing bolt_](/Spells.aspx?ID=1450); 5th: [_subconscious suggestion_](/Spells.aspx?ID=1692); 8th: [_quandary_](/Spells.aspx?ID=1644)</td> </tr> <tr> <td>Divine</td> <td>Divine</td> <td>Religion</td> <td>2nd: [_augury_](/Spells.aspx?ID=1445); 5th: [_divine immolation_](/Spells.aspx?ID=1496); 8th: [_divine inspiration_](/Spells.aspx?ID=1497)</td> </tr> <tr> <td>Occult</td> <td>Occult</td> <td>Occultism</td> <td>2nd: [_blood vendetta_](/Spells.aspx?ID=1454); 5th: [_slither_](/Spells.aspx?ID=1676); 8th: [_unrelenting observation_](/Spells.aspx?ID=1734)</td> </tr> <tr> <td>Primal</td> <td>Primal</td> <td>Nature</td> <td>2nd: [_shatter_](/Spells.aspx?ID=1670); 5th: [_howling blizzard_](/Spells.aspx?ID=1559); 8th: [_earthquake_](/Spells.aspx?ID=1507)</td> </tr> </table>   \n\n### Specific Draconic Exemplars\n  If you want choose a specific type of dragon as your draconic exemplar instead of a category, you can work with your GM to replace the sorcerous gifts listed in Draconic Exemplars with appropriate-rank spells found in the various Dragon Spellcasters sidebars for that type of dragon found in Monster Core. The options presented below correlate with these sidebars. \n\n[**_PFS Note_**](PFS.aspx) _Sorcerers with the draconic bloodline may choose one of these draconic exemplars._\n\n<table> <tr> <th>Draconic Exemplar</th> <th>Tradition</th> <th>Bloodline Skill</th> <th>Sorcerous Gifts</th> </tr> <tr> <td>Adamantine</td> <td>Primal</td> <td>Nature</td> <td>2nd: [_shatter_](/Spells.aspx?ID=1670); 5th: [_impaling spike_](/Spells.aspx?ID=1571); 8th: [_earthquake_](/Spells.aspx?ID=1507)</td> </tr> <tr> <td>Conspirator</td> <td>Occult</td> <td>Occultism</td> <td>2nd: [_paranoia_](/Spells.aspx?ID=1623); 5th: [_synaptic pulse_](/Spells.aspx?ID=1710); 8th: [_unrelenting observation_](/Spells.aspx?ID=1734)</td> </tr> <tr> <td>Diabolic</td> <td>Divine</td> <td>Religion</td> <td>2nd: [_blood vendetta_](/Spells.aspx?ID=1454); 5th: [_divine immolation_](/Spells.aspx?ID=1496); 8th: [_canticle of everlasting grief_](/Spells.aspx?ID=1459)</td> </tr> <tr> <td>Empyreal</td> <td>Divine</td> <td>Religion</td> <td>2nd: [_share life_](/Spells.aspx?ID=1669); 5th: [_breath of life_](/Spells.aspx?ID=1456); 8th: [_divine inspiration_](/Spells.aspx?ID=1497)</td> </tr> <tr> <td>Fortune</td> <td>Arcane</td> <td>Arcana</td> <td>2nd: [_invisibility_](/Spells.aspx?ID=1577); 5th: [_howling blizzard_](/Spells.aspx?ID=1559); 8th: [_uncontrollable dance_](/Spells.aspx?ID=1730)</td> </tr> <tr> <td>Horned</td> <td>Primal</td> <td>Nature</td> <td>2nd: [_one with plants_](/Spells.aspx?ID=1618); 5th: [_toxic cloud_](/Spells.aspx?ID=1722); 8th: [_desiccate_](/Spells.aspx?ID=1484)</td> </tr> <tr> <td>Mirage</td> <td>Arcane</td> <td>Arcana</td> <td>2nd: [_see the unseen_](/Spells.aspx?ID=1663); 5th: [_hallucination_](/Spells.aspx?ID=1551); 8th: [_disappearance_](/Spells.aspx?ID=1490)</td> </tr> <tr> <td>Omen</td> <td>Occult</td> <td>Occultism</td> <td>2nd: [_status_](/Spells.aspx?ID=1690); 5th: [_wave of despair_](/Spells.aspx?ID=1757); 8th: [_quandary_](/Spells.aspx?ID=1644)</td> </tr> </table>\n\n<title level=\"2\">Related Bloodlines</title>\r\n\r\n**Source** [Mwangi Expanse pg. 76](/Sources.aspx?ID=89)<br />Because the [wyrmblessed](/Bloodlines.aspx?ID=17) and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.",
+  "name": "Draconic",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 150",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 150\r\n\r\n**Tradition**\r\n\r\nvariable (see Draconic Exemplars below)\r\n\r\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n\r\n and one other skill (see Draconic Exemplars below)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.\r\n</summary>",
+  "skill": [
+   "Intimidation"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 150"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 150",
+  "speed": {},
+  "spell": [
+   "Shield",
+   "Fear",
+   "Abyssal Plague",
+   "Haste",
+   "Fly",
+   "Abyssal Plague",
+   "Dragon Form",
+   "Mask of Terror",
+   "Abyssal Plague",
+   "Overwhelming Presence",
+   "Flurry of Claws",
+   "Dragon Breath",
+   "Dragon Wings"
+  ],
+  "spell_markdown": "[Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Dragon Breath](/Spells.aspx?ID=2103), [Dragon Form](/Spells.aspx?ID=1502), [Dragon Wings](/Spells.aspx?ID=2104), [Fear](/Spells.aspx?ID=1524), [Flurry of Claws](/Spells.aspx?ID=2102), [Fly](/Spells.aspx?ID=1534), [Haste](/Spells.aspx?ID=1553), [Mask of Terror](/Spells.aspx?ID=1595), [Overwhelming Presence](/Spells.aspx?ID=1621), [Shield](/Spells.aspx?ID=1671)",
+  "summary": "The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.",
+  "summary_markdown": "The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic.",
+  "text": " Draconic Source Player Core 2 pg. 150 The blood of dragons flows through your veins. These beasts are both fearsome in combat and skilled at magic. Tradition variable (see Draconic Exemplars below) Bloodline Skills Intimidation, and one other skill (see Draconic Exemplars below) Sourcerous Gifts - Cantrip Shield - 1st Fear - 2nd see Draconic Exemplars below - 3rd Haste - 4th Fly - 5th see Draconic Exemplars below - 6th Dragon Form (dragon must match your draconic exemplar) - 7th Mask of Terror - 8th see Draconic Exemplars below - 9th Overwhelming Presence Bloodline Spells - Initial Flurry of Claws - Advanced Dragon Breath - Greater Dragon Wings Blood Magic—Scaly Hide Draconic scales grow briefly on you or one target, granting a +1 status bonus to AC for 1 round. Draconic Exemplars At 1st level, choose the tradition related to the dragon exemplar who influenced your bloodline. You can't change your dragon exemplar later. As noted, this affects both your bloodline's features and your sorcerous gift spells. Draconic Exemplar Tradition Bloodline Skill Sorcerous Gifts Arcane Arcane Arcana 2nd: blazing bolt ; 5th: subconscious suggestion ; 8th: quandary Divine Divine Religion 2nd: augury ; 5th: divine immolation ; 8th: divine inspiration Occult Occult Occultism 2nd: blood vendetta ; 5th: slither ; 8th: unrelenting observation Primal Primal Nature 2nd: shatter ; 5th: howling blizzard ; 8th: earthquake ### Specific Draconic Exemplars If you want choose a specific type of dragon as your draconic exemplar instead of a category, you can work with your GM to replace the sorcerous gifts listed in Draconic Exemplars with appropriate-rank spells found in the various Dragon Spellcasters sidebars for that type of dragon found in Monster Core. The options presented below correlate with these sidebars. PFS Note Sorcerers with the draconic bloodline may choose one of these draconic exemplars. Draconic Exemplar Tradition Bloodline Skill Sorcerous Gifts Adamantine Primal Nature 2nd: shatter ; 5th: impaling spike ; 8th: earthquake Conspirator Occult Occultism 2nd: paranoia ; 5th: synaptic pulse ; 8th: unrelenting observation Diabolic Divine Religion 2nd: blood vendetta ; 5th: divine immolation ; 8th: canticle of everlasting grief Empyreal Divine Religion 2nd: share life ; 5th: breath of life ; 8th: divine inspiration Fortune Arcane Arcana 2nd: invisibility ; 5th: howling blizzard ; 8th: uncontrollable dance Horned Primal Nature 2nd: one with plants ; 5th: toxic cloud ; 8th: desiccate Mirage Arcane Arcana 2nd: see the unseen ; 5th: hallucination ; 8th: disappearance Omen Occult Occultism 2nd: status ; 5th: wave of despair ; 8th: quandary Related Bloodlines Source Mwangi Expanse pg. 76 Because the wyrmblessed and draconic bloodlines have similar origins, they count the same as each other for the purposes of prerequisites and access requirements.",
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Elemental"
+  ],
+  "bloodline_markdown": "Elemental",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-24",
+  "legacy_id": [
+   "bloodline-6"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Elemental](/Bloodlines.aspx?ID=24)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 151\n\nAn elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic depending on which element affected your bloodline (see Elemental Influences below).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Nature](/Skills.aspx?ID=43)\n\n**Sourcerous Gifts**\r\n- **Cantrip** see Elemental Influences below\r\n- **1st** see Elemental Influences below\r\n- **2nd** [Resist Energy](/Spells.aspx?ID=1651)\r\n- **3rd** see Elemental Influences below\r\n- **4th** [Unfettered Movement](/Spells.aspx?ID=1732)\r\n- **5th** [Elemental Form](/Spells.aspx?ID=1510) (elemental influence only)\r\n- **6th** see Elemental Influences below\r\n- **7th** [Energy Aegis](/Spells.aspx?ID=1512)\r\n- **8th** [Earthquake](/Spells.aspx?ID=1507)\r\n- **9th** [Wrathful Storm](/Spells.aspx?ID=1759)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Elemental Toss](/Spells.aspx?ID=2105)\r\n- **Advanced** [Elemental Motion](/Spells.aspx?ID=2106)\r\n- **Greater** [Elemental Blast](/Spells.aspx?ID=2107)\r\n\r\n**Blood Magic—Elemental Fury**\r\nElemental energy wreathes your form and infuses your magic. Either you gain a +2 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell rank; this damage type is listed under your elemental influence. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances.\r\n\r\n</column>\r\n\r\n<title level=\"2\">Elemental Influences</title>\r\n\r\nAt 1st level, choose the type of elemental that influenced your bloodline: air, earth, fire, metal, water, or wood. You can't change this later. You are granted different spells at certain ranks according to this influence. \n<table> <tr> <td>**Elemental Type**</td> <td>**Sorcerous Gifts**</td> <td>**Blood Magic Damage**</td> </tr> <tr> <td>Air</td> <td>cantrip: [_gale blast_](/Spells.aspx?ID=1994); 1st: [_tailwind_](/Spells.aspx?ID=1711); 3rd: [_wall of wind_](/Spells.aspx?ID=1753); 6th: [_chain lightning_](/Spells.aspx?ID=1462)</td> <td>slashing</td> </tr> <tr> <td>Earth</td> <td>cantrip: [_scatter scree_](/Spells.aspx?ID=2021); 1st: [_pummeling rubble_](/Spells.aspx?ID=1642); 3rd: [_earthbind_](/Spells.aspx?ID=1506); 6th: [_petrify_](/Spells.aspx?ID=1628)</td> <td>bludgeoning</td> </tr> <tr> <td>Fire</td> <td>cantrip: [_ignition_](/Spells.aspx?ID=1565), 1st: [_breathe fire_](/Spells.aspx?ID=1457); 3rd: [_fireball_](/Spells.aspx?ID=1530); 6th: [_tree of seasons_](/Spells.aspx?ID=1725) (all pods are summer)</td> <td>fire</td> </tr> <tr> <td>Metal</td> <td>cantrip [_electric arc_](/Spells.aspx?ID=1509); 1st: [_thunderstrike_](/Spells.aspx?ID=1721); 3rd: [_lightning bolt_](/Spells.aspx?ID=1586); 6th: [_chain lightning_](/Spells.aspx?ID=1462)</td> <td>piercing</td> </tr> <tr> <td>Water</td> <td>cantrip: [_frostbite_](/Spells.aspx?ID=1539); 1st: [_hydraulic push_](/Spells.aspx?ID=1561); 3rd: [_aqueous orb_](/Spells.aspx?ID=1443); 6th: [_scintillating safeguard_](/Spells.aspx?ID=2023)</td> <td>bludgeoning</td> </tr> <tr> <td>Wood</td> <td>cantrip: [_tangle vine_](/Spells.aspx?ID=1713); 1st: [_cleanse cuisine_](/Spells.aspx?ID=1468); 3rd: [_wall of thorns_](/Spells.aspx?ID=1752); 6th: [_tangling creepers_](/Spells.aspx?ID=1714)</td> <td>bludgeoning</td> </tr> </table>",
+  "name": "Elemental",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 151",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 151\r\n\r\n**Tradition**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Nature](/Skills.aspx?ID=43)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic …\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 151"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 151",
+  "speed": {},
+  "spell": [
+   "Abyssal Plague",
+   "Abyssal Plague",
+   "Resist Energy",
+   "Abyssal Plague",
+   "Unfettered Movement",
+   "Elemental Form",
+   "Abyssal Plague",
+   "Energy Aegis",
+   "Earthquake",
+   "Wrathful Storm",
+   "Elemental Toss",
+   "Elemental Motion",
+   "Elemental Blast"
+  ],
+  "spell_markdown": "[Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Abyssal Plague](/Spells.aspx?ID=1), [Earthquake](/Spells.aspx?ID=1507), [Elemental Blast](/Spells.aspx?ID=2107), [Elemental Form](/Spells.aspx?ID=1510), [Elemental Motion](/Spells.aspx?ID=2106), [Elemental Toss](/Spells.aspx?ID=2105), [Energy Aegis](/Spells.aspx?ID=1512), [Resist Energy](/Spells.aspx?ID=1651), [Unfettered Movement](/Spells.aspx?ID=1732), [Wrathful Storm](/Spells.aspx?ID=1759)",
+  "summary": "An elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic …",
+  "summary_markdown": "An elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic …",
+  "text": " Elemental Source Player Core 2 pg. 151 An elemental influence has imbued your blood with primal fury. You are granted different sorcerous gift spells and damage type from blood magic depending on which element affected your bloodline (see Elemental Influences below). Tradition Primal Bloodline Skills Intimidation, Nature Sourcerous Gifts - Cantrip see Elemental Influences below - 1st see Elemental Influences below - 2nd Resist Energy - 3rd see Elemental Influences below - 4th Unfettered Movement - 5th Elemental Form (elemental influence only) - 6th see Elemental Influences below - 7th Energy Aegis - 8th Earthquake - 9th Wrathful Storm Bloodline Spells - Initial Elemental Toss - Advanced Elemental Motion - Greater Elemental Blast Blood Magic—Elemental Fury Elemental energy wreathes your form and infuses your magic. Either you gain a +2 status bonus to Intimidation checks for 1 round, or a target takes 1 damage per spell rank; this damage type is listed under your elemental influence. If the spell already deals that type of damage, combine it with the spell's initial damage before determining weaknesses and resistances. Elemental Influences At 1st level, choose the type of elemental that influenced your bloodline: air, earth, fire, metal, water, or wood. You can't change this later. You are granted different spells at certain ranks according to this influence. Elemental Type Sorcerous Gifts Blood Magic Damage Air cantrip: gale blast ; 1st: tailwind ; 3rd: wall of wind ; 6th: chain lightning slashing Earth cantrip: scatter scree ; 1st: pummeling rubble ; 3rd: earthbind ; 6th: petrify bludgeoning Fire cantrip: ignition , 1st: breathe fire ; 3rd: fireball ; 6th: tree of seasons (all pods are summer) fire Metal cantrip electric arc ; 1st: thunderstrike ; 3rd: lightning bolt ; 6th: chain lightning piercing Water cantrip: frostbite ; 1st: hydraulic push ; 3rd: aqueous orb ; 6th: scintillating safeguard bludgeoning Wood cantrip: tangle vine ; 1st: cleanse cuisine ; 3rd: wall of thorns ; 6th: tangling creepers bludgeoning ",
+  "tradition": [
+   "Primal"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Fey"
+  ],
+  "bloodline_markdown": "Fey",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-25",
+  "legacy_id": [
+   "bloodline-7"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Fey](/Bloodlines.aspx?ID=25)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 151\n\nFey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Nature](/Skills.aspx?ID=43)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Figment](/Spells.aspx?ID=1528)\r\n- **1st** [Charm](/Spells.aspx?ID=1463)\r\n- **2nd** [Laughing Fit](/Spells.aspx?ID=1583)\r\n- **3rd** [Enthrall](/Spells.aspx?ID=1516)\r\n- **4th** [Suggestion](/Spells.aspx?ID=1693)\r\n- **5th** [Hallucination](/Spells.aspx?ID=1551)\r\n- **6th** [Mislead](/Spells.aspx?ID=1605)\r\n- **7th** [Visions of Danger](/Spells.aspx?ID=2040)\r\n- **8th** [Uncontrollable Dance](/Spells.aspx?ID=1730)\r\n- **9th** [Metamorphosis](/Spells.aspx?ID=1599)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Faerie Dust](/Spells.aspx?ID=2108)\r\n- **Advanced** [Fey Disappearance](/Spells.aspx?ID=2109)\r\n- **Greater** [Fey Glamour](/Spells.aspx?ID=2110)\r\n\r\n**Blood Magic—Cloak of Ribbons**\r\nColorful fey ribbons dance around you. Either you gain a +2 status bonus to Performance checks for 1 round, or you can become concealed for 1 round. Such obvious concealment can't be used to Hide.\r\n\r\n</column>",
+  "name": "Fey",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 151",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 151\r\n\r\n**Tradition**\r\n[Primal](/SpellLists.aspx?Tradition=4)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Nature](/Skills.aspx?ID=43)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Nature"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 151"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 151",
+  "speed": {},
+  "spell": [
+   "Figment",
+   "Charm",
+   "Laughing Fit",
+   "Enthrall",
+   "Suggestion",
+   "Hallucination",
+   "Mislead",
+   "Visions of Danger",
+   "Uncontrollable Dance",
+   "Metamorphosis",
+   "Faerie Dust",
+   "Fey Disappearance",
+   "Fey Glamour"
+  ],
+  "spell_markdown": "[Charm](/Spells.aspx?ID=1463), [Enthrall](/Spells.aspx?ID=1516), [Faerie Dust](/Spells.aspx?ID=2108), [Fey Disappearance](/Spells.aspx?ID=2109), [Fey Glamour](/Spells.aspx?ID=2110), [Figment](/Spells.aspx?ID=1528), [Hallucination](/Spells.aspx?ID=1551), [Laughing Fit](/Spells.aspx?ID=1583), [Metamorphosis](/Spells.aspx?ID=1599), [Mislead](/Spells.aspx?ID=1605), [Suggestion](/Spells.aspx?ID=1693), [Uncontrollable Dance](/Spells.aspx?ID=1730), [Visions of Danger](/Spells.aspx?ID=2040)",
+  "summary": "Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.",
+  "summary_markdown": "Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline.",
+  "text": " Fey Source Player Core 2 pg. 151 Fey whimsy or a tryst in a moonlit grove put the bewitching magic of the First World into your family's bloodline. Tradition Primal Bloodline Skills Deception, Nature Sourcerous Gifts - Cantrip Figment - 1st Charm - 2nd Laughing Fit - 3rd Enthrall - 4th Suggestion - 5th Hallucination - 6th Mislead - 7th Visions of Danger - 8th Uncontrollable Dance - 9th Metamorphosis Bloodline Spells - Initial Faerie Dust - Advanced Fey Disappearance - Greater Fey Glamour Blood Magic—Cloak of Ribbons Colorful fey ribbons dance around you. Either you gain a +2 status bonus to Performance checks for 1 round, or you can become concealed for 1 round. Such obvious concealment can't be used to Hide. ",
+  "tradition": [
+   "Primal"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Hag"
+  ],
+  "bloodline_markdown": "Hag",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-26",
+  "legacy_id": [
+   "bloodline-8"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Hag](/Bloodlines.aspx?ID=26)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\n\nA hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Occultism](/Skills.aspx?ID=44)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Daze](/Spells.aspx?ID=1482)\r\n- **1st** [Illusory Disguise](/Spells.aspx?ID=1568)\r\n- **2nd** [Stupefy](/Spells.aspx?ID=1691)\r\n- **3rd** [Blindness](/Spells.aspx?ID=1453)\r\n- **4th** [Outcast's Curse](/Spells.aspx?ID=1620)\r\n- **5th** [Mariner's Curse](/Spells.aspx?ID=1593)\r\n- **6th** [Cursed Metamorphosis](/Spells.aspx?ID=1479)\r\n- **7th** [Warp Mind](/Spells.aspx?ID=1754)\r\n- **8th** [Quandary](/Spells.aspx?ID=1644)\r\n- **9th** [Phantasmagoria](/Spells.aspx?ID=1629)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Jealous Hex](/Spells.aspx?ID=2111)\r\n- **Advanced** [Horrific Visage](/Spells.aspx?ID=2112)\r\n- **Greater** [You're Mine](/Spells.aspx?ID=2113)\r\n\r\n**Blood Magic—Retributive Spite**\r\nMalice and acrimony take physical form around you. You deal 4 mental damage per spell rank (basic Will save) to the first creature that deals damage to you before the end of your next turn; if no creature damages you in that time, you consume that spite to gain temporary Hit Points at the beginning of your next turn equal to the spell's rank. These temporary Hit Points last until the beginning of your following turn.\r\n\r\n</column>",
+  "name": "Hag",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 152",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\r\n\r\n**Tradition**\r\n[Occult](/SpellLists.aspx?Tradition=3)\n\n**Bloodline Skills**\r\n[Deception](/Skills.aspx?ID=38),\r\n[Occultism](/Skills.aspx?ID=44)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul.\r\n</summary>",
+  "skill": [
+   "Deception",
+   "Occultism"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 152"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 152",
+  "speed": {},
+  "spell": [
+   "Daze",
+   "Illusory Disguise",
+   "Stupefy",
+   "Blindness",
+   "Outcast's Curse",
+   "Mariner's Curse",
+   "Cursed Metamorphosis",
+   "Warp Mind",
+   "Quandary",
+   "Phantasmagoria",
+   "Jealous Hex",
+   "Horrific Visage",
+   "You're Mine"
+  ],
+  "spell_markdown": "[Blindness](/Spells.aspx?ID=1453), [Cursed Metamorphosis](/Spells.aspx?ID=1479), [Daze](/Spells.aspx?ID=1482), [Horrific Visage](/Spells.aspx?ID=2112), [Illusory Disguise](/Spells.aspx?ID=1568), [Jealous Hex](/Spells.aspx?ID=2111), [Mariner's Curse](/Spells.aspx?ID=1593), [Outcast's Curse](/Spells.aspx?ID=1620), [Phantasmagoria](/Spells.aspx?ID=1629), [Quandary](/Spells.aspx?ID=1644), [Stupefy](/Spells.aspx?ID=1691), [Warp Mind](/Spells.aspx?ID=1754), [You're Mine](/Spells.aspx?ID=2113)",
+  "summary": "A hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul.",
+  "summary_markdown": "A hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul.",
+  "text": " Hag Source Player Core 2 pg. 152 A hag cursed your family long ago, or you are a descendant of a hag or changeling, and their magic infests your blood and soul. Tradition Occult Bloodline Skills Deception, Occultism Sourcerous Gifts - Cantrip Daze - 1st Illusory Disguise - 2nd Stupefy - 3rd Blindness - 4th Outcast's Curse - 5th Mariner's Curse - 6th Cursed Metamorphosis - 7th Warp Mind - 8th Quandary - 9th Phantasmagoria Bloodline Spells - Initial Jealous Hex - Advanced Horrific Visage - Greater You're Mine Blood Magic—Retributive Spite Malice and acrimony take physical form around you. You deal 4 mental damage per spell rank (basic Will save) to the first creature that deals damage to you before the end of your next turn; if no creature damages you in that time, you consume that spite to gain temporary Hit Points at the beginning of your next turn equal to the spell's rank. These temporary Hit Points last until the beginning of your following turn. ",
+  "tradition": [
+   "Occult"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Imperial"
+  ],
+  "bloodline_markdown": "Imperial",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-27",
+  "legacy_id": [
+   "bloodline-9"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Imperial](/Bloodlines.aspx?ID=27)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\n\nOne of your ancestors was a mortal who mastered magic.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=35),\r\n[Society](/Skills.aspx?ID=47)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Detect Magic](/Spells.aspx?ID=1485)\r\n- **1st** [Force Barrage](/Spells.aspx?ID=1536)\r\n- **2nd** [Dispel Magic](/Spells.aspx?ID=1493)\r\n- **3rd** [Haste](/Spells.aspx?ID=1553)\r\n- **4th** [Translocate](/Spells.aspx?ID=1724)\r\n- **5th** [Scouting Eye](/Spells.aspx?ID=1661)\r\n- **6th** [Disintegrate](/Spells.aspx?ID=1492)\r\n- **7th** [Retrocognition](/Spells.aspx?ID=1652)\r\n- **8th** [Quandary](/Spells.aspx?ID=1644)\r\n- **9th** [Implosion](/Spells.aspx?ID=1572)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Ancestral Memories](/Spells.aspx?ID=2114)\r\n- **Advanced** [Extend Blood Magic](/Spells.aspx?ID=2115)\r\n- **Greater** [Arcane Countermeasure](/Spells.aspx?ID=2116)\r\n\r\n**Blood Magic—Imperious Defense**\r\nRaw magic emanates from every cell in your body, protecting you. Until the start of your next turn, you gain your choice of either a +1 status bonus to AC or a +1 status bonus to saving throws.\r\n\r\n</column>",
+  "name": "Imperial",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 152",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\r\n\r\n**Tradition**\r\n[Arcane](/SpellLists.aspx?Tradition=1)\n\n**Bloodline Skills**\r\n[Arcana](/Skills.aspx?ID=35),\r\n[Society](/Skills.aspx?ID=47)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOne of your ancestors was a mortal who mastered magic.\r\n</summary>",
+  "skill": [
+   "Arcana",
+   "Society"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 152"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 152",
+  "speed": {},
+  "spell": [
+   "Detect Magic",
+   "Force Barrage",
+   "Dispel Magic",
+   "Haste",
+   "Translocate",
+   "Scouting Eye",
+   "Disintegrate",
+   "Retrocognition",
+   "Quandary",
+   "Implosion",
+   "Ancestral Memories",
+   "Extend Blood Magic",
+   "Arcane Countermeasure"
+  ],
+  "spell_markdown": "[Ancestral Memories](/Spells.aspx?ID=2114), [Arcane Countermeasure](/Spells.aspx?ID=2116), [Detect Magic](/Spells.aspx?ID=1485), [Disintegrate](/Spells.aspx?ID=1492), [Dispel Magic](/Spells.aspx?ID=1493), [Extend Blood Magic](/Spells.aspx?ID=2115), [Force Barrage](/Spells.aspx?ID=1536), [Haste](/Spells.aspx?ID=1553), [Implosion](/Spells.aspx?ID=1572), [Quandary](/Spells.aspx?ID=1644), [Retrocognition](/Spells.aspx?ID=1652), [Scouting Eye](/Spells.aspx?ID=1661), [Translocate](/Spells.aspx?ID=1724)",
+  "summary": "One of your ancestors was a mortal who mastered magic.",
+  "summary_markdown": "One of your ancestors was a mortal who mastered magic.",
+  "text": " Imperial Source Player Core 2 pg. 152 One of your ancestors was a mortal who mastered magic. Tradition Arcane Bloodline Skills Arcana, Society Sourcerous Gifts - Cantrip Detect Magic - 1st Force Barrage - 2nd Dispel Magic - 3rd Haste - 4th Translocate - 5th Scouting Eye - 6th Disintegrate - 7th Retrocognition - 8th Quandary - 9th Implosion Bloodline Spells - Initial Ancestral Memories - Advanced Extend Blood Magic - Greater Arcane Countermeasure Blood Magic—Imperious Defense Raw magic emanates from every cell in your body, protecting you. Until the start of your next turn, you gain your choice of either a +1 status bonus to AC or a +1 status bonus to saving throws. ",
+  "tradition": [
+   "Arcane"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=27",
+  "weakness": {}
+ },
+ {
+  "bloodline": [
+   "Undead"
+  ],
+  "bloodline_markdown": "Undead",
+  "category": "bloodline",
+  "exclude_from_search": false,
+  "id": "bloodline-28",
+  "legacy_id": [
+   "bloodline-10"
+  ],
+  "markdown": "<title level=\"1\" right=\"Sorcerer Bloodline \" pfs=\"Standard\">[Undead](/Bloodlines.aspx?ID=28)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\n\nThe touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Religion](/Skills.aspx?ID=46)\n\n**Sourcerous Gifts**\r\n- **Cantrip** [Void Warp](/Spells.aspx?ID=1745)\r\n- **1st** [Harm](/Spells.aspx?ID=1552)\r\n- **2nd** [See the Unseen](/Spells.aspx?ID=1663)\r\n- **3rd** [Bind Undead](/Spells.aspx?ID=1449)\r\n- **4th** [Talking Corpse](/Spells.aspx?ID=1712)\r\n- **5th** [Invoke Spirits](/Spells.aspx?ID=1578)\r\n- **6th** [Vampiric Exsanguination](/Spells.aspx?ID=1735)\r\n- **7th** [Execute](/Spells.aspx?ID=1519)\r\n- **8th** [Canticle of Everlasting Grief](/Spells.aspx?ID=1459)\r\n- **9th** [Wails of the Damned](/Spells.aspx?ID=1747)\r\n\r\n**Bloodline Spells**\r\n- **Initial** [Undeath's Blessing](/Spells.aspx?ID=2117)\r\n- **Advanced** [Drain Life](/Spells.aspx?ID=2118)\r\n- **Greater** [Grasping Grave](/Spells.aspx?ID=2119)\r\n\r\n**Blood Magic—Stolen Life**\r\nYou can channel the necromantic energy in your blood. Either you gain temporary Hit Points equal to the spell's rank that last until the start of your next turn, or a target takes 1 void damage per spell rank (if the spell already deals initial void damage, combine this with the spell's initial damage before determining weaknesses and resistances).\r\n\r\n</column>",
+  "name": "Undead",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 152",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 152\r\n\r\n**Tradition**\r\n[Divine](/SpellLists.aspx?Tradition=2)\n\n**Bloodline Skills**\r\n[Intimidation](/Skills.aspx?ID=40),\r\n[Religion](/Skills.aspx?ID=46)\r\n\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire.\r\n</summary>",
+  "skill": [
+   "Intimidation",
+   "Religion"
+  ],
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 152"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 152",
+  "speed": {},
+  "spell": [
+   "Void Warp",
+   "Harm",
+   "See the Unseen",
+   "Bind Undead",
+   "Talking Corpse",
+   "Invoke Spirits",
+   "Vampiric Exsanguination",
+   "Execute",
+   "Canticle of Everlasting Grief",
+   "Wails of the Damned",
+   "Undeath's Blessing",
+   "Drain Life",
+   "Grasping Grave"
+  ],
+  "spell_markdown": "[Bind Undead](/Spells.aspx?ID=1449), [Canticle of Everlasting Grief](/Spells.aspx?ID=1459), [Drain Life](/Spells.aspx?ID=2118), [Execute](/Spells.aspx?ID=1519), [Grasping Grave](/Spells.aspx?ID=2119), [Harm](/Spells.aspx?ID=1552), [Invoke Spirits](/Spells.aspx?ID=1578), [See the Unseen](/Spells.aspx?ID=1663), [Talking Corpse](/Spells.aspx?ID=1712), [Undeath's Blessing](/Spells.aspx?ID=2117), [Vampiric Exsanguination](/Spells.aspx?ID=1735), [Void Warp](/Spells.aspx?ID=1745), [Wails of the Damned](/Spells.aspx?ID=1747)",
+  "summary": "The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire.",
+  "summary_markdown": "The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire.",
+  "text": " Undead Source Player Core 2 pg. 152 The touch of undeath runs through your blood. Your family tree might contain powerful undead, like a vampire. Tradition Divine Bloodline Skills Intimidation, Religion Sourcerous Gifts - Cantrip Void Warp - 1st Harm - 2nd See the Unseen - 3rd Bind Undead - 4th Talking Corpse - 5th Invoke Spirits - 6th Vampiric Exsanguination - 7th Execute - 8th Canticle of Everlasting Grief - 9th Wails of the Damned Bloodline Spells - Initial Undeath's Blessing - Advanced Drain Life - Greater Grasping Grave Blood Magic—Stolen Life You can channel the necromantic energy in your blood. Either you gain temporary Hit Points equal to the spell's rank that last until the start of your next turn, or a target takes 1 void damage per spell rank (if the spell already deals initial void damage, combine this with the spell's initial damage before determining weaknesses and resistances). ",
+  "tradition": [
+   "Divine"
+  ],
+  "trait_markdown": "",
+  "type": "Sorcerer Bloodline",
+  "url": "/Bloodlines.aspx?ID=28",
+  "weakness": {}
+ }
+]

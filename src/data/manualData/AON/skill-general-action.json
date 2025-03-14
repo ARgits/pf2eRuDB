@@ -1,0 +1,900 @@
+[
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-1",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Decipher Writing](/Skills.aspx?ID=1&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 234 <sup>4.0</sup>\n\nWhen you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. Arcana is typically used for writing about magic or science, Occultism for esoteric texts about mysteries and philosophy, Religion for scripture, and Society for coded messages or archaic documents.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=2)] Decipher Writing about arcane theory.\r\n\r\n[[Occultism](/Skills.aspx?ID=11)] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings.\r\n\r\n[[Religion](/Skills.aspx?ID=13)] Decipher Writing of a religious nature, including allegories, homilies, and proverbs.\r\n\r\n[[Society](/Skills.aspx?ID=14)] Decipher Writing that’s a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don’t know.\r\n\r\n<title level=\"2\">Item Bonuses for Decipher Writing</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Spectacles of Understanding](/Equipment.aspx?ID=882)</td>\r\n<td>+1</td>\r\n<td>5</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Conundrum Spectacles](/Equipment.aspx?ID=1468)</td>\r\n<td>+1</td>\r\n<td>5</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Conundrum Spectacles (Greater)](/Equipment.aspx?ID=1468)</td>\r\n<td>+2</td>\r\n<td>10</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Spectacles of Understanding (Greater)](/Equipment.aspx?ID=882)</td>\r\n<td>+2</td>\r\n<td>11</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Whispering Staff](/Equipment.aspx?ID=2146)</td>\r\n<td>+3</td>\r\n<td>20</td>\r\n<td>[Staves](/equipment/staves)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\n\n<document level=\"2\" id=\"action-22\" />",
+  "name": "Decipher Writing",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 234",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-20"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 234 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 234"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 234 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …",
+  "summary_markdown": "When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …",
+  "text": " Decipher Writing (Trained) Source Core Rulebook pg. 234 4.0 When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. Arcana is typically used for writing about magic or science, Occultism for esoteric texts about mysteries and philosophy, Religion for scripture, and Society for coded messages or archaic documents. Skill Uses [Arcana] Decipher Writing about arcane theory. [Occultism] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, weird philosophies, and incoherent ramblings. [Religion] Decipher Writing of a religious nature, including allegories, homilies, and proverbs. [Society] Decipher Writing that’s a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don’t know. Item Bonuses for Decipher Writing Item Bonus Level Category Consumable Note Spectacles of Understanding +1 5 Other Worn Items No Conundrum Spectacles +1 5 Other Worn Items No Conundrum Spectacles (Greater) +2 10 Other Worn Items No Spectacles of Understanding (Greater) +2 11 Other Worn Items No Whispering Staff +3 20 Staves No ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=1&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-2",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Earn Income](/Skills.aspx?ID=2&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 235 <sup>4.0</sup>\n\nYou can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won’t come up in every campaign.\n\n In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you’re using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher.\n\n[Earn Income Calculator](/earn-income-calculator)\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Crafting](/Skills.aspx?ID=4)] Earn Income by crafting goods for the market.\r\n\r\n[[Lore](/Skills.aspx?ID=8)] Earn Income by using your knowledge to practice a trade.\r\n\r\n[[Performance](/Skills.aspx?ID=12)] Earn Income by staging a performance.\r\n\r\n<title level=\"2\">Item Bonuses for Earn Income</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Fortune Cord](/Equipment.aspx?ID=3169)</td>\r\n<td>+2</td>\r\n<td>11</td>\r\n<td>[Held Items](/equipment/held-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Hat of Many Minds](/Equipment.aspx?ID=1060)</td>\r\n<td>+2</td>\r\n<td>12</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\n\n<title level=\"2\" right=\"\">Income Examples</title>The following examples show the kinds of tasks your character might take on to Earn Income during low-level and high-level play. \n\n<title level=\"3\" right=\"\">Harsk Makes Tea</title> Harsk is a 3rd-level ranger and an expert at harvesting and brewing tea. He has a Tea Lore modifier of +7. He has 30 days of downtime at his disposal and decides to work at a prestigious local tea house. The GM decides this is a 5th-level task if Harsk wants to assist the tea master, or a 2nd-level task if he wants to serve tea. Harsk chooses the tougher task, and the GM secretly sets the DC at 20.\n\n Harsk rolls a 4 on his Tea Lore check for a result of 11. Poor Harsk has failed! He earns only 2 sp for his efforts and continues working for 3 more days, for a total of 8 sp.\n\n At that point, the GM offers Harsk a choice: either he can finish out the week with the tea master and look for a new job, or he can lower his ambitions and serve in the tea house. Harsk, now more aware of his own capabilities, accepts the less prestigious job for now. He moves to his new job and attempts a new Tea Lore check against DC 16. Rolling a 19, he gets a result of 26—a critical success! He earns 5 sp per day (like a success at a 3rd-level task). The GM rules that demand will be high enough that Harsk can work there for the remainder of his downtime if he so chooses, a total of 26 days. Harsk accepts and earns a total of 138 sp (13 gp, 8 sp) that month. \n\n<title level=\"3\" right=\"\">Lem Performs</title> Lem is a 16th-level bard and legendary with his flute. He has a Performance modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles. He finds a momentous offer indeed—a performance in a celestial realm, and Lem's patron goddess Shelyn might even be in attendance! This is a 20th-level task, and the GM secretly sets the DC at 40.\n\n Lem rolls an 11 on his Performance check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days).\n\n With 23 days of downtime left, Lem accepts a 14th-level task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose.\n\n<title level=\"2\" right=\"\">Extra Preparation</title> When Earning Income, you might be able to spend days of downtime to prepare for your task, which adjusts the DC of the skill check. This might involve rehearsing a play, studying a topic, and so on. The GM determines how long preparation takes and how much the DC changes. This is most useful when you're trying a task that's higher level than you; otherwise such tasks have an increased DC! \n\n<title level=\"2\" right=\"\">Ending Or Interrupting Tasks</title> When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs.\n\n However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.\r\n\r\n<document level=\"2\" id=\"action-23\" />\r\n\r\n<title level=\"2\">Crafting Goods for the Market [[Crafting](/Skills.aspx?ID=4)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 237 <sup>4.0</sup>\r\n\r\nUsing Crafting, you can work at producing common items for the market. It’s usually easy to find work making basic items whose level is 1 or 2 below your settlement’s level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don’t occur as often and might have special requirements—or serious consequences if you disappoint a prominent client. \r\n\r\n<title level=\"2\">Practicing a Trade [[Lore](/Skills.aspx?ID=8)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 237 <sup>4.0</sup>\r\n\r\nYou apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there’s high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you’re attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant’s scale to buy and sell valuables in a market.\r\n\r\n<title level=\"2\">Staging a Performance [[Performance](/Skills.aspx?ID=12)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\r\n\r\nYou perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.",
+  "name": "Earn Income",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 235",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-21"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 235 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 235"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 235 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes …",
+  "summary_markdown": "You can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes …",
+  "text": " Earn Income (Trained) Source Core Rulebook pg. 235 4.0 You can use a skill—typically Crafting, Lore, or Performance—to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won’t come up in every campaign. In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you’re using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher. Earn Income Calculator Skill Uses [Crafting] Earn Income by crafting goods for the market. [Lore] Earn Income by using your knowledge to practice a trade. [Performance] Earn Income by staging a performance. Item Bonuses for Earn Income Item Bonus Level Category Consumable Note Fortune Cord +2 11 Held Items No Hat of Many Minds +2 12 Other Worn Items No Income Examples The following examples show the kinds of tasks your character might take on to Earn Income during low-level and high-level play. Harsk Makes Tea Harsk is a 3rd-level ranger and an expert at harvesting and brewing tea. He has a Tea Lore modifier of +7. He has 30 days of downtime at his disposal and decides to work at a prestigious local tea house. The GM decides this is a 5th-level task if Harsk wants to assist the tea master, or a 2nd-level task if he wants to serve tea. Harsk chooses the tougher task, and the GM secretly sets the DC at 20. Harsk rolls a 4 on his Tea Lore check for a result of 11. Poor Harsk has failed! He earns only 2 sp for his efforts and continues working for 3 more days, for a total of 8 sp. At that point, the GM offers Harsk a choice: either he can finish out the week with the tea master and look for a new job, or he can lower his ambitions and serve in the tea house. Harsk, now more aware of his own capabilities, accepts the less prestigious job for now. He moves to his new job and attempts a new Tea Lore check against DC 16. Rolling a 19, he gets a result of 26—a critical success! He earns 5 sp per day (like a success at a 3rd-level task). The GM rules that demand will be high enough that Harsk can work there for the remainder of his downtime if he so chooses, a total of 26 days. Harsk accepts and earns a total of 138 sp (13 gp, 8 sp) that month. Lem Performs Lem is a 16th-level bard and legendary with his flute. He has a Performance modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles. He finds a momentous offer indeed—a performance in a celestial realm, and Lem's patron goddess Shelyn might even be in attendance! This is a 20th-level task, and the GM secretly sets the DC at 40. Lem rolls an 11 on his Performance check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days). With 23 days of downtime left, Lem accepts a 14th-level task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose. Extra Preparation When Earning Income, you might be able to spend days of downtime to prepare for your task, which adjusts the DC of the skill check. This might involve rehearsing a play, studying a topic, and so on. The GM determines how long preparation takes and how much the DC changes. This is most useful when you're trying a task that's higher level than you; otherwise such tasks have an increased DC! Ending Or Interrupting Tasks When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs. However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check. Crafting Goods for the Market [Crafting] Source Core Rulebook pg. 237 4.0 Using Crafting, you can work at producing common items for the market. It’s usually easy to find work making basic items whose level is 1 or 2 below your settlement’s level (see Earn Income on page 504). Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full price. These opportunities don’t occur as often and might have special requirements—or serious consequences if you disappoint a prominent client. Practicing a Trade [Lore] Source Core Rulebook pg. 237 4.0 You apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there’s high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you’re attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant’s scale to buy and sell valuables in a market. Staging a Performance [Performance] Source Core Rulebook pg. 238 4.0 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=2&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-3",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Identify Magic](/Skills.aspx?ID=3&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\n\nUsing the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=2)] Identify Magic , particularly arcane magic.\r\n\r\n[[Nature](/Skills.aspx?ID=10)] Identify Magic , particularly primal magic.\r\n\r\n[[Occultism](/Skills.aspx?ID=11)] Identify Magic , particularly occult magic.\r\n\r\n[[Religion](/Skills.aspx?ID=13)] Identify Magic , particularly divine magic.\r\n\r\n<title level=\"2\">Item Bonuses for Identify Magic</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Auric Noodles](/Equipment.aspx?ID=1909)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Alchemical Food](/equipment/alchemical-items/alchemical-food)</td>\r\n<td>Yes</td>\r\n<td>Checks to Identify Magic</td>\r\n</tr>\n\n<tr>\r\n<td>[Exploration Lens (Detecting)](/Equipment.aspx?ID=1443)</td>\r\n<td>+2</td>\r\n<td>10</td>\r\n<td>[Held Items](/equipment/held-items)</td>\r\n<td>No</td>\r\n<td>Checks to Identify Magic within the light</td>\r\n</tr>\n\n<tr>\r\n<td>[The Vision](/Equipment.aspx?ID=2492)</td>\r\n<td>+2</td>\r\n<td>20</td>\r\n<td>[The Deck of Destiny](/equipment/artifacts/the-deck-of-destiny)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Whispering Staff](/Equipment.aspx?ID=2146)</td>\r\n<td>+3</td>\r\n<td>20</td>\r\n<td>[Staves](/equipment/staves)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\n\n<document level=\"2\" id=\"action-24\" />",
+  "name": "Identify Magic",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 238",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-22"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUsing the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 238"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a …",
+  "summary_markdown": "Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a …",
+  "text": " Identify Magic (Trained) Source Core Rulebook pg. 238 4.0 Using the skill related to the appropriate tradition, as explained in Magical Traditions and Skills on page 238, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is. Skill Uses [Arcana] Identify Magic , particularly arcane magic. [Nature] Identify Magic , particularly primal magic. [Occultism] Identify Magic , particularly occult magic. [Religion] Identify Magic , particularly divine magic. Item Bonuses for Identify Magic Item Bonus Level Category Consumable Note Auric Noodles +1 3 Alchemical Food Yes Checks to Identify Magic Exploration Lens (Detecting) +2 10 Held Items No Checks to Identify Magic within the light The Vision +2 20 The Deck of Destiny No Whispering Staff +3 20 Staves No ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=3&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-4",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Learn a Spell](/Skills.aspx?ID=4&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\n\nIf you’re a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. Table 4–3: Learning a Spell lists the Price of the materials needed to Learn a Spell of each level.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=2)] Learn a Spell from the arcane tradition.\r\n\r\n[[Nature](/Skills.aspx?ID=10)] Learn a Spell from the primal tradition.\r\n\r\n[[Occultism](/Skills.aspx?ID=11)] Learn a Spell from the occult tradition.\r\n\r\n[[Religion](/Skills.aspx?ID=13)] Learn a Spell from the divine tradition.\r\n\r\n<title level=\"2\">Item Bonuses for Learn a Spell</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Endless Grimoire](/Equipment.aspx?ID=992)</td>\r\n<td>+1</td>\r\n<td>6</td>\r\n<td>[Grimoires](/equipment/grimoires)</td>\r\n<td>No</td>\r\n<td>Checks to Learn a Spell if you do so by inscribing the spell into the grimoire</td>\r\n</tr>\n\n<tr>\r\n<td>[Endless Grimoire (Greater)](/Equipment.aspx?ID=992)</td>\r\n<td>+2</td>\r\n<td>10</td>\r\n<td>[Grimoires](/equipment/grimoires)</td>\r\n<td>No</td>\r\n<td>Checks to Learn a Spell if you do so by inscribing the spell into the grimoire</td>\r\n</tr>\n\n<tr>\r\n<td>[Endless Grimoire (Major)](/Equipment.aspx?ID=992)</td>\r\n<td>+2</td>\r\n<td>14</td>\r\n<td>[Grimoires](/equipment/grimoires)</td>\r\n<td>No</td>\r\n<td>Checks to Learn a Spell if you do so by inscribing the spell into the grimoire</td>\r\n</tr>\n\n<tr>\r\n<td>[Endless Grimoire (True)](/Equipment.aspx?ID=992)</td>\r\n<td>+3</td>\r\n<td>18</td>\r\n<td>[Grimoires](/equipment/grimoires)</td>\r\n<td>No</td>\r\n<td>Checks to Learn a Spell if you do so by inscribing the spell into the grimoire</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\n\n<document level=\"2\" id=\"action-25\" />",
+  "name": "Learn a Spell",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 238",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-23"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf you’re a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. Table 4–3: Learning a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 238"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "If you’re a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. Table 4–3: Learning a …",
+  "summary_markdown": "If you’re a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. Table 4–3: Learning a …",
+  "text": " Learn a Spell (Trained) Source Core Rulebook pg. 238 4.0 If you’re a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. Table 4–3: Learning a Spell lists the Price of the materials needed to Learn a Spell of each level. Skill Uses [Arcana] Learn a Spell from the arcane tradition. [Nature] Learn a Spell from the primal tradition. [Occultism] Learn a Spell from the occult tradition. [Religion] Learn a Spell from the divine tradition. Item Bonuses for Learn a Spell Item Bonus Level Category Consumable Note Endless Grimoire +1 6 Grimoires No Checks to Learn a Spell if you do so by inscribing the spell into the grimoire Endless Grimoire (Greater) +2 10 Grimoires No Checks to Learn a Spell if you do so by inscribing the spell into the grimoire Endless Grimoire (Major) +2 14 Grimoires No Checks to Learn a Spell if you do so by inscribing the spell into the grimoire Endless Grimoire (True) +3 18 Grimoires No Checks to Learn a Spell if you do so by inscribing the spell into the grimoire ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=4&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-5",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Recall Knowledge](/Skills.aspx?ID=5&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\n\nTo remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use Medicine to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=2)] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes.\r\n\r\n[[Crafting](/Skills.aspx?ID=4)] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs.\r\n\r\n[[Lore](/Skills.aspx?ID=8)] Recall Knowledge about the subject of your Lore skill’s subcategory.\r\n\r\n[[Nature](/Skills.aspx?ID=10)] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes.\r\n\r\n[[Occultism](/Skills.aspx?ID=11)] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes.\r\n\r\n[[Religion](/Skills.aspx?ID=13)] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes.\r\n\r\n[[Society](/Skills.aspx?ID=14)] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.\r\n\r\n[[Medicine](/Skills.aspx?ID=9)] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.\r\n\r\n<title level=\"2\">Item Bonuses for Recall Knowledge</title>\n<table>\r\n<thead>\r\n<tr>\r\n<th>Item</th>\r\n<th>Bonus</th>\r\n<th>Level</th>\r\n<th>Category</th>\r\n<th>Consumable</th>\r\n<th>Note</th>\r\n</tr>\r\n</thead>\r\n<tbody>\r\n\r\n<tr>\r\n<td>[Scholarly Journal](/Equipment.aspx?ID=64)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Adventuring Gear](/equipment/adventuring-gear)</td>\r\n<td>No</td>\r\n<td>Recall Knowledge about the subject</td>\r\n</tr>\n\n<tr>\r\n<td>[Survey Map](/Equipment.aspx?ID=65)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Adventuring Gear](/equipment/adventuring-gear)</td>\r\n<td>No</td>\r\n<td>Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map</td>\r\n</tr>\n\n<tr>\r\n<td>[Survey Map (Atlas)](/Equipment.aspx?ID=65)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Adventuring Gear](/equipment/adventuring-gear)</td>\r\n<td>No</td>\r\n<td>Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map</td>\r\n</tr>\n\n<tr>\r\n<td>[Hoax-Hunter's Kit](/Equipment.aspx?ID=1616)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Adventuring Gear](/equipment/adventuring-gear)</td>\r\n<td>No</td>\r\n<td>Recall Knowledge about a creature you are studying</td>\r\n</tr>\n\n<tr>\r\n<td>[Watch of Lost Ages](/Equipment.aspx?ID=2410)</td>\r\n<td>+1</td>\r\n<td>3</td>\r\n<td>[Relic Seeds](/equipment/relics/relic-seeds)</td>\r\n<td>No</td>\r\n<td>Recall Knowledge about historical subjects</td>\r\n</tr>\n\n<tr>\r\n<td>[Codex of Unimpeded Sight (Greater)](/Equipment.aspx?ID=991)</td>\r\n<td>+1</td>\r\n<td>12</td>\r\n<td>[Grimoires](/equipment/grimoires)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Exploration Lens (Investigating)](/Equipment.aspx?ID=1443)</td>\r\n<td>+1</td>\r\n<td>12</td>\r\n<td>[Held Items](/equipment/held-items)</td>\r\n<td>No</td>\r\n<td>Checks to Recall Knowledge while Investigating</td>\r\n</tr>\n\n<tr>\r\n<td>[Cinnamon Seers](/Equipment.aspx?ID=1910)</td>\r\n<td>+1</td>\r\n<td>4</td>\r\n<td>[Alchemical Food](/equipment/alchemical-items/alchemical-food)</td>\r\n<td>Yes</td>\r\n<td>Checks to Recall Knowledge</td>\r\n</tr>\n\n<tr>\r\n<td>[Insight Coffee (Lesser)](/Equipment.aspx?ID=1920)</td>\r\n<td>+2</td>\r\n<td>6</td>\r\n<td>[Alchemical Food](/equipment/alchemical-items/alchemical-food)</td>\r\n<td>Yes</td>\r\n<td>Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine)</td>\r\n</tr>\n\n<tr>\r\n<td>[Diadem of Intellect](/Equipment.aspx?ID=401)</td>\r\n<td>+3</td>\r\n<td>17</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Artificer Spectacles](/Equipment.aspx?ID=2134)</td>\r\n<td>+3</td>\r\n<td>17</td>\r\n<td>[Other Worn Items](/equipment/worn-items/other-worn-items)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Whispering Staff](/Equipment.aspx?ID=2146)</td>\r\n<td>+3</td>\r\n<td>20</td>\r\n<td>[Staves](/equipment/staves)</td>\r\n<td>No</td>\r\n<td></td>\r\n</tr>\n\n<tr>\r\n<td>[Insight Coffee (Moderate)](/Equipment.aspx?ID=1920)</td>\r\n<td>+3</td>\r\n<td>12</td>\r\n<td>[Alchemical Food](/equipment/alchemical-items/alchemical-food)</td>\r\n<td>Yes</td>\r\n<td>Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine)</td>\r\n</tr>\n\n<tr>\r\n<td>[Insight Coffee (Greater)](/Equipment.aspx?ID=1920)</td>\r\n<td>+4</td>\r\n<td>19</td>\r\n<td>[Alchemical Food](/equipment/alchemical-items/alchemical-food)</td>\r\n<td>Yes</td>\r\n<td>Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine)</td>\r\n</tr>\r\n\r\n</tbody>\r\n</table>\n\n<document level=\"2\" id=\"action-26\" />",
+  "name": "Recall Knowledge",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 238",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-24"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 238"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "To remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to …",
+  "summary_markdown": "To remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to …",
+  "text": " Recall Knowledge (Untrained) Source Core Rulebook pg. 238 4.0 To remember useful information on a topic, you can attempt to Recall Knowledge. You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use Medicine to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge. Skill Uses [Arcana] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like dragons and beasts); and the Elemental, Astral, and Shadow Planes. [Crafting] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs. [Lore] Recall Knowledge about the subject of your Lore skill’s subcategory. [Nature] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, the Material Plane, and the Elemental Planes. [Occultism] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and the Positive Energy, Negative Energy, Shadow, Astral, and Ethereal Planes. [Religion] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), the Outer Sphere, and the Positive and Negative Energy Planes. [Society] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons. [Medicine] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed. Item Bonuses for Recall Knowledge Item Bonus Level Category Consumable Note Scholarly Journal +1 3 Adventuring Gear No Recall Knowledge about the subject Survey Map +1 3 Adventuring Gear No Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map Survey Map (Atlas) +1 3 Adventuring Gear No Skill checks to Recall Knowledge, provided the checks are related to the location detailed on the map Hoax-Hunter's Kit +1 3 Adventuring Gear No Recall Knowledge about a creature you are studying Watch of Lost Ages +1 3 Relic Seeds No Recall Knowledge about historical subjects Codex of Unimpeded Sight (Greater) +1 12 Grimoires No Exploration Lens (Investigating) +1 12 Held Items No Checks to Recall Knowledge while Investigating Cinnamon Seers +1 4 Alchemical Food Yes Checks to Recall Knowledge Insight Coffee (Lesser) +2 6 Alchemical Food Yes Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) Diadem of Intellect +3 17 Other Worn Items No Artificer Spectacles +3 17 Other Worn Items No Whispering Staff +3 20 Staves No Insight Coffee (Moderate) +3 12 Alchemical Food Yes Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) Insight Coffee (Greater) +4 19 Alchemical Food Yes Recall Knowledge with a skill determined by the blend chosen when the item is crafted (Religion, Nature, Arcana, Society, Occultism, Medicine) ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=5&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-6",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Subsist](/Skills.aspx?ID=6&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\n\nIf you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival if you’re in the wild.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Society](/Skills.aspx?ID=14)] Subsist in a settlement by finding shelter, scrounging, or begging for food. \r\n\r\n[[Survival](/Skills.aspx?ID=16)] Subsist in the wild by foraging for food and building shelter.\n\n<document level=\"2\" id=\"action-27\" />",
+  "name": "Subsist",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 238",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "skill-general-action-25"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 238"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 238 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival …",
+  "summary_markdown": "If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival …",
+  "text": " Subsist (Untrained) Source Core Rulebook pg. 238 4.0 If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you’re in a settlement or Survival if you’re in the wild. Skill Uses [Society] Subsist in a settlement by finding shelter, scrounging, or begging for food. [Survival] Subsist in the wild by foraging for food and building shelter.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=6&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-7",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Limited\">[Tap Ley Line](/Skills.aspx?ID=7&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 215 <sup>1.1</sup>\n\nYou can use your magical prowess to temporarily access the power of a [ley line](/Rules.aspx?ID=1531). Tapping the Ley Line requires a skill check using the skill associated with its tradition ([Arcana](/Skills.aspx?ID=2) for [arcane](/Traits.aspx?ID=11), [Nature](/Skills.aspx?ID=10) for [primal](/Traits.aspx?ID=134), [Occultism](/Skills.aspx?ID=11) for [occult](/Traits.aspx?ID=120), and [Religion](/Skills.aspx?ID=13) for [divine](/Traits.aspx?ID=48)). In cases where a ley line has multiple associated traditions, you can use any of the appropriate skills to Tap the Ley Line. The benefits of a ley line are always [magical](/Traits.aspx?ID=103) in nature and can be [counteracted](/Rules.aspx?ID=371) in a similar way to a magic item.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=2)] Tap Ley Line tapping an arcane ley line\r\n\r\n[[Nature](/Skills.aspx?ID=10)] Tap Ley Line tapping a primal ley line\r\n\r\n[[Occultism](/Skills.aspx?ID=11)] Tap Ley Line tapping an occult ley line\r\n\r\n[[Religion](/Skills.aspx?ID=13)] Tap Ley Line tapping a divine ley line\n\n<document level=\"2\" id=\"action-773\" />",
+  "name": "Tap Ley Line",
+  "pfs": "Limited",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 215",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 215 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use your magical prowess to temporarily access the power of a  ley line . Tapping the Ley Line requires a skill check using the skill …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 215"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 215 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "You can use your magical prowess to temporarily access the power of a  ley line . Tapping the Ley Line requires a skill check using the skill …",
+  "summary_markdown": "You can use your magical prowess to temporarily access the power of a  ley line . Tapping the Ley Line requires a skill check using the skill …",
+  "text": " Tap Ley Line (Trained) Source Secrets of Magic pg. 215 1.1 You can use your magical prowess to temporarily access the power of a ley line. Tapping the Ley Line requires a skill check using the skill associated with its tradition (Arcana for arcane, Nature for primal, Occultism for occult, and Religion for divine). In cases where a ley line has multiple associated traditions, you can use any of the appropriate skills to Tap the Ley Line. The benefits of a ley line are always magical in nature and can be counteracted in a similar way to a magic item. Skill Uses [Arcana] Tap Ley Line tapping an arcane ley line [Nature] Tap Ley Line tapping a primal ley line [Occultism] Tap Ley Line tapping an occult ley line [Religion] Tap Ley Line tapping a divine ley line\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=7&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-8",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Abandon Hex](/Skills.aspx?ID=8&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\n\n<title level=\"2\">Skill Uses</title>\r\n[[Exploration](/Skills.aspx?ID=23)] Abandon Hex \r\n\r\n[[Wilderness](/Skills.aspx?ID=33)] Abandon Hex \n\n<document level=\"2\" id=\"action-1371\" />",
+  "name": "Abandon Hex",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 518",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 518"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518",
+  "speed": {},
+  "text": " Abandon Hex (Untrained) Source Kingmaker Adventure Path pg. 518 Skill Uses [Exploration] Abandon Hex [Wilderness] Abandon Hex ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=8&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-9",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Build Structure](/Skills.aspx?ID=9&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\n\n<document level=\"2\" id=\"action-1372\" />",
+  "name": "Build Structure",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 518",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 518"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518",
+  "speed": {},
+  "text": " Build Structure (Untrained) Source Kingmaker Adventure Path pg. 518\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=9&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-10",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Claim Hex](/Skills.aspx?ID=10&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\n\n<title level=\"2\">Skill Uses</title>\r\n[[Exploration](/Skills.aspx?ID=23)] Claim Hex \r\n\r\n[[Wilderness](/Skills.aspx?ID=33)] Claim Hex \n\n<document level=\"2\" id=\"action-1373\" />",
+  "name": "Claim Hex",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 518",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 518"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518",
+  "speed": {},
+  "text": " Claim Hex (Untrained) Source Kingmaker Adventure Path pg. 518 Skill Uses [Exploration] Claim Hex [Wilderness] Claim Hex ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=10&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-11",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Clear Hex](/Skills.aspx?ID=11&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\n\n<title level=\"2\">Skill Uses</title>\r\n[[Engineering](/Skills.aspx?ID=22)] Clear Hex \r\n\r\n[[Exploration](/Skills.aspx?ID=23)] Clear Hex \n\n<document level=\"2\" id=\"action-1374\" />",
+  "name": "Clear Hex",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 518",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 518"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 518",
+  "speed": {},
+  "text": " Clear Hex (Untrained) Source Kingmaker Adventure Path pg. 518 Skill Uses [Engineering] Clear Hex [Exploration] Clear Hex ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=11&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-12",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Establish Settlement](/Skills.aspx?ID=12&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519\n\n<title level=\"2\">Skill Uses</title>\r\n[[Engineering](/Skills.aspx?ID=22)] Establish Settlement \r\n\r\n[[Industry](/Skills.aspx?ID=25)] Establish Settlement \r\n\r\n[[Politics](/Skills.aspx?ID=28)] Establish Settlement \r\n\r\n[[Scholarship](/Skills.aspx?ID=29)] Establish Settlement \n\n<document level=\"2\" id=\"action-1375\" />",
+  "name": "Establish Settlement",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 519",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 519"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519",
+  "speed": {},
+  "text": " Establish Settlement (Untrained) Source Kingmaker Adventure Path pg. 519 Skill Uses [Engineering] Establish Settlement [Industry] Establish Settlement [Politics] Establish Settlement [Scholarship] Establish Settlement ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=12&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-13",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Establish Trade Agreement](/Skills.aspx?ID=13&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519\n\n<title level=\"2\">Skill Uses</title>\r\n[[Boating](/Skills.aspx?ID=20)] Establish Trade Agreement \r\n\r\n[[Magic](/Skills.aspx?ID=27)] Establish Trade Agreement \r\n\r\n[[Trade](/Skills.aspx?ID=31)] Establish Trade Agreement \n\n<document level=\"2\" id=\"action-1376\" />",
+  "name": "Establish Trade Agreement",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 519",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 519"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 519",
+  "speed": {},
+  "text": " Establish Trade Agreement (Untrained) Source Kingmaker Adventure Path pg. 519 Skill Uses [Boating] Establish Trade Agreement [Magic] Establish Trade Agreement [Trade] Establish Trade Agreement ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=13&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-14",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Focused Attention](/Skills.aspx?ID=14&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\n\n<title level=\"2\">Skill Uses</title>\r\n[[Agriculture](/Skills.aspx?ID=18)] Focused Attention \r\n\r\n[[Arts](/Skills.aspx?ID=19)] Focused Attention \r\n\r\n[[Boating](/Skills.aspx?ID=20)] Focused Attention \r\n\r\n[[Defense](/Skills.aspx?ID=21)] Focused Attention \r\n\r\n[[Engineering](/Skills.aspx?ID=22)] Focused Attention \r\n\r\n[[Exploration](/Skills.aspx?ID=23)] Focused Attention \r\n\r\n[[Folklore](/Skills.aspx?ID=24)] Focused Attention \r\n\r\n[[Industry](/Skills.aspx?ID=25)] Focused Attention \r\n\r\n[[Intrigue](/Skills.aspx?ID=26)] Focused Attention \r\n\r\n[[Magic](/Skills.aspx?ID=27)] Focused Attention \r\n\r\n[[Politics](/Skills.aspx?ID=28)] Focused Attention \r\n\r\n[[Scholarship](/Skills.aspx?ID=29)] Focused Attention \r\n\r\n[[Statecraft](/Skills.aspx?ID=30)] Focused Attention \r\n\r\n[[Trade](/Skills.aspx?ID=31)] Focused Attention \r\n\r\n[[Warfare](/Skills.aspx?ID=32)] Focused Attention \r\n\r\n[[Wilderness](/Skills.aspx?ID=33)] Focused Attention \n\n<document level=\"2\" id=\"action-1377\" />",
+  "name": "Focused Attention",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 520",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 520"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520",
+  "speed": {},
+  "text": " Focused Attention (Untrained) Source Kingmaker Adventure Path pg. 520 Skill Uses [Agriculture] Focused Attention [Arts] Focused Attention [Boating] Focused Attention [Defense] Focused Attention [Engineering] Focused Attention [Exploration] Focused Attention [Folklore] Focused Attention [Industry] Focused Attention [Intrigue] Focused Attention [Magic] Focused Attention [Politics] Focused Attention [Scholarship] Focused Attention [Statecraft] Focused Attention [Trade] Focused Attention [Warfare] Focused Attention [Wilderness] Focused Attention ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=14&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-15",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[New Leadership](/Skills.aspx?ID=15&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\n\n<title level=\"2\">Skill Uses</title>\r\n[[Intrigue](/Skills.aspx?ID=26)] New Leadership \r\n\r\n[[Politics](/Skills.aspx?ID=28)] New Leadership \r\n\r\n[[Statecraft](/Skills.aspx?ID=30)] New Leadership \r\n\r\n[[Warfare](/Skills.aspx?ID=32)] New Leadership \n\n<document level=\"2\" id=\"action-1378\" />",
+  "name": "New Leadership",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 520",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 520"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520",
+  "speed": {},
+  "text": " New Leadership (Untrained) Source Kingmaker Adventure Path pg. 520 Skill Uses [Intrigue] New Leadership [Politics] New Leadership [Statecraft] New Leadership [Warfare] New Leadership ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=15&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-16",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Pledge of Fealty](/Skills.aspx?ID=16&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\n\n<title level=\"2\">Skill Uses</title>\r\n[[Intrigue](/Skills.aspx?ID=26)] Pledge of Fealty \r\n\r\n[[Statecraft](/Skills.aspx?ID=30)] Pledge of Fealty \r\n\r\n[[Warfare](/Skills.aspx?ID=32)] Pledge of Fealty \n\n<document level=\"2\" id=\"action-1379\" />",
+  "name": "Pledge of Fealty",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 520",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 520"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 520",
+  "speed": {},
+  "text": " Pledge of Fealty (Trained) Source Kingmaker Adventure Path pg. 520 Skill Uses [Intrigue] Pledge of Fealty [Statecraft] Pledge of Fealty [Warfare] Pledge of Fealty ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=16&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-17",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Quell Unrest](/Skills.aspx?ID=17&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\n\n<title level=\"2\">Skill Uses</title>\r\n[[Arts](/Skills.aspx?ID=19)] Quell Unrest \r\n\r\n[[Folklore](/Skills.aspx?ID=24)] Quell Unrest \r\n\r\n[[Intrigue](/Skills.aspx?ID=26)] Quell Unrest \r\n\r\n[[Magic](/Skills.aspx?ID=27)] Quell Unrest \r\n\r\n[[Politics](/Skills.aspx?ID=28)] Quell Unrest \r\n\r\n[[Warfare](/Skills.aspx?ID=32)] Quell Unrest \n\n<document level=\"2\" id=\"action-1380\" />",
+  "name": "Quell Unrest",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 521",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 521"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521",
+  "speed": {},
+  "text": " Quell Unrest (Untrained) Source Kingmaker Adventure Path pg. 521 Skill Uses [Arts] Quell Unrest [Folklore] Quell Unrest [Intrigue] Quell Unrest [Magic] Quell Unrest [Politics] Quell Unrest [Warfare] Quell Unrest ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=17&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-18",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Repair Reputation](/Skills.aspx?ID=18&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\n\n<title level=\"2\">Skill Uses</title>\r\n[[Arts](/Skills.aspx?ID=19)] Repair Reputation \r\n\r\n[[Engineering](/Skills.aspx?ID=22)] Repair Reputation \r\n\r\n[[Intrigue](/Skills.aspx?ID=26)] Repair Reputation \r\n\r\n[[Trade](/Skills.aspx?ID=31)] Repair Reputation \n\n<document level=\"2\" id=\"action-1381\" />",
+  "name": "Repair Reputation",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 521",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 521"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521",
+  "speed": {},
+  "text": " Repair Reputation (Trained) Source Kingmaker Adventure Path pg. 521 Skill Uses [Arts] Repair Reputation [Engineering] Repair Reputation [Intrigue] Repair Reputation [Trade] Repair Reputation ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=18&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-19",
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"\">[Rest and Relax](/Skills.aspx?ID=19&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\n\n<title level=\"2\">Skill Uses</title>\r\n[[Arts](/Skills.aspx?ID=19)] Rest and Relax \r\n\r\n[[Boating](/Skills.aspx?ID=20)] Rest and Relax \r\n\r\n[[Scholarship](/Skills.aspx?ID=29)] Rest and Relax \r\n\r\n[[Trade](/Skills.aspx?ID=31)] Rest and Relax \r\n\r\n[[Wilderness](/Skills.aspx?ID=33)] Rest and Relax \n\n<document level=\"2\" id=\"action-1382\" />",
+  "name": "Rest and Relax",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 521",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 521"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 521",
+  "speed": {},
+  "text": " Rest and Relax (Untrained) Source Kingmaker Adventure Path pg. 521 Skill Uses [Arts] Rest and Relax [Boating] Rest and Relax [Scholarship] Rest and Relax [Trade] Rest and Relax [Wilderness] Rest and Relax ",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=19&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-20",
+  "legacy_id": [
+   "skill-general-action-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Decipher Writing](/Skills.aspx?ID=20&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>\n\nWhen you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing.\n\n The skills used for Deciphering Writing and the types of texts they usually decipher are:\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=35)] Decipher Writing about arcane theory.\r\n\r\n[[Occultism](/Skills.aspx?ID=44)] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, obscure philosophies, and incoherent ramblings.\r\n\r\n[[Religion](/Skills.aspx?ID=46)] Decipher Writing of a religious nature, including allegories, homilies, and proverbs.\r\n\r\n[[Society](/Skills.aspx?ID=47)] Decipher Writing that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.\n\n<document level=\"2\" id=\"action-2363\" />",
+  "name": "Decipher Writing",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 228",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 228"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …",
+  "summary_markdown": "When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be …",
+  "text": " Decipher Writing (Trained) Source Player Core pg. 228 2.0 When you encounter particularly archaic or esoteric texts, the GM might require you to Decipher the Writing before you can understand it. You must be trained in the relevant skill to Decipher Writing. The skills used for Deciphering Writing and the types of texts they usually decipher are: Skill Uses [Arcana] Decipher Writing about arcane theory. [Occultism] Decipher Writing on occult topics, including complex metaphysical systems, syncretic principles, obscure philosophies, and incoherent ramblings. [Religion] Decipher Writing of a religious nature, including allegories, homilies, and proverbs. [Society] Decipher Writing that's a coded message, text written in an incomplete or archaic form, or in some cases, text in a language you don't know.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=20&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-21",
+  "legacy_id": [
+   "skill-general-action-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Earn Income](/Skills.aspx?ID=21&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>\n\nYou can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign.\n\nIn some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using [Religion](/Skills.aspx?ID=13) in a monastery to study old texts—but giving sermons at a church would still fall under [Performance](/Skills.aspx?ID=12) instead of Religion. You also might be able to use physical skills to make money, such as using [Acrobatics](/Skills.aspx?ID=1) to perform feats in a circus or Thievery to pick pockets. If you're using a skill other than [Crafting](/Skills.aspx?ID=4), [Lore](/Skills.aspx?ID=8), or Performance, the DC tends to be significantly higher.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Crafting](/Skills.aspx?ID=37)] Earn Income by crafting goods for the market.\r\n\r\n[[Lore](/Skills.aspx?ID=41)] Earn Income by using your knowledge to practice a trade.\r\n\r\n[[Performance](/Skills.aspx?ID=45)] Earn Income by staging a performance.\n\n<title level=\"2\" right=\"\">Income Examples</title>The following examples show the kinds of tasks your character might take on to Earn Income during low-level and high-level play. \n\n<title level=\"3\" right=\"\">Harsk Makes Tea</title> Harsk is a 3rd-level ranger and an expert at harvesting and brewing tea. He has a Tea Lore modifier of +7. He has 30 days of downtime at his disposal and decides to work at a prestigious local tea house. The GM decides this is a 5th-level task if Harsk wants to assist the tea master, or a 2nd-level task if he wants to serve tea. Harsk chooses the tougher task, and the GM secretly sets the DC at 20.\n\n Harsk rolls a 4 on his Tea Lore check for a result of 11. Poor Harsk has failed! He earns only 2 sp for his efforts and continues working for 3 more days, for a total of 8 sp.\n\n At that point, the GM offers Harsk a choice: either he can finish out the week with the tea master and look for a new job, or he can lower his ambitions and serve in the tea house. Harsk, now more aware of his own capabilities, accepts the less prestigious job for now. He moves to his new job and attempts a new Tea Lore check against DC 16. Rolling a 19, he gets a result of 26—a critical success! He earns 5 sp per day (like a success at a 3rd-level task). The GM rules that demand will be high enough that Harsk can work there for the remainder of his downtime if he so chooses, a total of 26 days. Harsk accepts and earns a total of 138 sp (13 gp, 8 sp) that month. \n\n<title level=\"3\" right=\"\">Lem Performs</title> Lem is a 16th-level bard and legendary with his flute. He has a Performance modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles. He finds a momentous offer indeed—a performance in a celestial realm, and Lem's patron goddess Shelyn might even be in attendance! This is a 20th-level task, and the GM secretly sets the DC at 40.\n\n Lem rolls an 11 on his Performance check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days).\n\n With 23 days of downtime left, Lem accepts a 14th-level task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose.\n\n<title level=\"2\" right=\"\">Extra Preparation</title> When Earning Income, you might be able to spend days of downtime to prepare for your task, which adjusts the DC of the skill check. This might involve rehearsing a play, studying a topic, and so on. The GM determines how long preparation takes and how much the DC changes. This is most useful when you're trying a task that's higher level than you; otherwise such tasks have an increased DC! \n\n<title level=\"2\" right=\"\">Ending Or Interrupting Tasks</title> When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs.\n\n However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check.\r\n\r\n<document level=\"2\" id=\"action-2364\" />\r\n\r\n<title level=\"2\">Crafting Goods for the Market [[Crafting](/Skills.aspx?ID=37)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 229 <sup>4.0</sup>\r\n\r\nUsing [Crafting](/Skills.aspx?ID=4), you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level.\n\n Higher-level tasks represent special commissions, which might require you to [Craft](/Actions.aspx?ID=43) a specific item using the Craft downtime activity and sell it to a buyer at full Price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client.\r\n\r\n<title level=\"2\">Practicing a Trade [[Lore](/Skills.aspx?ID=41)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 230 <sup>4.0</sup>\r\n\r\nYou apply the practical benefits of one of your [Lore](/Skills.aspx?ID=8) specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there's high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you're attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant's scale to buy and sell valuables in a market.\r\n\r\n<title level=\"2\">Staging a Performance [[Performance](/Skills.aspx?ID=45)]</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 230 <sup>4.0</sup>\r\n\r\nYou perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level.\n\n Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.",
+  "name": "Earn Income",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 228",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 228"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 228 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on …",
+  "summary_markdown": "You can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on …",
+  "text": " Earn Income (Trained) Source Player Core pg. 228 2.0 You can use a skill to earn money during downtime. You must be trained in the skill to do so. This takes time to set up, and your income depends on your proficiency rank and how lucrative a task you can find. Because this process requires a significant amount of time and involves tracking things outside the progress of adventures, it won't come up in every campaign. In some cases, the GM might let you use a different skill to Earn Income through specialized work. Usually, this is scholarly work, such as using Religion in a monastery to study old texts—but giving sermons at a church would still fall under Performance instead of Religion. You also might be able to use physical skills to make money, such as using Acrobatics to perform feats in a circus or Thievery to pick pockets. If you're using a skill other than Crafting, Lore, or Performance, the DC tends to be significantly higher. Skill Uses [Crafting] Earn Income by crafting goods for the market. [Lore] Earn Income by using your knowledge to practice a trade. [Performance] Earn Income by staging a performance. Income Examples The following examples show the kinds of tasks your character might take on to Earn Income during low-level and high-level play. Harsk Makes Tea Harsk is a 3rd-level ranger and an expert at harvesting and brewing tea. He has a Tea Lore modifier of +7. He has 30 days of downtime at his disposal and decides to work at a prestigious local tea house. The GM decides this is a 5th-level task if Harsk wants to assist the tea master, or a 2nd-level task if he wants to serve tea. Harsk chooses the tougher task, and the GM secretly sets the DC at 20. Harsk rolls a 4 on his Tea Lore check for a result of 11. Poor Harsk has failed! He earns only 2 sp for his efforts and continues working for 3 more days, for a total of 8 sp. At that point, the GM offers Harsk a choice: either he can finish out the week with the tea master and look for a new job, or he can lower his ambitions and serve in the tea house. Harsk, now more aware of his own capabilities, accepts the less prestigious job for now. He moves to his new job and attempts a new Tea Lore check against DC 16. Rolling a 19, he gets a result of 26—a critical success! He earns 5 sp per day (like a success at a 3rd-level task). The GM rules that demand will be high enough that Harsk can work there for the remainder of his downtime if he so chooses, a total of 26 days. Harsk accepts and earns a total of 138 sp (13 gp, 8 sp) that month. Lem Performs Lem is a 16th-level bard and legendary with his flute. He has a Performance modifier of +31 with his enchanted flute. With 30 days of downtime ahead of him, Lem wonders if he can find something that might excite him more than performing in front of a bunch of stuffy nobles. He finds a momentous offer indeed—a performance in a celestial realm, and Lem's patron goddess Shelyn might even be in attendance! This is a 20th-level task, and the GM secretly sets the DC at 40. Lem rolls an 11 on his Performance check for a result of 42. Success! The engagement lasts for a week, and at the end, the grateful celestials present Lem with a beautiful living diamond rose in constant bloom worth 1,400 gold pieces (200 gp per day for 7 days). With 23 days of downtime left, Lem accepts a 14th-level task performing at a prestigious bardic college for members of a royal court. The GM secretly sets the DC at 32, and Lem critically succeeds, earning 28 gp per day for a total of 644 gp. Between the two performances, Lem has earned just over 2,000 gold pieces during his downtime—though he's not sure he'll ever sell that rose. Extra Preparation When Earning Income, you might be able to spend days of downtime to prepare for your task, which adjusts the DC of the skill check. This might involve rehearsing a play, studying a topic, and so on. The GM determines how long preparation takes and how much the DC changes. This is most useful when you're trying a task that's higher level than you; otherwise such tasks have an increased DC! Ending Or Interrupting Tasks When a task you're doing is complete, or if you stop in the middle of one, you normally have to find a new task if you want to keep Earning Income. For instance, if you quit your job working at the docks, you'll need to find another place of employment instead of picking up where you left off. This usually takes 1 day or more of downtime looking for leads on new jobs. However, you might pause a task due to an adventure or event that wouldn't prevent you from returning to the old job later. The GM might decide that you can pick up where you left off, assuming the task hasn't been completed by others in your absence. Whether you roll a new skill check when you resume is also up to the GM. Generally speaking, if you had a good initial roll and want to keep it, you can, but if you had a bad initial roll, you can't try for a better one by pausing to do something else. If your statistics changed during the break—usually because you leveled up while adventuring—you can attempt a new check. Crafting Goods for the Market [Crafting] Source Core Rulebook pg. 229 4.0 Using Crafting, you can work at producing common items for the market. It's usually easy to find work making basic items whose level is 1 or 2 below your settlement's level. Higher-level tasks represent special commissions, which might require you to Craft a specific item using the Craft downtime activity and sell it to a buyer at full Price. These opportunities don't occur as often and might have special requirements—or serious consequences if you disappoint a prominent client. Practicing a Trade [Lore] Source Core Rulebook pg. 230 4.0 You apply the practical benefits of one of your Lore specialties during downtime by practicing your trade. This is most effective for Lore specialties such as business, law, or sailing, where there's high demand for workers. The GM might increase the DC or determine only low-level tasks are available if you're attempting to use an obscure Lore skill to Earn Income. You might also need specialized tools to accept a job, like mining tools to work in a mine or a merchant's scale to buy and sell valuables in a market. Staging a Performance [Performance] Source Core Rulebook pg. 230 4.0 You perform for an audience to make money. The available audiences determine the level of your task, since more discerning audiences are harder to impress but provide a bigger payout. The GM determines the task level based on the audiences available. Performing for a typical audience of commoners on the street is a level 0 task, but a performance for a group of artisans with more refined tastes might be a 2nd- or 3rd-level task, and ones for merchants, nobility, and royalty are increasingly higher level. Your degree of success determines whether you moved your audience and whether you were rewarded with applause or rotten fruit.",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=21&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-22",
+  "legacy_id": [
+   "skill-general-action-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Identify Magic](/Skills.aspx?ID=22&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>\n\nUsing the skill related to the appropriate tradition, as explained in the Magical Traditions and Skills sidebar, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=35)] Identify Magic , particularly magic of the [arcane](/SpellLists.aspx?Tradition=1) tradition.\r\n\r\n[[Nature](/Skills.aspx?ID=43)] Identify Magic , particularly magic of the [primal](/SpellLists.aspx?Tradition=4) tradition.\r\n\r\n[[Occultism](/Skills.aspx?ID=44)] Identify Magic , particularly magic of the [occult](/SpellLists.aspx?Tradition=3) tradition.\r\n\r\n[[Religion](/Skills.aspx?ID=46)] Identify Magic , particularly magic of the [divine](/SpellLists.aspx?Tradition=2) tradition.\n\n<document level=\"2\" id=\"action-2365\" />",
+  "name": "Identify Magic",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 230",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nUsing the skill related to the appropriate tradition, as explained in the Magical Traditions and Skills sidebar, you can attempt to identify a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 230"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Using the skill related to the appropriate tradition, as explained in the Magical Traditions and Skills sidebar, you can attempt to identify a …",
+  "summary_markdown": "Using the skill related to the appropriate tradition, as explained in the Magical Traditions and Skills sidebar, you can attempt to identify a …",
+  "text": " Identify Magic (Trained) Source Player Core pg. 230 2.0 Using the skill related to the appropriate tradition, as explained in the Magical Traditions and Skills sidebar, you can attempt to identify a magical item, location, or ongoing effect. In many cases, you can use a skill to attempt to Identify Magic of a tradition other than your own at a higher DC. The GM determines whether you can do this and what the DC is. Skill Uses [Arcana] Identify Magic , particularly magic of the arcane tradition. [Nature] Identify Magic , particularly magic of the primal tradition. [Occultism] Identify Magic , particularly magic of the occult tradition. [Religion] Identify Magic , particularly magic of the divine tradition.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=22&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-23",
+  "legacy_id": [
+   "skill-general-action-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Learn a Spell](/Skills.aspx?ID=23&amp;General=true) (Trained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>\n\nIf you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell table lists the Price of the materials needed to Learn a Spell of each rank. Learning a Spell is most useful for classes that use a limited list of spells, like the [bard](/Classes.aspx?ID=3), [witch](/Classes.aspx?ID=16), or [wizard](/Classes.aspx?ID=12), though other classes might use it gain [rare](/Traits.aspx?ID=137) or [uncommon](/Traits.aspx?ID=159) spells.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=35)] Learn a Spell from the [arcane](/SpellLists.aspx?Tradition=1) tradition.\r\n\r\n[[Nature](/Skills.aspx?ID=43)] Learn a Spell from the [primal](/SpellLists.aspx?Tradition=4) tradition.\r\n\r\n[[Occultism](/Skills.aspx?ID=44)] Learn a Spell from the [occult](/SpellLists.aspx?Tradition=3) tradition.\r\n\r\n[[Religion](/Skills.aspx?ID=46)] Learn a Spell from the [divine](/SpellLists.aspx?Tradition=2) tradition.\n\n<document level=\"2\" id=\"action-2366\" />",
+  "name": "Learn a Spell",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 230",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 230"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 230 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell …",
+  "summary_markdown": "If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell …",
+  "text": " Learn a Spell (Trained) Source Player Core pg. 230 2.0 If you're a spellcaster, you can use the skill corresponding to your magical tradition to learn a new spell of that tradition. The Learning a Spell table lists the Price of the materials needed to Learn a Spell of each rank. Learning a Spell is most useful for classes that use a limited list of spells, like the bard, witch, or wizard, though other classes might use it gain rare or uncommon spells. Skill Uses [Arcana] Learn a Spell from the arcane tradition. [Nature] Learn a Spell from the primal tradition. [Occultism] Learn a Spell from the occult tradition. [Religion] Learn a Spell from the divine tradition.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=23&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-24",
+  "legacy_id": [
+   "skill-general-action-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Recall Knowledge](/Skills.aspx?ID=24&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 231 <sup>2.0</sup>\n\nTo remember useful information on a topic, you can attempt to Recall Knowledge. This action is one you're likely to use frequently. Learning more about the world and people around you is one of the best ways to inform your decisions, and Recalling Knowledge can help you figure out how to best fight monsters and figure out puzzles and social challenges.\n\n You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use [Medicine](/Skills.aspx?ID=9) to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Arcana](/Skills.aspx?ID=35)] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like [constructs](/Traits.aspx?ID=563), [beasts](/Traits.aspx?ID=547), and [elementals](/Traits.aspx?ID=647)); and the [Astral Plane](/Planes.aspx?ID=8), Elemental Planes, and [the Netherworld](/Planes.aspx?ID=36).\r\n\r\n[[Crafting](/Skills.aspx?ID=37)] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes [constructs](/Traits.aspx?ID=35).\r\n\r\n[[Lore](/Skills.aspx?ID=41)] Recall Knowledge about the subject of the Lore skill's subcategory.\r\n\r\n[[Medicine](/Skills.aspx?ID=42)] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed.\r\n\r\n[[Nature](/Skills.aspx?ID=43)] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like [animals](/Traits.aspx?ID=531), [beasts](/Traits.aspx?ID=547), [fey](/Traits.aspx?ID=69), and [plants](/Traits.aspx?ID=668)), the [First World](/Planes.aspx?ID=10), and the Elemental Planes.\r\n\r\n[[Occultism](/Skills.aspx?ID=44)] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like [aberrations](/Traits.aspx?ID=523), [spirits](/Traits.aspx?ID=149), and [oozes](/Traits.aspx?ID=665)); and esoteric planes like the [Astral Plane](/Planes.aspx?ID=8), [Creation's Forge](/Planes.aspx?ID=27), the [Ethereal Plane](/Planes.aspx?ID=9), [the Netherworld](/Planes.aspx?ID=36), and [the Void](/Planes.aspx?ID=28).\r\n\r\n[[Religion](/Skills.aspx?ID=46)] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like [celestials](/Traits.aspx?ID=551), [fiends](/Traits.aspx?ID=600), and [undead](/Traits.aspx?ID=160)), [Creation's Forge](/Planes.aspx?ID=27), [the Void](/Planes.aspx?ID=28), and the Outer Sphere.\r\n\r\n[[Society](/Skills.aspx?ID=47)] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.\n\n<document level=\"2\" id=\"action-2367\" />",
+  "name": "Recall Knowledge",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 231",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 231 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTo remember useful information on a topic, you can attempt to Recall Knowledge. This action is one you're likely to use frequently. Learning more …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 231"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 231 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "To remember useful information on a topic, you can attempt to Recall Knowledge. This action is one you're likely to use frequently. Learning more …",
+  "summary_markdown": "To remember useful information on a topic, you can attempt to Recall Knowledge. This action is one you're likely to use frequently. Learning more …",
+  "text": " Recall Knowledge (Untrained) Source Player Core pg. 231 2.0 To remember useful information on a topic, you can attempt to Recall Knowledge. This action is one you're likely to use frequently. Learning more about the world and people around you is one of the best ways to inform your decisions, and Recalling Knowledge can help you figure out how to best fight monsters and figure out puzzles and social challenges. You might know basic information about something without needing to attempt a check, but Recall Knowledge requires you to stop and think for a moment so you can recollect more specific facts and apply them. You might even need to spend time investigating first. For instance, to use Medicine to learn the cause of death, you might need to conduct a forensic examination before attempting to Recall Knowledge. Skill Uses [Arcana] Recall Knowledge about arcane theories; magic traditions; creatures of arcane significance (like constructs, beasts, and elementals); and the Astral Plane, Elemental Planes, and the Netherworld. [Crafting] Recall Knowledge about alchemical reactions, the value of items, engineering, unusual materials, and alchemical or mechanical creatures. The GM determines which creatures this applies to, but it usually includes constructs. [Lore] Recall Knowledge about the subject of the Lore skill's subcategory. [Medicine] Recall Knowledge about diseases, injuries, poisons, and other ailments. You can use this to perform forensic examinations if you spend 10 minutes (or more, as determined by the GM) checking for evidence such as wound patterns. This is most useful when determining how a body was injured or killed. [Nature] Recall Knowledge about fauna, flora, geography, weather, the environment, creatures of natural origin (like animals, beasts, fey, and plants), the First World, and the Elemental Planes. [Occultism] Recall Knowledge about ancient mysteries; obscure philosophies; creatures of occult significance (like aberrations, spirits, and oozes); and esoteric planes like the Astral Plane, Creation's Forge, the Ethereal Plane, the Netherworld, and the Void. [Religion] Recall Knowledge about divine agents, the finer points of theology, obscure myths regarding a faith, and creatures of religious significance (like celestials, fiends, and undead), Creation's Forge, the Void, and the Outer Sphere. [Society] Recall Knowledge about local history, important personalities, legal institutions, societal structure, and humanoid cultures. The GM might allow Society to apply to other creatures that are major elements of society in your region, such as the draconic nobility in a kingdom of humans ruled by dragons.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=24&General=true",
+  "weakness": {}
+ },
+ {
+  "category": "skill-general-action",
+  "exclude_from_search": false,
+  "id": "skill-general-action-25",
+  "legacy_id": [
+   "skill-general-action-6"
+  ],
+  "markdown": "<title level=\"1\" right=\"General Skill Action \" pfs=\"Standard\">[Subsist](/Skills.aspx?ID=25&amp;General=true) (Untrained)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 232 <sup>2.0</sup>\n\nIf you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses [Society](/Skills.aspx?ID=14) if you're in a settlement or [Survival](/Skills.aspx?ID=16) if you're in the wild.\r\n\r\n<title level=\"2\">Skill Uses</title>\r\n[[Society](/Skills.aspx?ID=47)] Subsist in a settlement by finding shelter, scrounging, or begging for food.\r\n\r\n[[Survival](/Skills.aspx?ID=49)] Subsist in the wild by foraging for food and building shelter.\n\n<document level=\"2\" id=\"action-2368\" />",
+  "name": "Subsist",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 232",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 232 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses  Society  if you're in a settlement or  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 232"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 232 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses  Society  if you're in a settlement or  …",
+  "summary_markdown": "If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses  Society  if you're in a settlement or  …",
+  "text": " Subsist (Untrained) Source Player Core pg. 232 2.0 If you need to provide food and shelter, you can use the Subsist downtime activity. This typically uses Society if you're in a settlement or Survival if you're in the wild. Skill Uses [Society] Subsist in a settlement by finding shelter, scrounging, or begging for food. [Survival] Subsist in the wild by foraging for food and building shelter.\n",
+  "type": "General Skill Action",
+  "url": "/Skills.aspx?ID=25&General=true",
+  "weakness": {}
+ }
+]

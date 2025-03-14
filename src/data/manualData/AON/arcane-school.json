@@ -1,0 +1,770 @@
+[
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-1",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Abjuration](/ArcaneSchools.aspx?ID=1)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>\n\nAs an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand that an ounce of prevention is worth a pound of cure. You add one 1st-level abjuration spell (such as [_feather fall_](/Spells.aspx?ID=111)) to your spellbook. You learn the [_protective ward_](/Spells.aspx?ID=534) school spell.",
+  "name": "Abjuration",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 207",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 207"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand …",
+  "summary_markdown": "As an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand …",
+  "text": " Abjuration Source Core Rulebook pg. 207 4.0 As an abjurer, you master the art of protection, strengthening defenses, preventing attacks, and even turning magic against itself. You understand that an ounce of prevention is worth a pound of cure. You add one 1st-level abjuration spell (such as feather fall ) to your spellbook. You learn the protective ward school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-2",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Conjuration](/ArcaneSchools.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>\n\nAs a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as [_summon animal_](/Spells.aspx?ID=316)) to your spellbook. You learn the [_augment summoning_](/Spells.aspx?ID=521) school spell.",
+  "name": "Conjuration",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 207",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 207"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 207 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key …",
+  "summary_markdown": "As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key …",
+  "text": " Conjuration Source Core Rulebook pg. 207 4.0 As a conjurer, you summon creatures and objects from places beyond, and use magic to transport to distant locales. You understand that the true key to victory is strength in numbers. You add one 1st-level conjuration spell (such as summon animal ) to your spellbook. You learn the augment summoning school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-3",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Divination](/ArcaneSchools.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You understand that knowledge is power. You add one 1st-level divination spell (such as [_true strike_](/Spells.aspx?ID=345)) to your spellbook. You learn the [_diviner’s sight_](/Spells.aspx?ID=525) school spell.",
+  "name": "Divination",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You …",
+  "summary_markdown": "As a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You …",
+  "text": " Divination Source Core Rulebook pg. 208 4.0 As a diviner, you master remote viewing and prescience, learning information that can transform investigations, research, and battle strategies. You understand that knowledge is power. You add one 1st-level divination spell (such as true strike ) to your spellbook. You learn the diviner’s sight school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-4",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Enchantment](/ArcaneSchools.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs an enchanter, you use magic to manipulate others’ minds. You might use your abilities to subtly influence others or seize control over them. You understand that the mind surpasses matter. You add one 1st-level enchantment spell (such as [_charm_](/Spells.aspx?ID=34)) to your spellbook. You learn the [_charming words_](/Spells.aspx?ID=523) school spell.",
+  "name": "Enchantment",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs an enchanter, you use magic to manipulate others’ minds. You might use your abilities to subtly influence others or seize control over them. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As an enchanter, you use magic to manipulate others’ minds. You might use your abilities to subtly influence others or seize control over them. You …",
+  "summary_markdown": "As an enchanter, you use magic to manipulate others’ minds. You might use your abilities to subtly influence others or seize control over them. You …",
+  "text": " Enchantment Source Core Rulebook pg. 208 4.0 As an enchanter, you use magic to manipulate others’ minds. You might use your abilities to subtly influence others or seize control over them. You understand that the mind surpasses matter. You add one 1st-level enchantment spell (such as charm ) to your spellbook. You learn the charming words school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-5",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Evocation](/ArcaneSchools.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to devastate your foes or to assist you in other ways. You understand that the most direct approach is the most elegant. You add one 1st-level evocation spell (such as [_shocking grasp_](/Spells.aspx?ID=283)) to your spellbook. You learn the [_force bolt_](/Spells.aspx?ID=529) school spell.",
+  "name": "Evocation",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to …",
+  "summary_markdown": "As an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to …",
+  "text": " Evocation Source Core Rulebook pg. 208 4.0 As an evoker, you revel in the raw power of magic, using it to create and destroy with ease. You can call forth elements, forces, and energy to devastate your foes or to assist you in other ways. You understand that the most direct approach is the most elegant. You add one 1st-level evocation spell (such as shocking grasp ) to your spellbook. You learn the force bolt school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-6",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Illusion](/ArcaneSchools.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add one 1st-level illusion spell (such as [_illusory object_](/Spells.aspx?ID=160)) to your spellbook. You learn the [_warped terrain_](/Spells.aspx?ID=537) school spell.",
+  "name": "Illusion",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add …",
+  "summary_markdown": "As an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add …",
+  "text": " Illusion Source Core Rulebook pg. 208 4.0 As an illusionist, you use magic to create images, figments, and phantasms to baffle your enemies. You understand that perception is reality. You add one 1st-level illusion spell (such as illusory object ) to your spellbook. You learn the warped terrain school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-7",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Necromancy](/ArcaneSchools.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you understand that control over life also means control over healing. You add one 1st-level necromancy spell (such as [_grim tendrils_](/Spells.aspx?ID=141)) to your spellbook. You learn the [_call of the grave_](/Spells.aspx?ID=522) school spell.",
+  "name": "Necromancy",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you …",
+  "summary_markdown": "As a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you …",
+  "text": " Necromancy Source Core Rulebook pg. 208 4.0 As a necromancer, you call upon the powers of life and death. While your school is often vilified for its association with raising the undead, you understand that control over life also means control over healing. You add one 1st-level necromancy spell (such as grim tendrils ) to your spellbook. You learn the call of the grave school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-8",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Transmutation](/ArcaneSchools.aspx?ID=8)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\n\nAs a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You understand that change is inevitable. You add one 1st-level transmutation spell (such as [_magic weapon_](/Spells.aspx?ID=182)) to your spellbook. You learn the [_physical boost_](/Spells.aspx?ID=533) school spell.",
+  "name": "Transmutation",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 208",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 208"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 208 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "As a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You …",
+  "summary_markdown": "As a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You …",
+  "text": " Transmutation Source Core Rulebook pg. 208 4.0 As a transmuter, you alter the physical properties of things, transforming creatures, objects, the natural world, and even yourself at your whim. You understand that change is inevitable. You add one 1st-level transmutation spell (such as magic weapon ) to your spellbook. You learn the physical boost school spell.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-9",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[Universalist](/ArcaneSchools.aspx?ID=9)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 210 <sup>4.0</sup>\n\nInstead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself to understanding the full breadth of the arcane arts. For each level of wizard spell slots you have, you can use [Drain Bonded Item](/Actions.aspx?ID=13) once per day to recall a spell of that level (instead of using it only once per day in total). You gain an extra wizard class feat, and you add one 1st-level spell of your choice to your spellbook.",
+  "name": "Universalist",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 210",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 210 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nInstead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 210"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 210 <sup>4.0</sup>",
+  "speed": {},
+  "spell_markdown": "",
+  "summary": "Instead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself …",
+  "summary_markdown": "Instead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself …",
+  "text": " Universalist Source Core Rulebook pg. 210 4.0 Instead of specializing narrowly in an arcane school, you can become a universalist wizard—by studying all the schools equally, you devote yourself to understanding the full breadth of the arcane arts. For each level of wizard spell slots you have, you can use Drain Bonded Item once per day to recall a spell of that level (instead of using it only once per day in total). You gain an extra wizard class feat, and you add one 1st-level spell of your choice to your spellbook.",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-16",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Ars Grammatica](/ArcaneSchools.aspx?ID=16)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 198 <sup>2.0</sup>\n\nRunes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps you studied at the Pathfinder Society's School of Spells or a similar institution, but whether you're lacing your words with magic to compel others, casting wards around your workshop, or destabilizing the very structure of an opponent's spells, you know this unassuming school carries elegant power.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Message](/Spells.aspx?ID=1598), [Sigil](/Spells.aspx?ID=1673)\r\n- 1st:\r\n[Command](/Spells.aspx?ID=1470), [Disguise Magic](/Spells.aspx?ID=1491), [Runic Body](/Spells.aspx?ID=1657), [Runic Weapon](/Spells.aspx?ID=1658)\r\n- 2nd:\r\n[Dispel Magic](/Spells.aspx?ID=1493), [Translate](/Spells.aspx?ID=1723)\r\n- 3rd:\r\n[Enthrall](/Spells.aspx?ID=1516), [Veil of Privacy](/Spells.aspx?ID=1739)\r\n- 4th:\r\n[Dispelling Globe](/Spells.aspx?ID=1494), [Suggestion](/Spells.aspx?ID=1693)\r\n- 5th:\r\n[Sending](/Spells.aspx?ID=1665), [Truespeech](/Spells.aspx?ID=1728)\r\n- 6th:\r\n[Repulsion](/Spells.aspx?ID=1650), [Spellwrack](/Spells.aspx?ID=1683)\r\n- 7th:\r\n[Contingency](/Spells.aspx?ID=1472), [Planar Seal](/Spells.aspx?ID=1635)\r\n- 8th:\r\n[Quandary](/Spells.aspx?ID=1644), [Unrelenting Observation](/Spells.aspx?ID=1734)\r\n- 9th:\r\n[Detonate Magic](/Spells.aspx?ID=1488)\r\n\r\n**School Spells**\r\n- Initial: [Protective Wards](/Spells.aspx?ID=1894)\r\n- Advanced: [Rune of Observation](/Spells.aspx?ID=1895)",
+  "name": "School of Ars Grammatica",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 198",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 198 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nRunes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 198"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 198 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Command",
+   "Disguise Magic",
+   "Message",
+   "Protective Wards",
+   "Runic Body",
+   "Runic Weapon",
+   "Sigil",
+   "Dispel Magic",
+   "Translate",
+   "Enthrall",
+   "Veil of Privacy",
+   "Dispelling Globe",
+   "Rune of Observation",
+   "Suggestion",
+   "Sending",
+   "Truespeech",
+   "Repulsion",
+   "Planar Seal",
+   "Quandary",
+   "Unrelenting Observation",
+   "Detonate Magic",
+   "Contingency",
+   "Spellwrack"
+  ],
+  "spell_markdown": "[Command](/Spells.aspx?ID=1470), [Disguise Magic](/Spells.aspx?ID=1491), [Message](/Spells.aspx?ID=1598), [Protective Wards](/Spells.aspx?ID=1894), [Runic Body](/Spells.aspx?ID=1657), [Runic Weapon](/Spells.aspx?ID=1658), [Sigil](/Spells.aspx?ID=1673), [Dispel Magic](/Spells.aspx?ID=1493), [Translate](/Spells.aspx?ID=1723), [Enthrall](/Spells.aspx?ID=1516), [Veil of Privacy](/Spells.aspx?ID=1739), [Dispelling Globe](/Spells.aspx?ID=1494), [Rune of Observation](/Spells.aspx?ID=1895), [Suggestion](/Spells.aspx?ID=1693), [Sending](/Spells.aspx?ID=1665), [Truespeech](/Spells.aspx?ID=1728), [Repulsion](/Spells.aspx?ID=1650), [Planar Seal](/Spells.aspx?ID=1635), [Quandary](/Spells.aspx?ID=1644), [Unrelenting Observation](/Spells.aspx?ID=1734), [Detonate Magic](/Spells.aspx?ID=1488), [Contingency](/Spells.aspx?ID=1472), [Spellwrack](/Spells.aspx?ID=1683)",
+  "summary": "Runes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps …",
+  "summary_markdown": "Runes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps …",
+  "text": " School of Ars Grammatica Source Player Core pg. 198 2.0 Runes and wards, numbers and letters—they underpin all magic, making them the logical subject for a wizard who studies fundamental forces. Perhaps you studied at the Pathfinder Society's School of Spells or a similar institution, but whether you're lacing your words with magic to compel others, casting wards around your workshop, or destabilizing the very structure of an opponent's spells, you know this unassuming school carries elegant power. Curriculum - Cantrips: Message, Sigil - 1st: Command, Disguise Magic, Runic Body, Runic Weapon - 2nd: Dispel Magic, Translate - 3rd: Enthrall, Veil of Privacy - 4th: Dispelling Globe, Suggestion - 5th: Sending, Truespeech - 6th: Repulsion, Spellwrack - 7th: Contingency, Planar Seal - 8th: Quandary, Unrelenting Observation - 9th: Detonate Magic School Spells - Initial: Protective Wards - Advanced: Rune of Observation",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-17",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of the Boundary](/ArcaneSchools.aspx?ID=17)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\n\nWhy use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Telekinetic Hand](/Spells.aspx?ID=1715), [Void Warp](/Spells.aspx?ID=1745)\r\n- 1st:\r\n[Grim Tendrils](/Spells.aspx?ID=1548), [Phantasmal Minion](/Spells.aspx?ID=1631), [Summon Undead](/Spells.aspx?ID=1706)\r\n- 2nd:\r\n[Darkness](/Spells.aspx?ID=1480), [See the Unseen](/Spells.aspx?ID=1663)\r\n- 3rd:\r\n[Bind Undead](/Spells.aspx?ID=1449), [Ghostly Weapon](/Spells.aspx?ID=1544)\r\n- 4th:\r\n[Flicker](/Spells.aspx?ID=1532), [Translocate](/Spells.aspx?ID=1724)\r\n- 5th:\r\n[Banishment](/Spells.aspx?ID=1448), [Invoke Spirits](/Spells.aspx?ID=1578)\r\n- 6th:\r\n[Teleport](/Spells.aspx?ID=1720), [Vampiric Exsanguination](/Spells.aspx?ID=1735)\r\n- 7th:\r\n[Eclipse Burst](/Spells.aspx?ID=1508), [Interplanar Teleport](/Spells.aspx?ID=1576)\r\n- 8th:\r\n[Quandary](/Spells.aspx?ID=1644), [Unrelenting Observation](/Spells.aspx?ID=1734)\r\n- 9th:\r\n[Massacre](/Spells.aspx?ID=1596)\r\n\r\n**School Spells**\r\n- Initial: [Fortify Summoning](/Spells.aspx?ID=1898)\r\n- Advanced: [Spiral of Horrors](/Spells.aspx?ID=1899)",
+  "name": "School of the Boundary",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 199",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhy use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 199"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Fortify Summoning",
+   "Grim Tendrils",
+   "Phantasmal Minion",
+   "Summon Undead",
+   "Telekinetic Hand",
+   "Void Warp",
+   "Darkness",
+   "See the Unseen",
+   "Bind Undead",
+   "Ghostly Weapon",
+   "Flicker",
+   "Spiral of Horrors",
+   "Translocate",
+   "Banishment",
+   "Invoke Spirits",
+   "Teleport",
+   "Vampiric Exsanguination",
+   "Eclipse Burst",
+   "Interplanar Teleport",
+   "Quandary",
+   "Unrelenting Observation",
+   "Massacre"
+  ],
+  "spell_markdown": "[Fortify Summoning](/Spells.aspx?ID=1898), [Grim Tendrils](/Spells.aspx?ID=1548), [Phantasmal Minion](/Spells.aspx?ID=1631), [Summon Undead](/Spells.aspx?ID=1706), [Telekinetic Hand](/Spells.aspx?ID=1715), [Void Warp](/Spells.aspx?ID=1745), [Darkness](/Spells.aspx?ID=1480), [See the Unseen](/Spells.aspx?ID=1663), [Bind Undead](/Spells.aspx?ID=1449), [Ghostly Weapon](/Spells.aspx?ID=1544), [Flicker](/Spells.aspx?ID=1532), [Spiral of Horrors](/Spells.aspx?ID=1899), [Translocate](/Spells.aspx?ID=1724), [Banishment](/Spells.aspx?ID=1448), [Invoke Spirits](/Spells.aspx?ID=1578), [Teleport](/Spells.aspx?ID=1720), [Vampiric Exsanguination](/Spells.aspx?ID=1735), [Eclipse Burst](/Spells.aspx?ID=1508), [Interplanar Teleport](/Spells.aspx?ID=1576), [Quandary](/Spells.aspx?ID=1644), [Unrelenting Observation](/Spells.aspx?ID=1734), [Massacre](/Spells.aspx?ID=1596)",
+  "summary": "Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or …",
+  "summary_markdown": "Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or …",
+  "text": " School of the Boundary Source Player Core pg. 199 2.0 Why use your magic to affect something as pedestrian as the physical world? Whether you studied at the College of Dimensional Studies in Katapesh or an underground school in haunted Ustalav, you've turned your magic past the Universe to the forces beyond, summoning spirits and shades, manipulating dimensions and planes, and treading in a place not meant for mortals. Curriculum - Cantrips: Telekinetic Hand, Void Warp - 1st: Grim Tendrils, Phantasmal Minion, Summon Undead - 2nd: Darkness, See the Unseen - 3rd: Bind Undead, Ghostly Weapon - 4th: Flicker, Translocate - 5th: Banishment, Invoke Spirits - 6th: Teleport, Vampiric Exsanguination - 7th: Eclipse Burst, Interplanar Teleport - 8th: Quandary, Unrelenting Observation - 9th: Massacre School Spells - Initial: Fortify Summoning - Advanced: Spiral of Horrors",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-18",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Civic Wizardry](/ArcaneSchools.aspx?ID=18)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\n\nWhether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other field—should ultimately help the common citizen. You've learned the humble art of construction, of finding lost people and things, of moving speedily among buildings and moats—yet these same arts can be turned to demolition, and the constructs you animate to build bridges can just as easily tear them down.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Prestidigitation](/Spells.aspx?ID=1639), [Read Aura](/Spells.aspx?ID=1646)\r\n- 1st:\r\n[Hydraulic Push](/Spells.aspx?ID=1561), [Pummeling Rubble](/Spells.aspx?ID=1642), [Summon Construct](/Spells.aspx?ID=1696)\r\n- 2nd:\r\n[Revealing Light](/Spells.aspx?ID=1653), [Water Walk](/Spells.aspx?ID=1756)\r\n- 3rd:\r\n[Cozy Cabin](/Spells.aspx?ID=1474), [Safe Passage](/Spells.aspx?ID=1659)\r\n- 4th:\r\n[Creation](/Spells.aspx?ID=1477), [Unfettered Movement](/Spells.aspx?ID=1732)\r\n- 5th:\r\n[Control Water](/Spells.aspx?ID=1473), [Wall of Stone](/Spells.aspx?ID=1751)\r\n- 6th:\r\n[Disintegrate](/Spells.aspx?ID=1492), [Wall of Force](/Spells.aspx?ID=1749)\r\n- 7th:\r\n[Planar Palace](/Spells.aspx?ID=1634), [Retrocognition](/Spells.aspx?ID=1652)\r\n- 8th:\r\n[Earthquake](/Spells.aspx?ID=1507), [Pinpoint](/Spells.aspx?ID=1633)\r\n- 9th:\r\n[Foresight](/Spells.aspx?ID=1537)\r\n\r\n**School Spells**\r\n- Initial: [Earthworks](/Spells.aspx?ID=1900)\r\n- Advanced: [Community Restoration](/Spells.aspx?ID=1901)",
+  "name": "School of Civic Wizardry",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 199",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 199"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Earthworks",
+   "Hydraulic Push",
+   "Prestidigitation",
+   "Pummeling Rubble",
+   "Read Aura",
+   "Summon Construct",
+   "Revealing Light",
+   "Water Walk",
+   "Cozy Cabin",
+   "Safe Passage",
+   "Community Restoration",
+   "Creation",
+   "Unfettered Movement",
+   "Control Water",
+   "Wall of Stone",
+   "Disintegrate",
+   "Wall of Force",
+   "Planar Palace",
+   "Retrocognition",
+   "Earthquake",
+   "Pinpoint",
+   "Foresight"
+  ],
+  "spell_markdown": "[Earthworks](/Spells.aspx?ID=1900), [Hydraulic Push](/Spells.aspx?ID=1561), [Prestidigitation](/Spells.aspx?ID=1639), [Pummeling Rubble](/Spells.aspx?ID=1642), [Read Aura](/Spells.aspx?ID=1646), [Summon Construct](/Spells.aspx?ID=1696), [Revealing Light](/Spells.aspx?ID=1653), [Water Walk](/Spells.aspx?ID=1756), [Cozy Cabin](/Spells.aspx?ID=1474), [Safe Passage](/Spells.aspx?ID=1659), [Community Restoration](/Spells.aspx?ID=1901), [Creation](/Spells.aspx?ID=1477), [Unfettered Movement](/Spells.aspx?ID=1732), [Control Water](/Spells.aspx?ID=1473), [Wall of Stone](/Spells.aspx?ID=1751), [Disintegrate](/Spells.aspx?ID=1492), [Wall of Force](/Spells.aspx?ID=1749), [Planar Palace](/Spells.aspx?ID=1634), [Retrocognition](/Spells.aspx?ID=1652), [Earthquake](/Spells.aspx?ID=1507), [Pinpoint](/Spells.aspx?ID=1633), [Foresight](/Spells.aspx?ID=1537)",
+  "summary": "Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other …",
+  "summary_markdown": "Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other …",
+  "text": " School of Civic Wizardry Source Player Core pg. 199 2.0 Whether you studied in Manaket's Occularium or the Academy of Applied Magic, you learned that the fruits of arcane studies—like any other field—should ultimately help the common citizen. You've learned the humble art of construction, of finding lost people and things, of moving speedily among buildings and moats—yet these same arts can be turned to demolition, and the constructs you animate to build bridges can just as easily tear them down. Curriculum - Cantrips: Prestidigitation, Read Aura - 1st: Hydraulic Push, Pummeling Rubble, Summon Construct - 2nd: Revealing Light, Water Walk - 3rd: Cozy Cabin, Safe Passage - 4th: Creation, Unfettered Movement - 5th: Control Water, Wall of Stone - 6th: Disintegrate, Wall of Force - 7th: Planar Palace, Retrocognition - 8th: Earthquake, Pinpoint - 9th: Foresight School Spells - Initial: Earthworks - Advanced: Community Restoration",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-19",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Mentalism](/ArcaneSchools.aspx?ID=19)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\n\nAs a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that taught the arts of befuddling lesser minds with figments and illusions or implanted sensations and memories.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Daze](/Spells.aspx?ID=1482), [Figment](/Spells.aspx?ID=1528)\r\n- 1st:\r\n[Dizzying Colors](/Spells.aspx?ID=1500), [Sleep](/Spells.aspx?ID=1675), [Sure Strike](/Spells.aspx?ID=1709)\r\n- 2nd:\r\n[Illusory Creature](/Spells.aspx?ID=1567), [Stupefy](/Spells.aspx?ID=1691)\r\n- 3rd:\r\n[Dream Message](/Spells.aspx?ID=1503), [Mind Reading](/Spells.aspx?ID=1602)\r\n- 4th:\r\n[Nightmare](/Spells.aspx?ID=1615), [Vision of Death](/Spells.aspx?ID=1742)\r\n- 5th:\r\n[Hallucination](/Spells.aspx?ID=1551), [Illusory Scene](/Spells.aspx?ID=1570)\r\n- 6th:\r\n[Never Mind](/Spells.aspx?ID=1614), [Phantasmal Calamity](/Spells.aspx?ID=1630)\r\n- 7th:\r\n[Project Image](/Spells.aspx?ID=1640), [Warp Mind](/Spells.aspx?ID=1754)\r\n- 8th:\r\n[Disappearance](/Spells.aspx?ID=1490), [Uncontrollable Dance](/Spells.aspx?ID=1730)\r\n- 9th:\r\n[Phantasmagoria](/Spells.aspx?ID=1629)\r\n\r\n**School Spells**\r\n- Initial: [Charming Push](/Spells.aspx?ID=1902)\r\n- Advanced: [Invisibility Cloak](/Spells.aspx?ID=1903)",
+  "name": "School of Mentalism",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 200",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAs a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 200"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Charming Push",
+   "Daze",
+   "Dizzying Colors",
+   "Figment",
+   "Sleep",
+   "Sure Strike",
+   "Illusory Creature",
+   "Stupefy",
+   "Dream Message",
+   "Mind Reading",
+   "Invisibility Cloak",
+   "Nightmare",
+   "Vision of Death",
+   "Hallucination",
+   "Illusory Scene",
+   "Never Mind",
+   "Phantasmal Calamity",
+   "Project Image",
+   "Warp Mind",
+   "Disappearance",
+   "Uncontrollable Dance",
+   "Phantasmagoria"
+  ],
+  "spell_markdown": "[Charming Push](/Spells.aspx?ID=1902), [Daze](/Spells.aspx?ID=1482), [Dizzying Colors](/Spells.aspx?ID=1500), [Figment](/Spells.aspx?ID=1528), [Sleep](/Spells.aspx?ID=1675), [Sure Strike](/Spells.aspx?ID=1709), [Illusory Creature](/Spells.aspx?ID=1567), [Stupefy](/Spells.aspx?ID=1691), [Dream Message](/Spells.aspx?ID=1503), [Mind Reading](/Spells.aspx?ID=1602), [Invisibility Cloak](/Spells.aspx?ID=1903), [Nightmare](/Spells.aspx?ID=1615), [Vision of Death](/Spells.aspx?ID=1742), [Hallucination](/Spells.aspx?ID=1551), [Illusory Scene](/Spells.aspx?ID=1570), [Never Mind](/Spells.aspx?ID=1614), [Phantasmal Calamity](/Spells.aspx?ID=1630), [Project Image](/Spells.aspx?ID=1640), [Warp Mind](/Spells.aspx?ID=1754), [Disappearance](/Spells.aspx?ID=1490), [Uncontrollable Dance](/Spells.aspx?ID=1730), [Phantasmagoria](/Spells.aspx?ID=1629)",
+  "summary": "As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that …",
+  "summary_markdown": "As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that …",
+  "text": " School of Mentalism Source Player Core pg. 200 2.0 As a scholar, you know all too well the importance of a sound mind. Thus, you attended a school—like the Farseer Tower or the Stone of the Seers—that taught the arts of befuddling lesser minds with figments and illusions or implanted sensations and memories. Curriculum - Cantrips: Daze, Figment - 1st: Dizzying Colors, Sleep, Sure Strike - 2nd: Illusory Creature, Stupefy - 3rd: Dream Message, Mind Reading - 4th: Nightmare, Vision of Death - 5th: Hallucination, Illusory Scene - 6th: Never Mind, Phantasmal Calamity - 7th: Project Image, Warp Mind - 8th: Disappearance, Uncontrollable Dance - 9th: Phantasmagoria School Spells - Initial: Charming Push - Advanced: Invisibility Cloak",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-20",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Protean Form](/ArcaneSchools.aspx?ID=20)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\n\nThe uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship between the two. Your magic, whether learned at a storied institution like Kintargo's Alabaster Academy or someplace more sinister, like the Fleshforges of Nex, focuses on the ways that living matter can be convinced into another shape for a time, allowing you to polymorph a seed into a vine, a human into a beast, or a harmless germ into a deadly toxin.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Gouging Claw](/Spells.aspx?ID=1546), [Tangle Vine](/Spells.aspx?ID=1713)\r\n- 1st:\r\n[Jump](/Spells.aspx?ID=1580), [Pest Form](/Spells.aspx?ID=1626), [Spider Sting](/Spells.aspx?ID=1684)\r\n- 2nd:\r\n[Enlarge](/Spells.aspx?ID=1514), [Humanoid Form](/Spells.aspx?ID=1560)\r\n- 3rd:\r\n[Feet to Fins](/Spells.aspx?ID=1525), [Vampiric Feast](/Spells.aspx?ID=1736)\r\n- 4th:\r\n[Mountain Resilience](/Spells.aspx?ID=1610), [Vapor Form](/Spells.aspx?ID=1738)\r\n- 5th:\r\n[Elemental Form](/Spells.aspx?ID=1510), [Toxic Cloud](/Spells.aspx?ID=1722)\r\n- 6th:\r\n[Cursed Metamorphosis](/Spells.aspx?ID=1479), [Petrify](/Spells.aspx?ID=1628)\r\n- 7th:\r\n[Duplicate Foe](/Spells.aspx?ID=1505), [Fiery Body](/Spells.aspx?ID=1527)\r\n- 8th:\r\n[Desiccate](/Spells.aspx?ID=1484), [Monstrosity Form](/Spells.aspx?ID=1608)\r\n- 9th:\r\n[Metamorphosis](/Spells.aspx?ID=1599)\r\n\r\n**School Spells**\r\n- Initial: [Scramble Body](/Spells.aspx?ID=1904)\r\n- Advanced: [Shifting Form](/Spells.aspx?ID=1905)",
+  "name": "School of Protean Form",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 200",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 200"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Gouging Claw",
+   "Jump",
+   "Pest Form",
+   "Scramble Body",
+   "Spider Sting",
+   "Tangle Vine",
+   "Enlarge",
+   "Humanoid Form",
+   "Feet to Fins",
+   "Vampiric Feast",
+   "Mountain Resilience",
+   "Shifting Form",
+   "Vapor Form",
+   "Elemental Form",
+   "Toxic Cloud",
+   "Cursed Metamorphosis",
+   "Petrify",
+   "Duplicate Foe",
+   "Fiery Body",
+   "Desiccate",
+   "Monstrosity Form",
+   "Metamorphosis"
+  ],
+  "spell_markdown": "[Gouging Claw](/Spells.aspx?ID=1546), [Jump](/Spells.aspx?ID=1580), [Pest Form](/Spells.aspx?ID=1626), [Scramble Body](/Spells.aspx?ID=1904), [Spider Sting](/Spells.aspx?ID=1684), [Tangle Vine](/Spells.aspx?ID=1713), [Enlarge](/Spells.aspx?ID=1514), [Humanoid Form](/Spells.aspx?ID=1560), [Feet to Fins](/Spells.aspx?ID=1525), [Vampiric Feast](/Spells.aspx?ID=1736), [Mountain Resilience](/Spells.aspx?ID=1610), [Shifting Form](/Spells.aspx?ID=1905), [Vapor Form](/Spells.aspx?ID=1738), [Elemental Form](/Spells.aspx?ID=1510), [Toxic Cloud](/Spells.aspx?ID=1722), [Cursed Metamorphosis](/Spells.aspx?ID=1479), [Petrify](/Spells.aspx?ID=1628), [Duplicate Foe](/Spells.aspx?ID=1505), [Fiery Body](/Spells.aspx?ID=1527), [Desiccate](/Spells.aspx?ID=1484), [Monstrosity Form](/Spells.aspx?ID=1608), [Metamorphosis](/Spells.aspx?ID=1599)",
+  "summary": "The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship …",
+  "summary_markdown": "The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship …",
+  "text": " School of Protean Form Source Player Core pg. 200 2.0 The uninitiated often think of wizards as cerebral, focused on their studies more than the body, yet your school of magic taught of the relationship between the two. Your magic, whether learned at a storied institution like Kintargo's Alabaster Academy or someplace more sinister, like the Fleshforges of Nex, focuses on the ways that living matter can be convinced into another shape for a time, allowing you to polymorph a seed into a vine, a human into a beast, or a harmless germ into a deadly toxin. Curriculum - Cantrips: Gouging Claw, Tangle Vine - 1st: Jump, Pest Form, Spider Sting - 2nd: Enlarge, Humanoid Form - 3rd: Feet to Fins, Vampiric Feast - 4th: Mountain Resilience, Vapor Form - 5th: Elemental Form, Toxic Cloud - 6th: Cursed Metamorphosis, Petrify - 7th: Duplicate Foe, Fiery Body - 8th: Desiccate, Monstrosity Form - 9th: Metamorphosis School Spells - Initial: Scramble Body - Advanced: Shifting Form",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-21",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Unified Magical Theory](/ArcaneSchools.aspx?ID=21)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\n\nYou eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up the best of every school of magic. In doing so, you'll find the truths that lie at the intersection of each school, coming closer to the ideal nature of arcane magic. One day, you'll uncover that single elegant theory detailing all magic (perhaps a theory bearing your name?), but until then, your studies continue.\n\n **No Curriculum** You don't have a set curriculum, and so you don't have curriculum spells and can't benefit from abilities that specifically affect them. Instead, you gain an additional 1st-level wizard class feat, and you add one 1st- rank spell of your choice to your spellbook to represent your diverse studies.<br /> Your studies into the very nature of magic itself have let you use it more efficiently—instead of using Drain Bonded Item only once per day, you can use it once per day for each rank of spell you can cast, recalling a spell of that rank each time.\n\n**School Spells**\r\n- Initial: [Hand of the Apprentice](/Spells.aspx?ID=1906)\r\n- Advanced: [Interdisciplinary Incantation](/Spells.aspx?ID=1907)",
+  "name": "School of Unified Magical Theory",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 200",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 200"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 200 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Hand of the Apprentice",
+   "Interdisciplinary Incantation"
+  ],
+  "spell_markdown": "[Hand of the Apprentice](/Spells.aspx?ID=1906), [Interdisciplinary Incantation](/Spells.aspx?ID=1907)",
+  "summary": "You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up …",
+  "summary_markdown": "You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up …",
+  "text": " School of Unified Magical Theory Source Player Core pg. 200 2.0 You eschew the idea that magic can be neatly expressed by the teachings of any single school or college, instead directing your self-study to pick up the best of every school of magic. In doing so, you'll find the truths that lie at the intersection of each school, coming closer to the ideal nature of arcane magic. One day, you'll uncover that single elegant theory detailing all magic (perhaps a theory bearing your name?), but until then, your studies continue. No Curriculum You don't have a set curriculum, and so you don't have curriculum spells and can't benefit from abilities that specifically affect them. Instead, you gain an additional 1st-level wizard class feat, and you add one 1st- rank spell of your choice to your spellbook to represent your diverse studies. Your studies into the very nature of magic itself have let you use it more efficiently—instead of using Drain Bonded Item only once per day, you can use it once per day for each rank of spell you can cast, recalling a spell of that rank each time. School Spells - Initial: Hand of the Apprentice - Advanced: Interdisciplinary Incantation",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-22",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Standard\">[School of Battle Magic](/ArcaneSchools.aspx?ID=22)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\n\nMagic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Shield](/Spells.aspx?ID=1671), [Telekinetic Projectile](/Spells.aspx?ID=1718)\r\n- 1st:\r\n[Breathe Fire](/Spells.aspx?ID=1457), [Force Barrage](/Spells.aspx?ID=1536), [Mystic Armor](/Spells.aspx?ID=1611)\r\n- 2nd:\r\n[Mist](/Spells.aspx?ID=1606), [Resist Energy](/Spells.aspx?ID=1651)\r\n- 3rd:\r\n[Earthbind](/Spells.aspx?ID=1506), [Fireball](/Spells.aspx?ID=1530)\r\n- 4th:\r\n[Wall of Fire](/Spells.aspx?ID=1748), [Weapon Storm](/Spells.aspx?ID=1758)\r\n- 5th:\r\n[Howling Blizzard](/Spells.aspx?ID=1559), [Impaling Spike](/Spells.aspx?ID=1571)\r\n- 6th:\r\n[Chain Lightning](/Spells.aspx?ID=1462), [Disintegrate](/Spells.aspx?ID=1492)\r\n- 7th:\r\n[Energy Aegis](/Spells.aspx?ID=1512), [True Target](/Spells.aspx?ID=1726)\r\n- 8th:\r\n[Arctic Rift](/Spells.aspx?ID=1444), [Desiccate](/Spells.aspx?ID=1484)\r\n- 9th:\r\n[Falling Stars](/Spells.aspx?ID=1521)\r\n\r\n**School Spells**\r\n- Initial: [Force Bolt](/Spells.aspx?ID=1896)\r\n- Advanced: [Energy Absorption](/Spells.aspx?ID=1897)",
+  "name": "School of Battle Magic",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 199",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 199"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 199 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Shield",
+   "Telekinetic Projectile",
+   "Breathe Fire",
+   "Force Barrage",
+   "Mystic Armor",
+   "Mist",
+   "Resist Energy",
+   "Earthbind",
+   "Fireball",
+   "Wall of Fire",
+   "Howling Blizzard",
+   "Impaling Spike",
+   "Chain Lightning",
+   "Disintegrate",
+   "Energy Aegis",
+   "True Target",
+   "Arctic Rift",
+   "Desiccate",
+   "Falling Stars",
+   "Force Bolt",
+   "Energy Absorption",
+   "Weapon Storm"
+  ],
+  "spell_markdown": "[Shield](/Spells.aspx?ID=1671), [Telekinetic Projectile](/Spells.aspx?ID=1718), [Breathe Fire](/Spells.aspx?ID=1457), [Force Barrage](/Spells.aspx?ID=1536), [Mystic Armor](/Spells.aspx?ID=1611), [Mist](/Spells.aspx?ID=1606), [Resist Energy](/Spells.aspx?ID=1651), [Earthbind](/Spells.aspx?ID=1506), [Fireball](/Spells.aspx?ID=1530), [Wall of Fire](/Spells.aspx?ID=1748), [Howling Blizzard](/Spells.aspx?ID=1559), [Impaling Spike](/Spells.aspx?ID=1571), [Chain Lightning](/Spells.aspx?ID=1462), [Disintegrate](/Spells.aspx?ID=1492), [Energy Aegis](/Spells.aspx?ID=1512), [True Target](/Spells.aspx?ID=1726), [Arctic Rift](/Spells.aspx?ID=1444), [Desiccate](/Spells.aspx?ID=1484), [Falling Stars](/Spells.aspx?ID=1521), [Force Bolt](/Spells.aspx?ID=1896), [Energy Absorption](/Spells.aspx?ID=1897), [Weapon Storm](/Spells.aspx?ID=1758)",
+  "summary": "Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of …",
+  "summary_markdown": "Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of …",
+  "text": " School of Battle Magic Source Player Core pg. 199 2.0 Magic is power, and there are always those who will use power for the art of battle. You may have studied in the military of a nation of the brink of war—Cheliax and Andoran perhaps, or Geb and Nex. You summon whirling energies that can lay waste to both soldiers and armies, while being sure not to neglect arcane countermeasures for common tactical complications or the shields and defenses that keep combatants alive on the battlefield. Curriculum - Cantrips: Shield, Telekinetic Projectile - 1st: Breathe Fire, Force Barrage, Mystic Armor - 2nd: Mist, Resist Energy - 3rd: Earthbind, Fireball - 4th: Wall of Fire, Weapon Storm - 5th: Howling Blizzard, Impaling Spike - 6th: Chain Lightning, Disintegrate - 7th: Energy Aegis, True Target - 8th: Arctic Rift, Desiccate - 9th: Falling Stars School Spells - Initial: Force Bolt - Advanced: Energy Absorption",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-school",
+  "exclude_from_search": false,
+  "id": "arcane-school-23",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane School \" pfs=\"Limited\">[Red Mantis Magic School](/ArcaneSchools.aspx?ID=23)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\r\n\r\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 99\n\nWhile any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have developed a specific selection of spells they teach to all magically capable members. These spells complement the assassins’ clandestine and deadly methods.\r\n\r\n**Curriculum**\r\n- Cantrips:\r\n[Figment](/Spells.aspx?ID=1528), [Gouging Claw](/Spells.aspx?ID=1546)\r\n- 1st:\r\n[Fleet Step](/Spells.aspx?ID=1531), [Illusory Disguise](/Spells.aspx?ID=1568), [Sure Strike](/Spells.aspx?ID=1709)\r\n- 2nd:\r\n[Invisibility](/Spells.aspx?ID=1577), [Mist](/Spells.aspx?ID=1606)\r\n- 3rd:\r\n[Clairaudience](/Spells.aspx?ID=1465), [Paralyze](/Spells.aspx?ID=1622)\r\n- 4th:\r\n[Clairvoyance](/Spells.aspx?ID=1466), [Translocate](/Spells.aspx?ID=1724)\r\n- 5th:\r\n[Hallucination](/Spells.aspx?ID=1551), [Illusory Scene](/Spells.aspx?ID=1570)\r\n- 6th:\r\n[Mislead](/Spells.aspx?ID=1605), [Phantasmal Calamity](/Spells.aspx?ID=1630)\r\n- 7th:\r\n[Duplicate Foe](/Spells.aspx?ID=1505), [Project Image](/Spells.aspx?ID=1640)\r\n- 8th:\r\n[Disappearance](/Spells.aspx?ID=1490), [Unrelenting Observation](/Spells.aspx?ID=1734)\r\n- 9th:\r\n[Phantasmagoria](/Spells.aspx?ID=1629)\r\n\r\n**School Spells**\r\n- Initial: [Debilitating Terror](/Spells.aspx?ID=2130)\r\n- Advanced: [Shroud of the Mantis](/Spells.aspx?ID=2131)",
+  "name": "Red Mantis Magic School",
+  "pfs": "Limited",
+  "primary_source": "Prey for Death",
+  "primary_source_raw": "Prey for Death pg. 99",
+  "primary_source_category": "Adventures",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-07-31",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Prey for Death](/Sources.aspx?ID=231) pg. 99\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Prey for Death"
+  ],
+  "source_raw": [
+   "Prey for Death pg. 99"
+  ],
+  "source_category": [
+   "Adventures"
+  ],
+  "source_markdown": "[Prey for Death](/Sources.aspx?ID=231) pg. 99",
+  "speed": {},
+  "spell": [
+   "Clairaudience",
+   "Clairvoyance",
+   "Disappearance",
+   "Duplicate Foe",
+   "Figment",
+   "Fleet Step",
+   "Gouging Claw",
+   "Hallucination",
+   "Illusory Disguise",
+   "Illusory Scene",
+   "Invisibility",
+   "Mislead",
+   "Mist",
+   "Paralyze",
+   "Phantasmagoria",
+   "Phantasmal Calamity",
+   "Project Image",
+   "Sure Strike",
+   "Translocate",
+   "Unrelenting Observation",
+   "Debilitating Terror",
+   "Shroud of the Mantis"
+  ],
+  "spell_markdown": "[Clairaudience](/Spells.aspx?ID=1465), [Clairvoyance](/Spells.aspx?ID=1466), [Disappearance](/Spells.aspx?ID=1490), [Duplicate Foe](/Spells.aspx?ID=1505), [Figment](/Spells.aspx?ID=1528), [Fleet Step](/Spells.aspx?ID=1531), [Gouging Claw](/Spells.aspx?ID=1546), [Hallucination](/Spells.aspx?ID=1551), [Illusory Disguise](/Spells.aspx?ID=1568), [Illusory Scene](/Spells.aspx?ID=1570), [Invisibility](/Spells.aspx?ID=1577), [Mislead](/Spells.aspx?ID=1605), [Mist](/Spells.aspx?ID=1606), [Paralyze](/Spells.aspx?ID=1622), [Phantasmagoria](/Spells.aspx?ID=1629), [Phantasmal Calamity](/Spells.aspx?ID=1630), [Project Image](/Spells.aspx?ID=1640), [Sure Strike](/Spells.aspx?ID=1709), [Translocate](/Spells.aspx?ID=1724), [Unrelenting Observation](/Spells.aspx?ID=1734), [Debilitating Terror](/Spells.aspx?ID=2130), [Shroud of the Mantis](/Spells.aspx?ID=2131)",
+  "summary": "While any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have …",
+  "summary_markdown": "While any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have …",
+  "text": " Red Mantis Magic School Source Prey for Death pg. 99 While any thug can commit a murder, proper assassination requires finesse and guile. Deep within the Crimson Citadel, the Red Mantis assassins have developed a specific selection of spells they teach to all magically capable members. These spells complement the assassins’ clandestine and deadly methods. Curriculum - Cantrips: Figment, Gouging Claw - 1st: Fleet Step, Illusory Disguise, Sure Strike - 2nd: Invisibility, Mist - 3rd: Clairaudience, Paralyze - 4th: Clairvoyance, Translocate - 5th: Hallucination, Illusory Scene - 6th: Mislead, Phantasmal Calamity - 7th: Duplicate Foe, Project Image - 8th: Disappearance, Unrelenting Observation - 9th: Phantasmagoria School Spells - Initial: Debilitating Terror - Advanced: Shroud of the Mantis",
+  "type": "Wizard Arcane School",
+  "url": "/ArcaneSchools.aspx?ID=23",
+  "weakness": {}
+ }
+]

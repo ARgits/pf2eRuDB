@@ -1,82 +1,98 @@
 import type { columnItem, columnsObject, contentFromQuery, KeysOfUnion, Routes } from "@/types";
 import { defineStore } from "pinia";
-import { computed, ref} from "vue";
+import { computed, ref, watch} from "vue";
 import { useRoute, useRouter } from "vue-router";
-import { pg as dbObject } from '@/main'
+import { pg as dbObject } from "@/main"
 import { useContentStore } from "./content";
 import { devLog } from "@/utils";
+type rule = { name:string,children:rule[],aon_id:string,original_name:string }
 export const useViewStore = defineStore("view", () => {
   const route = useRoute()
   const router = useRouter()
   const {getData} = useContentStore()
-  const viewTypeArray = ref<Record<Routes, 'table' | 'list'>>()
+  const viewTypeArray = ref<Record<Routes, "table" | "list">>()
   const allColumns = ref<Record<Routes, columnsObject>>()
-  const sortingCriteria = ref<Record<Routes,{ key: columnItem['key']; sorting: 'ASC' | 'DESC' }[]>>();
+  const sortingCriteria = ref<Record<Routes,{ key: columnItem["key"]; sorting: "ASC" | "DESC" }[]>>();
+  const getColorTheme = ()=>{
+    const localStorageTheme = localStorage.getItem("data-theme")
+    devLog("localStorageTheme",localStorageTheme)
+    if(localStorageTheme) {
+      document.documentElement.setAttribute("data-theme",localStorageTheme)
+      return localStorageTheme as "dark"|"light"
+    }
+    return window.matchMedia("(prefers-color-scheme: dark)").matches?"dark":"light"
+  }
 
+  const ruleStructure = ref<rule[]>()
+  const currentTheme = ref(getColorTheme())
+  devLog("currentTheme",currentTheme.value)
   const routeName = computed(() => (route.name as string).toLowerCase() as Routes)
-  const viewType = computed(() => viewTypeArray.value ? viewTypeArray.value[routeName.value] : 'list')
+  const viewType = computed(() => viewTypeArray.value ? viewTypeArray.value[routeName.value] : "list")
   const currentNumOfColumns = computed(() => allColumns.value?.[routeName.value].numOfColumns ?? 0)
   const currentColumns = computed(() => allColumns.value?.[routeName.value].columns.toSorted((a, b) => a.order - b.order) ?? [])
   const currentSortingCriteria = computed(()=> sortingCriteria.value?.[routeName.value])
   const currentSortingOrder = computed(()=>
-    sortingCriteria.value?
-  sortingCriteria.value[routeName.value].map(
-    criterion => {
-      switch (criterion.key){
-        case "name":
-        case "original_name":{
-          return `nullif(lower(${criterion.key}),'') ${criterion.sorting} nulls last`
-            break
+  { console.log(sortingCriteria.value?.[routeName.value])
+    return sortingCriteria.value?
+      sortingCriteria.value[routeName.value]?.map(
+        criterion => {
+          switch (criterion.key){
+              case "name":
+              case "original_name":{
+                return `nullif(lower(${criterion.key}),'') ${criterion.sorting} nulls last`
+              }
+              case "rarity":{
+                return `array_position(array['common','uncommon','rare','unique'],rarity) ${criterion.sorting}`
+              }
+              default:{
+                return `${criterion.key} ${criterion.sorting}`
+              }
           }
-        case "rarity":{
-          return `array_position(array['common','uncommon','rare','unique'],rarity) ${criterion.sorting}`
-          break
-        }
-        default:{
-          return `${criterion.key} ${criterion.sorting}`
-        }
-      }
-      }).join(', ')
-  :'')
+        }).join(", ")??"":
+      "" })
 
 
-function saveSortingCriteria(newSortingCriteria:{key:columnItem['key'],sorting:'ASC'|'DESC'}[], dataType=routeName.value) {
-  if(!sortingCriteria.value) return
-  console.log(newSortingCriteria)
+  function saveSortingCriteria(newSortingCriteria:{ key:columnItem["key"],sorting:"ASC"|"DESC" }[], dataType=routeName.value) {
+    if(!sortingCriteria.value) return
+    console.log(newSortingCriteria)
 
-  sortingCriteria.value[dataType] = newSortingCriteria.map((v)=>{return{...v}});
-  getData().then(()=>devLog('data sorted'))
-}
+    sortingCriteria.value[dataType] = newSortingCriteria.map((v)=>{ return{...v} });
+    getData().then(()=>devLog("data sorted"))
+  }
 
-function getSortingOrder(dataType=routeName.value) {
-  if(!sortingCriteria.value) return
-    return sortingCriteria.value[dataType].map(criterion => `${criterion.key} ${criterion.sorting}`).join(', ');
-}
+  function getSortingOrder(dataType=routeName.value) {
+    if(!sortingCriteria.value) return
+    return sortingCriteria.value[dataType].map(criterion => `${criterion.key} ${criterion.sorting}`).join(", ");
+  }
   function initViewTypeArray() {
-    const obj = <Record<Routes, 'list' | 'table'>>{}
-    for (const path of router.getRoutes().filter(r => r.name && (r.name !== 'content') && (r.name !== 'favorite'))) {
-      const name = path.name as Routes
-      obj[name] = 'list'
+    const obj = <Record<Routes, "list" | "table">>{}
+    for (const path of router.getRoutes().filter(r => r.name && (r.name !== "content"))) {
+      const name =(path.name as string).toLowerCase() as Routes
+      obj[name] = "list"
     }
+    devLog("iniViewTypeArray",obj)
     viewTypeArray.value = { ...obj }
   }
 
   function setViewType() {
     if (!viewTypeArray.value) return
     
-    viewTypeArray.value[routeName.value] = viewType.value === 'list' ? 'table' : 'list'
+    viewTypeArray.value[routeName.value] = viewType.value === "list" ? "table" : "list"
   }
 
   async function getAllColumns() {
     const obj = <Record<Routes, columnsObject>>{}
-    const sortingObj = <Record<Routes,{key: columnItem['key']; sorting: 'ASC' | 'DESC' }[]>>{}
-    for (const path of router.getRoutes().filter(r => r.name && (r.name !== 'content') && (r.name !== 'favorite'))) {
-      const name = path.name as Routes
+    const excludedRoutes = ["content","favorite","about","compendium","rules","currentRule"]
+    const sortingObj = <Record<Routes,{ key: columnItem["key"]; sorting: "ASC" | "DESC" }[]>>{}
+    for (const path of router.getRoutes().filter(r => !excludedRoutes.includes(r.name)&&r.name)) {
+      console.log(path.name)
+      const name = (path.name as string).toLowerCase() as Routes
+      console.log(name, name.replace("favorite",""))
       const queryResult = (await dbObject.query<{ key: KeysOfUnion<contentFromQuery>, name: string, isShown: boolean, order: number }>(`
       with columns_names as (
         select column_name 
         from information_schema.columns 
-        WHERE table_name = 'content'
+        WHERE table_name ='${name.replace("favorite","")}'
       )
       select distinct
         column_name as key,
@@ -89,15 +105,23 @@ function getSortingOrder(dataType=routeName.value) {
           when column_name=type then filter_name
         end as name
       from data_filter, columns_names
-      where column_name=type and data_type=$1`, [name.replace('favorite', '').toLowerCase()])).rows.map((v, ind) => { return { ...v, isShown: true, order: ind + 2 } });
-      sortingObj[name] = [{key:'name',sorting:'ASC'}]
-      queryResult.push({ key: 'name', name: 'название (RU)', isShown: true, order: 0 }, { key: 'original_name', name: 'название (EN)', isShown: true, order: 1 })
+      where column_name=type and data_type=$1`, [name.replace("favorite", "")])).rows.map((v, ind) => { return { ...v, isShown: true, order: ind + 2 } });
+      sortingObj[name] = [{key:"name",sorting:"ASC"}]
+      queryResult.push(
+        { key: "name", name: "название (RU)", isShown: true, order: 0 },
+        { key: "original_name", name: "название (EN)", isShown: true, order: 1 },
+        { key: "source", name: "Источник", isShown: true, order: queryResult.length+2 }
+      )
       obj[name] = { columns: queryResult, numOfColumns: queryResult.length }
     }
     sortingCriteria.value = {...sortingObj}
     allColumns.value = { ...obj }
+    devLog("getAllColumns:final",allColumns.value)
   }
-  function setColumnOrder(key:columnItem['key'], order:columnItem['order'],dataType=routeName.value){
+  async function getRulesStructure(){
+    ruleStructure.value = (await import("@data/prod/rulesStructure.json")).default
+  }
+  function setColumnOrder(key:columnItem["key"], order:columnItem["order"],dataType=routeName.value){
     if(!allColumns.value) return
     const columnIndex = allColumns.value[dataType].columns.findIndex(v=>v.key===key)
     if(columnIndex===-1) return
@@ -107,18 +131,25 @@ function getSortingOrder(dataType=routeName.value) {
     allColumns.value[dataType].columns[columnIndex].order = order
     allColumns.value[dataType].columns[nextColumnIndex].order = currentOrder
   }
-  function changeColumnVisibility(key:columnItem['key'],dataType=routeName.value){
+  function changeColumnVisibility(key:columnItem["key"],dataType=routeName.value){
     if(!allColumns.value) return
     const columnIndex = allColumns.value[dataType].columns.findIndex(v=>v.key===key)
     if(columnIndex===-1) return
     allColumns.value[dataType].columns[columnIndex].isShown = !allColumns.value[dataType].columns[columnIndex].isShown
     allColumns.value[dataType].numOfColumns = allColumns.value[dataType].columns.filter(v=>v.isShown).length
   }
+  watch(currentTheme,()=>{
+    document.documentElement.setAttribute("data-theme",currentTheme.value)
+    localStorage.setItem("data-theme",currentTheme.value)
+  })
   return {
+
     //ref
     viewTypeArray,
     allColumns,
     sortingCriteria,
+    currentTheme,
+    ruleStructure,
 
     //computed
     viewType,
@@ -134,7 +165,8 @@ function getSortingOrder(dataType=routeName.value) {
     setColumnOrder,
     changeColumnVisibility,
     saveSortingCriteria,
-    getSortingOrder
+    getSortingOrder,
+    getRulesStructure,
   }
 }
 )

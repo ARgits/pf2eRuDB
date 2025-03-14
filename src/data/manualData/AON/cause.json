@@ -1,0 +1,556 @@
+[
+ {
+  "alignment": "LG",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-1",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Paladin](/Causes.aspx?ID=1)</title>\r\n\r\n<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\n\nYou’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the [_lay on hands_](/Spells.aspx?ID=395) devotion spell. After the tenets of good, add these tenets: \n<ul><li>You must act with honor, never taking advantage of others, lying, or cheating. </li><li>You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-5\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nYou surround evil targets in a punishing halo. If you hit with your Retributive Strike, the target takes [persistent good damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nWhen you use Retributive Strike, each ally within 15 feet of you with the target in their melee reach can spend a reaction to Strike the target with a –5 penalty.",
+  "name": "Paladin",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 106",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "cause-11"
+  ],
+  "remaster_name": [
+   "Justice"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"LG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the   lay …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 106"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the   lay …",
+  "summary_markdown": "You’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the   lay …",
+  "text": " Paladin Source Core Rulebook pg. 106 4.0 You’re honorable, forthright, and committed to pushing back the forces of cruelty. You gain the Retributive Strike champion’s reaction and the lay on hands devotion spell. After the tenets of good, add these tenets: You must act with honor, never taking advantage of others, lying, or cheating. You must respect the lawful authority of legitimate leadership wherever you go, and follow its laws. Champion's Reaction Divine Smite You surround evil targets in a punishing halo. If you hit with your Retributive Strike, the target takes persistent good damage equal to your Charisma modifier. Exalt When you use Retributive Strike, each ally within 15 feet of you with the target in their melee reach can spend a reaction to Strike the target with a –5 penalty.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "alignment": "NG",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-2",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Redeemer](/Causes.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\n\nYou’re full of kindness and forgiveness. You gain the Glimpse of Redemption champion’s reaction and the [_lay on hands_](/Spells.aspx?ID=395) devotion spell. After the tenets of good, add these: \n<ul><li>You must first try to redeem those who commit evil acts, rather than killing them or meting out punishment. If they then continue on a wicked path, you might need to take more extreme measures. </li><li>You must show compassion for others, regardless of their authority or station.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-6\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nA guilty conscience assails foes who spurn your Glimpse of Redemption. A foe that responds to your Glimpse of Redemption by dealing damage takes [persistent good damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nYou protect multiple allies. You can apply the resistance granted by Glimpse of Redemption to yourself and all allies within 15 feet of you, including the triggering ally, except the resistance is reduced by 2 for all.",
+  "name": "Redeemer",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 106",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "cause-14"
+  ],
+  "remaster_name": [
+   "Redemption"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"NG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’re full of kindness and forgiveness. You gain the Glimpse of Redemption champion’s reaction and the   lay on hands   devotion spell. After the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 106"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 106 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You’re full of kindness and forgiveness. You gain the Glimpse of Redemption champion’s reaction and the   lay on hands   devotion spell. After the …",
+  "summary_markdown": "You’re full of kindness and forgiveness. You gain the Glimpse of Redemption champion’s reaction and the   lay on hands   devotion spell. After the …",
+  "text": " Redeemer Source Core Rulebook pg. 106 4.0 You’re full of kindness and forgiveness. You gain the Glimpse of Redemption champion’s reaction and the lay on hands devotion spell. After the tenets of good, add these: You must first try to redeem those who commit evil acts, rather than killing them or meting out punishment. If they then continue on a wicked path, you might need to take more extreme measures. You must show compassion for others, regardless of their authority or station. Champion's Reaction Divine Smite A guilty conscience assails foes who spurn your Glimpse of Redemption. A foe that responds to your Glimpse of Redemption by dealing damage takes persistent good damage equal to your Charisma modifier. Exalt You protect multiple allies. You can apply the resistance granted by Glimpse of Redemption to yourself and all allies within 15 feet of you, including the triggering ally, except the resistance is reduced by 2 for all.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "alignment": "CG",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-3",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Liberator](/Causes.aspx?ID=3)</title>\r\n\r\n<traits>\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 107 <sup>4.0</sup>\n\nYou’re committed to defending the freedom of others. You gain the Liberating Step champion’s reaction and the [_lay on hands_](/Spells.aspx?ID=395) devotion spell. After the tenets of good, add these tenets: \n<ul><li>You must respect the choices others make over their own lives, and you can’t force someone to act in a particular way or threaten them if they don’t. </li><li>You must demand and fight for others’ freedom to make their own decisions. You may never engage in or countenance slavery or tyranny.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-7\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nYou punish those who ensnare your allies in bondage. If the triggering enemy was using any effects to make your ally [grabbed](/Conditions.aspx?ID=20), [restrained](/Conditions.aspx?ID=33), [immobilized](/Conditions.aspx?ID=24), or [paralyzed](/Conditions.aspx?ID=28) when you used Liberating Step, that enemy takes [persistent good damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nYou can help your whole group get into position. When you use Liberating Step, if your ally doesn’t attempt to break free of an effect, you and all allies within 15 feet can Step, in addition to the triggering ally.",
+  "name": "Liberator",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 107",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "cause-12"
+  ],
+  "remaster_name": [
+   "Liberation"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"CG\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 107 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’re committed to defending the freedom of others. You gain the Liberating Step champion’s reaction and the   lay on hands   devotion spell. After …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 107"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 107 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You’re committed to defending the freedom of others. You gain the Liberating Step champion’s reaction and the   lay on hands   devotion spell. After …",
+  "summary_markdown": "You’re committed to defending the freedom of others. You gain the Liberating Step champion’s reaction and the   lay on hands   devotion spell. After …",
+  "text": " Liberator Source Core Rulebook pg. 107 4.0 You’re committed to defending the freedom of others. You gain the Liberating Step champion’s reaction and the lay on hands devotion spell. After the tenets of good, add these tenets: You must respect the choices others make over their own lives, and you can’t force someone to act in a particular way or threaten them if they don’t. You must demand and fight for others’ freedom to make their own decisions. You may never engage in or countenance slavery or tyranny. Champion's Reaction Divine Smite You punish those who ensnare your allies in bondage. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes persistent good damage equal to your Charisma modifier. Exalt You can help your whole group get into position. When you use Liberating Step, if your ally doesn’t attempt to break free of an effect, you and all allies within 15 feet can Step, in addition to the triggering ally.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "alignment": "LE",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-4",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"\">[Tyrant](/Causes.aspx?ID=4)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\n\nMight makes right, and you subjugate the weak to keep them in their proper place. You gain the Iron Command champion's reaction and the [_touch of corruption_](/Spells.aspx?ID=819) devotion spell. After the tenets of evil, add these tenets. \n<ul><li>Let no one who is lesser than you wield power over you or lead you.</li><li>Mercilessly enforce established hierarchies of masters and servants. Topple or seize control of illegitimate hierarchies, such as democratic governments or the arrogant echelons of the celestial planes, and fill power vacuums by taking that power for yourself.</li><li>Bind the weak to serve you. This tenet doesn't require you to spare foes' lives if you think they would be disloyal if pressed into servitude, nor does it require you to keep more servants than you find practical or useful.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-552\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nThe regrets of disobedience linger. If an enemy refuses your Iron Command, it takes [persistent evil damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nWhen you use Iron Command, each enemy within 15 feet of you other than the triggering creature must also either drop [prone](/Conditions.aspx?ID=31) or take mental damage (the enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the [Iron Repercussions](/Feats.aspx?ID=1665) feat couldn't turn the damage into [persistent mental damage](/Conditions.aspx?ID=29) for creatures other than the triggering creature.",
+  "name": "Tyrant",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "cause-13"
+  ],
+  "remaster_name": [
+   "Obedience"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMight makes right, and you subjugate the weak to keep them in their proper place. You gain the Iron Command champion's reaction and the   touch of …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Might makes right, and you subjugate the weak to keep them in their proper place. You gain the Iron Command champion's reaction and the   touch of …",
+  "summary_markdown": "Might makes right, and you subjugate the weak to keep them in their proper place. You gain the Iron Command champion's reaction and the   touch of …",
+  "text": " Tyrant Source Advanced Player's Guide pg. 116 2.0 Might makes right, and you subjugate the weak to keep them in their proper place. You gain the Iron Command champion's reaction and the touch of corruption devotion spell. After the tenets of evil, add these tenets. Let no one who is lesser than you wield power over you or lead you. Mercilessly enforce established hierarchies of masters and servants. Topple or seize control of illegitimate hierarchies, such as democratic governments or the arrogant echelons of the celestial planes, and fill power vacuums by taking that power for yourself. Bind the weak to serve you. This tenet doesn't require you to spare foes' lives if you think they would be disloyal if pressed into servitude, nor does it require you to keep more servants than you find practical or useful. Champion's Reaction Divine Smite The regrets of disobedience linger. If an enemy refuses your Iron Command, it takes persistent evil damage equal to your Charisma modifier. Exalt When you use Iron Command, each enemy within 15 feet of you other than the triggering creature must also either drop prone or take mental damage (the enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into persistent mental damage for creatures other than the triggering creature.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "alignment": "NE",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-5",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"\">[Desecrator](/Causes.aspx?ID=5)</title>\r\n\r\n<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\n\nYou always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield champion's reaction and the [_touch of corruption_](/Spells.aspx?ID=819) devotion spell. After the tenets of evil, add this tenet. \n<ul><li>Subvert or corrupt everything in your path that is pure and good, and sow doubt among those upholding such ideals.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-553\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nIf your Charisma modifier is +2 or greater, your resistance against the triggering damage equals your Charisma modifier + half your level.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nWhen you use Selfish Shield, each enemy within 15 feet of you takes a –1 status penalty to attack rolls against you until the start of your next turn.",
+  "name": "Desecrator",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "cause-8"
+  ],
+  "remaster_name": [
+   "Desecration"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"NE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield …",
+  "summary_markdown": "You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield …",
+  "text": " Desecrator Source Advanced Player's Guide pg. 116 2.0 You always take what pleases you, no matter who it hurts, and you spread the influence of evil across all you touch. You gain the Selfish Shield champion's reaction and the touch of corruption devotion spell. After the tenets of evil, add this tenet. Subvert or corrupt everything in your path that is pure and good, and sow doubt among those upholding such ideals. Champion's Reaction Divine Smite If your Charisma modifier is +2 or greater, your resistance against the triggering damage equals your Charisma modifier + half your level. Exalt When you use Selfish Shield, each enemy within 15 feet of you takes a –1 status penalty to attack rolls against you until the start of your next turn.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "alignment": "CE",
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-6",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"\">[Antipaladin](/Causes.aspx?ID=6)</title>\r\n\r\n<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\n\nYou're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the Destructive Vengeance champion's reaction and the [_touch of corruption_](/Spells.aspx?ID=819) devotion spell. After the tenets of evil, add these tenets. \n<ul><li>You must not bind yourself with any law or oath beyond that of your code (though you can still select a champion feat with the oath trait). Act dishonorably, take advantage of others, lie, cheat, and steal to get what you want.</li><li>You must destroy that which offends you and that which stands in your way, including—and perhaps especially—the forces of good and law that oppose you. This tenet doesn't force you to take action immediately if it could mean your destruction, nor does it require you to destroy something that might be useful if corrupted toward your ends.</li></ul>\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-554\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Divine Smite</title>\r\nAn enemy damaged by the initial damage from your Destructive Vengeance also takes [persistent evil damage](/Conditions.aspx?ID=29) equal to your Charisma modifier. This applies only to the damage the reaction itself deals to the triggering creature, not the damage you deal with subsequent Strikes.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalt</title>\r\nWhen you use Destructive Vengeance, each enemy within 15 feet of you other than the triggering creature takes half the damage you deal to the triggering enemy, of the same damage type you chose.",
+  "name": "Antipaladin",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 116",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "cause-10"
+  ],
+  "remaster_name": [
+   "Iniquity"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"CE\" url=\"/Rules.aspx?ID=95\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the Destructive Vengeance champion's reaction and the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 116"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 116 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the Destructive Vengeance champion's reaction and the …",
+  "summary_markdown": "You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the Destructive Vengeance champion's reaction and the …",
+  "text": " Antipaladin Source Advanced Player's Guide pg. 116 2.0 You're dishonorable, dishonest, and committed to breaking the false hopes of kindness. You gain the Destructive Vengeance champion's reaction and the touch of corruption devotion spell. After the tenets of evil, add these tenets. You must not bind yourself with any law or oath beyond that of your code (though you can still select a champion feat with the oath trait). Act dishonorably, take advantage of others, lie, cheat, and steal to get what you want. You must destroy that which offends you and that which stands in your way, including—and perhaps especially—the forces of good and law that oppose you. This tenet doesn't force you to take action immediately if it could mean your destruction, nor does it require you to destroy something that might be useful if corrupted toward your ends. Champion's Reaction Divine Smite An enemy damaged by the initial damage from your Destructive Vengeance also takes persistent evil damage equal to your Charisma modifier. This applies only to the damage the reaction itself deals to the triggering creature, not the damage you deal with subsequent Strikes. Exalt When you use Destructive Vengeance, each enemy within 15 feet of you other than the triggering creature takes half the damage you deal to the triggering enemy, of the same damage type you chose.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-8",
+  "legacy_id": [
+   "cause-5"
+  ],
+  "legacy_name": [
+   "Desecrator"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Restricted\">[Desecration](/Causes.aspx?ID=8)</title>\r\n\r\n<traits>\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\n\nYou always take what pleases you, no matter who it hurts, and you spread a malign influence across all you touch.\r\n\r\n**Edicts**\r\nsubvert or corrupt everything in your path that is pure or holy, sow doubt among those holding ideals of purity or holiness\n\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2804\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nIf your Charisma modifier is +3 or greater, your resistance against the triggering damage equals your Charisma modifier + half your level.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nEach enemy in your champion’s aura takes a –1 status penalty to attack rolls against you until the start of your next turn.",
+  "name": "Desecration",
+  "pfs": "Restricted",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 91",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou always take what pleases you, no matter who it hurts, and you spread a malign influence across all you touch.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 91"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 91",
+  "speed": {},
+  "summary": "You always take what pleases you, no matter who it hurts, and you spread a malign influence across all you touch.",
+  "summary_markdown": "You always take what pleases you, no matter who it hurts, and you spread a malign influence across all you touch.",
+  "text": " Desecration Source Player Core 2 pg. 91 You always take what pleases you, no matter who it hurts, and you spread a malign influence across all you touch. Edicts subvert or corrupt everything in your path that is pure or holy, sow doubt among those holding ideals of purity or holiness Champion's Reaction Relentless Reaction If your Charisma modifier is +3 or greater, your resistance against the triggering damage equals your Charisma modifier + half your level. Exalted Reaction Each enemy in your champion’s aura takes a –1 status penalty to attack rolls against you until the start of your next turn.",
+  "trait": [
+   "Unholy"
+  ],
+  "trait_markdown": "[Unholy](/Traits.aspx?ID=521)",
+  "trait_raw": [
+   "Unholy"
+  ],
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-9",
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Grandeur](/Causes.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\n\nThe glowing grandeur of the immaculate celestial realms inspires you, and you exhort their virtues to bring humility to the denizens of other grim worlds.\r\n\r\n**Edicts**\r\nprovide a shining example for others, enjoy and share the beauty around you, keep yourself tidy and well groomed\r\n\r\n**Anathema**\r\ndespoil yourself by associating with fiends and unholy force\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2805\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nThe enemy also takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier, and it can't recover from this persistent damage while affected by the revealing light from your Flash of Grandeur.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nIn addition to the enemy affected by Flash of Grandeur, each other enemy in your champion's aura is affected by the _revealing light_ spell for 1 round.",
+  "name": "Grandeur",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 91",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe glowing grandeur of the immaculate celestial realms inspires you, and you exhort their virtues to bring humility to the denizens of other grim …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 91"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 91",
+  "speed": {},
+  "summary": "The glowing grandeur of the immaculate celestial realms inspires you, and you exhort their virtues to bring humility to the denizens of other grim …",
+  "summary_markdown": "The glowing grandeur of the immaculate celestial realms inspires you, and you exhort their virtues to bring humility to the denizens of other grim …",
+  "text": " Grandeur Source Player Core 2 pg. 91 The glowing grandeur of the immaculate celestial realms inspires you, and you exhort their virtues to bring humility to the denizens of other grim worlds. Edicts provide a shining example for others, enjoy and share the beauty around you, keep yourself tidy and well groomed Anathema despoil yourself by associating with fiends and unholy force Champion's Reaction Relentless Reaction The enemy also takes persistent spirit damage equal to your Charisma modifier, and it can't recover from this persistent damage while affected by the revealing light from your Flash of Grandeur. Exalted Reaction In addition to the enemy affected by Flash of Grandeur, each other enemy in your champion's aura is affected by the revealing light spell for 1 round.",
+  "trait": [
+   "Holy"
+  ],
+  "trait_markdown": "[Holy](/Traits.aspx?ID=517)",
+  "trait_raw": [
+   "Holy"
+  ],
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-10",
+  "legacy_id": [
+   "cause-6"
+  ],
+  "legacy_name": [
+   "Antipaladin"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Restricted\">[Iniquity](/Causes.aspx?ID=10)</title>\r\n\r\n<traits>\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\n\nYou’re dishonorable, dishonest, and committed to breaking the false hopes of kindness.\r\n\r\n**Edicts**\r\ndestroy that which offends you or stands in your way, take advantage of others, cheat, steal\r\n\r\n**Anathema**\r\nbind yourself with a law other than what your deity requires\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2806\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nAn enemy damaged by the initial reaction's damage also takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier. (This applies only to the damage the reaction itself deals, not the damage you deal with subsequent Strikes.)\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nEach enemy in your champion’s aura other than the triggering creature takes half the damage you deal to the triggering enemy.",
+  "name": "Iniquity",
+  "pfs": "Restricted",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 91",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 91\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou’re dishonorable, dishonest, and committed to breaking the false hopes of kindness.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 91"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 91",
+  "speed": {},
+  "summary": "You’re dishonorable, dishonest, and committed to breaking the false hopes of kindness.",
+  "summary_markdown": "You’re dishonorable, dishonest, and committed to breaking the false hopes of kindness.",
+  "text": " Iniquity Source Player Core 2 pg. 91 You’re dishonorable, dishonest, and committed to breaking the false hopes of kindness. Edicts destroy that which offends you or stands in your way, take advantage of others, cheat, steal Anathema bind yourself with a law other than what your deity requires Champion's Reaction Relentless Reaction An enemy damaged by the initial reaction's damage also takes persistent spirit damage equal to your Charisma modifier. (This applies only to the damage the reaction itself deals, not the damage you deal with subsequent Strikes.) Exalted Reaction Each enemy in your champion’s aura other than the triggering creature takes half the damage you deal to the triggering enemy.",
+  "trait": [
+   "Unholy"
+  ],
+  "trait_markdown": "[Unholy](/Traits.aspx?ID=521)",
+  "trait_raw": [
+   "Unholy"
+  ],
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-11",
+  "legacy_id": [
+   "cause-1"
+  ],
+  "legacy_name": [
+   "Paladin"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Justice](/Causes.aspx?ID=11)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 92\n\nIn your deity’s name you seek justice, following the law and punishing those who transgress it.\r\n\r\n**Edicts**\r\nfollow the law, respect legitimate authorities or leadership\r\n\r\n**Anathema**\r\ntake advantage of another, cheat\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2807\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\n If your Strike hits, the target takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nEach ally in your champion’s aura with the target in their melee reach can spend a reaction to Strike the target with a –5 penalty.",
+  "name": "Justice",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 92",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 92\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIn your deity’s name you seek justice, following the law and punishing those who transgress it.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 92"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 92",
+  "speed": {},
+  "summary": "In your deity’s name you seek justice, following the law and punishing those who transgress it.",
+  "summary_markdown": "In your deity’s name you seek justice, following the law and punishing those who transgress it.",
+  "text": " Justice Source Player Core 2 pg. 92 In your deity’s name you seek justice, following the law and punishing those who transgress it. Edicts follow the law, respect legitimate authorities or leadership Anathema take advantage of another, cheat Champion's Reaction Relentless Reaction If your Strike hits, the target takes persistent spirit damage equal to your Charisma modifier. Exalted Reaction Each ally in your champion’s aura with the target in their melee reach can spend a reaction to Strike the target with a –5 penalty.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-12",
+  "legacy_id": [
+   "cause-3"
+  ],
+  "legacy_name": [
+   "Liberator"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Liberation](/Causes.aspx?ID=12)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 92\n\nYou will see all people free from bondage and prohibitions.\r\n\r\n**Edicts**\r\noppose slavery and tyranny, fight for others’ freedom to make their own decisions, respect choices others make for their own lives\r\n\r\n**Anathema**\r\nforce or threaten someone to act a certain way, engage in slavery or tyranny\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2808\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nYou punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nIn addition to the ally affected by Liberating Step, you and all other allies in your champion’s aura can Step as a free action. You and your allies gain the benefit even if the ally who benefited from Liberating Step can’t move.",
+  "name": "Liberation",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 92",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 92\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou will see all people free from bondage and prohibitions.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 92"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 92",
+  "speed": {},
+  "summary": "You will see all people free from bondage and prohibitions.",
+  "summary_markdown": "You will see all people free from bondage and prohibitions.",
+  "text": " Liberation Source Player Core 2 pg. 92 You will see all people free from bondage and prohibitions. Edicts oppose slavery and tyranny, fight for others’ freedom to make their own decisions, respect choices others make for their own lives Anathema force or threaten someone to act a certain way, engage in slavery or tyranny Champion's Reaction Relentless Reaction You punish those who ensnare your allies. If the triggering enemy was using any effects to make your ally grabbed, restrained, immobilized, or paralyzed when you used Liberating Step, that enemy takes persistent spirit damage equal to your Charisma modifier. Exalted Reaction In addition to the ally affected by Liberating Step, you and all other allies in your champion’s aura can Step as a free action. You and your allies gain the benefit even if the ally who benefited from Liberating Step can’t move.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-13",
+  "legacy_id": [
+   "cause-4"
+  ],
+  "legacy_name": [
+   "Tyrant"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Obedience](/Causes.aspx?ID=13)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93\n\nSociety is ordered with good reason, and people should conduct themselves as appropriate for their proper place.\r\n\r\n**Edicts**\r\nenforce proper hierarchies, topple illegitimate hierarchies, lead when you’re the most suited to the task\r\n\r\n**Anathema**\r\nlet one who is lesser than you wield power over you or lead you\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2809\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nIf the enemy refuses, it takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nEach enemy in your champion's aura other than the triggering creature must also either drop [prone](/Conditions.aspx?ID=88) or take mental damage (each enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into persistent mental damage for creatures other than the triggering creature.",
+  "name": "Obedience",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 93",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSociety is ordered with good reason, and people should conduct themselves as appropriate for their proper place.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 93"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 93",
+  "speed": {},
+  "summary": "Society is ordered with good reason, and people should conduct themselves as appropriate for their proper place.",
+  "summary_markdown": "Society is ordered with good reason, and people should conduct themselves as appropriate for their proper place.",
+  "text": " Obedience Source Player Core 2 pg. 93 Society is ordered with good reason, and people should conduct themselves as appropriate for their proper place. Edicts enforce proper hierarchies, topple illegitimate hierarchies, lead when you’re the most suited to the task Anathema let one who is lesser than you wield power over you or lead you Champion's Reaction Relentless Reaction If the enemy refuses, it takes persistent spirit damage equal to your Charisma modifier. Exalted Reaction Each enemy in your champion's aura other than the triggering creature must also either drop prone or take mental damage (each enemy chooses). These creatures take only minimum damage (typically 3 damage at 11th level, 4 at 12th, 5 at 16th, and 6 at 19th), and the effects they take can't be adjusted by anything that changes your Iron Command. For instance, the Iron Repercussions feat couldn't turn the damage into persistent mental damage for creatures other than the triggering creature.",
+  "trait_markdown": "",
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "cause",
+  "exclude_from_search": false,
+  "id": "cause-14",
+  "legacy_id": [
+   "cause-2"
+  ],
+  "legacy_name": [
+   "Redeemer"
+  ],
+  "markdown": "<title level=\"1\" right=\"Champion Cause \" pfs=\"Standard\">[Redemption](/Causes.aspx?ID=14)</title>\r\n\r\n<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n</traits>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93\n\nYearning for all to live in harmony, you make every attempt to redeem those others might slay or dismiss.\r\n\r\n**Edicts**\r\ntry to redeem those who commit wicked deeds, show compassion to others regardless of their authority or station\r\n\r\n**Anathema**\r\nkill a sapient enemy without first offering a chance at redemption\r\n\r\n<title level=\"2\">Champion's Reaction</title>\r\n<document level=\"3\" id=\"action-2810\" />\r\n\r\n<title level=\"2\" right=\"Level 9\">Relentless Reaction</title>\r\nIf the enemy refuses, it takes [persistent spirit damage](/Conditions.aspx?ID=29) equal to your Charisma modifier.\r\n\r\n<title level=\"2\" right=\"Level 11\">Exalted Reaction</title>\r\nIf the enemy refuses, you can choose to grant the resistance to yourself and all allies in your champion’s aura, including the triggering ally. If you do, the resistance is reduced by 2 for all.",
+  "name": "Redemption",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 93",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Holy\" url=\"/Traits.aspx?ID=517\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 93\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYearning for all to live in harmony, you make every attempt to redeem those others might slay or dismiss.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 93"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 93",
+  "speed": {},
+  "summary": "Yearning for all to live in harmony, you make every attempt to redeem those others might slay or dismiss.",
+  "summary_markdown": "Yearning for all to live in harmony, you make every attempt to redeem those others might slay or dismiss.",
+  "text": " Redemption Source Player Core 2 pg. 93 Yearning for all to live in harmony, you make every attempt to redeem those others might slay or dismiss. Edicts try to redeem those who commit wicked deeds, show compassion to others regardless of their authority or station Anathema kill a sapient enemy without first offering a chance at redemption Champion's Reaction Relentless Reaction If the enemy refuses, it takes persistent spirit damage equal to your Charisma modifier. Exalted Reaction If the enemy refuses, you can choose to grant the resistance to yourself and all allies in your champion’s aura, including the triggering ally. If you do, the resistance is reduced by 2 for all.",
+  "trait": [
+   "Holy"
+  ],
+  "trait_markdown": "[Holy](/Traits.aspx?ID=517)",
+  "trait_raw": [
+   "Holy"
+  ],
+  "type": "Champion Cause",
+  "url": "/Causes.aspx?ID=14",
+  "weakness": {}
+ }
+]

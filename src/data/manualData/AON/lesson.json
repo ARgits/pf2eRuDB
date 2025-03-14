@@ -1,0 +1,1111 @@
+[
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-1",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Dreams](/Lessons.aspx?ID=1)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Veil of Dreams](/Spells.aspx?ID=808) hex, and your familiar learns [Sleep](/Spells.aspx?ID=288).",
+  "name": "Lesson of Dreams",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-16"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Veil of Dreams",
+   "Sleep"
+  ],
+  "text": " Lesson of Dreams Source Advanced Player's Guide pg. 100 2.0 Lesson Type Basic You gain the Veil of Dreams hex, and your familiar learns Sleep.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-2",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of the Elements](/Lessons.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Elemental Betrayal](/Spells.aspx?ID=797) hex. Your familiar learns your choice of [_burning hands_](/Spells.aspx?ID=30), [_air bubble_](/Spells.aspx?ID=5), [_hydraulic push_](/Spells.aspx?ID=154), or [_pummeling rubble_](/Spells.aspx?ID=708).",
+  "name": "Lesson of the Elements",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-17"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Elemental Betrayal",
+   "Abyssal Plague"
+  ],
+  "text": " Lesson of the Elements Source Advanced Player's Guide pg. 100 2.0 Lesson Type Basic You gain the Elemental Betrayal hex. Your familiar learns your choice of burning hands , air bubble , hydraulic push , or pummeling rubble .",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-3",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Life](/Lessons.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Life Boost](/Spells.aspx?ID=799) hex, and your familiar learns [Spirit Link](/Spells.aspx?ID=302).",
+  "name": "Lesson of Life",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-18"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Life Boost",
+   "Spirit Link"
+  ],
+  "text": " Lesson of Life Source Advanced Player's Guide pg. 100 2.0 Lesson Type Basic You gain the Life Boost hex, and your familiar learns Spirit Link.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-4",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Protection](/Lessons.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Blood Ward](/Spells.aspx?ID=791) hex, and your familiar learns [Mage Armor](/Spells.aspx?ID=176).",
+  "name": "Lesson of Protection",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-19"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Blood Ward",
+   "Mage Armor"
+  ],
+  "text": " Lesson of Protection Source Advanced Player's Guide pg. 100 2.0 Lesson Type Basic You gain the Blood Ward hex, and your familiar learns Mage Armor.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-5",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Vengeance](/Lessons.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Needle of Vengeance](/Spells.aspx?ID=801) hex, and your familiar learns [Phantom Pain](/Spells.aspx?ID=220).",
+  "name": "Lesson of Vengeance",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-20"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Needle of Vengeance",
+   "Phantom Pain"
+  ],
+  "text": " Lesson of Vengeance Source Advanced Player's Guide pg. 100 2.0 Lesson Type Basic You gain the Needle of Vengeance hex, and your familiar learns Phantom Pain.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-6",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Mischief](/Lessons.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\n\nYou gain the [Deceiver's Cloak](/Spells.aspx?ID=795) hex, and your familiar learns [Mad Monkeys](/Spells.aspx?ID=702).",
+  "name": "Lesson of Mischief",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-21"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Deceiver's Cloak",
+   "Mad Monkeys"
+  ],
+  "text": " Lesson of Mischief Source Advanced Player's Guide pg. 100 2.0 Lesson Type Greater You gain the Deceiver's Cloak hex, and your familiar learns Mad Monkeys.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-7",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Shadow](/Lessons.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\n\nYou gain the [Malicious Shadow](/Spells.aspx?ID=800) hex, and your familiar learns [Chilling Darkness](/Spells.aspx?ID=36).",
+  "name": "Lesson of Shadow",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-22"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Malicious Shadow",
+   "Chilling Darkness"
+  ],
+  "text": " Lesson of Shadow Source Advanced Player's Guide pg. 100 2.0 Lesson Type Greater You gain the Malicious Shadow hex, and your familiar learns Chilling Darkness.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-8",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Snow](/Lessons.aspx?ID=8)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\n\nYou gain the [Personal Blizzard](/Spells.aspx?ID=803) hex, and your familiar learns [Wall of Wind](/Spells.aspx?ID=367).",
+  "name": "Lesson of Snow",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-23"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Personal Blizzard",
+   "Wall of Wind"
+  ],
+  "text": " Lesson of Snow Source Advanced Player's Guide pg. 100 2.0 Lesson Type Greater You gain the Personal Blizzard hex, and your familiar learns Wall of Wind.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-9",
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Death](/Lessons.aspx?ID=9)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Major\r\n\r\n</column>\n\nYou gain the [Curse of Death](/Spells.aspx?ID=794) hex, and your familiar learns [Raise Dead](/Spells.aspx?ID=243).",
+  "name": "Lesson of Death",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-24"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Curse of Death",
+   "Raise Dead"
+  ],
+  "text": " Lesson of Death Source Advanced Player's Guide pg. 100 2.0 Lesson Type Major You gain the Curse of Death hex, and your familiar learns Raise Dead.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-10",
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Renewal](/Lessons.aspx?ID=10)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\n\n**Lesson Type** Major\r\n\r\n</column>\n\nYou gain the [Restorative Moment](/Spells.aspx?ID=805) hex, and your familiar learns [Field of Life](/Spells.aspx?ID=114).",
+  "name": "Lesson of Renewal",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "lesson-25"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 100 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Restorative Moment",
+   "Field of Life"
+  ],
+  "text": " Lesson of Renewal Source Advanced Player's Guide pg. 100 2.0 Lesson Type Major You gain the Restorative Moment hex, and your familiar learns Field of Life.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-11",
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of the Frozen Queen](/Lessons.aspx?ID=11)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 32\n\n**Lesson Type** Major\r\n\r\n</column>\n\nYou gain the [Glacial Heart](/Spells.aspx?ID=811) hex, and your familiar learns [Wall of Ice](/Spells.aspx?ID=364).",
+  "name": "Lesson of the Frozen Queen",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 32",
+  "primary_source_category": "Lost Omens",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 32\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 32"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 32",
+  "speed": {},
+  "spell": [
+   "Glacial Heart",
+   "Wall of Ice"
+  ],
+  "text": " Lesson of the Frozen Queen Source Legends pg. 32 Lesson Type Major You gain the Glacial Heart hex, and your familiar learns Wall of Ice.",
+  "trait": [
+   "Rare"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Rare"
+  ],
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-12",
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Limited\">[Lesson of Calamity](/Lessons.aspx?ID=12)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 75\n\n**Lesson Type** Basic\r\n\r\n</column>\n\nYou gain the [Stumbling Curse](/Spells.aspx?ID=854) hex, and your familiar learns [Ill Omen](/Spells.aspx?ID=696).",
+  "name": "Lesson of Calamity",
+  "pfs": "Limited",
+  "primary_source": "Pathfinder #169: Kindled Magic",
+  "primary_source_raw": "Pathfinder #169: Kindled Magic pg. 75",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Strength of Thousands",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-08-05",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 75\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #169: Kindled Magic"
+  ],
+  "source_raw": [
+   "Pathfinder #169: Kindled Magic pg. 75"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Strength of Thousands"
+  ],
+  "source_markdown": "[Pathfinder #169: Kindled Magic](/Sources.aspx?ID=94) pg. 75",
+  "speed": {},
+  "spell": [
+   "Stumbling Curse",
+   "Ill Omen"
+  ],
+  "spoilers": "Strength of Thousands",
+  "text": " Lesson of Calamity Source Pathfinder #169: Kindled Magic pg. 75 Lesson Type Basic You gain the Stumbling Curse hex, and your familiar learns Ill Omen.",
+  "trait": [
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Uncommon"
+  ],
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-13",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Favors](/Lessons.aspx?ID=13)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\n\n**Lesson Type** Greater\r\n\r\n</column>\n\nYou gain the [Return the Favor](/Spells.aspx?ID=1181) hex, and your familiar learns [Mind of Menace](/Spells.aspx?ID=949).",
+  "name": "Lesson of Favors",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 159",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 159"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 159",
+  "speed": {},
+  "spell": [
+   "Return the Favor",
+   "Mind of Menace"
+  ],
+  "text": " Lesson of Favors Source Dark Archive pg. 159 Lesson Type Greater You gain the Return the Favor hex, and your familiar learns Mind of Menace.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-14",
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Bargains](/Lessons.aspx?ID=14)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\n\n**Lesson Type** Major\r\n\r\n</column>\n\nYou gain the [Over the Coals](/Spells.aspx?ID=1182) hex, and your familiar learns [Subconscious Suggestion](/Spells.aspx?ID=314).",
+  "name": "Lesson of Bargains",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 159",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 159"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 159",
+  "speed": {},
+  "spell": [
+   "Over the Coals",
+   "Subconscious Suggestion"
+  ],
+  "text": " Lesson of Bargains Source Dark Archive pg. 159 Lesson Type Major You gain the Over the Coals hex, and your familiar learns Subconscious Suggestion.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-16",
+  "legacy_id": [
+   "lesson-1"
+  ],
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Dreams](/Lessons.aspx?ID=16)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\r\n\r\nDreams can be a window to greater insights. \r\nYou gain the [Veil of Dreams](/Spells.aspx?ID=1886) hex, and your familiar learns [Sleep](/Spells.aspx?ID=1675).",
+  "name": "Lesson of Dreams",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Veil of Dreams",
+   "Sleep"
+  ],
+  "text": " Lesson of Dreams Source Player Core pg. 185 2.0 Lesson Type Basic Dreams can be a window to greater insights. You gain the Veil of Dreams hex, and your familiar learns Sleep.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-17",
+  "legacy_id": [
+   "lesson-2"
+  ],
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of the Elements](/Lessons.aspx?ID=17)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\r\n\r\nNatural disasters and inclement weather hold more power than the mightiest creature.\r\nYou gain the [Elemental Betrayal](/Spells.aspx?ID=1878) hex. Your familiar learns your choice of [_breathe fire_](/Spells.aspx?ID=1457), [_gust of wind_](/Spells.aspx?ID=143), [_hydraulic push_](/Spells.aspx?ID=154), or [_pummeling rubble_](/Spells.aspx?ID=708).",
+  "name": "Lesson of the Elements",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Elemental Betrayal",
+   "Abyssal Plague"
+  ],
+  "text": " Lesson of the Elements Source Player Core pg. 185 2.0 Lesson Type Basic Natural disasters and inclement weather hold more power than the mightiest creature. You gain the Elemental Betrayal hex. Your familiar learns your choice of breathe fire , gust of wind , hydraulic push , or pummeling rubble .",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-18",
+  "legacy_id": [
+   "lesson-3"
+  ],
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Life](/Lessons.aspx?ID=18)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\r\n\r\nLife can be shared.\r\nYou gain the [Life Boost](/Spells.aspx?ID=1879) hex, and your familiar learns [Spirit Link](/Spells.aspx?ID=1686).",
+  "name": "Lesson of Life",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Life Boost",
+   "Spirit Link"
+  ],
+  "text": " Lesson of Life Source Player Core pg. 185 2.0 Lesson Type Basic Life can be shared. You gain the Life Boost hex, and your familiar learns Spirit Link.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-19",
+  "legacy_id": [
+   "lesson-4"
+  ],
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Protection](/Lessons.aspx?ID=19)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\r\n\r\nAn ounce of protection is worth a pound of cure.\r\nYou gain the [Blood Ward](/Spells.aspx?ID=1874) hex, and your familiar learns [Mystic Armor](/Spells.aspx?ID=1611).",
+  "name": "Lesson of Protection",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Blood Ward",
+   "Mystic Armor"
+  ],
+  "text": " Lesson of Protection Source Player Core pg. 185 2.0 Lesson Type Basic An ounce of protection is worth a pound of cure. You gain the Blood Ward hex, and your familiar learns Mystic Armor.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-20",
+  "legacy_id": [
+   "lesson-5"
+  ],
+  "lesson_type": "Basic",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Vengeance](/Lessons.aspx?ID=20)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Basic\r\n\r\n</column>\r\n\r\nSuffer not even the smallest slights. \r\nYou gain the [Needle of Vengeance](/Spells.aspx?ID=1881) hex, and your familiar learns [Phantom Pain](/Spells.aspx?ID=1632).",
+  "name": "Lesson of Vengeance",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Basic\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Needle of Vengeance",
+   "Phantom Pain"
+  ],
+  "text": " Lesson of Vengeance Source Player Core pg. 185 2.0 Lesson Type Basic Suffer not even the smallest slights. You gain the Needle of Vengeance hex, and your familiar learns Phantom Pain.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-21",
+  "legacy_id": [
+   "lesson-6"
+  ],
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Mischief](/Lessons.aspx?ID=21)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nNothing's wrong with some mischief, now and then.\r\nYou gain the [Deceiver's Cloak](/Spells.aspx?ID=1877) hex, and your familiar learns [Mad Monkeys](/Spells.aspx?ID=1590).",
+  "name": "Lesson of Mischief",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Deceiver's Cloak",
+   "Mad Monkeys"
+  ],
+  "text": " Lesson of Mischief Source Player Core pg. 185 2.0 Lesson Type Greater Nothing's wrong with some mischief, now and then. You gain the Deceiver's Cloak hex, and your familiar learns Mad Monkeys.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-22",
+  "legacy_id": [
+   "lesson-7"
+  ],
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Shadow](/Lessons.aspx?ID=22)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nA shadow is far from empty—it contains something of the person who casts it. \r\nYou gain the [Malicious Shadow](/Spells.aspx?ID=1880) hex, and your familiar learns [Chilling Darkness](/Spells.aspx?ID=1464).",
+  "name": "Lesson of Shadow",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Malicious Shadow",
+   "Chilling Darkness"
+  ],
+  "text": " Lesson of Shadow Source Player Core pg. 185 2.0 Lesson Type Greater A shadow is far from empty—it contains something of the person who casts it. You gain the Malicious Shadow hex, and your familiar learns Chilling Darkness.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-23",
+  "legacy_id": [
+   "lesson-8"
+  ],
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Snow](/Lessons.aspx?ID=23)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nEmulate snow, for it can snuff out life despite its gentleness. \r\nYou gain the [Personal Blizzard](/Spells.aspx?ID=1883) hex, and your familiar learns [Wall of Wind](/Spells.aspx?ID=1753).",
+  "name": "Lesson of Snow",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Personal Blizzard",
+   "Wall of Wind"
+  ],
+  "text": " Lesson of Snow Source Player Core pg. 185 2.0 Lesson Type Greater Emulate snow, for it can snuff out life despite its gentleness. You gain the Personal Blizzard hex, and your familiar learns Wall of Wind.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-24",
+  "legacy_id": [
+   "lesson-9"
+  ],
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Death](/Lessons.aspx?ID=24)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Major\r\n\r\n</column>\r\n\r\nDeath is final, yet not as inescapable as it may seem. \r\nYou gain the [Curse of Death](/Spells.aspx?ID=1876) hex, and your familiar learns [Raise Dead](/Spells.aspx?ID=1645).",
+  "name": "Lesson of Death",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Curse of Death",
+   "Raise Dead"
+  ],
+  "text": " Lesson of Death Source Player Core pg. 185 2.0 Lesson Type Major Death is final, yet not as inescapable as it may seem. You gain the Curse of Death hex, and your familiar learns Raise Dead.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-25",
+  "legacy_id": [
+   "lesson-10"
+  ],
+  "lesson_type": "Major",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Renewal](/Lessons.aspx?ID=25)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\n**Lesson Type** Major\r\n\r\n</column>\r\n\r\nEntropy comes for all, but it can be wound back through effort.\r\nYou gain the [Restorative Moment](/Spells.aspx?ID=1885) hex, and your familiar learns [Field of Life](/Spells.aspx?ID=1526).",
+  "name": "Lesson of Renewal",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Lesson Type** Major\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Restorative Moment",
+   "Field of Life"
+  ],
+  "text": " Lesson of Renewal Source Player Core pg. 185 2.0 Lesson Type Major Entropy comes for all, but it can be wound back through effort. You gain the Restorative Moment hex, and your familiar learns Field of Life.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-26",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of Decay](/Lessons.aspx?ID=26)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nAll living things eventually decay, feeding fungus and insect.\r\nYou gain the [Mycological Malady](/Spells.aspx?ID=1942) hex, and your familiar learns [Insect Form](/Spells.aspx?ID=1575).",
+  "name": "Lesson of Decay",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Mycological Malady",
+   "Insect Form"
+  ],
+  "text": " Lesson of Decay Source Howl of the Wild pg. 62 2.0 Lesson Type Greater All living things eventually decay, feeding fungus and insect. You gain the Mycological Malady hex, and your familiar learns Insect Form.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-27",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of the Flock](/Lessons.aspx?ID=27)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nPower flows when many work as one.\r\nYou gain the [Sheltering Wings](/Spells.aspx?ID=1943) hex, and your familiar learns [Levitate](/Spells.aspx?ID=1584).",
+  "name": "Lesson of the Flock",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Sheltering Wings",
+   "Levitate"
+  ],
+  "text": " Lesson of the Flock Source Howl of the Wild pg. 62 2.0 Lesson Type Greater Power flows when many work as one. You gain the Sheltering Wings hex, and your familiar learns Levitate.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=27",
+  "weakness": {}
+ },
+ {
+  "category": "lesson",
+  "exclude_from_search": false,
+  "id": "lesson-28",
+  "lesson_type": "Greater",
+  "markdown": "<title level=\"1\" right=\"Witch Lesson \" pfs=\"Standard\">[Lesson of the Shark](/Lessons.aspx?ID=28)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\n\n**Lesson Type** Greater\r\n\r\n</column>\r\n\r\nLearn the ways of this deadly oceanic predator.\r\nYou gain the [Blood in the Water](/Spells.aspx?ID=1941) hex, and your familiar learns [Feet to Fins](/Spells.aspx?ID=1525).",
+  "name": "Lesson of the Shark",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\r\n\r\n**Lesson Type** Greater\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Blood in the Water",
+   "Feet to Fins"
+  ],
+  "text": " Lesson of the Shark Source Howl of the Wild pg. 62 2.0 Lesson Type Greater Learn the ways of this deadly oceanic predator. You gain the Blood in the Water hex, and your familiar learns Feet to Fins.",
+  "trait_markdown": "",
+  "type": "Witch Lesson",
+  "url": "/Lessons.aspx?ID=28",
+  "weakness": {}
+ }
+]

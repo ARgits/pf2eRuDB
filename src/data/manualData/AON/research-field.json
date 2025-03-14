@@ -1,0 +1,298 @@
+[
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-1",
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Bomber](/ResearchFields.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\n\nYou specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level [alchemical bombs](/Equipment.aspx?Category=6&amp;Subcategory=7), in addition to your other formulas.\n\n When throwing an alchemical bomb with the [splash](/Traits.aspx?ID=150) trait, you can deal splash damage to only your primary target instead of the usual splash area.\n\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nWhen using advanced alchemy to make bombs during your daily preparations, you can use a batch of reagents to create any three bombs instead of just two of the same bomb.\r\n\r\n<title level=\"2\" right=\"Level 7\">Perpetual Infusions</title>\r\nChoose two 1st-level bombs.\r\n\r\n<title level=\"2\" right=\"Level 11\">Perpetual Potency</title>\r\nChoose two 3rd-level or lower bombs.\n\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nYou can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have [Expanded Splash](/Feats.aspx?ID=109).\r\n\r\n<title level=\"2\" right=\"Level 17\">Perpetual Perfection</title>\r\nChoose two 11th-level or lower bombs.",
+  "name": "Bomber",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "research-field-5"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level  alchemical bombs , in …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level  alchemical bombs , in …",
+  "summary_markdown": "You specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level  alchemical bombs , in …",
+  "text": " Bomber Source Core Rulebook pg. 73 4.0 You specialize in explosions and other violent alchemical reactions. You start with the formulas for two common 1st-level alchemical bombs, in addition to your other formulas. When throwing an alchemical bomb with the splash trait, you can deal splash damage to only your primary target instead of the usual splash area. Field Discovery When using advanced alchemy to make bombs during your daily preparations, you can use a batch of reagents to create any three bombs instead of just two of the same bomb. Perpetual Infusions Choose two 1st-level bombs. Perpetual Potency Choose two 3rd-level or lower bombs. Greater Field Discovery You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have Expanded Splash. Perpetual Perfection Choose two 11th-level or lower bombs.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-2",
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Chirurgeon](/ResearchFields.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\n\nYou concentrate on healing others with alchemy. You start with the formulas for two common 1st-level [alchemical elixirs](/Equipment.aspx?Category=6&amp;Subcategory=8) with the [healing](/Traits.aspx?ID=89) trait (like [lesser antidote](/Equipment.aspx?ID=80), [lesser antiplague](/Equipment.aspx?ID=81), or [minor elixir of life](/Equipment.aspx?ID=91)), in addition to your other formulas.\n\n You can use your proficiency rank in [Crafting](/Skills.aspx?ID=4) for anything that requires a proficiency rank in [Medicine](/Skills.aspx?ID=9) (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks.\n\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nWhen using advanced alchemy to make elixirs with the [healing](/Traits.aspx?ID=89) trait during your daily preparations, you can create three elixirs with each batch of reagents instead of two.\r\n\r\n<title level=\"2\" right=\"Level 7\">Perpetual Infusions</title>\r\nChoose two 1st-level elixirs with the healing trait. If a creature heals Hit Points from a perpetual infusion, that creature is temporarily immune to healing Hit Points from subsequent perpetual infusions for 10 minutes (but not immune to any other effects of those infusions).\r\n\r\n<title level=\"2\" right=\"Level 11\">Perpetual Potency</title>\r\nChoose two 6th-level or lower elixirs with\r\nthe healing trait.\n\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nWhen you use [Quick Alchemy](/Feats.aspx?ID=667) to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained.\r\n\r\n<title level=\"2\" right=\"Level 17\">Perpetual Perfection</title>\r\nChoose two 11th-level or lower elixirs with the healing trait.",
+  "name": "Chirurgeon",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "research-field-6"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou concentrate on healing others with alchemy. You start with the formulas for two common 1st-level  alchemical elixirs  with the  healing  trait …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level  alchemical elixirs  with the  healing  trait …",
+  "summary_markdown": "You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level  alchemical elixirs  with the  healing  trait …",
+  "text": " Chirurgeon Source Core Rulebook pg. 73 4.0 You concentrate on healing others with alchemy. You start with the formulas for two common 1st-level alchemical elixirs with the healing trait (like lesser antidote, lesser antiplague, or minor elixir of life), in addition to your other formulas. You can use your proficiency rank in Crafting for anything that requires a proficiency rank in Medicine (such as prerequisites), and use your Crafting modifier in place of your Medicine modifier for all Medicine checks. Field Discovery When using advanced alchemy to make elixirs with the healing trait during your daily preparations, you can create three elixirs with each batch of reagents instead of two. Perpetual Infusions Choose two 1st-level elixirs with the healing trait. If a creature heals Hit Points from a perpetual infusion, that creature is temporarily immune to healing Hit Points from subsequent perpetual infusions for 10 minutes (but not immune to any other effects of those infusions). Perpetual Potency Choose two 6th-level or lower elixirs with the healing trait. Greater Field Discovery When you use Quick Alchemy to create any type of elixir of life, the creature drinking the elixir gains the maximum Hit Points possible for that elixir, instead of rolling to determine the number of Hit Points regained. Perpetual Perfection Choose two 11th-level or lower elixirs with the healing trait.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-3",
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Mutagenist](/ResearchFields.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\n\nYou focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another. You start with the formulas for two common 1st-level [alchemical mutagens](/Traits.aspx?ID=116) in your formula book, in addition to your other formulas.\n\n You also gain the following free action.\n\n<document level=\"2\" id=\"action-340\" />\n\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nWhen using advanced alchemy to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen.\r\n\r\n<title level=\"2\" right=\"Level 7\">Perpetual Infusions</title>\r\nChoose two 1st-level mutagens.\r\n\r\n<title level=\"2\" right=\"Level 11\">Perpetual Potency</title>\r\nChoose two 3rd-level or lower mutagens.\n\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nIf you imbibe another mutagen while you are under the effects of a mutagen that you created, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the [polymorph](/Traits.aspx?ID=127) trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both.\r\n\r\n<title level=\"2\" right=\"Level 17\">Perpetual Perfection</title>\r\nChoose two 11th-level or lower mutagens.",
+  "name": "Mutagenist",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "research-field-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 73 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen …",
+  "summary_markdown": "You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen …",
+  "text": " Mutagenist Source Core Rulebook pg. 73 4.0 You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature's physical or psychological being in order to strengthen another. You start with the formulas for two common 1st-level alchemical mutagens in your formula book, in addition to your other formulas. You also gain the following free action. Field Discovery When using advanced alchemy to make mutagens during your daily preparations, you can use a batch of reagents to create any three mutagens instead of just two of the same mutagen. Perpetual Infusions Choose two 1st-level mutagens. Perpetual Potency Choose two 3rd-level or lower mutagens. Greater Field Discovery If you imbibe another mutagen while you are under the effects of a mutagen that you created, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the polymorph trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both. Perpetual Perfection Choose two 11th-level or lower mutagens.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-4",
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Toxicologist](/ResearchFields.aspx?ID=4)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 106 <sup>2.0</sup>\n\nYou specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level [alchemical poisons](/Equipment.aspx?Category=6&amp;Subcategory=9) in your formula book, in addition to your other formulas. You can apply an [injury poison](/Traits.aspx?ID=97) you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher.\n\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nWhen using advanced alchemy to make poisons during your daily preparations, you can spend one batch of reagents to create three poisons in any combination, instead of just two of the same poison.\r\n\r\n<title level=\"2\" right=\"Level 7\">Perpetual Infusions</title>\r\nChoose two common 1st-level alchemical poisons.\r\n\r\n<title level=\"2\" right=\"Level 11\">Perpetual Potency</title>\r\nChoose two common 5th-level or lower alchemical poisons.\n\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nYou can apply two different injury poisons to the same weapon, though not to a piece of ammunition. The two poisons can be up to six levels lower than your level, and you can't use the poisons made without spending a batch of infused reagents via perpetual infusions. Applying the two poisons requires a separate action to apply each poison. Once completed, you combine the two poisons on the weapon into a double poison with the lower of the two poisons' DCs. This double poison is only [virulent](/Traits.aspx?ID=162) if both poisons were virulent, and if the poisons have a different number of stages, the double poison has a number of stages equal to the poison with the lower number of stages. The target takes the effects of both poisons for its current stage.\r\n\r\n<title level=\"2\" right=\"Level 17\">Perpetual Perfection</title>\r\nChoose two common 11th-level or lower alchemical poisons.",
+  "name": "Toxicologist",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 106",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "research-field-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 106 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level  alchemical poisons  in your formula book, in …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 106"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 106 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level  alchemical poisons  in your formula book, in …",
+  "summary_markdown": "You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level  alchemical poisons  in your formula book, in …",
+  "text": " Toxicologist Source Advanced Player's Guide pg. 106 2.0 You specialize in toxins and venoms of all types. You start with the formulas for two common 1st-level alchemical poisons in your formula book, in addition to your other formulas. You can apply an injury poison you're holding to a weapon you're wielding as a single action, rather than as a 2-action activity, and you can change the DCs of your infused poisons to your class DC if it's higher. Field Discovery When using advanced alchemy to make poisons during your daily preparations, you can spend one batch of reagents to create three poisons in any combination, instead of just two of the same poison. Perpetual Infusions Choose two common 1st-level alchemical poisons. Perpetual Potency Choose two common 5th-level or lower alchemical poisons. Greater Field Discovery You can apply two different injury poisons to the same weapon, though not to a piece of ammunition. The two poisons can be up to six levels lower than your level, and you can't use the poisons made without spending a batch of infused reagents via perpetual infusions. Applying the two poisons requires a separate action to apply each poison. Once completed, you combine the two poisons on the weapon into a double poison with the lower of the two poisons' DCs. This double poison is only virulent if both poisons were virulent, and if the poisons have a different number of stages, the double poison has a number of stages equal to the poison with the lower number of stages. The target takes the effects of both poisons for its current stage. Perpetual Perfection Choose two common 11th-level or lower alchemical poisons.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-5",
+  "legacy_id": [
+   "research-field-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Bomber](/ResearchFields.aspx?ID=5)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\n\nYou specialize in explosions and other violent reactions.\r\n\r\n<title level=\"2\" right=\"Level 1\">Formulas</title>\r\nTwo common 1st-level [alchemical bombs](/Equipment.aspx?Category=6&amp;Subcategory=7).\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Benefit</title>\r\nWhen throwing an alchemical bomb with the [splash](/Traits.aspx?ID=699) trait, you can choose to deal splash damage to only your primary target instead of the usual splash area.\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Vials</title>\r\nWhen you Strike with a versatile vial, you can choose to have it deal cold, electricity, or fire damage instead of acid damage.\r\n\r\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nYou have calculated all the angles to maximize a bomb’s splash. When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 1) instead of the normal amount.\n\n<title level=\"2\" right=\"Level 11\">Advanced Vials</title>\r\nYou can mix special ingredients into your vials, such as magical dust or flakes of precious minerals. When you create a versatile vial, you can choose to have it treated as one special material of your choice, chosen from [adamantine](/Equipment.aspx?ID=2915), [cold iron](/Equipment.aspx?ID=2916), and [dawnsilver](/Equipment.aspx?ID=2917). If you’re wearing or wielding an item of a different precious material when you make the vial, you can choose that material instead.\r\n\r\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nYou can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have [Expanded Splash](/Feats.aspx?ID=5788).",
+  "name": "Bomber",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou specialize in explosions and other violent reactions.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 61",
+  "speed": {},
+  "summary": "You specialize in explosions and other violent reactions.",
+  "summary_markdown": "You specialize in explosions and other violent reactions.",
+  "text": " Bomber Source Player Core 2 pg. 61 You specialize in explosions and other violent reactions. Formulas Two common 1st-level alchemical bombs. Field Benefit When throwing an alchemical bomb with the splash trait, you can choose to deal splash damage to only your primary target instead of the usual splash area. Field Vials When you Strike with a versatile vial, you can choose to have it deal cold, electricity, or fire damage instead of acid damage. Field Discovery You have calculated all the angles to maximize a bomb’s splash. When you throw an alchemical bomb with the splash trait, you can cause the bomb to deal splash damage equal to your Intelligence modifier (minimum 1) instead of the normal amount. Advanced Vials You can mix special ingredients into your vials, such as magical dust or flakes of precious minerals. When you create a versatile vial, you can choose to have it treated as one special material of your choice, chosen from adamantine, cold iron, and dawnsilver. If you’re wearing or wielding an item of a different precious material when you make the vial, you can choose that material instead. Greater Field Discovery You can increase the splash on your bombs to damage creatures within 10 feet, or 15 feet if you have Expanded Splash.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-6",
+  "legacy_id": [
+   "research-field-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Chirurgeon](/ResearchFields.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\n\nYou concentrate on healing others with alchemy.\r\n\r\n<title level=\"2\" right=\"Level 1\">Formulas</title>\r\nTwo common 1st-level [alchemical elixirs](/Equipment.aspx?Category=6&amp;Subcategory=8) with the [healing](/Traits.aspx?ID=623) trait (like [lesser antidote](/Equipment.aspx?ID=2879), [lesser antiplague](/Equipment.aspx?ID=2880), or [minor elixir of life](/Equipment.aspx?ID=2887)).\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Benefit</title>\r\nYou can use your proficiency rank in [Crafting](/Skills.aspx?ID=37) for anything that requires a proficiency rank in [Medicine](/Skills.aspx?ID=42) (such as prerequisites) and use your Crafting modifier in place of your Medicine modifier for all Medicine checks.\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Vials</title>\r\nYour versatile vials can be used to heal a living creature a number of Hit Points equal to the vial’s initial damage. A creature can drink the vial for this benefit, or you can throw the vial at a willing creature within 20 feet as an [Interact](/Actions.aspx?ID=2297) action to heal that creature. In either case, a vial used this way loses the [acid](/Traits.aspx?ID=524) and [splash](/Traits.aspx?ID=699) traits and gains the [coagulant](/Traits.aspx?ID=796) and [healing](/Traits.aspx?ID=623) traits, plus the [elixir](/Traits.aspx?ID=589) trait if a creature drinks it.\r\n\r\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nYour medicinal elixirs are quite fortifying. When a creature drinks an [infused](/Traits.aspx?ID=797) elixir with the healing trait that you have created, that creature gains a number of [temporary Hit Points](/Rules.aspx?ID=2321) equal to your Intelligence modifier (minimum 0); these temporary Hit Points last for 1 minute.\n\n<title level=\"2\" right=\"Level 11\">Advanced Vials</title>\r\nWhen you use a field vial to heal a creature that has half its maximum Hit Points or fewer, the [coagulant](/Traits.aspx?ID=796) trait doesn’t apply to that healing.\r\n\r\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nWhen you use [Quick Alchemy](/Actions.aspx?ID=2801) to create any type of elixir of life, the creature healed by the item regains the maximum Hit Points possible, instead of rolling to determine the number of Hit Points regained.",
+  "name": "Chirurgeon",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou concentrate on healing others with alchemy.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 61",
+  "speed": {},
+  "summary": "You concentrate on healing others with alchemy.",
+  "summary_markdown": "You concentrate on healing others with alchemy.",
+  "text": " Chirurgeon Source Player Core 2 pg. 61 You concentrate on healing others with alchemy. Formulas Two common 1st-level alchemical elixirs with the healing trait (like lesser antidote, lesser antiplague, or minor elixir of life). Field Benefit You can use your proficiency rank in Crafting for anything that requires a proficiency rank in Medicine (such as prerequisites) and use your Crafting modifier in place of your Medicine modifier for all Medicine checks. Field Vials Your versatile vials can be used to heal a living creature a number of Hit Points equal to the vial’s initial damage. A creature can drink the vial for this benefit, or you can throw the vial at a willing creature within 20 feet as an Interact action to heal that creature. In either case, a vial used this way loses the acid and splash traits and gains the coagulant and healing traits, plus the elixir trait if a creature drinks it. Field Discovery Your medicinal elixirs are quite fortifying. When a creature drinks an infused elixir with the healing trait that you have created, that creature gains a number of temporary Hit Points equal to your Intelligence modifier (minimum 0); these temporary Hit Points last for 1 minute. Advanced Vials When you use a field vial to heal a creature that has half its maximum Hit Points or fewer, the coagulant trait doesn’t apply to that healing. Greater Field Discovery When you use Quick Alchemy to create any type of elixir of life, the creature healed by the item regains the maximum Hit Points possible, instead of rolling to determine the number of Hit Points regained.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-7",
+  "legacy_id": [
+   "research-field-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Mutagenist](/ResearchFields.aspx?ID=7)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\n\nYou focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen another.\r\n\r\n<title level=\"2\" right=\"Level 1\">Formulas</title>\r\nTwo common 1st-level [alchemical mutagens](/Equipment.aspx?Category=6&amp;Subcategory=8).\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Benefit</title>\r\nWhen you use a [mutagen](/Traits.aspx?ID=808), you gain a number of [temporary Hit Points](/Rules.aspx?ID=2321) equal to your Intelligence modifier (minimum 0) plus half your level. These temporary Hit Points last for 1 minute or until the mutagen’s duration expires, whichever comes first. You can’t gain temporary HP from drinking a mutagen again for 1 minute.\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Vials</title>\r\nYou can drink the contents of one your versatile vials to suppress the drawback you take from one mutagen currently affecting you until the beginning of your next turn. A vial used this way loses the [acid](/Traits.aspx?ID=524), [bomb](/Traits.aspx?ID=548), and [splash](/Traits.aspx?ID=699) traits and gains the [elixir](/Traits.aspx?ID=589) trait. If you have more than one drawback due to [Combine Elixirs](/Feats.aspx?ID=5777) or a similar ability, drinking the vial suppresses one drawback of your choice.\r\n\r\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nThe mutagens flowing through your blood have altered your body chemistry. When you roll a Fortitude save while affected by a mutagen and dislike the result, you can end the effect of the mutagen to reroll the save. This is a [fortune](/Traits.aspx?ID=612) effect.\n\n<title level=\"2\" right=\"Level 11\">Advanced Vials</title>\r\nWhen you drink one of your field vials, you also gain [resistance](/Rules.aspx?ID=2318) to physical damage for the same duration. The resistance is equal to half your level.\r\n\r\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nIf you imbibe another mutagen while you are under the effects of a mutagen, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the [polymorph](/Traits.aspx?ID=670) trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both. Your field vial benefit applies to one mutagen of your choice.",
+  "name": "Mutagenist",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 61\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 61",
+  "speed": {},
+  "summary": "You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen …",
+  "summary_markdown": "You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen …",
+  "text": " Mutagenist Source Player Core 2 pg. 61 You focus on bizarre mutagenic transformations that sacrifice one aspect of a creature’s physical or psychological being in order to strengthen another. Formulas Two common 1st-level alchemical mutagens. Field Benefit When you use a mutagen, you gain a number of temporary Hit Points equal to your Intelligence modifier (minimum 0) plus half your level. These temporary Hit Points last for 1 minute or until the mutagen’s duration expires, whichever comes first. You can’t gain temporary HP from drinking a mutagen again for 1 minute. Field Vials You can drink the contents of one your versatile vials to suppress the drawback you take from one mutagen currently affecting you until the beginning of your next turn. A vial used this way loses the acid, bomb, and splash traits and gains the elixir trait. If you have more than one drawback due to Combine Elixirs or a similar ability, drinking the vial suppresses one drawback of your choice. Field Discovery The mutagens flowing through your blood have altered your body chemistry. When you roll a Fortitude save while affected by a mutagen and dislike the result, you can end the effect of the mutagen to reroll the save. This is a fortune effect. Advanced Vials When you drink one of your field vials, you also gain resistance to physical damage for the same duration. The resistance is equal to half your level. Greater Field Discovery If you imbibe another mutagen while you are under the effects of a mutagen, you can gain the benefits and the drawbacks of both mutagens at once, despite the fact that they both have the polymorph trait and would not normally function together. If you come under the effects of any further mutagens while benefiting from two mutagens, you lose the benefit of one of the former mutagens of your choice, while retaining the drawbacks of all the mutagens. If you are under the effects of two mutagens and you come under the effect of a non-mutagen polymorph effect, you lose the benefits of the mutagens while retaining the drawbacks of both. Your field vial benefit applies to one mutagen of your choice.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "research-field",
+  "exclude_from_search": false,
+  "id": "research-field-8",
+  "legacy_id": [
+   "research-field-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Alchemist Research Field \" pfs=\"Standard\">[Toxicologist](/ResearchFields.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 62\n\nYou specialize in toxins and venoms of all types. \r\n\r\n<title level=\"2\" right=\"Level 1\">Formulas</title>\r\nTwo common 1st-level [alchemical poisons](/Equipment.aspx?Category=6&amp;Subcategory=9).\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Benefit</title>\r\nYou can apply an [injury](/Traits.aspx?ID=635) poison you’re holding to a weapon or piece of ammunition you’re wielding as a single action, rather than as a 2-action activity. In addition, you flexibly mix acidic and poisonous alchemical compounds. Your [infused](/Traits.aspx?ID=797) poisons can affect creatures [immune](/Rules.aspx?ID=2313) to poison. A creature takes acid damage instead of poison damage from your infused poisons if either the creature is immune to poison or that would be more detrimental to the creature (as determined by the GM). Typically, this benefit applies when the creature has an immunity, [resistance](/Rules.aspx?ID=2318), or [weakness](/Rules.aspx?ID=2317) to one of the damage types.\r\n\r\n<title level=\"2\" right=\"Level 1\">Field Vials</title>\r\nYour versatile vials have the [poison](/Traits.aspx?ID=669) trait and deal poison damage instead of having the [acid](/Traits.aspx?ID=524) trait and dealing acid damage (though your field benefit still applies). You can apply the contents of a versatile vial to a weapon or piece of ammunition as an [injury](/Traits.aspx?ID=635) poison. Add the versatile vial’s initial damage to the first successful [Strike](/Actions.aspx?ID=2306) with that weapon or ammunition. The substance becomes inert at the end of your current turn.\r\n\r\n<title level=\"2\" right=\"Level 5\">Field Discovery</title>\r\nYou have handled enough poisons to become inured to their effects. You gain poison [resistance](/Rules.aspx?ID=2318) equal to half your level.\n\n<title level=\"2\" right=\"Level 11\">Advanced Vials</title>\r\nWhen you damage a creature with a versatile vial you’ve used as an [injury](/Traits.aspx?ID=635) poison, that creature takes [persistent poison damage](/Conditions.aspx?ID=86) equal to the vial’s splash damage in addition to the initial damage.\r\n\r\n<title level=\"2\" right=\"Level 13\">Greater Field Discovery</title>\r\nWhen a creature fails its initial saving throw against an [infused](/Traits.aspx?ID=797) [injury](/Traits.aspx?ID=635) poison you created, the wound sprays poison onto another creature adjacent to it. The attacker who caused the injury chooses which creature, if there’s more than one, and can choose to forgo this effect. That creature is exposed to the poison. The second creature doesn’t spread the poison further.",
+  "name": "Toxicologist",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 62\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou specialize in toxins and venoms of all types. \r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 62",
+  "speed": {},
+  "summary": "You specialize in toxins and venoms of all types. ",
+  "summary_markdown": "You specialize in toxins and venoms of all types. ",
+  "text": " Toxicologist Source Player Core 2 pg. 62 You specialize in toxins and venoms of all types. Formulas Two common 1st-level alchemical poisons. Field Benefit You can apply an injury poison you’re holding to a weapon or piece of ammunition you’re wielding as a single action, rather than as a 2-action activity. In addition, you flexibly mix acidic and poisonous alchemical compounds. Your infused poisons can affect creatures immune to poison. A creature takes acid damage instead of poison damage from your infused poisons if either the creature is immune to poison or that would be more detrimental to the creature (as determined by the GM). Typically, this benefit applies when the creature has an immunity, resistance, or weakness to one of the damage types. Field Vials Your versatile vials have the poison trait and deal poison damage instead of having the acid trait and dealing acid damage (though your field benefit still applies). You can apply the contents of a versatile vial to a weapon or piece of ammunition as an injury poison. Add the versatile vial’s initial damage to the first successful Strike with that weapon or ammunition. The substance becomes inert at the end of your current turn. Field Discovery You have handled enough poisons to become inured to their effects. You gain poison resistance equal to half your level. Advanced Vials When you damage a creature with a versatile vial you’ve used as an injury poison, that creature takes persistent poison damage equal to the vial’s splash damage in addition to the initial damage. Greater Field Discovery When a creature fails its initial saving throw against an infused injury poison you created, the wound sprays poison onto another creature adjacent to it. The attacker who caused the injury chooses which creature, if there’s more than one, and can choose to forgo this effect. That creature is exposed to the poison. The second creature doesn’t spread the poison further.",
+  "type": "Alchemist Research Field",
+  "url": "/ResearchFields.aspx?ID=8",
+  "weakness": {}
+ }
+]

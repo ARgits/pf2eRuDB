@@ -1,0 +1,378 @@
+[
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-1",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Improved Familiar Attunement](/ArcaneThesis.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>\n\nYou've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond most wizards currently use. You've formed such a pact with your familiar, gaining more advantages from it than most wizards. You gain the [Familiar](/Feats.aspx?ID=604) wizard feat. Your familiar gains an extra ability, and it gains an additional extra ability when you reach 6th, 12th, and 18th levels. Your connection with your familiar alters your arcane bond class feature so that you store your magical energy in your familiar, rather than an item you own; you also gain the Drain Familiar free action instead of Drain Bonded Item. Drain Familiar can be used any time an ability would allow you to use Drain Bonded Item and functions identically, except that you draw magic from your familiar instead of an item.",
+  "name": "Improved Familiar Attunement",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 205",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "arcane-thesis-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 205"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond …",
+  "summary_markdown": "You've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond …",
+  "text": " Improved Familiar Attunement Source Core Rulebook pg. 205 4.0 You've long held that fine-tuning the magic that bonds wizard and familiar can improve the mystic connection, compared to the safe yet generic bond most wizards currently use. You've formed such a pact with your familiar, gaining more advantages from it than most wizards. You gain the Familiar wizard feat. Your familiar gains an extra ability, and it gains an additional extra ability when you reach 6th, 12th, and 18th levels. Your connection with your familiar alters your arcane bond class feature so that you store your magical energy in your familiar, rather than an item you own; you also gain the Drain Familiar free action instead of Drain Bonded Item. Drain Familiar can be used any time an ability would allow you to use Drain Bonded Item and functions identically, except that you draw magic from your familiar instead of an item.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-2",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Metamagical Experimentation](/ArcaneThesis.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>\n\nYou've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations rather than rely on spells recorded by others and passed down over the years. This allows you efficient access to various metamagic effects.\n\nYou gain one 1st-level [metamagic](/Traits.aspx?ID=107) wizard feat of your choice. Starting at 4th level, during your daily preparations, you can gain a metamagic wizard feat of your choice that has a level requirement of no more than half your level, which you can use until your next daily preparations.",
+  "name": "Metamagical Experimentation",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 205",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "arcane-thesis-6"
+  ],
+  "remaster_name": [
+   "Experimental Spellshaping"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 205"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 205 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations …",
+  "summary_markdown": "You've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations …",
+  "text": " Metamagical Experimentation Source Core Rulebook pg. 205 4.0 You've realized that the practice known as metamagic is a holdover from a time long ago, when wizards had to work out their own spells and variations rather than rely on spells recorded by others and passed down over the years. This allows you efficient access to various metamagic effects. You gain one 1st-level metamagic wizard feat of your choice. Starting at 4th level, during your daily preparations, you can gain a metamagic wizard feat of your choice that has a level requirement of no more than half your level, which you can use until your next daily preparations.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-3",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Spell Blending](/ArcaneThesis.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>\n\nYou theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells.\n\n When you make your daily preparations, you can trade two spell slots of the same level for a bonus spell slot of up to 2 levels higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a level you can normally cast, and each bonus spell slot must be of a different spell level. You can also trade any spell slot for two additional cantrips, though you cannot trade more than one spell slot at a time for additional cantrips in this way.",
+  "name": "Spell Blending",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 206",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "arcane-thesis-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 206"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …",
+  "summary_markdown": "You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …",
+  "text": " Spell Blending Source Core Rulebook pg. 206 4.0 You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells. When you make your daily preparations, you can trade two spell slots of the same level for a bonus spell slot of up to 2 levels higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a level you can normally cast, and each bonus spell slot must be of a different spell level. You can also trade any spell slot for two additional cantrips, though you cannot trade more than one spell slot at a time for additional cantrips in this way.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-4",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Spell Substitution](/ArcaneThesis.aspx?ID=4)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>\n\nYou don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.\n\n You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.",
+  "name": "Spell Substitution",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 206",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "arcane-thesis-9"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 206"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 206 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut …",
+  "summary_markdown": "You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut …",
+  "text": " Spell Substitution Source Core Rulebook pg. 206 4.0 You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparation, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared. You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-5",
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Staff Nexus](/ArcaneThesis.aspx?ID=5)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 142 <sup>2.0</sup>\n\nYour thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power.\n\n You begin play with a makeshift staff of your own invention. It contains one cantrip and one 1st-level spell, both from your spellbook, but it gains no charges normally during your preparations; you must expend a spell slot to grant it charges in the same way you would add additional charges to a [normal staff](/Rules.aspx?ID=748). You can [Craft](/Actions.aspx?ID=43) your makeshift staff into any other type of staff for the new staff's usual cost, adding the two spells you originally chose to the staff you Craft.\n\n At 8th level, you can expend two spells instead of one when preparing your staff, adding additional charges equal to the combined levels of the expended spells. At 16th level, you can expend up to a total of three spells to add charges to the staff, adding additional charges equal to the combined levels of all three spells.",
+  "name": "Staff Nexus",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 142",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "arcane-thesis-10"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 142 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 142"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 142 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …",
+  "summary_markdown": "Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …",
+  "text": " Staff Nexus Source Advanced Player's Guide pg. 142 2.0 Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power. You begin play with a makeshift staff of your own invention. It contains one cantrip and one 1st-level spell, both from your spellbook, but it gains no charges normally during your preparations; you must expend a spell slot to grant it charges in the same way you would add additional charges to a normal staff. You can Craft your makeshift staff into any other type of staff for the new staff's usual cost, adding the two spells you originally chose to the staff you Craft. At 8th level, you can expend two spells instead of one when preparing your staff, adding additional charges equal to the combined levels of the expended spells. At 16th level, you can expend up to a total of three spells to add charges to the staff, adding additional charges equal to the combined levels of all three spells.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-6",
+  "legacy_id": [
+   "arcane-thesis-2"
+  ],
+  "legacy_name": [
+   "Metamagical Experimentation"
+  ],
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Experimental Spellshaping](/ArcaneThesis.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\n\nYour thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, imitating the wizards of long ago who had to work out their own spells themselves. This allows you efficient access to various spellshape effects.<br /> You gain one 1st-level [spellshape](/Traits.aspx?ID=513) wizard feat of your choice. Starting at 4th level, during your daily preparations, you can gain a spellshape wizard feat of your choice that has a level requirement of no more than half your level, which you can use until your next daily preparations.",
+  "name": "Experimental Spellshaping",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, …",
+  "summary_markdown": "Your thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, …",
+  "text": " Experimental Spellshaping Source Player Core pg. 195 2.0 Your thesis posits that the magical practice of spellshaping can be realized more efficiently by altering variables and parameters as you cast, imitating the wizards of long ago who had to work out their own spells themselves. This allows you efficient access to various spellshape effects. You gain one 1st-level spellshape wizard feat of your choice. Starting at 4th level, during your daily preparations, you can gain a spellshape wizard feat of your choice that has a level requirement of no more than half your level, which you can use until your next daily preparations.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-7",
+  "legacy_id": [
+   "arcane-thesis-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Improved Familiar Attunement](/ArcaneThesis.aspx?ID=7)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\n\nYou've long held that fine-tuning the magic that bonds a wizard and their familiar can improve the mystic connection and yield greater results, compared to the safe yet generic bond most wizards currently use. You've formed such a pact with your familiar, gaining more advantages from it than most wizards. You gain the [Familiar](/Feats.aspx?ID=5024) wizard feat. Your familiar gains an extra ability, and it gains an additional extra ability when you reach 6th, 12th, and 18th levels.<br /> Your connection with your familiar alters your arcane bond class feature so that you store your magical energy in your familiar, rather than an item you own; you also gain the Drain Familiar free action instead of Drain Bonded Item. Drain Familiar can be used any time an ability would allow you to use Drain Bonded Item and functions identically, except that you draw magic from your familiar instead of an item.",
+  "name": "Improved Familiar Attunement",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've long held that fine-tuning the magic that bonds a wizard and their familiar can improve the mystic connection and yield greater results, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You've long held that fine-tuning the magic that bonds a wizard and their familiar can improve the mystic connection and yield greater results, …",
+  "summary_markdown": "You've long held that fine-tuning the magic that bonds a wizard and their familiar can improve the mystic connection and yield greater results, …",
+  "text": " Improved Familiar Attunement Source Player Core pg. 195 2.0 You've long held that fine-tuning the magic that bonds a wizard and their familiar can improve the mystic connection and yield greater results, compared to the safe yet generic bond most wizards currently use. You've formed such a pact with your familiar, gaining more advantages from it than most wizards. You gain the Familiar wizard feat. Your familiar gains an extra ability, and it gains an additional extra ability when you reach 6th, 12th, and 18th levels. Your connection with your familiar alters your arcane bond class feature so that you store your magical energy in your familiar, rather than an item you own; you also gain the Drain Familiar free action instead of Drain Bonded Item. Drain Familiar can be used any time an ability would allow you to use Drain Bonded Item and functions identically, except that you draw magic from your familiar instead of an item.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-8",
+  "legacy_id": [
+   "arcane-thesis-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Spell Blending](/ArcaneThesis.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\n\nYou theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells.<br />During your daily preparations, you can trade two spell slots of the same spell rank for a bonus spell slot of up to 2 spell ranks higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a spell rank you can normally cast, and each bonus spell slot must be of a different spell rank. You can also trade any spell slot for two additional cantrips, though you can't trade more than one spell slot at a time for additional cantrips in this way.",
+  "name": "Spell Blending",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …",
+  "summary_markdown": "You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the …",
+  "text": " Spell Blending Source Player Core pg. 195 2.0 You theorize that spell slots are a shorthand for an underlying energy that powers all spellcasting, and you've found a way to tinker with the hierarchy of spell slots, combining them to fuel more powerful spells. During your daily preparations, you can trade two spell slots of the same spell rank for a bonus spell slot of up to 2 spell ranks higher than the traded spell slots. You can exchange as many spell slots as you have available. Bonus spell slots must be of a spell rank you can normally cast, and each bonus spell slot must be of a different spell rank. You can also trade any spell slot for two additional cantrips, though you can't trade more than one spell slot at a time for additional cantrips in this way.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-9",
+  "legacy_id": [
+   "arcane-thesis-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Spell Substitution](/ArcaneThesis.aspx?ID=9)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\n\nYou don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared.<br /> You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.",
+  "name": "Spell Substitution",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut …",
+  "summary_markdown": "You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut …",
+  "text": " Spell Substitution Source Player Core pg. 195 2.0 You don't accept the fact that once spells are prepared, they can't be changed until your next daily preparations, and you have uncovered a shortcut allowing you to substitute new spells for those you originally prepared. You can spend 10 minutes to empty one of your prepared spell slots and prepare a different spell from your spellbook in its place. If you are interrupted during such a swap, the original spell remains prepared and can still be cast. You can try again to swap out the spell later, but you must start the process over again.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "arcane-thesis",
+  "exclude_from_search": false,
+  "id": "arcane-thesis-10",
+  "legacy_id": [
+   "arcane-thesis-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Wizard Arcane Thesis \" pfs=\"Standard\">[Staff Nexus](/ArcaneThesis.aspx?ID=10)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\n\nYour thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power.<br /> You begin play with a makeshift [staff](/Rules.aspx?ID=3211) of your own invention. It has the magical trait and contains one cantrip and one 1st-rank spell, both from your spellbook. During your daily preparations, you can expend one spell to grant the staff a number of charges equal to that spell's rank, which dissipate after 24 hours. While you are holding the staff, you can Cast the Spells it contains. The 1st-rank spell consumes 1 charge but the cantrip doesn't require charges.<br /> You can [Craft](/Actions.aspx?ID=43) your makeshift staff into any other type of magical staff for the new staff's usual cost, adding the two spells you originally chose to the staff you Craft. This staff gains charges from preparing it along with expended spells. <br /> At 8th level, you can expend two spells instead of one when preparing any staff, adding additional charges equal to the combined ranks of the expended spells. At 16th level, you can expend up to a total of three spells to add charges to the staff, adding additional charges equal to the combined ranks of all three spells.",
+  "name": "Staff Nexus",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 195",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 195"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 195 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …",
+  "summary_markdown": "Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and …",
+  "text": " Staff Nexus Source Player Core pg. 195 2.0 Your thesis maintains that early and intense adoption of staves from the first days of study can create a symbiotic bond between spellcaster and staff, allowing them to create remarkable magic together. You've formed such a connection with a makeshift staff you built, and you are ready to infuse any staff you encounter with greater power. You begin play with a makeshift staff of your own invention. It has the magical trait and contains one cantrip and one 1st-rank spell, both from your spellbook. During your daily preparations, you can expend one spell to grant the staff a number of charges equal to that spell's rank, which dissipate after 24 hours. While you are holding the staff, you can Cast the Spells it contains. The 1st-rank spell consumes 1 charge but the cantrip doesn't require charges. You can Craft your makeshift staff into any other type of magical staff for the new staff's usual cost, adding the two spells you originally chose to the staff you Craft. This staff gains charges from preparing it along with expended spells. At 8th level, you can expend two spells instead of one when preparing any staff, adding additional charges equal to the combined ranks of the expended spells. At 16th level, you can expend up to a total of three spells to add charges to the staff, adding additional charges equal to the combined ranks of all three spells.",
+  "type": "Wizard Arcane Thesis",
+  "url": "/ArcaneThesis.aspx?ID=10",
+  "weakness": {}
+ }
+]

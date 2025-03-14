@@ -1,0 +1,1094 @@
+[
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-1",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 8\" pfs=\"\">[Ambush](/KMWarTactics.aspx?ID=1)</title>\r\n\r\n<traits>\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nYour skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to start the encounter with your army already [engaged](/Conditions.aspx?ID=48) with an enemy army whose initiative result is lower than yours. If you do so, your army gains a +2 status bonus on the first Attack war action they make against that army on the first round of the encounter.",
+  "name": "Ambush",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "Your skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to …",
+  "summary_markdown": "Your skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to …",
+  "text": " Ambush Source Kingmaker Adventure Path pg. 575 Your skirmishers are experts at ambushing. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to start the encounter with your army already engaged with an enemy army whose initiative result is lower than yours. If you do so, your army gains a +2 status bonus on the first Attack war action they make against that army on the first round of the encounter.",
+  "trait": [
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-2",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Bloodied but Unbroken](/KMWarTactics.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nThe army is at its greatest during the most desperate times. When the army's hit points are at or below its Rout Threshold, it gains a +1 status bonus to its AC, Mobility, Morale, and attack rolls. At 10th level or higher, this bonus increases to +2.",
+  "name": "Bloodied but Unbroken",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army is at its greatest during the most desperate times. When the army's hit points are at or below its Rout Threshold, it gains a +1 status …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "The army is at its greatest during the most desperate times. When the army's hit points are at or below its Rout Threshold, it gains a +1 status …",
+  "summary_markdown": "The army is at its greatest during the most desperate times. When the army's hit points are at or below its Rout Threshold, it gains a +1 status …",
+  "text": " Bloodied but Unbroken Source Kingmaker Adventure Path pg. 575 The army is at its greatest during the most desperate times. When the army's hit points are at or below its Rout Threshold, it gains a +1 status bonus to its AC, Mobility, Morale, and attack rolls. At 10th level or higher, this bonus increases to +2.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-3",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 6\" pfs=\"\">[Cavalry Experts](/KMWarTactics.aspx?ID=3)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nThe army's expert training with mounts increases its status bonus from its Overrun ability to +2. At 12th level, the army ignores the status penalty to Maneuver and Morale saves from its Overrun ability.",
+  "name": "Cavalry Experts",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army's expert training with mounts increases its status bonus from its Overrun ability to +2. At 12th level, the army ignores the status penalty …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "The army's expert training with mounts increases its status bonus from its Overrun ability to +2. At 12th level, the army ignores the status penalty …",
+  "summary_markdown": "The army's expert training with mounts increases its status bonus from its Overrun ability to +2. At 12th level, the army ignores the status penalty …",
+  "text": " Cavalry Experts Source Kingmaker Adventure Path pg. 575 The army's expert training with mounts increases its status bonus from its Overrun ability to +2. At 12th level, the army ignores the status penalty to Maneuver and Morale saves from its Overrun ability.",
+  "trait": [
+   "Cavalry"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458)",
+  "trait_raw": [
+   "Cavalry"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-4",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Darkvision](/KMWarTactics.aspx?ID=4)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nThe army includes several spotters and scouts who have [darkvision](/Rules.aspx?ID=415), and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had darkvision.",
+  "name": "Darkvision",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army includes several spotters and scouts who have  darkvision , and the rest of the soldiers have been trained to follow their lead so that the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "The army includes several spotters and scouts who have  darkvision , and the rest of the soldiers have been trained to follow their lead so that the …",
+  "summary_markdown": "The army includes several spotters and scouts who have  darkvision , and the rest of the soldiers have been trained to follow their lead so that the …",
+  "text": " Darkvision Source Kingmaker Adventure Path pg. 575 The army includes several spotters and scouts who have darkvision, and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had darkvision.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-5",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 3\" pfs=\"\">[Defensive Tactics](/KMWarTactics.aspx?ID=5)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nThe army is especially good at enacting defensive tactics. The army gains a +1 status bonus on Maneuver checks made to Guard. This bonus increases to +2 at 9th level, and +3 at 17th level. The army can use the Defensive Stance tactical war action.",
+  "name": "Defensive Tactics",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army is especially good at enacting defensive tactics. The army gains a +1 status bonus on Maneuver checks made to Guard. This bonus increases to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "The army is especially good at enacting defensive tactics. The army gains a +1 status bonus on Maneuver checks made to Guard. This bonus increases to …",
+  "summary_markdown": "The army is especially good at enacting defensive tactics. The army gains a +1 status bonus on Maneuver checks made to Guard. This bonus increases to …",
+  "text": " Defensive Tactics Source Kingmaker Adventure Path pg. 575 The army is especially good at enacting defensive tactics. The army gains a +1 status bonus on Maneuver checks made to Guard. This bonus increases to +2 at 9th level, and +3 at 17th level. The army can use the Defensive Stance tactical war action.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-6",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 11\" pfs=\"\">[Explosive Shot](/KMWarTactics.aspx?ID=6)</title>\r\n\r\n<traits>\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\n\nThe army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non-[distant](/Conditions.aspx?ID=52) army with a ranged Strike, inflict 1 point of additional damage to another non-distant enemy army of your choice. You can use the Overwhelming Bombardment tactical war action with the army",
+  "name": "Explosive Shot",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 575",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non- …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 575"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 575",
+  "speed": {},
+  "summary": "The army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non- …",
+  "summary_markdown": "The army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non- …",
+  "text": " Explosive Shot Source Kingmaker Adventure Path pg. 575 The army's ranged attacks explode and spray fire, shrapnel, or other damaging material in every direction. Whenever the army critically hits a non-distant army with a ranged Strike, inflict 1 point of additional damage to another non-distant enemy army of your choice. You can use the Overwhelming Bombardment tactical war action with the army",
+  "trait": [
+   "Siege"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Siege](/Traits.aspx?ID=457)",
+  "trait_raw": [
+   "Siege"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-7",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 6\" pfs=\"\">[Field Triage](/KMWarTactics.aspx?ID=7)</title>\r\n\r\n<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army's soldiers are adept at using emergency methods to treat wounds. The army gains the Battlefield Medicine tactical war action.",
+  "name": "Field Triage",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army's soldiers are adept at using emergency methods to treat wounds. The army gains the Battlefield Medicine tactical war action.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army's soldiers are adept at using emergency methods to treat wounds. The army gains the Battlefield Medicine tactical war action.",
+  "summary_markdown": "The army's soldiers are adept at using emergency methods to treat wounds. The army gains the Battlefield Medicine tactical war action.",
+  "text": " Field Triage Source Kingmaker Adventure Path pg. 576 The army's soldiers are adept at using emergency methods to treat wounds. The army gains the Battlefield Medicine tactical war action.",
+  "trait": [
+   "Infantry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Infantry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-8",
+  "level": 9,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 9\" pfs=\"\">[Flaming Shot](/KMWarTactics.aspx?ID=8)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army attacks with projectiles treated with alchemical or magical oils that ignite as they are fired. When your army succeeds at a ranged Strike, the target army must attempt a Maneuver check against your army's attack DC; if it fails, the Strike inflicts 1 additional point of damage.",
+  "name": "Flaming Shot",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army attacks with projectiles treated with alchemical or magical oils that ignite as they are fired. When your army succeeds at a ranged Strike, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army attacks with projectiles treated with alchemical or magical oils that ignite as they are fired. When your army succeeds at a ranged Strike, …",
+  "summary_markdown": "The army attacks with projectiles treated with alchemical or magical oils that ignite as they are fired. When your army succeeds at a ranged Strike, …",
+  "text": " Flaming Shot Source Kingmaker Adventure Path pg. 576 The army attacks with projectiles treated with alchemical or magical oils that ignite as they are fired. When your army succeeds at a ranged Strike, the target army must attempt a Maneuver check against your army's attack DC; if it fails, the Strike inflicts 1 additional point of damage.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-9",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Flexible Tactics](/KMWarTactics.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army uses unconventional tactics. You can use the Dirty Fighting, False Retreat, and Feint tactical war actions, and the Counterattack tactical reaction with the army.",
+  "name": "Flexible Tactics",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army uses unconventional tactics. You can use the Dirty Fighting, False Retreat, and Feint tactical war actions, and the Counterattack tactical …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army uses unconventional tactics. You can use the Dirty Fighting, False Retreat, and Feint tactical war actions, and the Counterattack tactical …",
+  "summary_markdown": "The army uses unconventional tactics. You can use the Dirty Fighting, False Retreat, and Feint tactical war actions, and the Counterattack tactical …",
+  "text": " Flexible Tactics Source Kingmaker Adventure Path pg. 576 The army uses unconventional tactics. You can use the Dirty Fighting, False Retreat, and Feint tactical war actions, and the Counterattack tactical reaction with the army.",
+  "trait": [
+   "Infantry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Infantry](/Traits.aspx?ID=455), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Infantry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-10",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 3\" pfs=\"\">[Focused Devotion](/KMWarTactics.aspx?ID=10)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army is particularly loyal to your cause. The army gains a +1 status bonus on Morale checks made to Rally. This bonus increases to +2 at 9th level, and +3 at 17th level. The army can use the Taunt tactical war action.",
+  "name": "Focused Devotion",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army is particularly loyal to your cause. The army gains a +1 status bonus on Morale checks made to Rally. This bonus increases to +2 at 9th …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army is particularly loyal to your cause. The army gains a +1 status bonus on Morale checks made to Rally. This bonus increases to +2 at 9th …",
+  "summary_markdown": "The army is particularly loyal to your cause. The army gains a +1 status bonus on Morale checks made to Rally. This bonus increases to +2 at 9th …",
+  "text": " Focused Devotion Source Kingmaker Adventure Path pg. 576 The army is particularly loyal to your cause. The army gains a +1 status bonus on Morale checks made to Rally. This bonus increases to +2 at 9th level, and +3 at 17th level. The army can use the Taunt tactical war action.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-11",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Hold the Line](/KMWarTactics.aspx?ID=11)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to resist rout, and its Rout Threshold is equal to 1/4 it's total Hit Points (rounded up).",
+  "name": "Hold the Line",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to …",
+  "summary_markdown": "The army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to …",
+  "text": " Hold the Line Source Kingmaker Adventure Path pg. 576 The army has trained to maintain position even in the face of overwhelming opponents. The army gains a +1 status bonus on Morale checks made to resist rout, and its Rout Threshold is equal to 1/4 it's total Hit Points (rounded up).",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-12",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Increased Ammunition](/KMWarTactics.aspx?ID=12)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nYou increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you do so, increase the army's maximum number of ranged Strikes by 2.",
+  "name": "Increased Ammunition",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "You increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you …",
+  "summary_markdown": "You increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you …",
+  "text": " Increased Ammunition Source Kingmaker Adventure Path pg. 576 You increase the number of times your army can use ranged Strikes in each war encounter by 2. This tactic can be taken multiple times; each time you do so, increase the army's maximum number of ranged Strikes by 2.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-13",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Keen Eyed](/KMWarTactics.aspx?ID=13)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.",
+  "name": "Keen Eyed",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.",
+  "summary_markdown": "The army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.",
+  "text": " Keen Eyed Source Kingmaker Adventure Path pg. 576 The army includes several spotters and scouts who are particularly keen-eyed. The army gains a +2 status bonus on initiative checks.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-14",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 3\" pfs=\"\">[Keep up the Pressure](/KMWarTactics.aspx?ID=14)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe commander's swift, decisive directions help the army attack more accurately. If an army attacks the same target a second time in a round, its multiple attack penalty is –4 rather than –5, and if they attack that same army a third time in a round, its multiple attack penalty is –8 rather than –10.",
+  "name": "Keep up the Pressure",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe commander's swift, decisive directions help the army attack more accurately. If an army attacks the same target a second time in a round, its …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The commander's swift, decisive directions help the army attack more accurately. If an army attacks the same target a second time in a round, its …",
+  "summary_markdown": "The commander's swift, decisive directions help the army attack more accurately. If an army attacks the same target a second time in a round, its …",
+  "text": " Keep up the Pressure Source Kingmaker Adventure Path pg. 576 The commander's swift, decisive directions help the army attack more accurately. If an army attacks the same target a second time in a round, its multiple attack penalty is –4 rather than –5, and if they attack that same army a third time in a round, its multiple attack penalty is –8 rather than –10.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-15",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Live off the Land](/KMWarTactics.aspx?ID=15)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep phase this army is located in a hex that doesn't include a settlement, and if the army is not garrisoned, it reduces its Consumption by 1.",
+  "name": "Live off the Land",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep …",
+  "summary_markdown": "The army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep …",
+  "text": " Live off the Land Source Kingmaker Adventure Path pg. 576 The army is trained to be self-sufficient and sustains itself via hunting and gathering when they're in the wild. If during a Kingdom turn's Upkeep phase this army is located in a hex that doesn't include a settlement, and if the army is not garrisoned, it reduces its Consumption by 1.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-16",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Low-Light Vision](/KMWarTactics.aspx?ID=16)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army includes several spotters and scouts who have [low-light vision](/Rules.aspx?ID=416), and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had low-light vision.",
+  "name": "Low-Light Vision",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army includes several spotters and scouts who have  low-light vision , and the rest of the soldiers have been trained to follow their lead so …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army includes several spotters and scouts who have  low-light vision , and the rest of the soldiers have been trained to follow their lead so …",
+  "summary_markdown": "The army includes several spotters and scouts who have  low-light vision , and the rest of the soldiers have been trained to follow their lead so …",
+  "text": " Low-Light Vision Source Kingmaker Adventure Path pg. 576 The army includes several spotters and scouts who have low-light vision, and the rest of the soldiers have been trained to follow their lead so that the army itself functions as if it had low-light vision.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-17",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Merciless](/KMWarTactics.aspx?ID=17)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThis army is difficult to escape from. The army's Mobility DC gains a +2 status bonus when other armies attempt Mobility checks against it while attempting to Disengage. This army can use the All-Out Assault tactical war action.",
+  "name": "Merciless",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis army is difficult to escape from. The army's Mobility DC gains a +2 status bonus when other armies attempt Mobility checks against it while …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "This army is difficult to escape from. The army's Mobility DC gains a +2 status bonus when other armies attempt Mobility checks against it while …",
+  "summary_markdown": "This army is difficult to escape from. The army's Mobility DC gains a +2 status bonus when other armies attempt Mobility checks against it while …",
+  "text": " Merciless Source Kingmaker Adventure Path pg. 576 This army is difficult to escape from. The army's Mobility DC gains a +2 status bonus when other armies attempt Mobility checks against it while attempting to Disengage. This army can use the All-Out Assault tactical war action.",
+  "trait": [
+   "Cavalry",
+   "Infantry"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-18",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 8\" pfs=\"\">[Opening Salvo](/KMWarTactics.aspx?ID=18)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nYour army has trained to take the first shot at distant foes. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to start the encounter with your army distant from all enemy armies.",
+  "name": "Opening Salvo",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour army has trained to take the first shot at distant foes. On the first round of a war encounter, if your turn occurs before any enemy army turns, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "Your army has trained to take the first shot at distant foes. On the first round of a war encounter, if your turn occurs before any enemy army turns, …",
+  "summary_markdown": "Your army has trained to take the first shot at distant foes. On the first round of a war encounter, if your turn occurs before any enemy army turns, …",
+  "text": " Opening Salvo Source Kingmaker Adventure Path pg. 576 Your army has trained to take the first shot at distant foes. On the first round of a war encounter, if your turn occurs before any enemy army turns, you can choose to start the encounter with your army distant from all enemy armies.",
+  "trait": [
+   "Cavalry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-19",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Reckless Flankers](/KMWarTactics.aspx?ID=19)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nYour army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use the Advance war action to successfully [engage](/Conditions.aspx?ID=48) an army, you can choose to take a –2 circumstance penalty to your AC in order to gain a +1 circumstance bonus on attack rolls. If you do so, these modifiers remain in effect until you are no longer engaged. You can use the Outflank tactical war action.",
+  "name": "Reckless Flankers",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "Your army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use …",
+  "summary_markdown": "Your army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use …",
+  "text": " Reckless Flankers Source Kingmaker Adventure Path pg. 576 Your army is skilled at surrounding their foes and distracting them, at the cost of spreading out too much and being more vulnerable. When you use the Advance war action to successfully engage an army, you can choose to take a –2 circumstance penalty to your AC in order to gain a +1 circumstance bonus on attack rolls. If you do so, these modifiers remain in effect until you are no longer engaged. You can use the Outflank tactical war action.",
+  "trait": [
+   "Cavalry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-20",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 5\" pfs=\"\">[Sharpshooter](/KMWarTactics.aspx?ID=20)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on attacks with melee Strikes. At 9th level, the penalty to melee Strikes is reduced to –1, and at 15th level the penalty to melee Strikes is removed. The army can use the Covering Fire tactical war action.",
+  "name": "Sharpshooter",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on …",
+  "summary_markdown": "The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on …",
+  "text": " Sharpshooter Source Kingmaker Adventure Path pg. 576 The commander drills the army in precision ranged attacks. You gain a +1 status bonus on attacks with ranged Strikes, but suffer a –2 status bonus on attacks with melee Strikes. At 9th level, the penalty to melee Strikes is reduced to –1, and at 15th level the penalty to melee Strikes is removed. The army can use the Covering Fire tactical war action.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "warfare-tactic",
+  "exclude_from_search": false,
+  "id": "warfare-tactic-21",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Warfare Tactic 1\" pfs=\"\">[Toughened Soldiers](/KMWarTactics.aspx?ID=21)</title>\r\n\r\n<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\n\nThe army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's maximum Hit Points by 1.",
+  "name": "Toughened Soldiers",
+  "primary_source": "Kingmaker Adventure Path",
+  "primary_source_raw": "Kingmaker Adventure Path pg. 576",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Cavalry\" url=\"/Traits.aspx?ID=458\" />\r\n<trait label=\"Infantry\" url=\"/Traits.aspx?ID=455\" />\r\n<trait label=\"Siege\" url=\"/Traits.aspx?ID=457\" />\r\n<trait label=\"Skirmisher\" url=\"/Traits.aspx?ID=456\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Adventure Path"
+  ],
+  "source_raw": [
+   "Kingmaker Adventure Path pg. 576"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Adventure Path](/Sources.aspx?ID=150) pg. 576",
+  "speed": {},
+  "summary": "The army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's …",
+  "summary_markdown": "The army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's …",
+  "text": " Toughened Soldiers Source Kingmaker Adventure Path pg. 576 The army is particularly hardy. Increase its maximum Hit Points by 1. You can take this tactic multiple times; each time you do, increase the army's maximum Hit Points by 1.",
+  "trait": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "trait_group": [
+   "Kingdom—Warfare"
+  ],
+  "trait_markdown": "[Cavalry](/Traits.aspx?ID=458), [Infantry](/Traits.aspx?ID=455), [Siege](/Traits.aspx?ID=457), [Skirmisher](/Traits.aspx?ID=456)",
+  "trait_raw": [
+   "Cavalry",
+   "Infantry",
+   "Siege",
+   "Skirmisher"
+  ],
+  "type": "Warfare Tactic",
+  "url": "/KMWarTactics.aspx?ID=21",
+  "weakness": {}
+ }
+]

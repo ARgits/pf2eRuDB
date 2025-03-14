@@ -1,0 +1,341 @@
+[
+ {
+  "aspect": [
+   "Beast",
+   "Celestial"
+  ],
+  "aspect_markdown": "Beast and Celestial",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-1",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Agathion Raiment](/SetRelics.aspx?ID=1)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>\r\n\r\n**Aspects** Beast and Celestial\r\n</column>\r\n\r\n---\r\n\r\nAn _agathion raiment_ aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it's not, and guiding others along the path to redemption. A red [draconal agathion](/Monsters.aspx?ID=1058) created five _agathion raiments_ and granted them to [redeemer](/Causes.aspx?ID=2) [champions](/Classes.aspx?ID=4) of great valor millennia ago. Since then, virtuous souls of various skill sets have assembled _agathion raiments_. This set functions only for good creatures.\r\n\r\n---\r\n\r\n**Set Items**: [Flask of Fellowship](/Equipment.aspx?ID=1056) (level 2), [Aeon Stone (Gold Nodule)](/Equipment.aspx?ID=407) (level 6), [Messenger's Ring](/Equipment.aspx?ID=448) (level 9), [Celestial Armor](/Equipment.aspx?ID=149) (level 13), [Headband of Inspired Wisdom](/Equipment.aspx?ID=402) (level 17)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Word of Faith](/Relics.aspx?ID=15) \r\n- 2: [Feral Claws](/Relics.aspx?ID=9) \r\n- 3: [Righteous Call](/Relics.aspx?ID=17) \r\n- 4: [Form of Fury](/Relics.aspx?ID=10) (usually canine or cat)\r\n- 5: [Angelic Vessel](/Relics.aspx?ID=18) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: Word of faith restores 1d10 Hit Points per relic level and reduces the target's [frightened](/Conditions.aspx?ID=19) value by 2.</li><li>_Three Items_: The claws you gain from feral claws are [magical](/Traits.aspx?ID=103) and deal 1d4 good damage.</li><li>_Four Items_: You and your allies affected by righteous call deal 1d4 additional good damage with successful Strikes, rather than none or 1. This 1d4 stacks with that from your feral claws and damage from the [_holy_](/Equipment.aspx?ID=299) rune effect you gain from righteous call.</li><li>_Five Items_: In your form of fury, you have [darkvision](/Rules.aspx?ID=415) and gain 20 additional temporary Hit Points, but you have weakness 5 to evil damage. You don't need to change your size to gain the benefits, other than reach, of a higher-level battle form. Also, your unarmed attacks from this form have the _holy_ weapon property rune.</li></ul>",
+  "name": "Agathion Raiment",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 201",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Good\" url=\"/Traits.aspx?ID=83\" />\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>\r\n\r\n**Aspects** Beast and Celestial\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn  agathion raiment  aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it's not, and guiding …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 201"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "An  agathion raiment  aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it's not, and guiding …",
+  "summary_markdown": "An  agathion raiment  aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it's not, and guiding …",
+  "text": "\nAgathion Raiment Source Treasure Vault pg. 201 1.1 Aspects Beast and Celestial --- An agathion raiment aids its wearer in finding diplomatic solutions to conflicts when possible, fighting evil directly when it's not, and guiding others along the path to redemption. A red draconal agathion created five agathion raiments and granted them to redeemer champions of great valor millennia ago. Since then, virtuous souls of various skill sets have assembled agathion raiments . This set functions only for good creatures. --- Set Items : Flask of Fellowship (level 2), Aeon Stone (Gold Nodule) (level 6), Messenger's Ring (level 9), Celestial Armor (level 13), Headband of Inspired Wisdom (level 17) --- Gifts : The set grants the following gifts. - 1: Word of Faith - 2: Feral Claws - 3: Righteous Call - 4: Form of Fury (usually canine or cat) - 5: Angelic Vessel --- Collective Features : The set grants the following features. Two Items : Word of faith restores 1d10 Hit Points per relic level and reduces the target's frightened value by 2. Three Items : The claws you gain from feral claws are magical and deal 1d4 good damage. Four Items : You and your allies affected by righteous call deal 1d4 additional good damage with successful Strikes, rather than none or 1. This 1d4 stacks with that from your feral claws and damage from the holy rune effect you gain from righteous call. Five Items : In your form of fury, you have darkvision and gain 20 additional temporary Hit Points, but you have weakness 5 to evil damage. You don't need to change your size to gain the benefits, other than reach, of a higher-level battle form. Also, your unarmed attacks from this form have the holy weapon property rune. ",
+  "trait": [
+   "Good",
+   "Relic"
+  ],
+  "trait_group": [
+   "Alignment",
+   "Equipment"
+  ],
+  "trait_markdown": "[Good](/Traits.aspx?ID=83), [Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Good",
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Life",
+   "Mind"
+  ],
+  "aspect_markdown": "Life and Mind",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-2",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Archmage's Regalia](/SetRelics.aspx?ID=2)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>\r\n\r\n**Aspects** Life and Mind\r\n</column>\r\n\r\n---\r\n\r\nMany [wizards](/Classes.aspx?ID=12) have enhanced their spellcasting capabilities with an _archmage's regalia_. Legend tells of such a relic set that belonged to the wizard-king Nex, with powers far beyond that of a typical relic. Although some believe Nex took his regalia with him when he disappeared, several credible reports of items matching their descriptions have surfaced over the years. No one has yet managed to track down all five pieces, and it's possible some have been destroyed or otherwise lost.\r\n\r\n---\r\n\r\n**Set Items**: [Hat of the Magi](/Equipment.aspx?ID=443) (level 3), [Endless Grimoire](/Equipment.aspx?ID=992) (level 6), [Ring of Wizardry (Type II)](/Equipment.aspx?ID=462) (level 10), [Aeon Stone (Pale Lavender Ellipsoid)](/Equipment.aspx?ID=407) (level 13), [Robe of the Archmagi](/Equipment.aspx?ID=464) (level 15)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Repository of Knowledge](/Relics.aspx?ID=51) \r\n- 2: [Bestow Life](/Relics.aspx?ID=43) \r\n- 3: [Psychic Scream](/Relics.aspx?ID=53) \r\n- 4: [Vitality Siphon](/Relics.aspx?ID=47) \r\n- 5: [Mental Bastion](/Relics.aspx?ID=54) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: The repository of knowledge gift grants you one additional [Lore](/Skills.aspx?ID=8) skill of the GM's choice. This skill advances as other skills from the gift do.</li><li>_Three Items_: When you use your bestow life gift, if the animated object is at least 4 levels lower than you, you can make it a minion with the [minion](/Traits.aspx?ID=109) trait.</li><li>_Four Items_: The psychic scream gift creates a 30-foot-radius burst.</li><li>_Five Items_: Treat the outcomes of skill checks you roll to [Identify Magic](/Actions.aspx?ID=24), [Learn a Spell](/Actions.aspx?ID=25), and [Recall Knowledge](/Actions.aspx?ID=26) as one step better.</li></ul>",
+  "name": "Archmage's Regalia",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 201",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>\r\n\r\n**Aspects** Life and Mind\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMany  wizards  have enhanced their spellcasting capabilities with an  archmage's regalia . Legend tells of such a relic set that belonged to the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 201"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 201 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Many  wizards  have enhanced their spellcasting capabilities with an  archmage's regalia . Legend tells of such a relic set that belonged to the …",
+  "summary_markdown": "Many  wizards  have enhanced their spellcasting capabilities with an  archmage's regalia . Legend tells of such a relic set that belonged to the …",
+  "text": "\nArchmage's Regalia Source Treasure Vault pg. 201 1.1 Aspects Life and Mind --- Many wizards have enhanced their spellcasting capabilities with an archmage's regalia . Legend tells of such a relic set that belonged to the wizard-king Nex, with powers far beyond that of a typical relic. Although some believe Nex took his regalia with him when he disappeared, several credible reports of items matching their descriptions have surfaced over the years. No one has yet managed to track down all five pieces, and it's possible some have been destroyed or otherwise lost. --- Set Items : Hat of the Magi (level 3), Endless Grimoire (level 6), Ring of Wizardry (Type II) (level 10), Aeon Stone (Pale Lavender Ellipsoid) (level 13), Robe of the Archmagi (level 15) --- Gifts : The set grants the following gifts. - 1: Repository of Knowledge - 2: Bestow Life - 3: Psychic Scream - 4: Vitality Siphon - 5: Mental Bastion --- Collective Features : The set grants the following features. Two Items : The repository of knowledge gift grants you one additional Lore skill of the GM's choice. This skill advances as other skills from the gift do. Three Items : When you use your bestow life gift, if the animated object is at least 4 levels lower than you, you can make it a minion with the minion trait. Four Items : The psychic scream gift creates a 30-foot-radius burst. Five Items : Treat the outcomes of skill checks you roll to Identify Magic, Learn a Spell, and Recall Knowledge as one step better. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Emotion (pride)",
+   "Luck"
+  ],
+  "aspect_markdown": "Emotion (pride) and Luck",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-3",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Duelist's Blazon](/SetRelics.aspx?ID=3)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Emotion (pride) and Luck\r\n</column>\r\n\r\n---\r\n\r\nA _duelist's blazon_ set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the same items, they all have unique styles, from the elegant, rose-themed decor of the blazon of Taldan [swashbuckler](/Classes.aspx?ID=15) Miralla d'Asivran to the spiked sword and attire of Kuthonite maestro duelist Essinte Zaim. Duelists have been known to challenge one another over the set's components.\r\n\r\n---\r\n\r\n**Set Items**: [+1 rapier](/Equipment.aspx?ID=380) (level 2), [Quick Runner's Shirt](/Equipment.aspx?ID=1303) (level 5), [Winged Boots](/Equipment.aspx?ID=472) (level 10), [Invisible Chain Shirt](/Equipment.aspx?ID=1063) (level 13), [Mercurial Mantle](/Equipment.aspx?ID=1067) (level 18)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Dominant Emotion](/Relics.aspx?ID=91) \r\n- 2: [Whammy](/Relics.aspx?ID=99) \r\n- 3: [Steal Luck](/Relics.aspx?ID=101) \r\n- 4: [Emotion Conduit](/Relics.aspx?ID=94) \r\n- 5: [Against All Odds](/Relics.aspx?ID=102) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: You can use dominant emotion at will.</li><li>_Three Items_: You can use whammy one additional time per day, but a creature affected by it is temporarily immune for 24 hours.</li><li>_Four Items_: When you use steal luck and get a success or critical success, you're [quickened](/Conditions.aspx?ID=32) until the end of your next turn.</li><li>_Five Items_: If dominant emotion or emotion conduit [counteract](/Rules.aspx?ID=371) an effect, the target gains a brief surge of luck in the form of a d20 they can add to another single d20 roll, taking the highest result. Until used, this die remains with the target until their next daily preparations, and the target can't gain another die from this effect until after that time. Using the die is a [fortune](/Traits.aspx?ID=76) effect.</li></ul>",
+  "name": "Duelist's Blazon",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Emotion (pride) and Luck\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA  duelist's blazon  set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "A  duelist's blazon  set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the …",
+  "summary_markdown": "A  duelist's blazon  set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the …",
+  "text": "\nDuelist's Blazon Source Treasure Vault pg. 202 1.1 Aspects Emotion (pride) and Luck --- A duelist's blazon set relic was once used by a legendary swordmaster, absorbing their verve, tenacity, and daring. Though each set contains the same items, they all have unique styles, from the elegant, rose-themed decor of the blazon of Taldan swashbuckler Miralla d'Asivran to the spiked sword and attire of Kuthonite maestro duelist Essinte Zaim. Duelists have been known to challenge one another over the set's components. --- Set Items : +1 rapier (level 2), Quick Runner's Shirt (level 5), Winged Boots (level 10), Invisible Chain Shirt (level 13), Mercurial Mantle (level 18) --- Gifts : The set grants the following gifts. - 1: Dominant Emotion - 2: Whammy - 3: Steal Luck - 4: Emotion Conduit - 5: Against All Odds --- Collective Features : The set grants the following features. Two Items : You can use dominant emotion at will. Three Items : You can use whammy one additional time per day, but a creature affected by it is temporarily immune for 24 hours. Four Items : When you use steal luck and get a success or critical success, you're quickened until the end of your next turn. Five Items : If dominant emotion or emotion conduit counteract an effect, the target gains a brief surge of luck in the form of a d20 they can add to another single d20 roll, taking the highest result. Until used, this die remains with the target until their next daily preparations, and the target can't gain another die from this effect until after that time. Using the die is a fortune effect. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Death",
+   "Shadow"
+  ],
+  "aspect_markdown": "Death and Shadow",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-4",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Infiltration Garb](/SetRelics.aspx?ID=4)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Death and Shadow\r\n</column>\r\n\r\n---\r\n\r\nSeveral notable [assassins](/Archetypes.aspx?ID=48), [thieves](/Rackets.aspx?ID=3), and others who work from the shadows have used an _infiltration garb_ over the centuries. The nature of these professions means that such sets are often separated from their audacious users. Due to their association with subterfuge and assassins, sets of infiltration garbs have grim reputations. However, not all wielders use their powers maliciously. Notably, the faithful of Kelinahat, empyreal lord of spies, stealth, and intelligence gathering, view these relics as sacred tools in the fight against evil.\r\n\r\n---\r\n\r\n**Set Items**: [Hat of Disguise](/Equipment.aspx?ID=442) (level 2), [Goggles of Night](/Equipment.aspx?ID=438) (level 5), [Unmemorable Mantle (Greater)](/Equipment.aspx?ID=513) (level 9), [Boots of Bounding (Greater)](/Equipment.aspx?ID=412) (level 14), [Ring of Maniacal Devices (Greater)](/Equipment.aspx?ID=457) (level 18)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Obscure](/Relics.aspx?ID=62) \r\n- 2: [Death Gaze](/Relics.aspx?ID=19) \r\n- 3: [Dark Roads](/Relics.aspx?ID=65) \r\n- 4: [Tide of Death](/Relics.aspx?ID=23) \r\n- 5: [Grim Specter](/Relics.aspx?ID=24) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: The relic set grants you a +1 status bonus to [Stealth](/Skills.aspx?ID=15) checks you attempt in [dim light](/Rules.aspx?ID=408).</li><li>_Three Items_: You can use death gaze to deal positive damage to [undead](/Traits.aspx?ID=160).</li><li>_Four Items_: You can use dark roads to teleport up to 60 feet.</li><li>_Five Items_: When you use tide of death, you can target undead and yourself with positive energy, restoring Hit Points to you (if positive energy heals you) and damaging undead harmed by positive energy.</li></ul>",
+  "name": "Infiltration Garb",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Death and Shadow\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSeveral notable  assassins ,  thieves , and others who work from the shadows have used an  infiltration garb  over the centuries. The nature of these …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Several notable  assassins ,  thieves , and others who work from the shadows have used an  infiltration garb  over the centuries. The nature of these …",
+  "summary_markdown": "Several notable  assassins ,  thieves , and others who work from the shadows have used an  infiltration garb  over the centuries. The nature of these …",
+  "text": "\nInfiltration Garb Source Treasure Vault pg. 202 1.1 Aspects Death and Shadow --- Several notable assassins, thieves, and others who work from the shadows have used an infiltration garb over the centuries. The nature of these professions means that such sets are often separated from their audacious users. Due to their association with subterfuge and assassins, sets of infiltration garbs have grim reputations. However, not all wielders use their powers maliciously. Notably, the faithful of Kelinahat, empyreal lord of spies, stealth, and intelligence gathering, view these relics as sacred tools in the fight against evil. --- Set Items : Hat of Disguise (level 2), Goggles of Night (level 5), Unmemorable Mantle (Greater) (level 9), Boots of Bounding (Greater) (level 14), Ring of Maniacal Devices (Greater) (level 18) --- Gifts : The set grants the following gifts. - 1: Obscure - 2: Death Gaze - 3: Dark Roads - 4: Tide of Death - 5: Grim Specter --- Collective Features : The set grants the following features. Two Items : The relic set grants you a +1 status bonus to Stealth checks you attempt in dim light. Three Items : You can use death gaze to deal positive damage to undead. Four Items : You can use dark roads to teleport up to 60 feet. Five Items : When you use tide of death, you can target undead and yourself with positive energy, restoring Hit Points to you (if positive energy heals you) and damaging undead harmed by positive energy. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Emotion (dedication)",
+   "Life"
+  ],
+  "aspect_markdown": "Emotion (dedication) and Life",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-5",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Monk's Attire](/SetRelics.aspx?ID=5)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Emotion (dedication) and Life\r\n</column>\r\n\r\n---\r\n\r\nAccording to tales, some of the first [monks](/Classes.aspx?ID=8) to assemble the austere _monk's attire_ were servants of [Irori](/Deities.aspx?ID=10). This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. _Monk's attire_ resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous _monk's attire_ sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense.\r\n\r\n---\r\n\r\n**Set Items**: [Handwraps of Mighty Blows (+1)](/Equipment.aspx?ID=441) (level 2), [+1 cloth armor](/Equipment.aspx?ID=147) (level 5) or [Bracers of Armor I](/Equipment.aspx?ID=416) (level 8), [Ki-Channeling Beads](/Equipment.aspx?ID=2325) (level 11) or [Mask of Uncanny Breath](/Equipment.aspx?ID=2326) (level 11)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Overflowing Life](/Relics.aspx?ID=45) \r\n- 2: [Dominant Emotion](/Relics.aspx?ID=91) \r\n- 3: [Inextinguishable](/Relics.aspx?ID=46) \r\n- 3 (one 13th-level or higher item): [Emotion Conduit](/Relics.aspx?ID=94) \r\n- 3 (one 17th-level or higher item): [Quickening Emotion](/Relics.aspx?ID=96) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: The item bonus from overflowing life equals the relic's level.</li><li>_Three Items_: Any mental effect harmful to you triggers dominant emotion, which can counteract such effects.</li><li>_Three Items (one 13th-level or higher item)_: Treat the outcome of your recovery checks as one step better.</li><li>_Three Items (one 17th-level or higher item)_: If dominant emotion or emotion conduit [counteract](/Rules.aspx?ID=371) an effect, the target regains 5d10+5 Hit Points and gains a +2 status bonus to saving throws against [mental](/Traits.aspx?ID=106) effects for 10 minutes.</li></ul>",
+  "name": "Monk's Attire",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Emotion (dedication) and Life\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAccording to tales, some of the first  monks  to assemble the austere  monk's attire  were servants of  Irori . This deity is a symbol of devotion …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "According to tales, some of the first  monks  to assemble the austere  monk's attire  were servants of  Irori . This deity is a symbol of devotion …",
+  "summary_markdown": "According to tales, some of the first  monks  to assemble the austere  monk's attire  were servants of  Irori . This deity is a symbol of devotion …",
+  "text": "\nMonk's Attire Source Treasure Vault pg. 202 1.1 Aspects Emotion (dedication) and Life --- According to tales, some of the first monks to assemble the austere monk's attire were servants of Irori. This deity is a symbol of devotion and self-discovery through one's understanding of body, mind, and soul. Monk's attire resonates with Irori's dedication, focusing on the highest gain from minimal acquisition, eschewing material objects. Legend holds Irori did so, and that some famous monk's attire sets include a scrap of Irori's original possessions. Other monastic orders have similar traditions of minimal personal effects, with an emphasis on spiritual focus, practicality, and self-defense. --- Set Items : Handwraps of Mighty Blows (+1) (level 2), +1 cloth armor (level 5) or Bracers of Armor I (level 8), Ki-Channeling Beads (level 11) or Mask of Uncanny Breath (level 11) --- Gifts : The set grants the following gifts. - 1: Overflowing Life - 2: Dominant Emotion - 3: Inextinguishable - 3 (one 13th-level or higher item): Emotion Conduit - 3 (one 17th-level or higher item): Quickening Emotion --- Collective Features : The set grants the following features. Two Items : The item bonus from overflowing life equals the relic's level. Three Items : Any mental effect harmful to you triggers dominant emotion, which can counteract such effects. Three Items (one 13th-level or higher item) : Treat the outcome of your recovery checks as one step better. Three Items (one 17th-level or higher item) : If dominant emotion or emotion conduit counteract an effect, the target regains 5d10+5 Hit Points and gains a +2 status bonus to saving throws against mental effects for 10 minutes. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Life",
+   "Time"
+  ],
+  "aspect_markdown": "Life and Time",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-6",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Pharasma's Command](/SetRelics.aspx?ID=6)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Life and Time\r\n</column>\r\n\r\n---\r\n\r\n[Pharasma's](/Deities.aspx?ID=14) devoted followers vow to seek out and destroy [undead](/Traits.aspx?ID=160) wherever they can be found, a task made more urgent with the rise of Tar-Baphon. Though the Whispering Tyrant was prevented from taking over Golarion, his forces are still massing. Undead unaffiliated with the [lich](/Monsters.aspx?ID=282) represent an unacceptable perversion of the cycle of life and death to Pharasmins, and permitting such creatures to exist is anathema to her. To aid her faithful in their sacred duty to send the dead where they belong, Pharasmin priests developed this item set. While using _Pharasma's command_, you must abide by her [edicts and anathema](/Deities.aspx?ID=14) or else the relic ceases to function for you until you atone. This set doesn't function for undead beings.\r\n\r\n---\r\n\r\n**Set Items**: [Necklace of Knives](/Equipment.aspx?ID=572) (level 2), [Holy Prayer Beads](/Equipment.aspx?ID=256) (level 5), [Wand of Overflowing Life (3rd-Level Spell)](/Equipment.aspx?ID=756) (level 9), [Cassock of Devotion](/Equipment.aspx?ID=420) (level 11) or [Cloister Robe (Greater)](/Equipment.aspx?ID=2321) (level 15), [Staff of Final Rest (Major)](/Equipment.aspx?ID=1285) (level 16)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Healing Wave](/Relics.aspx?ID=44) \r\n- 2: [Sands of the Hourglass](/Relics.aspx?ID=104) \r\n- 3: [Inextinguishable](/Relics.aspx?ID=46) \r\n- 4: [Temporal Pulse](/Relics.aspx?ID=106) \r\n- 5: [Life Everlasting](/Relics.aspx?ID=48) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: Healing wave increases to 1d6 per relic level.</li><li>_Three Items_: You can use sands of the hourglass as a 30-foot line; each creature in the line must save against the effect.</li><li>_Four Items_: Treat the outcome of your recovery checks as one step better.</li><li>_Five Items_: When you use temporal pulse, each creature you slow takes 1d4 damage per relic level, and each creature you quicken regains 1d4 Hit Points per relic level. For living creatures, the damage is negative, but it's positive for undead.</li></ul>",
+  "name": "Pharasma's Command",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Life and Time\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Pharasma's  devoted followers vow to seek out and destroy  undead  wherever they can be found, a task made more urgent with the rise of Tar-Baphon. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>",
+  "speed": {},
+  "summary": " Pharasma's  devoted followers vow to seek out and destroy  undead  wherever they can be found, a task made more urgent with the rise of Tar-Baphon. …",
+  "summary_markdown": " Pharasma's  devoted followers vow to seek out and destroy  undead  wherever they can be found, a task made more urgent with the rise of Tar-Baphon. …",
+  "text": "\nPharasma's Command Source Treasure Vault pg. 202 1.1 Aspects Life and Time --- Pharasma's devoted followers vow to seek out and destroy undead wherever they can be found, a task made more urgent with the rise of Tar-Baphon. Though the Whispering Tyrant was prevented from taking over Golarion, his forces are still massing. Undead unaffiliated with the lich represent an unacceptable perversion of the cycle of life and death to Pharasmins, and permitting such creatures to exist is anathema to her. To aid her faithful in their sacred duty to send the dead where they belong, Pharasmin priests developed this item set. While using Pharasma's command , you must abide by her edicts and anathema or else the relic ceases to function for you until you atone. This set doesn't function for undead beings. --- Set Items : Necklace of Knives (level 2), Holy Prayer Beads (level 5), Wand of Overflowing Life (3rd-Level Spell) (level 9), Cassock of Devotion (level 11) or Cloister Robe (Greater) (level 15), Staff of Final Rest (Major) (level 16) --- Gifts : The set grants the following gifts. - 1: Healing Wave - 2: Sands of the Hourglass - 3: Inextinguishable - 4: Temporal Pulse - 5: Life Everlasting --- Collective Features : The set grants the following features. Two Items : Healing wave increases to 1d6 per relic level. Three Items : You can use sands of the hourglass as a 30-foot line; each creature in the line must save against the effect. Four Items : Treat the outcome of your recovery checks as one step better. Five Items : When you use temporal pulse, each creature you slow takes 1d4 damage per relic level, and each creature you quicken regains 1d4 Hit Points per relic level. For living creatures, the damage is negative, but it's positive for undead. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "aspect": [
+   "Mind",
+   "Time"
+  ],
+  "aspect_markdown": "Mind and Time",
+  "category": "set-relic",
+  "exclude_from_search": false,
+  "id": "set-relic-7",
+  "markdown": "<title level=\"1\" right=\"Set Relic\" pfs=\"\">\r\n[Seer's Array](/SetRelics.aspx?ID=7)\r\n</title>\r\n\r\n<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Mind and Time\r\n</column>\r\n\r\n---\r\n\r\nDiviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a _seer's array_ gains strong second sight. _Seer's arrays_ can be found across Golarion, from the caravans of Varisian harrowers to the scale diviners at the court of the Dragon King of Xa Hoi. A diviner who wears the array is bound to be sought after for counsel, and those who consult such farsighted individuals do well to heed any advice given.\r\n\r\n---\r\n\r\n**Set Items**: [Pendant of the Occult](/Equipment.aspx?ID=450) (level 3), [Staff of Divination](/Equipment.aspx?ID=353) (level 6), [Brooch of Inspiration](/Equipment.aspx?ID=1434) (level 8), [Crystal Ball (Clear Quartz)](/Equipment.aspx?ID=253) (level 14), [Robe of Eyes](/Equipment.aspx?ID=463) (level 17)\r\n\r\n---\r\n\r\n**Gifts**: The set grants the following gifts.\r\n\r\n- 1: [Recalculate](/Relics.aspx?ID=50) \r\n- 2: [Borrow Time](/Relics.aspx?ID=103) \r\n- 3: [Time Jump](/Relics.aspx?ID=107) \r\n- 4: [Precognition](/Relics.aspx?ID=105) \r\n- 5: [Time Reversal](/Relics.aspx?ID=108) \r\n\r\n---\r\n\r\n**Collective Features**: The set grants the following features. \n<ul><li>_Two Items_: The circumstance bonus from recalculate increases by 1.</li><li>_Three Items_: Creatures become temporarily immune to the relic's borrow time gift for 1 hour.</li><li>_Four Items_: You can use the relic's time jump once per hour. For each use after the first in a given day, you must attempt a flat check with a DC of 9 + the number of times you've used the gift that day. If you fail, you can still complete the time jump, but after that the gift is no longer available until you next complete your daily preparations. You can roll the flat check before using the gift and decide not to do so after seeing the roll. However, any failure applies to the next use of the gift that day, making your next use your last that day.</li><li>_Five Items_: You can use the relic's precognition once per hour. Each use after the first requires a flat check like for time jump at four items, but this flat check affects your use of precognition.</li></ul>",
+  "name": "Seer's Array",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 202",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Relic\" url=\"/Traits.aspx?ID=494\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>\r\n\r\n**Aspects** Mind and Time\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDiviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a  seer's array  gains strong …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 202"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 202 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Diviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a  seer's array  gains strong …",
+  "summary_markdown": "Diviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a  seer's array  gains strong …",
+  "text": "\nSeer's Array Source Treasure Vault pg. 202 1.1 Aspects Mind and Time --- Diviners through the ages have employed a variety of tools to glimpse the future, but one who assembles five pieces of a seer's array gains strong second sight. Seer's arrays can be found across Golarion, from the caravans of Varisian harrowers to the scale diviners at the court of the Dragon King of Xa Hoi. A diviner who wears the array is bound to be sought after for counsel, and those who consult such farsighted individuals do well to heed any advice given. --- Set Items : Pendant of the Occult (level 3), Staff of Divination (level 6), Brooch of Inspiration (level 8), Crystal Ball (Clear Quartz) (level 14), Robe of Eyes (level 17) --- Gifts : The set grants the following gifts. - 1: Recalculate - 2: Borrow Time - 3: Time Jump - 4: Precognition - 5: Time Reversal --- Collective Features : The set grants the following features. Two Items : The circumstance bonus from recalculate increases by 1. Three Items : Creatures become temporarily immune to the relic's borrow time gift for 1 hour. Four Items : You can use the relic's time jump once per hour. For each use after the first in a given day, you must attempt a flat check with a DC of 9 + the number of times you've used the gift that day. If you fail, you can still complete the time jump, but after that the gift is no longer available until you next complete your daily preparations. You can roll the flat check before using the gift and decide not to do so after seeing the roll. However, any failure applies to the next use of the gift that day, making your next use your last that day. Five Items : You can use the relic's precognition once per hour. Each use after the first requires a flat check like for time jump at four items, but this flat check affects your use of precognition. ",
+  "trait": [
+   "Relic"
+  ],
+  "trait_group": [
+   "Equipment"
+  ],
+  "trait_markdown": "[Relic](/Traits.aspx?ID=494)",
+  "trait_raw": [
+   "Relic"
+  ],
+  "type": "Set Relic",
+  "url": "/SetRelics.aspx?ID=7",
+  "weakness": {}
+ }
+]

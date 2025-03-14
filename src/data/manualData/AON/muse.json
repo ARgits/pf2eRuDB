@@ -1,0 +1,332 @@
+[
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-1",
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Enigma](/Muses.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\n\nYour muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a [dragon](/Traits.aspx?ID=50) or otherworldly being; if a deity, it might be [Irori](/Deities.aspx?ID=10) or [Nethys](/Deities.aspx?ID=12). You gain the [Bardic Lore](/Feats.aspx?ID=179) feat and add [_true strike_](/Spells.aspx?ID=345) to your spell repertoire.",
+  "name": "Enigma",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 97",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "muse-5"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a  dragon  or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 97"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a  dragon  or …",
+  "summary_markdown": "Your muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a  dragon  or …",
+  "text": " Enigma Source Core Rulebook pg. 97 4.0 Your muse is a mystery, driving you to uncover the hidden secrets of the multiverse. If your muse is a creature, it might be a dragon or otherworldly being; if a deity, it might be Irori or Nethys. You gain the Bardic Lore feat and add true strike to your spell repertoire.",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-2",
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Maestro](/Muses.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\n\nYour muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a [choral angel](/Monsters.aspx?ID=14) or [lillend azata](/Monsters.aspx?ID=36); if a deity, it might be [Shelyn](/Deities.aspx?ID=17). As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. You gain the [Lingering Composition](/Feats.aspx?ID=180) feat and add [_soothe_](/Spells.aspx?ID=291) to your spell repertoire.",
+  "name": "Maestro",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 97",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "muse-6"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a  choral angel  or  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 97"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a  choral angel  or  …",
+  "summary_markdown": "Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a  choral angel  or  …",
+  "text": " Maestro Source Core Rulebook pg. 97 4.0 Your muse is a virtuoso, inspiring you to greater heights. If it's a creature, it might be a performance-loving creature such as a choral angel or lillend azata; if a deity, it might be Shelyn. As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. You gain the Lingering Composition feat and add soothe to your spell repertoire.",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-3",
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Polymath](/Muses.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\n\nYour muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a [fey](/Traits.aspx?ID=69); if a deity, it might be [Desna](/Deities.aspx?ID=5) or [Calistria](/Deities.aspx?ID=3). As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind—you want to try everything. You gain the [Versatile Performance](/Feats.aspx?ID=182) feat and add [_unseen servant_](/Spells.aspx?ID=352) to your spell repertoire.",
+  "name": "Polymath",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 97",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "muse-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a  fey ; if a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 97"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 97 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a  fey ; if a …",
+  "summary_markdown": "Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a  fey ; if a …",
+  "text": " Polymath Source Core Rulebook pg. 97 4.0 Your muse is a jack of all trades, flitting between skills and pursuits. If it's is a creature, it might be an eclectic creature like a fey; if a deity, it might be Desna or Calistria. As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind—you want to try everything. You gain the Versatile Performance feat and add unseen servant to your spell repertoire.",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-4",
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Warrior](/Muses.aspx?ID=4)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 112 <sup>2.0</sup>\n\nThe battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its necessity. If your muse is a creature, it might be an otherworldly soldier, such as a [planetar](/Monsters.aspx?ID=544), [archon](/MonsterFamilies.aspx?ID=9), [cornugon](/Monsters.aspx?ID=482), or [purrodaemon](/Monsters.aspx?ID=596). If it's a deity, it might be [Gorum](/Deities.aspx?ID=7). As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of battle. You might even wade into the thick of things with them. You gain the [Martial Performance](/Feats.aspx?ID=1633) feat and add [_fear_](/Spells.aspx?ID=110) to your spell repertoire.",
+  "name": "Warrior",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 112",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "muse-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 112 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 112"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 112 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its …",
+  "summary_markdown": "The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its …",
+  "text": " Warrior Source Advanced Player's Guide pg. 112 2.0 The battlefield is your stage, the clang of steel, your song. Your muse engages in countless battles, whether reveling in combat or resigned to its necessity. If your muse is a creature, it might be an otherworldly soldier, such as a planetar, archon, cornugon, or purrodaemon. If it's a deity, it might be Gorum. As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of battle. You might even wade into the thick of things with them. You gain the Martial Performance feat and add fear to your spell repertoire.",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-5",
+  "legacy_id": [
+   "muse-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Enigma](/Muses.aspx?ID=5)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\n\nYour muse is a mystery, driving you to uncover the hidden secrets of life and the multiverse. These muses can be people you cannot fully grasp, texts layered deeply with symbolism, or emotional paradoxes that underline a lifetime's work. If your muse is an otherworldly creature, it might be a mysterious aeon or an occult dragon; if a deity, it might be [Irori](/Deities.aspx?ID=10) or [Nethys](/Deities.aspx?ID=12). Art inspired by an enigma muse could be cryptic, eerie, or laden with speculation and conspiracy.<br /> As a bard with the enigma muse, you support your allies by providing knowledge alongside inspiration and occult support.\n\n **Muse Feat** [Bardic Lore](/Feats.aspx?ID=4573) <br />**Muse Spell** [_sure strike_](/Spells.aspx?ID=1709)",
+  "name": "Enigma",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 98",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a mystery, driving you to uncover the hidden secrets of life and the multiverse. These muses can be people you cannot fully grasp, texts …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 98"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a mystery, driving you to uncover the hidden secrets of life and the multiverse. These muses can be people you cannot fully grasp, texts …",
+  "summary_markdown": "Your muse is a mystery, driving you to uncover the hidden secrets of life and the multiverse. These muses can be people you cannot fully grasp, texts …",
+  "text": " Enigma Source Player Core pg. 98 2.0 Your muse is a mystery, driving you to uncover the hidden secrets of life and the multiverse. These muses can be people you cannot fully grasp, texts layered deeply with symbolism, or emotional paradoxes that underline a lifetime's work. If your muse is an otherworldly creature, it might be a mysterious aeon or an occult dragon; if a deity, it might be Irori or Nethys. Art inspired by an enigma muse could be cryptic, eerie, or laden with speculation and conspiracy. As a bard with the enigma muse, you support your allies by providing knowledge alongside inspiration and occult support. Muse Feat Bardic Lore Muse Spell sure strike ",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-6",
+  "legacy_id": [
+   "muse-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Maestro](/Muses.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\n\nYour muse constantly inspires you to greater heights of artistic prowess. For many bards, a teacher or rival fills this role, although some set their sights higher and attempt to surpass great composers of the past or blaze a new trail entirely. If your muse is a supernatural creature, it might be one who loves to perform, such as a choral angel or a lyrakien azata; if a deity, it might be [Shelyn](/Deities.aspx?ID=17). Art inspired by a maestro muse is precise and inventive, a formalist achievement.<br /> As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities.\n\n**Muse Feat** [Lingering Composition](/Feats.aspx?ID=4575)<br />**Muse Spell** [_soothe_](/Spells.aspx?ID=1678)",
+  "name": "Maestro",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 98",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse constantly inspires you to greater heights of artistic prowess. For many bards, a teacher or rival fills this role, although some set their …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 98"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your muse constantly inspires you to greater heights of artistic prowess. For many bards, a teacher or rival fills this role, although some set their …",
+  "summary_markdown": "Your muse constantly inspires you to greater heights of artistic prowess. For many bards, a teacher or rival fills this role, although some set their …",
+  "text": " Maestro Source Player Core pg. 98 2.0 Your muse constantly inspires you to greater heights of artistic prowess. For many bards, a teacher or rival fills this role, although some set their sights higher and attempt to surpass great composers of the past or blaze a new trail entirely. If your muse is a supernatural creature, it might be one who loves to perform, such as a choral angel or a lyrakien azata; if a deity, it might be Shelyn. Art inspired by a maestro muse is precise and inventive, a formalist achievement. As a bard with a maestro muse, you are an inspiration to your allies and confident of your musical and oratorical abilities. Muse Feat Lingering Composition Muse Spell soothe ",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-7",
+  "legacy_id": [
+   "muse-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Polymath](/Muses.aspx?ID=7)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\n\nYour muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from an idealized being, whether it's based on a real person or purely philosophical. If your muse is a single creature, it might be an eclectic creature like a fey or one who's learned a lot over a long lifespan; if a deity, it might be [Desna](/Deities.aspx?ID=5) or [Calistria](/Deities.aspx?ID=3). Art inspired by a polymath muse is restless, with each composition exhibiting new techniques and an ever-evolving style.<br /> As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind—you want to try everything.\n\n**Muse Feat** [Versatile Performance](/Feats.aspx?ID=4578) <br />**Muse Spell** [_phantasmal minion_](/Spells.aspx?ID=1631)",
+  "name": "Polymath",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 98",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 98"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from …",
+  "summary_markdown": "Your muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from …",
+  "text": " Polymath Source Player Core pg. 98 2.0 Your muse is a jack of all trades, flitting between skills and pursuits. Some bards are constantly moved by new muses or draw their inspiration from an idealized being, whether it's based on a real person or purely philosophical. If your muse is a single creature, it might be an eclectic creature like a fey or one who's learned a lot over a long lifespan; if a deity, it might be Desna or Calistria. Art inspired by a polymath muse is restless, with each composition exhibiting new techniques and an ever-evolving style. As a bard with a polymath muse, you are interested in a wide array of topics but rarely dedicated to any one, and you rarely make up your mind—you want to try everything. Muse Feat Versatile Performance Muse Spell phantasmal minion ",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-8",
+  "legacy_id": [
+   "muse-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Warrior](/Muses.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\n\nThe battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its necessity. An individual soldier or general might inspire you, but so might a battlefield or weapon with a particularly profound history. If your muse is a creature, it might be an otherworldly soldier, such as an archon or devil soldier. If it's a deity, it might be [Gorum](/Deities.aspx?ID=7). Art inspired by a warrior muse is triumphant and strident, often detailing epic battles.<br /> As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of combat. You might even wade into the thick of things with them.\n\n **Muse Feat** [Martial Performance](/Feats.aspx?ID=4576)<br />**Muse Spell** [_fear_](/Spells.aspx?ID=1524)",
+  "name": "Warrior",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 98",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 98"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 98 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its …",
+  "summary_markdown": "The battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its …",
+  "text": " Warrior Source Player Core pg. 98 2.0 The battlefield is your stage, the clang of steel, your song. Your muse has seen countless battles, whether reveling in combat or resigned to its necessity. An individual soldier or general might inspire you, but so might a battlefield or weapon with a particularly profound history. If your muse is a creature, it might be an otherworldly soldier, such as an archon or devil soldier. If it's a deity, it might be Gorum. Art inspired by a warrior muse is triumphant and strident, often detailing epic battles. As a bard with a warrior muse, you train for battle in addition to performance, and you prepare your allies for the dangers of combat. You might even wade into the thick of things with them. Muse Feat Martial Performance Muse Spell fear ",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "muse",
+  "exclude_from_search": false,
+  "id": "muse-9",
+  "markdown": "<title level=\"1\" right=\"Bard Muse \" pfs=\"Standard\">[Zoophonia](/Muses.aspx?ID=9)</title>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 65 <sup>2.0</sup>\n\nYour muse is a master of birdsong, wolf howls, trumpeting elephants, and other animal communication, pushing you to new heights and encouraging your connections with nature. If your muse is a creature, it might be an enlightened animal or a [spirit guide](/MonsterFamilies.aspx?ID=264). If it's a deity, it might be one of the Wardens of the Wild, [Gozreh](/Deities.aspx?ID=284), or another representative of nature.\n\n**Muse Feat** [Zoophonic Communication](/Feats.aspx?ID=5415) <br />**Muse Spell** [_summon animal_](/Spells.aspx?ID=1694)",
+  "name": "Zoophonia",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 65",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 65 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour muse is a master of birdsong, wolf howls, trumpeting elephants, and other animal communication, pushing you to new heights and encouraging your …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 65"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 65 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Your muse is a master of birdsong, wolf howls, trumpeting elephants, and other animal communication, pushing you to new heights and encouraging your …",
+  "summary_markdown": "Your muse is a master of birdsong, wolf howls, trumpeting elephants, and other animal communication, pushing you to new heights and encouraging your …",
+  "text": " Zoophonia Source Howl of the Wild pg. 65 2.0 Your muse is a master of birdsong, wolf howls, trumpeting elephants, and other animal communication, pushing you to new heights and encouraging your connections with nature. If your muse is a creature, it might be an enlightened animal or a spirit guide. If it's a deity, it might be one of the Wardens of the Wild, Gozreh, or another representative of nature. Muse Feat Zoophonic Communication Muse Spell summon animal ",
+  "type": "Bard Muse",
+  "url": "/Muses.aspx?ID=9",
+  "weakness": {}
+ }
+]

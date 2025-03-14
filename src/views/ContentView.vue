@@ -1,9 +1,7 @@
 <script setup lang="ts">
-import { computed } from 'vue';
-import MobileMainLayout from '@/components/layout/main/MobileMainLayout.vue';
-import DesktopMainLayout from '@/components/layout/main/DesktopMainLayout.vue';
-import { isMobile } from '@/utils';
-import { useContentStore } from '@/stores/content';
+import { computed } from "vue";
+import TableComponent from "@/components/utility/TableComponent.vue";
+import { useContentStore } from "@/stores/content";
 import { FontAwesomeIcon } from "@fortawesome/vue-fontawesome";
 import { faSpinner } from "@fortawesome/free-solid-svg-icons";
 const contentStore = useContentStore()
@@ -12,8 +10,7 @@ const isFetched = computed(() => contentStore.isDataFetched)
 </script>
 <template>
   <template v-if="isFetched">
-    <MobileMainLayout v-if="isMobile" />
-    <DesktopMainLayout v-else />
+    <TableComponent />
   </template>
   <template v-else>
     <div class="loading">
@@ -25,5 +22,3 @@ const isFetched = computed(() => contentStore.isDataFetched)
     </div>
   </template>
 </template>
-
-<style scoped lang="scss"></style>

@@ -1,0 +1,98 @@
+[
+ {
+  "category": "deviant-ability-classification",
+  "exclude_from_search": false,
+  "id": "deviant-ability-classification-1",
+  "markdown": "<title level=\"1\" right=\"Deviant Ability Classification \" pfs=\"Standard\">[Dragon](/DeviantFeats.aspx?ID=1)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 100\n\nDeviant abilities often trace their origin to massive concentrations of energy, such as being at ground zero of a detonating magical artifact. These energies can linger within an individual to grant them deviations falling under the dragon classification—gouts of flame, electrical breath, and the like—projecting and absorbing it to great effect.\n\n When you gain a dragon-type deviation, choose a type of damage, from cold, electricity, fire, or sonic. All abilities you gain from this deviation deal this type of damage and add the corresponding trait to the ability. You also use this damage type for the damage and weakness from your backlash.\n\n<title level=\"2\">Feats</title>\r\n\r\n<document level=\"3\" id=\"feat-3780\" />\r\n\r\n<document level=\"3\" id=\"feat-3781\" />\r\n\r\n<document level=\"3\" id=\"feat-3782\" />\r\n\r\n<document level=\"3\" id=\"feat-3783\" />\n\n<title level=\"2\">Backlash: Energetic Meltdown</title>\r\n\r\nAs you channel energy through your deviant abilities, some of it turns back on you, spiking your body temperature or dancing across your skin.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mild Backlash** You take damage equal to your level as energy scours your body.\r\n\r\n**Moderate Backlash** Energy wracks your body. After taking the damage, you gain weakness to the energy type of your backlash until your next daily preparations. The weakness is equal to one-third of your level. You also lose immunity to the energy type if you had it, until your next daily preparations.\r\n\r\n**Severe Backlash** Whatever furnace or well within you that provides the energy for your deviation overloads completely, cascading out of you in an uncontrolled burst. You deal 1d6 damage per level to all creatures in a 30-foot emanation with a [basic](/Rules.aspx?ID=329) Fortitude save. You automatically take full damage without attempting a save.\r\n\r\n</column>",
+  "name": "Dragon",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 100",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 100\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 100"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 100",
+  "speed": {},
+  "text": " Dragon Source Dark Archive pg. 100 Deviant abilities often trace their origin to massive concentrations of energy, such as being at ground zero of a detonating magical artifact. These energies can linger within an individual to grant them deviations falling under the dragon classification—gouts of flame, electrical breath, and the like—projecting and absorbing it to great effect. When you gain a dragon-type deviation, choose a type of damage, from cold, electricity, fire, or sonic. All abilities you gain from this deviation deal this type of damage and add the corresponding trait to the ability. You also use this damage type for the damage and weakness from your backlash. Feats Backlash: Energetic Meltdown As you channel energy through your deviant abilities, some of it turns back on you, spiking your body temperature or dancing across your skin. Mild Backlash You take damage equal to your level as energy scours your body. Moderate Backlash Energy wracks your body. After taking the damage, you gain weakness to the energy type of your backlash until your next daily preparations. The weakness is equal to one-third of your level. You also lose immunity to the energy type if you had it, until your next daily preparations. Severe Backlash Whatever furnace or well within you that provides the energy for your deviation overloads completely, cascading out of you in an uncontrolled burst. You deal 1d6 damage per level to all creatures in a 30-foot emanation with a basic Fortitude save. You automatically take full damage without attempting a save. ",
+  "type": "Deviant Ability Classification",
+  "url": "/DeviantFeats.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "deviant-ability-classification",
+  "exclude_from_search": false,
+  "id": "deviant-ability-classification-2",
+  "markdown": "<title level=\"1\" right=\"Deviant Ability Classification \" pfs=\"Standard\">[Troll](/DeviantFeats.aspx?ID=2)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 101\n\nEspecially common when a deviant ability is born of scientific experimentation, the troll classification connotes improved physical abilities. While often thought of as biological mutation, clockwork implants and personal magical enhancements are equally likely mechanisms.\n\n<title level=\"2\">Feats</title>\r\n\r\n<document level=\"3\" id=\"feat-3784\" />\r\n\r\n<document level=\"3\" id=\"feat-3785\" />\r\n\r\n<document level=\"3\" id=\"feat-3786\" />\r\n\r\n<document level=\"3\" id=\"feat-3787\" />\n\n<title level=\"2\">Backlash: Strained Metabolism</title>\r\n\r\nYour body's overclocked physiology requires larger-than- usual amounts of nourishment, leaving you weakened when it kicks in mid-combat.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mild Backlash** Your metabolism immediately burns through your body's energy stores, making you [enfeebled 1](/Conditions.aspx?ID=13) and [clumsy 1](/Conditions.aspx?ID=3) until you take a bite of food (which usually requires 2 Interact actions: one to retrieve the food and another to consume it).\r\n\r\n**Moderate Backlash** Ravenous hunger wracks your body. You are enfeebled 1, clumsy 1, and [fatigued](/Conditions.aspx?ID=15) until you can eat a full meal, which requires at least 10 minutes.\r\n\r\n**Severe Backlash** The strain on your body is truly incapacitating. You become [sickened 2](/Conditions.aspx?ID=34) as nausea wracks you, and you are also enfeebled 1 and clumsy 1 until you can eat a full meal (which requires you to no longer be sickened). You are fatigued until you can get a full night's rest.\r\n\r\n</column>",
+  "name": "Troll",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 101",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 101\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 101"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 101",
+  "speed": {},
+  "text": " Troll Source Dark Archive pg. 101 Especially common when a deviant ability is born of scientific experimentation, the troll classification connotes improved physical abilities. While often thought of as biological mutation, clockwork implants and personal magical enhancements are equally likely mechanisms. Feats Backlash: Strained Metabolism Your body's overclocked physiology requires larger-than- usual amounts of nourishment, leaving you weakened when it kicks in mid-combat. Mild Backlash Your metabolism immediately burns through your body's energy stores, making you enfeebled 1 and clumsy 1 until you take a bite of food (which usually requires 2 Interact actions: one to retrieve the food and another to consume it). Moderate Backlash Ravenous hunger wracks your body. You are enfeebled 1, clumsy 1, and fatigued until you can eat a full meal, which requires at least 10 minutes. Severe Backlash The strain on your body is truly incapacitating. You become sickened 2 as nausea wracks you, and you are also enfeebled 1 and clumsy 1 until you can eat a full meal (which requires you to no longer be sickened). You are fatigued until you can get a full night's rest. ",
+  "type": "Deviant Ability Classification",
+  "url": "/DeviantFeats.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "deviant-ability-classification",
+  "exclude_from_search": false,
+  "id": "deviant-ability-classification-3",
+  "markdown": "<title level=\"1\" right=\"Deviant Ability Classification \" pfs=\"Standard\">[Wraith](/DeviantFeats.aspx?ID=3)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 102\n\nWraith-type deviations often result from contact with otherworldly presences or artifacts, comprising a strange assortment of abilities that involve realms beyond our own.\n\n<title level=\"2\">Feats</title>\r\n\r\n<document level=\"3\" id=\"feat-3788\" />\r\n\r\n<document level=\"3\" id=\"feat-3789\" />\r\n\r\n<document level=\"3\" id=\"feat-3790\" />\r\n\r\n<document level=\"3\" id=\"feat-3791\" />\n\n<title level=\"2\">Backlash: Encroaching Presence</title>\r\n\r\nSeeing and touching the beyond leaves you open to its alien influence, warping your perceptions and thoughts.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mild Backlash** Something inexplicable touches your mind, leaving you with lingering horror. You become [frightened 3](/Conditions.aspx?ID=19).\r\n\r\n**Moderate Backlash** Disorienting visions and figments cover your vision, as if you're seeing through another set of alien senses. For 10 minutes, all creatures become [concealed](/Conditions.aspx?ID=4) to you as they are covered in visual distortions only you can see.\r\n\r\n**Severe Backlash** Your life force is siphoned away as the presence tugs your soul to wherever it resides. You become [doomed 1](/Conditions.aspx?ID=9) and [drained 2](/Conditions.aspx?ID=10) until your next daily preparations.\r\n\r\n</column>",
+  "name": "Wraith",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 102",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 102\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 102"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 102",
+  "speed": {},
+  "text": " Wraith Source Dark Archive pg. 102 Wraith-type deviations often result from contact with otherworldly presences or artifacts, comprising a strange assortment of abilities that involve realms beyond our own. Feats Backlash: Encroaching Presence Seeing and touching the beyond leaves you open to its alien influence, warping your perceptions and thoughts. Mild Backlash Something inexplicable touches your mind, leaving you with lingering horror. You become frightened 3. Moderate Backlash Disorienting visions and figments cover your vision, as if you're seeing through another set of alien senses. For 10 minutes, all creatures become concealed to you as they are covered in visual distortions only you can see. Severe Backlash Your life force is siphoned away as the presence tugs your soul to wherever it resides. You become doomed 1 and drained 2 until your next daily preparations. ",
+  "type": "Deviant Ability Classification",
+  "url": "/DeviantFeats.aspx?ID=3",
+  "weakness": {}
+ }
+]

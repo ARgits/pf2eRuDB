@@ -1,0 +1,601 @@
+[
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-1",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 6\" pfs=\"\">[Blizzard](/WeatherHazards.aspx?ID=1)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nA combination of heavy snowfall and wind reduces visibility and temperature significantly.\r\n\r\n---\r\n\r\n**Requirements**\r\nA blizzard can occur only during winter.\r\n\r\n**Survival** DC 25 (expert)\r\n\r\n**Preparation**\r\nDC 21 [Survival](/Skills.aspx?ID=16) (trained) to notice escalations in the weather or 25 DC [Nature](/Skills.aspx?ID=10) (expert) to correctly interpret the behavior of local wildlife.\r\n\r\n**Routine** (8+ hours) For the blizzard's duration, visibility is reduced to such an extent that visual Perception checks have a –4 circumstance penalty. Windstorm conditions (page 125) apply during a blizzard, and the regional temperature drops to [severe cold](/Rules.aspx?ID=642). Once a blizzard starts, an unsheltered character takes 2d6 cold damage every hour. During a blizzard, a DC 25 Survival check is enough to find or create shelter to avoid additional cold damage from exposure, but each attempt to do so takes 1 hour. Once a blizzard ends, travel through the zone is treated as difficult terrain for a number of days equal to the number of flat checks that were required to end the blizzard.",
+  "name": "Blizzard",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "A blizzard can occur only during winter.",
+  "requirement_markdown": "A blizzard can occur only during winter.",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\n**Requirements**\r\nA blizzard can occur only during winter.\r\n\r\n**Survival** DC 25 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA combination of heavy snowfall and wind reduces visibility and temperature significantly.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "A combination of heavy snowfall and wind reduces visibility and temperature significantly.",
+  "summary_markdown": "A combination of heavy snowfall and wind reduces visibility and temperature significantly.",
+  "text": " Blizzard Source Kingmaker Companion Guide pg. 123 A combination of heavy snowfall and wind reduces visibility and temperature significantly. --- Requirements A blizzard can occur only during winter. Survival DC 25 (expert) Preparation DC 21 Survival (trained) to notice escalations in the weather or 25 DC Nature (expert) to correctly interpret the behavior of local wildlife. Routine (8+ hours) For the blizzard's duration, visibility is reduced to such an extent that visual Perception checks have a –4 circumstance penalty. Windstorm conditions (page 125) apply during a blizzard, and the regional temperature drops to severe cold. Once a blizzard starts, an unsheltered character takes 2d6 cold damage every hour. During a blizzard, a DC 25 Survival check is enough to find or create shelter to avoid additional cold damage from exposure, but each attempt to do so takes 1 hour. Once a blizzard ends, travel through the zone is treated as difficult terrain for a number of days equal to the number of flat checks that were required to end the blizzard.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-2",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 1\" pfs=\"\">[Cold Snap](/WeatherHazards.aspx?ID=2)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nThe temperature drops noticeably, becoming unusually cold for this time of year.\r\n\r\n---\r\n\r\n**Requirements**\r\nA cold snap can occur at any time except during the summer.\r\n\r\n**Survival** DC 16 (trained)\r\n\r\n**Preparation**\r\nDC 19 [Nature](/Skills.aspx?ID=10) (trained) or DC 16 [Survival](/Skills.aspx?ID=16) (trained) to realize there's an imminent shift in weather.\r\n\r\n**Routine** (24+ hours) The [temperature](/Rules.aspx?ID=642) drops down to an unusually low level. During spring and autumn, the temperature shifts to mild cold. During winter, the temperature shifts to severe cold, during which unsheltered PCs take 1d6 cold damage per hour. If a [blizzard](/WeatherHazards.aspx?ID=1) takes place during a cold snap, the blizzard's temperature drops to extreme cold, during which unsheltered PCs take 2d6 cold damage every 10 minutes.",
+  "name": "Cold Snap",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "A cold snap can occur at any time except during the summer.",
+  "requirement_markdown": "A cold snap can occur at any time except during the summer.",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\n**Requirements**\r\nA cold snap can occur at any time except during the summer.\r\n\r\n**Survival** DC 16 (trained)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe temperature drops noticeably, becoming unusually cold for this time of year.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "The temperature drops noticeably, becoming unusually cold for this time of year.",
+  "summary_markdown": "The temperature drops noticeably, becoming unusually cold for this time of year.",
+  "text": " Cold Snap Source Kingmaker Companion Guide pg. 123 The temperature drops noticeably, becoming unusually cold for this time of year. --- Requirements A cold snap can occur at any time except during the summer. Survival DC 16 (trained) Preparation DC 19 Nature (trained) or DC 16 Survival (trained) to realize there's an imminent shift in weather. Routine (24+ hours) The temperature drops down to an unusually low level. During spring and autumn, the temperature shifts to mild cold. During winter, the temperature shifts to severe cold, during which unsheltered PCs take 1d6 cold damage per hour. If a blizzard takes place during a cold snap, the blizzard's temperature drops to extreme cold, during which unsheltered PCs take 2d6 cold damage every 10 minutes.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-3",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 7\" pfs=\"\">[Flash Flood](/WeatherHazards.aspx?ID=3)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nHeavy rainfall upriver or deeper in the mountains causes a sudden rush of water to come cascading downstream or along an otherwise dry riverbed.\r\n\r\n---\r\n\r\n**Requirements**\r\nThe PCs are in a hex that contains hills, mountains, or a river.\r\n\r\n**Survival** DC 27 (expert)\r\n\r\n**Preparation**\r\nDC 21 [Survival](/Skills.aspx?ID=16) (trained) to move to high ground before the flash flood hits.\r\n\r\n**Routine** (1+ hours) The rushing waters of the flood surge through the area with shocking speed. The PCs roll initiative with Perception or Survival checks; determine the flash flood's initiative by rolling 1d20+17. On a PC's turn, they can attempt to move out of the flood's path. This could be as simple as taking Strides to get out of the way, or this could be complicated by having to succeed at a DC 25 [Athletics](/Skills.aspx?ID=3) check to climb to safety. You can also complicate escape by having the width of the flood area be more significant, to an extent that even three Strides might not be enough to escape. On the flash flood's turn, it attempts to Sweep Away any PCs who haven't escaped its path. A character who is swept away can escape the flood by succeeding at a DC 25 Athletics check as a three-round Interact action to swim to shore or cling to an outcropping, tree, or other solid object; otherwise, the PC will continue to be Swept Away round after round. Once the flood ends, the waters of the river left behind remain deep for several more hours or, at your discretion, even days.<br /> **Sweep Away** <actions string=\"Three Actions\" /> The flash flood sweeps away characters who haven't escaped its path. Each character is carried 200 feet downriver (they can avoid this by succeeding at a DC 30 Athletics check to [Swim](/Actions.aspx?ID=39)) and takes 6d6 bludgeoning damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save).",
+  "name": "Flash Flood",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "The PCs are in a hex that contains hills, mountains, or a river.",
+  "requirement_markdown": "The PCs are in a hex that contains hills, mountains, or a river.",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\n**Requirements**\r\nThe PCs are in a hex that contains hills, mountains, or a river.\r\n\r\n**Survival** DC 27 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHeavy rainfall upriver or deeper in the mountains causes a sudden rush of water to come cascading downstream or along an otherwise dry riverbed.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "Heavy rainfall upriver or deeper in the mountains causes a sudden rush of water to come cascading downstream or along an otherwise dry riverbed.",
+  "summary_markdown": "Heavy rainfall upriver or deeper in the mountains causes a sudden rush of water to come cascading downstream or along an otherwise dry riverbed.",
+  "text": " Flash Flood Source Kingmaker Companion Guide pg. 123 Heavy rainfall upriver or deeper in the mountains causes a sudden rush of water to come cascading downstream or along an otherwise dry riverbed. --- Requirements The PCs are in a hex that contains hills, mountains, or a river. Survival DC 27 (expert) Preparation DC 21 Survival (trained) to move to high ground before the flash flood hits. Routine (1+ hours) The rushing waters of the flood surge through the area with shocking speed. The PCs roll initiative with Perception or Survival checks; determine the flash flood's initiative by rolling 1d20+17. On a PC's turn, they can attempt to move out of the flood's path. This could be as simple as taking Strides to get out of the way, or this could be complicated by having to succeed at a DC 25 Athletics check to climb to safety. You can also complicate escape by having the width of the flood area be more significant, to an extent that even three Strides might not be enough to escape. On the flash flood's turn, it attempts to Sweep Away any PCs who haven't escaped its path. A character who is swept away can escape the flood by succeeding at a DC 25 Athletics check as a three-round Interact action to swim to shore or cling to an outcropping, tree, or other solid object; otherwise, the PC will continue to be Swept Away round after round. Once the flood ends, the waters of the river left behind remain deep for several more hours or, at your discretion, even days. Sweep Away Three Actions The flash flood sweeps away characters who haven't escaped its path. Each character is carried 200 feet downriver (they can avoid this by succeeding at a DC 30 Athletics check to Swim) and takes 6d6 bludgeoning damage (DC 25 basic Reflex save).",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-4",
+  "level": 0,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 0\" pfs=\"\">[Fog](/WeatherHazards.aspx?ID=4)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nThick fog rolls in to obscure the landscape.\r\n\r\n---\n\n**Survival** DC 16\n\n**Routine** (2+ hours) As long as the dense fog persists, visual Perception checks have a –2 circumstance penalty. Fog causes creatures that are further than 15 feet away to be concealed, and it limits maximum visibility to 500 feet.",
+  "name": "Fog",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\n\n**Survival** DC 16\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThick fog rolls in to obscure the landscape.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "Thick fog rolls in to obscure the landscape.",
+  "summary_markdown": "Thick fog rolls in to obscure the landscape.",
+  "text": " Fog Source Kingmaker Companion Guide pg. 123 Thick fog rolls in to obscure the landscape. --- Survival DC 16 Routine (2+ hours) As long as the dense fog persists, visual Perception checks have a –2 circumstance penalty. Fog causes creatures that are further than 15 feet away to be concealed, and it limits maximum visibility to 500 feet.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-5",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 2\" pfs=\"\">[Hailstorm, Severe](/WeatherHazards.aspx?ID=5)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nPellets of frozen ice rain down on the region.\r\n\r\n---\n\n**Survival** DC 18 (trained)\r\n\r\n**Preparation**\r\nDC 18 [Survival](/Skills.aspx?ID=16) (trained) or DC 21 Perception to realize that small showers of hail that have been dropping in the region will soon give way to severe hail.\r\n\r\n**Routine** (1+ hours) During a severe hailstorm, periodic flurries of hail measuring an inch or more in diameter buffet the area. Any character who doesn't have shelter during a severe hailstorm takes 2d6 bludgeoning damage (DC 18 [basic](/Rules.aspx?ID=329) Reflex save) over the course of the hour. A severe hailstorm also limits vision in the same manner as [heavy downpour](/WeatherHazards.aspx?ID=6).",
+  "name": "Hailstorm, Severe",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\n\n**Survival** DC 18 (trained)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPellets of frozen ice rain down on the region.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "Pellets of frozen ice rain down on the region.",
+  "summary_markdown": "Pellets of frozen ice rain down on the region.",
+  "text": " Hailstorm, Severe Source Kingmaker Companion Guide pg. 123 Pellets of frozen ice rain down on the region. --- Survival DC 18 (trained) Preparation DC 18 Survival (trained) or DC 21 Perception to realize that small showers of hail that have been dropping in the region will soon give way to severe hail. Routine (1+ hours) During a severe hailstorm, periodic flurries of hail measuring an inch or more in diameter buffet the area. Any character who doesn't have shelter during a severe hailstorm takes 2d6 bludgeoning damage (DC 18 basic Reflex save) over the course of the hour. A severe hailstorm also limits vision in the same manner as heavy downpour.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-6",
+  "level": 0,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 0\" pfs=\"\">[Heavy Downpour](/WeatherHazards.aspx?ID=6)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\r\n\r\nThe clouds above darken, and a significant amount of precipitation unloads over the region.\r\n\r\n---\n\n**Survival** DC 16\n\n**Routine** (24+ hours) Rain or snow continues to fall all day, making those caught out in the elements cold and wet. As long as the heavy downpour lasts, visual Perception checks take a –1 circumstance penalty, causes creatures that are further than 100 feet away to be concealed, and cuts off all visibility at half a mile or more.<br /> During a heavy downpour, other storms tend to be even more severe. The DC of skill checks made to survive, prepare, or endure the routine of a [blizzard](/WeatherHazards.aspx?ID=1), [severe hailstorm](/WeatherHazards.aspx?ID=5), [supernatural storm](/WeatherHazards.aspx?ID=8), [thunderstorm](/WeatherHazards.aspx?ID=9), or [windstorm](/WeatherHazards.aspx?ID=12) increase by +2 during heavy downpour. Rivers tend to rise during heavy downpours. Shallow points to cross rivers become too deep to ford and remain so for 1d4 days after the event.",
+  "name": "Heavy Downpour",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 123",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123\n\n**Survival** DC 16\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe clouds above darken, and a significant amount of precipitation unloads over the region.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 123"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 123",
+  "speed": {},
+  "summary": "The clouds above darken, and a significant amount of precipitation unloads over the region.",
+  "summary_markdown": "The clouds above darken, and a significant amount of precipitation unloads over the region.",
+  "text": " Heavy Downpour Source Kingmaker Companion Guide pg. 123 The clouds above darken, and a significant amount of precipitation unloads over the region. --- Survival DC 16 Routine (24+ hours) Rain or snow continues to fall all day, making those caught out in the elements cold and wet. As long as the heavy downpour lasts, visual Perception checks take a –1 circumstance penalty, causes creatures that are further than 100 feet away to be concealed, and cuts off all visibility at half a mile or more. During a heavy downpour, other storms tend to be even more severe. The DC of skill checks made to survive, prepare, or endure the routine of a blizzard, severe hailstorm, supernatural storm, thunderstorm, or windstorm increase by +2 during heavy downpour. Rivers tend to rise during heavy downpours. Shallow points to cross rivers become too deep to ford and remain so for 1d4 days after the event.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-7",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 5\" pfs=\"\">[Subsidence](/WeatherHazards.aspx?ID=7)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\r\n\r\nWith little warning, the ground itself suddenly gives way, be it a caused by a small avalanche, rockslide, mudslide, or the sudden opening of a sinkhole.\r\n\r\n---\n\n**Survival** DC 22 (expert)\r\n\r\n**Preparation**\r\nDC 22 Perception to take a less dangerous path through the region.\r\n\r\n**Routine** A subsidence has no duration. Those who aren't prepared when it occurs attempt a DC 22 Reflex save.\n\n**Critical Success** The character avoids the unexpected subsidence entirely.<br />\n**Success** The character takes 4d6 bludgeoning damage from the subsidence.<br />\n**Failure** The character takes 8d6 bludgeoning damage from the subsidence. If the subsidence is a sinkhole, the character ends up at the bottom of a hole 1d6 × 5 feet down and can clamber out with a successful DC 22 [Athletics](/Skills.aspx?ID=3) check. If the subsidence is a mudslide, rockslide, or avalanche, the character is knocked [prone](/Conditions.aspx?ID=31) and swept 200 feet away.<br />\n**Critical Failure** The character takes 16d6 bludgeoning damage from the subsidence and is buried. Buried PCs are at risk of [suffocation](/Rules.aspx?ID=568); see [Burial](/Rules.aspx?ID=647) for details on how a buried creature can be rescued.\r\n\r\n---\r\n\r\n**Major Subsidence** (12th) Increase DCs associated with the subsidence to 32, and bludgeoning damage increases to 8d6 for a successful save, 16d6 for a failed save, and 32d6 for a critical failure.",
+  "name": "Subsidence",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 124",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\n\n**Survival** DC 22 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith little warning, the ground itself suddenly gives way, be it a caused by a small avalanche, rockslide, mudslide, or the sudden opening of a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 124"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124",
+  "speed": {},
+  "summary": "With little warning, the ground itself suddenly gives way, be it a caused by a small avalanche, rockslide, mudslide, or the sudden opening of a …",
+  "summary_markdown": "With little warning, the ground itself suddenly gives way, be it a caused by a small avalanche, rockslide, mudslide, or the sudden opening of a …",
+  "text": " Subsidence Source Kingmaker Companion Guide pg. 124 With little warning, the ground itself suddenly gives way, be it a caused by a small avalanche, rockslide, mudslide, or the sudden opening of a sinkhole. --- Survival DC 22 (expert) Preparation DC 22 Perception to take a less dangerous path through the region. Routine A subsidence has no duration. Those who aren't prepared when it occurs attempt a DC 22 Reflex save. Critical Success The character avoids the unexpected subsidence entirely. Success The character takes 4d6 bludgeoning damage from the subsidence. Failure The character takes 8d6 bludgeoning damage from the subsidence. If the subsidence is a sinkhole, the character ends up at the bottom of a hole 1d6 × 5 feet down and can clamber out with a successful DC 22 Athletics check. If the subsidence is a mudslide, rockslide, or avalanche, the character is knocked prone and swept 200 feet away. Critical Failure The character takes 16d6 bludgeoning damage from the subsidence and is buried. Buried PCs are at risk of suffocation; see Burial for details on how a buried creature can be rescued. --- Major Subsidence (12th) Increase DCs associated with the subsidence to 32, and bludgeoning damage increases to 8d6 for a successful save, 16d6 for a failed save, and 32d6 for a critical failure.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-8",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 6\" pfs=\"\">[Supernatural Storm](/WeatherHazards.aspx?ID=8)</title>\r\n\r\n<traits>\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\r\n\r\nWhat starts out as a [heavy downpour](/WeatherHazards.aspx?ID=6) or a [windstorm](/WeatherHazards.aspx?ID=12) takes a turn for the outlandish, as something strange begins raining down from the heavens above: bolts of fire, acid rain, or even something like a rain of frogs or shards of stained glass.\r\n\r\n---\n\n**Survival** DC 25 (expert)\r\n\r\n**Preparation**\r\nDC 25 [Nature](/Skills.aspx?ID=10) (trained) or DC 25 [Survival](/Skills.aspx?ID=16) (trained) to find shelter in the region.\r\n\r\n**Routine** (1+ hours) Supernatural storms are the result of the growing influence of the [First World](/Planes.aspx?ID=10) over the region. When they occur, characters who aren't in shelter take 4d8+18 points of damage each hour (DC 25 [basic](/Rules.aspx?ID=329) Reflex save). The type of damage depends on the type of storm, as chosen by you. For example, acid rain would cause acid damage, while a rain of frogs would cause bludgeoning damage.\r\n\r\n---\r\n\r\n**Escalated Storm** (Level +1) Supernatural storms can scale upward in level as you need to continue challenging the PCs. Use the tables for [building hazards](/Rules.aspx?ID=1043) to set the escalated storm's DCs—it uses the high DCs for Survival and Prepare from [Table 2–13](/Rules.aspx?ID=1047) of that book, and the damage value is the [Simple Dmg value from Table 2–16](/Rules.aspx?ID=1049).",
+  "name": "Supernatural Storm",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 124",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\n\n**Survival** DC 25 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhat starts out as a  heavy downpour  or a  windstorm  takes a turn for the outlandish, as something strange begins raining down from the heavens …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 124"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124",
+  "speed": {},
+  "summary": "What starts out as a  heavy downpour  or a  windstorm  takes a turn for the outlandish, as something strange begins raining down from the heavens …",
+  "summary_markdown": "What starts out as a  heavy downpour  or a  windstorm  takes a turn for the outlandish, as something strange begins raining down from the heavens …",
+  "text": " Supernatural Storm Source Kingmaker Companion Guide pg. 124 What starts out as a heavy downpour or a windstorm takes a turn for the outlandish, as something strange begins raining down from the heavens above: bolts of fire, acid rain, or even something like a rain of frogs or shards of stained glass. --- Survival DC 25 (expert) Preparation DC 25 Nature (trained) or DC 25 Survival (trained) to find shelter in the region. Routine (1+ hours) Supernatural storms are the result of the growing influence of the First World over the region. When they occur, characters who aren't in shelter take 4d8+18 points of damage each hour (DC 25 basic Reflex save). The type of damage depends on the type of storm, as chosen by you. For example, acid rain would cause acid damage, while a rain of frogs would cause bludgeoning damage. --- Escalated Storm (Level +1) Supernatural storms can scale upward in level as you need to continue challenging the PCs. Use the tables for building hazards to set the escalated storm's DCs—it uses the high DCs for Survival and Prepare from Table 2–13 of that book, and the damage value is the Simple Dmg value from Table 2–16.",
+  "trait": [
+   "Primal",
+   "Weather"
+  ],
+  "trait_group": [
+   "Tradition",
+   "Hazard"
+  ],
+  "trait_markdown": "[Primal](/Traits.aspx?ID=134), [Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Primal",
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-9",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 7\" pfs=\"\">[Thunderstorm](/WeatherHazards.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\r\n\r\nDark clouds announce their arrival with distant peals of thunder and flashes of lightning.\r\n\r\n---\n\n**Survival** DC 27 (expert)\r\n\r\n**Preparation**\r\nDC 23 [Survival](/Skills.aspx?ID=16) (trained) to minimize chances of being struck by lightning.\r\n\r\n**Routine** (8+ hours) A thunderstorm functions as a [heavy downpour](/WeatherHazards.aspx?ID=6) during its duration, but with the added danger of being struck by lightning. If the PCs prepare for a thunderstorm, they can avoid lightning strikes and still travel by taking the [Defend](/Actions.aspx?ID=512) exploration activity (taking care to move carefully, staying low, and avoiding trees and the like rather than raising shields). A PC who travels without taking this activity or doesn't seek shelter must attempt a DC 6 flat check each hour; on a failure, that PC is struck by lightning and takes 8d8 electricity damage (DC 25 [basic](/Rules.aspx?ID=329) Reflex save).\r\n\r\n---\r\n\r\n**Severe Thunderstorm** (13th) A severe thunderstorm's Survival DC increases to 37 and its Prepare DC to 32. A PC at risk of being struck by lightning must attempt a DC 10 flat check 1d4 times each hour and is struck by lightning on each failure for 14d8 electricity damage (DC 33 basic Reflex save).",
+  "name": "Thunderstorm",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 124",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124\n\n**Survival** DC 27 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDark clouds announce their arrival with distant peals of thunder and flashes of lightning.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 124"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 124",
+  "speed": {},
+  "summary": "Dark clouds announce their arrival with distant peals of thunder and flashes of lightning.",
+  "summary_markdown": "Dark clouds announce their arrival with distant peals of thunder and flashes of lightning.",
+  "text": " Thunderstorm Source Kingmaker Companion Guide pg. 124 Dark clouds announce their arrival with distant peals of thunder and flashes of lightning. --- Survival DC 27 (expert) Preparation DC 23 Survival (trained) to minimize chances of being struck by lightning. Routine (8+ hours) A thunderstorm functions as a heavy downpour during its duration, but with the added danger of being struck by lightning. If the PCs prepare for a thunderstorm, they can avoid lightning strikes and still travel by taking the Defend exploration activity (taking care to move carefully, staying low, and avoiding trees and the like rather than raising shields). A PC who travels without taking this activity or doesn't seek shelter must attempt a DC 6 flat check each hour; on a failure, that PC is struck by lightning and takes 8d8 electricity damage (DC 25 basic Reflex save). --- Severe Thunderstorm (13th) A severe thunderstorm's Survival DC increases to 37 and its Prepare DC to 32. A PC at risk of being struck by lightning must attempt a DC 10 flat check 1d4 times each hour and is struck by lightning on each failure for 14d8 electricity damage (DC 33 basic Reflex save).",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-10",
+  "level": 12,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 12\" pfs=\"\">[Tornado](/WeatherHazards.aspx?ID=10)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\r\n\r\nStrangely colored or ominously shaped clouds often presage the arrival of a distinctive funnel cloud's arrival in the region.\r\n\r\n---\r\n\r\n**Requirements**\r\nThe PCs are in a hex that contains no significant hills or mountains.\r\n\r\n**Survival** DC 27 (expert)\r\n\r\n**Preparation**\r\nDC 35 [Survival](/Skills.aspx?ID=16) (master) to know how best to prepare for the tornado if no existing shelters are available.\r\n\r\n**Routine** (1+ hours) When a tornado touches down, the funnel cloud can wreak amazing damage. While the area affected by a tornado is relatively limited, predicting where the tornado will travel during its brief, destructive lifetime is difficult. Underground chambers can provide shelter from tornadoes, but characters who seek shelter above ground are still in danger. Each hour that a tornado persists in the area, attempt a DC 16 flat check (for each PC sheltering above ground) or a DC 6 flat check (for each PC who isn't sheltered at all). On a success, that PC is exposed to the tornado's winds or its hurled debris and must attempt a DC 32 Reflex save.\n\n**Critical Success** The character avoids the tornado and its debris.<br />\n**Success** The character takes 4d6 bludgeoning and 4d6 piercing damage from hurled debris, but they avoid further damage from that particular tornado for the remainder of the hour.<br />\n**Failure** The character takes 8d6 bludgeoning and 8d6 piercing damage from hurled debris, and they must save against the tornado's effects again on the following round.<br />\n**Critical Failure** As failure, but the character is also lifted into the air and hurled 120 feet in a random direction, taking an additional 60 points of bludgeoning damage from the fall.\r\n\r\n---\r\n\r\n**Tornado Swarm** (17th) The most devastating of these storms involve multiple tornadoes touching down at once. In a tornado swarm, the Survival DC increases to 34, the Prepare DC to 43, and the save DC against the tornado's effects to 38. Additionally, each hour that the tornado swarm persists in the area, make four flat checks for each PC, potentially exposing a PC to many more tornado saving throws in an hour.",
+  "name": "Tornado",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 125",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "The PCs are in a hex that contains no significant hills or mountains.",
+  "requirement_markdown": "The PCs are in a hex that contains no significant hills or mountains.",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\r\n\r\n**Requirements**\r\nThe PCs are in a hex that contains no significant hills or mountains.\r\n\r\n**Survival** DC 27 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nStrangely colored or ominously shaped clouds often presage the arrival of a distinctive funnel cloud's arrival in the region.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 125"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125",
+  "speed": {},
+  "summary": "Strangely colored or ominously shaped clouds often presage the arrival of a distinctive funnel cloud's arrival in the region.",
+  "summary_markdown": "Strangely colored or ominously shaped clouds often presage the arrival of a distinctive funnel cloud's arrival in the region.",
+  "text": " Tornado Source Kingmaker Companion Guide pg. 125 Strangely colored or ominously shaped clouds often presage the arrival of a distinctive funnel cloud's arrival in the region. --- Requirements The PCs are in a hex that contains no significant hills or mountains. Survival DC 27 (expert) Preparation DC 35 Survival (master) to know how best to prepare for the tornado if no existing shelters are available. Routine (1+ hours) When a tornado touches down, the funnel cloud can wreak amazing damage. While the area affected by a tornado is relatively limited, predicting where the tornado will travel during its brief, destructive lifetime is difficult. Underground chambers can provide shelter from tornadoes, but characters who seek shelter above ground are still in danger. Each hour that a tornado persists in the area, attempt a DC 16 flat check (for each PC sheltering above ground) or a DC 6 flat check (for each PC who isn't sheltered at all). On a success, that PC is exposed to the tornado's winds or its hurled debris and must attempt a DC 32 Reflex save. Critical Success The character avoids the tornado and its debris. Success The character takes 4d6 bludgeoning and 4d6 piercing damage from hurled debris, but they avoid further damage from that particular tornado for the remainder of the hour. Failure The character takes 8d6 bludgeoning and 8d6 piercing damage from hurled debris, and they must save against the tornado's effects again on the following round. Critical Failure As failure, but the character is also lifted into the air and hurled 120 feet in a random direction, taking an additional 60 points of bludgeoning damage from the fall. --- Tornado Swarm (17th) The most devastating of these storms involve multiple tornadoes touching down at once. In a tornado swarm, the Survival DC increases to 34, the Prepare DC to 43, and the save DC against the tornado's effects to 38. Additionally, each hour that the tornado swarm persists in the area, make four flat checks for each PC, potentially exposing a PC to many more tornado saving throws in an hour.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-11",
+  "level": 4,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 4\" pfs=\"\">[Wildfire](/WeatherHazards.aspx?ID=11)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\r\n\r\nA fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a supernatural source like a creature's fiery breath or a fire spell being cast by a bandit in the region. Wildfires cannot occur during [heavy downpours](/WeatherHazards.aspx?ID=6) or [blizzards](/WeatherHazards.aspx?ID=1), and if such an event starts in the area, it brings an existing wildfire to an end.\r\n\r\n---\n\n**Survival** DC 22 (trained)\r\n\r\n**Preparation**\r\nDC 18 [Survival](/Skills.aspx?ID=16) (trained) or DC 25 Perception to notice plumes of smoke or the tang of smoke in the air.\r\n\r\n**Routine** (1+ hour) An unsheltered character must succeed at a DC 21 Reflex save or take 6d6 fire damage (12d6 fire damage on a critical failure). If the character has sheltered in a temporary shelter or a flammable building, attempt a DC 16 flat check each hour the fire persists; on a failure, the fire consumes the shelter.\r\n\r\n---\r\n\r\n**Severe Wildfire** (10th) A severe wildfire has a duration of 8+ hours. Unsheltered characters must succeed at a DC 29 Reflex save or take 12d6 fire damage (24d6 fire damage on a critical failure), and it's a DC 11 flat check for the temporary or flammable shelter to avoid burning. The heavy smoke in the area is thick enough to function as [fog](/Rules.aspx?ID=4).",
+  "name": "Wildfire",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 125",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\n\n**Survival** DC 22 (trained)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 125"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125",
+  "speed": {},
+  "summary": "A fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a …",
+  "summary_markdown": "A fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a …",
+  "text": " Wildfire Source Kingmaker Companion Guide pg. 125 A fire spreads through the region, be it one accidentally started by a poorly maintained campfire, deliberate arson, a lightning strike, or from a supernatural source like a creature's fiery breath or a fire spell being cast by a bandit in the region. Wildfires cannot occur during heavy downpours or blizzards, and if such an event starts in the area, it brings an existing wildfire to an end. --- Survival DC 22 (trained) Preparation DC 18 Survival (trained) or DC 25 Perception to notice plumes of smoke or the tang of smoke in the air. Routine (1+ hour) An unsheltered character must succeed at a DC 21 Reflex save or take 6d6 fire damage (12d6 fire damage on a critical failure). If the character has sheltered in a temporary shelter or a flammable building, attempt a DC 16 flat check each hour the fire persists; on a failure, the fire consumes the shelter. --- Severe Wildfire (10th) A severe wildfire has a duration of 8+ hours. Unsheltered characters must succeed at a DC 29 Reflex save or take 12d6 fire damage (24d6 fire damage on a critical failure), and it's a DC 11 flat check for the temporary or flammable shelter to avoid burning. The heavy smoke in the area is thick enough to function as fog.",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "weather-hazard",
+  "exclude_from_search": false,
+  "hazard_type": "Weather",
+  "id": "weather-hazard-12",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Weather Hazard 1\" pfs=\"\">[Windstorm](/WeatherHazards.aspx?ID=12)</title>\r\n\r\n<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\r\n\r\nHigh winds wreak havoc and disrupt travel, and they may even cause damage as trees or other objects are blown over.\r\n\r\n---\n\n**Survival** DC 19 (expert)\r\n\r\n**Preparation**\r\nDC 19 [Nature](/Skills.aspx?ID=10) (expert) or DC 16 [Survival](/Skills.aspx?ID=16) to know how and where to find shelter from the upcoming storm.\r\n\r\n**Routine** (24+ hours) As long as the windstorm persists, the [effects of wind on movement](/Rules.aspx?ID=644) are in effect. Overland travel in a windstorm is treated as if moving through difficult terrain. Once every 8 hours, attempt a DC 18 flat check; on a success, a randomly chosen PC who isn't sheltered is struck by debris.<br /> **Debris Strike** <actions string=\"Single Action\" /> The targeted PC takes 2d6 bludgeoning damage (DC 16 [basic](/Rules.aspx?ID=329) Reflex save).",
+  "name": "Windstorm",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 125",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Weather\" url=\"/Traits.aspx?ID=464\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125\n\n**Survival** DC 19 (expert)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHigh winds wreak havoc and disrupt travel, and they may even cause damage as trees or other objects are blown over.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 125"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 125",
+  "speed": {},
+  "summary": "High winds wreak havoc and disrupt travel, and they may even cause damage as trees or other objects are blown over.",
+  "summary_markdown": "High winds wreak havoc and disrupt travel, and they may even cause damage as trees or other objects are blown over.",
+  "text": " Windstorm Source Kingmaker Companion Guide pg. 125 High winds wreak havoc and disrupt travel, and they may even cause damage as trees or other objects are blown over. --- Survival DC 19 (expert) Preparation DC 19 Nature (expert) or DC 16 Survival to know how and where to find shelter from the upcoming storm. Routine (24+ hours) As long as the windstorm persists, the effects of wind on movement are in effect. Overland travel in a windstorm is treated as if moving through difficult terrain. Once every 8 hours, attempt a DC 18 flat check; on a success, a randomly chosen PC who isn't sheltered is struck by debris. Debris Strike Single Action The targeted PC takes 2d6 bludgeoning damage (DC 16 basic Reflex save).",
+  "trait": [
+   "Weather"
+  ],
+  "trait_group": [
+   "Hazard"
+  ],
+  "trait_markdown": "[Weather](/Traits.aspx?ID=464)",
+  "trait_raw": [
+   "Weather"
+  ],
+  "type": "Weather Hazard",
+  "url": "/WeatherHazards.aspx?ID=12",
+  "weakness": {}
+ }
+]

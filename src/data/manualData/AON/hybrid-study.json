@@ -1,0 +1,282 @@
+[
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-1",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Inexorable Iron](/HybridStudies.aspx?ID=1)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\n\nOnce you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield.\n\n When you enter [Arcane Cascade](/Actions.aspx?ID=756) stance and at the start of each of your turns while you're in that stance, if you're wielding a melee weapon in two hands, you gain temporary Hit Points equal to half your level (minimum 1 temporary HP).\n\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Thunderous Strike](/Spells.aspx?ID=1044)\r\n\r\n**Studious Spell (7th)** [Enlarge](/Spells.aspx?ID=102)\r\n\r\n**Studious Spell (11th)** [Earthbind](/Spells.aspx?ID=94)\r\n\r\n**Studious Spell (13th)** [Dimensional Anchor](/Spells.aspx?ID=70)\r\n\r\n</column>",
+  "name": "Inexorable Iron",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 39",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nOnce you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 39"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>",
+  "speed": {},
+  "spell": [
+   "Thunderous Strike",
+   "Enlarge",
+   "Earthbind",
+   "Dimensional Anchor"
+  ],
+  "summary": "Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an …",
+  "summary_markdown": "Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an …",
+  "text": " Inexorable Iron Source Secrets of Magic pg. 39 1.1 Once you begin along a path, nothing can stop you from reaching its end. You transform the mass of a greataxe, greatsword, or polearm into an unstoppable force to augment your own striking power or keep you standing on the battlefield. When you enter Arcane Cascade stance and at the start of each of your turns while you're in that stance, if you're wielding a melee weapon in two hands, you gain temporary Hit Points equal to half your level (minimum 1 temporary HP). Conflux Spell Thunderous Strike Studious Spell (7th) Enlarge Studious Spell (11th) Earthbind Studious Spell (13th) Dimensional Anchor ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-2",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Laughing Shadow](/HybridStudies.aspx?ID=2)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) Laughing shadow magus gets time jump as their 11th level Studious Spell instead of the limited shift blame._\r\n\r\nMagic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing shadow of spell and blade, always one step ahead of your foes, always with a trick up your sleeve.\n\n While in [Arcane Cascade](/Actions.aspx?ID=756) stance, you gain a +5-foot status bonus to your Speeds, or a +10-foot bonus if you're unarmored. If you have a free hand while in the stance and are attacking a [flat-footed](/Conditions.aspx?ID=16) creature, you increase the extra damage to 3, to 5 if you have weapon specialization, or to 7 if you have greater weapon specialization. You must have your other hand completely free; the extra damage doesn't apply if you have a [free-hand](/Traits.aspx?ID=181) weapon or other item in that hand, even if you would normally be able to use the hand for other things.\n\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Dimensional Assault](/Spells.aspx?ID=1037)\r\n\r\n**Studious Spell (7th)** [Mirror Image](/Spells.aspx?ID=197)\r\n\r\n**Studious Spell (11th)** [Shift Blame](/Spells.aspx?ID=997)\r\n\r\n**Studious Spell (13th)** [Dimension Door](/Spells.aspx?ID=69)\r\n\r\n</column>",
+  "name": "Laughing Shadow",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 39",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMagic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 39"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>",
+  "speed": {},
+  "spell": [
+   "Dimensional Assault",
+   "Mirror Image",
+   "Shift Blame",
+   "Dimension Door"
+  ],
+  "summary": "Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing …",
+  "summary_markdown": "Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing …",
+  "text": " Laughing Shadow Source Secrets of Magic pg. 39 1.1 PFS Note Laughing shadow magus gets time jump as their 11th level Studious Spell instead of the limited shift blame. Magic is freeing, a means to your ends, and you can use it to go where you want, do as you please, and avoid the consequences. You are a laughing shadow of spell and blade, always one step ahead of your foes, always with a trick up your sleeve. While in Arcane Cascade stance, you gain a +5-foot status bonus to your Speeds, or a +10-foot bonus if you're unarmored. If you have a free hand while in the stance and are attacking a flat-footed creature, you increase the extra damage to 3, to 5 if you have weapon specialization, or to 7 if you have greater weapon specialization. You must have your other hand completely free; the extra damage doesn't apply if you have a free-hand weapon or other item in that hand, even if you would normally be able to use the hand for other things. Conflux Spell Dimensional Assault Studious Spell (7th) Mirror Image Studious Spell (11th) Shift Blame Studious Spell (13th) Dimension Door ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-3",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Sparkling Targe](/HybridStudies.aspx?ID=3)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\n\nYou've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows through you, your shield can block impossible things, even a dragon's breath or a [_magic missile_](/Spells.aspx?ID=180).\n\n You gain the [Shield Block](/Feats.aspx?ID=839) general feat.\n\n When you're in [Arcane Cascade](/Actions.aspx?ID=756) stance with your shield raised, your circumstance bonus to AC from your shield also applies to your saves against spells and other magical effects. In addition, damage you take as a result of a spell or magical effect while you're in Arcane Cascade can trigger your Shield Block reaction, even if the damage isn't physical. When blocking damage in this way, increase your shield's Hardness by an amount equal to the extra damage from Arcane Cascade (typically 1, but 2 if you have weapon specialization, or 3 if you have greater weapon specialization). These benefits apply whether you're using an actual shield, the [_shield_](/Spells.aspx?ID=280) spell, or something else that works like a shield (such as a raised tome if you have the [Raise a Tome](/Feats.aspx?ID=2848) feat).\n\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Shielding Strike](/Spells.aspx?ID=1041)\r\n\r\n**Studious Spell (7th)** [Resist Energy](/Spells.aspx?ID=256)\r\n\r\n**Studious Spell (11th)** [Warding Aggression](/Spells.aspx?ID=1029)\r\n\r\n**Studious Spell (13th)** [Stoneskin](/Spells.aspx?ID=312)\r\n\r\n</column>",
+  "name": "Sparkling Targe",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 39",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 39"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>",
+  "speed": {},
+  "spell": [
+   "Shielding Strike",
+   "Resist Energy",
+   "Warding Aggression",
+   "Stoneskin"
+  ],
+  "summary": "You've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows …",
+  "summary_markdown": "You've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows …",
+  "text": " Sparkling Targe Source Secrets of Magic pg. 39 1.1 You've studied the applications of magic, training yourself to perform not just offensive maneuvers but defensive tactics as well. When magic flows through you, your shield can block impossible things, even a dragon's breath or a magic missile . You gain the Shield Block general feat. When you're in Arcane Cascade stance with your shield raised, your circumstance bonus to AC from your shield also applies to your saves against spells and other magical effects. In addition, damage you take as a result of a spell or magical effect while you're in Arcane Cascade can trigger your Shield Block reaction, even if the damage isn't physical. When blocking damage in this way, increase your shield's Hardness by an amount equal to the extra damage from Arcane Cascade (typically 1, but 2 if you have weapon specialization, or 3 if you have greater weapon specialization). These benefits apply whether you're using an actual shield, the shield spell, or something else that works like a shield (such as a raised tome if you have the Raise a Tome feat). Conflux Spell Shielding Strike Studious Spell (7th) Resist Energy Studious Spell (11th) Warding Aggression Studious Spell (13th) Stoneskin ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-4",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Starlit Span](/HybridStudies.aspx?ID=4)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\n\nWith magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, transcending the space between you and your target even with spells that normally require direct physical contact. \n\nWhen you use [Spellstrike](/Actions.aspx?ID=755), you can make a ranged weapon or ranged unarmed Strike, as long as the target is within the first range increment of your ranged weapon or ranged unarmed attack. You can deliver the spell even if its range is shorter than the range increment of your ranged attack.\n\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Shooting Star](/Spells.aspx?ID=1042)\r\n\r\n**Studious Spell (7th)** [Darkvision](/Spells.aspx?ID=60)\r\n\r\n**Studious Spell (11th)** [Wall of Wind](/Spells.aspx?ID=367)\r\n\r\n**Studious Spell (13th)** [Freedom of Movement](/Spells.aspx?ID=128)\r\n\r\n</column>",
+  "name": "Starlit Span",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 39",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWith magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 39"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 39 <sup>1.1</sup>",
+  "speed": {},
+  "spell": [
+   "Shooting Star",
+   "Darkvision",
+   "Wall of Wind",
+   "Freedom of Movement"
+  ],
+  "summary": "With magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, …",
+  "summary_markdown": "With magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, …",
+  "text": " Starlit Span Source Secrets of Magic pg. 39 1.1 With magic, the sky's the limit, and you can't be bound by the confines of physical proximity. Your power reaches as far as your senses can perceive, transcending the space between you and your target even with spells that normally require direct physical contact. When you use Spellstrike, you can make a ranged weapon or ranged unarmed Strike, as long as the target is within the first range increment of your ranged weapon or ranged unarmed attack. You can deliver the spell even if its range is shorter than the range increment of your ranged attack. Conflux Spell Shooting Star Studious Spell (7th) Darkvision Studious Spell (11th) Wall of Wind Studious Spell (13th) Freedom of Movement ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-5",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Twisting Tree](/HybridStudies.aspx?ID=5)</title>\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 40 <sup>1.1</sup>\n\nThe staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement and martial weapon alike—the foundation of a fighting style.\n\n While you wield a staff in one hand, the staff adjusts in shape and weight, gaining the [agile](/Traits.aspx?ID=170) trait and increasing its damage die size to 1d6. While you wield a staff in both hands, it lengthens, twists, and reshapes, gaining the [parry](/Traits.aspx?ID=190), [reach](/Traits.aspx?ID=192), and [trip](/Traits.aspx?ID=196) traits. While you're in [Arcane Cascade](/Actions.aspx?ID=756) stance, you can Interact or Release to change your grip on the weapon as a free action when you Strike with your staff, including Strikes made in a [Spellstrike](/Actions.aspx?ID=755). This happens before you roll your attack roll. You can also Interact to change your grip on the staff as a free action triggered at the end of your turn.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Spinning Staff](/Spells.aspx?ID=1043)\r\n\r\n**Studious Spell (7th)** [Magic Mouth](/Spells.aspx?ID=181)\r\n\r\n**Studious Spell (11th)** [Slow](/Spells.aspx?ID=289)\r\n\r\n**Studious Spell (13th)** [Blink](/Spells.aspx?ID=27)\r\n\r\n</column>",
+  "name": "Twisting Tree",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 40 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 40 <sup>1.1</sup>",
+  "speed": {},
+  "spell": [
+   "Spinning Staff",
+   "Magic Mouth",
+   "Slow",
+   "Blink"
+  ],
+  "summary": "The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement …",
+  "summary_markdown": "The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement …",
+  "text": " Twisting Tree Source Secrets of Magic pg. 40 1.1 The staff is perhaps one of the simplest of weapons, but this simplicity belies its elegance and versatility. To you, a staff is casting implement and martial weapon alike—the foundation of a fighting style. While you wield a staff in one hand, the staff adjusts in shape and weight, gaining the agile trait and increasing its damage die size to 1d6. While you wield a staff in both hands, it lengthens, twists, and reshapes, gaining the parry, reach, and trip traits. While you're in Arcane Cascade stance, you can Interact or Release to change your grip on the weapon as a free action when you Strike with your staff, including Strikes made in a Spellstrike. This happens before you roll your attack roll. You can also Interact to change your grip on the staff as a free action triggered at the end of your turn. Conflux Spell Spinning Staff Studious Spell (7th) Magic Mouth Studious Spell (11th) Slow Studious Spell (13th) Blink ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-7",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Aloof Firmament](/HybridStudies.aspx?ID=7)</title>\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112\n\nYou're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and immortality, and you illustrate its lessons with an academician's rigor. Through your training, you've learned to move about with grace and create opportunity to strike foes.\n\n You gain the [Cat Fall](/Feats.aspx?ID=5131) general feat, though you benefit from it only as long as you aren't using a shield and are wearing light or no armor.\n\n While in Arcane Cascade stance, your steps become even lighter, giving you the benefits of the [Quick Jump](/Feats.aspx?ID=5196) general feat. When you [Fly](/Actions.aspx?ID=2312), [Leap](/Actions.aspx?ID=2298), [High Jump](/Actions.aspx?ID=2377), or [Long Jump](/Actions.aspx?ID=2378) while in that stance, your movement doesn't trigger reactions. If you take one of these actions, the next Strike you make before the end of your turn with a one-handed weapon in the sword group has greater damage from Arcane Cascade. Increase the extra damage to 4; increase it to 6 if you have weapon specialization, or to 8 if you have greater weapon specialization. You must have your other hand completely free; the extra damage doesn't apply if you have a free-hand weapon or other item in that hand, even if you would normally be able to use the hand for other things.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Sky Laughs At Waves](/Spells.aspx?ID=2135)\r\n\r\n**Studious Spell (7th)** [Water Walk](/Spells.aspx?ID=1756)\r\n\r\n**Studious Spell (11th)** [Wall of Wind](/Spells.aspx?ID=1753)\r\n\r\n**Studious Spell (13th)** [Variable Gravity](/Spells.aspx?ID=1026)\r\n\r\n</column>",
+  "name": "Aloof Firmament",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 112",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-28",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 112"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112",
+  "speed": {},
+  "spell": [
+   "Sky Laughs At Waves",
+   "Water Walk",
+   "Wall of Wind",
+   "Variable Gravity"
+  ],
+  "summary": "You're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and …",
+  "summary_markdown": "You're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and …",
+  "text": " Aloof Firmament Source Tian Xia Character Guide pg. 112 You're a philosopher of the sword who codifies your study of qinggong along principles arcane and martial. Your blade teaches morality and immortality, and you illustrate its lessons with an academician's rigor. Through your training, you've learned to move about with grace and create opportunity to strike foes. You gain the Cat Fall general feat, though you benefit from it only as long as you aren't using a shield and are wearing light or no armor. While in Arcane Cascade stance, your steps become even lighter, giving you the benefits of the Quick Jump general feat. When you Fly, Leap, High Jump, or Long Jump while in that stance, your movement doesn't trigger reactions. If you take one of these actions, the next Strike you make before the end of your turn with a one-handed weapon in the sword group has greater damage from Arcane Cascade. Increase the extra damage to 4; increase it to 6 if you have weapon specialization, or to 8 if you have greater weapon specialization. You must have your other hand completely free; the extra damage doesn't apply if you have a free-hand weapon or other item in that hand, even if you would normally be able to use the hand for other things. Conflux Spell Sky Laughs At Waves Studious Spell (7th) Water Walk Studious Spell (11th) Wall of Wind Studious Spell (13th) Variable Gravity ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "hybrid-study",
+  "exclude_from_search": false,
+  "id": "hybrid-study-8",
+  "markdown": "<title level=\"1\" right=\"Magus Hybrid Study \" pfs=\"Standard\">[Unfurling Brocade](/HybridStudies.aspx?ID=8)</title>\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112\n\nYou disdain others’ reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your mastery of qinggong allows qi-infused fabric to tear flesh, bind blades, and pierce steel.\n\n You can create a special weapon, qi-infused fabric, by Interacting to grip a length of cloth of 1 Bulk or less and filling it with your qi. If you Interact to draw the object, you can do this as part of that action. For most unfurling brocade magi, this item is a scarf, sash, ribbon, or a similarly voluminous article of worn clothing, such as long sleeves. You can use the fabric as a [bladed scarf](/Weapons.aspx?ID=273). Unlike a normal bladed scarf, you have the option to wield the fabric in one hand instead of two. Its damage die is d4 if held in one hand. If you’re wearing handwraps of mighty blows, you can apply any of its runes to the fabric, provided those runes could be added to a bladed scarf. This begins when you wield the fabric and ends when you cease doing so.\n\n While in Arcane Cascade stance, the magical energy flowing through your fabric partially animates it to accomplish an even greater range of tricks.\n\n<ul><li>If you critically succeed at an Athletics check to [Disarm](/Actions.aspx?ID=2383), you can spend a single action immediately afterward to flick your fabric, causing the disarmed object to fall to the ground in your space rather than in your opponent’s.</li><li>Your fabric gains the [grapple](/Traits.aspx?ID=619) trait. If you succeed at an Athletics check to [Grapple](/Actions.aspx?ID=2376) using your fabric, you can spend a single action immediately afterward to pull the creature 5 feet toward you.</li><li>When you attempt to [Trip](/Actions.aspx?ID=2382) a foe using your fabric, the target can be two sizes larger than you instead of one.</li></ul>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Conflux Spell** [Home Among Mulberry Leaves](/Spells.aspx?ID=2134)\r\n\r\n**Studious Spell (7th)** [Web](/Spells.aspx?ID=2045)\r\n\r\n**Studious Spell (11th)** [Whirling Scarves](/Spells.aspx?ID=593)\r\n\r\n**Studious Spell (13th)** [Planar Tether](/Spells.aspx?ID=1636)\r\n\r\n</column>",
+  "name": "Unfurling Brocade",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 112",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-28",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou disdain others’ reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 112"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 112",
+  "speed": {},
+  "spell": [
+   "Home Among Mulberry Leaves",
+   "Web",
+   "Whirling Scarves",
+   "Planar Tether"
+  ],
+  "summary": "You disdain others’ reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your …",
+  "summary_markdown": "You disdain others’ reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your …",
+  "text": " Unfurling Brocade Source Tian Xia Character Guide pg. 112 You disdain others’ reliance on crude contrivances of iron, instead favoring the elegance of fabric, with thread and brocade your panoply. Your mastery of qinggong allows qi-infused fabric to tear flesh, bind blades, and pierce steel. You can create a special weapon, qi-infused fabric, by Interacting to grip a length of cloth of 1 Bulk or less and filling it with your qi. If you Interact to draw the object, you can do this as part of that action. For most unfurling brocade magi, this item is a scarf, sash, ribbon, or a similarly voluminous article of worn clothing, such as long sleeves. You can use the fabric as a bladed scarf. Unlike a normal bladed scarf, you have the option to wield the fabric in one hand instead of two. Its damage die is d4 if held in one hand. If you’re wearing handwraps of mighty blows, you can apply any of its runes to the fabric, provided those runes could be added to a bladed scarf. This begins when you wield the fabric and ends when you cease doing so. While in Arcane Cascade stance, the magical energy flowing through your fabric partially animates it to accomplish an even greater range of tricks. If you critically succeed at an Athletics check to Disarm, you can spend a single action immediately afterward to flick your fabric, causing the disarmed object to fall to the ground in your space rather than in your opponent’s. Your fabric gains the grapple trait. If you succeed at an Athletics check to Grapple using your fabric, you can spend a single action immediately afterward to pull the creature 5 feet toward you. When you attempt to Trip a foe using your fabric, the target can be two sizes larger than you instead of one. Conflux Spell Home Among Mulberry Leaves Studious Spell (7th) Web Studious Spell (11th) Whirling Scarves Studious Spell (13th) Planar Tether ",
+  "type": "Magus Hybrid Study",
+  "url": "/HybridStudies.aspx?ID=8",
+  "weakness": {}
+ }
+]

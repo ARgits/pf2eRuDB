@@ -1,0 +1,976 @@
+[
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Family"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-1",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Ancestors](/Mysteries.aspx?ID=1)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 73 <sup>2.0</sup>\n\nThe voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional dwarven community that worships [Torag's](/Deities.aspx?ID=18) [family pantheon](/Deities.aspx?ID=196), or a group that reveres [Erastil](/Deities.aspx?ID=6) or [Pharasma](/Deities.aspx?ID=14). You might commune with powerful psychopomps who shepherd souls to the afterlife, with the River of Souls itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** The whispers of your ancestors have bestowed additional knowledge upon you. You gain an additional ancestry feat at 1st level and another additional ancestry feat at 11th level. These feats can't be ones that grant physiological effects, such as additional senses or unarmed attacks.\r\n\r\n**Trained Skill**\r\n[Society](/Skills.aspx?ID=14)\n\n**Granted Cantrip** [Guidance](/Spells.aspx?ID=142)\r\n\r\n**Initial Revelation Spell** [Ancestral Touch](/Spells.aspx?ID=744)\r\n\r\n**Advanced Revelation Spell** [Ancestral Defense](/Spells.aspx?ID=742)\r\n\r\n**Greater Revelation Spell** [Ancestral Form](/Spells.aspx?ID=743)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=7), [Family](/Domains.aspx?ID=11)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Ancestral Meddling</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nThe ancestral spirits you commune with haunt you and meddle with your belongings and actions, either out of a well-intentioned (but ultimately detrimental) attempt to assist you, as punishment for your audacity in circumventing the traditional means of achieving divine power, for their own amusement, or a mixture of the above. Your hair, clothing, and belongings constantly shift and stir, seemingly of their own volition.\r\n\r\n**Minor Curse** One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll 1d4 on Table 2–4: Ancestral Influence to determine which type of ancestor becomes predominant. This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check.\n\n During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll 1d4 and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day.\r\n\r\n**Moderate Curse** The flat check DC to use other actions is 6, and you get the moderate curse benefit listed for your predominant ancestor in Table 2–4.\r\n\r\n**Major Curse** The flat check DC is 8, and you get the major curse benefit listed for your predominant ancestor instead of the moderate curse benefit.\n\n## Table 2-4: Ancestral Influence\n<row gap=\"tiny\">\n<table> <tr><td>**1d4**</td><td>**Ancestor**</td><td>**Preferred Action**</td><td>**Moderate Curse Benefit**</td><td>**Major Curse Benefit**</td></tr> <tr><td>1</td><td>Martial</td><td>Strikes</td><td>Your Strikes gain a +1 status bonus to attack rolls and a +2 status bonus to damage.</td><td>Your Strikes gain a +1 status bonus to attack rolls and a +6 status bonus to damage.</td></tr> <tr><td>2</td><td>Skillful</td><td>Perception and Skill actions</td><td>You gain a +1 status bonus to skill checks and Perception checks</td><td>You gain a +2 status bonus to skill checks and Perception checks.</td></tr> <tr><td>3</td><td>Spellcasting</td><td>Cast a Spell</td><td>Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level</td><td>Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level + 3</td></tr> <tr><td>4</td><td colspan=\"4\">You choose which ancestor guides your actions.</td></tr> </table></row>",
+  "name": "Ancestors",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 73",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-12"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 73 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nVoices of past generations teach and haunt you.\r\n</summary>",
+  "skill": [
+   "Society"
+  ],
+  "skill_markdown": "[Society](/Skills.aspx?ID=14)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 73"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 73 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Guidance",
+   "Ancestral Touch",
+   "Ancestral Defense",
+   "Ancestral Form"
+  ],
+  "spell_markdown": "[Ancestral Defense](/Spells.aspx?ID=742), [Ancestral Form](/Spells.aspx?ID=743), [Ancestral Touch](/Spells.aspx?ID=744), [Guidance](/Spells.aspx?ID=142)",
+  "summary": "Voices of past generations teach and haunt you.",
+  "summary_markdown": "Voices of past generations teach and haunt you.",
+  "text": " Ancestors Source Advanced Player's Guide pg. 73 2.0 The voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional dwarven community that worships Torag's family pantheon, or a group that reveres Erastil or Pharasma. You might commune with powerful psychopomps who shepherd souls to the afterlife, with the River of Souls itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs. Mystery Benefit The whispers of your ancestors have bestowed additional knowledge upon you. You gain an additional ancestry feat at 1st level and another additional ancestry feat at 11th level. These feats can't be ones that grant physiological effects, such as additional senses or unarmed attacks. Trained Skill Society Granted Cantrip Guidance Initial Revelation Spell Ancestral Touch Advanced Revelation Spell Ancestral Defense Greater Revelation Spell Ancestral Form Related Domains Death, Family Curse of Ancestral Meddling The ancestral spirits you commune with haunt you and meddle with your belongings and actions, either out of a well-intentioned (but ultimately detrimental) attempt to assist you, as punishment for your audacity in circumventing the traditional means of achieving divine power, for their own amusement, or a mixture of the above. Your hair, clothing, and belongings constantly shift and stir, seemingly of their own volition. Minor Curse One of your ancestors becomes predominant in their meddling. The first time you gain this effect each day, roll 1d4 on Table 2–4: Ancestral Influence to determine which type of ancestor becomes predominant. This predominant ancestor guides you to use their preferred type of action. When you try to use one of the types of actions listed for the other ancestors, you must succeed at a DC 4 flat check. On a failure, you spend the action but gain no effect (though you don't lose the spell if you were Casting a Spell). If your action would take 1 minute or longer, it's long enough that you can overcome the meddling, and you don't need to attempt a flat check. During combat or another tense, round-by-round encounter, other ancestors wrestle for control of your actions. When you roll initiative, and then at the end of each of your turns during the encounter, roll 1d4 and change your predominant ancestor appropriately. Once the encounter ends, you return to the influence of the ancestor you first rolled for the day. Moderate Curse The flat check DC to use other actions is 6, and you get the moderate curse benefit listed for your predominant ancestor in Table 2–4. Major Curse The flat check DC is 8, and you get the major curse benefit listed for your predominant ancestor instead of the moderate curse benefit. ## Table 2-4: Ancestral Influence 1d4 Ancestor Preferred Action Moderate Curse Benefit Major Curse Benefit 1 Martial Strikes Your Strikes gain a +1 status bonus to attack rolls and a +2 status bonus to damage. Your Strikes gain a +1 status bonus to attack rolls and a +6 status bonus to damage. 2 Skillful Perception and Skill actions You gain a +1 status bonus to skill checks and Perception checks You gain a +2 status bonus to skill checks and Perception checks. 3 Spellcasting Cast a Spell Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level Non-cantrip spells without a duration gain a status bonus to their damage and healing equal to the spell's level + 3 4 You choose which ancestor guides your actions. ",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Might",
+   "Zeal"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-2",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Battle](/Mysteries.aspx?ID=2)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>\n\nWarlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as [Gorum](/Deities.aspx?ID=7), [Iomedae](/Deities.aspx?ID=9), [Rovagug](/Deities.aspx?ID=15), the Horseman of War [Szuriel](/Deities.aspx?ID=136), the Queen of the Night [Eiseth](/Deities.aspx?ID=169), the Vudrani god [Diomazul](/Deities.aspx?ID=190), and others, or you might find power in the unending conflict between the armies of [Heaven](/Planes.aspx?ID=17) and [Hell](/Planes.aspx?ID=18), the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** You are no stranger to the trappings of warfare. You are trained in medium and heavy armor. At 13th level, if you gain the light armor expertise class feature, you also gain expert proficiency in these armors.\n\n Choose one weapon group that embodies your mystery. You are trained in all martial weapons of that group. At 11th level, if you gain the weapon expertise class feature, you also gain expert proficiency for martial weapons in your chosen group, and you become trained in advanced weapons in that group.\r\n\r\n**Trained Skill**\r\n[Athletics](/Skills.aspx?ID=3)\n\n**Granted Cantrip** [Shield](/Spells.aspx?ID=280)\r\n\r\n**Initial Revelation Spell** [Call to Arms](/Spells.aspx?ID=748)\r\n\r\n**Advanced Revelation Spell** [Battlefield Persistence](/Spells.aspx?ID=746)\r\n\r\n**Greater Revelation Spell** [Heroic Feat](/Spells.aspx?ID=754)\r\n\r\n**Related Domains** [Might](/Domains.aspx?ID=20), [Zeal](/Domains.aspx?ID=37)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of the Hero's Burden</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYou thrive while adrenaline flows and your life depends on your might alone, but holding the collective battle prowess of the ages within you leaves your body weakened after a fight. You smell faintly of steel and blood no matter how you try to remove or mask the scent, you appear more muscular than you actually are, and you hear the faint clash and clamor of battle in the distance at all times.\r\n\r\n**Minor Curse** Your body languishes when you aren't bringing harm to your foes. You take a –2 status penalty to AC and saving throws, but each time you make a Strike, you can suspend these penalties until the start of your next turn.\r\n\r\n**Moderate Curse** The strain of conflict wears upon your body, even though you gain vitality from it. Making a Strike reduces the penalty from your minor curse to –1 rather than suspending it entirely. You gain a +2 status bonus to weapon and unarmed damage rolls. You also gain [fast healing](/Rules.aspx?ID=796) equal to half your level while in a non-trivial combat encounter.\r\n\r\n**Major Curse** Your body proves capable of truly heroic feats, but doing so interferes with your mental focus. Your moderate curse's fast healing is equal to your level, and its damage bonus is +6. You gain a +1 status bonus to weapon and unarmed attack rolls, but you are [stupefied 2](/Conditions.aspx?ID=37).",
+  "name": "Battle",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-13"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou embody the virtues upheld by heroes of legend.\r\n</summary>",
+  "skill": [
+   "Athletics"
+  ],
+  "skill_markdown": "[Athletics](/Skills.aspx?ID=3)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 74 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Shield",
+   "Call to Arms",
+   "Battlefield Persistence",
+   "Heroic Feat"
+  ],
+  "spell_markdown": "[Battlefield Persistence](/Spells.aspx?ID=746), [Call to Arms](/Spells.aspx?ID=748), [Heroic Feat](/Spells.aspx?ID=754), [Shield](/Spells.aspx?ID=280)",
+  "summary": "You embody the virtues upheld by heroes of legend.",
+  "summary_markdown": "You embody the virtues upheld by heroes of legend.",
+  "text": " Battle Source Advanced Player's Guide pg. 74 2.0 Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as Gorum, Iomedae, Rovagug, the Horseman of War Szuriel, the Queen of the Night Eiseth, the Vudrani god Diomazul, and others, or you might find power in the unending conflict between the armies of Heaven and Hell, the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages. Mystery Benefit You are no stranger to the trappings of warfare. You are trained in medium and heavy armor. At 13th level, if you gain the light armor expertise class feature, you also gain expert proficiency in these armors. Choose one weapon group that embodies your mystery. You are trained in all martial weapons of that group. At 11th level, if you gain the weapon expertise class feature, you also gain expert proficiency for martial weapons in your chosen group, and you become trained in advanced weapons in that group. Trained Skill Athletics Granted Cantrip Shield Initial Revelation Spell Call to Arms Advanced Revelation Spell Battlefield Persistence Greater Revelation Spell Heroic Feat Related Domains Might, Zeal Curse of the Hero's Burden You thrive while adrenaline flows and your life depends on your might alone, but holding the collective battle prowess of the ages within you leaves your body weakened after a fight. You smell faintly of steel and blood no matter how you try to remove or mask the scent, you appear more muscular than you actually are, and you hear the faint clash and clamor of battle in the distance at all times. Minor Curse Your body languishes when you aren't bringing harm to your foes. You take a –2 status penalty to AC and saving throws, but each time you make a Strike, you can suspend these penalties until the start of your next turn. Moderate Curse The strain of conflict wears upon your body, even though you gain vitality from it. Making a Strike reduces the penalty from your minor curse to –1 rather than suspending it entirely. You gain a +2 status bonus to weapon and unarmed damage rolls. You also gain fast healing equal to half your level while in a non-trivial combat encounter. Major Curse Your body proves capable of truly heroic feats, but doing so interferes with your mental focus. Your moderate curse's fast healing is equal to your level, and its damage bonus is +6. You gain a +1 status bonus to weapon and unarmed attack rolls, but you are stupefied 2.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Undeath"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-3",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Bones](/Mysteries.aspx?ID=3)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>\n\nYour mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like [Pharasma](/Deities.aspx?ID=14) and the [psychopomp](/MonsterFamilies.aspx?ID=83) ushers (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God [Achaekek](/Deities.aspx?ID=29) or the Horseman of the Apocalypse [Charon](/Deities.aspx?ID=135); or a herald of undeath such as [Urgathoa](/Deities.aspx?ID=19).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** You can cleverly leverage the subtleties of life and death to your benefit. Each day during your preparations, you can choose to align yourself in the confluence of positive and negative energy so as to gain [negative healing](/MonsterAbilities.aspx?ID=42), which means you are harmed by positive damage and healed by negative effects as if you were undead. If you already have negative healing, instead the DC of your recovery checks is equal to 9 + your current [dying](/Conditions.aspx?ID=11) value.\r\n\r\n**Trained Skill**\r\n[Medicine](/Skills.aspx?ID=9)\n\n**Granted Cantrip** [Chill Touch](/Spells.aspx?ID=35)\r\n\r\n**Initial Revelation Spell** [Soul Siphon](/Spells.aspx?ID=760)\r\n\r\n**Advanced Revelation Spell** [Armor of Bones](/Spells.aspx?ID=745)\r\n\r\n**Greater Revelation Spell** [Claim Undead](/Spells.aspx?ID=749)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=7), [Undeath](/Domains.aspx?ID=34)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Living Death</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYour body is slowly decaying even though you are alive, and using your powers furthers this unnatural living death. You carry a touch of the grave about you, manifesting as bloodless pallor, a faint smell of earth, or deathly cold skin.\r\n\r\n**Minor Curse** Bones protrude through your skin and your flesh rots, combining with a stench of decay and an unearthly chill. Non-magical effects that would restore your Hit Points only grant you half as many HP as normal.\r\n\r\n**Moderate Curse** Your dead flesh continues to rot, affecting your health. You become [drained 1](/Conditions.aspx?ID=10), and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you [Refocus](/Actions.aspx?ID=71); effects that normally remove the drained condition reduce your drained condition to drained 1 instead. In addition, you gain resistance to [poison](/Traits.aspx?ID=126) equal to half your level. You gain a +4 status bonus to saves against [diseases](/Traits.aspx?ID=46), poisons, and [death](/Traits.aspx?ID=40) effects, and if you roll a success on such a save, you get a critical success instead.\r\n\r\n**Major Curse** You stand just steps from the grave. You become [wounded 1](/Conditions.aspx?ID=42). This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead. When you would attempt a recovery check, you can choose to get an automatic success instead of rolling, and if you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.",
+  "name": "Bones",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-14"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nDeath always seems near, and the dead speak to you.\r\n</summary>",
+  "skill": [
+   "Medicine"
+  ],
+  "skill_markdown": "[Medicine](/Skills.aspx?ID=9)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Chill Touch",
+   "Soul Siphon",
+   "Armor of Bones",
+   "Claim Undead"
+  ],
+  "spell_markdown": "[Armor of Bones](/Spells.aspx?ID=745), [Chill Touch](/Spells.aspx?ID=35), [Claim Undead](/Spells.aspx?ID=749), [Soul Siphon](/Spells.aspx?ID=760)",
+  "summary": "Death always seems near, and the dead speak to you.",
+  "summary_markdown": "Death always seems near, and the dead speak to you.",
+  "text": " Bones Source Advanced Player's Guide pg. 75 2.0 Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like Pharasma and the psychopomp ushers (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as Urgathoa. Mystery Benefit You can cleverly leverage the subtleties of life and death to your benefit. Each day during your preparations, you can choose to align yourself in the confluence of positive and negative energy so as to gain negative healing, which means you are harmed by positive damage and healed by negative effects as if you were undead. If you already have negative healing, instead the DC of your recovery checks is equal to 9 + your current dying value. Trained Skill Medicine Granted Cantrip Chill Touch Initial Revelation Spell Soul Siphon Advanced Revelation Spell Armor of Bones Greater Revelation Spell Claim Undead Related Domains Death, Undeath Curse of Living Death Your body is slowly decaying even though you are alive, and using your powers furthers this unnatural living death. You carry a touch of the grave about you, manifesting as bloodless pallor, a faint smell of earth, or deathly cold skin. Minor Curse Bones protrude through your skin and your flesh rots, combining with a stench of decay and an unearthly chill. Non-magical effects that would restore your Hit Points only grant you half as many HP as normal. Moderate Curse Your dead flesh continues to rot, affecting your health. You become drained 1, and this drained condition is cumulative with any other drained conditions you gain. This drained condition is removed only when you Refocus; effects that normally remove the drained condition reduce your drained condition to drained 1 instead. In addition, you gain resistance to poison equal to half your level. You gain a +4 status bonus to saves against diseases, poisons, and death effects, and if you roll a success on such a save, you get a critical success instead. Major Curse You stand just steps from the grave. You become wounded 1. This wounded condition is removed only when you Refocus; effects that normally remove the wounded condition reduce your wounded condition to wounded 1 instead. When you would attempt a recovery check, you can choose to get an automatic success instead of rolling, and if you roll a critical failure on a save against a disease, poison, or death effect, you get a failure instead.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Darkness",
+   "Moon"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-4",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Cosmos](/Mysteries.aspx?ID=4)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>\n\nCelestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like [Desna](/Deities.aspx?ID=5), [Sarenrae](/Deities.aspx?ID=16), or the deific lovers [Shizuru](/Deities.aspx?ID=47) and [Tsukiyo](/Deities.aspx?ID=48) who represent the sun and the moon—or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like [Zon-Kuthon](/Deities.aspx?ID=20) or the rat goddess [Lao Shu Po](/Deities.aspx?ID=180).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** Your body is as much an astronomical one as it is physical. You gain resistance equal to 2 + half your level against all physical damage.\r\n\r\n**Trained Skill**\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Cantrip** [Dancing Lights](/Spells.aspx?ID=58)\r\n\r\n**Initial Revelation Spell** [Spray of Stars](/Spells.aspx?ID=761)\r\n\r\n**Advanced Revelation Spell** [Interstellar Void](/Spells.aspx?ID=756)\r\n\r\n**Greater Revelation Spell** [Moonlight Bridge](/Spells.aspx?ID=759)\r\n\r\n**Related Domains** [Darkness](/Domains.aspx?ID=6), [Moon](/Domains.aspx?ID=21)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of the Sky's Call</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYou have your head in the clouds—and not just figuratively. Your body is drawn toward the heavens, making you lighter and less substantial than you should be. Your eyes glow with starry light, and your hair and clothing float and drift around you.\r\n\r\n**Minor Curse** Your unnatural lightness makes it hard to keep your footing and interact with other physical objects. You are [enfeebled 1](/Conditions.aspx?ID=13) and take a –2 penalty to saves and DCs against [Grapple](/Actions.aspx?ID=35), [Shove](/Actions.aspx?ID=38), and other forms of [forced movement](/Rules.aspx?ID=451).\r\n\r\n**Moderate Curse** Your body is drawn further skyward. You are enfeebled 2, and the penalty from your minor curse increases to –3. You are treated as one size smaller for wind effects. You gain a +2 status bonus against [Trip](/Actions.aspx?ID=40) attempts, you only take half as much damage from falls, and you gain the effects of the [Powerful Leap](/Feats.aspx?ID=820) and [Quick Jump](/Feats.aspx?ID=825) skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much.\r\n\r\n**Major Curse** As your body rises, you float just above the ground beneath you. You become enfeebled 4, and the penalty from your minor curse increases to –4. You can walk on liquids as if they were solid; you gain the effects of the [Cloud Jump](/Feats.aspx?ID=767) skill feat; and you don't leave tracks, trigger weight-sensitive pressure plates, or otherwise connect with the ground below you.",
+  "name": "Cosmos",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-15"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou draw power from the stars and the spaces between.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 75 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Dancing Lights",
+   "Spray of Stars",
+   "Interstellar Void",
+   "Moonlight Bridge"
+  ],
+  "spell_markdown": "[Dancing Lights](/Spells.aspx?ID=58), [Interstellar Void](/Spells.aspx?ID=756), [Moonlight Bridge](/Spells.aspx?ID=759), [Spray of Stars](/Spells.aspx?ID=761)",
+  "summary": "You draw power from the stars and the spaces between.",
+  "summary_markdown": "You draw power from the stars and the spaces between.",
+  "text": " Cosmos Source Advanced Player's Guide pg. 75 2.0 Celestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like Desna, Sarenrae, or the deific lovers Shizuru and Tsukiyo who represent the sun and the moon—or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like Zon-Kuthon or the rat goddess Lao Shu Po. Mystery Benefit Your body is as much an astronomical one as it is physical. You gain resistance equal to 2 + half your level against all physical damage. Trained Skill Nature Granted Cantrip Dancing Lights Initial Revelation Spell Spray of Stars Advanced Revelation Spell Interstellar Void Greater Revelation Spell Moonlight Bridge Related Domains Darkness, Moon Curse of the Sky's Call You have your head in the clouds—and not just figuratively. Your body is drawn toward the heavens, making you lighter and less substantial than you should be. Your eyes glow with starry light, and your hair and clothing float and drift around you. Minor Curse Your unnatural lightness makes it hard to keep your footing and interact with other physical objects. You are enfeebled 1 and take a –2 penalty to saves and DCs against Grapple, Shove, and other forms of forced movement. Moderate Curse Your body is drawn further skyward. You are enfeebled 2, and the penalty from your minor curse increases to –3. You are treated as one size smaller for wind effects. You gain a +2 status bonus against Trip attempts, you only take half as much damage from falls, and you gain the effects of the Powerful Leap and Quick Jump skill feats. You weigh only half as much, and your Bulk, should someone need to carry you, is also half as much. Major Curse As your body rises, you float just above the ground beneath you. You become enfeebled 4, and the penalty from your minor curse increases to –4. You can walk on liquids as if they were solid; you gain the effects of the Cloud Jump skill feat; and you don't leave tracks, trigger weight-sensitive pressure plates, or otherwise connect with the ground below you.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Fire",
+   "Sun"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-5",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Flames](/Mysteries.aspx?ID=5)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>\n\nFire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the [Elemental Plane of Fire](/Planes.aspx?ID=6), or venerate a collection of deities such as [Asmodeus](/Deities.aspx?ID=2), [Sarenrae](/Deities.aspx?ID=16), the Tian goddess of disasters and volcanoes [Lady Nanbyo](/Deities.aspx?ID=179), or the elemental lord of fire [Ymeri](/Deities.aspx?ID=108).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** Like fire itself, you flicker and dance, avoiding effects that would quench your vitality. You have expert proficiency in Reflex saves. At 13th level, if you gain the lightning reflexes class feature, your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead.\r\n\r\n**Trained Skill**\r\n[Acrobatics](/Skills.aspx?ID=1)\n\n**Granted Cantrip** [Produce Flame](/Spells.aspx?ID=236)\r\n\r\n**Initial Revelation Spell** [Incendiary Aura](/Spells.aspx?ID=755)\r\n\r\n**Advanced Revelation Spell** [Whirling Flames](/Spells.aspx?ID=766)\r\n\r\n**Greater Revelation Spell** [Flaming Fusillade](/Spells.aspx?ID=753)\r\n\r\n**Related Domains** [Fire](/Domains.aspx?ID=13), [Sun](/Domains.aspx?ID=29)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Engulfing Flames</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYou see flames and smoke wherever you look. These flames might be imagined, or they might be a preternatural glimpse of the metaphorical fires that empower the entire multiverse—but you always see them. Fires flare noticeably (though not dangerously) in your presence, you occasionally smoke slightly, and your body is almost painfully hot to the touch.\r\n\r\n**Minor Curse** The smoke, heat, and crackling flames of your curse fill your vision and all your other senses. Creatures further than 30 feet are [concealed](/Conditions.aspx?ID=4) from you. You can't benefit from effects that would allow you to ignore or mitigate this concealment, as normal for effects of an oracular curse.\r\n\r\n**Moderate Curse** Smoke and flickering visions of flame fill your senses more completely, and harmless flickers of obscuring flames also fill your space. You are concealed from other creatures, though as the other creatures aren't cursed themselves, they can benefit from effects that would allow them to ignore or mitigate the concealed condition, as normal. All other creatures and objects are concealed from you regardless of distance; however, when casting a [fire](/Traits.aspx?ID=72) spell, you automatically succeed at the flat check for this concealed condition for targets within 30 feet.\n\n All your senses become imprecise beyond 30 feet, meaning everything past 30 feet that you'd normally be able to see is [hidden](/Conditions.aspx?ID=22) from you.\r\n\r\n**Major Curse** The flames surrounding you are no longer simply visions. An aura of fire surrounds you in a 10-foot emanation, dealing 4d6 fire damage ([basic](/Rules.aspx?ID=329) Reflex save) to all other creatures in the aura at the end of each of your turns. You lose 1d6 Hit Points at the end of your turn each round, with no save; if you have a weakness to fire, increase the number of HP you lose by that weakness.\n\n You can suppress your aura until the start of your next turn by spending a single action, which has the [concentrate](/Traits.aspx?ID=32) trait, to diminish the flames, causing neither you nor anyone in the aura to take damage. While [Refocusing](/Actions.aspx?ID=71) to reduce your curse, you are continually diminishing the flames, so you don't lose HP. The flames subside if you fall [unconscious](/Conditions.aspx?ID=38), but they resume when you wake up unless you rested for long enough to reset your curse. As usual for oracular curses, you can't mitigate or reduce the lost Hit Points in any way, though you can still heal the lost HP normally after the fact.",
+  "name": "Flames",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 76",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-16"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou dance with fire and do your best to remain unscorched by it.\r\n</summary>",
+  "skill": [
+   "Acrobatics"
+  ],
+  "skill_markdown": "[Acrobatics](/Skills.aspx?ID=1)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 76"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 76 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Produce Flame",
+   "Incendiary Aura",
+   "Whirling Flames",
+   "Flaming Fusillade"
+  ],
+  "spell_markdown": "[Flaming Fusillade](/Spells.aspx?ID=753), [Incendiary Aura](/Spells.aspx?ID=755), [Produce Flame](/Spells.aspx?ID=236), [Whirling Flames](/Spells.aspx?ID=766)",
+  "summary": "You dance with fire and do your best to remain unscorched by it.",
+  "summary_markdown": "You dance with fire and do your best to remain unscorched by it.",
+  "text": " Flames Source Advanced Player's Guide pg. 76 2.0 Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the Elemental Plane of Fire, or venerate a collection of deities such as Asmodeus, Sarenrae, the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire Ymeri. Mystery Benefit Like fire itself, you flicker and dance, avoiding effects that would quench your vitality. You have expert proficiency in Reflex saves. At 13th level, if you gain the lightning reflexes class feature, your proficiency rank for Reflex saves increases to master, and when you roll a success on a Reflex save, you get a critical success instead. Trained Skill Acrobatics Granted Cantrip Produce Flame Initial Revelation Spell Incendiary Aura Advanced Revelation Spell Whirling Flames Greater Revelation Spell Flaming Fusillade Related Domains Fire, Sun Curse of Engulfing Flames You see flames and smoke wherever you look. These flames might be imagined, or they might be a preternatural glimpse of the metaphorical fires that empower the entire multiverse—but you always see them. Fires flare noticeably (though not dangerously) in your presence, you occasionally smoke slightly, and your body is almost painfully hot to the touch. Minor Curse The smoke, heat, and crackling flames of your curse fill your vision and all your other senses. Creatures further than 30 feet are concealed from you. You can't benefit from effects that would allow you to ignore or mitigate this concealment, as normal for effects of an oracular curse. Moderate Curse Smoke and flickering visions of flame fill your senses more completely, and harmless flickers of obscuring flames also fill your space. You are concealed from other creatures, though as the other creatures aren't cursed themselves, they can benefit from effects that would allow them to ignore or mitigate the concealed condition, as normal. All other creatures and objects are concealed from you regardless of distance; however, when casting a fire spell, you automatically succeed at the flat check for this concealed condition for targets within 30 feet. All your senses become imprecise beyond 30 feet, meaning everything past 30 feet that you'd normally be able to see is hidden from you. Major Curse The flames surrounding you are no longer simply visions. An aura of fire surrounds you in a 10-foot emanation, dealing 4d6 fire damage (basic Reflex save) to all other creatures in the aura at the end of each of your turns. You lose 1d6 Hit Points at the end of your turn each round, with no save; if you have a weakness to fire, increase the number of HP you lose by that weakness. You can suppress your aura until the start of your next turn by spending a single action, which has the concentrate trait, to diminish the flames, causing neither you nor anyone in the aura to take damage. While Refocusing to reduce your curse, you are continually diminishing the flames, so you don't lose HP. The flames subside if you fall unconscious, but they resume when you wake up unless you rested for long enough to reset your curse. As usual for oracular curses, you can't mitigate or reduce the lost Hit Points in any way, though you can still heal the lost HP normally after the fact.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Healing"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-6",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Life](/Mysteries.aspx?ID=6)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>\n\nThe never-ending flow of positive energy within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world's living creatures, hold some connection to the [Positive Energy Plane](/Planes.aspx?ID=3), or revere a collection of deities including [Irori](/Deities.aspx?ID=10), [Pharasma](/Deities.aspx?ID=14), [Sarenrae](/Deities.aspx?ID=16), and the god of medicine [Qi Zhong](/Deities.aspx?ID=182).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** Your body is a deep reservoir of life energy. At each level, you gain Hit Points equal to 10 + your Constitution modifier from the oracle class, instead of 8 + your Constitution modifier.\r\n\r\n**Trained Skill**\r\n[Medicine](/Skills.aspx?ID=9)\n\n**Granted Cantrip** [Stabilize](/Spells.aspx?ID=307)\r\n\r\n**Initial Revelation Spell** [Life Link](/Spells.aspx?ID=758)\r\n\r\n**Advanced Revelation Spell** [Delay Affliction](/Spells.aspx?ID=751)\r\n\r\n**Greater Revelation Spell** [Life-Giving Form](/Spells.aspx?ID=757)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=7), [Healing](/Domains.aspx?ID=15)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Outpouring Life</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nLife energy flows outward from you and connects you to all living things, but you expend your vital essence to do so. Your presence comforts the ill and injured, causes scars to fade slightly, spurs new growth in plants, and otherwise infuses your surroundings with vitality.\r\n\r\n**Minor Curse** As your life force seeps outward, it becomes more difficult to keep your body functioning. Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover.\r\n\r\n**Moderate Curse** The flow of life energy away from you can't be reversed. In addition to the effects of your minor curse, you can't be healed by magical effects originating from other creatures. However, if you are [unconscious](/Conditions.aspx?ID=38), magical effects can restore you to 1 HP (but no higher). You are affected normally by healing [elixirs](/Equipment.aspx?Category=6&amp;Subcategory=8), [potions](/Equipment.aspx?Category=15&amp;Subcategory=18), and other items. When you cast [_heal_](/Spells.aspx?ID=148) and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing.\n\n Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell level to your choice of either one target of the spell or the creature nearest to you. You can't heal yourself in this way. This healing has the [healing](/Traits.aspx?ID=89), [necromancy](/Traits.aspx?ID=117), and [positive](/Traits.aspx?ID=128) traits, as well as the tradition trait of the spell.\r\n\r\n**Major Curse** Life energy tears through you to empower your magic. Some of your spells carry positive energy with them. Each time you use a spell slot to cast a 5th-level or higher spell that takes 2 or more actions to cast, you disperse positive energy in a 30-foot burst with the effects of a 3-action [_heal_](/Spells.aspx?ID=148) spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the _heal_ spell.",
+  "name": "Life",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 77",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-17"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe teeming energies of life flow through you out into the world.\r\n</summary>",
+  "skill": [
+   "Medicine"
+  ],
+  "skill_markdown": "[Medicine](/Skills.aspx?ID=9)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 77"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Stabilize",
+   "Life Link",
+   "Delay Affliction",
+   "Life-Giving Form"
+  ],
+  "spell_markdown": "[Delay Affliction](/Spells.aspx?ID=751), [Life Link](/Spells.aspx?ID=758), [Life-Giving Form](/Spells.aspx?ID=757), [Stabilize](/Spells.aspx?ID=307)",
+  "summary": "The teeming energies of life flow through you out into the world.",
+  "summary_markdown": "The teeming energies of life flow through you out into the world.",
+  "text": " Life Source Advanced Player's Guide pg. 77 2.0 The never-ending flow of positive energy within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world's living creatures, hold some connection to the Positive Energy Plane, or revere a collection of deities including Irori, Pharasma, Sarenrae, and the god of medicine Qi Zhong. Mystery Benefit Your body is a deep reservoir of life energy. At each level, you gain Hit Points equal to 10 + your Constitution modifier from the oracle class, instead of 8 + your Constitution modifier. Trained Skill Medicine Granted Cantrip Stabilize Initial Revelation Spell Life Link Advanced Revelation Spell Delay Affliction Greater Revelation Spell Life-Giving Form Related Domains Death, Healing Curse of Outpouring Life Life energy flows outward from you and connects you to all living things, but you expend your vital essence to do so. Your presence comforts the ill and injured, causes scars to fade slightly, spurs new growth in plants, and otherwise infuses your surroundings with vitality. Minor Curse As your life force seeps outward, it becomes more difficult to keep your body functioning. Effects that restore Hit Points to you take a status penalty equal to half your level (minimum 1) to the number of HP you recover. Moderate Curse The flow of life energy away from you can't be reversed. In addition to the effects of your minor curse, you can't be healed by magical effects originating from other creatures. However, if you are unconscious, magical effects can restore you to 1 HP (but no higher). You are affected normally by healing elixirs, potions, and other items. When you cast heal and all your targets are living creatures, you roll d12s instead of d8s for the amount of healing. Whenever you finish casting a non-cantrip spell, you restore Hit Points equal to the spell level to your choice of either one target of the spell or the creature nearest to you. You can't heal yourself in this way. This healing has the healing, necromancy, and positive traits, as well as the tradition trait of the spell. Major Curse Life energy tears through you to empower your magic. Some of your spells carry positive energy with them. Each time you use a spell slot to cast a 5th-level or higher spell that takes 2 or more actions to cast, you disperse positive energy in a 30-foot burst with the effects of a 3-action heal spell with a level 4 lower than that of the spell you cast. This healing occurs immediately after you finish Casting the Spell. You don't benefit from this healing. Instead, you lose double the number of Hit Points rolled for the heal spell.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Knowledge",
+   "Truth"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-7",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Lore](/Mysteries.aspx?ID=7)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>\n\nKnowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as [Abadar](/Deities.aspx?ID=1), [Irori](/Deities.aspx?ID=10), [Nethys](/Deities.aspx?ID=12), Irori's scholarly nephew [Gruhastha](/Deities.aspx?ID=39), the fey triune goddess of fate [Magdh](/Deities.aspx?ID=97), or the lawful aeon god-figure known as the [Monad](/Deities.aspx?ID=141).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** You hold more mystical knowledge within you than most. You have one additional spell in your repertoire of each level you can cast.\r\n\r\n**Trained Skill**\r\n[Occultism](/Skills.aspx?ID=11)\r\nand one [Lore](/Skills.aspx?ID=8) skill of your choice.\r\n\r\n**Granted Cantrip** [Read Aura](/Spells.aspx?ID=246)\r\n\r\n**Initial Revelation Spell** [Brain Drain](/Spells.aspx?ID=747)\r\n\r\n**Advanced Revelation Spell** [Access Lore](/Spells.aspx?ID=741)\r\n\r\n**Greater Revelation Spell** [Dread Secret](/Spells.aspx?ID=752)\r\n\r\n**Related Domains** [Knowledge](/Domains.aspx?ID=17), [Truth](/Domains.aspx?ID=32)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Torrential Knowledge</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYou have a link to true divine knowledge, but your mortal mind struggles to process and act on what you know. Loose materials around you, such as dust, grains of rice, and droplets of water, slowly shift to form strange runes or faint indecipherable writing, and you sometimes speak unintelligible truths or statements in unknown languages without realizing it.\r\n\r\n**Minor Curse** You take a –4 penalty to initiative, as trying to process a surge of information about what's happening around you slows your ability to respond to it.\r\n\r\n**Moderate Curse** The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always flat-footed. At the start of each of your turns, you automatically make one check to [Recall Knowledge](/Actions.aspx?ID=26) as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers).\r\n\r\n**Major Curse** The massive flow of information clouding your mind overwhelms your ability to communicate with others. You can understand all languages, but you can't speak, use [linguistic](/Traits.aspx?ID=101) effects, or otherwise communicate with your allies. If you Cast a Spell with a verbal component, you must succeed at a DC 5 flat check or the spell is lost. You gain a +4 status bonus on saving throws against linguistic effects.",
+  "name": "Lore",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 77",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-18"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou gain access to unparalleled, overwhelming knowledge.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11) and one [Lore](/Skills.aspx?ID=8) skill of your choice.",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 77"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 77 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Read Aura",
+   "Brain Drain",
+   "Access Lore",
+   "Dread Secret"
+  ],
+  "spell_markdown": "[Access Lore](/Spells.aspx?ID=741), [Brain Drain](/Spells.aspx?ID=747), [Dread Secret](/Spells.aspx?ID=752), [Read Aura](/Spells.aspx?ID=246)",
+  "summary": "You gain access to unparalleled, overwhelming knowledge.",
+  "summary_markdown": "You gain access to unparalleled, overwhelming knowledge.",
+  "text": " Lore Source Advanced Player's Guide pg. 77 2.0 Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori's scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the lawful aeon god-figure known as the Monad. Mystery Benefit You hold more mystical knowledge within you than most. You have one additional spell in your repertoire of each level you can cast. Trained Skill Occultism and one Lore skill of your choice. Granted Cantrip Read Aura Initial Revelation Spell Brain Drain Advanced Revelation Spell Access Lore Greater Revelation Spell Dread Secret Related Domains Knowledge, Truth Curse of Torrential Knowledge You have a link to true divine knowledge, but your mortal mind struggles to process and act on what you know. Loose materials around you, such as dust, grains of rice, and droplets of water, slowly shift to form strange runes or faint indecipherable writing, and you sometimes speak unintelligible truths or statements in unknown languages without realizing it. Minor Curse You take a –4 penalty to initiative, as trying to process a surge of information about what's happening around you slows your ability to respond to it. Moderate Curse The flow of information through your mind grows. The attention you divert to process this huge influx of information means you are always flat-footed. At the start of each of your turns, you automatically make one check to Recall Knowledge as a free action. This uses a skill of your choice that has the Recall Knowledge action, using a result equal to 10 + your proficiency bonus in that skill (with no other bonuses, penalties, or modifiers). Major Curse The massive flow of information clouding your mind overwhelms your ability to communicate with others. You can understand all languages, but you can't speak, use linguistic effects, or otherwise communicate with your allies. If you Cast a Spell with a verbal component, you must succeed at a DC 5 flat check or the spell is lost. You gain a +4 status bonus on saving throws against linguistic effects.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Air",
+   "Water"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-8",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Tempest](/Mysteries.aspx?ID=8)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 78 <sup>2.0</sup>\n\nThe fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental [Planes of Air](/Planes.aspx?ID=4) and [Water](/Planes.aspx?ID=7), or through reverence of deities such as [Gozreh](/Deities.aspx?ID=8), the tengu god of storms [Hei Feng](/Deities.aspx?ID=40), the demon lord [Dagon](/Deities.aspx?ID=75), or the elemental lords of air and water.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** You can see perfectly through wind and water, and you send electric charges through both air and water. You never take penalties to Perception from wind, rain, fog, or other precipitation, or from looking through water or being underwater, and such conditions don't cause anything to be [concealed](/Conditions.aspx?ID=4) from you.\n\n When you deal physical damage with a non-cantrip [air](/Traits.aspx?ID=5) or [water](/Traits.aspx?ID=165) spell, you deal an additional 1 electricity damage per spell level.\r\n\r\n**Trained Skill**\r\n[Nature](/Skills.aspx?ID=10)\n\n**Granted Cantrip** [Electric Arc](/Spells.aspx?ID=97)\r\n\r\n**Initial Revelation Spell** [Tempest Touch](/Spells.aspx?ID=763)\r\n\r\n**Advanced Revelation Spell** [Thunderburst](/Spells.aspx?ID=764)\r\n\r\n**Greater Revelation Spell** [Tempest Form](/Spells.aspx?ID=762)\r\n\r\n**Related Domains** [Air](/Domains.aspx?ID=2), [Water](/Domains.aspx?ID=35)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of the Perpetual Storm</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYou are the center of your own tiny tempest, ever surrounded by wind and rain that worsens the more you tap into your elemental powers. Even when you are calm and at rest, your hair and clothing are blown about by gentle winds, you are slightly damp, and your touch often comes with a static shock.\r\n\r\n**Minor Curse** An aura of a whirling storm whips up in a 5-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura.\n\n Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 2 to electricity, and [electricity](/Traits.aspx?ID=56) spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal.\r\n\r\n**Moderate Curse** Your minor curse's aura expands to a 10- foot emanation and carries rain on the winds. The whirling winds impose a –2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you. Your weakness to electricity increases to 5 or half your level, whichever is greater, but torrential rain grants you an equal amount of fire resistance.\r\n\r\n**Major Curse** Your minor curse's aura expands to a 15-foot emanation and grows stronger. High winds blowing outward in the aura impede creatures' progress. The aura is difficult terrain for Large and smaller creatures on the ground, and for Huge or smaller flying creatures. You aren't affected by this difficult terrain.\n\n The electricity arcing through you becomes dangerous. Any creature that touches you or damages you with an unarmed melee attack or non-reach melee weapon takes 1d6 electricity damage. As normal, this doesn't affect creatures you touch.",
+  "name": "Tempest",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 78",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "mystery-19"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 78 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWind, waves, and storms rage at your beck and call.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 78"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 78 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Electric Arc",
+   "Tempest Touch",
+   "Thunderburst",
+   "Tempest Form"
+  ],
+  "spell_markdown": "[Electric Arc](/Spells.aspx?ID=97), [Tempest Form](/Spells.aspx?ID=762), [Tempest Touch](/Spells.aspx?ID=763), [Thunderburst](/Spells.aspx?ID=764)",
+  "summary": "Wind, waves, and storms rage at your beck and call.",
+  "summary_markdown": "Wind, waves, and storms rage at your beck and call.",
+  "text": " Tempest Source Advanced Player's Guide pg. 78 2.0 The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental Planes of Air and Water, or through reverence of deities such as Gozreh, the tengu god of storms Hei Feng, the demon lord Dagon, or the elemental lords of air and water. Mystery Benefit You can see perfectly through wind and water, and you send electric charges through both air and water. You never take penalties to Perception from wind, rain, fog, or other precipitation, or from looking through water or being underwater, and such conditions don't cause anything to be concealed from you. When you deal physical damage with a non-cantrip air or water spell, you deal an additional 1 electricity damage per spell level. Trained Skill Nature Granted Cantrip Electric Arc Initial Revelation Spell Tempest Touch Advanced Revelation Spell Thunderburst Greater Revelation Spell Tempest Form Related Domains Air, Water Curse of the Perpetual Storm You are the center of your own tiny tempest, ever surrounded by wind and rain that worsens the more you tap into your elemental powers. Even when you are calm and at rest, your hair and clothing are blown about by gentle winds, you are slightly damp, and your touch often comes with a static shock. Minor Curse An aura of a whirling storm whips up in a 5-foot emanation around you and in your space. The aura puts out small non-magical fires 1 round after they're lit or brought into your aura. Electrical energy builds up within your storm, turning you into a lightning rod; you gain weakness 2 to electricity, and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal. Moderate Curse Your minor curse's aura expands to a 10- foot emanation and carries rain on the winds. The whirling winds impose a –2 circumstance penalty on ranged attack rolls using physical ammunition that target you or originate from you. Your weakness to electricity increases to 5 or half your level, whichever is greater, but torrential rain grants you an equal amount of fire resistance. Major Curse Your minor curse's aura expands to a 15-foot emanation and grows stronger. High winds blowing outward in the aura impede creatures' progress. The aura is difficult terrain for Large and smaller creatures on the ground, and for Huge or smaller flying creatures. You aren't affected by this difficult terrain. The electricity arcing through you becomes dangerous. Any creature that touches you or damages you with an unarmed melee attack or non-reach melee weapon takes 1d6 electricity damage. As normal, this doesn't affect creatures you touch.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Fate",
+   "Time"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-9",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Time](/Mysteries.aspx?ID=9)</title>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 188\n\nWhether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you're somehow beyond mortality or you can't be contained within reality's limitations, or you might view it as a cruel curse that causes your own life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or else turn to strange rituals and forbidden magic in an attempt to break free of time's grasp. Those oracles who worship deities most often worship [Pharasma](/Deities.aspx?ID=14), goddess of fate who sees all possible futures for all who ever lived, or [Alseta](/Deities.aspx?ID=30), goddess of transitions and the passage through time.\n\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** Time passes more swiftly for you than it does for those around you, enabling you to cover more distance in what others perceive as the same amount of time. You gain a +10-foot status bonus to your Speed. At 6th level, this increases to a +15-foot status bonus; at 10th level, this increases to a +20-foot status bonus; at 14th level, this increases to a +25-foot status bonus; and at 18th level, it increases to a +30-foot status bonus. Your disjointed movement makes it harder for creatures to hit you as you move. You gain a +1 status bonus to AC against attacks made against you from reactions or free actions while you're moving.\r\n\r\n**Trained Skill**\r\n[Occultism](/Skills.aspx?ID=11)\n\n**Granted Cantrip** [Time Sense](/Spells.aspx?ID=1193)\r\n\r\n**Initial Revelation Spell** [Temporal Distortion](/Spells.aspx?ID=1195)\r\n\r\n**Advanced Revelation Spell** [Time Skip](/Spells.aspx?ID=1196)\r\n\r\n**Greater Revelation Spell** [Manifold Lives](/Spells.aspx?ID=1197)\r\n\r\n**Related Domains** [Fate](/Domains.aspx?ID=12), [Time](/Domains.aspx?ID=54)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Turbulent Moments</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nTime passes differently for you than everyone else. You experience fluxes that might manifest as minor day-to-day changes in your apparent age, such as a gray lock of hair or a disappearing wrinkle, or as occasional ghostly temporal afterimages that slightly trail your movement.\r\n\r\n**Minor Curse** As you draw upon your mystery, time's passage becomes more disjointed, aging, regressing, or warping you out of sync. You become [enfeebled 1](/Conditions.aspx?ID=13). In addition, you take a –2 penalty to saving throws against effects that would make you [fatigued](/Conditions.aspx?ID=15) or [slowed](/Conditions.aspx?ID=35).\r\n\r\n**Moderate Curse** Time distorts further, increasing your muscular atrophy, age regression, or warping while making effects pass you by at an increased rate. The value of your enfeebled condition increases to 2 and the penalty from your minor curse increases to –3. Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +2. In addition, spells affecting you last less time; their duration is reduced by half, to a minimum of 1 round. This doesn't reduce the spell's duration for other targets affected by the same spell. Finally, all non-permanent conditions affecting you that have a duration measured in rounds, minutes, or hours have their duration reduced by half, to a minimum of 1 round. Any afflictions (such as [poisons](/Traits.aspx?ID=126), [diseases](/Traits.aspx?ID=46), and [curses](/Traits.aspx?ID=38)) affecting you have their maximum duration, onset time, and time for each stage reduced by half. Spells, conditions, and afflictions that last “until your next daily preparations” last for 12 hours or until your next daily preparations, whichever comes first. This doesn't change the duration you're temporarily immune, the rate at which you can use abilities that have a frequency, or any other features based on the passage of time.\r\n\r\n**Major Curse** You become so out of sync with time that it's hard for you to act, but when you do act, you do so with incredible speed. You become slowed 1, the value of your enfeebled condition increases to 3, and the penalty from your minor curse increases to –4. Time passes so much faster for you that your steps appear as a blur of motion to others. You gain a +4 status bonus to initiative rolls. Whenever you move, you're [concealed](/Conditions.aspx?ID=4) while you're moving and until the start of your next turn. As normal for concealment where your location is still obvious, you can't use this concealment to [Hide](/Actions.aspx?ID=62) or [Sneak](/Actions.aspx?ID=63). Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +4.",
+  "name": "Time",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 188",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 188\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether by accident, fate, or purposeful meddling, you exist slightly outside of time. \r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 188"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 188",
+  "speed": {},
+  "spell": [
+   "Time Sense",
+   "Temporal Distortion",
+   "Time Skip",
+   "Manifold Lives"
+  ],
+  "spell_markdown": "[Manifold Lives](/Spells.aspx?ID=1197), [Temporal Distortion](/Spells.aspx?ID=1195), [Time Sense](/Spells.aspx?ID=1193), [Time Skip](/Spells.aspx?ID=1196)",
+  "summary": "Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. ",
+  "summary_markdown": "Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. ",
+  "text": " Time Source Dark Archive pg. 188 Whether by accident, fate, or purposeful meddling, you exist slightly outside of time. While initially unmoored by moments, the countless march of milliseconds builds up to drift you further and further out of sync with your natural timeline, often in contradictory directions. You might view this as a blessing, perhaps as a sign you're somehow beyond mortality or you can't be contained within reality's limitations, or you might view it as a cruel curse that causes your own life to slip by adrift even as you gain power over time. Many oracles of time are without faith and either come to rely upon their own instincts to survive or else turn to strange rituals and forbidden magic in an attempt to break free of time's grasp. Those oracles who worship deities most often worship Pharasma, goddess of fate who sees all possible futures for all who ever lived, or Alseta, goddess of transitions and the passage through time. Mystery Benefit Time passes more swiftly for you than it does for those around you, enabling you to cover more distance in what others perceive as the same amount of time. You gain a +10-foot status bonus to your Speed. At 6th level, this increases to a +15-foot status bonus; at 10th level, this increases to a +20-foot status bonus; at 14th level, this increases to a +25-foot status bonus; and at 18th level, it increases to a +30-foot status bonus. Your disjointed movement makes it harder for creatures to hit you as you move. You gain a +1 status bonus to AC against attacks made against you from reactions or free actions while you're moving. Trained Skill Occultism Granted Cantrip Time Sense Initial Revelation Spell Temporal Distortion Advanced Revelation Spell Time Skip Greater Revelation Spell Manifold Lives Related Domains Fate, Time Curse of Turbulent Moments Time passes differently for you than everyone else. You experience fluxes that might manifest as minor day-to-day changes in your apparent age, such as a gray lock of hair or a disappearing wrinkle, or as occasional ghostly temporal afterimages that slightly trail your movement. Minor Curse As you draw upon your mystery, time's passage becomes more disjointed, aging, regressing, or warping you out of sync. You become enfeebled 1. In addition, you take a –2 penalty to saving throws against effects that would make you fatigued or slowed. Moderate Curse Time distorts further, increasing your muscular atrophy, age regression, or warping while making effects pass you by at an increased rate. The value of your enfeebled condition increases to 2 and the penalty from your minor curse increases to –3. Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +2. In addition, spells affecting you last less time; their duration is reduced by half, to a minimum of 1 round. This doesn't reduce the spell's duration for other targets affected by the same spell. Finally, all non-permanent conditions affecting you that have a duration measured in rounds, minutes, or hours have their duration reduced by half, to a minimum of 1 round. Any afflictions (such as poisons, diseases, and curses) affecting you have their maximum duration, onset time, and time for each stage reduced by half. Spells, conditions, and afflictions that last “until your next daily preparations” last for 12 hours or until your next daily preparations, whichever comes first. This doesn't change the duration you're temporarily immune, the rate at which you can use abilities that have a frequency, or any other features based on the passage of time. Major Curse You become so out of sync with time that it's hard for you to act, but when you do act, you do so with incredible speed. You become slowed 1, the value of your enfeebled condition increases to 3, and the penalty from your minor curse increases to –4. Time passes so much faster for you that your steps appear as a blur of motion to others. You gain a +4 status bonus to initiative rolls. Whenever you move, you're concealed while you're moving and until the start of your next turn. As normal for concealment where your location is still obvious, you can't use this concealment to Hide or Sneak. Your status bonus to AC against attacks made against you from reactions or free actions while you're moving increases to +4.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Destruction",
+   "Fire"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-10",
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Limited\">[Ash](/Mysteries.aspx?ID=10)</title>\r\n\r\n**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 80\n\nYou see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the [flames mystery](/Mysteries.aspx?ID=5), but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart.\n\n You might see ash as the only true representation of the impermanent nature of life and its pointless existence. Alternatively, you may see the benefit ash can have on soils and farmlands as part of a larger cycle of death and rebirth. Perhaps you see the [phoenix](/Monsters.aspx?ID=330), with its life cycle of being reduced to ash and reborn, as a sacred creature that has achieved a higher state of being and worthy of imitation (or maybe you see it as a tragic creature that can't ever reach the goal of perfection). If you follow a deity, you might follow gods of fire like [Sarenrae](/Deities.aspx?ID=16), those who burn impurities to ash such as [Brigh](/Deities.aspx?ID=33) or [Torag](/Deities.aspx?ID=18), or those who strive to burn all things to ash, such as the archdevil [Moloch](/Deities.aspx?ID=70) or the demon lord Flauros.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Mystery Benefit** Your flesh flows around physical threats like a cloud of ash. You gain resistance equal to half your level (minimum 1) against all physical damage and you gain a +2 circumstance bonus to saves and DCs against [Grapple](/Actions.aspx?ID=35), [Shove](/Actions.aspx?ID=38), and [forced movement](/Rules.aspx?ID=451).\r\n\r\n**Trained Skill**\r\n[Occultism](/Skills.aspx?ID=11)\n\n**Granted Cantrip** [Produce Flame](/Spells.aspx?ID=236)\r\n\r\n**Initial Revelation Spell** [Ashen Wind](/Spells.aspx?ID=1242)\r\n\r\n**Advanced Revelation Spell** [Incendiary Ashes](/Spells.aspx?ID=1243)\r\n\r\n**Greater Revelation Spell** [Ash Form](/Spells.aspx?ID=1241)\r\n\r\n**Related Domains** [Destruction](/Domains.aspx?ID=8), [Fire](/Domains.aspx?ID=13)\n\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Limited\">Curse of Creeping Ashes</title>\r\n\r\n<traits>\r\n\r\n</traits>\n\nYour body is slowly being consumed by the fires of your internal power, purifying you with each passing day. You are occasionally wracked with dry, wheezing coughs, and wherever you go you leave behind a fine trace of ash that falls from your body.\r\n\r\n**Minor Curse** The smoldering furnace of power within you begins to feed on your body and generate ash, which you inhale with every breath and leave behind with every step, impeding your footing. You take a –1 penalty on Constitution-based checks, such as Fortitude saves, and your Speed is reduced by 10 feet.\r\n\r\n**Moderate Curse** The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are [dazzled](/Conditions.aspx?ID=7). An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are [concealed](/Conditions.aspx?ID=4). If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away).\r\n\r\n**Major Curse** You and nearby creatures collapse into ash with the slightest flame. Within your moderate curse's aura, you and all creatures gain weakness to fire equal to half your level. If a creature other than you in this aura is killed by fire damage, its body collapses into ash. Objects and structures in your aura halve their Hardness, and any parts of the object or structures in your aura that are reduced to 0 Hit Points collapse into ash.",
+  "name": "Ash",
+  "pfs": "Limited",
+  "primary_source": "Pathfinder #185: A Taste of Ashes",
+  "primary_source_raw": "Pathfinder #185: A Taste of Ashes pg. 80",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Blood Lords",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-11-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 80\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the  flames mystery , but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #185: A Taste of Ashes"
+  ],
+  "source_raw": [
+   "Pathfinder #185: A Taste of Ashes pg. 80"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Blood Lords"
+  ],
+  "source_markdown": "[Pathfinder #185: A Taste of Ashes](/Sources.aspx?ID=188) pg. 80",
+  "speed": {},
+  "spell": [
+   "Produce Flame",
+   "Ashen Wind",
+   "Incendiary Ashes",
+   "Ash Form"
+  ],
+  "spell_markdown": "[Ash Form](/Spells.aspx?ID=1241), [Ashen Wind](/Spells.aspx?ID=1242), [Incendiary Ashes](/Spells.aspx?ID=1243), [Produce Flame](/Spells.aspx?ID=236)",
+  "summary": "You see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the  flames mystery , but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart.",
+  "summary_markdown": "You see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the  flames mystery , but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart.",
+  "text": " Ash Source Pathfinder #185: A Taste of Ashes pg. 80 You see all things in the world as little more than fleeting and temporary, waiting to be purified into their base essence: the ash left behind after a burning fire. While you understand fire is a necessary part of this process, you see fire mostly as a tool to achieve final purity, not a goal. You have much in common with oracles with the flames mystery, but you may consider them to be short-sighted, or at best simply lacking in understanding of the truths that their burning fires impart. You might see ash as the only true representation of the impermanent nature of life and its pointless existence. Alternatively, you may see the benefit ash can have on soils and farmlands as part of a larger cycle of death and rebirth. Perhaps you see the phoenix, with its life cycle of being reduced to ash and reborn, as a sacred creature that has achieved a higher state of being and worthy of imitation (or maybe you see it as a tragic creature that can't ever reach the goal of perfection). If you follow a deity, you might follow gods of fire like Sarenrae, those who burn impurities to ash such as Brigh or Torag, or those who strive to burn all things to ash, such as the archdevil Moloch or the demon lord Flauros. Mystery Benefit Your flesh flows around physical threats like a cloud of ash. You gain resistance equal to half your level (minimum 1) against all physical damage and you gain a +2 circumstance bonus to saves and DCs against Grapple, Shove, and forced movement. Trained Skill Occultism Granted Cantrip Produce Flame Initial Revelation Spell Ashen Wind Advanced Revelation Spell Incendiary Ashes Greater Revelation Spell Ash Form Related Domains Destruction, Fire Curse of Creeping Ashes Your body is slowly being consumed by the fires of your internal power, purifying you with each passing day. You are occasionally wracked with dry, wheezing coughs, and wherever you go you leave behind a fine trace of ash that falls from your body. Minor Curse The smoldering furnace of power within you begins to feed on your body and generate ash, which you inhale with every breath and leave behind with every step, impeding your footing. You take a –1 penalty on Constitution-based checks, such as Fortitude saves, and your Speed is reduced by 10 feet. Moderate Curse The ash you produce intensifies and fills the area around you, obscuring details and making the ground challenging to navigate. You are dazzled. An aura of ash surrounds you in a 10-foot emanation. You and creatures in the aura are concealed. If you do not move for 1 round, heaps of ashes settle in the aura, creating difficult terrain that lasts until you move (when the ashes blow away). Major Curse You and nearby creatures collapse into ash with the slightest flame. Within your moderate curse's aura, you and all creatures gain weakness to fire equal to half your level. If a creature other than you in this aura is killed by fire damage, its body collapses into ash. Objects and structures in your aura halve their Hardness, and any parts of the object or structures in your aura that are reduced to 0 Hit Points collapse into ash.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Duty",
+   "Family",
+   "Soul"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-12",
+  "legacy_id": [
+   "mystery-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Ancestors](/Mysteries.aspx?ID=12)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\r\n\r\n_[**PFS Note**](/pathfinder-society) Any deities or character options which grant the _dreaming potential_ spell instead grant _illusory scene_._\r\n\r\nThe voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional [dwarven](/Ancestries.aspx?ID=59) community that worships [Torag’s](/Deities.aspx?ID=294) family pantheon, or a group that reveres [Erastil](/Deities.aspx?ID=282) or [Pharasma](/Deities.aspx?ID=290). You might commune with powerful [psychopomps](/Traits.aspx?ID=679) who shepherd souls to the afterlife, with the [River of Souls](/Planes.aspx?ID=39) itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs.\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Society](/Skills.aspx?ID=47)\n\n**Granted Spells**\r\n- **Cantrip** [Guidance](/Spells.aspx?ID=1549)\r\n- **1st** [Ill Omen](/Spells.aspx?ID=1566)\r\n- **2nd** [Ghostly Carrier](/Spells.aspx?ID=1543)\r\n- **5th** [Dreaming Potential](/Spells.aspx?ID=1504)\r\n\r\n**Initial Revelation Spell** [Ancestral Touch](/Spells.aspx?ID=2066)\r\n\r\n**Advanced Revelation Spell** [Ancestral Defense](/Spells.aspx?ID=2067)\r\n\r\n**Greater Revelation Spell** [Ancestral Form](/Spells.aspx?ID=2068)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=70), [Duty](/Domains.aspx?ID=45), [Family](/Domains.aspx?ID=74), [Soul](/Domains.aspx?ID=51)\r\n\r\n**Oracle Feat** [Whispers of Weakness](/Feats.aspx?ID=6057)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Ancestral Meddling</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=737\" />\r\n</traits>\n\nThe ancestral spirits you commune with haunt you and meddle with your belongings and actions, either out of a wellintentioned (but ultimately detrimental) attempt to assist you, as punishment for your audacity in circumventing the traditional means of achieving divine power, for their own amusement, or a mixture of the above. When you have the [cursebound](/Traits.aspx?ID=800) condition, you are [clumsy](/Conditions.aspx?ID=61) with a value equal to your cursebound value as the spirits of your ancestors temporarily possess you and vie for control in your mind, hindering your movements.",
+  "name": "Ancestors",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 135",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe voices of generations past speak to you, and you hear their words.\r\n</summary>",
+  "skill": [
+   "Society"
+  ],
+  "skill_markdown": "[Society](/Skills.aspx?ID=47)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 135"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 135",
+  "speed": {},
+  "spell": [
+   "Guidance",
+   "Ancestral Touch",
+   "Ancestral Defense",
+   "Ancestral Form",
+   "Ill Omen",
+   "Ghostly Carrier",
+   "Dreaming Potential"
+  ],
+  "spell_markdown": "[Ancestral Defense](/Spells.aspx?ID=2067), [Ancestral Form](/Spells.aspx?ID=2068), [Ancestral Touch](/Spells.aspx?ID=2066), [Dreaming Potential](/Spells.aspx?ID=1504), [Ghostly Carrier](/Spells.aspx?ID=1543), [Guidance](/Spells.aspx?ID=1549), [Ill Omen](/Spells.aspx?ID=1566)",
+  "summary": "The voices of generations past speak to you, and you hear their words.",
+  "summary_markdown": "The voices of generations past speak to you, and you hear their words.",
+  "text": " Ancestors Source Player Core 2 pg. 135 PFS Note Any deities or character options which grant the dreaming potential spell instead grant illusory scene . The voices of generations past speak to you, and you hear their words. You might resent the constant interruption, or you might revere the spirits of those who came before. Perhaps you hail from a culture with strong ancestral traditions, such as the Shoanti Skoan-Quah (Skull Clan), a traditional dwarven community that worships Torag’s family pantheon, or a group that reveres Erastil or Pharasma. You might commune with powerful psychopomps who shepherd souls to the afterlife, with the River of Souls itself, or with those spirits who have become trapped outside of the great cycle of spiritual rebirth. You learn from their whispers and the fragments of their memories, but opening your mind to their knowledge and experience also allows them to meddle in your worldly affairs. Mystery Skill Society Granted Spells - Cantrip Guidance - 1st Ill Omen - 2nd Ghostly Carrier - 5th Dreaming Potential Initial Revelation Spell Ancestral Touch Advanced Revelation Spell Ancestral Defense Greater Revelation Spell Ancestral Form Related Domains Death, Duty, Family, Soul Oracle Feat Whispers of Weakness Curse of Ancestral Meddling The ancestral spirits you commune with haunt you and meddle with your belongings and actions, either out of a wellintentioned (but ultimately detrimental) attempt to assist you, as punishment for your audacity in circumventing the traditional means of achieving divine power, for their own amusement, or a mixture of the above. When you have the cursebound condition, you are clumsy with a value equal to your cursebound value as the spirits of your ancestors temporarily possess you and vie for control in your mind, hindering your movements.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Destruction",
+   "Might",
+   "Protection",
+   "Zeal"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-13",
+  "legacy_id": [
+   "mystery-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Battle](/Mysteries.aspx?ID=13)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\n\nWarlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as [Gorum](/Deities.aspx?ID=283), [Iomedae](/Deities.aspx?ID=285), [Rovagug](/Deities.aspx?ID=291), the [Horseman of War Szuriel](/Deities.aspx?ID=136), the [Queen of the Night Eiseth](/Deities.aspx?ID=169), the [Vudrani god Diomazul](/Deities.aspx?ID=190), and others, or you might find power in the unending conflict between the armies of [Heaven](/Planes.aspx?ID=41) and [Hell](/Planes.aspx?ID=42), [the Elemental Planes](/Planes.aspx?Category=1), [the Outer Gods](/DeityCategories.aspx?ID=13), or even the collective spirits of those who fought in wars over the ages.\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Athletics](/Skills.aspx?ID=36)\n\n**Granted Spells**\r\n- **Cantrip** [Shield](/Spells.aspx?ID=1671)\r\n- **1st** [Sure Strike](/Spells.aspx?ID=1709)\r\n- **2nd** [Telekinetic Maneuver](/Spells.aspx?ID=1717)\r\n- **4th** [Weapon Storm](/Spells.aspx?ID=1758)\r\n\r\n**Initial Revelation Spell** [Weapon Trance](/Spells.aspx?ID=2069)\r\n\r\n**Advanced Revelation Spell** [Battlefield Persistence](/Spells.aspx?ID=2070)\r\n\r\n**Greater Revelation Spell** [Revel in Retribution](/Spells.aspx?ID=2071)\r\n\r\n**Related Domains** [Destruction](/Domains.aspx?ID=71), [Might](/Domains.aspx?ID=83), [Protection](/Domains.aspx?ID=90), [Zeal](/Domains.aspx?ID=100)\r\n\r\n**Oracle Feat** [Oracular Warning](/Feats.aspx?ID=6056)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of the Mortal Warrior</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nYou thrive in the thick of battle, but your mystery’s sheer focus on the physical and material leaves your soul weak against the tricks of spellcraft. You smell faintly of steel and blood no matter how you try to remove or mask the scent, you appear more imposing and muscular than you actually are, and you hear the faint clash and clamor of battle in the distance at all times.\n\n**Cursebound 1** Spells have an easier time wounding you. You gain [weakness](/Rules.aspx?ID=2317) 2 to any damage dealt by a spell. Any [immunity](/Rules.aspx?ID=2313) or [resistance](/Rules.aspx?ID=2318) you have to spells is suppressed. This applies only to spells, not other magical abilities.\n\n**Cursebound 2** You take a –1 status penalty to saving throws against spells.\n\n**Cursebound 3** Your weakness to spells is equal to your level.\n\n**Cursebound 4** Your status penalty to saving throws against spells increases to –2.\n\n",
+  "name": "Battle",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 135",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWarlike forces fill you with physical might and tactical knowledge.\r\n</summary>",
+  "skill": [
+   "Athletics"
+  ],
+  "skill_markdown": "[Athletics](/Skills.aspx?ID=36)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 135"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 135",
+  "speed": {},
+  "spell": [
+   "Shield",
+   "Weapon Trance",
+   "Battlefield Persistence",
+   "Revel in Retribution",
+   "Sure Strike",
+   "Telekinetic Maneuver",
+   "Weapon Storm"
+  ],
+  "spell_markdown": "[Battlefield Persistence](/Spells.aspx?ID=2070), [Revel in Retribution](/Spells.aspx?ID=2071), [Shield](/Spells.aspx?ID=1671), [Sure Strike](/Spells.aspx?ID=1709), [Telekinetic Maneuver](/Spells.aspx?ID=1717), [Weapon Storm](/Spells.aspx?ID=1758), [Weapon Trance](/Spells.aspx?ID=2069)",
+  "summary": "Warlike forces fill you with physical might and tactical knowledge.",
+  "summary_markdown": "Warlike forces fill you with physical might and tactical knowledge.",
+  "text": " Battle Source Player Core 2 pg. 135 Warlike forces fill you with physical might and tactical knowledge, aiming to have you uphold the glory of combat, fight to improve the world, prepare against the necessity of conflict, or endure the inevitability of war. You might draw upon deities such as Gorum, Iomedae, Rovagug, the Horseman of War Szuriel, the Queen of the Night Eiseth, the Vudrani god Diomazul, and others, or you might find power in the unending conflict between the armies of Heaven and Hell, the Elemental Planes, the Outer Gods, or even the collective spirits of those who fought in wars over the ages. Mystery Skill Athletics Granted Spells - Cantrip Shield - 1st Sure Strike - 2nd Telekinetic Maneuver - 4th Weapon Storm Initial Revelation Spell Weapon Trance Advanced Revelation Spell Battlefield Persistence Greater Revelation Spell Revel in Retribution Related Domains Destruction, Might, Protection, Zeal Oracle Feat Oracular Warning Curse of the Mortal Warrior You thrive in the thick of battle, but your mystery’s sheer focus on the physical and material leaves your soul weak against the tricks of spellcraft. You smell faintly of steel and blood no matter how you try to remove or mask the scent, you appear more imposing and muscular than you actually are, and you hear the faint clash and clamor of battle in the distance at all times. Cursebound 1 Spells have an easier time wounding you. You gain weakness 2 to any damage dealt by a spell. Any immunity or resistance you have to spells is suppressed. This applies only to spells, not other magical abilities. Cursebound 2 You take a –1 status penalty to saving throws against spells. Cursebound 3 Your weakness to spells is equal to your level. Cursebound 4 Your status penalty to saving throws against spells increases to –2.\n",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Decay",
+   "Undeath",
+   "Vigil"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-14",
+  "legacy_id": [
+   "mystery-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Bones](/Mysteries.aspx?ID=14)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\n\nYour mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like [Pharasma](/Deities.aspx?ID=290) and the [psychopomp ushers](/MonsterFamilies.aspx?ID=458) (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the [Mantis God Achaekek](/Deities.aspx?ID=29) or the [Horseman of the Apocalypse Charon](/Deities.aspx?ID=135); or a herald of undeath such as [Urgathoa](/Deities.aspx?ID=295).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Medicine](/Skills.aspx?ID=42)\n\n**Granted Spells**\r\n- **Cantrip** [Void Warp](/Spells.aspx?ID=1745)\r\n- **1st** [Grim Tendrils](/Spells.aspx?ID=1548)\r\n- **2nd** [False Vitality](/Spells.aspx?ID=1523)\r\n- **3rd** [Ghostly Weapon](/Spells.aspx?ID=1544)\r\n\r\n**Initial Revelation Spell** [Soul Siphon](/Spells.aspx?ID=2072)\r\n\r\n**Advanced Revelation Spell** [Armor of Bones](/Spells.aspx?ID=2073)\r\n\r\n**Greater Revelation Spell** [Claim Undead](/Spells.aspx?ID=2074)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=70), [Decay](/Domains.aspx?ID=42), [Undeath](/Domains.aspx?ID=97), [Vigil](/Domains.aspx?ID=55)\r\n\r\n**Oracle Feat** [Nudge the Scales](/Feats.aspx?ID=6055)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Living Death</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n<trait label=\"Vitality\" url=\"/Traits.aspx?ID=509\" />\r\n<trait label=\"Void\" url=\"/Traits.aspx?ID=510\" />\r\n</traits>\n\nYour body is slowly decaying even though you are alive, and using your powers furthers this unnatural living death, making you susceptible to both void and vitality damage. You carry a touch of the grave about you, manifesting as bloodless pallor, a faint smell of earth, or deathly cold skin.\n\n**Cursebound 1** You gain [weakness](/Rules.aspx?ID=2317) 2 to [vitality](/Traits.aspx?ID=509) and [void](/Traits.aspx?ID=510) damage. You can be hurt by both vitality and void damage even if one or the other normally has no effect on you. Any [immunity](/Rules.aspx?ID=2313) or [resistance](/Rules.aspx?ID=2318) you have to vitality or void is suppressed.\n\n**Cursebound 2** You take a –1 status penalty to Fortitude saves.\n\n**Cursebound 3** Your weakness to vitality and void damage is equal to 5 + your level.\n\n**Cursebound 4** Your status penalty to Fortitude saving throws increases to –2.\n\n",
+  "name": "Bones",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 135",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 135\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour mystery imparts an understanding of death and undeath in all their macabre complexity.\r\n</summary>",
+  "skill": [
+   "Medicine"
+  ],
+  "skill_markdown": "[Medicine](/Skills.aspx?ID=42)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 135"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 135",
+  "speed": {},
+  "spell": [
+   "Void Warp",
+   "Soul Siphon",
+   "Armor of Bones",
+   "Claim Undead",
+   "Grim Tendrils",
+   "False Vitality",
+   "Ghostly Weapon"
+  ],
+  "spell_markdown": "[Armor of Bones](/Spells.aspx?ID=2073), [Claim Undead](/Spells.aspx?ID=2074), [False Vitality](/Spells.aspx?ID=1523), [Ghostly Weapon](/Spells.aspx?ID=1544), [Grim Tendrils](/Spells.aspx?ID=1548), [Soul Siphon](/Spells.aspx?ID=2072), [Void Warp](/Spells.aspx?ID=1745)",
+  "summary": "Your mystery imparts an understanding of death and undeath in all their macabre complexity.",
+  "summary_markdown": "Your mystery imparts an understanding of death and undeath in all their macabre complexity.",
+  "text": " Bones Source Player Core 2 pg. 135 Your mystery imparts an understanding of death and undeath in all their macabre complexity. You might have had a brush with death yourself—maybe even dying and returning to life—or carry the touch of undeath in your blood. If you commune with deities, you might speak with guardians of death like Pharasma and the psychopomp ushers (the most powerful among creatures that guide souls through the afterlife); a bringer of death like the Mantis God Achaekek or the Horseman of the Apocalypse Charon; or a herald of undeath such as Urgathoa. Mystery Skill Medicine Granted Spells - Cantrip Void Warp - 1st Grim Tendrils - 2nd False Vitality - 3rd Ghostly Weapon Initial Revelation Spell Soul Siphon Advanced Revelation Spell Armor of Bones Greater Revelation Spell Claim Undead Related Domains Death, Decay, Undeath, Vigil Oracle Feat Nudge the Scales Curse of Living Death Your body is slowly decaying even though you are alive, and using your powers furthers this unnatural living death, making you susceptible to both void and vitality damage. You carry a touch of the grave about you, manifesting as bloodless pallor, a faint smell of earth, or deathly cold skin. Cursebound 1 You gain weakness 2 to vitality and void damage. You can be hurt by both vitality and void damage even if one or the other normally has no effect on you. Any immunity or resistance you have to vitality or void is suppressed. Cursebound 2 You take a –1 status penalty to Fortitude saves. Cursebound 3 Your weakness to vitality and void damage is equal to 5 + your level. Cursebound 4 Your status penalty to Fortitude saving throws increases to –2.\n",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Darkness",
+   "Moon",
+   "Star",
+   "Void"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-15",
+  "legacy_id": [
+   "mystery-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Cosmos](/Mysteries.aspx?ID=15)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 136\n\nCelestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like [Desna](/Deities.aspx?ID=281), [Sarenrae](/Deities.aspx?ID=292), or the deific lovers [Shizuru](/Deities.aspx?ID=315) and [Tsukiyo](/Deities.aspx?ID=317) who represent the sun and the moon— or you might draw power from dark entities from beyond the stars, like certain [Outer Gods](/DeityCategories.aspx?ID=13), or destructive gods of the night like [Zon-Kuthon](/Deities.aspx?ID=296) or the rat goddess [Lao Shu Po](/Deities.aspx?ID=312).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Nature](/Skills.aspx?ID=43)\n\n**Granted Spells**\r\n- **Cantrip** [Light](/Spells.aspx?ID=1585)\r\n- **1st** [Dizzying Colors](/Spells.aspx?ID=1500)\r\n- **2nd** [Darkness](/Spells.aspx?ID=1480)\r\n- **5th** [Moon Frenzy](/Spells.aspx?ID=1609)\r\n\r\n**Initial Revelation Spell** [Spray of Stars](/Spells.aspx?ID=2075)\r\n\r\n**Advanced Revelation Spell** [Interstellar Void](/Spells.aspx?ID=2076)\r\n\r\n**Greater Revelation Spell** [Moonlight Bridge](/Spells.aspx?ID=2077)\r\n\r\n**Related Domains** [Darkness](/Domains.aspx?ID=69), [Moon](/Domains.aspx?ID=84), [Star](/Domains.aspx?ID=52), [Void](/Domains.aspx?ID=56)\r\n\r\n**Oracle Feat** [Oracular Warning](/Feats.aspx?ID=6056)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of the Sky's Call</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nYour body is drawn toward the heavens, making you lighter and less substantial than you should be. Your eyes glow with starry light, and your hair and clothing float and drift around you. When you have the [cursebound](/Traits.aspx?ID=800) condition, you are [enfeebled](/Conditions.aspx?ID=71) with a value equal to your cursebound value, and you take a status penalty to saves and DCs against all forms of [forced movement](/Rules.aspx?ID=2364) equal to your cursebound value.",
+  "name": "Cosmos",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 136",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 136\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCelestial bodies great and small exert influence on you, giving you sublime cosmic power.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 136"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 136",
+  "speed": {},
+  "spell": [
+   "Light",
+   "Spray of Stars",
+   "Interstellar Void",
+   "Moonlight Bridge",
+   "Dizzying Colors",
+   "Darkness",
+   "Moon Frenzy"
+  ],
+  "spell_markdown": "[Darkness](/Spells.aspx?ID=1480), [Dizzying Colors](/Spells.aspx?ID=1500), [Interstellar Void](/Spells.aspx?ID=2076), [Light](/Spells.aspx?ID=1585), [Moon Frenzy](/Spells.aspx?ID=1609), [Moonlight Bridge](/Spells.aspx?ID=2077), [Spray of Stars](/Spells.aspx?ID=2075)",
+  "summary": "Celestial bodies great and small exert influence on you, giving you sublime cosmic power.",
+  "summary_markdown": "Celestial bodies great and small exert influence on you, giving you sublime cosmic power.",
+  "text": " Cosmos Source Player Core 2 pg. 136 Celestial bodies great and small exert influence on you, giving you sublime cosmic power. Perhaps you see the glittering stars as a divine blessing, or perhaps you feel drawn to the infinitely dark spaces between. You might uphold deities like Desna, Sarenrae, or the deific lovers Shizuru and Tsukiyo who represent the sun and the moon— or you might draw power from dark entities from beyond the stars, like certain Outer Gods, or destructive gods of the night like Zon-Kuthon or the rat goddess Lao Shu Po. Mystery Skill Nature Granted Spells - Cantrip Light - 1st Dizzying Colors - 2nd Darkness - 5th Moon Frenzy Initial Revelation Spell Spray of Stars Advanced Revelation Spell Interstellar Void Greater Revelation Spell Moonlight Bridge Related Domains Darkness, Moon, Star, Void Oracle Feat Oracular Warning Curse of the Sky's Call Your body is drawn toward the heavens, making you lighter and less substantial than you should be. Your eyes glow with starry light, and your hair and clothing float and drift around you. When you have the cursebound condition, you are enfeebled with a value equal to your cursebound value, and you take a status penalty to saves and DCs against all forms of forced movement equal to your cursebound value.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Dust",
+   "Fire",
+   "Star",
+   "Sun"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-16",
+  "legacy_id": [
+   "mystery-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Flames](/Mysteries.aspx?ID=16)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 136\n\nFire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the [Elemental Plane of Fire](/Planes.aspx?ID=31), or venerate a collection of deities such as [Asmodeus](/Deities.aspx?ID=278), [Sarenrae](/Deities.aspx?ID=292), the Tian goddess of disasters and volcanoes [Lady Nanbyo](/Deities.aspx?ID=311), or the elemental lord of fire [Ymeri](/Deities.aspx?ID=108).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Acrobatics](/Skills.aspx?ID=34)\n\n**Granted Spells**\r\n- **Cantrip** [Ignition](/Spells.aspx?ID=1565)\r\n- **1st** [Breathe Fire](/Spells.aspx?ID=1457)\r\n- **2nd** [Blazing Bolt](/Spells.aspx?ID=1450)\r\n- **3rd** [Fireball](/Spells.aspx?ID=1530)\r\n\r\n**Initial Revelation Spell** [Incendiary Aura](/Spells.aspx?ID=2078)\r\n\r\n**Advanced Revelation Spell** [Whirling Flames](/Spells.aspx?ID=2079)\r\n\r\n**Greater Revelation Spell** [Flaming Fusillade](/Spells.aspx?ID=2080)\r\n\r\n**Related Domains** [Dust](/Domains.aspx?ID=44), [Fire](/Domains.aspx?ID=76), [Star](/Domains.aspx?ID=52), [Sun](/Domains.aspx?ID=92)\r\n\r\n**Oracle Feat** [Foretell Harm](/Feats.aspx?ID=6053)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Engulfing Flames</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Fire\" url=\"/Traits.aspx?ID=604\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nFires flare noticeably (though not dangerously) in your presence, you occasionally smoke slightly, and your body is almost painfully hot to the touch. When you have the [cursebound](/Traits.aspx?ID=800) condition, you catch fire, taking [persistent fire damage](/Conditions.aspx?ID=86) equal to your cursebound value. The flames shed [light](/Rules.aspx?ID=2401) like a [torch](/Equipment.aspx?ID=2760), and if you enter an environment where they could not burn (such as underwater), you simply seethe with flameless heat. The flames subside when you begin [Refocusing](/Actions.aspx?ID=2621) to assuage your curse or if you fall [unconscious](/Conditions.aspx?ID=95), but they resume if your Refocus activity is interrupted or when you return to consciousness.",
+  "name": "Flames",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 136",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 136\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFire lives at the center of the world, the center of the sun, and the center of civilization.\r\n</summary>",
+  "skill": [
+   "Acrobatics"
+  ],
+  "skill_markdown": "[Acrobatics](/Skills.aspx?ID=34)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 136"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 136",
+  "speed": {},
+  "spell": [
+   "Ignition",
+   "Incendiary Aura",
+   "Whirling Flames",
+   "Flaming Fusillade",
+   "Breathe Fire",
+   "Blazing Bolt",
+   "Fireball"
+  ],
+  "spell_markdown": "[Blazing Bolt](/Spells.aspx?ID=1450), [Breathe Fire](/Spells.aspx?ID=1457), [Fireball](/Spells.aspx?ID=1530), [Flaming Fusillade](/Spells.aspx?ID=2080), [Ignition](/Spells.aspx?ID=1565), [Incendiary Aura](/Spells.aspx?ID=2078), [Whirling Flames](/Spells.aspx?ID=2079)",
+  "summary": "Fire lives at the center of the world, the center of the sun, and the center of civilization.",
+  "summary_markdown": "Fire lives at the center of the world, the center of the sun, and the center of civilization.",
+  "text": " Flames Source Player Core 2 pg. 136 Fire lives at the center of the world, the center of the sun, and the center of civilization. You might revere this elemental force, siphon power from the Elemental Plane of Fire, or venerate a collection of deities such as Asmodeus, Sarenrae, the Tian goddess of disasters and volcanoes Lady Nanbyo, or the elemental lord of fire Ymeri. Mystery Skill Acrobatics Granted Spells - Cantrip Ignition - 1st Breathe Fire - 2nd Blazing Bolt - 3rd Fireball Initial Revelation Spell Incendiary Aura Advanced Revelation Spell Whirling Flames Greater Revelation Spell Flaming Fusillade Related Domains Dust, Fire, Star, Sun Oracle Feat Foretell Harm Curse of Engulfing Flames Fires flare noticeably (though not dangerously) in your presence, you occasionally smoke slightly, and your body is almost painfully hot to the touch. When you have the cursebound condition, you catch fire, taking persistent fire damage equal to your cursebound value. The flames shed light like a torch, and if you enter an environment where they could not burn (such as underwater), you simply seethe with flameless heat. The flames subside when you begin Refocusing to assuage your curse or if you fall unconscious, but they resume if your Refocus activity is interrupted or when you return to consciousness.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Death",
+   "Healing",
+   "Pain",
+   "Soul"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-17",
+  "legacy_id": [
+   "mystery-6"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Life](/Mysteries.aspx?ID=17)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\n\nThe never-ending flow of life force within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world’s living creatures, hold some connection to [Creation’s Forge](/Planes.aspx?ID=27), or revere a collection of deities including [Irori](/Deities.aspx?ID=286), [Pharasma](/Deities.aspx?ID=290), [Sarenrae](/Deities.aspx?ID=292), and the god of medicine [Qi Zhong](/Deities.aspx?ID=314).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Medicine](/Skills.aspx?ID=42)\n\n**Granted Spells**\r\n- **Cantrip** [Vitality Lash](/Spells.aspx?ID=1744)\r\n- **1st** [Soothe](/Spells.aspx?ID=1678)\r\n- **2nd** [False Vitality](/Spells.aspx?ID=1523)\r\n- **5th** [Grisly Growths](/Spells.aspx?ID=1998)\r\n\r\n**Initial Revelation Spell** [Life Link](/Spells.aspx?ID=2081)\r\n\r\n**Advanced Revelation Spell** [Delay Affliction](/Spells.aspx?ID=2082)\r\n\r\n**Greater Revelation Spell** [Life-Giving Form](/Spells.aspx?ID=2083)\r\n\r\n**Related Domains** [Death](/Domains.aspx?ID=70), [Healing](/Domains.aspx?ID=78), [Pain](/Domains.aspx?ID=87), [Soul](/Domains.aspx?ID=51)\r\n\r\n**Oracle Feat** [Nudge the Scales](/Feats.aspx?ID=6055)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Outpouring Life</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nLife energy flows outward from you and connects you to all living things, but you expend your vital essence to do so. Your presence comforts the ill and injured, causes scars to fade slightly, spurs new growth in plants, and otherwise infuses your surroundings with vitality. As your life force seeps outward, it becomes more difficult to keep your body functioning. Magical effects that restore Hit Points to you take a status penalty equal to your level (minimum 1) times your [cursebound](/Traits.aspx?ID=800) value to the number of HP you recover.",
+  "name": "Life",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 137",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe never-ending flow of life force within living beings is palpable to you.\r\n</summary>",
+  "skill": [
+   "Medicine"
+  ],
+  "skill_markdown": "[Medicine](/Skills.aspx?ID=42)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 137"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 137",
+  "speed": {},
+  "spell": [
+   "Vitality Lash",
+   "Life Link",
+   "Delay Affliction",
+   "Life-Giving Form",
+   "Soothe",
+   "False Vitality",
+   "Grisly Growths"
+  ],
+  "spell_markdown": "[Delay Affliction](/Spells.aspx?ID=2082), [False Vitality](/Spells.aspx?ID=1523), [Grisly Growths](/Spells.aspx?ID=1998), [Life Link](/Spells.aspx?ID=2081), [Life-Giving Form](/Spells.aspx?ID=2083), [Soothe](/Spells.aspx?ID=1678), [Vitality Lash](/Spells.aspx?ID=1744)",
+  "summary": "The never-ending flow of life force within living beings is palpable to you.",
+  "summary_markdown": "The never-ending flow of life force within living beings is palpable to you.",
+  "text": " Life Source Player Core 2 pg. 137 The never-ending flow of life force within living beings is palpable to you. You might uphold the sanctity of life, or perhaps you seek to undermine it. You might draw power from the collective vitality of the world’s living creatures, hold some connection to Creation’s Forge, or revere a collection of deities including Irori, Pharasma, Sarenrae, and the god of medicine Qi Zhong. Mystery Skill Medicine Granted Spells - Cantrip Vitality Lash - 1st Soothe - 2nd False Vitality - 5th Grisly Growths Initial Revelation Spell Life Link Advanced Revelation Spell Delay Affliction Greater Revelation Spell Life-Giving Form Related Domains Death, Healing, Pain, Soul Oracle Feat Nudge the Scales Curse of Outpouring Life Life energy flows outward from you and connects you to all living things, but you expend your vital essence to do so. Your presence comforts the ill and injured, causes scars to fade slightly, spurs new growth in plants, and otherwise infuses your surroundings with vitality. As your life force seeps outward, it becomes more difficult to keep your body functioning. Magical effects that restore Hit Points to you take a status penalty equal to your level (minimum 1) times your cursebound value to the number of HP you recover.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Knowledge",
+   "Magic",
+   "Secrecy",
+   "Truth"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-18",
+  "legacy_id": [
+   "mystery-7"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Lore](/Mysteries.aspx?ID=18)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\n\nKnowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as [Abadar](/Deities.aspx?ID=277), [Irori](/Deities.aspx?ID=286), [Nethys](/Deities.aspx?ID=288), Irori’s scholarly nephew [Gruhastha](/Deities.aspx?ID=39), the fey triune goddess of fate [Magdh](/Deities.aspx?ID=97), or the aeon god figure known as [the Monad](/Deities.aspx?ID=141).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Occultism](/Skills.aspx?ID=44)\r\nand one [Lore](/Skills.aspx?ID=41) skill of your choice.\r\n\r\n**Granted Spells**\r\n- **Cantrip** [Read Aura](/Spells.aspx?ID=1646)\r\n- **1st** [Mindlink](/Spells.aspx?ID=1603)\r\n- **3rd** [Hypercognition](/Spells.aspx?ID=1563)\r\n- **6th** [Never Mind](/Spells.aspx?ID=1614)\r\n\r\n**Initial Revelation Spell** [Brain Drain](/Spells.aspx?ID=2084)\r\n\r\n**Advanced Revelation Spell** [Access Lore](/Spells.aspx?ID=2085)\r\n\r\n**Greater Revelation Spell** [Dread Secret](/Spells.aspx?ID=2086)\r\n\r\n**Related Domains** [Knowledge](/Domains.aspx?ID=80), [Magic](/Domains.aspx?ID=82), [Secrecy](/Domains.aspx?ID=91), [Truth](/Domains.aspx?ID=95)\r\n\r\n**Oracle Feat** [Whispers of Weakness](/Feats.aspx?ID=6057)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Torrential Knowledge</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nYou have a link to true divine knowledge, but your mortal mind struggles to process and act on what you know. Loose materials around you, such as dust, grains of rice, and droplets of water, slowly shift to form strange runes or faint, indecipherable writing, and you sometimes speak unintelligible truths or statements in unknown languages without realizing it. You take a status penalty to [Perception](/Rules.aspx?ID=2298) checks and Will saving throws equal to your [cursebound](/Traits.aspx?ID=800) value due to the torrential distractions of unasked-for knowledge flooding your mind. If you are cursebound 4, you additionally can’t speak, use [linguistic](/Traits.aspx?ID=642) effects, or otherwise communicate with your allies, and you are [stupefied](/Conditions.aspx?ID=94) 1.",
+  "name": "Lore",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 137",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKnowledge and information come freely to you.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=44) and one [Lore](/Skills.aspx?ID=41) skill of your choice.",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 137"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 137",
+  "speed": {},
+  "spell": [
+   "Read Aura",
+   "Brain Drain",
+   "Access Lore",
+   "Dread Secret",
+   "Mindlink",
+   "Hypercognition",
+   "Never Mind"
+  ],
+  "spell_markdown": "[Access Lore](/Spells.aspx?ID=2085), [Brain Drain](/Spells.aspx?ID=2084), [Dread Secret](/Spells.aspx?ID=2086), [Hypercognition](/Spells.aspx?ID=1563), [Mindlink](/Spells.aspx?ID=1603), [Never Mind](/Spells.aspx?ID=1614), [Read Aura](/Spells.aspx?ID=1646)",
+  "summary": "Knowledge and information come freely to you.",
+  "summary_markdown": "Knowledge and information come freely to you.",
+  "text": " Lore Source Player Core 2 pg. 137 Knowledge and information come freely to you. You might use this lore to gain power or perhaps to understand the divine mysteries of the multiverse. You might have a conduit to the fabled Akashic Record, maintain a subtle telepathic connection to the collective subconscious of all living creatures, or follow in the footsteps of deities such as Abadar, Irori, Nethys, Irori’s scholarly nephew Gruhastha, the fey triune goddess of fate Magdh, or the aeon god figure known as the Monad. Mystery Skill Occultism and one Lore skill of your choice. Granted Spells - Cantrip Read Aura - 1st Mindlink - 3rd Hypercognition - 6th Never Mind Initial Revelation Spell Brain Drain Advanced Revelation Spell Access Lore Greater Revelation Spell Dread Secret Related Domains Knowledge, Magic, Secrecy, Truth Oracle Feat Whispers of Weakness Curse of Torrential Knowledge You have a link to true divine knowledge, but your mortal mind struggles to process and act on what you know. Loose materials around you, such as dust, grains of rice, and droplets of water, slowly shift to form strange runes or faint, indecipherable writing, and you sometimes speak unintelligible truths or statements in unknown languages without realizing it. You take a status penalty to Perception checks and Will saving throws equal to your cursebound value due to the torrential distractions of unasked-for knowledge flooding your mind. If you are cursebound 4, you additionally can’t speak, use linguistic effects, or otherwise communicate with your allies, and you are stupefied 1.",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "mystery",
+  "domain": [
+   "Air",
+   "Cold",
+   "Lightning",
+   "Water"
+  ],
+  "exclude_from_search": false,
+  "id": "mystery-19",
+  "legacy_id": [
+   "mystery-8"
+  ],
+  "markdown": "<title level=\"1\" right=\"Oracle Mystery \" pfs=\"Standard\">[Tempest](/Mysteries.aspx?ID=19)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\n\nThe fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental Planes of [Air](/Planes.aspx?ID=29) and [Water](/Planes.aspx?ID=32), or through reverence of deities such as [Gozreh](/Deities.aspx?ID=284), the tengu god of storms [Hei Feng](/Deities.aspx?ID=307), the [pirate queen Besmara](/Deities.aspx?ID=32), or the [elemental lords](/DeityCategories.aspx?ID=8) of [air](/Deities.aspx?ID=103) and [water](/Deities.aspx?ID=105).\r\n\r\n<column gap=\"tiny\">\n\n**Mystery Skill**\r\n[Nature](/Skills.aspx?ID=43)\n\n**Granted Spells**\r\n- **Cantrip** [Electric Arc](/Spells.aspx?ID=1509)\r\n- **1st** [Thunderstrike](/Spells.aspx?ID=1721)\r\n- **4th** [Hydraulic Torrent](/Spells.aspx?ID=1562)\r\n- **6th** [Chain Lightning](/Spells.aspx?ID=1462)\r\n\r\n**Initial Revelation Spell** [Tempest Touch](/Spells.aspx?ID=2087)\r\n\r\n**Advanced Revelation Spell** [Thunderburst](/Spells.aspx?ID=2088)\r\n\r\n**Greater Revelation Spell** [Tempest Form](/Spells.aspx?ID=2089)\r\n\r\n**Related Domains** [Air](/Domains.aspx?ID=65), [Cold](/Domains.aspx?ID=41), [Lightning](/Domains.aspx?ID=47), [Water](/Domains.aspx?ID=98)\r\n\r\n**Oracle Feat** [Foretell Harm](/Feats.aspx?ID=6053)\r\n\r\n</column>\n\n<title level=\"2\" right=\"Oracular Curse\" pfs=\"Standard\">Curse of Inclement Headwinds</title>\r\n\r\n<traits>\r\n<trait label=\"Curse\" url=\"/Traits.aspx?ID=566\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=579\" />\r\n<trait label=\"Oracle\" url=\"/Traits.aspx?ID=817\" />\r\n</traits>\n\nThe weather seems to always oppose you in ways large and small. Even when you are calm and at rest, your hair and clothing are inconveniently blown about by gentle winds, you are slightly damp from the faintest drizzle, and your touch often comes with a static shock. When you have the [cursebound](/Traits.aspx?ID=800) condition, you are opposed by the elements, with the following effects.\n\n**Cursebound 1** Lightning is drawn to you. You gain [electricity](/Traits.aspx?ID=586) [weakness](/Rules.aspx?ID=2317) 2 and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal. Any [immunity](/Rules.aspx?ID=2313) or [resistance](/Rules.aspx?ID=2318) you have to such spells and effects is suppressed.\n\n**Cursebound 2** Blowing winds impose a -2 circumstance penalty to ranged attack rolls you make.\n\n**Cursebound 3** Your weakness to electricity is equal to 5 + your level.\n\n**Cursebound 4** The raging winds push you back, imposing a -10- foot status penalty to all your Speeds.\n\n",
+  "name": "Tempest",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 137",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 137\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe fury of the wind and waves pounds in your heart.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 137"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 137",
+  "speed": {},
+  "spell": [
+   "Electric Arc",
+   "Tempest Touch",
+   "Thunderburst",
+   "Tempest Form",
+   "Thunderstrike",
+   "Hydraulic Torrent",
+   "Chain Lightning"
+  ],
+  "spell_markdown": "[Chain Lightning](/Spells.aspx?ID=1462), [Electric Arc](/Spells.aspx?ID=1509), [Hydraulic Torrent](/Spells.aspx?ID=1562), [Tempest Form](/Spells.aspx?ID=2089), [Tempest Touch](/Spells.aspx?ID=2087), [Thunderburst](/Spells.aspx?ID=2088), [Thunderstrike](/Spells.aspx?ID=1721)",
+  "summary": "The fury of the wind and waves pounds in your heart.",
+  "summary_markdown": "The fury of the wind and waves pounds in your heart.",
+  "text": " Tempest Source Player Core 2 pg. 137 The fury of the wind and waves pounds in your heart, whether your power flows from natural storms, a conduit to the elemental Planes of Air and Water, or through reverence of deities such as Gozreh, the tengu god of storms Hei Feng, the pirate queen Besmara, or the elemental lords of air and water. Mystery Skill Nature Granted Spells - Cantrip Electric Arc - 1st Thunderstrike - 4th Hydraulic Torrent - 6th Chain Lightning Initial Revelation Spell Tempest Touch Advanced Revelation Spell Thunderburst Greater Revelation Spell Tempest Form Related Domains Air, Cold, Lightning, Water Oracle Feat Foretell Harm Curse of Inclement Headwinds The weather seems to always oppose you in ways large and small. Even when you are calm and at rest, your hair and clothing are inconveniently blown about by gentle winds, you are slightly damp from the faintest drizzle, and your touch often comes with a static shock. When you have the cursebound condition, you are opposed by the elements, with the following effects. Cursebound 1 Lightning is drawn to you. You gain electricity weakness 2 and electricity spells or effects that have additional effects for a creature wearing or holding metal treat you as though you were wearing metal. Any immunity or resistance you have to such spells and effects is suppressed. Cursebound 2 Blowing winds impose a -2 circumstance penalty to ranged attack rolls you make. Cursebound 3 Your weakness to electricity is equal to 5 + your level. Cursebound 4 The raging winds push you back, imposing a -10- foot status penalty to all your Speeds.\n",
+  "type": "Oracle Mystery",
+  "url": "/Mysteries.aspx?ID=19",
+  "weakness": {}
+ }
+]

@@ -1,0 +1,1071 @@
+[
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Evil Eye",
+  "id": "patron-2",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Curse](/Patrons.aspx?ID=2)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nFoiling foes and undermining those who stand in your way are the tools of the curse patrons.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Hex Cantrip** [Evil Eye](/Spells.aspx?ID=798)\r\n\r\n**Granted Spell** [Ray of Enfeeblement](/Spells.aspx?ID=244)\n\n</column>",
+  "name": "Curse",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-14"
+  ],
+  "remaster_name": [
+   "The Resentment"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFoiling foes and undermining those who stand in your way are the tools of the curse patrons.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Evil Eye",
+   "Ray of Enfeeblement"
+  ],
+  "summary": "Foiling foes and undermining those who stand in your way are the tools of the curse patrons.",
+  "summary_markdown": "Foiling foes and undermining those who stand in your way are the tools of the curse patrons.",
+  "text": " Curse Source Advanced Player's Guide pg. 99 2.0 Foiling foes and undermining those who stand in your way are the tools of the curse patrons. Spell List Occult Patron Skill Occultism Hex Cantrip Evil Eye Granted Spell Ray of Enfeeblement\n",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Nudge Fate",
+  "id": "patron-3",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Fate](/Patrons.aspx?ID=3)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nThrough your patron, you gain glimpses of the future and insight into the ever-woven tapestry of time.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Hex Cantrip** [Nudge Fate](/Spells.aspx?ID=802)\r\n\r\n**Granted Spell** [True Strike](/Spells.aspx?ID=345)\n\n</column>",
+  "name": "Fate",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-16"
+  ],
+  "remaster_name": [
+   "Spinner of Threads"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThrough your patron, you gain glimpses of the future and insight into the ever-woven tapestry of time.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Nudge Fate",
+   "True Strike"
+  ],
+  "summary": "Through your patron, you gain glimpses of the future and insight into the ever-woven tapestry of time.",
+  "summary_markdown": "Through your patron, you gain glimpses of the future and insight into the ever-woven tapestry of time.",
+  "text": " Fate Source Advanced Player's Guide pg. 99 2.0 Through your patron, you gain glimpses of the future and insight into the ever-woven tapestry of time. Spell List Occult Patron Skill Occultism Hex Cantrip Nudge Fate Granted Spell True Strike\n",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Stoke the Heart",
+  "id": "patron-4",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Fervor](/Patrons.aspx?ID=4)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nYour patron represents a grand ideal or goal, granting you magic to further their mission and bring others to the cause.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Divine](/SpellLists.aspx?Tradition=2)\r\n\r\n**Patron Skill** [Religion](/Skills.aspx?ID=13)\r\n\r\n**Hex Cantrip** [Stoke the Heart](/Spells.aspx?ID=807)\r\n\r\n**Granted Spell** [Command](/Spells.aspx?ID=45)\n\n</column>",
+  "name": "Fervor",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-12"
+  ],
+  "remaster_name": [
+   "Faith's Flamekeeper"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Divine](/SpellLists.aspx?Tradition=2)\r\n\r\n**Patron Skill** [Religion](/Skills.aspx?ID=13)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron represents a grand ideal or goal, granting you magic to further their mission and bring others to the cause.\r\n</summary>",
+  "skill": [
+   "Religion"
+  ],
+  "skill_markdown": "[Religion](/Skills.aspx?ID=13)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Stoke the Heart",
+   "Command"
+  ],
+  "summary": "Your patron represents a grand ideal or goal, granting you magic to further their mission and bring others to the cause.",
+  "summary_markdown": "Your patron represents a grand ideal or goal, granting you magic to further their mission and bring others to the cause.",
+  "text": " Fervor Source Advanced Player's Guide pg. 99 2.0 Your patron represents a grand ideal or goal, granting you magic to further their mission and bring others to the cause. Spell List Divine Patron Skill Religion Hex Cantrip Stoke the Heart Granted Spell Command\n",
+  "tradition": [
+   "Divine"
+  ],
+  "tradition_markdown": "[Divine](/SpellLists.aspx?Tradition=2)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Shroud of Night",
+  "id": "patron-5",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Night](/Patrons.aspx?ID=5)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nYour patron speaks from the shadows, granting you power over darkness and dreams.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Hex Cantrip** [Shroud of Night](/Spells.aspx?ID=806)\r\n\r\n**Granted Spell** [Sleep](/Spells.aspx?ID=288)\n\n</column>",
+  "name": "Night",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-17"
+  ],
+  "remaster_name": [
+   "Starless Shadow"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron speaks from the shadows, granting you power over darkness and dreams.\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Shroud of Night",
+   "Sleep"
+  ],
+  "summary": "Your patron speaks from the shadows, granting you power over darkness and dreams.",
+  "summary_markdown": "Your patron speaks from the shadows, granting you power over darkness and dreams.",
+  "text": " Night Source Advanced Player's Guide pg. 99 2.0 Your patron speaks from the shadows, granting you power over darkness and dreams. Spell List Occult Patron Skill Occultism Hex Cantrip Shroud of Night Granted Spell Sleep\n",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Discern Secrets",
+  "id": "patron-6",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Rune](/Patrons.aspx?ID=6)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nYour patron is one of sigils and symbols, tomes and texts, words and wisdom.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Arcane](/SpellLists.aspx?Tradition=1)\r\n\r\n**Patron Skill** [Arcana](/Skills.aspx?ID=2)\r\n\r\n**Hex Cantrip** [Discern Secrets](/Spells.aspx?ID=796)\r\n\r\n**Granted Spell** [Magic Weapon](/Spells.aspx?ID=182)\n\n</column>",
+  "name": "Rune",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-13"
+  ],
+  "remaster_name": [
+   "The Inscribed One"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Arcane](/SpellLists.aspx?Tradition=1)\r\n\r\n**Patron Skill** [Arcana](/Skills.aspx?ID=2)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron is one of sigils and symbols, tomes and texts, words and wisdom.\r\n</summary>",
+  "skill": [
+   "Arcana"
+  ],
+  "skill_markdown": "[Arcana](/Skills.aspx?ID=2)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Discern Secrets",
+   "Magic Weapon"
+  ],
+  "summary": "Your patron is one of sigils and symbols, tomes and texts, words and wisdom.",
+  "summary_markdown": "Your patron is one of sigils and symbols, tomes and texts, words and wisdom.",
+  "text": " Rune Source Advanced Player's Guide pg. 99 2.0 Your patron is one of sigils and symbols, tomes and texts, words and wisdom. Spell List Arcane Patron Skill Arcana Hex Cantrip Discern Secrets Granted Spell Magic Weapon\n",
+  "tradition": [
+   "Arcane"
+  ],
+  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Wilding Word",
+  "id": "patron-7",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Wild](/Patrons.aspx?ID=7)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nThe wild places of the world feel the touch of your patron.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n\r\n**Hex Cantrip** [Wilding Word](/Spells.aspx?ID=809)\r\n\r\n**Granted Spell** your choice of [_summon animal_](/Spells.aspx?ID=316) or [_summon plant or fungus_](/Spells.aspx?ID=325)\n\n</column>",
+  "name": "Wild",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-18"
+  ],
+  "remaster_name": [
+   "Wilding Steward"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe wild places of the world feel the touch of your patron.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Wilding Word"
+  ],
+  "summary": "The wild places of the world feel the touch of your patron.",
+  "summary_markdown": "The wild places of the world feel the touch of your patron.",
+  "text": " Wild Source Advanced Player's Guide pg. 99 2.0 The wild places of the world feel the touch of your patron. Spell List Primal Patron Skill Nature Hex Cantrip Wilding Word Granted Spell your choice of summon animal or summon plant or fungus ",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Clinging Ice",
+  "id": "patron-8",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Winter](/Patrons.aspx?ID=8)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\n\nYour patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n\r\n**Hex Cantrip** [Clinging Ice](/Spells.aspx?ID=793)\r\n\r\n**Granted Spell** [Gust of Wind](/Spells.aspx?ID=143)\n\n</column>",
+  "name": "Winter",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 99",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "patron-15"
+  ],
+  "remaster_name": [
+   "Silence in Snow"
+  ],
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power.\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 99"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 99 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Clinging Ice",
+   "Gust of Wind"
+  ],
+  "summary": "Your patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power.",
+  "summary_markdown": "Your patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power.",
+  "text": " Winter Source Advanced Player's Guide pg. 99 2.0 Your patron reflects the frozen reaches of the world, bitterly cruel to those who underestimate that power. Spell List Primal Patron Skill Nature Hex Cantrip Clinging Ice Granted Spell Gust of Wind\n",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Spirit Object",
+  "id": "patron-9",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Baba Yaga](/Patrons.aspx?ID=9)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 32\r\n\r\n_[**PFS Note**](/pathfinder-society) If a witch's patron is Baba Yaga, their familiar gains the [Familiar of Freezing Rime](/Patrons.aspx?ID=15) ability_\r\n\r\nBaba Yaga teaches you how to transfer spirits into objects and freeze your foes. A witch with Baba Yaga as their patron can choose an inanimate object as a familiar. If they do, they still can gain master abilities and some familiar abilities that don’t require movement. The object familiar has no Speeds and must select a Speed familiar ability before it can move, coming to life in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Hex Cantrip** [Spirit Object](/Spells.aspx?ID=810)\r\n\r\n**Granted Spell** [Chilling Spray](/Spells.aspx?ID=678)\n\n</column>",
+  "name": "Baba Yaga",
+  "pfs": "Standard",
+  "primary_source": "Legends",
+  "primary_source_raw": "Legends pg. 32",
+  "primary_source_category": "Lost Omens",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Legends](/Sources.aspx?ID=40) pg. 32\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBaba Yaga teaches you how to transfer spirits into objects and freeze your foes. A witch with Baba Yaga as their patron can choose an inanimate …\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Legends"
+  ],
+  "source_raw": [
+   "Legends pg. 32"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Legends](/Sources.aspx?ID=40) pg. 32",
+  "speed": {},
+  "spell": [
+   "Spirit Object",
+   "Chilling Spray"
+  ],
+  "summary": "Baba Yaga teaches you how to transfer spirits into objects and freeze your foes. A witch with Baba Yaga as their patron can choose an inanimate …",
+  "summary_markdown": "Baba Yaga teaches you how to transfer spirits into objects and freeze your foes. A witch with Baba Yaga as their patron can choose an inanimate …",
+  "text": " Baba Yaga Source Legends pg. 32 PFS Note If a witch's patron is Baba Yaga, their familiar gains the Familiar of Freezing Rime ability Baba Yaga teaches you how to transfer spirits into objects and freeze your foes. A witch with Baba Yaga as their patron can choose an inanimate object as a familiar. If they do, they still can gain master abilities and some familiar abilities that don’t require movement. The object familiar has no Speeds and must select a Speed familiar ability before it can move, coming to life in a way appropriate to the chosen Speed and using the statistics of a normal familiar for that day. Spell List Occult Patron Skill Occultism Hex Cantrip Spirit Object Granted Spell Chilling Spray\n",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait": [
+   "Rare"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Rare"
+  ],
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Buzzing Bites",
+  "id": "patron-10",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Mosquito Witch](/Patrons.aspx?ID=10)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 75\r\n\r\n_[**PFS Note**](/pathfinder-society) If a witch's patron is the Mosquito Witch, their familiar gains the Familiar of [Ongoing Misery](/Patrons.aspx?ID=14) ability_\r\n\r\nFew in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish few or simply someone who attracted the Mosquito Witch's attention unwittingly or unwillingly, she grants you powers over insects and other arthropods.\n\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n\r\n**Hex Cantrip** [Buzzing Bites](/Spells.aspx?ID=1089)\r\n\r\n**Granted Spell** [Pest Form](/Spells.aspx?ID=217)\n\n</column>",
+  "name": "Mosquito Witch",
+  "pfs": "Standard",
+  "primary_source": "Monsters of Myth",
+  "primary_source_raw": "Monsters of Myth pg. 75",
+  "primary_source_category": "Lost Omens",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2021-12-22",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 75\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFew in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Monsters of Myth"
+  ],
+  "source_raw": [
+   "Monsters of Myth pg. 75"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Monsters of Myth](/Sources.aspx?ID=107) pg. 75",
+  "speed": {},
+  "spell": [
+   "Buzzing Bites",
+   "Pest Form"
+  ],
+  "summary": "Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish …",
+  "summary_markdown": "Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish …",
+  "text": " Mosquito Witch Source Monsters of Myth pg. 75 PFS Note If a witch's patron is the Mosquito Witch, their familiar gains the Familiar of Ongoing Misery ability Few in Shimmerford or elsewhere would be foolish enough to attempt to draw the Mosquito Witch's attention, but whether you're one of those foolish few or simply someone who attracted the Mosquito Witch's attention unwittingly or unwillingly, she grants you powers over insects and other arthropods. Spell List Primal Patron Skill Nature Hex Cantrip Buzzing Bites Granted Spell Pest Form\n",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait": [
+   "Rare"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Rare"
+  ],
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Pact Broker",
+  "id": "patron-11",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Pacts](/Patrons.aspx?ID=11)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\n\nYour patron deals only in promises and bargains, and no lesson is ever given for free.\n\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n\r\n**Hex Cantrip** [Pact Broker](/Spells.aspx?ID=1180)\r\n\r\n**Granted Spell** [Command](/Spells.aspx?ID=45)\n\n</column>",
+  "name": "Pacts",
+  "pfs": "Standard",
+  "primary_source": "Dark Archive",
+  "primary_source_raw": "Dark Archive pg. 159",
+  "primary_source_category": "Rulebooks",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-07-27",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Dark Archive](/Sources.aspx?ID=129) pg. 159\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron deals only in promises and bargains, and no lesson is ever given for free.\r\n\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Dark Archive"
+  ],
+  "source_raw": [
+   "Dark Archive pg. 159"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Dark Archive](/Sources.aspx?ID=129) pg. 159",
+  "speed": {},
+  "spell": [
+   "Pact Broker",
+   "Command"
+  ],
+  "summary": "Your patron deals only in promises and bargains, and no lesson is ever given for free.\r\n",
+  "summary_markdown": "Your patron deals only in promises and bargains, and no lesson is ever given for free.\r\n",
+  "text": " Pacts Source Dark Archive pg. 159 Your patron deals only in promises and bargains, and no lesson is ever given for free. Spell List Occult Patron Skill Occultism Hex Cantrip Pact Broker Granted Spell Command\n",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait": [
+   "Rare"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Rare"
+  ],
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Stoke the Heart",
+  "id": "patron-12",
+  "legacy_id": [
+   "patron-4"
+  ],
+  "legacy_name": [
+   "Fervor"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Faith's Flamekeeper](/Patrons.aspx?ID=12)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\n\nYour patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an ember back aflame, their magic giving you the strength to carry on and bring others to your cause. Your patron is likely a divine being like an angel or aeon acting covertly, though the possibility exists they might be a more sinister entity, using you to unknown ends.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Divine](/SpellLists.aspx?Tradition=2)\r\n\r\n**Patron Skill** [Religion](/Skills.aspx?ID=13)\n\n**Lesson of Fervor's Grasp** Your patron has taught you that nothing can seize the heart like faith, whether used to inspire or direct. You gain the [_stoke the heart_](/Spells.aspx?ID=1892) hex cantrip and your familiar learns [_command_](/Spells.aspx?ID=1470).\r\n\r\n**Familiar of Restored Spirit** Your familiar is pleasantly warm and soft, seeming to wash away worries with its mere presence. When you Cast or Sustain a hex, one willing creature within 15 feet of your familiar gains temporary Hit Points equal to 2 + half your level, which last until the start of your next turn.\r\n\r\n</column>",
+  "name": "Faith's Flamekeeper",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 184",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\r\n\r\n**Spell List** [Divine](/SpellLists.aspx?Tradition=2)\r\n\r\n**Patron Skill** [Religion](/Skills.aspx?ID=13)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an …\r\n</summary>",
+  "skill": [
+   "Religion"
+  ],
+  "skill_markdown": "[Religion](/Skills.aspx?ID=13)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 184"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Stoke the Heart",
+   "Command"
+  ],
+  "summary": "Your patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an …",
+  "summary_markdown": "Your patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an …",
+  "text": " Faith's Flamekeeper Source Player Core pg. 184 2.0 Your patron contacted you in a moment your willpower was close to sputtering out. Their reassuring presence was like breath and kindling bringing an ember back aflame, their magic giving you the strength to carry on and bring others to your cause. Your patron is likely a divine being like an angel or aeon acting covertly, though the possibility exists they might be a more sinister entity, using you to unknown ends. Spell List Divine Patron Skill Religion Lesson of Fervor's Grasp Your patron has taught you that nothing can seize the heart like faith, whether used to inspire or direct. You gain the stoke the heart hex cantrip and your familiar learns command . Familiar of Restored Spirit Your familiar is pleasantly warm and soft, seeming to wash away worries with its mere presence. When you Cast or Sustain a hex, one willing creature within 15 feet of your familiar gains temporary Hit Points equal to 2 + half your level, which last until the start of your next turn. ",
+  "tradition": [
+   "Divine"
+  ],
+  "tradition_markdown": "[Divine](/SpellLists.aspx?Tradition=2)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Discern Secrets",
+  "id": "patron-13",
+  "legacy_id": [
+   "patron-6"
+  ],
+  "legacy_name": [
+   "Rune"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[The Inscribed One](/Patrons.aspx?ID=13)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\n\nNo words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the depths of their eyes, spelling out their will in a torrent of words and wisdom. Your patron might be a powerful archmage, or even one of their abandoned artifacts, searching for a successor.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Arcane](/SpellLists.aspx?Tradition=1)\r\n\r\n**Patron Skill** [Arcana](/Skills.aspx?ID=2)\n\n**Lesson of Glyph's Supremacy** Your patron teaches that the written word can accomplish so much more than it seems. You gain the [_discern secrets_](/Spells.aspx?ID=1888) hex and your familiar learns [_runic weapon_](/Spells.aspx?ID=1658).\r\n\r\n**Familiar of Flowing Script** Your familiar is covered in a pattern that looks similar to letters in an unknown language, one that seems to draw attention even as it eludes understanding. When you Cast or Sustain a hex, the letters begin to rapidly change, causing a distraction. Until the start of your next turn, your familiar can provide flanking for you and your allies as though it were able to attack and had a reach of 5 feet; this is a visual effect.\r\n\r\n</column>",
+  "name": "The Inscribed One",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 184",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\r\n\r\n**Spell List** [Arcane](/SpellLists.aspx?Tradition=1)\r\n\r\n**Patron Skill** [Arcana](/Skills.aspx?ID=2)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNo words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the …\r\n</summary>",
+  "skill": [
+   "Arcana"
+  ],
+  "skill_markdown": "[Arcana](/Skills.aspx?ID=2)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 184"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Discern Secrets",
+   "Runic Weapon"
+  ],
+  "summary": "No words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the …",
+  "summary_markdown": "No words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the …",
+  "text": " The Inscribed One Source Player Core pg. 184 2.0 No words passed your patron's lips in the moment you met; instead, words and glyphs danced across their skin while symbols and numbers swam in the depths of their eyes, spelling out their will in a torrent of words and wisdom. Your patron might be a powerful archmage, or even one of their abandoned artifacts, searching for a successor. Spell List Arcane Patron Skill Arcana Lesson of Glyph's Supremacy Your patron teaches that the written word can accomplish so much more than it seems. You gain the discern secrets hex and your familiar learns runic weapon . Familiar of Flowing Script Your familiar is covered in a pattern that looks similar to letters in an unknown language, one that seems to draw attention even as it eludes understanding. When you Cast or Sustain a hex, the letters begin to rapidly change, causing a distraction. Until the start of your next turn, your familiar can provide flanking for you and your allies as though it were able to attack and had a reach of 5 feet; this is a visual effect. ",
+  "tradition": [
+   "Arcane"
+  ],
+  "tradition_markdown": "[Arcane](/SpellLists.aspx?Tradition=1)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Evil Eye",
+  "id": "patron-14",
+  "legacy_id": [
+   "patron-2"
+  ],
+  "legacy_name": [
+   "Curse"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[The Resentment](/Patrons.aspx?ID=14)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\n\nA single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and every proud nail hammered down, whether to righteously bring justice for small folk or the base urge to see the powerful defeated. Your patron is likely far from the upper echelons of its kind, such as a hag ousted from its coven or a quasi-divinity or a lower-rank demon. This leaves it only subtler and weaker tools to see its ends met: curses, hexes, and you.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\n\n**Lesson of Strength's Impermanence** Your patron has taught you that power can be taken much more easily that it can be built. You gain the [_evil eye_](/Spells.aspx?ID=1889) hex cantrip and your familiar learns [_enfeeble_](/Spells.aspx?ID=1513).\r\n\r\n**Familiar of Ongoing Misery** Your familiar seems hostile to all creatures other than you, hissing at them if they get too near. When you Cast or Sustain a hex, your familiar can curse a creature within 15 feet of it, prolonging the duration of any negative conditions affecting it by 1 round. This is a curse effect. This prolongs only conditions with a timed duration (such as “1 round” or “until the end of your next turn”) and doesn't prevent conditions from being removed by other means.\r\n\r\n</column>",
+  "name": "The Resentment",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 184",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and …\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 184"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 184 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Evil Eye",
+   "Enfeeble"
+  ],
+  "summary": "A single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and …",
+  "summary_markdown": "A single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and …",
+  "text": " The Resentment Source Player Core pg. 184 2.0 A single feeling radiated from your patron in the moment you met them, as palpable as heat from a fire: the desire to see every tall poppy felled and every proud nail hammered down, whether to righteously bring justice for small folk or the base urge to see the powerful defeated. Your patron is likely far from the upper echelons of its kind, such as a hag ousted from its coven or a quasi-divinity or a lower-rank demon. This leaves it only subtler and weaker tools to see its ends met: curses, hexes, and you. Spell List Occult Patron Skill Occultism Lesson of Strength's Impermanence Your patron has taught you that power can be taken much more easily that it can be built. You gain the evil eye hex cantrip and your familiar learns enfeeble . Familiar of Ongoing Misery Your familiar seems hostile to all creatures other than you, hissing at them if they get too near. When you Cast or Sustain a hex, your familiar can curse a creature within 15 feet of it, prolonging the duration of any negative conditions affecting it by 1 round. This is a curse effect. This prolongs only conditions with a timed duration (such as “1 round” or “until the end of your next turn”) and doesn't prevent conditions from being removed by other means. ",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Clinging Ice",
+  "id": "patron-15",
+  "legacy_id": [
+   "patron-8"
+  ],
+  "legacy_name": [
+   "Winter"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Silence in Snow](/Patrons.aspx?ID=15)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\nBitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be a winter hag, ice yai, or other spirit of the cold, but one thing is clear as ice—their power is not to be underestimated.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\n\n**Lesson of Winter's Chill** Your patron taught you the power of winter firsthand by subjecting you to frost and snow. You learn the [_clinging ice_](/Spells.aspx?ID=1887) hex cantrip and your familiar learns [_gust of wind_](/Spells.aspx?ID=1550).\r\n\r\n**Familiar of Freezing Rime** Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are [difficult terrain](/Rules.aspx?ID=2366) until the start of your next turn.\r\n\r\n</column>",
+  "name": "Silence in Snow",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Clinging Ice",
+   "Gust of Wind"
+  ],
+  "summary": "Bitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be …",
+  "summary_markdown": "Bitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be …",
+  "text": " Silence in Snow Source Player Core pg. 185 2.0 Bitter cold heralded your patron's appearance, in the depths of the winter solstice or on a frozen peak at the end of the world. Your patron might be a winter hag, ice yai, or other spirit of the cold, but one thing is clear as ice—their power is not to be underestimated. Spell List Primal Patron Skill Nature Lesson of Winter's Chill Your patron taught you the power of winter firsthand by subjecting you to frost and snow. You learn the clinging ice hex cantrip and your familiar learns gust of wind . Familiar of Freezing Rime Your familiar is cold to the touch, its breath always visible. When you Cast or Sustain a hex, you can cause ice to form in a 5-foot burst centered on a square of your familiar's space. Those squares are difficult terrain until the start of your next turn. ",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Nudge Fate",
+  "id": "patron-16",
+  "legacy_id": [
+   "patron-3"
+  ],
+  "legacy_name": [
+   "Fate"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Spinner of Threads](/Patrons.aspx?ID=16)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\nYou met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the tapestry of time and fate. Was your patron a norn? A herald of a deity like Pharasma, Alseta, or Grandmother Spider? Could it even be a single individual appearing at three or more points in its timeline—multiple versions of the same being, parallel threads converging on a single moment?\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\n\n**Lesson of Fate's Vicissitudes** Your patron's harsh lesson is that fate spares no one, rising and falling in turn for all. You gain the [_nudge fate_](/Spells.aspx?ID=1890) hex cantrip and your familiar learns [_sure strike_](/Spells.aspx?ID=1709).\r\n\r\n**Familiar of Balanced Luck** Your familiar has a spot on its body that looks like a good luck charm or a bad omen, depending on the angle. When you Cast or Sustain a hex, one creature within 15 feet of your familiar gets your choice of either a +1 status bonus to its AC or a –1 status penalty to its AC until the start of your next turn.\r\n\r\n</column>",
+  "name": "Spinner of Threads",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the …\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Nudge Fate",
+   "Sure Strike"
+  ],
+  "summary": "You met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the …",
+  "summary_markdown": "You met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the …",
+  "text": " Spinner of Threads Source Player Core pg. 185 2.0 You met your patron in a memory of an encounter yet to come or a premonition of something long since passed, as they untangled and re-spun the tapestry of time and fate. Was your patron a norn? A herald of a deity like Pharasma, Alseta, or Grandmother Spider? Could it even be a single individual appearing at three or more points in its timeline—multiple versions of the same being, parallel threads converging on a single moment? Spell List Occult Patron Skill Occultism Lesson of Fate's Vicissitudes Your patron's harsh lesson is that fate spares no one, rising and falling in turn for all. You gain the nudge fate hex cantrip and your familiar learns sure strike . Familiar of Balanced Luck Your familiar has a spot on its body that looks like a good luck charm or a bad omen, depending on the angle. When you Cast or Sustain a hex, one creature within 15 feet of your familiar gets your choice of either a +1 status bonus to its AC or a –1 status penalty to its AC until the start of your next turn. ",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Shroud of Night",
+  "id": "patron-17",
+  "legacy_id": [
+   "patron-5"
+  ],
+  "legacy_name": [
+   "Night"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Starless Shadow](/Patrons.aspx?ID=17)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\nYour patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your patron might be a creature of the Netherworld or a long-forgotten spirit of twilight—all you remember of them are haunting eyes of moonlight, offering you power from the darkness.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\n\n**Lesson of Night's Terrors** Your patron taught you that the darkness can hide all manner of things best left unseen. You gain the [_shroud of night_](/Spells.aspx?ID=1891) hex cantrip, and your familiar learns [_fear_](/Spells.aspx?ID=110).\r\n\r\n**Familiar of Stalking Night** Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's concealed, hidden, or undetected, the enemy becomes [frightened](/Conditions.aspx?ID=19) 1.\r\n\r\n</column>",
+  "name": "Starless Shadow",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Spell List** [Occult](/SpellLists.aspx?Tradition=3)\r\n\r\n**Patron Skill** [Occultism](/Skills.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your …\r\n</summary>",
+  "skill": [
+   "Occultism"
+  ],
+  "skill_markdown": "[Occultism](/Skills.aspx?ID=11)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Shroud of Night",
+   "Fear"
+  ],
+  "summary": "Your patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your …",
+  "summary_markdown": "Your patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your …",
+  "text": " Starless Shadow Source Player Core pg. 185 2.0 Your patron first contacted you at the witching hour, as your body lay paralyzed by sleep while your mind had yet to escape the waking world. Your patron might be a creature of the Netherworld or a long-forgotten spirit of twilight—all you remember of them are haunting eyes of moonlight, offering you power from the darkness. Spell List Occult Patron Skill Occultism Lesson of Night's Terrors Your patron taught you that the darkness can hide all manner of things best left unseen. You gain the shroud of night hex cantrip, and your familiar learns fear . Familiar of Stalking Night Your familiar is dark of fur or feather, and light seems to disappear into it. When you Cast or Sustain a hex, and your familiar is adjacent to an enemy to which it's concealed, hidden, or undetected, the enemy becomes frightened 1. ",
+  "tradition": [
+   "Occult"
+  ],
+  "tradition_markdown": "[Occult](/SpellLists.aspx?Tradition=3)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Wilding Word",
+  "id": "patron-18",
+  "legacy_id": [
+   "patron-7"
+  ],
+  "legacy_name": [
+   "Wild"
+  ],
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Wilding Steward](/Patrons.aspx?ID=18)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\n\nWhen your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of hoof against unspoiled earth. They might have been a dryad queen or a primeval beast, but it seemed all of nature was theirs to defend.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\n\n**Lesson of Wild Speech** Your patron has taught you the complexities of nonverbal speech, letting you influence and call animals and plants to you. You gain the [_wilding word_](/Spells.aspx?ID=1893) hex cantrip and your familiar learns your choice of [_summon animal_](/Spells.aspx?ID=1694) or [_summon plant or fungus_](/Spells.aspx?ID=1705)\r\n\r\n**Familiar of Keen Senses** Your familiar has glinting eyes, twitching ears, or some other sign of a beast's powerful senses. When you Cast or Sustain a hex, your familiar gains your choice of an imprecise scent, tremorsense, or wavesense, with a range of 60 feet until the start of your next turn, and it can immediately Point Out as a free action.\r\n\r\n</column>",
+  "name": "Wilding Steward",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 185",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=10)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=10)",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 185"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 185 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Wilding Word",
+   "Abyssal Plague"
+  ],
+  "summary": "When your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of …",
+  "summary_markdown": "When your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of …",
+  "text": " Wilding Steward Source Player Core pg. 185 2.0 When your patron appeared before you, they moved with the grace and ferocity of the wilderness, their voice the creaking of trees and the sound of hoof against unspoiled earth. They might have been a dryad queen or a primeval beast, but it seemed all of nature was theirs to defend. Spell List Primal Patron Skill Nature Lesson of Wild Speech Your patron has taught you the complexities of nonverbal speech, letting you influence and call animals and plants to you. You gain the wilding word hex cantrip and your familiar learns your choice of summon animal or summon plant or fungus Familiar of Keen Senses Your familiar has glinting eyes, twitching ears, or some other sign of a beast's powerful senses. When you Cast or Sustain a hex, your familiar gains your choice of an imprecise scent, tremorsense, or wavesense, with a range of 60 feet until the start of your next turn, and it can immediately Point Out as a free action. ",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Scrounger's Glee",
+  "id": "patron-19",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Devourer of Decay](/Patrons.aspx?ID=19)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>\n\nYour patron appeared at the end or near the end of a life, flickering in feverish visions or glinting mysteriously in the eyes of waiting scavengers. Although horrifying to many, decay creates the resources needed for new life. This fate awaits you and possibly even your patron, whether they’re a towering arboreal, a subterranean fungus creature, or one of the psychopomps that shepherds the entire process along.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\n\n**Lesson of the Hungry Scavenger** Your patron teaches ways to convert death into new life. You gain the [_scrounger's glee_](/Spells.aspx?ID=1938) hex cantrip, and your familiar learns [_enfeeble_](/Spells.aspx?ID=1513).\r\n\r\n**Familiar of Parasitic Might** Your familiar appears gaunt and malnourished or otherwise on the brink of death, even though it's quite healthy. When you Cast or Sustain a hex, your familiar can draw on the waning strength of another to sustain itself. One creature within 15 feet of your familiar with less than half of its maximum Hit Points becomes [sickened](/Conditions.aspx?ID=91) 1 unless it succeeds at a Fortitude saving throw against your spell DC.\n\n</column>",
+  "name": "Devourer of Decay",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour patron appeared at the end or near the end of a life, flickering in feverish visions or glinting mysteriously in the eyes of waiting scavengers. …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Scrounger's Glee",
+   "Enfeeble"
+  ],
+  "summary": "Your patron appeared at the end or near the end of a life, flickering in feverish visions or glinting mysteriously in the eyes of waiting scavengers. …",
+  "summary_markdown": "Your patron appeared at the end or near the end of a life, flickering in feverish visions or glinting mysteriously in the eyes of waiting scavengers. …",
+  "text": " Devourer of Decay Source Howl of the Wild pg. 61 2.0 Your patron appeared at the end or near the end of a life, flickering in feverish visions or glinting mysteriously in the eyes of waiting scavengers. Although horrifying to many, decay creates the resources needed for new life. This fate awaits you and possibly even your patron, whether they’re a towering arboreal, a subterranean fungus creature, or one of the psychopomps that shepherds the entire process along. Spell List Primal Patron Skill Nature Lesson of the Hungry Scavenger Your patron teaches ways to convert death into new life. You gain the scrounger's glee hex cantrip, and your familiar learns enfeeble . Familiar of Parasitic Might Your familiar appears gaunt and malnourished or otherwise on the brink of death, even though it's quite healthy. When you Cast or Sustain a hex, your familiar can draw on the waning strength of another to sustain itself. One creature within 15 feet of your familiar with less than half of its maximum Hit Points becomes sickened 1 unless it succeeds at a Fortitude saving throw against your spell DC.\n",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Sting of the Sea",
+  "id": "patron-20",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Ripple in the Deep](/Patrons.aspx?ID=20)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>\n\nWhen your patron appeared, it was as an unfathomably large shadow beneath the waves, possibly as an ancient denizen of the vast waters like a kraken. Whether channeling the lethal terror of an oceanic predator or singing the ancestral wisdom of its gentle giants, your leviathan patron brings you lessons from the unplumbed depths of the world.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\n\n**Lesson of Surface and Seas** Your patron teaches of the dangers and wonders of its domain, even at the very edges of the water. You gain the [_sting of the sea_](/Spells.aspx?ID=1939) hex cantrip, and your familiar learns [_dizzying colors_](/Spells.aspx?ID=1500) or [_grease_](/Spells.aspx?ID=1547).\r\n\r\n**Familiar of Overwhelming Tides** Your familiar constantly drips with ocean water. When you Cast or Sustain a hex, you can cause a small wave to surge forth from your familiar. One creature within 10 feet of your familiar is [pushed](/Rules.aspx?ID=451) 5 feet away from your familiar.\n\n</column>",
+  "name": "Ripple in the Deep",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 61",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen your patron appeared, it was as an unfathomably large shadow beneath the waves, possibly as an ancient denizen of the vast waters like a kraken. …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 61"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 61 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Sting of the Sea"
+  ],
+  "summary": "When your patron appeared, it was as an unfathomably large shadow beneath the waves, possibly as an ancient denizen of the vast waters like a kraken. …",
+  "summary_markdown": "When your patron appeared, it was as an unfathomably large shadow beneath the waves, possibly as an ancient denizen of the vast waters like a kraken. …",
+  "text": " Ripple in the Deep Source Howl of the Wild pg. 61 2.0 When your patron appeared, it was as an unfathomably large shadow beneath the waves, possibly as an ancient denizen of the vast waters like a kraken. Whether channeling the lethal terror of an oceanic predator or singing the ancestral wisdom of its gentle giants, your leviathan patron brings you lessons from the unplumbed depths of the world. Spell List Primal Patron Skill Nature Lesson of Surface and Seas Your patron teaches of the dangers and wonders of its domain, even at the very edges of the water. You gain the sting of the sea hex cantrip, and your familiar learns dizzying colors or grease . Familiar of Overwhelming Tides Your familiar constantly drips with ocean water. When you Cast or Sustain a hex, you can cause a small wave to surge forth from your familiar. One creature within 10 feet of your familiar is pushed 5 feet away from your familiar.\n",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "patron",
+  "exclude_from_search": false,
+  "hex_cantrip": "Murmuration",
+  "id": "patron-21",
+  "markdown": "<title level=\"1\" right=\"Witch Patron Theme \" pfs=\"Standard\">[Whisper of Wings](/Patrons.aspx?ID=21)</title>\r\n\r\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\n\nWings and swirling winds announced the approach of your patron. The wings might have been radiantly feathered, jeweled like a dragonfly’s, strangely mechanical, or leathery with the scent of sulfur, but the controlled chaos of their movements contained countless teachings.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\n\n**Lesson of the Observed Sky** Your patron teaches that the sky can guide you anywhere you let it. You gain the [_murmuration_](/Spells.aspx?ID=1940) hex cantrip, and your familiar learns [_gentle landing_](/Spells.aspx?ID=1542).\r\n\r\n**Familiar of Nimble Flight** Even if your familiar doesn't have wings, it can sometimes move as if carried aloft by the wind. When you Cast or Sustain a hex, your familiar can [Fly](/Actions.aspx?ID=2312) up to 15 feet; this movement doesn't trigger reactions.\r\n\r\n</column>",
+  "name": "Whisper of Wings",
+  "pfs": "Standard",
+  "primary_source": "Howl of the Wild",
+  "primary_source_raw": "Howl of the Wild pg. 62",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-05-29",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>\r\n\r\n**Spell List** [Primal](/SpellLists.aspx?Tradition=4)\r\n\r\n**Patron Skill** [Nature](/Skills.aspx?ID=43)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWings and swirling winds announced the approach of your patron. The wings might have been radiantly feathered, jeweled like a dragonfly’s, strangely …\r\n</summary>",
+  "skill": [
+   "Nature"
+  ],
+  "skill_markdown": "[Nature](/Skills.aspx?ID=43)",
+  "skill_mod": {},
+  "source": [
+   "Howl of the Wild"
+  ],
+  "source_raw": [
+   "Howl of the Wild pg. 62"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Howl of the Wild](/Sources.aspx?ID=226) pg. 62 <sup>2.0</sup>",
+  "speed": {},
+  "spell": [
+   "Murmuration",
+   "Gentle Landing"
+  ],
+  "summary": "Wings and swirling winds announced the approach of your patron. The wings might have been radiantly feathered, jeweled like a dragonfly’s, strangely …",
+  "summary_markdown": "Wings and swirling winds announced the approach of your patron. The wings might have been radiantly feathered, jeweled like a dragonfly’s, strangely …",
+  "text": " Whisper of Wings Source Howl of the Wild pg. 62 2.0 Wings and swirling winds announced the approach of your patron. The wings might have been radiantly feathered, jeweled like a dragonfly’s, strangely mechanical, or leathery with the scent of sulfur, but the controlled chaos of their movements contained countless teachings. Spell List Primal Patron Skill Nature Lesson of the Observed Sky Your patron teaches that the sky can guide you anywhere you let it. You gain the murmuration hex cantrip, and your familiar learns gentle landing . Familiar of Nimble Flight Even if your familiar doesn't have wings, it can sometimes move as if carried aloft by the wind. When you Cast or Sustain a hex, your familiar can Fly up to 15 feet; this movement doesn't trigger reactions. ",
+  "tradition": [
+   "Primal"
+  ],
+  "tradition_markdown": "[Primal](/SpellLists.aspx?Tradition=4)",
+  "trait_markdown": "",
+  "type": "Witch Patron Theme",
+  "url": "/Patrons.aspx?ID=21",
+  "weakness": {}
+ }
+]

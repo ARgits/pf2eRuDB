@@ -1,0 +1,247 @@
+[
+ {
+  "armor_group": "Chain",
+  "armor_group_markdown": "Chain",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-1",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Chain](/ArmorGroups.aspx?ID=1)\r\n</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n\r\nThe armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of the armor’s potency rune for medium armor, or 6 + the value of the armor’s potency rune for heavy armor. This can’t reduce the damage to less than the damage rolled for the hit before doubling for a critical hit.",
+  "name": "Chain",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 275",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 275"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of …",
+  "summary_markdown": "The armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Chain Source Core Rulebook pg. 275 4.0 The armor is so flexible it can bend with a critical hit and absorb some of the blow. Reduce the damage from critical hits by either 4 + the value of the armor’s potency rune for medium armor, or 6 + the value of the armor’s potency rune for heavy armor. This can’t reduce the damage to less than the damage rolled for the hit before doubling for a critical hit.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Composite",
+  "armor_group_markdown": "Composite",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-2",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Composite](/ArmorGroups.aspx?ID=2)\r\n</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n\r\nThe numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "name": "Composite",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 275",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 275"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the …",
+  "summary_markdown": "The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Composite Source Core Rulebook pg. 275 4.0 The numerous overlapping pieces of this armor protect you from piercing attacks. You gain resistance to piercing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Leather",
+  "armor_group_markdown": "Leather",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-3",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Leather](/ArmorGroups.aspx?ID=3)\r\n</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n\r\nThe thick second skin of the armor disperses blunt force to reduce bludgeoning damage. You gain resistance to bludgeoning damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "name": "Leather",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 275",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe thick second skin of the armor disperses blunt force to reduce bludgeoning damage. You gain resistance to bludgeoning damage equal to 1 + the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 275"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The thick second skin of the armor disperses blunt force to reduce bludgeoning damage. You gain resistance to bludgeoning damage equal to 1 + the …",
+  "summary_markdown": "The thick second skin of the armor disperses blunt force to reduce bludgeoning damage. You gain resistance to bludgeoning damage equal to 1 + the …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Leather Source Core Rulebook pg. 275 4.0 The thick second skin of the armor disperses blunt force to reduce bludgeoning damage. You gain resistance to bludgeoning damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Plate",
+  "armor_group_markdown": "Plate",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-4",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Plate](/ArmorGroups.aspx?ID=4)\r\n</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n\r\nThe sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "name": "Plate",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 275",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 275"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 275 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune …",
+  "summary_markdown": "The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Plate Source Core Rulebook pg. 275 4.0 The sturdy plate provides no purchase for a cutting edge. You gain resistance to slashing damage equal to 1 + the value of the armor’s potency rune for medium armor, or 2 + the value of the armor’s potency rune for heavy armor.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Cloth",
+  "armor_group_markdown": "Cloth",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-5",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Cloth](/ArmorGroups.aspx?ID=5)\r\n</title>\r\n\r\n**Source** [PFS Scenario #1-03: Escaping the Grave](/Sources.aspx?ID=9) pg. 191\r\n\r\n_Nethys Note: there is no medium or heavy cloth armor, so there is no armor specialization effect for the cloth armor group._\n\nClothing isn't armor, but if it has a Dex cap it can accept fundamental and property runes.",
+  "name": "Cloth",
+  "primary_source": "PFS Scenario #1-03: Escaping the Grave",
+  "primary_source_raw": "PFS Scenario #1-03: Escaping the Grave pg. 191",
+  "primary_source_category": "Society",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-07-31",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [PFS Scenario #1-03: Escaping the Grave](/Sources.aspx?ID=9) pg. 191\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: there is no medium or heavy cloth armor, so there is no armor specialization effect for the cloth armor group.   Clothing isn't armor, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "PFS Scenario #1-03: Escaping the Grave"
+  ],
+  "source_raw": [
+   "PFS Scenario #1-03: Escaping the Grave pg. 191"
+  ],
+  "source_category": [
+   "Society"
+  ],
+  "source_markdown": "[PFS Scenario #1-03: Escaping the Grave](/Sources.aspx?ID=9) pg. 191",
+  "speed": {},
+  "summary": " Nethys Note: there is no medium or heavy cloth armor, so there is no armor specialization effect for the cloth armor group.   Clothing isn't armor, …",
+  "summary_markdown": " Nethys Note: there is no medium or heavy cloth armor, so there is no armor specialization effect for the cloth armor group.   Clothing isn't armor, …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Cloth Source PFS Scenario #1-03: Escaping the Grave pg. 191 Nethys Note: there is no medium or heavy cloth armor, so there is no armor specialization effect for the cloth armor group. Clothing isn't armor, but if it has a Dex cap it can accept fundamental and property runes.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Skeletal",
+  "armor_group_markdown": "Skeletal",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-6",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Skeletal](/ArmorGroups.aspx?ID=6)\r\n</title>\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 8 <sup>1.1</sup>\r\n\r\nArmor made from the bone or exoskeleton of creatures as diverse as bears, insects, and coral, skeletal armor protects vital points from precision damage. You gain resistance to precision damage equal to 3 + the value of the armor's potency rune for medium armor, or 5 + the value of the armor's potency rune for heavy armor",
+  "name": "Skeletal",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 8",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 8 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nArmor made from the bone or exoskeleton of creatures as diverse as bears, insects, and coral, skeletal armor protects vital points from precision …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 8"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 8 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Armor made from the bone or exoskeleton of creatures as diverse as bears, insects, and coral, skeletal armor protects vital points from precision …",
+  "summary_markdown": "Armor made from the bone or exoskeleton of creatures as diverse as bears, insects, and coral, skeletal armor protects vital points from precision …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Skeletal Source Treasure Vault pg. 8 1.1 Armor made from the bone or exoskeleton of creatures as diverse as bears, insects, and coral, skeletal armor protects vital points from precision damage. You gain resistance to precision damage equal to 3 + the value of the armor's potency rune for medium armor, or 5 + the value of the armor's potency rune for heavy armor",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "armor_group": "Wood",
+  "armor_group_markdown": "Wood",
+  "category": "armor-group",
+  "exclude_from_search": false,
+  "id": "armor-group-7",
+  "markdown": "<title\r\n    level=\"1\"\r\n    right=\"Armor Specialization \"\r\n    pfs=\"\"\r\n>\r\n[Wood](/ArmorGroups.aspx?ID=7)\r\n</title>\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 9 <sup>1.1</sup>\r\n\r\nWood armor is generally flexible and light, but it can splinter as it breaks, throwing off shards and fragments that damage foes who deal you critical blows. If a foe critically hits you with a melee unarmed attack or critically hits you with any melee attack while adjacent to you, it takes piercing damage equal to 3 + the armor's potency rune value for medium armor, or 5 + the armor's potency rune value for heavy armor.",
+  "name": "Wood",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 9",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 9 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWood armor is generally flexible and light, but it can splinter as it breaks, throwing off shards and fragments that damage foes who deal you …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 9"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 9 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Wood armor is generally flexible and light, but it can splinter as it breaks, throwing off shards and fragments that damage foes who deal you …",
+  "summary_markdown": "Wood armor is generally flexible and light, but it can splinter as it breaks, throwing off shards and fragments that damage foes who deal you …",
+  "text": "<title level=\"1\" right=\"Armor Specialization \" pfs=\"\" > Wood Source Treasure Vault pg. 9 1.1 Wood armor is generally flexible and light, but it can splinter as it breaks, throwing off shards and fragments that damage foes who deal you critical blows. If a foe critically hits you with a melee unarmed attack or critically hits you with any melee attack while adjacent to you, it takes piercing damage equal to 3 + the armor's potency rune value for medium armor, or 5 + the armor's potency rune value for heavy armor.",
+  "type": "Armor Specialization",
+  "url": "/ArmorGroups.aspx?ID=7",
+  "weakness": {}
+ }
+]

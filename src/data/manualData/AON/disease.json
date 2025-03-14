@@ -1,0 +1,1329 @@
+[
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-1",
+  "level": 0,
+  "markdown": "<title level=\"1\" right=\"Disease 0\" pfs=\"\">[Bog Rot](/Diseases.aspx?ID=1)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nSometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an affliction, bog rot can be cured through amputation of the affected appendages.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 13 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** [clumsy 1](/Conditions.aspx?ID=3) (1 day)\r\n\r\n**Stage 2** clumsy 1 and a –5-foot status penalty to Speed (1 day)\r\n\r\n**Stage 3** clumsy 2 and a –10-foot status penalty to Speed (1 day)\r\n\r\n</column>",
+  "name": "Bog Rot",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 13 Fortitude",
+  "saving_throw_markdown": "DC 13 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   " clumsy 1  (1 day)",
+   "clumsy 1 and a –5-foot status penalty to Speed (1 day)",
+   "clumsy 2 and a –10-foot status penalty to Speed (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [clumsy 1](/Conditions.aspx?ID=3) (1 day)\n\nStage 2: clumsy 1 and a –5-foot status penalty to Speed (1 day)\n\nStage 3: clumsy 2 and a –10-foot status penalty to Speed (1 day)",
+  "summary": "Sometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an …",
+  "summary_markdown": "Sometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an …",
+  "text": " Bog Rot Source Gamemastery Guide pg. 118 Sometimes called bog foot, bog rot is caused by having waterlogged feet for an extended period of time. In addition to the usual cures for an affliction, bog rot can be cured through amputation of the affected appendages. Saving Throw DC 13 Fortitude Onset 1 day Stage 1 clumsy 1 (1 day) Stage 2 clumsy 1 and a –5-foot status penalty to Speed (1 day) Stage 3 clumsy 2 and a –10-foot status penalty to Speed (1 day) ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-2",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Disease 1\" pfs=\"\">[Scarlet Fever](/Diseases.aspx?ID=2)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nThe relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your [sickened](/Conditions.aspx?ID=34) condition while affected with scarlet fever.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 13 Fortitude\r\n\r\n**Onset**\r\n2 days\r\n\r\n**Stage 1** sickened 1 (1 day)\r\n\r\n**Stage 2** sickened 2 (1 day)\r\n\r\n**Stage 3** sickened 3 and can’t speak (1 day)\r\n\r\n**Stage 4** death\r\n\r\n</column>",
+  "name": "Scarlet Fever",
+  "onset": 172800,
+  "onset_raw": "2 days",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 13 Fortitude",
+  "saving_throw_markdown": "DC 13 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "sickened 1 (1 day)",
+   "sickened 2 (1 day)",
+   "sickened 3 and can’t speak (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: sickened 1 (1 day)\n\nStage 2: sickened 2 (1 day)\n\nStage 3: sickened 3 and can’t speak (1 day)\n\nStage 4: death",
+  "summary": "The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be …",
+  "summary_markdown": "The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be …",
+  "text": " Scarlet Fever Source Gamemastery Guide pg. 118 The relatively simple sore throat caused by this disease leads many victims to initially dismiss it as a mild illness, but scarlet fever can be deadly if left untreated. You can’t reduce your sickened condition while affected with scarlet fever. Saving Throw DC 13 Fortitude Onset 2 days Stage 1 sickened 1 (1 day) Stage 2 sickened 2 (1 day) Stage 3 sickened 3 and can’t speak (1 day) Stage 4 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-3",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Disease 1\" pfs=\"\">[Tetanus](/Diseases.aspx?ID=3)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nAn infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 14 Fortitude\r\n\r\n**Onset**\r\n10 days\r\n\r\n**Stage 1** [clumsy 1](/Conditions.aspx?ID=3) (1 week)\r\n\r\n**Stage 2** clumsy 2 and can’t speak (1 day)\r\n\r\n**Stage 3** [paralyzed](/Conditions.aspx?ID=28) with spasms (1 day)\r\n\r\n**Stage 4** death\r\n\r\n</column>",
+  "name": "Tetanus",
+  "onset": 864000,
+  "onset_raw": "10 days",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 14 Fortitude",
+  "saving_throw_markdown": "DC 14 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   " clumsy 1  (1 week)",
+   "clumsy 2 and can’t speak (1 day)",
+   " paralyzed  with spasms (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: [clumsy 1](/Conditions.aspx?ID=3) (1 week)\n\nStage 2: clumsy 2 and can’t speak (1 day)\n\nStage 3: [paralyzed](/Conditions.aspx?ID=28) with spasms (1 day)\n\nStage 4: death",
+  "summary": "An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.",
+  "summary_markdown": "An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death.",
+  "text": " Tetanus Source Gamemastery Guide pg. 118 An infection introduced through open wounds, tetanus can produce stiffness, muscle spasms strong enough to break bones, and ultimately death. Saving Throw DC 14 Fortitude Onset 10 days Stage 1 clumsy 1 (1 week) Stage 2 clumsy 2 and can’t speak (1 day) Stage 3 paralyzed with spasms (1 day) Stage 4 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-4",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Disease 1\" pfs=\"\">[Tuberculosis](/Diseases.aspx?ID=4)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nAn extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it produces.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 15 Fortitude\r\n\r\n**Onset**\r\n1 week\r\n\r\n**Stage 1** carrier with no effects (1 week)\r\n\r\n**Stage 2** coughing requires you to succeed at a DC 5 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)\r\n\r\n**Stage 3** [fatigued](/Conditions.aspx?ID=15), can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)\r\n\r\n**Stage 4** [unconscious](/Conditions.aspx?ID=38) (1 week)\r\n\r\n**Stage 5** death\r\n\r\n</column>",
+  "name": "Tuberculosis",
+  "onset": 604800,
+  "onset_raw": "1 week",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 15 Fortitude",
+  "saving_throw_markdown": "DC 15 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "carrier with no effects (1 week)",
+   "coughing requires you to succeed at a DC 5 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)",
+   " fatigued , can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)",
+   " unconscious  (1 week)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: carrier with no effects (1 week)\n\nStage 2: coughing requires you to succeed at a DC 5 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)\n\nStage 3: [fatigued](/Conditions.aspx?ID=15), can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week)\n\nStage 4: [unconscious](/Conditions.aspx?ID=38) (1 week)\n\nStage 5: death",
+  "summary": "An extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it …",
+  "summary_markdown": "An extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it …",
+  "text": " Tuberculosis Source Gamemastery Guide pg. 118 An extended respiratory disease, tuberculosis can pose particular challenges to spellcasters and some performers due to the intense coughing fits it produces. Saving Throw DC 15 Fortitude Onset 1 week Stage 1 carrier with no effects (1 week) Stage 2 coughing requires you to succeed at a DC 5 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week) Stage 3 fatigued, can’t recover from the fatigued condition, and coughing requires a successful DC 15 flat check to Cast a Spell with a verbal component or Activate an Item with a command component (1 week) Stage 4 unconscious (1 week) Stage 5 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-5",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Disease 2\" pfs=\"\">[Malaria](/Diseases.aspx?ID=5)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nA pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue to be periodically affected by the disease, even if you’re cured. You can’t reduce your [sickened](/Conditions.aspx?ID=34) condition while affected with malaria.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 16 Fortitude\r\n\r\n**Onset**\r\n10 days\r\n\r\n**Stage 1** sickened 1 (1 day)\r\n\r\n**Stage 2** sickened 2 (1 day)\r\n\r\n**Stage 3** sickened 2, and disease recurs every 1d4 months even if cured (1 day)\r\n\r\n**Stage 4** [unconscious](/Conditions.aspx?ID=38) (1 day)\r\n\r\n**Stage 5** death\r\n\r\n</column>",
+  "name": "Malaria",
+  "onset": 864000,
+  "onset_raw": "10 days",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 16 Fortitude",
+  "saving_throw_markdown": "DC 16 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "sickened 1 (1 day)",
+   "sickened 2 (1 day)",
+   "sickened 2, and disease recurs every 1d4 months even if cured (1 day)",
+   " unconscious  (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: sickened 1 (1 day)\n\nStage 2: sickened 2 (1 day)\n\nStage 3: sickened 2, and disease recurs every 1d4 months even if cured (1 day)\n\nStage 4: [unconscious](/Conditions.aspx?ID=38) (1 day)\n\nStage 5: death",
+  "summary": "A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue …",
+  "summary_markdown": "A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue …",
+  "text": " Malaria Source Gamemastery Guide pg. 118 A pernicious disease spread by bloodsucking insects, malaria sometimes enters long periods of dormancy. If you succumb to malaria, you may continue to be periodically affected by the disease, even if you’re cured. You can’t reduce your sickened condition while affected with malaria. Saving Throw DC 16 Fortitude Onset 10 days Stage 1 sickened 1 (1 day) Stage 2 sickened 2 (1 day) Stage 3 sickened 2, and disease recurs every 1d4 months even if cured (1 day) Stage 4 unconscious (1 day) Stage 5 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-6",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Disease 3\" pfs=\"\">[Bubonic Plague](/Diseases.aspx?ID=6)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nThis widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of glands. In some cases, the disease can move into your lungs (pneumonic plague) or blood (septicemic plague), which is even more fatal. If you have bubonic plague, you can’t remove the [fatigued](/Conditions.aspx?ID=15) condition while affected.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 17 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** fatigued (1 day)\r\n\r\n**Stage 2** [enfeebled 2](/Conditions.aspx?ID=13) and fatigued (1 day)\r\n\r\n**Stage 3** enfeebled 3, fatigued, and take 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) every 1d20 minutes (1 day)\r\n\r\n</column>",
+  "name": "Bubonic Plague",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 17 Fortitude",
+  "saving_throw_markdown": "DC 17 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "fatigued (1 day)",
+   " enfeebled 2  and fatigued (1 day)",
+   "enfeebled 3, fatigued, and take 1d6  persistent bleed damage  every 1d20 minutes (1 day)"
+  ],
+  "stage_markdown": "Stage 1: fatigued (1 day)\n\nStage 2: [enfeebled 2](/Conditions.aspx?ID=13) and fatigued (1 day)\n\nStage 3: enfeebled 3, fatigued, and take 1d6 [persistent bleed damage](/Conditions.aspx?ID=29) every 1d20 minutes (1 day)",
+  "summary": "This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of …",
+  "summary_markdown": "This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of …",
+  "text": " Bubonic Plague Source Gamemastery Guide pg. 118 This widespread illness can sweep through entire communities, leaving few unaffected. The first indication of the disease is a telltale swelling of glands. In some cases, the disease can move into your lungs (pneumonic plague) or blood (septicemic plague), which is even more fatal. If you have bubonic plague, you can’t remove the fatigued condition while affected. Saving Throw DC 17 Fortitude Onset 1 day Stage 1 fatigued (1 day) Stage 2 enfeebled 2 and fatigued (1 day) Stage 3 enfeebled 3, fatigued, and take 1d6 persistent bleed damage every 1d20 minutes (1 day) ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-7",
+  "level": 4,
+  "markdown": "<title level=\"1\" right=\"Disease 4\" pfs=\"\">[Scarlet Leprosy](/Diseases.aspx?ID=7)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nScarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from scarlet leprosy can’t be healed until the disease is cured.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 19 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** 2d6 bludgeoning damage (1 day)\r\n\r\n**Stage 2** 2d6 bludgeoning damage, and whenever you gain the [wounded](/Conditions.aspx?ID=42) condition, increase the condition value by 1 (1 day)\r\n\r\n**Stage 3** 4d6 bludgeoning damage and can’t heal any Hit Point damage (1 day)\r\n\r\n</column>",
+  "name": "Scarlet Leprosy",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 19 Fortitude",
+  "saving_throw_markdown": "DC 19 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nScarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "2d6 bludgeoning damage (1 day)",
+   "2d6 bludgeoning damage, and whenever you gain the  wounded  condition, increase the condition value by 1 (1 day)",
+   "4d6 bludgeoning damage and can’t heal any Hit Point damage (1 day)"
+  ],
+  "stage_markdown": "Stage 1: 2d6 bludgeoning damage (1 day)\n\nStage 2: 2d6 bludgeoning damage, and whenever you gain the [wounded](/Conditions.aspx?ID=42) condition, increase the condition value by 1 (1 day)\n\nStage 3: 4d6 bludgeoning damage and can’t heal any Hit Point damage (1 day)",
+  "summary": "Scarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from …",
+  "summary_markdown": "Scarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from …",
+  "text": " Scarlet Leprosy Source Gamemastery Guide pg. 118 Scarlet leprosy is widely feared for its devastating effects, crushing bones and organs while making recovery nearly impossible. Damage taken from scarlet leprosy can’t be healed until the disease is cured. Saving Throw DC 19 Fortitude Onset 1 day Stage 1 2d6 bludgeoning damage (1 day) Stage 2 2d6 bludgeoning damage, and whenever you gain the wounded condition, increase the condition value by 1 (1 day) Stage 3 4d6 bludgeoning damage and can’t heal any Hit Point damage (1 day) ",
+  "trait": [
+   "Disease",
+   "Virulent"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Virulent](/Traits.aspx?ID=162)",
+  "trait_raw": [
+   "Disease",
+   "Virulent"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-8",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Disease 5\" pfs=\"\">[Bonechill](/Diseases.aspx?ID=8)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nIf you are wounded and exposed to persistent cold, you might contract bonechill.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 20 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** [clumsy 1](/Conditions.aspx?ID=3) (1 day)\r\n\r\n**Stage 2** clumsy 2 and can’t heal cold damage until this disease is cured (1 day)\r\n\r\n**Stage 3** clumsy 3 and all [cold temperature effects](/Rules.aspx?ID=642) are one step more severe for the victim (1 day)\r\n\r\n**Stage 4** [paralyzed](/Conditions.aspx?ID=28) and all cold temperature effects are one step more severe for the victim (1 day)\r\n\r\n</column>",
+  "name": "Bonechill",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 20 Fortitude",
+  "saving_throw_markdown": "DC 20 Fortitude",
+  "school": "necromancy",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Primal\" url=\"/Traits.aspx?ID=134\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nIf you are wounded and exposed to persistent cold, you might contract bonechill.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   " clumsy 1  (1 day)",
+   "clumsy 2 and can’t heal cold damage until this disease is cured (1 day)",
+   "clumsy 3 and all  cold temperature effects  are one step more severe for the victim (1 day)",
+   " paralyzed  and all cold temperature effects are one step more severe for the victim (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [clumsy 1](/Conditions.aspx?ID=3) (1 day)\n\nStage 2: clumsy 2 and can’t heal cold damage until this disease is cured (1 day)\n\nStage 3: clumsy 3 and all [cold temperature effects](/Rules.aspx?ID=642) are one step more severe for the victim (1 day)\n\nStage 4: [paralyzed](/Conditions.aspx?ID=28) and all cold temperature effects are one step more severe for the victim (1 day)",
+  "summary": "If you are wounded and exposed to persistent cold, you might contract bonechill.",
+  "summary_markdown": "If you are wounded and exposed to persistent cold, you might contract bonechill.",
+  "text": " Bonechill Source Gamemastery Guide pg. 118 If you are wounded and exposed to persistent cold, you might contract bonechill. Saving Throw DC 20 Fortitude Onset 1 day Stage 1 clumsy 1 (1 day) Stage 2 clumsy 2 and can’t heal cold damage until this disease is cured (1 day) Stage 3 clumsy 3 and all cold temperature effects are one step more severe for the victim (1 day) Stage 4 paralyzed and all cold temperature effects are one step more severe for the victim (1 day) ",
+  "trait": [
+   "Disease",
+   "Necromancy",
+   "Primal"
+  ],
+  "trait_group": [
+   "School",
+   "Tradition"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Necromancy](/Traits.aspx?ID=117), [Primal](/Traits.aspx?ID=134)",
+  "trait_raw": [
+   "Disease",
+   "Necromancy",
+   "Primal"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-9",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Disease 6\" pfs=\"\">[Choking Death](/Diseases.aspx?ID=9)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\n\nThis disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region’s population sparse.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 22 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** hoarse voice but no other symptoms (1 day)\r\n\r\n**Stage 2** [drained 1](/Conditions.aspx?ID=10) (1 day)\r\n\r\n**Stage 3** drained 2 and can’t speak (1 day)\r\n\r\n**Stage 4** death\r\n\r\n</column>",
+  "name": "Choking Death",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 118",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 22 Fortitude",
+  "saving_throw_markdown": "DC 22 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 118\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region’s …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 118"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 118",
+  "speed": {},
+  "stage": [
+   "hoarse voice but no other symptoms (1 day)",
+   " drained 1  (1 day)",
+   "drained 2 and can’t speak (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: hoarse voice but no other symptoms (1 day)\n\nStage 2: [drained 1](/Conditions.aspx?ID=10) (1 day)\n\nStage 3: drained 2 and can’t speak (1 day)\n\nStage 4: death",
+  "summary": "This disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region’s …",
+  "summary_markdown": "This disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region’s …",
+  "text": " Choking Death Source Gamemastery Guide pg. 118 This disease is capable of wiping out nations or even entire continents. A few pockets of the disease still remain in Iobaria, keeping that region’s population sparse. Saving Throw DC 22 Fortitude Onset 1 day Stage 1 hoarse voice but no other symptoms (1 day) Stage 2 drained 1 (1 day) Stage 3 drained 2 and can’t speak (1 day) Stage 4 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-10",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Disease 7\" pfs=\"\">[Blinding Sickness](/Diseases.aspx?ID=10)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\n\nEndemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 23 Fortitude\n\n**Stage 1** carrier with no effects (1 day)\r\n\r\n**Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Stage 3** enfeebled 2 (1 day)\r\n\r\n**Stage 4** enfeebled 2 and permanently [blinded](/Conditions.aspx?ID=1) (1 day)\r\n\r\n**Stage 5** enfeebled 4 (1 day)\r\n\r\n**Stage 6** [unconscious](/Conditions.aspx?ID=38) (1 day)\r\n\r\n**Stage 7** death\r\n\r\n</column>",
+  "name": "Blinding Sickness",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 23 Fortitude",
+  "saving_throw_markdown": "DC 23 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEndemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 119",
+  "speed": {},
+  "stage": [
+   "carrier with no effects (1 day)",
+   " enfeebled 1  (1 day)",
+   "enfeebled 2 (1 day)",
+   "enfeebled 2 and permanently  blinded  (1 day)",
+   "enfeebled 4 (1 day)",
+   " unconscious  (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: carrier with no effects (1 day)\n\nStage 2: [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\n\nStage 3: enfeebled 2 (1 day)\n\nStage 4: enfeebled 2 and permanently [blinded](/Conditions.aspx?ID=1) (1 day)\n\nStage 5: enfeebled 4 (1 day)\n\nStage 6: [unconscious](/Conditions.aspx?ID=38) (1 day)\n\nStage 7: death",
+  "summary": "Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures.",
+  "summary_markdown": "Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures.",
+  "text": " Blinding Sickness Source Gamemastery Guide pg. 119 Endemic to jungles of the Mwangi Expanse, blinding sickness is transmitted by dirty water or the bites of certain creatures. Saving Throw DC 23 Fortitude Stage 1 carrier with no effects (1 day) Stage 2 enfeebled 1 (1 day) Stage 3 enfeebled 2 (1 day) Stage 4 enfeebled 2 and permanently blinded (1 day) Stage 5 enfeebled 4 (1 day) Stage 6 unconscious (1 day) Stage 7 death ",
+  "trait": [
+   "Disease"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46)",
+  "trait_raw": [
+   "Disease"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-11",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Disease 7\" pfs=\"\">[Sewer Haze](/Diseases.aspx?ID=11)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\n\nMany healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong [otyughs](/Monsters.aspx?ID=327).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 23 Fortitude\r\n\r\n**Onset**\r\n2 days\r\n\r\n**Stage 1** [stupefied 2](/Conditions.aspx?ID=37) (1 day)\r\n\r\n**Stage 2** drained 2 and stupefied 2 (1 day)\r\n\r\n**Stage 3** drained 3 and stupefied 3 (1 day)\r\n\r\n</column>",
+  "name": "Sewer Haze",
+  "onset": 172800,
+  "onset_raw": "2 days",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 23 Fortitude",
+  "saving_throw_markdown": "DC 23 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMany healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong  otyughs .\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 119",
+  "speed": {},
+  "stage": [
+   " stupefied 2  (1 day)",
+   "drained 2 and stupefied 2 (1 day)",
+   "drained 3 and stupefied 3 (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [stupefied 2](/Conditions.aspx?ID=37) (1 day)\n\nStage 2: drained 2 and stupefied 2 (1 day)\n\nStage 3: drained 3 and stupefied 3 (1 day)",
+  "summary": "Many healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong  otyughs .",
+  "summary_markdown": "Many healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong  otyughs .",
+  "text": " Sewer Haze Source Gamemastery Guide pg. 119 Many healers and alchemists suspect that sewer haze has a supernatural origin, given its association with particularly strong otyughs. Saving Throw DC 23 Fortitude Onset 2 days Stage 1 stupefied 2 (1 day) Stage 2 drained 2 and stupefied 2 (1 day) Stage 3 drained 3 and stupefied 3 (1 day) ",
+  "trait": [
+   "Disease",
+   "Virulent"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Virulent](/Traits.aspx?ID=162)",
+  "trait_raw": [
+   "Disease",
+   "Virulent"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-12",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Disease 8\" pfs=\"\">[Nightmare Fever](/Diseases.aspx?ID=12)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=120\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\n\nThought to be caused by a [night hag’s](/Monsters.aspx?ID=257) curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in your dreams. Some versions cause you to dream of being wounded by bludgeoning or piercing weapons, in which case you take that type of damage instead. Damage and the [fatigued](/Conditions.aspx?ID=15) condition caused by the disease can’t be healed until the disease is removed.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 25 Will\n\n**Stage 1** 2d6 slashing damage and fatigued (1 day)\r\n\r\n**Stage 2** 4d6 slashing damage and fatigued (1 day)\r\n\r\n**Stage 3** 4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [frightened 2](/Conditions.aspx?ID=19) (1 day)\r\n\r\n**Stage 4** 6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [paralyzed](/Conditions.aspx?ID=28) for 1 round (1 day)\r\n\r\n**Stage 5** 6d6 slashing damage and [unconscious](/Conditions.aspx?ID=38)\r\n\r\n</column>",
+  "name": "Nightmare Fever",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 25 Will",
+  "saving_throw_markdown": "DC 25 Will",
+  "school": "necromancy",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Necromancy\" url=\"/Traits.aspx?ID=117\" />\r\n<trait label=\"Occult\" url=\"/Traits.aspx?ID=120\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThought to be caused by a  night hag’s  curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 119",
+  "speed": {},
+  "stage": [
+   "2d6 slashing damage and fatigued (1 day)",
+   "4d6 slashing damage and fatigued (1 day)",
+   "4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become  frightened 2  (1 day)",
+   "6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become  paralyzed  for 1 round (1 day)",
+   "6d6 slashing damage and  unconscious "
+  ],
+  "stage_markdown": "Stage 1: 2d6 slashing damage and fatigued (1 day)\n\nStage 2: 4d6 slashing damage and fatigued (1 day)\n\nStage 3: 4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [frightened 2](/Conditions.aspx?ID=19) (1 day)\n\nStage 4: 6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become [paralyzed](/Conditions.aspx?ID=28) for 1 round (1 day)\n\nStage 5: 6d6 slashing damage and [unconscious](/Conditions.aspx?ID=38)",
+  "summary": "Thought to be caused by a  night hag’s  curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in …",
+  "summary_markdown": "Thought to be caused by a  night hag’s  curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in …",
+  "text": " Nightmare Fever Source Gamemastery Guide pg. 119 Thought to be caused by a night hag’s curse, nightmare fever inflicts you with terrible nightmares, and you awaken with the wounds you received in your dreams. Some versions cause you to dream of being wounded by bludgeoning or piercing weapons, in which case you take that type of damage instead. Damage and the fatigued condition caused by the disease can’t be healed until the disease is removed. Saving Throw DC 25 Will Stage 1 2d6 slashing damage and fatigued (1 day) Stage 2 4d6 slashing damage and fatigued (1 day) Stage 3 4d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become frightened 2 (1 day) Stage 4 6d6 slashing damage, fatigued, and whenever you take slashing damage, you must succeed at a Will save against the disease’s DC or become paralyzed for 1 round (1 day) Stage 5 6d6 slashing damage and unconscious ",
+  "trait": [
+   "Disease",
+   "Necromancy",
+   "Occult"
+  ],
+  "trait_group": [
+   "School",
+   "Tradition"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Necromancy](/Traits.aspx?ID=117), [Occult](/Traits.aspx?ID=120)",
+  "trait_raw": [
+   "Disease",
+   "Necromancy",
+   "Occult"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-13",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Disease 11\" pfs=\"\">[Brain Worms](/Diseases.aspx?ID=13)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\n\nScholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease remains relatively rare—most hosts are killed by the effects before they can pass it on. While infected, whenever you attack due to confusion, you bite your target (if you don’t have a jaws or fangs attack, you deal piercing damage as an unarmed attack with damage equal to your lowest unarmed attack).\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 28 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** [stupefied 2](/Conditions.aspx?ID=37) (1 day)\r\n\r\n**Stage 2** stupefied 2, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become [confused](/Conditions.aspx?ID=5) for 1 round (1 day)\r\n\r\n**Stage 3** stupefied 3, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 minute (1 day)\r\n\r\n**Stage 4** stupefied 4 and confused, damage does not end the confused condition (1 day)\r\n\r\n**Stage 5** [unconscious](/Conditions.aspx?ID=38) (1 day)\r\n\r\n**Stage 6** death\r\n\r\n</column>",
+  "name": "Brain Worms",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 28 Fortitude",
+  "saving_throw_markdown": "DC 28 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nScholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 119",
+  "speed": {},
+  "stage": [
+   " stupefied 2  (1 day)",
+   "stupefied 2, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become  confused  for 1 round (1 day)",
+   "stupefied 3, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 minute (1 day)",
+   "stupefied 4 and confused, damage does not end the confused condition (1 day)",
+   " unconscious  (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: [stupefied 2](/Conditions.aspx?ID=37) (1 day)\n\nStage 2: stupefied 2, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become [confused](/Conditions.aspx?ID=5) for 1 round (1 day)\n\nStage 3: stupefied 3, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 minute (1 day)\n\nStage 4: stupefied 4 and confused, damage does not end the confused condition (1 day)\n\nStage 5: [unconscious](/Conditions.aspx?ID=38) (1 day)\n\nStage 6: death",
+  "summary": "Scholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease …",
+  "summary_markdown": "Scholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease …",
+  "text": " Brain Worms Source Gamemastery Guide pg. 119 Scholars suspect these brain parasites have an otherworldly or extraplanar origin. Though transmitted by the bites of infected targets, the disease remains relatively rare—most hosts are killed by the effects before they can pass it on. While infected, whenever you attack due to confusion, you bite your target (if you don’t have a jaws or fangs attack, you deal piercing damage as an unarmed attack with damage equal to your lowest unarmed attack). Saving Throw DC 28 Fortitude Onset 1 day Stage 1 stupefied 2 (1 day) Stage 2 stupefied 2, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 round (1 day) Stage 3 stupefied 3, and whenever you take damage, you must succeed at a Will save against the disease’s DC or become confused for 1 minute (1 day) Stage 4 stupefied 4 and confused, damage does not end the confused condition (1 day) Stage 5 unconscious (1 day) Stage 6 death ",
+  "trait": [
+   "Disease",
+   "Virulent"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Virulent](/Traits.aspx?ID=162)",
+  "trait_raw": [
+   "Disease",
+   "Virulent"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-14",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Disease 15\" pfs=\"\">[Crimson Ooze](/Diseases.aspx?ID=14)</title>\n\n<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\n\nThis devastating fungus infects your hand and can be cured by amputating the limb before you reach stage 4.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 34 Fortitude\n\n**Stage 1** [clumsy 1](/Conditions.aspx?ID=3) (1 day)\r\n\r\n**Stage 2** clumsy 2, and using the infected hand deals 3d6 [persistent bleed damage](/Conditions.aspx?ID=29) (1 day)\r\n\r\n**Stage 3** clumsy 2, [stupefied 2](/Conditions.aspx?ID=37), and the infected hand is unusable (1 day)\r\n\r\n**Stage 4** clumsy 3, stupefied 3, and infected hand is permanently unusable (1 day)\r\n\r\n**Stage 5** [confused](/Conditions.aspx?ID=5), and damage does not end the confused condition (1 day)\r\n\r\n**Stage 6** death\r\n\r\n</column>",
+  "name": "Crimson Ooze",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "DC 34 Fortitude",
+  "saving_throw_markdown": "DC 34 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 119\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis devastating fungus infects your hand and can be cured by amputating the limb before you reach stage 4.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 119",
+  "speed": {},
+  "stage": [
+   " clumsy 1  (1 day)",
+   "clumsy 2, and using the infected hand deals 3d6  persistent bleed damage  (1 day)",
+   "clumsy 2,  stupefied 2 , and the infected hand is unusable (1 day)",
+   "clumsy 3, stupefied 3, and infected hand is permanently unusable (1 day)",
+   " confused , and damage does not end the confused condition (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: [clumsy 1](/Conditions.aspx?ID=3) (1 day)\n\nStage 2: clumsy 2, and using the infected hand deals 3d6 [persistent bleed damage](/Conditions.aspx?ID=29) (1 day)\n\nStage 3: clumsy 2, [stupefied 2](/Conditions.aspx?ID=37), and the infected hand is unusable (1 day)\n\nStage 4: clumsy 3, stupefied 3, and infected hand is permanently unusable (1 day)\n\nStage 5: [confused](/Conditions.aspx?ID=5), and damage does not end the confused condition (1 day)\n\nStage 6: death",
+  "summary": "This devastating fungus infects your hand and can be cured by amputating the limb before you reach stage 4.",
+  "summary_markdown": "This devastating fungus infects your hand and can be cured by amputating the limb before you reach stage 4.",
+  "text": " Crimson Ooze Source Gamemastery Guide pg. 119 This devastating fungus infects your hand and can be cured by amputating the limb before you reach stage 4. Saving Throw DC 34 Fortitude Stage 1 clumsy 1 (1 day) Stage 2 clumsy 2, and using the infected hand deals 3d6 persistent bleed damage (1 day) Stage 3 clumsy 2, stupefied 2, and the infected hand is unusable (1 day) Stage 4 clumsy 3, stupefied 3, and infected hand is permanently unusable (1 day) Stage 5 confused, and damage does not end the confused condition (1 day) Stage 6 death ",
+  "trait": [
+   "Disease",
+   "Virulent"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Virulent](/Traits.aspx?ID=162)",
+  "trait_raw": [
+   "Disease",
+   "Virulent"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-15",
+  "markdown": "<title level=\"1\" right=\"Disease Level Varies\" pfs=\"\">[Addiction](/Diseases.aspx?ID=15)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 120\n\nTrack the maximum stage you reach with each drug’s addiction. This maximum stage is separate from your current addiction stage for the drug. The maximum stage can’t be reduced, even if you fully remove the disease. When you take the drug, two things happen: you attempt a saving throw against addiction, and you suppress the effects of addiction for 1 day. Failing a save against addiction caused by taking the drug causes you to go to 1 stage higher than the maximum stage you had previously reached (2 stages higher on a critical failure). If you’re currently suffering from addiction when you attempt a save from taking the drug, you can’t improve your stage; if you succeed at the save, the stage remains the same as it was.\n\n When you attempt your save against addiction each week, the stage you are currently at can’t get worse—it can only stay the same or improve. The conditions from addiction can’t be removed while you are affected by the addiction, and suppressing addiction by taking the drug only avoids the effects—it doesn’t remove the disease.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** Fortitude (DC equals that of the drug)\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** [fatigued](/Conditions.aspx?ID=15) (1 week)\r\n\r\n**Stage 2** fatigued and [sickened 1](/Conditions.aspx?ID=34) (1 week)\r\n\r\n**Stage 3** fatigued, [drained 1](/Conditions.aspx?ID=10), and sickened 1 (1 week)\r\n\r\n**Stage 4** fatigued, drained 2, sickened 2, and [stupefied 2](/Conditions.aspx?ID=37) (1 week)\r\n\r\n</column>",
+  "name": "Addiction",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Gamemastery Guide",
+  "primary_source_raw": "Gamemastery Guide pg. 120",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-02-26",
+  "resistance": {},
+  "saving_throw": "Fortitude (DC equals that of the drug)",
+  "saving_throw_markdown": "Fortitude (DC equals that of the drug)",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Gamemastery Guide](/Sources.aspx?ID=22) pg. 120\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTrack the maximum stage you reach with each drug’s addiction. This maximum stage is separate from your current addiction stage for the drug. The …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Gamemastery Guide"
+  ],
+  "source_raw": [
+   "Gamemastery Guide pg. 120"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Gamemastery Guide](/Sources.aspx?ID=22) pg. 120",
+  "speed": {},
+  "stage": [
+   " fatigued  (1 week)",
+   "fatigued and  sickened 1  (1 week)",
+   "fatigued,  drained 1 , and sickened 1 (1 week)",
+   "fatigued, drained 2, sickened 2, and  stupefied 2  (1 week)"
+  ],
+  "stage_markdown": "Stage 1: [fatigued](/Conditions.aspx?ID=15) (1 week)\n\nStage 2: fatigued and [sickened 1](/Conditions.aspx?ID=34) (1 week)\n\nStage 3: fatigued, [drained 1](/Conditions.aspx?ID=10), and sickened 1 (1 week)\n\nStage 4: fatigued, drained 2, sickened 2, and [stupefied 2](/Conditions.aspx?ID=37) (1 week)",
+  "summary": "Track the maximum stage you reach with each drug’s addiction. This maximum stage is separate from your current addiction stage for the drug. The …",
+  "summary_markdown": "Track the maximum stage you reach with each drug’s addiction. This maximum stage is separate from your current addiction stage for the drug. The …",
+  "text": " Addiction Source Gamemastery Guide pg. 120 Track the maximum stage you reach with each drug’s addiction. This maximum stage is separate from your current addiction stage for the drug. The maximum stage can’t be reduced, even if you fully remove the disease. When you take the drug, two things happen: you attempt a saving throw against addiction, and you suppress the effects of addiction for 1 day. Failing a save against addiction caused by taking the drug causes you to go to 1 stage higher than the maximum stage you had previously reached (2 stages higher on a critical failure). If you’re currently suffering from addiction when you attempt a save from taking the drug, you can’t improve your stage; if you succeed at the save, the stage remains the same as it was. When you attempt your save against addiction each week, the stage you are currently at can’t get worse—it can only stay the same or improve. The conditions from addiction can’t be removed while you are affected by the addiction, and suppressing addiction by taking the drug only avoids the effects—it doesn’t remove the disease. Saving Throw Fortitude (DC equals that of the drug) Onset 1 day Stage 1 fatigued (1 week) Stage 2 fatigued and sickened 1 (1 week) Stage 3 fatigued, drained 1, and sickened 1 (1 week) Stage 4 fatigued, drained 2, sickened 2, and stupefied 2 (1 week) ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-16",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Disease 1\" pfs=\"\">[Void Death](/Diseases.aspx?ID=16)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup>\n\nAn akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 17 Fortitude\n\n**Stage 1** carrier with no ill effect 1 (1 day)\r\n\r\n**Stage 2** [drained 1](/Conditions.aspx?ID=10) (1 day)\r\n\r\n**Stage 3** as stage 2 (1 day)\r\n\r\n**Stage 4** drained 2 and [fatigued](/Conditions.aspx?ID=15) (1 day)\r\n\r\n**Stage 5** as stage 4 (1 day)\r\n\r\n**Stage 6** dead and corpse rises as a void zombie (page 288) in 2d4 hours\r\n\r\n</column>",
+  "name": "Void Death",
+  "primary_source": "Bestiary 2",
+  "primary_source_raw": "Bestiary 2 pg. 13",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 17 Fortitude",
+  "saving_throw_markdown": "DC 17 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 2"
+  ],
+  "source_raw": [
+   "Bestiary 2 pg. 13"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 2](/Sources.aspx?ID=32) pg. 13 <sup>2.0</sup>",
+  "speed": {},
+  "stage": [
+   "carrier with no ill effect 1 (1 day)",
+   " drained 1  (1 day)",
+   "as stage 2 (1 day)",
+   "drained 2 and  fatigued  (1 day)",
+   "as stage 4 (1 day)",
+   "dead and corpse rises as a void zombie (page 288) in 2d4 hours"
+  ],
+  "stage_markdown": "Stage 1: carrier with no ill effect 1 (1 day)\n\nStage 2: [drained 1](/Conditions.aspx?ID=10) (1 day)\n\nStage 3: as stage 2 (1 day)\n\nStage 4: drained 2 and [fatigued](/Conditions.aspx?ID=15) (1 day)\n\nStage 5: as stage 4 (1 day)\n\nStage 6: dead and corpse rises as a void zombie (page 288) in 2d4 hours",
+  "summary": "An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures …",
+  "summary_markdown": "An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures …",
+  "text": " Void Death Source Bestiary 2 pg. 13 2.0 An akata implants its parasitic larval young into any creature it bites, but only Medium or Small humanoids make suitable hosts; all other creatures are immune to this disease Saving Throw DC 17 Fortitude Stage 1 carrier with no ill effect 1 (1 day) Stage 2 drained 1 (1 day) Stage 3 as stage 2 (1 day) Stage 4 drained 2 and fatigued (1 day) Stage 5 as stage 4 (1 day) Stage 6 dead and corpse rises as a void zombie (page 288) in 2d4 hours ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-17",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Disease 11\" pfs=\"\">[Daemonic Famine](/Diseases.aspx?ID=17)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup>\n\n_Nethys Note: no description was provided for this disease._\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 29 Fortitude\n\n**Stage 1** carrier (1 day)\r\n\r\n**Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Stage 3** enfeebled 2 (1 day)\r\n\r\n**Stage 4** as stage 3\r\n\r\n**Stage 5** enfeebled 3 (1 week)\r\n\r\n**Stage 6** dead\r\n\r\n</column>",
+  "name": "Daemonic Famine",
+  "primary_source": "Bestiary 2",
+  "primary_source_raw": "Bestiary 2 pg. 59",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 29 Fortitude",
+  "saving_throw_markdown": "DC 29 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description was provided for this disease. \r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 2"
+  ],
+  "source_raw": [
+   "Bestiary 2 pg. 59"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 2](/Sources.aspx?ID=32) pg. 59 <sup>2.0</sup>",
+  "speed": {},
+  "stage": [
+   "carrier (1 day)",
+   " enfeebled 1  (1 day)",
+   "enfeebled 2 (1 day)",
+   "as stage 3",
+   "enfeebled 3 (1 week)",
+   "dead"
+  ],
+  "stage_markdown": "Stage 1: carrier (1 day)\n\nStage 2: [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\n\nStage 3: enfeebled 2 (1 day)\n\nStage 4: as stage 3\n\nStage 5: enfeebled 3 (1 week)\n\nStage 6: dead",
+  "summary": " Nethys Note: no description was provided for this disease. ",
+  "summary_markdown": " Nethys Note: no description was provided for this disease. ",
+  "text": " Daemonic Famine Source Bestiary 2 pg. 59 2.0 Nethys Note: no description was provided for this disease. Saving Throw DC 29 Fortitude Stage 1 carrier (1 day) Stage 2 enfeebled 1 (1 day) Stage 3 enfeebled 2 (1 day) Stage 4 as stage 3 Stage 5 enfeebled 3 (1 week) Stage 6 dead ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-18",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Disease 3\" pfs=\"\">[Cocytan Filth](/Diseases.aspx?ID=18)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 72 <sup>2.0</sup>\n\n_Nethys Note: no description was provided for this disease._\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 18 Fortitude\r\n\r\n**Onset**\r\n1d4 days\r\n\r\n**Stage 1** [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Stage 2** enfeebled 2 (1 day)\r\n\r\n**Stage 3** enfeebled 3 (1 day)\r\n\r\n</column>",
+  "name": "Cocytan Filth",
+  "onset": 345600,
+  "onset_raw": "1d4 days",
+  "primary_source": "Bestiary 2",
+  "primary_source_raw": "Bestiary 2 pg. 72",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 18 Fortitude",
+  "saving_throw_markdown": "DC 18 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 72 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Nethys Note: no description was provided for this disease. \r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 2"
+  ],
+  "source_raw": [
+   "Bestiary 2 pg. 72"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 2](/Sources.aspx?ID=32) pg. 72 <sup>2.0</sup>",
+  "speed": {},
+  "stage": [
+   " enfeebled 1  (1 day)",
+   "enfeebled 2 (1 day)",
+   "enfeebled 3 (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\n\nStage 2: enfeebled 2 (1 day)\n\nStage 3: enfeebled 3 (1 day)",
+  "summary": " Nethys Note: no description was provided for this disease. ",
+  "summary_markdown": " Nethys Note: no description was provided for this disease. ",
+  "text": " Cocytan Filth Source Bestiary 2 pg. 72 2.0 Nethys Note: no description was provided for this disease. Saving Throw DC 18 Fortitude Onset 1d4 days Stage 1 enfeebled 1 (1 day) Stage 2 enfeebled 2 (1 day) Stage 3 enfeebled 3 (1 day) ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-19",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Disease 10\" pfs=\"\">[Fleshgout](/Diseases.aspx?ID=19)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 119 <sup>2.0</sup>\n\nA ghonhatine’s vomit carries an awful disease that, over time, can cause a suffering creature’s flesh to develop painful boils that eventually slough away, leaving gaping wounds\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 28 Fortitude\n\n**Stage 1** carrier with no ill effect (1d4 hours)\r\n\r\n**Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) and [drained 1](/Conditions.aspx?ID=10) (1 day)\r\n\r\n**Stage 3** enfeebled 2 and drained 2 (1 day)\r\n\r\n**Stage 4** enfeebled 2 and drained 3 (1 day)\r\n\r\n**Stage 5** drained 4, enfeebled 2, and [unconscious](/Conditions.aspx?ID=38) (1 day)\r\n\r\n**Stage 6** dead\r\n\r\n</column>",
+  "name": "Fleshgout",
+  "primary_source": "Bestiary 2",
+  "primary_source_raw": "Bestiary 2 pg. 119",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 28 Fortitude",
+  "saving_throw_markdown": "DC 28 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 119 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA ghonhatine’s vomit carries an awful disease that, over time, can cause a suffering creature’s flesh to develop painful boils that eventually slough …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 2"
+  ],
+  "source_raw": [
+   "Bestiary 2 pg. 119"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 2](/Sources.aspx?ID=32) pg. 119 <sup>2.0</sup>",
+  "speed": {},
+  "stage": [
+   "carrier with no ill effect (1d4 hours)",
+   " enfeebled 1  and  drained 1  (1 day)",
+   "enfeebled 2 and drained 2 (1 day)",
+   "enfeebled 2 and drained 3 (1 day)",
+   "drained 4, enfeebled 2, and  unconscious  (1 day)",
+   "dead"
+  ],
+  "stage_markdown": "Stage 1: carrier with no ill effect (1d4 hours)\n\nStage 2: [enfeebled 1](/Conditions.aspx?ID=13) and [drained 1](/Conditions.aspx?ID=10) (1 day)\n\nStage 3: enfeebled 2 and drained 2 (1 day)\n\nStage 4: enfeebled 2 and drained 3 (1 day)\n\nStage 5: drained 4, enfeebled 2, and [unconscious](/Conditions.aspx?ID=38) (1 day)\n\nStage 6: dead",
+  "summary": "A ghonhatine’s vomit carries an awful disease that, over time, can cause a suffering creature’s flesh to develop painful boils that eventually slough …",
+  "summary_markdown": "A ghonhatine’s vomit carries an awful disease that, over time, can cause a suffering creature’s flesh to develop painful boils that eventually slough …",
+  "text": " Fleshgout Source Bestiary 2 pg. 119 2.0 A ghonhatine’s vomit carries an awful disease that, over time, can cause a suffering creature’s flesh to develop painful boils that eventually slough away, leaving gaping wounds Saving Throw DC 28 Fortitude Stage 1 carrier with no ill effect (1d4 hours) Stage 2 enfeebled 1 and drained 1 (1 day) Stage 3 enfeebled 2 and drained 2 (1 day) Stage 4 enfeebled 2 and drained 3 (1 day) Stage 5 drained 4, enfeebled 2, and unconscious (1 day) Stage 6 dead ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-20",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Disease 1\" pfs=\"\">[Fly Pox](/Diseases.aspx?ID=20)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup>\n\nA giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 16 Fortitude\r\n\r\n**Onset**\r\n1 day\r\n\r\n**Stage 1** [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Stage 2** as stage 1 (1 day)\r\n\r\n**Stage 3** enfeebled 2 (1 day)\r\n\r\n**Stage 4** as stage 3\r\n\r\n**Stage 5** enfeebled 2 and [fatigued](/Conditions.aspx?ID=15) (1 day)\r\n\r\n</column>",
+  "name": "Fly Pox",
+  "onset": 86400,
+  "onset_raw": "1 day",
+  "primary_source": "Bestiary 2",
+  "primary_source_raw": "Bestiary 2 pg. 120",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 16 Fortitude",
+  "saving_throw_markdown": "DC 16 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 2"
+  ],
+  "source_raw": [
+   "Bestiary 2 pg. 120"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 2](/Sources.aspx?ID=32) pg. 120 <sup>2.0</sup>",
+  "speed": {},
+  "stage": [
+   " enfeebled 1  (1 day)",
+   "as stage 1 (1 day)",
+   "enfeebled 2 (1 day)",
+   "as stage 3",
+   "enfeebled 2 and  fatigued  (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\n\nStage 2: as stage 1 (1 day)\n\nStage 3: enfeebled 2 (1 day)\n\nStage 4: as stage 3\n\nStage 5: enfeebled 2 and [fatigued](/Conditions.aspx?ID=15) (1 day)",
+  "summary": "A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite",
+  "summary_markdown": "A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite",
+  "text": " Fly Pox Source Bestiary 2 pg. 120 2.0 A giant fly could carry any disease, but most transmit a virulent but not fatal infection called Fly Pox with their bite Saving Throw DC 16 Fortitude Onset 1 day Stage 1 enfeebled 1 (1 day) Stage 2 as stage 1 (1 day) Stage 3 enfeebled 2 (1 day) Stage 4 as stage 3 Stage 5 enfeebled 2 and fatigued (1 day) ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-21",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Disease 15\" pfs=\"\">[Blightburn Sickness](/Diseases.aspx?ID=21)</title>\r\n\r\n<spoilers>May contain spoilers from Extinction Curse</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 73\n\nThe ceiling of the vault of the Black Desert is studded with deadly crystals that glimmer like stars above the dark sands. These crystals are radioactive and flood the vault with lethal energy. Creatures other than those native to the vault or who have survived there for a long time develop a disease called blightburn sickness.\n\nCreatures native to the Black Desert are immune, as are creatures who are affected by blightburn sickness but recover from it. The target can't recover from the disease's [drained](/Conditions.aspx?ID=10) or [sickened](/Conditions.aspx?ID=34) condition except by magic.\n\n The surest way to avoid contracting blightburn sickness is by wearing a [_blightburn ward_](/Equipment.aspx?ID=653), a piece of protective jewelry often found among [urdefhans'](/MonsterFamilies.aspx?ID=158) gear or for sale in Shraen.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 32 Fortitude\r\n\r\n**Onset**\r\n1d4 days\r\n\r\n**Stage 1** drained 1 (1 day)\r\n\r\n**Stage 2** drained 1 and sickened 1 (1 day)\r\n\r\n**Stage 3** drained 2 and sickened 2 (1 week)\r\n\r\n**Stage 4** drained 3 and sickened 3 (1 month)\r\n\r\n**Stage 5** increase drained condition by 1 (1 year)\r\n\r\n</column>",
+  "name": "Blightburn Sickness",
+  "onset": 345600,
+  "onset_raw": "1d4 days",
+  "primary_source": "Pathfinder #155: Lord of the Black Sands",
+  "primary_source_raw": "Pathfinder #155: Lord of the Black Sands pg. 73",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Extinction Curse",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2020-05-27",
+  "resistance": {},
+  "saving_throw": "DC 32 Fortitude",
+  "saving_throw_markdown": "DC 32 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 73\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ceiling of the vault of the Black Desert is studded with deadly crystals that glimmer like stars above the dark sands. These crystals are …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #155: Lord of the Black Sands"
+  ],
+  "source_raw": [
+   "Pathfinder #155: Lord of the Black Sands pg. 73"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Extinction Curse"
+  ],
+  "source_markdown": "[Pathfinder #155: Lord of the Black Sands](/Sources.aspx?ID=33) pg. 73",
+  "speed": {},
+  "spoilers": "Extinction Curse",
+  "stage": [
+   "drained 1 (1 day)",
+   "drained 1 and sickened 1 (1 day)",
+   "drained 2 and sickened 2 (1 week)",
+   "drained 3 and sickened 3 (1 month)",
+   "increase drained condition by 1 (1 year)"
+  ],
+  "stage_markdown": "Stage 1: drained 1 (1 day)\n\nStage 2: drained 1 and sickened 1 (1 day)\n\nStage 3: drained 2 and sickened 2 (1 week)\n\nStage 4: drained 3 and sickened 3 (1 month)\n\nStage 5: increase drained condition by 1 (1 year)",
+  "summary": "The ceiling of the vault of the Black Desert is studded with deadly crystals that glimmer like stars above the dark sands. These crystals are …",
+  "summary_markdown": "The ceiling of the vault of the Black Desert is studded with deadly crystals that glimmer like stars above the dark sands. These crystals are …",
+  "text": " Blightburn Sickness May contain spoilers from Extinction Curse Source Pathfinder #155: Lord of the Black Sands pg. 73 The ceiling of the vault of the Black Desert is studded with deadly crystals that glimmer like stars above the dark sands. These crystals are radioactive and flood the vault with lethal energy. Creatures other than those native to the vault or who have survived there for a long time develop a disease called blightburn sickness. Creatures native to the Black Desert are immune, as are creatures who are affected by blightburn sickness but recover from it. The target can't recover from the disease's drained or sickened condition except by magic. The surest way to avoid contracting blightburn sickness is by wearing a blightburn ward , a piece of protective jewelry often found among urdefhans' gear or for sale in Shraen. Saving Throw DC 32 Fortitude Onset 1d4 days Stage 1 drained 1 (1 day) Stage 2 drained 1 and sickened 1 (1 day) Stage 3 drained 2 and sickened 2 (1 week) Stage 4 drained 3 and sickened 3 (1 month) Stage 5 increase drained condition by 1 (1 year) ",
+  "trait": [
+   "Disease",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Disease",
+   "Uncommon"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-22",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Disease 6\" pfs=\"\">[Swamp Guts](/Diseases.aspx?ID=22)</title>\r\n\r\n<spoilers>May contain spoilers from Strength of Thousands</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 47\n\nExposure to the swampy sewage produces extreme nausea and weakness for several days.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 22 Fortitude\r\n\r\n**Onset**\r\n1 hour\r\n\r\n**Stage 1** [sickened 1](/Conditions.aspx?ID=34) (1 day)\r\n\r\n**Stage 2** [enfeebled 1](/Conditions.aspx?ID=13) and [fatigued](/Conditions.aspx?ID=15) (1 day)\r\n\r\n**Stage 3** enfeebled 2 and fatigued (1 day)\r\n\r\n**Stage 4** enfeebled 4 and fatigued (1 day)\r\n\r\n</column>",
+  "name": "Swamp Guts",
+  "onset": 3600,
+  "onset_raw": "1 hour",
+  "primary_source": "Pathfinder #170: Spoken on the Song Wind",
+  "primary_source_raw": "Pathfinder #170: Spoken on the Song Wind pg. 47",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Strength of Thousands",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-09-01",
+  "resistance": {},
+  "saving_throw": "DC 22 Fortitude",
+  "saving_throw_markdown": "DC 22 Fortitude",
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Virulent\" url=\"/Traits.aspx?ID=162\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 47\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nExposure to the swampy sewage produces extreme nausea and weakness for several days.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #170: Spoken on the Song Wind"
+  ],
+  "source_raw": [
+   "Pathfinder #170: Spoken on the Song Wind pg. 47"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Strength of Thousands"
+  ],
+  "source_markdown": "[Pathfinder #170: Spoken on the Song Wind](/Sources.aspx?ID=97) pg. 47",
+  "speed": {},
+  "spoilers": "Strength of Thousands",
+  "stage": [
+   " sickened 1  (1 day)",
+   " enfeebled 1  and  fatigued  (1 day)",
+   "enfeebled 2 and fatigued (1 day)",
+   "enfeebled 4 and fatigued (1 day)"
+  ],
+  "stage_markdown": "Stage 1: [sickened 1](/Conditions.aspx?ID=34) (1 day)\n\nStage 2: [enfeebled 1](/Conditions.aspx?ID=13) and [fatigued](/Conditions.aspx?ID=15) (1 day)\n\nStage 3: enfeebled 2 and fatigued (1 day)\n\nStage 4: enfeebled 4 and fatigued (1 day)",
+  "summary": "Exposure to the swampy sewage produces extreme nausea and weakness for several days.",
+  "summary_markdown": "Exposure to the swampy sewage produces extreme nausea and weakness for several days.",
+  "text": " Swamp Guts May contain spoilers from Strength of Thousands Source Pathfinder #170: Spoken on the Song Wind pg. 47 Exposure to the swampy sewage produces extreme nausea and weakness for several days. Saving Throw DC 22 Fortitude Onset 1 hour Stage 1 sickened 1 (1 day) Stage 2 enfeebled 1 and fatigued (1 day) Stage 3 enfeebled 2 and fatigued (1 day) Stage 4 enfeebled 4 and fatigued (1 day) ",
+  "trait": [
+   "Disease",
+   "Uncommon",
+   "Virulent"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Uncommon](/Traits.aspx?ID=159), [Virulent](/Traits.aspx?ID=162)",
+  "trait_raw": [
+   "Disease",
+   "Uncommon",
+   "Virulent"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-23",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Disease 15\" pfs=\"\">[Addictive Exhaustion](/Diseases.aspx?ID=23)</title>\n\n<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 65\n\nAddictive exhaustion results from exposure to [Kuworsys's](/Monsters.aspx?ID=1733) spores, through close proximity with the monster or in fungus-filled pits throughout Kuworsys's lair. At the onset, afflicted creatures find themselves gradually becoming disinterested in life. As the disease worsens, they become hyper-focused on a single activity. As the disease reaches its final stages, sustenance and rest provide no relief for them.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** Fortitude; creatures with addictive exhaustion can't reduce their [sickened](/Conditions.aspx?ID=34) condition from addictive exhaustion while they have the disease\n\n**Stage 1** The creature is sickened 1. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day)\r\n\r\n**Stage 2** As Stage 1, but the creature is sickened 2 and is [fatigued](/Conditions.aspx?ID=15) (5 days)\r\n\r\n**Stage 3** As Stage 2, but the creature is sickened 3 and has incurable hunger and thirst, in addition to being fatigued (1 day)\r\n\r\n</column>",
+  "name": "Addictive Exhaustion",
+  "primary_source": "Monsters of Myth",
+  "primary_source_raw": "Monsters of Myth pg. 65",
+  "primary_source_category": "Lost Omens",
+  "rarity": "unique",
+  "rarity_id": 4,
+  "release_date": "2021-12-22",
+  "resistance": {},
+  "saving_throw": "Fortitude; creatures with addictive exhaustion can't reduce their <%CONDITIONS%34%%>sickened<%END> condition from addictive exhaustion while they have the disease",
+  "saving_throw_markdown": "Fortitude; creatures with addictive exhaustion can't reduce their [sickened](/Conditions.aspx?ID=34) condition from addictive exhaustion while they have the disease",
+  "search_markdown": "<traits>\r\n<trait label=\"Unique\" url=\"/Traits.aspx?ID=161\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Monsters of Myth](/Sources.aspx?ID=107) pg. 65\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAddictive exhaustion results from exposure to  Kuworsys's  spores, through close proximity with the monster or in fungus-filled pits throughout …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Monsters of Myth"
+  ],
+  "source_raw": [
+   "Monsters of Myth pg. 65"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Monsters of Myth](/Sources.aspx?ID=107) pg. 65",
+  "speed": {},
+  "stage": [
+   "The creature is sickened 1. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day)",
+   "As Stage 1, but the creature is sickened 2 and is  fatigued  (5 days)",
+   "As Stage 2, but the creature is sickened 3 and has incurable hunger and thirst, in addition to being fatigued (1 day)"
+  ],
+  "stage_markdown": "Stage 1: The creature is sickened 1. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day)\n\nStage 2: As Stage 1, but the creature is sickened 2 and is [fatigued](/Conditions.aspx?ID=15) (5 days)\n\nStage 3: As Stage 2, but the creature is sickened 3 and has incurable hunger and thirst, in addition to being fatigued (1 day)",
+  "summary": "Addictive exhaustion results from exposure to  Kuworsys's  spores, through close proximity with the monster or in fungus-filled pits throughout …",
+  "summary_markdown": "Addictive exhaustion results from exposure to  Kuworsys's  spores, through close proximity with the monster or in fungus-filled pits throughout …",
+  "text": " Addictive Exhaustion Source Monsters of Myth pg. 65 Addictive exhaustion results from exposure to Kuworsys's spores, through close proximity with the monster or in fungus-filled pits throughout Kuworsys's lair. At the onset, afflicted creatures find themselves gradually becoming disinterested in life. As the disease worsens, they become hyper-focused on a single activity. As the disease reaches its final stages, sustenance and rest provide no relief for them. Saving Throw Fortitude; creatures with addictive exhaustion can't reduce their sickened condition from addictive exhaustion while they have the disease Stage 1 The creature is sickened 1. One skill of the creature's choice doesn't suffer the status penalty from this sickened condition to its skill checks (1 day) Stage 2 As Stage 1, but the creature is sickened 2 and is fatigued (5 days) Stage 3 As Stage 2, but the creature is sickened 3 and has incurable hunger and thirst, in addition to being fatigued (1 day) ",
+  "trait": [
+   "Disease",
+   "Unique"
+  ],
+  "trait_group": [
+   "Rarity"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Unique](/Traits.aspx?ID=161)",
+  "trait_raw": [
+   "Disease",
+   "Unique"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-24",
+  "level": 15,
+  "markdown": "<title level=\"1\" right=\"Disease 15\" pfs=\"\">[Blightburn Sickness](/Diseases.aspx?ID=24)</title>\n\n<traits>\r\n\r\n</traits>\r\n\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 45 <sup>1.1</sup>\n\nCaused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from the disease's drained or sickened condition except by magic. It's typically a 15th-level affliction (DC 32 Fortitude), but exposure to other forms of blightburn can change it.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 32 Fortitude\r\n\r\n**Onset**\r\n1d4 days\r\n\r\n**Stage 1** [drained 1](/Conditions.aspx?ID=10) (1 day)\r\n\r\n**Stage 2** drained 1 and [sickened 1](/Conditions.aspx?ID=34) (1 day)\r\n\r\n**Stage 3** drained 2 and sickened 2 (1 week)\r\n\r\n**Stage 4** drained 3 and sickened 3 (1 month)\r\n\r\n**Stage 5** increase drained condition by 1 (1 year)\r\n\r\n</column>",
+  "name": "Blightburn Sickness",
+  "onset": 345600,
+  "onset_raw": "1d4 days",
+  "primary_source": "Treasure Vault",
+  "primary_source_raw": "Treasure Vault pg. 45",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-02-22",
+  "resistance": {},
+  "saving_throw": "DC 32 Fortitude",
+  "saving_throw_markdown": "DC 32 Fortitude",
+  "search_markdown": "<traits>\r\n\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Treasure Vault](/Sources.aspx?ID=191) pg. 45 <sup>1.1</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCaused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Treasure Vault"
+  ],
+  "source_raw": [
+   "Treasure Vault pg. 45"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Treasure Vault](/Sources.aspx?ID=191) pg. 45 <sup>1.1</sup>",
+  "speed": {},
+  "stage": [
+   " drained 1  (1 day)",
+   "drained 1 and  sickened 1  (1 day)",
+   "drained 2 and sickened 2 (1 week)",
+   "drained 3 and sickened 3 (1 month)",
+   "increase drained condition by 1 (1 year)"
+  ],
+  "stage_markdown": "Stage 1: [drained 1](/Conditions.aspx?ID=10) (1 day)\n\nStage 2: drained 1 and [sickened 1](/Conditions.aspx?ID=34) (1 day)\n\nStage 3: drained 2 and sickened 2 (1 week)\n\nStage 4: drained 3 and sickened 3 (1 month)\n\nStage 5: increase drained condition by 1 (1 year)",
+  "summary": "Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from …",
+  "summary_markdown": "Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from …",
+  "text": " Blightburn Sickness Source Treasure Vault pg. 45 1.1 Caused by exposure to blightburn crystal, blightburn sickness burns and dissolves the afflicted creature from within. The target can't recover from the disease's drained or sickened condition except by magic. It's typically a 15th-level affliction (DC 32 Fortitude), but exposure to other forms of blightburn can change it. Saving Throw DC 32 Fortitude Onset 1d4 days Stage 1 drained 1 (1 day) Stage 2 drained 1 and sickened 1 (1 day) Stage 3 drained 2 and sickened 2 (1 week) Stage 4 drained 3 and sickened 3 (1 month) Stage 5 increase drained condition by 1 (1 year) ",
+  "trait_markdown": "",
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "category": "disease",
+  "exclude_from_search": false,
+  "id": "disease-25",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Disease 2\" pfs=\"\">[Rust Creep](/Diseases.aspx?ID=25)</title>\r\n\r\n<spoilers>May contain spoilers from Rusthenge</spoilers>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n**Source** [Rusthenge](/Sources.aspx?ID=215) pg. 19\n\nThose afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours.\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Saving Throw** DC 15 Fortitude\n\n**Stage 1** –1 status penalty to [Athletics](/Skills.aspx?ID=3) checks (1 day)\r\n\r\n**Stage 2** as stage 1 (1 day)\r\n\r\n**Stage 3** [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\r\n\r\n**Stage 4** enfeebled 1 and [stupefied 1](/Conditions.aspx?ID=37), plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become [broken](/Conditions.aspx?ID=2) as the decay spreads to them (1 day; broken items remain broken)\r\n\r\n**Stage 5** [unconscious](/Conditions.aspx?ID=38) (1 day)\r\n\r\n**Stage 6** unconscious (1 day)\r\n\r\n**Stage 7** death\r\n\r\n</column>",
+  "name": "Rust Creep",
+  "primary_source": "Rusthenge",
+  "primary_source_raw": "Rusthenge pg. 19",
+  "primary_source_category": "Adventures",
+  "primary_source_group": "Rusthenge",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2023-10-18",
+  "resistance": {},
+  "saving_throw": "DC 15 Fortitude",
+  "saving_throw_markdown": "DC 15 Fortitude",
+  "school": "transmutation",
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Disease\" url=\"/Traits.aspx?ID=46\" />\r\n<trait label=\"Divine\" url=\"/Traits.aspx?ID=48\" />\r\n<trait label=\"Transmutation\" url=\"/Traits.aspx?ID=157\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rusthenge](/Sources.aspx?ID=215) pg. 19\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThose afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rusthenge"
+  ],
+  "source_raw": [
+   "Rusthenge pg. 19"
+  ],
+  "source_category": [
+   "Adventures"
+  ],
+  "source_group": [
+   "Rusthenge"
+  ],
+  "source_markdown": "[Rusthenge](/Sources.aspx?ID=215) pg. 19",
+  "speed": {},
+  "spoilers": "Rusthenge",
+  "stage": [
+   "–1 status penalty to  Athletics  checks (1 day)",
+   "as stage 1 (1 day)",
+   " enfeebled 1  (1 day)",
+   "enfeebled 1 and  stupefied 1 , plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become  broken  as the decay spreads to them (1 day; broken items remain broken)",
+   " unconscious  (1 day)",
+   "unconscious (1 day)",
+   "death"
+  ],
+  "stage_markdown": "Stage 1: –1 status penalty to [Athletics](/Skills.aspx?ID=3) checks (1 day)\n\nStage 2: as stage 1 (1 day)\n\nStage 3: [enfeebled 1](/Conditions.aspx?ID=13) (1 day)\n\nStage 4: enfeebled 1 and [stupefied 1](/Conditions.aspx?ID=37), plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become [broken](/Conditions.aspx?ID=2) as the decay spreads to them (1 day; broken items remain broken)\n\nStage 5: [unconscious](/Conditions.aspx?ID=38) (1 day)\n\nStage 6: unconscious (1 day)\n\nStage 7: death",
+  "summary": "Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience …",
+  "summary_markdown": "Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience …",
+  "text": " Rust Creep May contain spoilers from Rusthenge Source Rusthenge pg. 19 Those afflicted by rust creep develop uncomfortable rust-colored bruises on their flesh and endure full-body aches like those one might experience after a long workout. As the affliction progresses, their bodies—as well as the clothing and items they wear or carry—increasingly break down until a painful death occurs. If a character successfully resists contracting rust creep, or recovers from a case of rust creep, they are temporarily immune to future rust creep infections for 24 hours. Saving Throw DC 15 Fortitude Stage 1 –1 status penalty to Athletics checks (1 day) Stage 2 as stage 1 (1 day) Stage 3 enfeebled 1 (1 day) Stage 4 enfeebled 1 and stupefied 1, plus any armor, clothing and items you carry and that are of a level equal to or less than the disease become broken as the decay spreads to them (1 day; broken items remain broken) Stage 5 unconscious (1 day) Stage 6 unconscious (1 day) Stage 7 death ",
+  "trait": [
+   "Disease",
+   "Divine",
+   "Rare",
+   "Transmutation"
+  ],
+  "trait_group": [
+   "Tradition",
+   "Rarity",
+   "School"
+  ],
+  "trait_markdown": "[Disease](/Traits.aspx?ID=46), [Divine](/Traits.aspx?ID=48), [Rare](/Traits.aspx?ID=137), [Transmutation](/Traits.aspx?ID=157)",
+  "trait_raw": [
+   "Disease",
+   "Divine",
+   "Rare",
+   "Transmutation"
+  ],
+  "type": "Disease",
+  "url": "/Diseases.aspx?ID=25",
+  "weakness": {}
+ }
+]

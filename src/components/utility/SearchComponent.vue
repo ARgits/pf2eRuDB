@@ -1,24 +1,13 @@
 <script setup lang="ts">
-import { useContentStore } from '@stores/content';
-import { usePaginationStore } from '@stores/pagination';
-import { storeToRefs } from 'pinia';
-import { ref, watch } from 'vue';
-import ItemsCounterComponent from '@components/utility/ItemsCounterComponent.vue';
-import ContentViewSettings from './ContentViewSettings.vue'
+import { useContentStore } from "@stores/content";
+import { usePaginationStore } from "@stores/pagination";
+import { storeToRefs } from "pinia";
+import ItemsCounterComponent from "@components/utility/ItemsCounterComponent.vue";
+import ContentViewSettings from "./ContentViewSettings.vue"
 
-import CustomInputComponent from './CustomInputComponent.vue';
-import { useRoute } from 'vue-router';
-import type { DataRoutes } from '@/types';
-import { pg as dbObject } from '@/main';
-const { searchItem} = storeToRefs(useContentStore())
+import CustomInputComponent from "./CustomInputComponent.vue";
+const { searchItem, duplicateVersion, isDataFetched} = storeToRefs(useContentStore())
 const { itemsPerPage } = storeToRefs(usePaginationStore())
-const route = useRoute()
-const hasLevelProperty = ref(false)
-watch(route, async () => {
-  if (dbObject) {
-    hasLevelProperty.value = (await dbObject.query<{ count: number }>(`SELECT count(*) FROM content where data_type=$1 and level is not null`, [route.name as DataRoutes])).rows[0].count > 0
-  }
-})
 function changeSearchItem(e: Event) {
   const eventTarget = e.target as EventTarget & { value?: string }
   if (eventTarget.value === undefined) return
@@ -26,31 +15,47 @@ function changeSearchItem(e: Event) {
 }
 </script>
 <template>
-  <div class="search">
+  <div
+    v-if="isDataFetched"
+    class="search"
+  >
     <CustomInputComponent
       type="text"
       :on-change-func="changeSearchItem"
       :data-value="searchItem"
       label-text="Поиск по названию (Ru/En)"
     />
-    <div>
-      <label>Показывать по:
-        <select v-model="itemsPerPage">
-          <option value="10">
-            10
-          </option>
-          <option value="25">
-            25
-          </option>
-          <option value="50">
-            50
-          </option>
-          <option value="100">
-            100
-          </option>
-        </select>
-      </label>
-    </div>
+    <label>
+      Версия дубликатов:
+      <select
+        v-model="duplicateVersion"
+        class="select"
+      >
+        <option value="remaster">Ремастер</option>
+        <option value="legacy">Легаси</option>
+        <option value="both">Обе</option>
+      </select>
+    </label>
+    <label>Показывать по:
+      <select
+        v-model="itemsPerPage"
+        class="select"
+      >
+        <option value="10">
+          10
+        </option>
+        <option value="25">
+          25
+        </option>
+        <option value="50">
+          50
+        </option>
+        <option value="100">
+          100
+        </option>
+      </select>
+    </label>
+
     <ItemsCounterComponent />
     <ContentViewSettings />
   </div>
@@ -59,10 +64,10 @@ function changeSearchItem(e: Event) {
 .search {
     display: flex;
     flex-wrap: wrap;
-    gap: 10px;
-    padding: .5rem;
-    border: 1px solid black;
-    border-radius: 5px;
+    gap: var(--gap);
+    padding: var(--main-padding);
+    border: var(--basic-border);
+    border-radius: var(--border-radius);
     justify-content: center;
     align-items: center;
 }

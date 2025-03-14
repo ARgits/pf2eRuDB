@@ -1,28 +1,31 @@
-import { IdbFs, PGlite } from '@electric-sql/pglite'
+import { IdbFs, PGlite } from "@electric-sql/pglite"
 
-export async function getPG(options:{meta:{isIDB:boolean, isVersionCorrect:number}})
-{if (options.meta.isIDB) {
+export async function getPG(options:{ meta:{ isIDB:boolean, isVersionCorrect:number } }){
+  if (options.meta.isIDB) {
     if (options.meta.isVersionCorrect !== 0) {
-
-      indexedDB.deleteDatabase('/pglite/contentDB')
-      
+      indexedDB.deleteDatabase("/pglite/contentDB")
       return await fetchDB()
     }
     
-    return new PGlite({ dataDir: 'idb://contentDB', relaxedDurability: true, })
+    return new PGlite( { 
+      dataDir: "idb://contentDB", 
+      relaxedDurability: true,
+      debug:5 
+    })
   } else {
     
     return await fetchDB()
-  }}
+  } }
 export async function fetchDB() {
-const res = await fetch('/db.tar.gz')
+  const res = await fetch("/db.tar.gz")
 
-if (res.ok) {
-  return await PGlite.create({
-    loadDataDir: await res.blob(),
-    fs: new IdbFs('contentDB'),
-    relaxedDurability: true,
-  })
-}
-return await PGlite.create()
+  if (res.ok) {
+    return await PGlite.create({
+      loadDataDir: await res.blob(),
+      fs: new IdbFs("contentDB"),
+      relaxedDurability: true,
+      debug:5
+    })
+  }
+  return await PGlite.create()
 }

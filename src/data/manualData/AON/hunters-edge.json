@@ -1,0 +1,224 @@
+[
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-1",
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Flurry](/HuntersEdge.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\n\nYou have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYou can blend your weapon mastery with skillful targeting to make a series of precise attacks. If you have master proficiency with your weapon, your multiple attack penalty for attacks against your hunted prey is –2 (–1 with an agile weapon) on your second attack of the turn, and –4 (–2 with an agile weapon) on your third and subsequent attacks of the turn.",
+  "name": "Flurry",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 168",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "hunters-edge-4"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 168"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …",
+  "summary_markdown": "You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …",
+  "text": " Flurry Source Core Rulebook pg. 168 4.0 You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10. Masterful Hunter You can blend your weapon mastery with skillful targeting to make a series of precise attacks. If you have master proficiency with your weapon, your multiple attack penalty for attacks against your hunted prey is –2 (–1 with an agile weapon) on your second attack of the turn, and –4 (–2 with an agile weapon) on your third and subsequent attacks of the turn.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-2",
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Precision](/HuntersEdge.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\n\nYou have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.) At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYour weapon mastery allows you to hit your prey’s vital areas multiple times. The second time in a round you hit your hunted prey, you also deal 1d8 precision damage. At 19th level, your second hit in a round against your hunted prey deals 2d8 precision damage, and your third hit in a round against your hunted prey deals 1d8 precision damage.",
+  "name": "Precision",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 168",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "hunters-edge-5"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 168"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …",
+  "summary_markdown": "You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …",
+  "text": " Precision Source Core Rulebook pg. 168 4.0 You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.) At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage. Masterful Hunter Your weapon mastery allows you to hit your prey’s vital areas multiple times. The second time in a round you hit your hunted prey, you also deal 1d8 precision damage. At 19th level, your second hit in a round against your hunted prey deals 2d8 precision damage, and your third hit in a round against your hunted prey deals 1d8 precision damage.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-3",
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Outwit](/HuntersEdge.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\n\nYou are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to [Deception](/Skills.aspx?ID=5) checks, [Intimidation](/Skills.aspx?ID=7) checks, [Stealth](/Skills.aspx?ID=15) checks, and any checks to [Recall Knowledge](/Actions.aspx?ID=26) about the prey, and a +1 circumstance bonus to AC against your prey's attacks.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYour mastery of skills allows you to overwhelm your prey. If you have master proficiency in Deception, Intimidation, Stealth, or the skill you use to Recall Knowledge about your prey, increase the circumstance bonus against the prey with that skill from +2 to +4. If you have master proficiency with your armor, increase the circumstance bonus to AC against the prey from +1 to +2.",
+  "name": "Outwit",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 168",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "hunters-edge-6"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 168"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 168 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …",
+  "summary_markdown": "You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …",
+  "text": " Outwit Source Core Rulebook pg. 168 4.0 You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to Deception checks, Intimidation checks, Stealth checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey's attacks. Masterful Hunter Your mastery of skills allows you to overwhelm your prey. If you have master proficiency in Deception, Intimidation, Stealth, or the skill you use to Recall Knowledge about your prey, increase the circumstance bonus against the prey with that skill from +2 to +4. If you have master proficiency with your armor, increase the circumstance bonus to AC against the prey from +1 to +2.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-4",
+  "legacy_id": [
+   "hunters-edge-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Flurry](/HuntersEdge.aspx?ID=4)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\n\nYou have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYou can blend your weapon mastery with skillful targeting to make a series of precise attacks. If you have master proficiency with your weapon, your multiple attack penalty for attacks against your hunted prey is –2 (–1 with an agile weapon) on your second attack of the turn, and –4 (–2 with an agile weapon) on your third and subsequent attacks of the turn.",
+  "name": "Flurry",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 154",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 154"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …",
+  "summary_markdown": "You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 …",
+  "text": " Flurry Source Player Core pg. 154 2.0 You have trained to unleash a devastating flurry of attacks upon your prey. Your multiple attack penalty for attacks against your hunted prey is –3 (–2 with an agile weapon) on your second attack of the turn instead of –5, and –6 (–4 with an agile weapon) on your third or subsequent attack of the turn, instead of –10. Masterful Hunter You can blend your weapon mastery with skillful targeting to make a series of precise attacks. If you have master proficiency with your weapon, your multiple attack penalty for attacks against your hunted prey is –2 (–1 with an agile weapon) on your second attack of the turn, and –4 (–2 with an agile weapon) on your third and subsequent attacks of the turn.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-5",
+  "legacy_id": [
+   "hunters-edge-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Precision](/HuntersEdge.aspx?ID=5)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\n\nYou have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.) At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYour weapon mastery allows you to hit your prey’s vital areas multiple times. The second time in a round you hit your hunted prey, you also deal 1d8 precision damage. At 19th level, your second hit in a round against your hunted prey deals 2d8 precision damage, and your third hit in a round against your hunted prey deals 1d8 precision damage.",
+  "name": "Precision",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 154",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 154"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …",
+  "summary_markdown": "You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision …",
+  "text": " Precision Source Player Core pg. 154 2.0 You have trained to aim for your prey’s weak points. The first time you hit your hunted prey in a round, you also deal 1d8 additional precision damage. (Precision damage increases the damage you already deal, using the same type, but is ineffective against creatures that lack vital organs or weak points.) At 11th level, the extra damage increases to 2d8 precision damage, and at 19th level, the extra damage increases to 3d8 precision damage. Masterful Hunter Your weapon mastery allows you to hit your prey’s vital areas multiple times. The second time in a round you hit your hunted prey, you also deal 1d8 precision damage. At 19th level, your second hit in a round against your hunted prey deals 2d8 precision damage, and your third hit in a round against your hunted prey deals 1d8 precision damage.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "hunters-edge",
+  "exclude_from_search": false,
+  "id": "hunters-edge-6",
+  "legacy_id": [
+   "hunters-edge-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Ranger Hunter's Edge \" pfs=\"Standard\">[Outwit](/HuntersEdge.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\n\nYou are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to [Deception](/Skills.aspx?ID=5) checks, [Intimidation](/Skills.aspx?ID=7) checks, [Stealth](/Skills.aspx?ID=15) checks, and any checks to [Recall Knowledge](/Actions.aspx?ID=26) about the prey, and a +1 circumstance bonus to AC against your prey's attacks.\r\n\r\n<title level=\"2\" right=\"Level 17\">Masterful Hunter</title>\r\n\r\nYour mastery of skills allows you to overwhelm your prey. If you have master proficiency in Deception, Intimidation, Stealth, or the skill you use to Recall Knowledge about your prey, increase the circumstance bonus against the prey with that skill from +2 to +4. If you have master proficiency with your armor, increase the circumstance bonus to AC against the prey from +1 to +2.",
+  "name": "Outwit",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 154",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 154"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 154 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …",
+  "summary_markdown": "You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to  Deception  checks,  Intimidation  checks,  Stealth  …",
+  "text": " Outwit Source Player Core pg. 154 2.0 You are talented at outwitting and evading your prey. You gain a +2 circumstance bonus to Deception checks, Intimidation checks, Stealth checks, and any checks to Recall Knowledge about the prey, and a +1 circumstance bonus to AC against your prey's attacks. Masterful Hunter Your mastery of skills allows you to overwhelm your prey. If you have master proficiency in Deception, Intimidation, Stealth, or the skill you use to Recall Knowledge about your prey, increase the circumstance bonus against the prey with that skill from +2 to +4. If you have master proficiency with your armor, increase the circumstance bonus to AC against the prey from +1 to +2.",
+  "type": "Ranger Hunter's Edge",
+  "url": "/HuntersEdge.aspx?ID=6",
+  "weakness": {}
+ }
+]

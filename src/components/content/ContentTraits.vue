@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import type { generalContent } from '@types';
-import { v4 as uuidv4 } from 'uuid'
-import { capitalize,  } from 'vue';
+import type { generalContent } from "@types";
+import { v4 as uuidv4 } from "uuid"
+import { capitalize, } from "vue";
 const { trait } = defineProps<{ trait: generalContent["trait"] }>()
 const uuid = uuidv4()
 </script>
@@ -13,6 +13,7 @@ const uuid = uuidv4()
     <div
       v-for="tr in trait"
       :key="uuid + tr"
+      class="trait"
     >
       {{ capitalize(tr) }}
     </div>
@@ -24,7 +25,7 @@ const uuid = uuidv4()
     flex-wrap: wrap;
     gap: .25rem;
 
-    &>* {
+   > .trait {
         font-family: Roboto Condensed, sans-serif;
         border: 1px solid #dac68a;
         border-right-width: 2px;

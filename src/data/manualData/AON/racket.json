@@ -1,0 +1,332 @@
+[
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-1",
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Ruffian](/Rackets.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\n\nYou prefer to strong-arm or intimidate others rather than rely on finesse or fancy tricks. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power. Or, you might use your skills on the up and up, in a private security detail or as a guard in a city with the right temperament.\n\n You use whatever tools you have at hand to get the job done. You can deal sneak attack damage with any simple weapon, in addition to the weapons listed in the sneak attack class feature. When you critically succeed at an attack roll using a simple weapon and the target has the [flat-footed](/Conditions.aspx?ID=16) condition (unable to focus on defending itself), you also apply the [critical specialization effect](/Rules.aspx?ID=235) for the weapon you're wielding. You don't gain these benefits if the weapon has a damage die larger than d8 (after applying any abilities that alter its damage die size).\n\n You're trained in [Intimidation](/Skills.aspx?ID=7) and medium armor. You can choose Strength as your key ability score. When you gain light armor expertise, you also gain expert proficiency in medium armor, and when you gain light armor mastery, you also gain master proficiency in medium armor.",
+  "name": "Ruffian",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 180",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "racket-7"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou prefer to strong-arm or intimidate others rather than rely on finesse or fancy tricks. You might be an enforcer for organized crime, a highway …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 180"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You prefer to strong-arm or intimidate others rather than rely on finesse or fancy tricks. You might be an enforcer for organized crime, a highway …",
+  "summary_markdown": "You prefer to strong-arm or intimidate others rather than rely on finesse or fancy tricks. You might be an enforcer for organized crime, a highway …",
+  "text": " Ruffian Source Core Rulebook pg. 180 4.0 You prefer to strong-arm or intimidate others rather than rely on finesse or fancy tricks. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power. Or, you might use your skills on the up and up, in a private security detail or as a guard in a city with the right temperament. You use whatever tools you have at hand to get the job done. You can deal sneak attack damage with any simple weapon, in addition to the weapons listed in the sneak attack class feature. When you critically succeed at an attack roll using a simple weapon and the target has the flat-footed condition (unable to focus on defending itself), you also apply the critical specialization effect for the weapon you're wielding. You don't gain these benefits if the weapon has a damage die larger than d8 (after applying any abilities that alter its damage die size). You're trained in Intimidation and medium armor. You can choose Strength as your key ability score. When you gain light armor expertise, you also gain expert proficiency in medium armor, and when you gain light armor mastery, you also gain master proficiency in medium armor.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-2",
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Scoundrel](/Rackets.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\n\nYou use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, traveling from place to place with a new story or scheme. Your racket is also ideal for certain reputable professions, like barrister, diplomat, or politician.\n\n When you successfully [Feint](/Actions.aspx?ID=48), the target is [flat-footed](/Conditions.aspx?ID=16) against melee attacks you attempt against it until the end of your next turn. On a critical success, the target is flat-footed against all melee attacks until the end of your next turn, not just yours.\n\n You’re trained in [Deception](/Skills.aspx?ID=5) and [Diplomacy](/Skills.aspx?ID=6). You can choose Charisma as your key ability score.",
+  "name": "Scoundrel",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 180",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "racket-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, traveling …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 180"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, traveling …",
+  "summary_markdown": "You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, traveling …",
+  "text": " Scoundrel Source Core Rulebook pg. 180 4.0 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, traveling from place to place with a new story or scheme. Your racket is also ideal for certain reputable professions, like barrister, diplomat, or politician. When you successfully Feint, the target is flat-footed against melee attacks you attempt against it until the end of your next turn. On a critical success, the target is flat-footed against all melee attacks until the end of your next turn, not just yours. You’re trained in Deception and Diplomacy. You can choose Charisma as your key ability score.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-3",
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Thief](/Rackets.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\n\nNothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows and escaping via rooftops, or a safecracker breaking into carefully guarded vaults. You might even work as a consultant, testing clients’ defenses by trying to steal something precious.\n\n When a fight breaks out, you prefer swift, lightweight weapons, and you strike where it hurts. When you attack with a [finesse](/Traits.aspx?ID=179) melee weapon, you can add your Dexterity modifier to damage rolls instead of your Strength modifier.\n\n You are trained in [Thievery](/Skills.aspx?ID=17).",
+  "name": "Thief",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 180",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "racket-9"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 180"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 180 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …",
+  "summary_markdown": "Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …",
+  "text": " Thief Source Core Rulebook pg. 180 4.0 Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows and escaping via rooftops, or a safecracker breaking into carefully guarded vaults. You might even work as a consultant, testing clients’ defenses by trying to steal something precious. When a fight breaks out, you prefer swift, lightweight weapons, and you strike where it hurts. When you attack with a finesse melee weapon, you can add your Dexterity modifier to damage rolls instead of your Strength modifier. You are trained in Thievery.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-4",
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Eldritch Trickster](/Rackets.aspx?ID=4)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>\n\nWhen it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane wards or pesky divinations. You dabble in magic just enough to help handle these problems by jury-rigging spells and throwing a bit of your own magic into the mix. You might be a solitary thief, performing burglaries that can't be explained by skill alone, or a specialist called in by other rogues to deal with magical security measures. You might even be on the up-and-up, hired to test magical defenses or even build them yourself.\n\n Choose a [multiclass archetype](/Archetypes.aspx?Category=4) that has a basic, expert, and master spellcasting feat. You gain that archetype's dedication feat as a bonus feat even though you don't meet its level prerequisite, though you must meet its other prerequisites. For you, the [Magical Trickster](/Feats.aspx?ID=562) rogue feat has a prerequisite of 2nd level instead of 4th level. You can choose the spellcasting ability score for the multiclass archetype you chose as your key ability score.",
+  "name": "Eldritch Trickster",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 134",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 134"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "When it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane …",
+  "summary_markdown": "When it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane …",
+  "text": " Eldritch Trickster Source Advanced Player's Guide pg. 134 2.0 When it comes to a big heist, every rogue worth their salt knows that magic can throw meticulous plans into chaos, whether in the form of arcane wards or pesky divinations. You dabble in magic just enough to help handle these problems by jury-rigging spells and throwing a bit of your own magic into the mix. You might be a solitary thief, performing burglaries that can't be explained by skill alone, or a specialist called in by other rogues to deal with magical security measures. You might even be on the up-and-up, hired to test magical defenses or even build them yourself. Choose a multiclass archetype that has a basic, expert, and master spellcasting feat. You gain that archetype's dedication feat as a bonus feat even though you don't meet its level prerequisite, though you must meet its other prerequisites. For you, the Magical Trickster rogue feat has a prerequisite of 2nd level instead of 4th level. You can choose the spellcasting ability score for the multiclass archetype you chose as your key ability score.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-5",
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Mastermind](/Rackets.aspx?ID=5)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>\n\nWhere others might use sleight of hand or a silver tongue to achieve their objectives, you rely on your intellect to craft intricate schemes. You likely view your operations as a chess game, always planning 10 steps ahead where others might plan three. You might be a detective determined to solve crimes or a spymaster in the service of a powerful family or nation. If you operate outside the law, you might be an aspiring crime lord or information broker, excellent at directing others toward suitable jobs.\n\n If you successfully identify a creature using [Recall Knowledge](/Actions.aspx?ID=26), that creature is [flat-footed](/Conditions.aspx?ID=16) against your attacks until the start of your next turn; if you critically succeed, it's flat-footed against your attacks for 1 minute.\n\n You're trained in [Society](/Skills.aspx?ID=14) and one of the following skills of your choice: [Arcana](/Skills.aspx?ID=2), [Nature](/Domains.aspx?ID=22), [Occultism](/Skills.aspx?ID=11), or [Religion](/Skills.aspx?ID=13). You can choose Intelligence as your key ability score.",
+  "name": "Mastermind",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 134",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "racket-6"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhere others might use sleight of hand or a silver tongue to achieve their objectives, you rely on your intellect to craft intricate schemes. You …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 134"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 134 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Where others might use sleight of hand or a silver tongue to achieve their objectives, you rely on your intellect to craft intricate schemes. You …",
+  "summary_markdown": "Where others might use sleight of hand or a silver tongue to achieve their objectives, you rely on your intellect to craft intricate schemes. You …",
+  "text": " Mastermind Source Advanced Player's Guide pg. 134 2.0 Where others might use sleight of hand or a silver tongue to achieve their objectives, you rely on your intellect to craft intricate schemes. You likely view your operations as a chess game, always planning 10 steps ahead where others might plan three. You might be a detective determined to solve crimes or a spymaster in the service of a powerful family or nation. If you operate outside the law, you might be an aspiring crime lord or information broker, excellent at directing others toward suitable jobs. If you successfully identify a creature using Recall Knowledge, that creature is flat-footed against your attacks until the start of your next turn; if you critically succeed, it's flat-footed against your attacks for 1 minute. You're trained in Society and one of the following skills of your choice: Arcana, Nature, Occultism, or Religion. You can choose Intelligence as your key ability score.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-6",
+  "legacy_id": [
+   "racket-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Mastermind](/Rackets.aspx?ID=6)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) For the purposes of abilities like the mastermind rogue racket, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain._\r\n\r\nYou rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a spymaster in the service of a powerful house, or an aspiring crime lord or information broker.\n\n If you successfully identify a creature using [Recall Knowledge](/Actions.aspx?ID=26), that creature is [off-guard](/Conditions.aspx?ID=58) against your attacks until the start of your next turn; if you critically succeed, it's off-guard against your attacks for 1 minute.\n\n You're trained in [Society](/Skills.aspx?ID=14) and one of the following skills of your choice: [Arcana](/Skills.aspx?ID=2), [Nature](/Skills.aspx?ID=10), [Occultism](/Skills.aspx?ID=11), or [Religion](/Skills.aspx?ID=13). You can choose Intelligence as your key attribute.",
+  "name": "Mastermind",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 166",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 166"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a …",
+  "summary_markdown": "You rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a …",
+  "text": " Mastermind Source Player Core pg. 166 2.0 PFS Note For the purposes of abilities like the mastermind rogue racket, a character is considered to have successfully identified a creature when they succeed or critically succeed at a Recall Knowledge check, regardless of what information they gain. You rely on your intellect to craft intricate schemes, planning 10 steps ahead where others might plan three. You might be a driven detective, a spymaster in the service of a powerful house, or an aspiring crime lord or information broker. If you successfully identify a creature using Recall Knowledge, that creature is off-guard against your attacks until the start of your next turn; if you critically succeed, it's off-guard against your attacks for 1 minute. You're trained in Society and one of the following skills of your choice: Arcana, Nature, Occultism, or Religion. You can choose Intelligence as your key attribute.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-7",
+  "legacy_id": [
+   "racket-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Ruffian](/Rackets.aspx?ID=7)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\n\nYou prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power. <br />You use whatever tools you have at hand to get the job done. You can deal sneak attack damage with any weapon, not just the weapons listed in the sneak attack class feature. This benefit doesn't apply to a simple weapon with a damage die greater than d8 or a martial or advanced weapon with a damage die greater than d6. (Apply any abilities that alter the damage die size first.) Critical hits you make with these weapons gain the weapon's [critical specialization benefit](/Rules.aspx?ID=235) if the target is [off-guard](/Conditions.aspx?ID=16)  to you. \n\n You're trained in [Intimidation](/Skills.aspx?ID=7) and medium armor. You can choose Strength as your key ability score. When you gain light armor expertise, you also gain expert proficiency in medium armor, and when you gain light armor mastery, you also gain master proficiency in medium armor.",
+  "name": "Ruffian",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 166",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 166"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies …",
+  "summary_markdown": "You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies …",
+  "text": " Ruffian Source Player Core pg. 166 2.0 You prefer the direct approach: strong-arming or intimidation. You might be an enforcer for organized crime, a highway bandit, or a noble who bullies others with threats of your family's power. You use whatever tools you have at hand to get the job done. You can deal sneak attack damage with any weapon, not just the weapons listed in the sneak attack class feature. This benefit doesn't apply to a simple weapon with a damage die greater than d8 or a martial or advanced weapon with a damage die greater than d6. (Apply any abilities that alter the damage die size first.) Critical hits you make with these weapons gain the weapon's critical specialization benefit if the target is off-guard to you. You're trained in Intimidation and medium armor. You can choose Strength as your key ability score. When you gain light armor expertise, you also gain expert proficiency in medium armor, and when you gain light armor mastery, you also gain master proficiency in medium armor.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-8",
+  "legacy_id": [
+   "racket-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Scoundrel](/Rackets.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\n\nYou use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat\n\n When you successfully [Feint](/Actions.aspx?ID=48), the target is [off-guard](/Conditions.aspx?ID=16) against your melee attacks until the end of your next turn. On a critical success, the target is off-guard against all melee attacks until the end of your next turn, not just yours. If you Feint while wielding an agile or finesse melee weapon, you can [step](/Actions.aspx?ID=87) immediately after the Feint as a free action.\n\n You’re trained in [Deception](/Skills.aspx?ID=5) and [Diplomacy](/Skills.aspx?ID=6). You can choose Charisma as your key ability score.",
+  "name": "Scoundrel",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 166",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 166"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 166 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might …",
+  "summary_markdown": "You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might …",
+  "text": " Scoundrel Source Player Core pg. 166 2.0 You use fast-talking, flattery, and a silver tongue to avoid danger and escape tricky situations. You might be a grifter or con artist, or you might use your skills in certain reputable professions, like a barrister or diplomat When you successfully Feint, the target is off-guard against your melee attacks until the end of your next turn. On a critical success, the target is off-guard against all melee attacks until the end of your next turn, not just yours. If you Feint while wielding an agile or finesse melee weapon, you can step immediately after the Feint as a free action. You’re trained in Deception and Diplomacy. You can choose Charisma as your key ability score.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "racket",
+  "exclude_from_search": false,
+  "id": "racket-9",
+  "legacy_id": [
+   "racket-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Rogue Racket \" pfs=\"Standard\">[Thief](/Rackets.aspx?ID=9)</title>\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 167 <sup>2.0</sup>\n\nNothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows, or even a consultant, testing clients’ vaults for openings.\n\n When a fight breaks out, you prefer swift, lightweight weapons, and you strike where it hurts. When you attack with a [finesse](/Traits.aspx?ID=179) melee weapon or finesse melee unarmed attack, you can add your Dexterity modifier to damage rolls instead of your Strength modifier.\n\n You are trained in [Thievery](/Skills.aspx?ID=17).",
+  "name": "Thief",
+  "pfs": "Standard",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 167",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 167 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 167"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 167 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …",
+  "summary_markdown": "Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a …",
+  "text": " Thief Source Player Core pg. 167 2.0 Nothing beats the thrill of taking something that belongs to someone else, especially if you can do so completely unnoticed. You might be a pickpocket working the streets, a cat burglar sneaking through windows, or even a consultant, testing clients’ vaults for openings. When a fight breaks out, you prefer swift, lightweight weapons, and you strike where it hurts. When you attack with a finesse melee weapon or finesse melee unarmed attack, you can add your Dexterity modifier to damage rolls instead of your Strength modifier. You are trained in Thievery.",
+  "type": "Rogue Racket",
+  "url": "/Rackets.aspx?ID=9",
+  "weakness": {}
+ }
+]

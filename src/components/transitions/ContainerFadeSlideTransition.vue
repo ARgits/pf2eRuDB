@@ -1,11 +1,6 @@
-<script setup lang="ts">
-// const {additionalTransition=''} = defineProps<{additionalTransition?:string}>()
-// Function for entering transition
-
-</script>
 <template>
   <TransitionGroup
-    name="fadeSlide"                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+    name="fadeSlide"               
   >
     <slot />
   </TransitionGroup>
@@ -14,13 +9,13 @@
  .fadeSlide-move,
  .fadeSlide-enter-active,
  .fadeSlide-leave-active {
-   transition: transform .5s cubic-bezier(0.55, 0, 0.1, 1);
+  transition: transform .5s ease;
  }
 
  .fadeSlide-enter-from,
  .fadeSlide-leave-to {
    opacity: 0;
-   transform: scaleY(0.01) translateX(30px);
+   transform: scaleY(0.1);
  }
 
  .fadeSlide-leave-active {

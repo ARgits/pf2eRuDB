@@ -1,0 +1,467 @@
+[
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-1",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Aldori Swordlords](/MonsterTemplates.aspx?ID=1)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\n\nAldori swordlords are masters of combat trained in the Aldori dueling sword. They value honor above everything.\r\n\r\n- **1st Level or Higher**: Remove the creature's melee weapons (if any) from its items. Add the [Aldori dueling sword](/Weapons.aspx?ID=88) to the creature's items with a Strike at the same bonus as its best melee Strike.\r\n- **4th Level or Higher**: Add [Intimidation](/Skills.aspx?ID=7) to the creature's skills. The creature gains the [Duelist's Edge](/Feats.aspx?ID=878) free action.\r\n- **7th Level or Higher**: Remove one of the creature's reactions (if any) from its available options, and replace it with the [Attack of Opportunity](/MonsterAbilities.aspx?ID=3) reaction.\r\n- **12th Level or Higher**: The creature gains the [Unnerving Prowess](/Feats.aspx?ID=880) free action.\r\n- **17th Level or Higher**: The creature gains the [Saving Slash](/Feats.aspx?ID=881) reaction.",
+  "name": "Aldori Swordlords",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 128",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 128"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Aldori Swordlords Source Character Guide pg. 128 2.0 Aldori swordlords are masters of combat trained in the Aldori dueling sword. They value honor above everything. - 1st Level or Higher : Remove the creature's melee weapons (if any) from its items. Add the Aldori dueling sword to the creature's items with a Strike at the same bonus as its best melee Strike. - 4th Level or Higher : Add Intimidation to the creature's skills. The creature gains the Duelist's Edge free action. - 7th Level or Higher : Remove one of the creature's reactions (if any) from its available options, and replace it with the Attack of Opportunity reaction. - 12th Level or Higher : The creature gains the Unnerving Prowess free action. - 17th Level or Higher : The creature gains the Saving Slash reaction.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-2",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Aspis Consortium](/MonsterTemplates.aspx?ID=2)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\n\nMembers of the Aspis Consortium are always seeking ways to earn more coin. They are unscrupulous and aggressive in their methods, and put finances above morality.\r\n\r\n- **All Creatures**: Add the [evil](/Traits.aspx?ID=64) trait. Remove the [good](/Traits.aspx?ID=83) trait.\r\n- **1st Level or Higher**: Add [Deception](/Skills.aspx?ID=5) or [Thievery](/Skills.aspx?ID=17) to the creature's skills.\r\n- **4th Level or Higher**: The creature gains the [rogue's surprise attack class feature](/Classes.aspx?ID=10).\r\n- **7th Level or Higher**: The creature can cast [_invisibility_](/Spells.aspx?ID=164) once per day as an innate arcane spell.\r\n- **12th Level or Higher**: The creature gains the [rogue's deny advantage class feature](/Classes.aspx?ID=10).\r\n- **17th Level or Higher**: The creature gains 9th-level [_nondetection_](/Spells.aspx?ID=209) as a constant innate arcane spell, which also affects the creature's items.",
+  "name": "Aspis Consortium",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 128",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 128"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Aspis Consortium Source Character Guide pg. 128 2.0 Members of the Aspis Consortium are always seeking ways to earn more coin. They are unscrupulous and aggressive in their methods, and put finances above morality. - All Creatures : Add the evil trait. Remove the good trait. - 1st Level or Higher : Add Deception or Thievery to the creature's skills. - 4th Level or Higher : The creature gains the rogue's surprise attack class feature. - 7th Level or Higher : The creature can cast invisibility once per day as an innate arcane spell. - 12th Level or Higher : The creature gains the rogue's deny advantage class feature. - 17th Level or Higher : The creature gains 9th-level nondetection as a constant innate arcane spell, which also affects the creature's items.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-3",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Bellflower Network](/MonsterTemplates.aspx?ID=3)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\n\nMembers of the Bellflower Network fight against slavery where they can, liberating slaves and helping those in need.\r\n\r\n- **All Creatures**: Add the [chaotic](/Traits.aspx?ID=25) trait. Remove the [evil](/Traits.aspx?ID=64) and [lawful](/Traits.aspx?ID=99) traits.\r\n- **1st Level or Higher**: Add [Acrobatics](/Skills.aspx?ID=1) to the creature's skills, with a bonus 2 higher when used to [Escape](/Actions.aspx?ID=79).\r\n- **4th Level or Higher**: Increase the creature's Speed by 5 feet.\r\n- **7th Level or Higher**: Add [Deception](/Skills.aspx?ID=5) to the creature's skills. It gains the [Unfettered Halfling](/Feats.aspx?ID=58) ancestry feat, even if it isn't a halfling.\r\n- **12th Level or Higher**: The creature can cast [_freedom of movement_](/Spells.aspx?ID=128) once per day as an innate divine spell.\r\n- **17th Level or Higher**: The creature gains the [Foil Senses](/Feats.aspx?ID=785) and [Slippery Secrets](/Feats.aspx?ID=842) skill feats.",
+  "name": "Bellflower Network",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 128",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 128"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Bellflower Network Source Character Guide pg. 128 2.0 Members of the Bellflower Network fight against slavery where they can, liberating slaves and helping those in need. - All Creatures : Add the chaotic trait. Remove the evil and lawful traits. - 1st Level or Higher : Add Acrobatics to the creature's skills, with a bonus 2 higher when used to Escape. - 4th Level or Higher : Increase the creature's Speed by 5 feet. - 7th Level or Higher : Add Deception to the creature's skills. It gains the Unfettered Halfling ancestry feat, even if it isn't a halfling. - 12th Level or Higher : The creature can cast freedom of movement once per day as an innate divine spell. - 17th Level or Higher : The creature gains the Foil Senses and Slippery Secrets skill feats.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-4",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Eagle Knights](/MonsterTemplates.aspx?ID=4)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\n\nThe Eagle Knights are a military group dedicated to fighting tyranny and defending their homeland, Andoran. They risk their lives to fight injustice and champion the rights of the individual.\r\n\r\n- **1st Level or Higher**: Add [Diplomacy](/Skills.aspx?ID=6) and [Society](/Skills.aspx?ID=14) to the creature's skills.\r\n- **4th Level or Higher**: The creature can cast the [inspire competence](/Feats.aspx?ID=185) and [_inspire courage_](/Spells.aspx?ID=386) composition cantrips once per day each as innate divine spells.\r\n- **7th Level or Higher**: When using the [Aid](/Actions.aspx?ID=75) reaction, if the creature rolls a success, it gets a critical success instead.\r\n- **12th Level or Higher**: Remove one of the creature's reactions (if any) from its available options, and replace it with the [Attack of Opportunity](/MonsterAbilities.aspx?ID=3) reaction.\r\n- **17th Level or Higher**: The creature can cast 9th-level [_freedom of movement_](/Spells.aspx?ID=128) once per day as an innate divine spell.",
+  "name": "Eagle Knights",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 128",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 128"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 128 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Eagle Knights Source Character Guide pg. 128 2.0 The Eagle Knights are a military group dedicated to fighting tyranny and defending their homeland, Andoran. They risk their lives to fight injustice and champion the rights of the individual. - 1st Level or Higher : Add Diplomacy and Society to the creature's skills. - 4th Level or Higher : The creature can cast the inspire competence and inspire courage composition cantrips once per day each as innate divine spells. - 7th Level or Higher : When using the Aid reaction, if the creature rolls a success, it gets a critical success instead. - 12th Level or Higher : Remove one of the creature's reactions (if any) from its available options, and replace it with the Attack of Opportunity reaction. - 17th Level or Higher : The creature can cast 9th-level freedom of movement once per day as an innate divine spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-5",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Firebrands](/MonsterTemplates.aspx?ID=5)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\n\nFirebrands tend to be rebellious liberators or boastful daredevils. They seek to draw attention to themselves.\r\n\r\n- **All Creatures**: Add the [chaotic](/Traits.aspx?ID=25) trait. Remove the [lawful](/Traits.aspx?ID=99) trait.\r\n- **1st Level or Higher**: Add [Acrobatics](/Skills.aspx?ID=1) and [Athletics](/Skills.aspx?ID=3) to the creature's skills.\r\n- **4th Level or Higher**: Increase the creature's Speed by 5 feet.\r\n- **7th Level or Higher**: Add [Deception](/Skills.aspx?ID=5), [Diplomacy](/Skills.aspx?ID=6), or [Intimidation](/Skills.aspx?ID=7) to the creature's skills. If you added Deception, add the [Confabulator](/Feats.aspx?ID=769) skill feat; if you added Diplomacy, add the [Glad-Hand](/Feats.aspx?ID=787) feat; and if you added Intimidation, add the [Battle Cry](/Feats.aspx?ID=759) feat.\r\n- **12th Level or Higher**: The creature can cast 3rd-level [_heroism_](/Spells.aspx?ID=149) once per day as an innate occult spell.\r\n- **17th Level or Higher**: The creature gains the [Bravo's Determination](/Feats.aspx?ID=1070) feat.",
+  "name": "Firebrands",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 129",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 129"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Firebrands Source Character Guide pg. 129 2.0 Firebrands tend to be rebellious liberators or boastful daredevils. They seek to draw attention to themselves. - All Creatures : Add the chaotic trait. Remove the lawful trait. - 1st Level or Higher : Add Acrobatics and Athletics to the creature's skills. - 4th Level or Higher : Increase the creature's Speed by 5 feet. - 7th Level or Higher : Add Deception, Diplomacy, or Intimidation to the creature's skills. If you added Deception, add the Confabulator skill feat; if you added Diplomacy, add the Glad-Hand feat; and if you added Intimidation, add the Battle Cry feat. - 12th Level or Higher : The creature can cast 3rd-level heroism once per day as an innate occult spell. - 17th Level or Higher : The creature gains the Bravo's Determination feat.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-6",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Hellknights](/MonsterTemplates.aspx?ID=6)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\n\nHellknights are disciplined individuals who seek to maintain order and quell chaos. The myriad Hellknight orders are all highly structured and regimented. This template gives a low-level creature significantly more treasure than the normal maximum for its level, due to expensive armor; adjust the total treasure in your adventure accordingly.\r\n\r\n- **All Creatures**: Add the [lawful](/Traits.aspx?ID=99) trait. Remove the [chaotic](/Traits.aspx?ID=25) trait.\r\n- **1st Level or Higher**: Remove the creature's armor (if any) from its items. Add [splint mail](/Armor.aspx?ID=11) to the creature's items. If the creature wasn't wearing heavy armor before this adjustment, its Speed is reduced by 5 feet and it gains +1 AC.\r\n- **4th Level or Higher**: The creature gains resistance to mental and slashing equal to half its level.\r\n- **7th Level or Higher**: Add [Hellknight plate](/Armor.aspx?ID=14) to the creature's items instead of splint mail. The creature can cast [_discern lies_](/Spells.aspx?ID=74) once per day as an innate divine spell.\r\n- **12th Level or Higher**: Remove one of the creature's reactions (if any) from its available options, and replace it with [Attack of Opportunity](/MonsterAbilities.aspx?ID=3). If applying the 1st-level template ability caused the creature's Speed to be reduced, that Speed is now restored to its original value.\r\n- **17th Level or Higher**: The creature's attacks deal 1d6 additional lawful damage on a hit. As is normal for aligned damage, this damages only chaotic creatures.",
+  "name": "Hellknights",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 129",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 129"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Hellknights Source Character Guide pg. 129 2.0 Hellknights are disciplined individuals who seek to maintain order and quell chaos. The myriad Hellknight orders are all highly structured and regimented. This template gives a low-level creature significantly more treasure than the normal maximum for its level, due to expensive armor; adjust the total treasure in your adventure accordingly. - All Creatures : Add the lawful trait. Remove the chaotic trait. - 1st Level or Higher : Remove the creature's armor (if any) from its items. Add splint mail to the creature's items. If the creature wasn't wearing heavy armor before this adjustment, its Speed is reduced by 5 feet and it gains +1 AC. - 4th Level or Higher : The creature gains resistance to mental and slashing equal to half its level. - 7th Level or Higher : Add Hellknight plate to the creature's items instead of splint mail. The creature can cast discern lies once per day as an innate divine spell. - 12th Level or Higher : Remove one of the creature's reactions (if any) from its available options, and replace it with Attack of Opportunity. If applying the 1st-level template ability caused the creature's Speed to be reduced, that Speed is now restored to its original value. - 17th Level or Higher : The creature's attacks deal 1d6 additional lawful damage on a hit. As is normal for aligned damage, this damages only chaotic creatures.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-7",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Houses of Perfection](/MonsterTemplates.aspx?ID=7)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\n\nThe students of the Houses of Perfection are dedicated to the martial and mystical practices of Vudra. They are disciplined figures capable of improbable physical feats.\r\n\r\n- **All Creatures**: Add the [lawful](/Traits.aspx?ID=99) trait. Remove the [chaotic](/Traits.aspx?ID=25) trait.\r\n- **1st Level or Higher**: Remove the creature's melee weapons (if any) from its items. Replace the creature's melee weapon attacks with a [fist](/Weapons.aspx?ID=1) unarmed attack that deals d8s for damage.\r\n- **4th Level or Higher**: The creature gains the [_ki strike_](/Spells.aspx?ID=486) ki spell and gains a focus pool of 1 Focus Point. The creature's ki spells are divine.\r\n- **7th Level or Higher**: The creature's Speed increases by 5 feet. It gains the [_perfect strike_](/Spells.aspx?ID=542) ki spell. Its focus pool increases to 2 Focus Points.\r\n- **12th Level or Higher**: The creature adds the appropriate ki spell for its School of Perfection: [_unblinking flame revelation_](/Spells.aspx?ID=543) for Unblinking Flame, [_unbreaking wave advance_](/Spells.aspx?ID=544) for Unbreaking Waves, [_unfolding wind rush_](/Spells.aspx?ID=545) for Unfolding Wind, or [_untwisting iron buffer_](/Spells.aspx?ID=546) for Untwisting Iron. Its focus pool increases to 3 Focus Points.\r\n- **17th Level or Higher**: Choose one saving throw. When the creature rolls a success on that saving throw, it gets a critical success instead.",
+  "name": "Houses of Perfection",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 129",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 129"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Houses of Perfection Source Character Guide pg. 129 2.0 The students of the Houses of Perfection are dedicated to the martial and mystical practices of Vudra. They are disciplined figures capable of improbable physical feats. - All Creatures : Add the lawful trait. Remove the chaotic trait. - 1st Level or Higher : Remove the creature's melee weapons (if any) from its items. Replace the creature's melee weapon attacks with a fist unarmed attack that deals d8s for damage. - 4th Level or Higher : The creature gains the ki strike ki spell and gains a focus pool of 1 Focus Point. The creature's ki spells are divine. - 7th Level or Higher : The creature's Speed increases by 5 feet. It gains the perfect strike ki spell. Its focus pool increases to 2 Focus Points. - 12th Level or Higher : The creature adds the appropriate ki spell for its School of Perfection: unblinking flame revelation for Unblinking Flame, unbreaking wave advance for Unbreaking Waves, unfolding wind rush for Unfolding Wind, or untwisting iron buffer for Untwisting Iron. Its focus pool increases to 3 Focus Points. - 17th Level or Higher : Choose one saving throw. When the creature rolls a success on that saving throw, it gets a critical success instead.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-8",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Knights of Lastwall](/MonsterTemplates.aspx?ID=8)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\n\nThough their nation of Lastwall has fallen, the Knights of Lastwall remain vigilant against the undead. They are unwavering in their cause and fight with honor.\r\n\r\n- **1st Level or Higher**: Remove the creature's melee weapons (if any) from its items. Add a [longsword](/Weapons.aspx?ID=31) and [steel shield](/Shields.aspx?ID=3) to the creature's items with a Strike at the same attack bonus. It gains the [Shield Block](/MonsterAbilities.aspx?ID=32) reaction. Add [Undead Lore](/Traits.aspx?ID=160) to the creature's skills.\r\n- **4th Level or Higher**: The creature gains the [Reactive Shield](/Feats.aspx?ID=360) fighter feat.\r\n- **7th Level or Higher**: The creature gains the [Necromantic Resistance](/Feats.aspx?ID=884) feat.\r\n- **12th Level or Higher**: The creature gains the [Lastwall Warden](/Feats.aspx?ID=887) feat.\r\n- **17th Level or Higher**: The creature can cast the [_champion's sacrifice_](/Spells.aspx?ID=393) devotion spell once per day as an innate divine spell.",
+  "name": "Knights of Lastwall",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 129",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 129"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Knights of Lastwall Source Character Guide pg. 129 2.0 Though their nation of Lastwall has fallen, the Knights of Lastwall remain vigilant against the undead. They are unwavering in their cause and fight with honor. - 1st Level or Higher : Remove the creature's melee weapons (if any) from its items. Add a longsword and steel shield to the creature's items with a Strike at the same attack bonus. It gains the Shield Block reaction. Add Undead Lore to the creature's skills. - 4th Level or Higher : The creature gains the Reactive Shield fighter feat. - 7th Level or Higher : The creature gains the Necromantic Resistance feat. - 12th Level or Higher : The creature gains the Lastwall Warden feat. - 17th Level or Higher : The creature can cast the champion's sacrifice devotion spell once per day as an innate divine spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-9",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Lion Blades](/MonsterTemplates.aspx?ID=9)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\n\nThe Lion Blades are a secret organization in Taldor, protecting the nation via espionage, intrigue, and infiltration. They creatively use every tool at their disposal.\r\n\r\n- **1st Level or Higher**: Add [Deception](/Skills.aspx?ID=5) and [Stealth](/Skills.aspx?ID=15) to the creature's skills.\r\n- **4th Level or Higher**: Observers are never granted circumstance bonuses to Perception checks due to the creature [Impersonating](/Actions.aspx?ID=46) a person of a different ancestry, age, and so on, as long as the disguise is appropriate for its size.\r\n- **7th Level or Higher**: The creature gains the [Lost in the Crowd](/Feats.aspx?ID=918) feat.\r\n- **12th Level or Higher**: The creature gains a +10-foot status bonus to its Speeds.\r\n- **17th Level or Higher**: The creature gains the [Flicker](/Feats.aspx?ID=922) feat.",
+  "name": "Lion Blades",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 129",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 129"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 129 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Lion Blades Source Character Guide pg. 129 2.0 The Lion Blades are a secret organization in Taldor, protecting the nation via espionage, intrigue, and infiltration. They creatively use every tool at their disposal. - 1st Level or Higher : Add Deception and Stealth to the creature's skills. - 4th Level or Higher : Observers are never granted circumstance bonuses to Perception checks due to the creature Impersonating a person of a different ancestry, age, and so on, as long as the disguise is appropriate for its size. - 7th Level or Higher : The creature gains the Lost in the Crowd feat. - 12th Level or Higher : The creature gains a +10-foot status bonus to its Speeds. - 17th Level or Higher : The creature gains the Flicker feat.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-11",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Pathfinder Society](/MonsterTemplates.aspx?ID=11)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\n\nThe Pathfinder Society recruits members of all kinds, so long as they are willing to report, explore, and cooperate. These like-minded adventurers and explorers travel the world to seek new knowledge and experiences.\r\n\r\n- **1st Level or Higher**: Add [Pathfinder Society Lore](/Skills.aspx?ID=8), one other Lore, and [Stealth](/Skills.aspx?ID=15) to the creature's skills.\r\n- **4th Level or Higher**: The creature adds its level to its ability modifier to determine its total modifier for any skill not listed in the creature's stat block.\r\n- **7th Level or Higher**: The creature gains a _[wayfinder](/Equipment.aspx?ID=470)_ and the [Careful Explorer](/Feats.aspx?ID=872) feat.\r\n- **12th Level or Higher**: The creature can cast [_hypercognition_](/Spells.aspx?ID=156) once per day as an innate occult spell.\r\n- **17th Level or Higher**: The creature can cast 9th-level [_true seeing_](/Spells.aspx?ID=344) once per day as an innate occult spell.",
+  "name": "Pathfinder Society",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 130",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 130"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Pathfinder Society Source Character Guide pg. 130 2.0 The Pathfinder Society recruits members of all kinds, so long as they are willing to report, explore, and cooperate. These like-minded adventurers and explorers travel the world to seek new knowledge and experiences. - 1st Level or Higher : Add Pathfinder Society Lore, one other Lore, and Stealth to the creature's skills. - 4th Level or Higher : The creature adds its level to its ability modifier to determine its total modifier for any skill not listed in the creature's stat block. - 7th Level or Higher : The creature gains a wayfinder and the Careful Explorer feat. - 12th Level or Higher : The creature can cast hypercognition once per day as an innate occult spell. - 17th Level or Higher : The creature can cast 9th-level true seeing once per day as an innate occult spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-12",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Red Mantis Assassin](/MonsterTemplates.aspx?ID=12)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\n\nThe Red Mantis are assassins for hire who work under a strict code of rules and requirements. Once they are on the job, these tireless killers relentlessly pursue their targets.\r\n\r\n- **All Creatures**: Add the [evil](/Traits.aspx?ID=64) and [lawful](/Traits.aspx?ID=99) traits. Remove the [chaotic](/Traits.aspx?ID=25) and [good](/Traits.aspx?ID=83) traits.\r\n- **1st Level or Higher**: Remove the creature's melee weapons from its items. Add two [sawtooth sabers](/Weapons.aspx?ID=65) to the creature's items, and add a sawtooth saber Strike with an attack bonus equal to the creature's highest melee Strike.\r\n- **4th Level or Higher**: Add [Stealth](/Skills.aspx?ID=15) to the creature's skills.\r\n- **7th Level or Higher**: The creature gains the [Crimson Shroud](/Feats.aspx?ID=898) feat.\r\n- **12th Level or Higher**: The creature gains the [Mantis Form](/Feats.aspx?ID=899) feat.\r\n- **17th Level or Higher**: The creature can cast 9th-level [_invisibility_](/Spells.aspx?ID=164) once per day as an innate divine spell.",
+  "name": "Red Mantis Assassin",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 130",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 130"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Red Mantis Assassin Source Character Guide pg. 130 2.0 The Red Mantis are assassins for hire who work under a strict code of rules and requirements. Once they are on the job, these tireless killers relentlessly pursue their targets. - All Creatures : Add the evil and lawful traits. Remove the chaotic and good traits. - 1st Level or Higher : Remove the creature's melee weapons from its items. Add two sawtooth sabers to the creature's items, and add a sawtooth saber Strike with an attack bonus equal to the creature's highest melee Strike. - 4th Level or Higher : Add Stealth to the creature's skills. - 7th Level or Higher : The creature gains the Crimson Shroud feat. - 12th Level or Higher : The creature gains the Mantis Form feat. - 17th Level or Higher : The creature can cast 9th-level invisibility once per day as an innate divine spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-13",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Whispering Way](/MonsterTemplates.aspx?ID=13)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\n\nThe Whispering Way is a cult of necromancers, nihilists, and undead intent on supporting Tar-Baphon, the Whispering Tyrant. They are zealous in their efforts to further the lich's goals.\r\n\r\n- **All Creatures**: Add the [evil](/Traits.aspx?ID=64) trait. Remove the [good](/Traits.aspx?ID=83) trait.\r\n- **1st Level or Higher**: Add [Undead Lore](/Skills.aspx?ID=8) to the creature's skills. It can cast [_chill touch_](/Spells.aspx?ID=35) as an innate divine cantrip.\r\n- **4th Level or Higher**: The creature can cast the [_undeath's blessing_](/Spells.aspx?ID=518) bloodline spell once per day as an innate divine spell.\r\n- **7th Level or Higher**: The creature can cast 2nd-level [_harm_](/Spells.aspx?ID=146) once per day as an innate divine spell; for every 2 levels it has beyond 7th, _harm_ is heightened another spell level.\r\n- **12th Level or Higher**: The creature gains the [Command Undead](/Feats.aspx?ID=277) cleric class feat. It gains an additional use of its [_harm_](/Spells.aspx?ID=146) innate spell that it can use only with Command Undead.\r\n- **17th Level or Higher**: The creature gains the [negative healing](/MonsterAbilities.aspx?ID=42) ability, which means the creature is damaged by positive effects that damage undead, is healed by negative effects that heal undead, and doesn't benefit from [healing](/Traits.aspx?ID=89) effects.",
+  "name": "Whispering Way",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 130",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 130"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Whispering Way Source Character Guide pg. 130 2.0 The Whispering Way is a cult of necromancers, nihilists, and undead intent on supporting Tar-Baphon, the Whispering Tyrant. They are zealous in their efforts to further the lich's goals. - All Creatures : Add the evil trait. Remove the good trait. - 1st Level or Higher : Add Undead Lore to the creature's skills. It can cast chill touch as an innate divine cantrip. - 4th Level or Higher : The creature can cast the undeath's blessing bloodline spell once per day as an innate divine spell. - 7th Level or Higher : The creature can cast 2nd-level harm once per day as an innate divine spell; for every 2 levels it has beyond 7th, harm is heightened another spell level. - 12th Level or Higher : The creature gains the Command Undead cleric class feat. It gains an additional use of its harm innate spell that it can use only with Command Undead. - 17th Level or Higher : The creature gains the negative healing ability, which means the creature is damaged by positive effects that damage undead, is healed by negative effects that heal undead, and doesn't benefit from healing effects.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-14",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Deity Worshiper](/MonsterTemplates.aspx?ID=14)</title>\r\n\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 10 <sup>2.0</sup>\n\nTheme templates allow a GM to replicate creatures and NPCs that worship specific deities.\r\n\r\n- **All Creatures**: Add any traits in the deity's alignment. Remove any alignment traits not in the deity's alignment.\r\n- **1st Level or Higher**: Add the deity's favored weapon and a [wooden religious symbol](/Equipment.aspx?ID=41) of the deity to the creature's items. Add a favored weapon Strike with an attack bonus equal to the creature's highest melee or ranged Strike (whichever is appropriate). If the favored weapon is simple, increase the damage die of that Strike by one step.\r\n- **4th Level or Higher**: The creature can cast the initial domain spell of one of the deity's domains and gains a pool of 1 Focus Point.\r\n- **7th Level or Higher**: The creature can cast the 1st-level spell the deity grants [clerics](/Classes.aspx?ID=5) three times per day as a divine innate spell.\r\n- **12th Level or Higher**: The creature can cast the advanced domain spell of the domain you chose for 4th level or higher, and its focus pool increases to 2 Focus Points.\r\n- **17th Level or Higher**: The creature has been truly blessed. Either the creature can cast the deity's other deity spells of up to 7th level once per day each as divine innate spells, or, at the GM's discretion, the creature gains the benefits of one of the deity's boons.",
+  "name": "Deity Worshiper",
+  "primary_source": "Gods & Magic",
+  "primary_source_raw": "Gods & Magic pg. 10",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-01-29",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Gods &amp; Magic](/Sources.aspx?ID=17) pg. 10 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Gods & Magic"
+  ],
+  "source_raw": [
+   "Gods & Magic pg. 10"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Gods & Magic](/Sources.aspx?ID=17) pg. 10 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Deity Worshiper Source Gods &amp; Magic pg. 10 2.0 Theme templates allow a GM to replicate creatures and NPCs that worship specific deities. - All Creatures : Add any traits in the deity's alignment. Remove any alignment traits not in the deity's alignment. - 1st Level or Higher : Add the deity's favored weapon and a wooden religious symbol of the deity to the creature's items. Add a favored weapon Strike with an attack bonus equal to the creature's highest melee or ranged Strike (whichever is appropriate). If the favored weapon is simple, increase the damage die of that Strike by one step. - 4th Level or Higher : The creature can cast the initial domain spell of one of the deity's domains and gains a pool of 1 Focus Point. - 7th Level or Higher : The creature can cast the 1st-level spell the deity grants clerics three times per day as a divine innate spell. - 12th Level or Higher : The creature can cast the advanced domain spell of the domain you chose for 4th level or higher, and its focus pool increases to 2 Focus Points. - 17th Level or Higher : The creature has been truly blessed. Either the creature can cast the deity's other deity spells of up to 7th level once per day each as divine innate spells, or, at the GM's discretion, the creature gains the benefits of one of the deity's boons.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-15",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[The Magaambya](/MonsterTemplates.aspx?ID=15)</title>\r\n\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\n\nThe Magaambya is an academic institution dedicated to the study of magic, and its members are known for combining magical traditions in unique ways.\r\n\r\n- **All Creatures**: Add the [good](/Traits.aspx?ID=83) trait. Remove the [evil](/Traits.aspx?ID=64) trait.\r\n- **1st Level or Higher**: The creature can cast [_detect magic_](/Spells.aspx?ID=66) and [_sigil_](/Spells.aspx?ID=286) as innate cantrips. Decide whether these are arcane or primal cantrips when applying the template.\r\n- **4th Level or Higher**: Add [Arcana](/Skills.aspx?ID=2) and [Nature](/Domains.aspx?ID=22) to the creature's skills. It gains the [Recognize Spell](/Feats.aspx?ID=834) skill feat.\r\n- **7th Level or Higher**: The creature gains either 2nd-level [_invisibility_](/Spells.aspx?ID=164) as an innate arcane spell or 2nd-level [_entangle_](/Spells.aspx?ID=103) as an innate primal spell. The spell can be cast once per day.\r\n- **12th Level or Higher**: The creature gains the [Quickened Casting](/Feats.aspx?ID=199) wizard class feat.\r\n- **17th Level or Higher**: The creature can cast 7th-level [_true seeing_](/Spells.aspx?ID=344) once per day as an innate arcane spell and 7th-level [_chain lightning_](/Spells.aspx?ID=33) once per day as an innate primal spell.",
+  "name": "The Magaambya",
+  "primary_source": "Character Guide",
+  "primary_source_raw": "Character Guide pg. 130",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-10-16",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Character Guide"
+  ],
+  "source_raw": [
+   "Character Guide pg. 130"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Character Guide](/Sources.aspx?ID=12) pg. 130 <sup>2.0</sup>",
+  "speed": {},
+  "text": " The Magaambya Source Character Guide pg. 130 2.0 The Magaambya is an academic institution dedicated to the study of magic, and its members are known for combining magical traditions in unique ways. - All Creatures : Add the good trait. Remove the evil trait. - 1st Level or Higher : The creature can cast detect magic and sigil as innate cantrips. Decide whether these are arcane or primal cantrips when applying the template. - 4th Level or Higher : Add Arcana and Nature to the creature's skills. It gains the Recognize Spell skill feat. - 7th Level or Higher : The creature gains either 2nd-level invisibility as an innate arcane spell or 2nd-level entangle as an innate primal spell. The spell can be cast once per day. - 12th Level or Higher : The creature gains the Quickened Casting wizard class feat. - 17th Level or Higher : The creature can cast 7th-level true seeing once per day as an innate arcane spell and 7th-level chain lightning once per day as an innate primal spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "creature-theme-template",
+  "exclude_from_search": false,
+  "id": "creature-theme-template-16",
+  "markdown": "<title level=\"1\" right=\"Creature Theme Template\">[Hellbound Creature](/MonsterTemplates.aspx?ID=16)</title>\r\n\r\n**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 64\n\nSadly, there's no shortage of people willing to trade all they have for the promise of power. Infernal contracts are the most common of such agreements, but powerful devils can offer even greater abilities at the cost of the mortal's soul and an obligation to advance Hell's infernal agenda. This mortal becomes a fiend known as a Hellbound creature.\n\nHellbound is a theme template applied to creatures and NPCs to reflect powers gained through a bargain with [Hell](/Planes.aspx?ID=18). Theme templates provide additional abilities to the base creature based on its level. When you add any template that grants numerous additional abilities, you should strongly consider removing one or more of the creature's original abilities to compensate, or consider raising the creature's level by 1 and adjusting its other statistics accordingly.\r\n\r\n- **All Creatures**: Change the creature's alignment to evil, if it isn't already. Add the [devil](/Traits.aspx?ID=44) and [fiend](/Traits.aspx?ID=70) traits. The creature gains resistance to fire equal to its level and weakness to good equal to half its level.\r\n- **1st Level or Higher**: Add [Deception](/Skills.aspx?ID=5) to the creature's skills. The creature gains [greater darkvision](/MonsterAbilities.aspx?ID=12).\r\n\r\n- **4th Level or Higher**: The creature can cast 1st-level [_burning hands_](/Spells.aspx?ID=30) once per day as a divine innate spell; for every 2 levels it has beyond 4th, _burning hands_ is heightened an additional spell level.\r\n- **7th Level or Higher**: The creature gains the [infernal pact](/Rituals.aspx?ID=23) ritual.\r\n- **12th Level or Higher**: The creature can cast [_dimension door_](/Spells.aspx?ID=69) once per day as a divine innate spell.\r\n- **17th Level or Higher**: The creature can cast [_true seeing_](/Spells.aspx?ID=344) once per day as a divine innate spell.",
+  "name": "Hellbound Creature",
+  "primary_source": "Bestiary 3",
+  "primary_source_raw": "Bestiary 3 pg. 64",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-04-07",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Bestiary 3](/Sources.aspx?ID=66) pg. 64\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Bestiary 3"
+  ],
+  "source_raw": [
+   "Bestiary 3 pg. 64"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Bestiary 3](/Sources.aspx?ID=66) pg. 64",
+  "speed": {},
+  "text": " Hellbound Creature Source Bestiary 3 pg. 64 Sadly, there's no shortage of people willing to trade all they have for the promise of power. Infernal contracts are the most common of such agreements, but powerful devils can offer even greater abilities at the cost of the mortal's soul and an obligation to advance Hell's infernal agenda. This mortal becomes a fiend known as a Hellbound creature. Hellbound is a theme template applied to creatures and NPCs to reflect powers gained through a bargain with Hell. Theme templates provide additional abilities to the base creature based on its level. When you add any template that grants numerous additional abilities, you should strongly consider removing one or more of the creature's original abilities to compensate, or consider raising the creature's level by 1 and adjusting its other statistics accordingly. - All Creatures : Change the creature's alignment to evil, if it isn't already. Add the devil and fiend traits. The creature gains resistance to fire equal to its level and weakness to good equal to half its level. - 1st Level or Higher : Add Deception to the creature's skills. The creature gains greater darkvision. - 4th Level or Higher : The creature can cast 1st-level burning hands once per day as a divine innate spell; for every 2 levels it has beyond 4th, burning hands is heightened an additional spell level. - 7th Level or Higher : The creature gains the infernal pact ritual. - 12th Level or Higher : The creature can cast dimension door once per day as a divine innate spell. - 17th Level or Higher : The creature can cast true seeing once per day as a divine innate spell.",
+  "type": "Creature Theme Template",
+  "url": "/NPCThemeTemplates.aspx?ID=16",
+  "weakness": {}
+ }
+]

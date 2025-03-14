@@ -1,14 +1,47 @@
 <script setup lang="ts">
-import { ref, type Ref } from 'vue';
+import { ref, type Ref } from "vue";
 
-const { labelText, min, max, onChangeFunc, type, dataValue } = defineProps<{ labelText: string, min?: number, max?: number,onChangeFunc:(e:Event)=>void, type:'number'|'text', dataValue:string|number }>()
-const selection:Ref<{has:true,start:number,end:number}|{has:false,start:null,end:null}> = ref({has:false,start:null,end:null})
+type definePropsType = {
+  labelText: string,
+  min?: number,
+  max?: number,
+  onChangeFunc:(e:Event)=>void,
+  type:"number"|"text",
+  dataValue:string|number
+}
+
+type selectionType = 
+  {
+    has:true,
+    start:number,
+    end:number 
+  } |
+  {
+    has:false,
+    start:null,
+    end:null 
+  }
+
+const {
+  labelText,
+  min,
+  max,
+  onChangeFunc,
+  type,
+  dataValue 
+} = defineProps<definePropsType>()
+
+const selection:Ref<selectionType > = ref({
+  has:false,
+  start:null,
+  end:null 
+})
 function validateNumber(e:KeyboardEvent){
-  const eventTarget = e.target as EventTarget&{value?:string}
+  const eventTarget = e.target as EventTarget&{ value?:string }
   if(!eventTarget.value) return
-  if(type==='number'){
-    if(e.key.match(/[^0-9\-]/gm)) {
-      if(!['Arrow','Home','End','Backspace'].some(s=>e.key.includes((s)))){
+  if(type==="number"){
+    if(e.key.match(/[^0-9-]/gm)) {
+      if(!["Arrow","Home","End","Backspace"].some(s=>e.key.includes((s)))){
         e.preventDefault()
         e.stopImmediatePropagation()
         return
@@ -16,7 +49,8 @@ function validateNumber(e:KeyboardEvent){
     }
     const {value} = eventTarget
     const valueWithSelection = selection.value.has?
-      value.slice(0,selection.value.start)+value.slice(selection.value.start,selection.value.end).replace(/.*/,e.key)+value.slice(selection.value.end):value+e.key
+      value.slice(0,selection.value.start)+value.slice(selection.value.start,selection.value.end).replace(/.*/,e.key)+value.slice(selection.value.end):
+      value+e.key
     if(parseInt(valueWithSelection)<min!||parseInt(valueWithSelection)>max!){
       e.preventDefault()
       e.stopImmediatePropagation()
@@ -26,12 +60,14 @@ function validateNumber(e:KeyboardEvent){
   selection.value.has = false
 }
 function getSelect(e:Event){
-  const eventTarget = e.target as EventTarget&{selectionStart:number|null,selectionEnd:number|null}
+  const eventTarget = e.target as EventTarget&{
+    selectionStart:number|null,
+    selectionEnd:number|null 
+  }
   if(!eventTarget) return
   selection.value.has = true
   selection.value.start = eventTarget.selectionStart
   selection.value.end = eventTarget.selectionEnd
-  // 
 }
 </script>
 <template>
@@ -53,8 +89,8 @@ function getSelect(e:Event){
 </template>
 <style scoped lang="scss">
 .label {
-    padding: 0 .25rem;
-    border: 1px solid black;
+    padding: 0 var(--main-padding-half);
+    border: 1px solid rgba(var(--border-color));
     border-radius: var(--border-radius);
     font-family: "Times New Roman", serif;
     position: relative;
@@ -77,13 +113,14 @@ function getSelect(e:Event){
         &.text {
         position: absolute;
         font-size: 90%;
-        transition: transform .5s;
-        margin-top: .25rem;
+        transition: transform .5s ease, color .5s ease;
+        // margin-top: .25rem;
         transform-origin: left;
-
+        color:rgb(var(--text-primary));
         &:has(+input:focus, +input:focus-visible, +input.notEmpty) {
             margin-top: 0;
-            transform: scale(.7);
+            transform: scale(.6);
+            color:rgb(var(--text-secondary))
         }
     }
     }

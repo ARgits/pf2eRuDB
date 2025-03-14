@@ -1,0 +1,2177 @@
+[
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Amphibious",
+   "Breath Weapon",
+   "Darkvision",
+   "Flier",
+   "Manual Dexterity",
+   "Speech",
+   "Touch Telepathy"
+  ],
+  "familiar_ability_markdown": "[Amphibious](/Familiars.aspx?ID=1), [Breath Weapon](/Familiars.aspx?ID=19), [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)",
+  "id": "familiar-specific-1",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Faerie Dragon](/Familiars.aspx?ID=1&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Amphibious](/Familiars.aspx?ID=1), [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n\r\n</column>\r\n\r\nThese tiny, mischievous dragons make natural allies for benevolent or capricious characters.\r\n\r\n<document level=\"2\" id=\"familiar-ability-19\" />",
+  "name": "Faerie Dragon",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 147",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Amphibious](/Familiars.aspx?ID=1), [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese tiny, mischievous dragons make natural allies for benevolent or capricious characters.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 147"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "These tiny, mischievous dragons make natural allies for benevolent or capricious characters.",
+  "summary_markdown": "These tiny, mischievous dragons make natural allies for benevolent or capricious characters.",
+  "text": " Faerie Dragon Source Advanced Player's Guide pg. 147 2.0 Required Number of Abilities 6 Granted Abilities Amphibious, Darkvision, Flier, Manual Dexterity, Speech, Touch Telepathy These tiny, mischievous dragons make natural allies for benevolent or capricious characters. ",
+  "trait": [
+   "Dragon"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Dragon](/Traits.aspx?ID=50)",
+  "trait_raw": [
+   "Dragon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=1&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "LE",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Flier",
+   "Imp Invisibility",
+   "Infernal Temptation",
+   "Manual Dexterity",
+   "Resistance (fire and poison)",
+   "Skilled (Deception)",
+   "Speech",
+   "Touch Telepathy"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Imp Invisibility](/Familiars.aspx?ID=20), [Infernal Temptation](/Familiars.aspx?ID=21), [Manual Dexterity](/Familiars.aspx?ID=10), [Resistance (fire and poison)](/Familiars.aspx?ID=32), [Skilled (Deception)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)",
+  "id": "familiar-specific-2",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Imp](/Familiars.aspx?ID=2&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Devil\" url=\"/Traits.aspx?ID=44\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Alignment**\r\nAn imp must be lawful evil.\r\n\r\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Resistance (fire and poison)](/Familiars.aspx?ID=32), [Skilled (Deception)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n\r\n</column>\r\n\r\nImp familiars pretend to be subservient in order to trick their masters into losing their souls to Hell.\r\n\r\n<document level=\"2\" id=\"familiar-ability-20\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-21\" />",
+  "name": "Imp",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 147",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "required_abilities": 8,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"LE\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Devil\" url=\"/Traits.aspx?ID=44\" />\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=70\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Resistance (fire and poison)](/Familiars.aspx?ID=32), [Skilled (Deception)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nImp familiars pretend to be subservient in order to trick their masters into losing their souls to Hell.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 147"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Imp familiars pretend to be subservient in order to trick their masters into losing their souls to Hell.",
+  "summary_markdown": "Imp familiars pretend to be subservient in order to trick their masters into losing their souls to Hell.",
+  "text": " Imp Source Advanced Player's Guide pg. 147 2.0 Alignment An imp must be lawful evil. Required Number of Abilities 8 Granted Abilities Darkvision, Flier, Manual Dexterity, Resistance (fire and poison), Skilled (Deception), Speech, Touch Telepathy Imp familiars pretend to be subservient in order to trick their masters into losing their souls to Hell. ",
+  "trait": [
+   "Devil",
+   "Fiend"
+  ],
+  "trait_group": [
+   "Monster",
+   "Creature Type"
+  ],
+  "trait_markdown": "[Devil](/Traits.aspx?ID=44), [Fiend](/Traits.aspx?ID=70)",
+  "trait_raw": [
+   "Devil",
+   "Fiend"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=2&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Climber",
+   "Darkvision",
+   "Magic Scent",
+   "Ooze Defense",
+   "Slime Rejuvenation",
+   "Tough"
+  ],
+  "familiar_ability_markdown": "[Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Magic Scent](/Familiars.aspx?ID=22), [Ooze Defense](/Familiars.aspx?ID=23), [Slime Rejuvenation](/Familiars.aspx?ID=24), [Tough](/Familiars.aspx?ID=37)",
+  "id": "familiar-specific-3",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Spellslime](/Familiars.aspx?ID=3&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Tough](/Familiars.aspx?ID=37)\r\n\r\n</column>\r\n\r\nThese friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a spellslime familiar only if you can cast spells using spell slots.\r\n\r\n<document level=\"2\" id=\"familiar-ability-22\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-23\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-24\" />",
+  "name": "Spellslime",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 147",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "required_abilities": 4,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=122\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Tough](/Familiars.aspx?ID=37)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 147"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 147 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a …",
+  "summary_markdown": "These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a …",
+  "text": " Spellslime Source Advanced Player's Guide pg. 147 2.0 Required Number of Abilities 4 Granted Abilities Climber, Darkvision, Tough These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal to their masters. You can select a spellslime familiar only if you can cast spells using spell slots. ",
+  "trait": [
+   "Ooze"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Ooze](/Traits.aspx?ID=122)",
+  "trait_raw": [
+   "Ooze"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=3&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Aeon Stone Reservoir",
+   "Can't Walk",
+   "Constructed",
+   "Crystalline",
+   "Flier"
+  ],
+  "familiar_ability_markdown": "[Aeon Stone Reservoir](/Familiars.aspx?ID=41), [Can't Walk](/Familiars.aspx?ID=42), [Constructed](/Familiars.aspx?ID=43), [Crystalline](/Familiars.aspx?ID=44), [Flier](/Familiars.aspx?ID=7)",
+  "id": "familiar-specific-4",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Aeon Wyrd](/Familiars.aspx?ID=4&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7)\r\n\r\n</column>\r\n\r\nAn aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.\r\n\r\n<document level=\"2\" id=\"familiar-ability-41\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-42\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-43\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-44\" />",
+  "name": "Aeon Wyrd",
+  "pfs": "Standard",
+  "primary_source": "PFS Guide",
+  "primary_source_raw": "PFS Guide pg. 122",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-10-14",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "PFS Guide"
+  ],
+  "source_raw": [
+   "PFS Guide pg. 122"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[PFS Guide](/Sources.aspx?ID=50) pg. 122",
+  "speed": {},
+  "summary": "An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.",
+  "summary_markdown": "An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.",
+  "text": " Aeon Wyrd Source PFS Guide pg. 122 Required Number of Abilities 3 Granted Abilities Flier An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=35)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=4&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Flier",
+   "Ink Spray",
+   "Manual Dexterity",
+   "Scent",
+   "Skilled (Arcana, Society)",
+   "Speech",
+   "Stylus Claws"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Ink Spray](/Familiars.aspx?ID=45), [Manual Dexterity](/Familiars.aspx?ID=10), [Scent](/Familiars.aspx?ID=11), [Skilled (Arcana, Society)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Stylus Claws](/Familiars.aspx?ID=46)",
+  "id": "familiar-specific-5",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Calligraphy Wyrm](/Familiars.aspx?ID=5&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\r\n\r\n_[**PFS Note**](/pathfinder-society) The saving throw for the calligraphy wyrm’s Ink Spray ability should have a DC equal to the master’s spell DC or class DC, whichever is higher._\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Scent](/Familiars.aspx?ID=11), [Skilled (Arcana, Society)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nCalligraphy wyrms are curious dragons constantly in search of new lore and writing. They make natural allies for Pathfinders. While knowledgeable, calligraphy wyrms can also be know-it-alls. Their chirpy, high-pitched voices make this attitude humorous to some and insufferable to others.\r\n\r\n<document level=\"2\" id=\"familiar-ability-45\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-46\" />",
+  "name": "Calligraphy Wyrm",
+  "pfs": "Standard",
+  "primary_source": "PFS Guide",
+  "primary_source_raw": "PFS Guide pg. 122",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-10-14",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Scent](/Familiars.aspx?ID=11), [Skilled (Arcana, Society)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCalligraphy wyrms are curious dragons constantly in search of new lore and writing. They make natural allies for Pathfinders. While knowledgeable, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "PFS Guide"
+  ],
+  "source_raw": [
+   "PFS Guide pg. 122"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[PFS Guide](/Sources.aspx?ID=50) pg. 122",
+  "speed": {},
+  "summary": "Calligraphy wyrms are curious dragons constantly in search of new lore and writing. They make natural allies for Pathfinders. While knowledgeable, …",
+  "summary_markdown": "Calligraphy wyrms are curious dragons constantly in search of new lore and writing. They make natural allies for Pathfinders. While knowledgeable, …",
+  "text": " Calligraphy Wyrm Source PFS Guide pg. 122 PFS Note The saving throw for the calligraphy wyrm’s Ink Spray ability should have a DC equal to the master’s spell DC or class DC, whichever is higher. Required Number of Abilities 6 Granted Abilities Darkvision, Flier, Manual Dexterity, Scent, Skilled (Arcana, Society), Speech Calligraphy wyrms are curious dragons constantly in search of new lore and writing. They make natural allies for Pathfinders. While knowledgeable, calligraphy wyrms can also be know-it-alls. Their chirpy, high-pitched voices make this attitude humorous to some and insufferable to others. ",
+  "trait": [
+   "Beast"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+  "trait_raw": [
+   "Beast"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=5&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Alter Dweomer",
+   "Darkvision",
+   "Detect Magic",
+   "Scent",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Alter Dweomer](/Familiars.aspx?ID=47), [Darkvision](/Familiars.aspx?ID=5), [Detect Magic](/Familiars.aspx?ID=48), [Scent](/Familiars.aspx?ID=11), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-6",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Dweomercat Cub](/Familiars.aspx?ID=6&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Scent](/Familiars.aspx?ID=11), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nPathfinder agent Arianrhod Thriceborn, an adherent of the Eldest [Magdh](/Deities.aspx?ID=97), raised a litter of these intelligent mystical felines from the [First World](/Planes.aspx?ID=10). Dweomercat cubs are curious and love exploring ley lines and traveling the world. At only 1 foot tall and weighing 15 pounds, dweomercat cubs are smaller than their egos and curiosity imply.\r\n\r\n<document level=\"2\" id=\"familiar-ability-47\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-48\" />",
+  "name": "Dweomercat Cub",
+  "pfs": "Standard",
+  "primary_source": "PFS Guide",
+  "primary_source_raw": "PFS Guide pg. 122",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-10-14",
+  "required_abilities": 4,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 122\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Scent](/Familiars.aspx?ID=11), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPathfinder agent Arianrhod Thriceborn, an adherent of the Eldest  Magdh , raised a litter of these intelligent mystical felines from the  First World …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "PFS Guide"
+  ],
+  "source_raw": [
+   "PFS Guide pg. 122"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[PFS Guide](/Sources.aspx?ID=50) pg. 122",
+  "speed": {},
+  "summary": "Pathfinder agent Arianrhod Thriceborn, an adherent of the Eldest  Magdh , raised a litter of these intelligent mystical felines from the  First World …",
+  "summary_markdown": "Pathfinder agent Arianrhod Thriceborn, an adherent of the Eldest  Magdh , raised a litter of these intelligent mystical felines from the  First World …",
+  "text": " Dweomercat Cub Source PFS Guide pg. 122 Required Number of Abilities 4 Granted Abilities Darkvision, Scent, Speech Pathfinder agent Arianrhod Thriceborn, an adherent of the Eldest Magdh, raised a litter of these intelligent mystical felines from the First World. Dweomercat cubs are curious and love exploring ley lines and traveling the world. At only 1 foot tall and weighing 15 pounds, dweomercat cubs are smaller than their egos and curiosity imply. ",
+  "trait": [
+   "Beast"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+  "trait_raw": [
+   "Beast"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=6&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Constructed",
+   "Flammable"
+  ],
+  "familiar_ability_markdown": "[Constructed](/Familiars.aspx?ID=49), [Flammable](/Familiars.aspx?ID=50)",
+  "id": "familiar-specific-7",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Poppet](/Familiars.aspx?ID=7&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 123\n\n**Required Number of Abilities** 1\r\n\r\n**Granted Abilities** \r\n\r\n</column>\r\n\r\nEndlessly modifiable, poppet familiars made of wicker and wood are among the most basic [construct](/Traits.aspx?ID=35) familiars available to Pathfinder agents across the globe.\r\n\r\n<document level=\"2\" id=\"familiar-ability-49\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-50\" />",
+  "name": "Poppet",
+  "pfs": "Standard",
+  "primary_source": "PFS Guide",
+  "primary_source_raw": "PFS Guide pg. 123",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-10-14",
+  "required_abilities": 1,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [PFS Guide](/Sources.aspx?ID=50) pg. 123\n\n**Required Number of Abilities** 1\r\n\r\n**Granted Abilities** \r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEndlessly modifiable, poppet familiars made of wicker and wood are among the most basic  construct  familiars available to Pathfinder agents across …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "PFS Guide"
+  ],
+  "source_raw": [
+   "PFS Guide pg. 123"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[PFS Guide](/Sources.aspx?ID=50) pg. 123",
+  "speed": {},
+  "summary": "Endlessly modifiable, poppet familiars made of wicker and wood are among the most basic  construct  familiars available to Pathfinder agents across …",
+  "summary_markdown": "Endlessly modifiable, poppet familiars made of wicker and wood are among the most basic  construct  familiars available to Pathfinder agents across …",
+  "text": " Poppet Source PFS Guide pg. 123 Required Number of Abilities 1 Granted Abilities Endlessly modifiable, poppet familiars made of wicker and wood are among the most basic construct familiars available to Pathfinder agents across the globe. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=35)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=7&Specific=true",
+  "weakness": {}
+ },
+ {
+  "access": "you're a  shadowcaster ",
+  "access_markdown": "you're a [shadowcaster](/Archetypes.aspx?ID=101)",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Become Shadow",
+   "Darkvision",
+   "Manual Dexterity",
+   "Master's Form",
+   "resistance (cold and negative)",
+   "Shadow Step",
+   "Slink In Shadows",
+   "Steal Shadow"
+  ],
+  "familiar_ability_markdown": "[Become Shadow](/Familiars.aspx?ID=53), [Darkvision](/Familiars.aspx?ID=5), [Manual Dexterity](/Familiars.aspx?ID=10), [Master's Form](/Familiars.aspx?ID=28), [resistance (cold and negative)](/Familiars.aspx?ID=32), [Shadow Step](/Familiars.aspx?ID=52), [Slink In Shadows](/Familiars.aspx?ID=54), [Steal Shadow](/Familiars.aspx?ID=55)",
+  "id": "familiar-specific-8",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Shadow Familiar](/Familiars.aspx?ID=8&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>\n\n**Access**\r\nyou're a [shadowcaster](/Archetypes.aspx?ID=101)\n\n**Required Number of Abilities** 7\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Manual Dexterity](/Familiars.aspx?ID=10), [Master's Form](/Familiars.aspx?ID=28), [resistance (cold and negative)](/Familiars.aspx?ID=32), [Shadow Step](/Familiars.aspx?ID=52)\r\n\r\n</column>\r\n\r\nSome spellcasters and ritualists don't just summon and bind a familiar, but instead transform their own shadow into a familiar. These casters can be identified by their lack of a shadow regardless of the level of light in the area and by the strange muted appearance of any article of clothing or jewelry they wear. Occasionally mistaken for [vampires](/MonsterFamilies.aspx?ID=97) or other [undead](/Traits.aspx?ID=160) by the cautious or superstitious, these spellcasters nonetheless find the trade worth it in exchange for the unique abilities their shadow familiar can possess.\n\n Shadow familiars are a type of specific familiar. While all shadowcasters have access to these familiars, there are other paths to learn the proper magic to obtain a shadow familiar. \r\n\r\n<document level=\"2\" id=\"familiar-ability-53\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-54\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-55\" />",
+  "name": "Shadow Familiar",
+  "pfs": "Standard",
+  "primary_source": "Secrets of Magic",
+  "primary_source_raw": "Secrets of Magic pg. 229",
+  "primary_source_category": "Rulebooks",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-09-01",
+  "required_abilities": 7,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Shadow\" url=\"/Traits.aspx?ID=143\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>\r\n\r\n**Access**\r\nyou're a [shadowcaster](/Archetypes.aspx?ID=101)\r\n\r\n**Required Number of Abilities** 7\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Manual Dexterity](/Familiars.aspx?ID=10), [Master's Form](/Familiars.aspx?ID=28), [resistance (cold and negative)](/Familiars.aspx?ID=32), [Shadow Step](/Familiars.aspx?ID=52)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSome spellcasters and ritualists don't just summon and bind a familiar, but instead transform their own shadow into a familiar. These casters can be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Secrets of Magic"
+  ],
+  "source_raw": [
+   "Secrets of Magic pg. 229"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Secrets of Magic](/Sources.aspx?ID=96) pg. 229 <sup>1.1</sup>",
+  "speed": {},
+  "summary": "Some spellcasters and ritualists don't just summon and bind a familiar, but instead transform their own shadow into a familiar. These casters can be …",
+  "summary_markdown": "Some spellcasters and ritualists don't just summon and bind a familiar, but instead transform their own shadow into a familiar. These casters can be …",
+  "text": " Shadow Familiar Source Secrets of Magic pg. 229 1.1 Access you're a shadowcaster Required Number of Abilities 7 Granted Abilities Darkvision, Manual Dexterity, Master's Form, resistance (cold and negative), Shadow Step Some spellcasters and ritualists don't just summon and bind a familiar, but instead transform their own shadow into a familiar. These casters can be identified by their lack of a shadow regardless of the level of light in the area and by the strange muted appearance of any article of clothing or jewelry they wear. Occasionally mistaken for vampires or other undead by the cautious or superstitious, these spellcasters nonetheless find the trade worth it in exchange for the unique abilities their shadow familiar can possess. Shadow familiars are a type of specific familiar. While all shadowcasters have access to these familiars, there are other paths to learn the proper magic to obtain a shadow familiar. ",
+  "trait": [
+   "Shadow",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Planar",
+   "Rarity"
+  ],
+  "trait_markdown": "[Shadow](/Traits.aspx?ID=143), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Shadow",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=8&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Clockwork",
+   "Constructed",
+   "Darkvision",
+   "Electricity Vulnerability",
+   "Steam Screen",
+   "Toggle Standby Mode"
+  ],
+  "familiar_ability_markdown": "[Clockwork](/Familiars.aspx?ID=56), [Constructed](/Familiars.aspx?ID=57), [Darkvision](/Familiars.aspx?ID=5), [Electricity Vulnerability](/Familiars.aspx?ID=58), [Steam Screen](/Familiars.aspx?ID=59), [Toggle Standby Mode](/Familiars.aspx?ID=60)",
+  "id": "familiar-specific-9",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Clockwork Familiar](/Familiars.aspx?ID=9&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 23\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5)\r\n\r\n</column>\r\n\r\nA clockwork creature is typically composed entirely of turning gears and small bronze steam pipes. It can take the form of any Tiny animal, such as a small mammal, reptile, or bird. Its eyes are cut from glittering glass, with many facets within to help it process what it sees. Any teeth, beak, and tongue are rendered out of iron. When it moves, its joints emit little croaks and whistles, and it occasionally emits electrical sparks if perturbed. Clockwork creatures who live near the sea, or are otherwise exposed to water often, might squeeze lemons and use the juice to wash themselves. They can also blow steam out of the pipes on their bodies to intimidate an enemy or put up a smokescreen. Your clockwork familiar is a specific familiar. Specific familiars (Advanced Player’s Guide 147) are familiars with unique abilities. In order for you to choose a specific familiar, your familiar must be capable of having the template’s required number of familiar abilities. A specific familiar gains the listed traits and several abilities, including abilities it can gain only as a specific familiar. Much like a familiar that naturally has a familiar ability, you can never swap out any of these granted or unique abilities. Once you’ve selected a specific familiar, you can’t change it without losing your familiar—this uses the same rules as if your familiar had died. If your familiar gains more abilities than necessary to become a specific familiar, you can spend the remaining abilities normally. If your clockwork familiar is destroyed, it can be brought back to life through any conventional means that would bring back a living familiar, such as through resurrection magic.\r\n\r\n<document level=\"2\" id=\"familiar-ability-56\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-57\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-58\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-59\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-60\" />",
+  "name": "Clockwork Familiar",
+  "pfs": "Standard",
+  "primary_source": "Grand Bazaar",
+  "primary_source_raw": "Grand Bazaar pg. 23",
+  "primary_source_category": "Lost Omens",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2021-10-13",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Clockwork\" url=\"/Traits.aspx?ID=331\" />\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=35\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 23\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA clockwork creature is typically composed entirely of turning gears and small bronze steam pipes. It can take the form of any Tiny animal, such as a …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Grand Bazaar"
+  ],
+  "source_raw": [
+   "Grand Bazaar pg. 23"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Grand Bazaar](/Sources.aspx?ID=100) pg. 23",
+  "speed": {},
+  "summary": "A clockwork creature is typically composed entirely of turning gears and small bronze steam pipes. It can take the form of any Tiny animal, such as a …",
+  "summary_markdown": "A clockwork creature is typically composed entirely of turning gears and small bronze steam pipes. It can take the form of any Tiny animal, such as a …",
+  "text": " Clockwork Familiar Source Grand Bazaar pg. 23 Required Number of Abilities 3 Granted Abilities Darkvision A clockwork creature is typically composed entirely of turning gears and small bronze steam pipes. It can take the form of any Tiny animal, such as a small mammal, reptile, or bird. Its eyes are cut from glittering glass, with many facets within to help it process what it sees. Any teeth, beak, and tongue are rendered out of iron. When it moves, its joints emit little croaks and whistles, and it occasionally emits electrical sparks if perturbed. Clockwork creatures who live near the sea, or are otherwise exposed to water often, might squeeze lemons and use the juice to wash themselves. They can also blow steam out of the pipes on their bodies to intimidate an enemy or put up a smokescreen. Your clockwork familiar is a specific familiar. Specific familiars (Advanced Player’s Guide 147) are familiars with unique abilities. In order for you to choose a specific familiar, your familiar must be capable of having the template’s required number of familiar abilities. A specific familiar gains the listed traits and several abilities, including abilities it can gain only as a specific familiar. Much like a familiar that naturally has a familiar ability, you can never swap out any of these granted or unique abilities. Once you’ve selected a specific familiar, you can’t change it without losing your familiar—this uses the same rules as if your familiar had died. If your familiar gains more abilities than necessary to become a specific familiar, you can spend the remaining abilities normally. If your clockwork familiar is destroyed, it can be brought back to life through any conventional means that would bring back a living familiar, such as through resurrection magic. ",
+  "trait": [
+   "Clockwork",
+   "Construct",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Monster",
+   "Equipment",
+   "Weapon",
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Clockwork](/Traits.aspx?ID=331), [Construct](/Traits.aspx?ID=35), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Clockwork",
+   "Construct",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=9&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Accompanist",
+   "Elemental",
+   "Resonance",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Accompanist](/Familiars.aspx?ID=25), [Elemental](/Familiars.aspx?ID=73), [Resonance](/Familiars.aspx?ID=74), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-10",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Elemental Wisp](/Familiars.aspx?ID=10&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Accompanist](/Familiars.aspx?ID=25), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nWisps are tiny elemental beings that often act as familiars to spellcasters attuned to the elements. They each usually have different personalities: air wisps are playful and capricious, earth wisps are timid but loyal, fire wisps are carefree and boisterous, and water wisps are gentle and nurturing.\r\n\r\n<document level=\"2\" id=\"familiar-ability-73\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-74\" />",
+  "name": "Elemental Wisp",
+  "pfs": "Standard",
+  "primary_source": "Grand Bazaar",
+  "primary_source_raw": "Grand Bazaar pg. 35",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Accompanist](/Familiars.aspx?ID=25), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWisps are tiny elemental beings that often act as familiars to spellcasters attuned to the elements. They each usually have different personalities: …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Grand Bazaar"
+  ],
+  "source_raw": [
+   "Grand Bazaar pg. 35"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Grand Bazaar](/Sources.aspx?ID=100) pg. 35",
+  "speed": {},
+  "summary": "Wisps are tiny elemental beings that often act as familiars to spellcasters attuned to the elements. They each usually have different personalities: …",
+  "summary_markdown": "Wisps are tiny elemental beings that often act as familiars to spellcasters attuned to the elements. They each usually have different personalities: …",
+  "text": " Elemental Wisp Source Grand Bazaar pg. 35 Required Number of Abilities 3 Granted Abilities Accompanist, Speech Wisps are tiny elemental beings that often act as familiars to spellcasters attuned to the elements. They each usually have different personalities: air wisps are playful and capricious, earth wisps are timid but loyal, fire wisps are carefree and boisterous, and water wisps are gentle and nurturing. ",
+  "trait": [
+   "Elemental"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=10&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "N",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Flier",
+   "Haunting Melody",
+   "Manual Dexterity",
+   "Nosoi Resistance",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Haunting Melody](/Familiars.aspx?ID=75), [Manual Dexterity](/Familiars.aspx?ID=10), [Nosoi Resistance](/Familiars.aspx?ID=76), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-11",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Nosoi](/Familiars.aspx?ID=11&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Psychopomp\" url=\"/Traits.aspx?ID=232\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nA nosoi's physical appearance is that of a bird—usually a crow, sparrow, or whippoorwill—though it wears a funerary mask that accentuates its beak. Nosois measure about 1 foot in length but are unusually heavy, weighing between 10 and 15 pounds.\r\n\r\n<document level=\"2\" id=\"familiar-ability-75\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-76\" />",
+  "name": "Nosoi",
+  "pfs": "Standard",
+  "primary_source": "Grand Bazaar",
+  "primary_source_raw": "Grand Bazaar pg. 35",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Monitor\" url=\"/Traits.aspx?ID=111\" />\r\n<trait label=\"Psychopomp\" url=\"/Traits.aspx?ID=232\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA nosoi's physical appearance is that of a bird—usually a crow, sparrow, or whippoorwill—though it wears a funerary mask that accentuates its beak. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Grand Bazaar"
+  ],
+  "source_raw": [
+   "Grand Bazaar pg. 35"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Grand Bazaar](/Sources.aspx?ID=100) pg. 35",
+  "speed": {},
+  "summary": "A nosoi's physical appearance is that of a bird—usually a crow, sparrow, or whippoorwill—though it wears a funerary mask that accentuates its beak. …",
+  "summary_markdown": "A nosoi's physical appearance is that of a bird—usually a crow, sparrow, or whippoorwill—though it wears a funerary mask that accentuates its beak. …",
+  "text": " Nosoi Source Grand Bazaar pg. 35 Required Number of Abilities 5 Granted Abilities Darkvision, Flier, Manual Dexterity, Speech A nosoi's physical appearance is that of a bird—usually a crow, sparrow, or whippoorwill—though it wears a funerary mask that accentuates its beak. Nosois measure about 1 foot in length but are unusually heavy, weighing between 10 and 15 pounds. ",
+  "trait": [
+   "Monitor",
+   "Psychopomp"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Monster"
+  ],
+  "trait_markdown": "[Monitor](/Traits.aspx?ID=111), [Psychopomp](/Traits.aspx?ID=232)",
+  "trait_raw": [
+   "Monitor",
+   "Psychopomp"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=11&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Climber",
+   "Darkvision",
+   "Divinatory Linguist",
+   "Second Opinion",
+   "skilled (two skills of your choice)",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Divinatory Linguist](/Familiars.aspx?ID=77), [Second Opinion](/Familiars.aspx?ID=65), [skilled (two skills of your choice)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-12",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Pipefox](/Familiars.aspx?ID=12&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Second Opinion](/Familiars.aspx?ID=65), [skilled (two skills of your choice)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nA pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and they love to acquire knowledge, using innate divination magic to learn facts and languages over time. They can bond with a person sharing their scholarly pursuits after a long period of observation and careful social interactions.\r\n\r\n<document level=\"2\" id=\"familiar-ability-77\" />",
+  "name": "Pipefox",
+  "pfs": "Standard",
+  "primary_source": "Grand Bazaar",
+  "primary_source_raw": "Grand Bazaar pg. 35",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2021-10-13",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Grand Bazaar](/Sources.aspx?ID=100) pg. 35\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=3), [Darkvision](/Familiars.aspx?ID=5), [Second Opinion](/Familiars.aspx?ID=65), [skilled (two skills of your choice)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and they love to acquire …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Grand Bazaar"
+  ],
+  "source_raw": [
+   "Grand Bazaar pg. 35"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Grand Bazaar](/Sources.aspx?ID=100) pg. 35",
+  "speed": {},
+  "summary": "A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and they love to acquire …",
+  "summary_markdown": "A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and they love to acquire …",
+  "text": " Pipefox Source Grand Bazaar pg. 35 Required Number of Abilities 5 Granted Abilities Climber, Darkvision, Second Opinion, skilled (two skills of your choice), Speech A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and they love to acquire knowledge, using innate divination magic to learn facts and languages over time. They can bond with a person sharing their scholarly pursuits after a long period of observation and careful social interactions. ",
+  "trait": [
+   "Beast"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+  "trait_raw": [
+   "Beast"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=12&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Lend a Hand",
+   "Manual Dexterity",
+   "Spell Delivery",
+   "Undead",
+   "Valet"
+  ],
+  "familiar_ability_markdown": "[Lend a Hand](/Familiars.aspx?ID=78), [Manual Dexterity](/Familiars.aspx?ID=10), [Spell Delivery](/Familiars.aspx?ID=18), [Undead](/Familiars.aspx?ID=79), [Valet](/Familiars.aspx?ID=38)",
+  "id": "familiar-specific-17",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Crawling Hand](/Familiars.aspx?ID=17&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Manual Dexterity](/Familiars.aspx?ID=10), [Spell Delivery](/Familiars.aspx?ID=18), [Valet](/Familiars.aspx?ID=38)\r\n\r\n</column>\r\n\r\nCrawling hands make grisly but striking familiars, popular among necromancers with an eye for aesthetics. They also tend to be convenient, due to many available spare parts. Crawling hands can be skeletal or fleshy, like a zombie.\r\n\r\n<document level=\"2\" id=\"familiar-ability-78\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-79\" />",
+  "name": "Crawling Hand",
+  "pfs": "Standard",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Manual Dexterity](/Familiars.aspx?ID=10), [Spell Delivery](/Familiars.aspx?ID=18), [Valet](/Familiars.aspx?ID=38)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCrawling hands make grisly but striking familiars, popular among necromancers with an eye for aesthetics. They also tend to be convenient, due to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 40",
+  "speed": {},
+  "summary": "Crawling hands make grisly but striking familiars, popular among necromancers with an eye for aesthetics. They also tend to be convenient, due to …",
+  "summary_markdown": "Crawling hands make grisly but striking familiars, popular among necromancers with an eye for aesthetics. They also tend to be convenient, due to …",
+  "text": " Crawling Hand Source Book of the Dead pg. 40 Required Number of Abilities 5 Granted Abilities Manual Dexterity, Spell Delivery, Valet Crawling hands make grisly but striking familiars, popular among necromancers with an eye for aesthetics. They also tend to be convenient, due to many available spare parts. Crawling hands can be skeletal or fleshy, like a zombie. ",
+  "trait": [
+   "Undead"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+  "trait_raw": [
+   "Undead"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=17&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Anchored Incorporeality",
+   "Flier",
+   "Invisibility",
+   "Undead"
+  ],
+  "familiar_ability_markdown": "[Anchored Incorporeality](/Familiars.aspx?ID=81), [Flier](/Familiars.aspx?ID=7), [Invisibility](/Familiars.aspx?ID=80), [Undead](/Familiars.aspx?ID=79)",
+  "id": "familiar-specific-18",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Old Friend](/Familiars.aspx?ID=18&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7)\r\n\r\n</column>\r\n\r\nSometimes, the spirit of a cherished pet returns from the [Boneyard](/Planes.aspx?ID=15) to continue aiding its beloved owner. These tiny animal ghosts tend to be bound to anchors such as favorite toys, collars, or carved representations of who they were in life. An old friend is less likely to be evil than other undead familiars, as is its master.\r\n\r\n<document level=\"2\" id=\"familiar-ability-81\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-80\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-79\" />",
+  "name": "Old Friend",
+  "pfs": "Standard",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "required_abilities": 4,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSometimes, the spirit of a cherished pet returns from the  Boneyard  to continue aiding its beloved owner. These tiny animal ghosts tend to be bound …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 40",
+  "speed": {},
+  "summary": "Sometimes, the spirit of a cherished pet returns from the  Boneyard  to continue aiding its beloved owner. These tiny animal ghosts tend to be bound …",
+  "summary_markdown": "Sometimes, the spirit of a cherished pet returns from the  Boneyard  to continue aiding its beloved owner. These tiny animal ghosts tend to be bound …",
+  "text": " Old Friend Source Book of the Dead pg. 40 Required Number of Abilities 4 Granted Abilities Flier Sometimes, the spirit of a cherished pet returns from the Boneyard to continue aiding its beloved owner. These tiny animal ghosts tend to be bound to anchors such as favorite toys, collars, or carved representations of who they were in life. An old friend is less likely to be evil than other undead familiars, as is its master. ",
+  "trait": [
+   "Incorporeal",
+   "Spirit",
+   "Undead"
+  ],
+  "trait_group": [
+   "Monster",
+   "Creature Type"
+  ],
+  "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Spirit](/Traits.aspx?ID=149), [Undead](/Traits.aspx?ID=160)",
+  "trait_raw": [
+   "Incorporeal",
+   "Spirit",
+   "Undead"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=18&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Anchored Incorporeality",
+   "Flier",
+   "Lifelink",
+   "Polong Possession",
+   "Skilled (Society)\r\n",
+   "Speech",
+   "Spellcasting",
+   "Undead"
+  ],
+  "familiar_ability_markdown": "[Anchored Incorporeality](/Familiars.aspx?ID=82), [Flier](/Familiars.aspx?ID=7), [Lifelink](/Familiars.aspx?ID=16), [Polong Possession](/Familiars.aspx?ID=83), [Skilled (Society)\r\n](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Spellcasting](/Familiars.aspx?ID=34), [Undead](/Familiars.aspx?ID=79)",
+  "id": "familiar-specific-19",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[Polong](/Familiars.aspx?ID=19&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7), [Lifelink](/Familiars.aspx?ID=16), [Skilled (Society)\r\n](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Spellcasting](/Familiars.aspx?ID=34)\r\n\r\n</column>\r\n\r\n[Polongs](/Monsters.aspx?ID=1891) are wicked, invisible spirits created from the blood of murder victims, bound to glass bottles, and fed with the blood of their master. They're often used to possess and sicken their master's enemies. Polongs can't be found or acquired, only created, a process that can take up to two weeks. If a polong's bottle is ever destroyed, or if its master fails to provide its daily feeding of blood, the polong withers and dies.\r\n\r\n<document level=\"2\" id=\"familiar-ability-82\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-83\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-79\" />",
+  "name": "Polong",
+  "pfs": "Limited",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "required_abilities": 8,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Incorporeal\" url=\"/Traits.aspx?ID=222\" />\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7), [Lifelink](/Familiars.aspx?ID=16), [Skilled (Society)\r\n](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Spellcasting](/Familiars.aspx?ID=34)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Polongs  are wicked, invisible spirits created from the blood of murder victims, bound to glass bottles, and fed with the blood of their master. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 40",
+  "speed": {},
+  "summary": " Polongs  are wicked, invisible spirits created from the blood of murder victims, bound to glass bottles, and fed with the blood of their master. …",
+  "summary_markdown": " Polongs  are wicked, invisible spirits created from the blood of murder victims, bound to glass bottles, and fed with the blood of their master. …",
+  "text": " Polong Source Book of the Dead pg. 40 Required Number of Abilities 8 Granted Abilities Flier, Lifelink, [Skilled (Society) ](/Familiars.aspx?ID=33), Speech, Spellcasting Polongs are wicked, invisible spirits created from the blood of murder victims, bound to glass bottles, and fed with the blood of their master. They're often used to possess and sicken their master's enemies. Polongs can't be found or acquired, only created, a process that can take up to two weeks. If a polong's bottle is ever destroyed, or if its master fails to provide its daily feeding of blood, the polong withers and dies. ",
+  "trait": [
+   "Incorporeal",
+   "Undead"
+  ],
+  "trait_group": [
+   "Monster",
+   "Creature Type"
+  ],
+  "trait_markdown": "[Incorporeal](/Traits.aspx?ID=222), [Undead](/Traits.aspx?ID=160)",
+  "trait_raw": [
+   "Incorporeal",
+   "Undead"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=19&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Cantrip Connection",
+   "Heads Will Roll",
+   "Skilled (your choice of Arcana, Occultism, or one kind of Lore)",
+   "Speech",
+   "Undead"
+  ],
+  "familiar_ability_markdown": "[Cantrip Connection](/Familiars.aspx?ID=13), [Heads Will Roll](/Familiars.aspx?ID=84), [Skilled (your choice of Arcana, Occultism, or one kind of Lore)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12), [Undead](/Familiars.aspx?ID=79)",
+  "id": "familiar-specific-20",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Talking Head](/Familiars.aspx?ID=20&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Cantrip Connection](/Familiars.aspx?ID=13), [Skilled (your choice of Arcana, Occultism, or one kind of Lore)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nSimilar to [beheaded](/MonsterFamilies.aspx?ID=220), these disembodied, reanimated heads (with or without skin) retain some of their arcane wisdom, making for invaluable study partners. However, they also tend to be mouthy, opinionated, or downright obnoxious with their constant chattering, leading some annoyed masters to sew their mouths shut in punishment.\r\n\r\n<document level=\"2\" id=\"familiar-ability-84\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-79\" />",
+  "name": "Talking Head",
+  "pfs": "Standard",
+  "primary_source": "Book of the Dead",
+  "primary_source_raw": "Book of the Dead pg. 40",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-04-27",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Undead\" url=\"/Traits.aspx?ID=160\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Book of the Dead](/Sources.aspx?ID=118) pg. 40\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Cantrip Connection](/Familiars.aspx?ID=13), [Skilled (your choice of Arcana, Occultism, or one kind of Lore)](/Familiars.aspx?ID=33), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSimilar to  beheaded , these disembodied, reanimated heads (with or without skin) retain some of their arcane wisdom, making for invaluable study …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Book of the Dead"
+  ],
+  "source_raw": [
+   "Book of the Dead pg. 40"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Book of the Dead](/Sources.aspx?ID=118) pg. 40",
+  "speed": {},
+  "summary": "Similar to  beheaded , these disembodied, reanimated heads (with or without skin) retain some of their arcane wisdom, making for invaluable study …",
+  "summary_markdown": "Similar to  beheaded , these disembodied, reanimated heads (with or without skin) retain some of their arcane wisdom, making for invaluable study …",
+  "text": " Talking Head Source Book of the Dead pg. 40 Required Number of Abilities 3 Granted Abilities Cantrip Connection, Skilled (your choice of Arcana, Occultism, or one kind of Lore), Speech Similar to beheaded, these disembodied, reanimated heads (with or without skin) retain some of their arcane wisdom, making for invaluable study partners. However, they also tend to be mouthy, opinionated, or downright obnoxious with their constant chattering, leading some annoyed masters to sew their mouths shut in punishment. ",
+  "trait": [
+   "Undead"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Undead](/Traits.aspx?ID=160)",
+  "trait_raw": [
+   "Undead"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=20&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Breath Weapon",
+   "Darkvision",
+   "Flier",
+   "Manual Dexterity",
+   "Silver Infusion",
+   "Speech",
+   "Tenacious Mind"
+  ],
+  "familiar_ability_markdown": "[Breath Weapon](/Familiars.aspx?ID=85), [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Silver Infusion](/Familiars.aspx?ID=86), [Speech](/Familiars.aspx?ID=12), [Tenacious Mind](/Familiars.aspx?ID=87)",
+  "id": "familiar-specific-21",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[House Drake](/Familiars.aspx?ID=21&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Shadows at Sundown](/Sources.aspx?ID=121) pg. 53\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nHouse drakes are loyal and friendly, but prefer to be treated as equals rather than pets.\r\n\r\n<document level=\"2\" id=\"familiar-ability-85\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-86\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-87\" />",
+  "name": "House Drake",
+  "pfs": "Limited",
+  "primary_source": "Shadows at Sundown",
+  "primary_source_raw": "Shadows at Sundown pg. 53",
+  "primary_source_category": "Adventures",
+  "primary_source_group": "Shadows at Sundown",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-05-25",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=50\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Shadows at Sundown](/Sources.aspx?ID=121) pg. 53\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=5), [Flier](/Familiars.aspx?ID=7), [Manual Dexterity](/Familiars.aspx?ID=10), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHouse drakes are loyal and friendly, but prefer to be treated as equals rather than pets.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Shadows at Sundown"
+  ],
+  "source_raw": [
+   "Shadows at Sundown pg. 53"
+  ],
+  "source_category": [
+   "Adventures"
+  ],
+  "source_group": [
+   "Shadows at Sundown"
+  ],
+  "source_markdown": "[Shadows at Sundown](/Sources.aspx?ID=121) pg. 53",
+  "speed": {},
+  "spoilers": "Shadows at Sundown",
+  "summary": "House drakes are loyal and friendly, but prefer to be treated as equals rather than pets.",
+  "summary_markdown": "House drakes are loyal and friendly, but prefer to be treated as equals rather than pets.",
+  "text": " House Drake Source Shadows at Sundown pg. 53 Required Number of Abilities 6 Granted Abilities Darkvision, Flier, Manual Dexterity, Speech House drakes are loyal and friendly, but prefer to be treated as equals rather than pets. ",
+  "trait": [
+   "Dragon",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Dragon](/Traits.aspx?ID=50), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Dragon",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=21&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "N",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "cantrip connection (<i>guidance</i>, <i>mage hand</i>)",
+   "Created Magic",
+   "Darkvision",
+   "Touch Telepathy",
+   "Turn of Fate"
+  ],
+  "familiar_ability_markdown": "[cantrip connection (<i>guidance</i>, <i>mage hand</i>)](/Familiars.aspx?ID=13), [Created Magic](/Familiars.aspx?ID=88), [Darkvision](/Familiars.aspx?ID=5), [Touch Telepathy](/Familiars.aspx?ID=36), [Turn of Fate](/Familiars.aspx?ID=89)",
+  "id": "familiar-specific-22",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Ceru](/Familiars.aspx?ID=22&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 220\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [cantrip connection (_guidance_, _mage hand_)](/Familiars.aspx?ID=13), [Darkvision](/Familiars.aspx?ID=5), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n\r\n</column>\r\n\r\nCerus are mortal-made creatures in the shape of tiny, blue elephants with spikes on their feet, tail, and ears. They're highly sought-after amongst circles of the affluent.\r\n\r\n<document level=\"2\" id=\"familiar-ability-88\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-89\" />",
+  "name": "Ceru",
+  "pfs": "Standard",
+  "primary_source": "Impossible Lands",
+  "primary_source_raw": "Impossible Lands pg. 220",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-11-16",
+  "required_abilities": 4,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Impossible Lands](/Sources.aspx?ID=146) pg. 220\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [cantrip connection (_guidance_, _mage hand_)](/Familiars.aspx?ID=13), [Darkvision](/Familiars.aspx?ID=5), [Touch Telepathy](/Familiars.aspx?ID=36)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nCerus are mortal-made creatures in the shape of tiny, blue elephants with spikes on their feet, tail, and ears. They're highly sought-after amongst …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Impossible Lands"
+  ],
+  "source_raw": [
+   "Impossible Lands pg. 220"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Impossible Lands](/Sources.aspx?ID=146) pg. 220",
+  "speed": {},
+  "summary": "Cerus are mortal-made creatures in the shape of tiny, blue elephants with spikes on their feet, tail, and ears. They're highly sought-after amongst …",
+  "summary_markdown": "Cerus are mortal-made creatures in the shape of tiny, blue elephants with spikes on their feet, tail, and ears. They're highly sought-after amongst …",
+  "text": " Ceru Source Impossible Lands pg. 220 Required Number of Abilities 4 Granted Abilities cantrip connection ( guidance , mage hand ), Darkvision, Touch Telepathy Cerus are mortal-made creatures in the shape of tiny, blue elephants with spikes on their feet, tail, and ears. They're highly sought-after amongst circles of the affluent. ",
+  "trait": [
+   "Beast"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20)",
+  "trait_raw": [
+   "Beast"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=22&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Bound to Mortal",
+   "Independent",
+   "Lifelink",
+   "Speech",
+   "Spiritual Recall"
+  ],
+  "familiar_ability_markdown": "[Bound to Mortal](/Familiars.aspx?ID=92), [Independent](/Familiars.aspx?ID=27), [Lifelink](/Familiars.aspx?ID=16), [Speech](/Familiars.aspx?ID=12), [Spiritual Recall](/Familiars.aspx?ID=91)",
+  "id": "familiar-specific-23",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"\">[Spirit Guide](/Familiars.aspx?ID=23&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 83\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Independent](/Familiars.aspx?ID=27), [Lifelink](/Familiars.aspx?ID=16), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nSpirit guide familiars typically take the form of [cunning guides](/Monsters.aspx?ID=1319) or [nimble guide](/Monsters.aspx?ID=2463).\r\n\r\n<document level=\"2\" id=\"familiar-ability-92\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-91\" />",
+  "name": "Spirit Guide",
+  "primary_source": "Pathfinder #188: They Watched the Stars",
+  "primary_source_raw": "Pathfinder #188: They Watched the Stars pg. 83",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Gatewalkers",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2023-02-22",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n<trait label=\"Spirit\" url=\"/Traits.aspx?ID=149\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 83\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Independent](/Familiars.aspx?ID=27), [Lifelink](/Familiars.aspx?ID=16), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nSpirit guide familiars typically take the form of  cunning guides  or  nimble guide .\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Pathfinder #188: They Watched the Stars"
+  ],
+  "source_raw": [
+   "Pathfinder #188: They Watched the Stars pg. 83"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Gatewalkers"
+  ],
+  "source_markdown": "[Pathfinder #188: They Watched the Stars](/Sources.aspx?ID=194) pg. 83",
+  "speed": {},
+  "spoilers": "Gatewalkers",
+  "summary": "Spirit guide familiars typically take the form of  cunning guides  or  nimble guide .",
+  "summary_markdown": "Spirit guide familiars typically take the form of  cunning guides  or  nimble guide .",
+  "text": " Spirit Guide Source Pathfinder #188: They Watched the Stars pg. 83 Required Number of Abilities 3 Granted Abilities Independent, Lifelink, Speech Spirit guide familiars typically take the form of cunning guides or nimble guide. ",
+  "trait": [
+   "Beast",
+   "Rare",
+   "Spirit"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Rare](/Traits.aspx?ID=137), [Spirit](/Traits.aspx?ID=149)",
+  "trait_raw": [
+   "Beast",
+   "Rare",
+   "Spirit"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=23&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "element": [
+   "Air"
+  ],
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "elemental (air only)",
+   "Emote",
+   "Flier"
+  ],
+  "familiar_ability_markdown": "[elemental (air only)](/Familiars.aspx?ID=93), [Emote](/Familiars.aspx?ID=96), [Flier](/Familiars.aspx?ID=7)",
+  "id": "familiar-specific-24",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Mood Cloud](/Familiars.aspx?ID=24&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [elemental (air only)](/Familiars.aspx?ID=93), [Flier](/Familiars.aspx?ID=7)\r\n\r\n</column>\r\n\r\nThis air elemental is little more than a tiny cloud with just enough internality to have emotions. Elemental scholars believe mood clouds to be related to [despairing palls](/Monsters.aspx?ID=2617), though far less evolved.\r\n\r\n<document level=\"2\" id=\"familiar-ability-96\" />",
+  "name": "Mood Cloud",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 42",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Air\" url=\"/Traits.aspx?ID=5\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [elemental (air only)](/Familiars.aspx?ID=93), [Flier](/Familiars.aspx?ID=7)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis air elemental is little more than a tiny cloud with just enough internality to have emotions. Elemental scholars believe mood clouds to be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 42"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "This air elemental is little more than a tiny cloud with just enough internality to have emotions. Elemental scholars believe mood clouds to be …",
+  "summary_markdown": "This air elemental is little more than a tiny cloud with just enough internality to have emotions. Elemental scholars believe mood clouds to be …",
+  "text": " Mood Cloud Source Rage of Elements pg. 42 2.0 Required Number of Abilities 3 Granted Abilities elemental (air only), Flier This air elemental is little more than a tiny cloud with just enough internality to have emotions. Elemental scholars believe mood clouds to be related to despairing palls, though far less evolved. ",
+  "trait": [
+   "Air",
+   "Elemental"
+  ],
+  "trait_group": [
+   "Elemental",
+   "Planar",
+   "Monster",
+   "Creature Type"
+  ],
+  "trait_markdown": "[Air](/Traits.aspx?ID=5), [Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Air",
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=24&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "element": [
+   "Earth"
+  ],
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Burrower",
+   "Crystal Scent",
+   "elemental (earth only)",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Burrower](/Familiars.aspx?ID=2), [Crystal Scent](/Familiars.aspx?ID=97), [elemental (earth only)](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-25",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Crysmal Shardling](/Familiars.aspx?ID=25&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Burrower](/Familiars.aspx?ID=2), [elemental (earth only)](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nA crysmal shardling is a younger, smaller version of [crysmal](/Monsters.aspx?ID=2623). When acting as a familiar, a shardling's hunger for crystals is sated by magic, turning an urgent need into a mere interest.\r\n\r\n<document level=\"2\" id=\"familiar-ability-97\" />",
+  "name": "Crysmal Shardling",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 42",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Earth\" url=\"/Traits.aspx?ID=55\" />\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Burrower](/Familiars.aspx?ID=2), [elemental (earth only)](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA crysmal shardling is a younger, smaller version of  crysmal . When acting as a familiar, a shardling's hunger for crystals is sated by magic, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 42"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 42 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A crysmal shardling is a younger, smaller version of  crysmal . When acting as a familiar, a shardling's hunger for crystals is sated by magic, …",
+  "summary_markdown": "A crysmal shardling is a younger, smaller version of  crysmal . When acting as a familiar, a shardling's hunger for crystals is sated by magic, …",
+  "text": " Crysmal Shardling Source Rage of Elements pg. 42 2.0 Required Number of Abilities 3 Granted Abilities Burrower, elemental (earth only), Speech A crysmal shardling is a younger, smaller version of crysmal. When acting as a familiar, a shardling's hunger for crystals is sated by magic, turning an urgent need into a mere interest. ",
+  "trait": [
+   "Earth",
+   "Elemental"
+  ],
+  "trait_group": [
+   "Elemental",
+   "Planar",
+   "Monster",
+   "Creature Type"
+  ],
+  "trait_markdown": "[Earth](/Traits.aspx?ID=55), [Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Earth",
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=25&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Accompanist",
+   "Elemental",
+   "Elemental Mobility",
+   "Innate Element",
+   "Resonance",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Accompanist](/Familiars.aspx?ID=25), [Elemental](/Familiars.aspx?ID=93), [Elemental Mobility](/Familiars.aspx?ID=98), [Innate Element](/Familiars.aspx?ID=99), [Resonance](/Familiars.aspx?ID=100), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-26",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Elemental Wisp](/Familiars.aspx?ID=26&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Accompanist](/Familiars.aspx?ID=25), [Elemental](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nWisps are tiny elementals that often act as familiars. They each usually have different personalities: air wisps are playful and capricious, earth wisps are timid but loyal, fire wisps are carefree and boisterous, metal wisps are serious and morose, water wisps are gentle and nurturing, and wood wisps are fierce and controlling.\r\n\r\n<document level=\"2\" id=\"familiar-ability-98\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-99\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-100\" />",
+  "name": "Elemental Wisp",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 43",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Accompanist](/Familiars.aspx?ID=25), [Elemental](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWisps are tiny elementals that often act as familiars. They each usually have different personalities: air wisps are playful and capricious, earth …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 43"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Wisps are tiny elementals that often act as familiars. They each usually have different personalities: air wisps are playful and capricious, earth …",
+  "summary_markdown": "Wisps are tiny elementals that often act as familiars. They each usually have different personalities: air wisps are playful and capricious, earth …",
+  "text": " Elemental Wisp Source Rage of Elements pg. 43 2.0 Required Number of Abilities 3 Granted Abilities Accompanist, Elemental, Speech Wisps are tiny elementals that often act as familiars. They each usually have different personalities: air wisps are playful and capricious, earth wisps are timid but loyal, fire wisps are carefree and boisterous, metal wisps are serious and morose, water wisps are gentle and nurturing, and wood wisps are fierce and controlling. ",
+  "trait": [
+   "Elemental"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=26&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Elemental",
+   "Elemental Diplomat",
+   "Elemental Mobility",
+   "Little Wish",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Elemental](/Familiars.aspx?ID=93), [Elemental Diplomat](/Familiars.aspx?ID=102), [Elemental Mobility](/Familiars.aspx?ID=105), [Little Wish](/Familiars.aspx?ID=101), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-27",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Gennayn](/Familiars.aspx?ID=27&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Elemental](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nMinor genies, [gennayn](/Monsters.aspx?ID=2687) are elementally adaptable and personable. They look like miniature humanoids with elemental energy surrounding them, and frequently carry messages or announce the arrival of their allies.\r\n\r\n<document level=\"2\" id=\"familiar-ability-102\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-105\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-101\" />",
+  "name": "Gennayn",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 43",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Elemental](/Familiars.aspx?ID=93), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMinor genies,  gennayn  are elementally adaptable and personable. They look like miniature humanoids with elemental energy surrounding them, and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 43"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "Minor genies,  gennayn  are elementally adaptable and personable. They look like miniature humanoids with elemental energy surrounding them, and …",
+  "summary_markdown": "Minor genies,  gennayn  are elementally adaptable and personable. They look like miniature humanoids with elemental energy surrounding them, and …",
+  "text": " Gennayn Source Rage of Elements pg. 43 2.0 Required Number of Abilities 5 Granted Abilities Elemental, Speech Minor genies, gennayn are elementally adaptable and personable. They look like miniature humanoids with elemental energy surrounding them, and frequently carry messages or announce the arrival of their allies. ",
+  "trait": [
+   "Elemental"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=27&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Elemental",
+   "Elemental Breath",
+   "Elemental Mobility",
+   "Flier",
+   "Scamp Elements",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Elemental](/Familiars.aspx?ID=93), [Elemental Breath](/Familiars.aspx?ID=103), [Elemental Mobility](/Familiars.aspx?ID=106), [Flier](/Familiars.aspx?ID=7), [Scamp Elements](/Familiars.aspx?ID=104), [Speech](/Familiars.aspx?ID=12)",
+  "id": "familiar-specific-28",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Elemental Scamp](/Familiars.aspx?ID=28&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Elemental](/Familiars.aspx?ID=93), [Flier](/Familiars.aspx?ID=7), [Speech](/Familiars.aspx?ID=12)\r\n\r\n</column>\r\n\r\nThe elementals called [scamps](/MonsterFamilies.aspx?ID=44) look similar to bats, but their bodies are made primarily of elemental matter. They have large, staring eyes and small, curved fangs. . An elemental scamp familiar is a bit smaller than other scamps but makes up for it by being more mischievous. Driven by ego, scamps often take on long names with many titles and insist on being addressed in full.\r\n\r\n<document level=\"2\" id=\"familiar-ability-103\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-106\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-104\" />",
+  "name": "Elemental Scamp",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 43",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Elemental\" url=\"/Traits.aspx?ID=57\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Elemental](/Familiars.aspx?ID=93), [Flier](/Familiars.aspx?ID=7), [Speech](/Familiars.aspx?ID=12)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe elementals called  scamps  look similar to bats, but their bodies are made primarily of elemental matter. They have large, staring eyes and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 43"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 43 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "The elementals called  scamps  look similar to bats, but their bodies are made primarily of elemental matter. They have large, staring eyes and …",
+  "summary_markdown": "The elementals called  scamps  look similar to bats, but their bodies are made primarily of elemental matter. They have large, staring eyes and …",
+  "text": " Elemental Scamp Source Rage of Elements pg. 43 2.0 Required Number of Abilities 5 Granted Abilities Elemental, Flier, Speech The elementals called scamps look similar to bats, but their bodies are made primarily of elemental matter. They have large, staring eyes and small, curved fangs. . An elemental scamp familiar is a bit smaller than other scamps but makes up for it by being more mischievous. Driven by ego, scamps often take on long names with many titles and insist on being addressed in full. ",
+  "trait": [
+   "Elemental"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Elemental](/Traits.aspx?ID=57)",
+  "trait_raw": [
+   "Elemental"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=28&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "N",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Fast Movement",
+   "Scent",
+   "Sorcerous Sweets"
+  ],
+  "familiar_ability_markdown": "[Fast Movement](/Familiars.aspx?ID=6), [Scent](/Familiars.aspx?ID=11), [Sorcerous Sweets](/Familiars.aspx?ID=107)",
+  "id": "familiar-specific-30",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[Sweet Beasts (Chocolate Mouse)](/Familiars.aspx?ID=30&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Fast Movement](/Familiars.aspx?ID=6), [Scent](/Familiars.aspx?ID=11)\r\n\r\n</column>\r\n\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however.\r\n\r\n<document level=\"2\" id=\"familiar-ability-107\" />",
+  "name": "Sweet Beasts (Chocolate Mouse)",
+  "pfs": "Limited",
+  "primary_source": "Wake the Dead #3",
+  "primary_source_raw": "Wake the Dead #3 pg. 25",
+  "primary_source_category": "Comics",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2023-09-27",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Fast Movement](/Familiars.aspx?ID=6), [Scent](/Familiars.aspx?ID=11)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Wake the Dead #3"
+  ],
+  "source_raw": [
+   "Wake the Dead #3 pg. 25"
+  ],
+  "source_category": [
+   "Comics"
+  ],
+  "source_markdown": "[Wake the Dead #3](/Sources.aspx?ID=212) pg. 25",
+  "speed": {},
+  "summary": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "summary_markdown": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "text": " Sweet Beasts (Chocolate Mouse) Source Wake the Dead #3 pg. 25 Required Number of Abilities 3 Granted Abilities Fast Movement, Scent The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however. ",
+  "trait": [
+   "Beast",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Beast",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=30&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "N",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Flier",
+   "Independent",
+   "Sorcerous Sweets"
+  ],
+  "familiar_ability_markdown": "[Flier](/Familiars.aspx?ID=7), [Independent](/Familiars.aspx?ID=27), [Sorcerous Sweets](/Familiars.aspx?ID=107)",
+  "id": "familiar-specific-31",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[Sweet Beasts (Gingerbread Sparrow)](/Familiars.aspx?ID=31&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7), [Independent](/Familiars.aspx?ID=27)\r\n\r\n</column>\r\n\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however.\r\n\r\n<document level=\"2\" id=\"familiar-ability-107\" />",
+  "name": "Sweet Beasts (Gingerbread Sparrow)",
+  "pfs": "Limited",
+  "primary_source": "Wake the Dead #3",
+  "primary_source_raw": "Wake the Dead #3 pg. 25",
+  "primary_source_category": "Comics",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2023-09-27",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Flier](/Familiars.aspx?ID=7), [Independent](/Familiars.aspx?ID=27)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Wake the Dead #3"
+  ],
+  "source_raw": [
+   "Wake the Dead #3 pg. 25"
+  ],
+  "source_category": [
+   "Comics"
+  ],
+  "source_markdown": "[Wake the Dead #3](/Sources.aspx?ID=212) pg. 25",
+  "speed": {},
+  "summary": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "summary_markdown": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "text": " Sweet Beasts (Gingerbread Sparrow) Source Wake the Dead #3 pg. 25 Required Number of Abilities 3 Granted Abilities Flier, Independent The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however. ",
+  "trait": [
+   "Beast",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Beast",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=31&Specific=true",
+  "weakness": {}
+ },
+ {
+  "alignment": "N",
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Burrower",
+   "Sorcerous Sweets",
+   "Tremorsense"
+  ],
+  "familiar_ability_markdown": "[Burrower](/Familiars.aspx?ID=2), [Sorcerous Sweets](/Familiars.aspx?ID=107), [Tremorsense](/Familiars.aspx?ID=68)",
+  "id": "familiar-specific-32",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[Sweet Beasts (Hard Candy Beetle)](/Familiars.aspx?ID=32&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Burrower](/Familiars.aspx?ID=2), [Tremorsense](/Familiars.aspx?ID=68)\r\n\r\n</column>\r\n\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however.\r\n\r\n<document level=\"2\" id=\"familiar-ability-107\" />",
+  "name": "Sweet Beasts (Hard Candy Beetle)",
+  "pfs": "Limited",
+  "primary_source": "Wake the Dead #3",
+  "primary_source_raw": "Wake the Dead #3 pg. 25",
+  "primary_source_category": "Comics",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2023-09-27",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"N\" url=\"/Rules.aspx?ID=95\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=20\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Wake the Dead #3](/Sources.aspx?ID=212) pg. 25\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Burrower](/Familiars.aspx?ID=2), [Tremorsense](/Familiars.aspx?ID=68)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Wake the Dead #3"
+  ],
+  "source_raw": [
+   "Wake the Dead #3 pg. 25"
+  ],
+  "source_category": [
+   "Comics"
+  ],
+  "source_markdown": "[Wake the Dead #3](/Sources.aspx?ID=212) pg. 25",
+  "speed": {},
+  "summary": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "summary_markdown": "The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy …",
+  "text": " Sweet Beasts (Hard Candy Beetle) Source Wake the Dead #3 pg. 25 Required Number of Abilities 3 Granted Abilities Burrower, Tremorsense The ways of wizards are strange and mysterious, and nowhere is this more obvious than in the arcane predilection for animating random pieces of candy and using them as familiars. The Winter Witches of Irrisen are known for weaving sparrows or nightingales from gingerbread, while in Arcadia, sorcerers mold mice from spiced chocolate. Most famous, however, are the hard candy beetles of Nex, though a few radical scholars claim that they are in fact a demi-natural species, a product of the Mana Wastes' wild magic. Most mages dismiss such wild claims, however. ",
+  "trait": [
+   "Beast",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=20), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Beast",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=32&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Aeon Stone Reservoir",
+   "Can't Walk",
+   "Construct",
+   "Crystalline",
+   "Flier"
+  ],
+  "familiar_ability_markdown": "[Aeon Stone Reservoir](/Familiars.aspx?ID=154), [Can't Walk](/Familiars.aspx?ID=155), [Construct](/Familiars.aspx?ID=109), [Crystalline](/Familiars.aspx?ID=156), [Flier](/Familiars.aspx?ID=145)",
+  "id": "familiar-specific-34",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Aeon Wyrd](/Familiars.aspx?ID=34&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 170\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145)\r\n\r\n</column>\r\n\r\nAn aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.\r\n\r\n<document level=\"2\" id=\"familiar-ability-154\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-155\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-156\" />",
+  "name": "Aeon Wyrd",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 170",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 3,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 170\n\n**Required Number of Abilities** 3\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 170"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 170",
+  "speed": {},
+  "summary": "An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.",
+  "summary_markdown": "An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master.",
+  "text": " Aeon Wyrd Source Player Core 2 pg. 170 Required Number of Abilities 3 Granted Abilities Construct, Flier An aeon wyrd is a floating swarm of gemstones surrounding a larger stone. It grants the power of its internal aeon stone to its master. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=34&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Euphoric Breath",
+   "Flier",
+   "Manual Dexterity",
+   "Speech",
+   "Touch Telepathy"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=142), [Euphoric Breath](/Familiars.aspx?ID=157), [Flier](/Familiars.aspx?ID=145), [Manual Dexterity](/Familiars.aspx?ID=146), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)",
+  "id": "familiar-specific-35",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Fey Dragonet](/Familiars.aspx?ID=35&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=581\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 170\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Flier](/Familiars.aspx?ID=145), [Manual Dexterity](/Familiars.aspx?ID=146), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)\r\n\r\n</column>\r\n\r\nThese tiny, mischievous dragons make natural allies for benevolent or capricious characters.\r\n\r\n<document level=\"2\" id=\"familiar-ability-157\" />",
+  "name": "Fey Dragonet",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 170",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Dragon\" url=\"/Traits.aspx?ID=581\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 170\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Flier](/Familiars.aspx?ID=145), [Manual Dexterity](/Familiars.aspx?ID=146), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese tiny, mischievous dragons make natural allies for benevolent or capricious characters.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 170"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 170",
+  "speed": {},
+  "summary": "These tiny, mischievous dragons make natural allies for benevolent or capricious characters.",
+  "summary_markdown": "These tiny, mischievous dragons make natural allies for benevolent or capricious characters.",
+  "text": " Fey Dragonet Source Player Core 2 pg. 170 Required Number of Abilities 5 Granted Abilities Darkvision, Flier, Manual Dexterity, Speech, Touch Telepathy These tiny, mischievous dragons make natural allies for benevolent or capricious characters. ",
+  "trait": [
+   "Dragon"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Dragon](/Traits.aspx?ID=581)",
+  "trait_raw": [
+   "Dragon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=35&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Blood Link",
+   "Construct",
+   "Darkvision",
+   "Manual Dexterity",
+   "Poison Reservoir",
+   "Porter"
+  ],
+  "familiar_ability_markdown": "[Blood Link](/Familiars.aspx?ID=159), [Construct](/Familiars.aspx?ID=109), [Darkvision](/Familiars.aspx?ID=142), [Manual Dexterity](/Familiars.aspx?ID=146), [Poison Reservoir](/Familiars.aspx?ID=150), [Porter](/Familiars.aspx?ID=158)",
+  "id": "familiar-specific-36",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Homunculus](/Familiars.aspx?ID=36&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Darkvision](/Familiars.aspx?ID=142), [Manual Dexterity](/Familiars.aspx?ID=146)\r\n\r\n</column>\r\n\r\nHomunculi are tiny servitor constructs created by a crafter to serve as a spy, scout, messenger, or assistant. A homunculus is crafted using a drop of its creator’s blood in addition to any other components used in crafting its body.\r\n\r\n<document level=\"2\" id=\"familiar-ability-159\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-150\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-158\" />",
+  "name": "Homunculus",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 171",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Darkvision](/Familiars.aspx?ID=142), [Manual Dexterity](/Familiars.aspx?ID=146)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nHomunculi are tiny servitor constructs created by a crafter to serve as a spy, scout, messenger, or assistant. A homunculus is crafted using a drop …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 171"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 171",
+  "speed": {},
+  "summary": "Homunculi are tiny servitor constructs created by a crafter to serve as a spy, scout, messenger, or assistant. A homunculus is crafted using a drop …",
+  "summary_markdown": "Homunculi are tiny servitor constructs created by a crafter to serve as a spy, scout, messenger, or assistant. A homunculus is crafted using a drop …",
+  "text": " Homunculus Source Player Core 2 pg. 171 Required Number of Abilities 6 Granted Abilities Construct, Darkvision, Manual Dexterity Homunculi are tiny servitor constructs created by a crafter to serve as a spy, scout, messenger, or assistant. A homunculus is crafted using a drop of its creator’s blood in addition to any other components used in crafting its body. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=36&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Fiendish Temptation",
+   "Flier",
+   "Imp Invisibility",
+   "Manual Dexterity",
+   "resistance (poison)",
+   "skilled (Deception)",
+   "Speech",
+   "Touch Telepathy"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=142), [Fiendish Temptation](/Familiars.aspx?ID=161), [Flier](/Familiars.aspx?ID=145), [Imp Invisibility](/Familiars.aspx?ID=160), [Manual Dexterity](/Familiars.aspx?ID=146), [resistance (poison)](/Familiars.aspx?ID=122), [skilled (Deception)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)",
+  "id": "familiar-specific-37",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Limited\">[Imp](/Familiars.aspx?ID=37&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=600\" />\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 7\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Flier](/Familiars.aspx?ID=145), [Manual Dexterity](/Familiars.aspx?ID=146), [resistance (poison)](/Familiars.aspx?ID=122), [skilled (Deception)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)\r\n\r\n</column>\r\n\r\nImp familiars pretend to be subservient in order to trick their master into losing their soul or finding an early grave.\r\n\r\n<document level=\"2\" id=\"familiar-ability-161\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-160\" />",
+  "name": "Imp",
+  "pfs": "Limited",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 171",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 7,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Fiend\" url=\"/Traits.aspx?ID=600\" />\r\n<trait label=\"Unholy\" url=\"/Traits.aspx?ID=521\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 7\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Flier](/Familiars.aspx?ID=145), [Manual Dexterity](/Familiars.aspx?ID=146), [resistance (poison)](/Familiars.aspx?ID=122), [skilled (Deception)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124), [Touch Telepathy](/Familiars.aspx?ID=127)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nImp familiars pretend to be subservient in order to trick their master into losing their soul or finding an early grave.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 171"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 171",
+  "speed": {},
+  "summary": "Imp familiars pretend to be subservient in order to trick their master into losing their soul or finding an early grave.",
+  "summary_markdown": "Imp familiars pretend to be subservient in order to trick their master into losing their soul or finding an early grave.",
+  "text": " Imp Source Player Core 2 pg. 171 Required Number of Abilities 7 Granted Abilities Darkvision, Flier, Manual Dexterity, resistance (poison), skilled (Deception), Speech, Touch Telepathy Imp familiars pretend to be subservient in order to trick their master into losing their soul or finding an early grave. ",
+  "trait": [
+   "Fiend",
+   "Unholy"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Fiend](/Traits.aspx?ID=600), [Unholy](/Traits.aspx?ID=521)",
+  "trait_raw": [
+   "Fiend",
+   "Unholy"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=37&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Climber",
+   "Darkvision",
+   "Scholarly Linguist",
+   "Second Opinion",
+   "skilled (one skill of your choice)",
+   "Speech"
+  ],
+  "familiar_ability_markdown": "[Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Scholarly Linguist](/Familiars.aspx?ID=162), [Second Opinion](/Familiars.aspx?ID=151), [skilled (one skill of your choice)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124)",
+  "id": "familiar-specific-38",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Pipefox](/Familiars.aspx?ID=38&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=547\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Second Opinion](/Familiars.aspx?ID=151), [skilled (one skill of your choice)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124)\r\n\r\n</column>\r\n\r\nA pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and love to acquire knowledge.\r\n\r\n<document level=\"2\" id=\"familiar-ability-162\" />",
+  "name": "Pipefox",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 171",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 5,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=547\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 5\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Second Opinion](/Familiars.aspx?ID=151), [skilled (one skill of your choice)](/Familiars.aspx?ID=123), [Speech](/Familiars.aspx?ID=124)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and love to acquire …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 171"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 171",
+  "speed": {},
+  "summary": "A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and love to acquire …",
+  "summary_markdown": "A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and love to acquire …",
+  "text": " Pipefox Source Player Core 2 pg. 171 Required Number of Abilities 5 Granted Abilities Climber, Darkvision, Second Opinion, skilled (one skill of your choice), Speech A pipefox is a tiny magical fox with a thin, limbless body that is about a foot long. Pipefoxes are secretive, shy, evasive, and love to acquire knowledge. ",
+  "trait": [
+   "Beast"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=547)",
+  "trait_raw": [
+   "Beast"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=38&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Construct",
+   "Flammable"
+  ],
+  "familiar_ability_markdown": "[Construct](/Familiars.aspx?ID=109), [Flammable](/Familiars.aspx?ID=163)",
+  "id": "familiar-specific-39",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Poppet](/Familiars.aspx?ID=39&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 1\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109)\r\n\r\n</column>\r\n\r\nEndlessly modifiable, poppet familiars made of wood and wicker are among the most basic construct familiars available to Pathfinder agents across the globe.\r\n\r\n<document level=\"2\" id=\"familiar-ability-163\" />",
+  "name": "Poppet",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 171",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 1,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 1\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nEndlessly modifiable, poppet familiars made of wood and wicker are among the most basic construct familiars available to Pathfinder agents across the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 171"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 171",
+  "speed": {},
+  "summary": "Endlessly modifiable, poppet familiars made of wood and wicker are among the most basic construct familiars available to Pathfinder agents across the …",
+  "summary_markdown": "Endlessly modifiable, poppet familiars made of wood and wicker are among the most basic construct familiars available to Pathfinder agents across the …",
+  "text": " Poppet Source Player Core 2 pg. 171 Required Number of Abilities 1 Granted Abilities Construct Endlessly modifiable, poppet familiars made of wood and wicker are among the most basic construct familiars available to Pathfinder agents across the globe. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=39&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Climber",
+   "Darkvision",
+   "Magic Scent",
+   "Ooze Defense",
+   "Slime Rejuvenation",
+   "Tough"
+  ],
+  "familiar_ability_markdown": "[Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Magic Scent](/Familiars.aspx?ID=164), [Ooze Defense](/Familiars.aspx?ID=165), [Slime Rejuvenation](/Familiars.aspx?ID=166), [Tough](/Familiars.aspx?ID=148)",
+  "id": "familiar-specific-40",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Spellslime](/Familiars.aspx?ID=40&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=665\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Tough](/Familiars.aspx?ID=148)\r\n\r\n</column>\r\n\r\nThese friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal.\r\n\r\n<document level=\"2\" id=\"familiar-ability-164\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-165\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-166\" />",
+  "name": "Spellslime",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 171",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "required_abilities": 4,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Ooze\" url=\"/Traits.aspx?ID=665\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 171\n\n**Required Number of Abilities** 4\r\n\r\n**Granted Abilities** [Climber](/Familiars.aspx?ID=141), [Darkvision](/Familiars.aspx?ID=142), [Tough](/Familiars.aspx?ID=148)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 171"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 171",
+  "speed": {},
+  "summary": "These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal.",
+  "summary_markdown": "These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal.",
+  "text": " Spellslime Source Player Core 2 pg. 171 Required Number of Abilities 4 Granted Abilities Climber, Darkvision, Tough These friendly, colorful oozes congeal from the essences left over from casting spells. They are extremely loyal. ",
+  "trait": [
+   "Ooze"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Ooze](/Traits.aspx?ID=665)",
+  "trait_raw": [
+   "Ooze"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=40&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Dazzling Show",
+   "Independent",
+   "Lifelink",
+   "Manual Dexterity",
+   "Soul Bond",
+   "Speech",
+   "Vina Song"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=142), [Dazzling Show](/Familiars.aspx?ID=170), [Independent](/Familiars.aspx?ID=115), [Lifelink](/Familiars.aspx?ID=133), [Manual Dexterity](/Familiars.aspx?ID=146), [Soul Bond](/Familiars.aspx?ID=171), [Speech](/Familiars.aspx?ID=124), [Vina Song](/Familiars.aspx?ID=172)",
+  "id": "familiar-specific-46",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Kinnars](/Familiars.aspx?ID=46&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=551\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 124\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Dazzling Show](/Familiars.aspx?ID=170), [Independent](/Familiars.aspx?ID=115), [Lifelink](/Familiars.aspx?ID=133), [Manual Dexterity](/Familiars.aspx?ID=146), [Speech](/Familiars.aspx?ID=124)\r\n\r\n</column>\r\n\r\nThe kinnari seats herself, pressing an instrument of gourds and strings to her shoulder. The kinnara stands ready, with his tail upright, preparing for his beloved’s rhythm. Kinnars are half-human, half-songbird lovers who sing, dance, and perform for and with each other, forever accompanying each other in their arts. Severance creates suffering, and neither can stay apart from the other else they both become heartbroken and die. While most kinnar pairings serving as familiars include a female kinnari and male kinnara, kinnar pairings of different genders aren’t uncommon. Kinnar familiars have access to all of their familiar abilities regardless of the genders of the kinnars.\r\n\r\n<document level=\"2\" id=\"familiar-ability-171\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-172\" />",
+  "name": "Kinnars",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 124",
+  "primary_source_category": "Lost Omens",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2024-08-28",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Celestial\" url=\"/Traits.aspx?ID=551\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 124\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Dazzling Show](/Familiars.aspx?ID=170), [Independent](/Familiars.aspx?ID=115), [Lifelink](/Familiars.aspx?ID=133), [Manual Dexterity](/Familiars.aspx?ID=146), [Speech](/Familiars.aspx?ID=124)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe kinnari seats herself, pressing an instrument of gourds and strings to her shoulder. The kinnara stands ready, with his tail upright, preparing …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 124"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 124",
+  "speed": {},
+  "summary": "The kinnari seats herself, pressing an instrument of gourds and strings to her shoulder. The kinnara stands ready, with his tail upright, preparing …",
+  "summary_markdown": "The kinnari seats herself, pressing an instrument of gourds and strings to her shoulder. The kinnara stands ready, with his tail upright, preparing …",
+  "text": " Kinnars Source Tian Xia Character Guide pg. 124 Required Number of Abilities 6 Granted Abilities Darkvision, Dazzling Show, Independent, Lifelink, Manual Dexterity, Speech The kinnari seats herself, pressing an instrument of gourds and strings to her shoulder. The kinnara stands ready, with his tail upright, preparing for his beloved’s rhythm. Kinnars are half-human, half-songbird lovers who sing, dance, and perform for and with each other, forever accompanying each other in their arts. Severance creates suffering, and neither can stay apart from the other else they both become heartbroken and die. While most kinnar pairings serving as familiars include a female kinnari and male kinnara, kinnar pairings of different genders aren’t uncommon. Kinnar familiars have access to all of their familiar abilities regardless of the genders of the kinnars. ",
+  "trait": [
+   "Celestial",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Celestial](/Traits.aspx?ID=551), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Celestial",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=46&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Construct",
+   "Flier",
+   "Kindling",
+   "Resistance (Fire and Cold)",
+   "Stunning Flare",
+   "Tough"
+  ],
+  "familiar_ability_markdown": "[Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Resistance (Fire and Cold)](/Familiars.aspx?ID=122), [Stunning Flare](/Familiars.aspx?ID=173), [Tough](/Familiars.aspx?ID=148)",
+  "id": "familiar-specific-47",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Lantern Wisp](/Familiars.aspx?ID=47&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Resistance (Fire and Cold)](/Familiars.aspx?ID=122), [Tough](/Familiars.aspx?ID=148)\r\n\r\n</column>\r\n\r\nLantern wisps appear as colorful, hand-made lanterns aimlessly floating around in the dark of the night, seemingly always with its flame lit in full. They house harmless, little wisps that have settled into forgotten children’s playthings.\r\n\r\n<document level=\"2\" id=\"familiar-ability-173\" />",
+  "name": "Lantern Wisp",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 125",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-28",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Resistance (Fire and Cold)](/Familiars.aspx?ID=122), [Tough](/Familiars.aspx?ID=148)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nLantern wisps appear as colorful, hand-made lanterns aimlessly floating around in the dark of the night, seemingly always with its flame lit in full. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 125"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125",
+  "speed": {},
+  "summary": "Lantern wisps appear as colorful, hand-made lanterns aimlessly floating around in the dark of the night, seemingly always with its flame lit in full. …",
+  "summary_markdown": "Lantern wisps appear as colorful, hand-made lanterns aimlessly floating around in the dark of the night, seemingly always with its flame lit in full. …",
+  "text": " Lantern Wisp Source Tian Xia Character Guide pg. 125 Required Number of Abilities 6 Granted Abilities Construct, Flier, Kindling, Resistance (Fire and Cold), Tough Lantern wisps appear as colorful, hand-made lanterns aimlessly floating around in the dark of the night, seemingly always with its flame lit in full. They house harmless, little wisps that have settled into forgotten children’s playthings. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=47&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Construct",
+   "Manual Dexterity",
+   "Play Dead",
+   "Shadow Projection",
+   "Speech",
+   "Tough",
+   "Versatile Form"
+  ],
+  "familiar_ability_markdown": "[Construct](/Familiars.aspx?ID=109), [Manual Dexterity](/Familiars.aspx?ID=146), [Play Dead](/Familiars.aspx?ID=167), [Shadow Projection](/Familiars.aspx?ID=174), [Speech](/Familiars.aspx?ID=124), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)",
+  "id": "familiar-specific-48",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Makhluk Wayang](/Familiars.aspx?ID=48&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Manual Dexterity](/Familiars.aspx?ID=146), [Play Dead](/Familiars.aspx?ID=167), [Speech](/Familiars.aspx?ID=124), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)\r\n\r\n</column>\r\n\r\nMakhluk wayangs are shadow puppets, pieces of show and tell made animate, carrying no more than the personalities they were crafted to inhabit. Unlike the wayang people, your familiar is a shadowy incorporeal being without a body of its own. A makhluk wayang possesses a simple puppet made of leather or, sometimes, from thick parchment.\r\n\r\n<document level=\"2\" id=\"familiar-ability-174\" />",
+  "name": "Makhluk Wayang",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 125",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-28",
+  "required_abilities": 8,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 8\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Manual Dexterity](/Familiars.aspx?ID=146), [Play Dead](/Familiars.aspx?ID=167), [Speech](/Familiars.aspx?ID=124), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMakhluk wayangs are shadow puppets, pieces of show and tell made animate, carrying no more than the personalities they were crafted to inhabit. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 125"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125",
+  "speed": {},
+  "summary": "Makhluk wayangs are shadow puppets, pieces of show and tell made animate, carrying no more than the personalities they were crafted to inhabit. …",
+  "summary_markdown": "Makhluk wayangs are shadow puppets, pieces of show and tell made animate, carrying no more than the personalities they were crafted to inhabit. …",
+  "text": " Makhluk Wayang Source Tian Xia Character Guide pg. 125 Required Number of Abilities 8 Granted Abilities Construct, Manual Dexterity, Play Dead, Speech, Tough, Versatile Form Makhluk wayangs are shadow puppets, pieces of show and tell made animate, carrying no more than the personalities they were crafted to inhabit. Unlike the wayang people, your familiar is a shadowy incorporeal being without a body of its own. A makhluk wayang possesses a simple puppet made of leather or, sometimes, from thick parchment. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=48&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Construct",
+   "Flatten",
+   "Flier",
+   "Kindling",
+   "Mass-Produced",
+   "Play Dead",
+   "Seal-Bearer",
+   "Tough",
+   "Versatile Form"
+  ],
+  "familiar_ability_markdown": "[Construct](/Familiars.aspx?ID=109), [Flatten](/Familiars.aspx?ID=175), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Mass-Produced](/Familiars.aspx?ID=176), [Play Dead](/Familiars.aspx?ID=167), [Seal-Bearer](/Familiars.aspx?ID=177), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)",
+  "id": "familiar-specific-49",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Shikigami](/Familiars.aspx?ID=49&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Play Dead](/Familiars.aspx?ID=167), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)\r\n\r\n</column>\r\n\r\nShikigami are small spirits typically summoned and bound to a paper figure, so confined to carry out the deeds and embody the will of their masters. More often than not, the naivete of these amateur practitioners of esoteric magics means they’ll find themselves at the mercy of their own shikigami.\r\n\r\n<document level=\"2\" id=\"familiar-ability-175\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-176\" />\r\n\r\n<document level=\"2\" id=\"familiar-ability-177\" />",
+  "name": "Shikigami",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 125",
+  "primary_source_category": "Lost Omens",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-28",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Construct\" url=\"/Traits.aspx?ID=563\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Construct](/Familiars.aspx?ID=109), [Flier](/Familiars.aspx?ID=145), [Kindling](/Familiars.aspx?ID=169), [Play Dead](/Familiars.aspx?ID=167), [Tough](/Familiars.aspx?ID=148), [Versatile Form](/Familiars.aspx?ID=168)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nShikigami are small spirits typically summoned and bound to a paper figure, so confined to carry out the deeds and embody the will of their masters. …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 125"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125",
+  "speed": {},
+  "summary": "Shikigami are small spirits typically summoned and bound to a paper figure, so confined to carry out the deeds and embody the will of their masters. …",
+  "summary_markdown": "Shikigami are small spirits typically summoned and bound to a paper figure, so confined to carry out the deeds and embody the will of their masters. …",
+  "text": " Shikigami Source Tian Xia Character Guide pg. 125 Required Number of Abilities 6 Granted Abilities Construct, Flier, Kindling, Play Dead, Tough, Versatile Form Shikigami are small spirits typically summoned and bound to a paper figure, so confined to carry out the deeds and embody the will of their masters. More often than not, the naivete of these amateur practitioners of esoteric magics means they’ll find themselves at the mercy of their own shikigami. ",
+  "trait": [
+   "Construct"
+  ],
+  "trait_group": [
+   "Creature Type"
+  ],
+  "trait_markdown": "[Construct](/Traits.aspx?ID=563)",
+  "trait_raw": [
+   "Construct"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=49&Specific=true",
+  "weakness": {}
+ },
+ {
+  "category": "familiar-specific",
+  "exclude_from_search": false,
+  "familiar_ability": [
+   "Darkvision",
+   "Kinspeech",
+   "Pot of Tea",
+   "Speech",
+   "Toolbearer",
+   "Valet"
+  ],
+  "familiar_ability_markdown": "[Darkvision](/Familiars.aspx?ID=142), [Kinspeech](/Familiars.aspx?ID=116), [Pot of Tea](/Familiars.aspx?ID=178), [Speech](/Familiars.aspx?ID=124), [Toolbearer](/Familiars.aspx?ID=126), [Valet](/Familiars.aspx?ID=128)",
+  "id": "familiar-specific-50",
+  "markdown": "<title level=\"1\" right=\"Specific Familiar \" pfs=\"Standard\">[Tapir Sage](/Familiars.aspx?ID=50&amp;Specific=true)</title>\r\n\r\n<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=547\" />\r\n</traits>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Kinspeech](/Familiars.aspx?ID=116), [Speech](/Familiars.aspx?ID=124), [Toolbearer](/Familiars.aspx?ID=126), [Valet](/Familiars.aspx?ID=128)\r\n\r\n</column>\r\n\r\nTapir sages are intelligent creatures that desire to protect the natural world. They carry large rattan baskets on their backs.\r\n\r\n<document level=\"2\" id=\"familiar-ability-178\" />",
+  "name": "Tapir Sage",
+  "pfs": "Standard",
+  "primary_source": "Tian Xia Character Guide",
+  "primary_source_raw": "Tian Xia Character Guide pg. 125",
+  "primary_source_category": "Lost Omens",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2024-08-28",
+  "required_abilities": 6,
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=721\" />\r\n<trait label=\"Beast\" url=\"/Traits.aspx?ID=547\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125\n\n**Required Number of Abilities** 6\r\n\r\n**Granted Abilities** [Darkvision](/Familiars.aspx?ID=142), [Kinspeech](/Familiars.aspx?ID=116), [Speech](/Familiars.aspx?ID=124), [Toolbearer](/Familiars.aspx?ID=126), [Valet](/Familiars.aspx?ID=128)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nTapir sages are intelligent creatures that desire to protect the natural world. They carry large rattan baskets on their backs.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Tian Xia Character Guide"
+  ],
+  "source_raw": [
+   "Tian Xia Character Guide pg. 125"
+  ],
+  "source_category": [
+   "Lost Omens"
+  ],
+  "source_markdown": "[Tian Xia Character Guide](/Sources.aspx?ID=230) pg. 125",
+  "speed": {},
+  "summary": "Tapir sages are intelligent creatures that desire to protect the natural world. They carry large rattan baskets on their backs.",
+  "summary_markdown": "Tapir sages are intelligent creatures that desire to protect the natural world. They carry large rattan baskets on their backs.",
+  "text": " Tapir Sage Source Tian Xia Character Guide pg. 125 Required Number of Abilities 6 Granted Abilities Darkvision, Kinspeech, Speech, Toolbearer, Valet Tapir sages are intelligent creatures that desire to protect the natural world. They carry large rattan baskets on their backs. ",
+  "trait": [
+   "Beast",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Creature Type",
+   "Rarity"
+  ],
+  "trait_markdown": "[Beast](/Traits.aspx?ID=547), [Uncommon](/Traits.aspx?ID=721)",
+  "trait_raw": [
+   "Beast",
+   "Uncommon"
+  ],
+  "type": "Specific Familiar",
+  "url": "/Familiars.aspx?ID=50&Specific=true",
+  "weakness": {}
+ }
+]

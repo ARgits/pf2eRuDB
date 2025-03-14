@@ -1,0 +1,480 @@
+[
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-1",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Animal](/Instincts.aspx?ID=1)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>\n\nThe fury of a wild predator fills you when you [Rage](/Actions.aspx?ID=3), granting you ferocious unarmed attacks. Cultures that revere vicious [animals](/Traits.aspx?ID=9) (such as [apes](/MonsterFamilies.aspx?ID=6) or [bears](/MonsterFamilies.aspx?ID=13)) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a [werewolf](/Monsters.aspx?ID=411) or another werecreature. Select an animal from Table 3–3: Animal Instincts that best matches your chosen animal.\n\n## Table 3-3: Animal Instincts\n<row gap=\"tiny\">\n<table> \n<tr>\n  <th>Animal</th>\n  <th>Attack</th>\n  <th>Damage</th>\n  <th>Traits</th>\n</tr>\n<tr>\n  <td>Ape</td>\n  <td>Fist</td>\n  <td>1d10 B</td>\n  <td>[Grapple](/Traits.aspx?ID=184), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Bear</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Claw</td>\n  <td>1d6 S</td>\n  <td>[Agile](/Traits.aspx?ID=170), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td>Bull</td>\n  <td>Horn</td>\n  <td>1d10 P</td>\n  <td>[Shove](/Traits.aspx?ID=193), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Cat</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Claw</td>\n  <td>1d6 S</td>\n  <td>[Agile](/Traits.aspx?ID=170), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td>Deer</td>\n  <td>Antler</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=184), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Frog</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d10 B</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Tongue</td>\n  <td>1d4 B</td>\n  <td>[Agile](/Traits.aspx?ID=170), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td>Shark</td>\n  <td>Jaws</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=184), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td>Snake</td>\n  <td>Fangs</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=184), [unarmed](/Traits.aspx?ID=199)</td>\n</tr>\n<tr>\n  <td>Wolf</td>\n  <td>Jaws</td>\n  <td>1d10 P</td>\n  <td>[Trip](/Traits.aspx?ID=196), [unarmed](/Traits.aspx?ID=199)</td>\n</tr></table>\n</row>\n\n## Howl of the Wild Animal Instinct Options\n<row gap=\"tiny\">\n<table>\n<tr>\n  <th>Animal</th>\n  <th>Attack</th>\n  <th>Damage</th>\n  <th>Traits</th>\n</tr>\n<tr>\n  <td>Ankylosaurus</td>\n  <td>Tail</td>\n  <td>1d10 B</td>\n  <td>[Razing](/Traits.aspx?ID=784), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Ant</td>\n  <td>Mandibles</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Bat</td>\n  <td rowspan=\"2\">Fangs</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Wings</td>\n  <td>1d4 P</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Bird</td>\n  <td rowspan=\"2\">Beak</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Talon</td>\n  <td>1d6 S</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Brontosaurus</td>\n  <td>Tail</td>\n  <td>1d10 B</td>\n  <td>[Trip](/Traits.aspx?ID=716), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Crab</td>\n  <td rowspan=\"2\">Big Claw</td>\n  <td rowspan=\"2\">1d10 B</td>\n  <td rowspan=\"2\">[Razing](/Traits.aspx?ID=784), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Claw</td>\n  <td>1d4 S</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Crocodile</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Tail</td>\n  <td>1d6 B</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Orca</td>\n  <td>Jaws</td>\n  <td>1d8 P</td>\n  <td>[Forceful](/Traits.aspx?ID=611), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Scorpion</td>\n  <td rowspan=\"2\">Stinger</td>\n  <td rowspan=\"2\">1d6 P</td>\n  <td rowspan=\"2\">[Reach](/Traits.aspx?ID=684), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Pincer</td>\n  <td>1d4 S</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Seal</td>\n  <td>Jaws</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Spider</td>\n  <td rowspan=\"2\">Fangs</td>\n  <td rowspan=\"2\">1d8 P</td>\n  <td rowspan=\"2\">[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Web</td>\n  <td>Special*</td>\n  <td>[Range increment 15 feet](/Traits.aspx?ID=248)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Tyrannosaurus</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d8 P</td>\n  <td rowspan=\"2\">[Deadly d12](/Traits.aspx?ID=570), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Tail</td>\n  <td>1d6 B</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Wasp</td>\n  <td>Stinger</td>\n  <td>1d4 P</td>\n  <td>[Backstabber](/Traits.aspx?ID=544), [deadly d8](/Traits.aspx?ID=570), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n</table>\n* The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead [immobilized](/Conditions.aspx?ID=81) until they succeed at a check to [Escape](/Actions.aspx?ID=2296) against your class DC.\n</row>\r\n\r\n<title level=\"2\" >Anathema</title>\r\nFlagrantly disrespecting an [animal](/Traits.aspx?ID=9) of your chosen kind is anathema to your instinct, as is using weapons while raging.\n\n<title level=\"2\" >Bestial Rage (Instinct Ability)</title>\r\nWhen you [Rage](/Actions.aspx?ID=3), you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3–3: Animal Instincts. These attacks are in the [brawling](/WeaponGroups.aspx?ID=4) group. Your [Rage](/Actions.aspx?ID=3) action gains the [morph](/Traits.aspx?ID=113), [primal](/Traits.aspx?ID=134), and [transmutation](/Traits.aspx?ID=157) traits.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from [Rage](/Actions.aspx?ID=3) from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain [reach 10 feet](/Traits.aspx?ID=192). If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal's unarmed attacks.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist piercing and slashing damage.",
+  "name": "Animal",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 86",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "instinct-8"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe fury of a wild predator fills you when you  Rage , granting you ferocious unarmed attacks. Cultures that revere vicious  animals  (such as  apes  …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 86"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "The fury of a wild predator fills you when you  Rage , granting you ferocious unarmed attacks. Cultures that revere vicious  animals  (such as  apes  …",
+  "summary_markdown": "The fury of a wild predator fills you when you  Rage , granting you ferocious unarmed attacks. Cultures that revere vicious  animals  (such as  apes  …",
+  "text": " Animal Source Core Rulebook pg. 86 4.0 The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from Table 3–3: Animal Instincts that best matches your chosen animal. ## Table 3-3: Animal Instincts Animal Attack Damage Traits Ape Fist 1d10 B Grapple, unarmed Bear Jaws 1d10 P Unarmed Claw 1d6 S Agile, unarmed Bull Horn 1d10 P Shove, unarmed Cat Jaws 1d10 P Unarmed Claw 1d6 S Agile, unarmed Deer Antler 1d10 P Grapple, unarmed Frog Jaws 1d10 B Unarmed Tongue 1d4 B Agile, unarmed Shark Jaws 1d10 P Grapple, unarmed Snake Fangs 1d10 P Grapple, unarmed Wolf Jaws 1d10 P Trip, unarmed ## Howl of the Wild Animal Instinct Options Animal Attack Damage Traits Ankylosaurus Tail 1d10 B Razing, unarmed Ant Mandibles 1d10 P Grapple, unarmed Bat Fangs 1d10 P Unarmed Wings 1d4 P Parry, unarmed Bird Beak 1d10 P Unarmed Talon 1d6 S Agile, unarmed Brontosaurus Tail 1d10 B Trip, unarmed Crab Big Claw 1d10 B Razing, unarmed Claw 1d4 S Parry, unarmed Crocodile Jaws 1d10 P Unarmed Tail 1d6 B Agile, unarmed Orca Jaws 1d8 P Forceful, unarmed Scorpion Stinger 1d6 P Reach, unarmed, venomous Pincer 1d4 S Parry, unarmed Seal Jaws 1d10 P Grapple, unarmed Spider Fangs 1d8 P Grapple, unarmed, venomous Web Special Range increment 15 feet Tyrannosaurus Jaws 1d8 P Deadly d12, unarmed Tail 1d6 B Agile, unarmed Wasp Stinger 1d4 P Backstabber, deadly d8, unarmed, venomous The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead immobilized until they succeed at a check to Escape against your class DC. Anathema Flagrantly disrespecting an animal of your chosen kind is anathema to your instinct, as is using weapons while raging. Bestial Rage (Instinct Ability) When you Rage, you gain your chosen animal's unarmed attack (or attacks). The specific attack gained, the damage it deals, and its traits are listed on Table 3–3: Animal Instincts. These attacks are in the brawling group. Your Rage action gains the morph, primal, and transmutation traits. Specialization Ability Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal's unarmed attacks. The frog's tongue attack and deer's antler attack gain reach 10 feet. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal's unarmed attacks. Raging Resistance You resist piercing and slashing damage.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-2",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Dragon](/Instincts.aspx?ID=2)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) The [_wyrmblessed_](/Bloodlines.aspx?ID=17) sorcerer bloodline provides options for primal and imperial dragons. Character with a similar draconic connection, such as draconic bloodline sorcerors or draconic instinct barbarians, can also select from these dragon types. You must own a copy of Lost Omens: The Mwangi Expanse to select these options._\r\n\r\nYou summon the fury of a mighty [dragon](/Traits.aspx?ID=50) and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in dragon's blood or after watching a marauding wyrm burn your village. Select a type of dragon from Table 3–4: Dragon Instincts to be your instinct's dragon type. Chromatic dragons tend to be evil, and metallic dragons tend to be good.\n\n## Table 3-4: Dragon Instincts\n<row gap=\"tiny\">\n<table> <tr><td>**Dragon Type**</td><td>**Category**</td><td>**Breath Weapon**</td></tr> <tr><td>[Black](/MonsterFamilies.aspx?ID=165)</td><td>Chromatic</td><td>Line of acid</td></tr> <tr><td>[Blue](/MonsterFamilies.aspx?ID=166)</td><td>Chromatic</td><td>Line of electricity</td></tr> <tr><td>[Green](/MonsterFamilies.aspx?ID=167)</td><td>Chromatic</td><td>Cone of poison</td></tr> <tr><td>[Red](/MonsterFamilies.aspx?ID=168)</td><td>Chromatic</td><td>Cone of fire</td></tr> <tr><td>[White](/MonsterFamilies.aspx?ID=169)</td><td>Chromatic</td><td>Cone of cold</td></tr> <tr><td>[Brass](/MonsterFamilies.aspx?ID=170)</td><td>Metallic</td><td>Line of fire</td></tr> <tr><td>[Bronze](/MonsterFamilies.aspx?ID=171)</td><td>Metallic</td><td>Line of electricity</td></tr> <tr><td>[Copper](/MonsterFamilies.aspx?ID=172)</td><td>Metallic</td><td>Line of acid</td></tr> <tr><td>[Gold](/MonsterFamilies.aspx?ID=173)</td><td>Metallic</td><td>Cone of fire</td></tr> <tr><td>[Silver](/MonsterFamilies.aspx?ID=174)</td><td>Metallic</td><td>Cone of cold</td></tr> </table></row>\r\n\r\n<title level=\"2\" >Anathema</title>\r\nLetting a personal insult against you slide is anathema to your instinct. Choose whether your character respects or abhors your dragon type. If you respect it, defying such a dragon is anathema, and if you abhor it, failing to defeat such a dragon you come across is anathema.\r\n\r\n<title level=\"2\" >Draconic Rage (Instinct Ability)</title>\r\nWhile raging, you can increase the additional damage from [Rage](/Actions.aspx?ID=3) from 2 to 4 and change its damage type to match that of your dragon's breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the [arcane](/Traits.aspx?ID=11) and [evocation](/Traits.aspx?ID=65) traits, as well as the trait matching the damage type.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nWhen you use draconic rage, you increase the additional damage from [Rage](/Actions.aspx?ID=3) from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist piercing damage and the damage type of your dragon’s breath weapon.",
+  "name": "Dragon",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 86",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "instinct-9"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou summon the fury of a mighty  dragon  and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 86"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 86 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "You summon the fury of a mighty  dragon  and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your …",
+  "summary_markdown": "You summon the fury of a mighty  dragon  and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your …",
+  "text": " Dragon Source Core Rulebook pg. 86 4.0 PFS Note The wyrmblessed sorcerer bloodline provides options for primal and imperial dragons. Character with a similar draconic connection, such as draconic bloodline sorcerors or draconic instinct barbarians, can also select from these dragon types. You must own a copy of Lost Omens: The Mwangi Expanse to select these options. You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained your connection by drinking or bathing in dragon's blood or after watching a marauding wyrm burn your village. Select a type of dragon from Table 3–4: Dragon Instincts to be your instinct's dragon type. Chromatic dragons tend to be evil, and metallic dragons tend to be good. ## Table 3-4: Dragon Instincts Dragon Type Category Breath Weapon Black Chromatic Line of acid Blue Chromatic Line of electricity Green Chromatic Cone of poison Red Chromatic Cone of fire White Chromatic Cone of cold Brass Metallic Line of fire Bronze Metallic Line of electricity Copper Metallic Line of acid Gold Metallic Cone of fire Silver Metallic Cone of cold Anathema Letting a personal insult against you slide is anathema to your instinct. Choose whether your character respects or abhors your dragon type. If you respect it, defying such a dragon is anathema, and if you abhor it, failing to defeat such a dragon you come across is anathema. Draconic Rage (Instinct Ability) While raging, you can increase the additional damage from Rage from 2 to 4 and change its damage type to match that of your dragon's breath weapon instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the arcane and evocation traits, as well as the trait matching the damage type. Specialization Ability When you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16. Raging Resistance You resist piercing damage and the damage type of your dragon’s breath weapon.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-3",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Fury](/Instincts.aspx?ID=3)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\n\nYour rage comes from a deep and purely personal well within you. You use your rage as you choose.\r\n\r\n<title level=\"2\" >Anathema and Instinct Ability</title>\r\nYou don't have an anathema or an instinct ability. Instead, you gain an additional 1st-level [barbarian feat](/Feats.aspx?Traits=18).\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the additional damage from [Rage](/Actions.aspx?ID=3) from 2 to 6. If you have greater weapon specialization, instead increase the additional damage from Rage to 12.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).",
+  "name": "Fury",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 87",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "instinct-10"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour rage comes from a deep and purely personal well within you. You use your rage as you choose.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 87"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your rage comes from a deep and purely personal well within you. You use your rage as you choose.",
+  "summary_markdown": "Your rage comes from a deep and purely personal well within you. You use your rage as you choose.",
+  "text": " Fury Source Core Rulebook pg. 87 4.0 Your rage comes from a deep and purely personal well within you. You use your rage as you choose. Anathema and Instinct Ability You don't have an anathema or an instinct ability. Instead, you gain an additional 1st-level barbarian feat. Specialization Ability Increase the additional damage from Rage from 2 to 6. If you have greater weapon specialization, instead increase the additional damage from Rage to 12. Raging Resistance You resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-4",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Giant](/Instincts.aspx?ID=4)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\n\nYour rage gives you the raw power and size of a [giant](/Traits.aspx?ID=79). This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego.\r\n\r\n<title level=\"2\" >Anathema</title>\r\nFailing to face a personal challenge of strength is anathema.\r\n\r\n<title level=\"2\" >Titan Mauler (Instinct Ability)</title>\r\nYou can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you're not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to this larger weapon, which can be of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a [weapon of its size](/Rules.aspx?ID=258). When wielding such a weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the clumsy 1 condition because of the weapon's unwieldy size. You can't remove this clumsy condition or ignore its penalties by any means while wielding the weapon.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage from [Rage](/Actions.aspx?ID=3) when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist bludgeoning damage and your choice of cold, electricity, or fire, chosen when you gain raging resistance.",
+  "name": "Giant",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 87",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "instinct-11"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour rage gives you the raw power and size of a  giant . This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 87"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Your rage gives you the raw power and size of a  giant . This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to …",
+  "summary_markdown": "Your rage gives you the raw power and size of a  giant . This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to …",
+  "text": " Giant Source Core Rulebook pg. 87 4.0 Your rage gives you the raw power and size of a giant. This doesn't necessarily mean you revere giants—you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego. Anathema Failing to face a personal challenge of strength is anathema. Titan Mauler (Instinct Ability) You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you're not Small or Medium, you can use a weapon built for a creature one size larger than you. You gain access to this larger weapon, which can be of any weapon type otherwise available at character creation. It has the normal Price and Bulk for a weapon of its size. When wielding such a weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the clumsy 1 condition because of the weapon's unwieldy size. You can't remove this clumsy condition or ignore its penalties by any means while wielding the weapon. Specialization Ability Increase the damage from Rage when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18. Raging Resistance You resist bludgeoning damage and your choice of cold, electricity, or fire, chosen when you gain raging resistance.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-5",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Spirit](/Instincts.aspx?ID=5)</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\n\nWhether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession.\r\n\r\n<title level=\"2\" >Anathema</title>\r\nDisrespecting corpses or spirits is anathema to your instinct; defending yourself against [undead](/Traits.aspx?ID=160) creatures is not.\r\n\r\n<title level=\"2\" >Spirit Rage (Instinct Ability)</title>\r\nWhile raging, you can increase the additional damage from [Rage](/Actions.aspx?ID=3) from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the [_ghost touch_](/Equipment.aspx?ID=297) property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the [divine](/Traits.aspx?ID=48) and [necromancy](/Traits.aspx?ID=117) traits, plus [negative](/Traits.aspx?ID=118) or [positive](/Traits.aspx?ID=128), as appropriate.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nWhen using spirit rage, increase the damage from [Rage](/Actions.aspx?ID=3) from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist negative damage, as well as damage dealt by the attacks and abilities of [undead](/Traits.aspx?ID=160) creatures, regardless of the damage type.",
+  "name": "Spirit",
+  "pfs": "Standard",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 87",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "remaster_id": [
+   "instinct-12"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 87"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 87 <sup>4.0</sup>",
+  "speed": {},
+  "summary": "Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …",
+  "summary_markdown": "Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …",
+  "text": " Spirit Source Core Rulebook pg. 87 4.0 Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession. Anathema Disrespecting corpses or spirits is anathema to your instinct; defending yourself against undead creatures is not. Spirit Rage (Instinct Ability) While raging, you can increase the additional damage from Rage from 2 to 3 and change its damage type to negative or positive, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal negative or positive damage, your weapon or unarmed attack gains the effects of the ghost touch property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the divine and necromancy traits, plus negative or positive, as appropriate. Specialization Ability When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13. Raging Resistance You resist negative damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-6",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Superstition](/Instincts.aspx?ID=6)</title>\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup>\r\n\r\n_[**PFS Note**](/pathfinder-society) Given the slightly relaxed rules around edicts and anathema in Society play, a barbarian with the superstition instinct can benefit from spells and magic items if they are an unavoidable part of a Society adventure, such as if a scenario assumes the PCs are transported to their mission location via a teleport spell, or if an adventure requires that all PCs participate in a magical ritual._\r\n\r\nA deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts.\r\n\r\n<title level=\"2\" >Anathema</title>\r\nWillingly accepting the effects of magic spells (including from scrolls, wands, and the like), even from your allies, is anathema to your instinct. You can still drink potions and invest and activate most magic items you find, though items that cast spells are subject to the same restrictions as all other spells. If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your instinct.\r\n\r\n<title level=\"2\" >Superstitious Resilience (Instinct Ability)</title>\r\nWhile raging, you gain a +2 status bonus to all saves against magic. Increase your damage from [Rage](/Actions.aspx?ID=3) from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage from [Rage](/Actions.aspx?ID=3) from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nChoose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.",
+  "name": "Superstition",
+  "pfs": "Standard",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 108",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "remaster_id": [
+   "instinct-13"
+  ],
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 108"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 108 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family …",
+  "summary_markdown": "A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family …",
+  "text": " Superstition Source Advanced Player's Guide pg. 108 2.0 PFS Note Given the slightly relaxed rules around edicts and anathema in Society play, a barbarian with the superstition instinct can benefit from spells and magic items if they are an unavoidable part of a Society adventure, such as if a scenario assumes the PCs are transported to their mission location via a teleport spell, or if an adventure requires that all PCs participate in a magical ritual. A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you're a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Your extremely restrictive anathema grants you powers beyond those of other instincts. Anathema Willingly accepting the effects of magic spells (including from scrolls, wands, and the like), even from your allies, is anathema to your instinct. You can still drink potions and invest and activate most magic items you find, though items that cast spells are subject to the same restrictions as all other spells. If an ally insists on using magic on you despite your unwillingness, and you have no reason to believe they will stop, continuing to travel with that ally of your own free will counts as willingly accepting their spells (as do similar circumstances) and thus is also anathema to your instinct. Superstitious Resilience (Instinct Ability) While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 4 against creatures that can cast spells. Once every 10 minutes, when you Rage, you regain Hit Points equal to the temporary Hit Points you gain from that Rage action. Specialization Ability Increase the damage from Rage from 4 to 8 against creatures that can cast spells. If you have greater raging specialization, instead increase the damage from Rage to 12 against creatures with spells and 8 against other creatures. Raging Resistance Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-7",
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Elemental](/Instincts.aspx?ID=7)</title>\r\n\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 54 <sup>2.0</sup>\n\nThis instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your ancestors were elemental conjurers or blessed by an elemental lord. Select an element from the Elemental Instincts table to be your instinct's element. If your element offers multiple damage types, choose one of those type when you select your element.\n\n## Elemental Instincts\n<row gap=\"tiny\">\n<table><tr><td>**Element**</td><td>**Trait**</td><td>**Damage**</td></tr> <tr><td>Air</td><td>Air</td><td>Electricity or slashing</td></tr> <tr><td>Earth</td><td>Earth</td><td>Bludgeoning or piercing</td></tr> <tr><td>Fire</td><td>Fire</td><td>Fire</td></tr> <tr><td>Metal</td><td>Metal</td><td>Piercing or slashing</td></tr> <tr><td>Water</td><td>Water</td><td>Bludgeoning or cold</td></tr> <tr><td>Wood</td><td>Wood</td><td>Bludgeoning or piercing</td></tr></table></row>\r\n\r\n<title level=\"2\" >Anathema</title>\r\nDisrespecting an elemental creature is anathema to your instinct; defending yourself against one is not. Purposefully despoiling the elemental plane associated with your element is anathema to your instinct, though this doesn't prevent you from responsibly altering that plane.\r\n\r\n<title level=\"2\" >Elemental Rage (Instinct Ability)</title>\r\nWhile raging, you're cloaked in a vortex of elemental matter; you become [concealed](/Conditions.aspx?ID=4) against ranged attacks. You can't use this concealment to [Hide](/Actions.aspx?ID=62) or [Sneak](/Actions.aspx?ID=63). While raging, you increase the additional damage from [Rage](/Actions.aspx?ID=3) from 2 to 4 and change its damage type to the one you selected for your element.\n\n If you have any [kineticist](/Classes.aspx?ID=23) [impulses](/Traits.aspx?ID=502) with the same element type as the one you chose for your instinct, such as ones gained by taking the Kineticist Dedication multiclass feat, they gain the [rage](/Traits.aspx?ID=680) trait.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nWhen you use elemental rage, you increase the damage from [Rage](/Actions.aspx?ID=3) from 4 to 6. If you have greater weapon specialization, instead increase the damage from Rage when using elemental rage from 6 to 12.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist the damage dealt by attacks and abilities of elemental creatures of your chosen element, as well as creatures made of your element, regardless of the damage type. You also resist damage dealt by attacks, spells, and abilities with your elemental trait.",
+  "name": "Elemental",
+  "pfs": "Standard",
+  "primary_source": "Rage of Elements",
+  "primary_source_raw": "Rage of Elements pg. 54",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-08-02",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Rage of Elements](/Sources.aspx?ID=205) pg. 54 <sup>2.0</sup>\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Rage of Elements"
+  ],
+  "source_raw": [
+   "Rage of Elements pg. 54"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Rage of Elements](/Sources.aspx?ID=205) pg. 54 <sup>2.0</sup>",
+  "speed": {},
+  "summary": "This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your …",
+  "summary_markdown": "This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your …",
+  "text": " Elemental Source Rage of Elements pg. 54 2.0 This instinct option for barbarians allows you to channel elemental forces, bonding with a single element and its associated plane. Perhaps your ancestors were elemental conjurers or blessed by an elemental lord. Select an element from the Elemental Instincts table to be your instinct's element. If your element offers multiple damage types, choose one of those type when you select your element. ## Elemental Instincts Element Trait Damage Air Air Electricity or slashing Earth Earth Bludgeoning or piercing Fire Fire Fire Metal Metal Piercing or slashing Water Water Bludgeoning or cold Wood Wood Bludgeoning or piercing Anathema Disrespecting an elemental creature is anathema to your instinct; defending yourself against one is not. Purposefully despoiling the elemental plane associated with your element is anathema to your instinct, though this doesn't prevent you from responsibly altering that plane. Elemental Rage (Instinct Ability) While raging, you're cloaked in a vortex of elemental matter; you become concealed against ranged attacks. You can't use this concealment to Hide or Sneak. While raging, you increase the additional damage from Rage from 2 to 4 and change its damage type to the one you selected for your element. If you have any kineticist impulses with the same element type as the one you chose for your instinct, such as ones gained by taking the Kineticist Dedication multiclass feat, they gain the rage trait. Specialization Ability When you use elemental rage, you increase the damage from Rage from 4 to 6. If you have greater weapon specialization, instead increase the damage from Rage when using elemental rage from 6 to 12. Raging Resistance You resist the damage dealt by attacks and abilities of elemental creatures of your chosen element, as well as creatures made of your element, regardless of the damage type. You also resist damage dealt by attacks, spells, and abilities with your elemental trait.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-8",
+  "legacy_id": [
+   "instinct-1"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Animal](/Instincts.aspx?ID=8)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 74\n\nThe fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from the Animal Instincts table that best matches your chosen animal.\n\n## Animal Instincts\n<row gap=\"tiny\">\n<table> \r\n<tr>\r\n  <th>Animal</th>\r\n  <th>Attack</th>\r\n  <th>Damage</th>\r\n  <th>Traits</th>\r\n</tr>\r\n<tr>\r\n  <td>Ape</td>\r\n  <td>Fist</td>\r\n  <td>1d10 B</td>\r\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td rowspan=\"3\">Bear</td>\r\n  <td rowspan=\"2\">Jaws</td>\r\n  <td rowspan=\"2\">1d10 P</td>\r\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr></tr>\r\n<tr>\r\n  <td>Claw</td>\r\n  <td>1d6 S</td>\r\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td>Bull</td>\r\n  <td>Horn</td>\r\n  <td>1d10 P</td>\r\n  <td>[Shove](/Traits.aspx?ID=694), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td rowspan=\"3\">Cat</td>\r\n  <td rowspan=\"2\">Jaws</td>\r\n  <td rowspan=\"2\">1d10 P</td>\r\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr></tr>\r\n<tr>\r\n  <td>Claw</td>\r\n  <td>1d6 S</td>\r\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td>Deer</td>\r\n  <td>Antler</td>\r\n  <td>1d10 P</td>\r\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td rowspan=\"3\">Frog</td>\r\n  <td rowspan=\"2\">Jaws</td>\r\n  <td rowspan=\"2\">1d10 B</td>\r\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr></tr>\r\n<tr>\r\n  <td>Tongue</td>\r\n  <td>1d4 B</td>\r\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td>Shark</td>\r\n  <td>Jaws</td>\r\n  <td>1d10 P</td>\r\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td>Snake</td>\r\n  <td>Fangs</td>\r\n  <td>1d10 P</td>\r\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr>\r\n<tr>\r\n  <td>Wolf</td>\r\n  <td>Jaws</td>\r\n  <td>1d10 P</td>\r\n  <td>[Trip](/Traits.aspx?ID=716), [unarmed](/Traits.aspx?ID=719)</td>\r\n</tr></table>\r\n</row>\n\n## Howl of the Wild Animal Instinct Options\n<row gap=\"tiny\">\n<table>\n<tr>\n  <th>Animal</th>\n  <th>Attack</th>\n  <th>Damage</th>\n  <th>Traits</th>\n</tr>\n<tr>\n  <td>Ankylosaurus</td>\n  <td>Tail</td>\n  <td>1d10 B</td>\n  <td>[Razing](/Traits.aspx?ID=784), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Ant</td>\n  <td>Mandibles</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Bat</td>\n  <td rowspan=\"2\">Fangs</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Wings</td>\n  <td>1d4 P</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Bird</td>\n  <td rowspan=\"2\">Beak</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Talon</td>\n  <td>1d6 S</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Brontosaurus</td>\n  <td>Tail</td>\n  <td>1d10 B</td>\n  <td>[Trip](/Traits.aspx?ID=716), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Crab</td>\n  <td rowspan=\"2\">Big Claw</td>\n  <td rowspan=\"2\">1d10 B</td>\n  <td rowspan=\"2\">[Razing](/Traits.aspx?ID=784), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Claw</td>\n  <td>1d4 S</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Crocodile</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d10 P</td>\n  <td rowspan=\"2\">[Unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Tail</td>\n  <td>1d6 B</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Orca</td>\n  <td>Jaws</td>\n  <td>1d8 P</td>\n  <td>[Forceful](/Traits.aspx?ID=611), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Scorpion</td>\n  <td rowspan=\"2\">Stinger</td>\n  <td rowspan=\"2\">1d6 P</td>\n  <td rowspan=\"2\">[Reach](/Traits.aspx?ID=684), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Pincer</td>\n  <td>1d4 S</td>\n  <td>[Parry](/Traits.aspx?ID=667), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Seal</td>\n  <td>Jaws</td>\n  <td>1d10 P</td>\n  <td>[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Spider</td>\n  <td rowspan=\"2\">Fangs</td>\n  <td rowspan=\"2\">1d8 P</td>\n  <td rowspan=\"2\">[Grapple](/Traits.aspx?ID=619), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Web</td>\n  <td>Special*</td>\n  <td>[Range increment 15 feet](/Traits.aspx?ID=248)</td>\n</tr>\n<tr>\n  <td rowspan=\"3\">Tyrannosaurus</td>\n  <td rowspan=\"2\">Jaws</td>\n  <td rowspan=\"2\">1d8 P</td>\n  <td rowspan=\"2\">[Deadly d12](/Traits.aspx?ID=570), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr></tr>\n<tr>\n  <td>Tail</td>\n  <td>1d6 B</td>\n  <td>[Agile](/Traits.aspx?ID=526), [unarmed](/Traits.aspx?ID=719)</td>\n</tr>\n<tr>\n  <td>Wasp</td>\n  <td>Stinger</td>\n  <td>1d4 P</td>\n  <td>[Backstabber](/Traits.aspx?ID=544), [deadly d8](/Traits.aspx?ID=570), [unarmed](/Traits.aspx?ID=719), [venomous](/Traits.aspx?ID=785)</td>\n</tr>\n</table>\n* The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead [immobilized](/Conditions.aspx?ID=81) until they succeed at a check to [Escape](/Actions.aspx?ID=2296) against your class DC.\n</row>\r\n\r\n<title level=\"2\" >Instinct Ability—Bestial Rage</title>\r\nWhile raging, you gain your chosen animal’s unarmed attack (or attacks), but you’re unable to use weapons. The specific attack gained, the damage it deals, and its traits are listed in the Animal Instincts table. These attacks are in the [brawling](/WeaponGroups.aspx?ID=4) group. Your Rage action gains the [morph](/Traits.aspx?ID=657) and [primal](/Traits.aspx?ID=676) traits.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal’s unarmed attacks. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal’s unarmed attacks.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist piercing and slashing damage",
+  "name": "Animal",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 74\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 74",
+  "speed": {},
+  "summary": "The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or …",
+  "summary_markdown": "The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or …",
+  "text": " Animal Source Player Core 2 pg. 74 The fury of a wild predator fills you when you Rage, granting you ferocious unarmed attacks. Cultures that revere vicious animals (such as apes or bears) give rise to barbarians with this instinct. You might also be at war with an uncontrollable, animalistic side of your personality, or you might be a descendant of a werewolf or another werecreature. Select an animal from the Animal Instincts table that best matches your chosen animal. ## Animal Instincts Animal Attack Damage Traits Ape Fist 1d10 B Grapple, unarmed Bear Jaws 1d10 P Unarmed Claw 1d6 S Agile, unarmed Bull Horn 1d10 P Shove, unarmed Cat Jaws 1d10 P Unarmed Claw 1d6 S Agile, unarmed Deer Antler 1d10 P Grapple, unarmed Frog Jaws 1d10 B Unarmed Tongue 1d4 B Agile, unarmed Shark Jaws 1d10 P Grapple, unarmed Snake Fangs 1d10 P Grapple, unarmed Wolf Jaws 1d10 P Trip, unarmed ## Howl of the Wild Animal Instinct Options Animal Attack Damage Traits Ankylosaurus Tail 1d10 B Razing, unarmed Ant Mandibles 1d10 P Grapple, unarmed Bat Fangs 1d10 P Unarmed Wings 1d4 P Parry, unarmed Bird Beak 1d10 P Unarmed Talon 1d6 S Agile, unarmed Brontosaurus Tail 1d10 B Trip, unarmed Crab Big Claw 1d10 B Razing, unarmed Claw 1d4 S Parry, unarmed Crocodile Jaws 1d10 P Unarmed Tail 1d6 B Agile, unarmed Orca Jaws 1d8 P Forceful, unarmed Scorpion Stinger 1d6 P Reach, unarmed, venomous Pincer 1d4 S Parry, unarmed Seal Jaws 1d10 P Grapple, unarmed Spider Fangs 1d8 P Grapple, unarmed, venomous Web Special Range increment 15 feet Tyrannosaurus Jaws 1d8 P Deadly d12, unarmed Tail 1d6 B Agile, unarmed Wasp Stinger 1d4 P Backstabber, deadly d8, unarmed, venomous The spider’s web attack deals no damage, but the target takes a –10-foot circumstance penalty to its Speeds for 1 round on a hit. If a target is hit a second time by the same character’s web attack while they have this penalty, they’re instead immobilized until they succeed at a check to Escape against your class DC. Instinct Ability—Bestial Rage While raging, you gain your chosen animal’s unarmed attack (or attacks), but you’re unable to use weapons. The specific attack gained, the damage it deals, and its traits are listed in the Animal Instincts table. These attacks are in the brawling group. Your Rage action gains the morph and primal traits. Specialization Ability Increase the damage die size for the unarmed attacks granted by your chosen animal by one step, and increase the additional damage from Rage from 2 to 5 for your chosen animal’s unarmed attacks. If you have greater weapon specialization, increase the damage from Rage from 5 to 12 for your chosen animal’s unarmed attacks. Raging Resistance You resist piercing and slashing damage",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-9",
+  "legacy_id": [
+   "instinct-2"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Dragon](/Instincts.aspx?ID=9)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 74\n\nYou summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by drinking or bathing in dragon’s blood or watching a marauding wyrm burn your village. Select a type of dragon from the Dragon Instincts table as your instinct’s dragon type. These are the dragons from _[Monster Core](/Sources.aspx?ID=221)_, but your GM might allow you to choose dragons from other sources and determine their tradition and dragon breath type.\n\n## Dragon Instincts\n<row gap=\"tiny\">\n<table> \r\n<tr>\r\n  <th>Dragon</th>\r\n  <th>Tradition</th>\r\n  <th>Dragon Breath</th>\r\n</tr>\r\n<tr>\r\n  <td>[Adamantine](/MonsterFamilies.aspx?ID=396)</td>\r\n  <td>[Primal](/Traits.aspx?ID=676)</td>\r\n  <td>Bludgeoning</td>\r\n</tr>\r\n<tr>\r\n  <td>[Conspirator](/MonsterFamilies.aspx?ID=397)</td>\r\n  <td>[Occult](/Traits.aspx?ID=662)</td>\r\n  <td>[Poison](/Traits.aspx?ID=669)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Diabolic](/MonsterFamilies.aspx?ID=398)</td>\r\n  <td>[Divine](/Traits.aspx?ID=579)</td>\r\n  <td>[Fire](/Traits.aspx?ID=604)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Empyreal](/MonsterFamilies.aspx?ID=399)</td>\r\n  <td>[Divine](/Traits.aspx?ID=579)</td>\r\n  <td>[Spirit](/Traits.aspx?ID=737)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Fortune](/MonsterFamilies.aspx?ID=400)</td>\r\n  <td>[Arcane](/Traits.aspx?ID=534)</td>\r\n  <td>[Force](/Traits.aspx?ID=610)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Horned](/MonsterFamilies.aspx?ID=401)</td>\r\n  <td>[Primal](/Traits.aspx?ID=676)</td>\r\n  <td>[Poison](/Traits.aspx?ID=669)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Mirage](/MonsterFamilies.aspx?ID=402)</td>\r\n  <td>[Arcane](/Traits.aspx?ID=534)</td>\r\n  <td>[Mental](/Traits.aspx?ID=647)</td>\r\n</tr>\r\n<tr>\r\n  <td>[Omen](/MonsterFamilies.aspx?ID=403)</td>\r\n  <td>[Occult](/Traits.aspx?ID=662)</td>\r\n  <td>[Mental](/Traits.aspx?ID=647)</td>\r\n</tr>\r\n</table>\r\n</row>\r\n\r\n<title level=\"2\" >Instinct Ability—Draconic Rage</title>\r\nWhile raging, you can increase the additional damage from Rage from 2 to 4 and change its damage type to match that of your instinct’s dragon breath instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the trait matching your dragon instinct’s tradition, as well as the trait matching the damage type where applicable.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nWhen you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist piercing damage and the damage type of your instinct’s dragon breath.",
+  "name": "Dragon",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 74",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 74\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYou summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 74"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 74",
+  "speed": {},
+  "summary": "You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by …",
+  "summary_markdown": "You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by …",
+  "text": " Dragon Source Player Core 2 pg. 74 You summon the fury of a mighty dragon and manifest incredible abilities. Perhaps your culture reveres draconic majesty, or you gained insights by drinking or bathing in dragon’s blood or watching a marauding wyrm burn your village. Select a type of dragon from the Dragon Instincts table as your instinct’s dragon type. These are the dragons from Monster Core , but your GM might allow you to choose dragons from other sources and determine their tradition and dragon breath type. ## Dragon Instincts Dragon Tradition Dragon Breath Adamantine Primal Bludgeoning Conspirator Occult Poison Diabolic Divine Fire Empyreal Divine Spirit Fortune Arcane Force Horned Primal Poison Mirage Arcane Mental Omen Occult Mental Instinct Ability—Draconic Rage While raging, you can increase the additional damage from Rage from 2 to 4 and change its damage type to match that of your instinct’s dragon breath instead of the damage type for your weapon or unarmed attack. If you do this, your Rage action gains the trait matching your dragon instinct’s tradition, as well as the trait matching the damage type where applicable. Specialization Ability When you use draconic rage, you increase the additional damage from Rage from 4 to 8. If you have greater weapon specialization, instead increase the damage from Rage when using draconic rage from 8 to 16. Raging Resistance You resist piercing damage and the damage type of your instinct’s dragon breath.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-10",
+  "legacy_id": [
+   "instinct-3"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Fury](/Instincts.aspx?ID=10)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\n\nYour rage comes from a deep and purely personal well within you. You use your rage as you choose.\r\n\r\n<title level=\"2\" >Instinct Ability—Unstoppable Frenzy</title>\r\nIncrease the additional damage from Rage from 2 to 3. You gain a bonus 1st-level barbarian feat.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the additional damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the additional damage from Rage to 13.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).",
+  "name": "Fury",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour rage comes from a deep and purely personal well within you. You use your rage as you choose.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 75",
+  "speed": {},
+  "summary": "Your rage comes from a deep and purely personal well within you. You use your rage as you choose.",
+  "summary_markdown": "Your rage comes from a deep and purely personal well within you. You use your rage as you choose.",
+  "text": " Fury Source Player Core 2 pg. 75 Your rage comes from a deep and purely personal well within you. You use your rage as you choose. Instinct Ability—Unstoppable Frenzy Increase the additional damage from Rage from 2 to 3. You gain a bonus 1st-level barbarian feat. Specialization Ability Increase the additional damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the additional damage from Rage to 13. Raging Resistance You resist physical weapon damage, but not physical damage from other sources (such as unarmed attacks).",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-11",
+  "legacy_id": [
+   "instinct-4"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Giant](/Instincts.aspx?ID=11)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\n\nYour rage gives you the raw power and size of a giant. This doesn’t necessarily mean you revere giants—you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego.\r\n\r\n<title level=\"2\" >Instinct Ability—Titan Mauler</title>\r\nYou can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You start with one such weapon, which you receive for free. It must be a common melee or ranged weapon, it must have a Price of 9 gp or less (not including the Price adjustment for being a larger weapon), and it must be common or you must otherwise have access to it. It is your personal weapon and has no value if sold unless you later add runes to it, and it has the normal Bulk for a weapon of its [size](/Rules.aspx?ID=2163).\n\nWhen wielding a larger weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the [clumsy](/Conditions.aspx?ID=61) 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage from Rage when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist bludgeoning damage and your choice of cold, electricity, or fire, chosen when you gain raging resistance.",
+  "name": "Giant",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nYour rage gives you the raw power and size of a giant. This doesn’t necessarily mean you revere giants—you might scoff at them or even aspire to slay …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 75",
+  "speed": {},
+  "summary": "Your rage gives you the raw power and size of a giant. This doesn’t necessarily mean you revere giants—you might scoff at them or even aspire to slay …",
+  "summary_markdown": "Your rage gives you the raw power and size of a giant. This doesn’t necessarily mean you revere giants—you might scoff at them or even aspire to slay …",
+  "text": " Giant Source Player Core 2 pg. 75 Your rage gives you the raw power and size of a giant. This doesn’t necessarily mean you revere giants—you might scoff at them or even aspire to slay them! You could instead seem like a giant to other people due to your exceptional strength or larger-than-life emotions and ego. Instinct Ability—Titan Mauler You can use a weapon built for a Large creature if you are Small or Medium (both normally and when raging). If you’re not Small or Medium, you can use a weapon built for a creature one size larger than you. You start with one such weapon, which you receive for free. It must be a common melee or ranged weapon, it must have a Price of 9 gp or less (not including the Price adjustment for being a larger weapon), and it must be common or you must otherwise have access to it. It is your personal weapon and has no value if sold unless you later add runes to it, and it has the normal Bulk for a weapon of its size. When wielding a larger weapon in combat, increase your additional damage from Rage from 2 to 6, but you have the clumsy 1 condition because of the weapon’s unwieldy size. You can’t remove this clumsy condition or ignore its penalties by any means while wielding the weapon. Specialization Ability Increase the damage from Rage when using a larger weapon from 6 to 10; if you have greater weapon specialization, increase it from 10 to 18. Raging Resistance You resist bludgeoning damage and your choice of cold, electricity, or fire, chosen when you gain raging resistance.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-12",
+  "legacy_id": [
+   "instinct-5"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Spirit](/Instincts.aspx?ID=12)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\n\nWhether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession.\r\n\r\n<title level=\"2\" >Instinct Ability—Spirit Rage</title>\r\nWhile raging, you can increase the additional damage from Rage from 2 to 3 and change its damage type to spirit, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal spirit damage, your weapon or unarmed attack gains the effects of the [_ghost touch_](/Equipment.aspx?ID=2840) property rune, which makes it more effective against [incorporeal](/Traits.aspx?ID=632) creatures, and your Rage action gains the [divine](/Traits.aspx?ID=579) and [spirit](/Traits.aspx?ID=737) traits.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nWhen using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nYou resist void damage, as well as damage dealt by the attacks and abilities of [undead](/Traits.aspx?ID=722) creatures, regardless of the damage type.",
+  "name": "Spirit",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 75",
+  "speed": {},
+  "summary": "Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …",
+  "summary_markdown": "Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, …",
+  "text": " Spirit Source Player Core 2 pg. 75 Whether you are emotionally sensitive to the spirits around you; worship ancestors or apparitions; or are haunted by the specter of an ancestor, relative, friend, or foe, your rage takes the form of a spiritual possession. Instinct Ability—Spirit Rage While raging, you can increase the additional damage from Rage from 2 to 3 and change its damage type to spirit, instead of the damage type for your weapon or unarmed attack (choose each time you Rage). If you choose to deal spirit damage, your weapon or unarmed attack gains the effects of the ghost touch property rune, which makes it more effective against incorporeal creatures, and your Rage action gains the divine and spirit traits. Specialization Ability When using spirit rage, increase the damage from Rage from 3 to 7. If you have greater weapon specialization, instead increase the damage when using spirit rage to 13. Raging Resistance You resist void damage, as well as damage dealt by the attacks and abilities of undead creatures, regardless of the damage type.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "instinct",
+  "exclude_from_search": false,
+  "id": "instinct-13",
+  "legacy_id": [
+   "instinct-6"
+  ],
+  "markdown": "<title level=\"1\" right=\"Barbarian Instinct \" pfs=\"Standard\">[Superstition](/Instincts.aspx?ID=13)</title>\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\n\nA deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you’re a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts.\r\n\r\n<title level=\"2\" >Instinct Ability—Superstitious Resilience</title>\r\nYour deep superstition means it’s anathema for you to learn or [Cast a Spell](/Actions.aspx?ID=2734), or to wield or use an item that can be activated to Cast a Spell. If you violate this anathema, you lose the instinct’s abilities and any feats that list the instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all your other barbarian abilities.\n\nWhile raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are [frightened](/Conditions.aspx?ID=76) 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect.\r\n\r\n<title level=\"2\" right=\"Level 7\">Specialization Ability</title>\r\nIncrease the damage from Rage from 3 to 7, or 8 against creatures you have witnessed [Casting a Spell](/Actions.aspx?ID=2734) within the last hour. If you have greater raging specialization, instead increase the damage from Rage to 13, or 16 against creatures you have witnessed Casting a Spell within the last hour.\r\n\r\n<title level=\"2\" right=\"Level 9\">Raging Resistance</title>\r\nChoose two associated magical traditions: [arcane](/SpellLists.aspx?Tradition=1) and [occult](/SpellLists.aspx?Tradition=3), arcane and [primal](/SpellLists.aspx?Tradition=4), [divine](/SpellLists.aspx?Tradition=2) and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.",
+  "name": "Superstition",
+  "pfs": "Standard",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 75",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 75\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you’re a member of a superstitious family …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 75"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 75",
+  "speed": {},
+  "summary": "A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you’re a member of a superstitious family …",
+  "summary_markdown": "A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you’re a member of a superstitious family …",
+  "text": " Superstition Source Player Core 2 pg. 75 A deep distrust of magic drives you to forgo and counter the metaphysical nonsense of spellcasters. Whether you’re a member of a superstitious family or culture that distrusts magic, a warrior in constant battle against wizards and witches, a survivor of a magical accident that instilled an intense aversion in your mind and body, or a scion of a bloodline known for its magic resistance, your rage is inimical to magic. This makes you an excellent mage hunter but slow to trust practitioners of magical arts. Instinct Ability—Superstitious Resilience Your deep superstition means it’s anathema for you to learn or Cast a Spell, or to wield or use an item that can be activated to Cast a Spell. If you violate this anathema, you lose the instinct’s abilities and any feats that list the instinct as a prerequisite until you spend 1 day of downtime re-centering yourself, though you keep all your other barbarian abilities. While raging, you gain a +2 status bonus to all saves against magic. Increase your damage from Rage from 2 to 3, or 4 against creatures you have witnessed Casting a Spell within the last hour. When you Rage, you regain Hit Point equal to the temporary HP you gained from the Rage action; you then can’t regain HP in this way again for 10 minutes. While raging, if you willingly accept the effects of a magic spell or effect, you are frightened 1. You cannot reduce your frightened condition below 1 as long as you are affected by the spell or effect. Specialization Ability Increase the damage from Rage from 3 to 7, or 8 against creatures you have witnessed Casting a Spell within the last hour. If you have greater raging specialization, instead increase the damage from Rage to 13, or 16 against creatures you have witnessed Casting a Spell within the last hour. Raging Resistance Choose two associated magical traditions: arcane and occult, arcane and primal, divine and occult, or divine and primal. The resistance from your raging resistance class feature applies against all damage you take from spells cast with these two traditions of magic, regardless of the type of damage dealt by the spell.",
+  "type": "Barbarian Instinct",
+  "url": "/Instincts.aspx?ID=13",
+  "weakness": {}
+ }
+]

@@ -1,15 +1,15 @@
 <script setup lang="ts">
-import { computed, ref, watch } from 'vue';
-import { useRoute } from 'vue-router';
-import ContentItem from '@/components/content/ContentItem.vue';
-import { storeToRefs } from 'pinia';
-import { useContentStore } from '@/stores/content';
-import type { generalContent } from '@/types';
-import { isMobile, currentMobileMenu } from '@/utils';
-import MobileMainLayout from '@/components/layout/main/MobileMainLayout.vue';
+import { computed, ref, watch } from "vue";
+import { useRoute } from "vue-router";
+import ContentItem from "@/components/content/ContentItem.vue";
+import { storeToRefs } from "pinia";
+import { useContentStore } from "@/stores/content";
+import type { generalContent } from "@/types";
+import { isMobile, currentMobileMenu } from "@/utils";
+import MobileMainLayout from "@/components/layout/main/MobileMainLayout.vue";
 
 const route = useRoute()
-const id = computed(() => route.params.id as generalContent['id'])
+const id = computed(() => route.params.id as generalContent["id"])
 const contentStore = useContentStore()
 const {getItem} = contentStore
 const { isDataFetched } = storeToRefs(contentStore)

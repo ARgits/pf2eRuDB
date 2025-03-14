@@ -1,0 +1,1914 @@
+[
+ {
+  "bulk": 3.7,
+  "bulk_raw": "3 Bulk, 7 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-1",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Alchemist Kit](/Classes.aspx?Class=1)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 8 gp, 4 sp, 2 cp\r\n\r\n**Money Left Over** 6 gp, 5 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 7 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3), [Sling](/Weapons.aspx?ID=72), [20 sling bullets](/Weapons.aspx?ID=82)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Alchemist's Tools](/Equipment.aspx?ID=2), [Basic Crafter's Book](/Equipment.aspx?ID=6), [2 sets of caltrops](/Equipment.aspx?ID=9)\r\n\r\n**Options**\r\n[repair kit](/Equipment.aspx?ID=43) (2 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Alchemist Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/alchemist"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/alchemist/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/alchemist/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/alchemist/class-kit"
+   },
+   {
+    "label": "Research Fields",
+    "url": "/classes/alchemist/research-fields"
+   }
+  ],
+  "price": 842,
+  "price_raw": "8 gp, 4 sp, 2 cp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Alchemist Kit Source Core Rulebook pg. 289 4.0 Price 8 gp, 4 sp, 2 cp Money Left Over 6 gp, 5 sp, 8 cp Bulk 3, 7 light Armor Studded Leather Armor Weapons Dagger, Sling, 20 sling bullets Gear Adventurer's Pack, Alchemist's Tools, Basic Crafter's Book, 2 sets of caltrops Options repair kit (2 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.5,
+  "bulk_raw": "3 Bulk, 5 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-2",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Barbarian Kit](/Classes.aspx?Class=2)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 4 gp\r\n\r\n**Money Left Over** 11 gp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 5 light\r\n\r\n**Armor**\r\n[Hide Armor](/Armor.aspx?ID=7)\r\n\r\n**Weapons**\r\n[4 Javelins](/Weapons.aspx?ID=71)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Grappling Hook](/Equipment.aspx?ID=23)\r\n\r\n**Options**\r\n[greataxe](/Weapons.aspx?ID=21) (2 gp), [greatclub](/Weapons.aspx?ID=22) (1 gp), [greatsword](/Weapons.aspx?ID=24) (2 gp), or [battle axe](/Weapons.aspx?ID=16) and [steel shield](/Shields.aspx?ID=3) (3 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Barbarian Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/barbarian"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/barbarian/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/barbarian/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/barbarian/class-kit"
+   },
+   {
+    "label": "Instincts",
+    "url": "/classes/barbarian/instincts"
+   }
+  ],
+  "price": 400,
+  "price_raw": "4 gp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Barbarian Kit Source Core Rulebook pg. 289 4.0 Price 4 gp Money Left Over 11 gp Bulk 3, 5 light Armor Hide Armor Weapons 4 Javelins Gear Adventurer's Pack, Grappling Hook Options greataxe (2 gp), greatclub (1 gp), greatsword (2 gp), or battle axe and steel shield (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.4,
+  "bulk_raw": "4 Bulk, 4 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-3",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Bard Kit](/Classes.aspx?Class=3)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 7 gp, 5 sp, 2 cp\r\n\r\n**Money Left Over** 7 gp, 4 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 4 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3), [Rapier](/Weapons.aspx?ID=36), [Sling](/Weapons.aspx?ID=72), [20 Sling Bullets](/Weapons.aspx?ID=82)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Musical Instrument (Handheld)](/Equipment.aspx?ID=37)\n\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Bard Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/bard"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/bard/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/bard/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/bard/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/bard/focus-spells"
+   },
+   {
+    "label": "Muses",
+    "url": "/classes/bard/muses"
+   }
+  ],
+  "price": 752,
+  "price_raw": "7 gp, 5 sp, 2 cp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Bard Kit Source Core Rulebook pg. 289 4.0 Price 7 gp, 5 sp, 2 cp Money Left Over 7 gp, 4 sp, 8 cp Bulk 4, 4 light Armor Studded Leather Armor Weapons Dagger, Rapier, Sling, 20 Sling Bullets Gear Adventurer's Pack, Musical Instrument (Handheld) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.7,
+  "bulk_raw": "3 Bulk, 7 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-4",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Champion Kit](/Classes.aspx?Class=4)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 4 gp, 7 sp\r\n\r\n**Money Left Over** 10 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 7 light\r\n\r\n**Armor**\r\n[Hide Armor](/Armor.aspx?ID=7)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3), [4 Javelins](/Weapons.aspx?ID=71)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Crowbar](/Equipment.aspx?ID=18), [Grappling Hook](/Equipment.aspx?ID=23)\r\n\r\n**Options**\r\n[steel shield](/Shields.aspx?ID=3) (2 gp), your deity's favored weapon (see your [deities entry](Deities.aspx); use the Price listed in the weapon's entry)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Champion Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/champion"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/champion/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/champion/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/champion/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/champion/focus-spells"
+   },
+   {
+    "label": "Causes",
+    "url": "/classes/champion/causes"
+   },
+   {
+    "label": "Tenets",
+    "url": "/classes/champion/tenets"
+   }
+  ],
+  "price": 470,
+  "price_raw": "4 gp, 7 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Champion Kit Source Core Rulebook pg. 289 4.0 Price 4 gp, 7 sp Money Left Over 10 gp, 3 sp Bulk 3, 7 light Armor Hide Armor Weapons Dagger, 4 Javelins Gear Adventurer's Pack, Crowbar, Grappling Hook Options steel shield (2 gp), your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "bulk": 1.3,
+  "bulk_raw": "1 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-5",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Cleric Kit](/Classes.aspx?Class=5)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 2 gp, 2 sp\r\n\r\n**Money Left Over** 12 gp, 8 sp\r\n\r\n</row>\r\n\r\n**Bulk** 1, 3 light\n\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [2 sets of caltrops](/Equipment.aspx?ID=9), [Religious Symbol (Wooden)](/Equipment.aspx?ID=41)\r\n\r\n**Options**\r\nyour deity's favored weapon (see your [deities entry](Deities.aspx); use the Price listed in the weapon's entry), [hide armor](/Armor.aspx?ID=7) (2 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Cleric Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/cleric"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/cleric/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/cleric/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/cleric/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/cleric/focus-spells"
+   },
+   {
+    "label": "Doctrines",
+    "url": "/classes/cleric/doctrines"
+   }
+  ],
+  "price": 220,
+  "price_raw": "2 gp, 2 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Cleric Kit Source Core Rulebook pg. 289 4.0 Price 2 gp, 2 sp Money Left Over 12 gp, 8 sp Bulk 1, 3 light Gear Adventurer's Pack, 2 sets of caltrops, Religious Symbol (Wooden) Options your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry), hide armor (2 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.4,
+  "bulk_raw": "4 Bulk, 4 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-6",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Druid Kit](/Classes.aspx?Class=6)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 4 gp, 4 sp\r\n\r\n**Money Left Over** 10 gp, 6 sp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 4 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=4)\r\n\r\n**Weapons**\r\n[Longspear](/Weapons.aspx?ID=6), [4 Javelins](/Weapons.aspx?ID=71)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Holly and Mistletoe](/Equipment.aspx?ID=26)\r\n\r\n**Options**\r\n[healer's tools](/Equipment.aspx?ID=25) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Druid Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/druid"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/druid/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/druid/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/druid/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/druid/focus-spells"
+   },
+   {
+    "label": "Druidic Orders",
+    "url": "/classes/druid/druidic-orders"
+   }
+  ],
+  "price": 440,
+  "price_raw": "4 gp, 4 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Druid Kit Source Core Rulebook pg. 289 4.0 Price 4 gp, 4 sp Money Left Over 10 gp, 6 sp Bulk 4, 4 light Armor Leather Armor Weapons Longspear, 4 Javelins Gear Adventurer's Pack, Holly and Mistletoe Options healer's tools (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.2,
+  "bulk_raw": "3 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-7",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Fighter Kit](/Classes.aspx?Class=7)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 3 gp, 8 sp\r\n\r\n**Money Left Over** 11 gp, 2 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 2 light\r\n\r\n**Armor**\r\n[Hide Armor](/Armor.aspx?ID=7)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Grappling Hook](/Equipment.aspx?ID=23)\r\n\r\n**Options**\r\n[greatsword](/Weapons.aspx?ID=24) (2 gp), [longbow](/Weapons.aspx?ID=76) with 20 [arrows](/Weapons.aspx?ID=83) (6 gp, 2 sp), or [longsword](/Weapons.aspx?ID=31) and [steel shield](/Shields.aspx?ID=3) (3 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Fighter Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/fighter"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/fighter/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/fighter/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/fighter/class-kit"
+   }
+  ],
+  "price": 380,
+  "price_raw": "3 gp, 8 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Fighter Kit Source Core Rulebook pg. 289 4.0 Price 3 gp, 8 sp Money Left Over 11 gp, 2 sp Bulk 3, 2 light Armor Hide Armor Weapons Dagger Gear Adventurer's Pack, Grappling Hook Options greatsword (2 gp), longbow with 20 arrows (6 gp, 2 sp), or longsword and steel shield (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.2,
+  "bulk_raw": "3 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-8",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Monk Kit](/Classes.aspx?Class=8)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 5 gp, 3 sp\r\n\r\n**Money Left Over** 9 gp, 7 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 2 light\n\n**Weapons**\r\n[10 darts](/Weapons.aspx?ID=68)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Climbing Kit](/Equipment.aspx?ID=14), [Grappling Hook](/Equipment.aspx?ID=23), [Smokestick (Lesser)](/Equipment.aspx?ID=135)\r\n\r\n**Options**\r\n[staff](/Weapons.aspx?ID=12) (0 sp), [longspear](/Weapons.aspx?ID=6) (5 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Monk Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/monk"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/monk/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/monk/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/monk/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/monk/focus-spells"
+   }
+  ],
+  "price": 530,
+  "price_raw": "5 gp, 3 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Monk Kit Source Core Rulebook pg. 289 4.0 Price 5 gp, 3 sp Money Left Over 9 gp, 7 sp Bulk 3, 2 light Weapons 10 darts Gear Adventurer's Pack, Climbing Kit, Grappling Hook, Smokestick (Lesser) Options staff (0 sp), longspear (5 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.1,
+  "bulk_raw": "2 Bulk, 1 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-9",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Ranger Kit](/Classes.aspx?Class=9)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 3 gp, 7 sp\r\n\r\n**Money Left Over** 11 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 1 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=4)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1)\r\n\r\n**Options**\r\n[longbow](/Weapons.aspx?ID=76) and 20 [arrows](/Weapons.aspx?ID=83) (6 gp, 2 sp), [longsword](/Weapons.aspx?ID=31) and [steel shield](/Shields.aspx?ID=3) (3 gp), 2 [shortswords](/Weapons.aspx?ID=43) (1gp, 8 sp), [snare kit](/Equipment.aspx?ID=51) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Ranger Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/ranger"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/ranger/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/ranger/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/ranger/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/ranger/focus-spells"
+   },
+   {
+    "label": "Hunter's Edges",
+    "url": "/classes/ranger/hunters-edges"
+   }
+  ],
+  "price": 370,
+  "price_raw": "3 gp, 7 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Ranger Kit Source Core Rulebook pg. 289 4.0 Price 3 gp, 7 sp Money Left Over 11 gp, 3 sp Bulk 2, 1 light Armor Leather Armor Weapons Dagger Gear Adventurer's Pack Options longbow and 20 arrows (6 gp, 2 sp), longsword and steel shield (3 gp), 2 shortswords (1gp, 8 sp), snare kit (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.1,
+  "bulk_raw": "4 Bulk, 1 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-10",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Rogue Kit](/Classes.aspx?Class=10)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 6 gp, 2 sp\r\n\r\n**Money Left Over** 8 gp, 8 sp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 1 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=4)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3), [Rapier](/Weapons.aspx?ID=36)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Climbing Kit](/Equipment.aspx?ID=14)\r\n\r\n**Options**\r\n[thieves' tools](/Equipment.aspx?ID=58) (3 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Rogue Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/rogue"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/rogue/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/rogue/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/rogue/class-kit"
+   },
+   {
+    "label": "Rackets",
+    "url": "/classes/rogue/rackets"
+   }
+  ],
+  "price": 620,
+  "price_raw": "6 gp, 2 sp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Rogue Kit Source Core Rulebook pg. 289 4.0 Price 6 gp, 2 sp Money Left Over 8 gp, 8 sp Bulk 4, 1 light Armor Leather Armor Weapons Dagger, Rapier Gear Adventurer's Pack, Climbing Kit Options thieves' tools (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "bulk": 1.6,
+  "bulk_raw": "1 Bulk, 6 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-11",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Sorcerer Kit](/Classes.aspx?Class=11)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 2 gp, 3 sp, 2 cp\r\n\r\n**Money Left Over** 12 gp, 6 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 1, 6 light\n\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=3), [Sling](/Weapons.aspx?ID=72), [20 sling bullets](/Weapons.aspx?ID=82)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [2 sets of caltrops](/Equipment.aspx?ID=9)\n\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Sorcerer Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/sorcerer"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/sorcerer/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/sorcerer/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/sorcerer/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/sorcerer/focus-spells"
+   },
+   {
+    "label": "Bloodlines",
+    "url": "/classes/sorcerer/bloodlines"
+   }
+  ],
+  "price": 232,
+  "price_raw": "2 gp, 3 sp, 2 cp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Sorcerer Kit Source Core Rulebook pg. 289 4.0 Price 2 gp, 3 sp, 2 cp Money Left Over 12 gp, 6 sp, 8 cp Bulk 1, 6 light Weapons Dagger, Sling, 20 sling bullets Gear Adventurer's Pack, 2 sets of caltrops Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.2,
+  "bulk_raw": "2 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-12",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Wizard Kit](/Classes.aspx?Class=12)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 3 gp\r\n\r\n**Money Left Over** 12 gp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 2 light\n\n**Weapons**\r\n[Staff](/Weapons.aspx?ID=12)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Material Component Pouch](/Equipment.aspx?ID=33), [Writing Set](/Equipment.aspx?ID=63)\r\n\r\n**Options**\r\n[crossbow](/Weapons.aspx?ID=67) with 20 [bolts](/Weapons.aspx?ID=81) (3 gp, 2 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Wizard Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/wizard"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/wizard/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/wizard/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/wizard/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/wizard/focus-spells"
+   },
+   {
+    "label": "Arcane Schools",
+    "url": "/classes/wizard/arcane-schools"
+   },
+   {
+    "label": "Arcane Theses",
+    "url": "/classes/wizard/arcane-theses"
+   }
+  ],
+  "price": 300,
+  "price_raw": "3 gp",
+  "primary_source": "Core Rulebook",
+  "primary_source_raw": "Core Rulebook pg. 289",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2019-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Core Rulebook"
+  ],
+  "source_raw": [
+   "Core Rulebook pg. 289"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>",
+  "speed": {},
+  "text": " Wizard Kit Source Core Rulebook pg. 289 4.0 Price 3 gp Money Left Over 12 gp Bulk 2, 2 light Weapons Staff Gear Adventurer's Pack, Material Component Pouch, Writing Set Options crossbow with 20 bolts (3 gp, 2 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.5,
+  "bulk_raw": "3 Bulk, 5 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-13",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Investigator Kit](/Classes.aspx?Class=13)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 9 gp, 2 sp\r\n\r\n**Money Left Over** 5 gp, 8 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 5 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n**Weapons**\r\n[Sap](/Weapons.aspx?ID=37), [Shortsword](/Weapons.aspx?ID=43), [Crossbow](/Weapons.aspx?ID=67), [20 bolts](/Weapons.aspx?ID=81)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Crowbar](/Equipment.aspx?ID=18)\r\n\r\n**Options**\r\n[alchemist's tools](/Equipment.aspx?ID=2) (3 gp), [simple manacles](/Equipment.aspx?ID=32) (3 gp), [writing set](/Equipment.aspx?ID=63) (1 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Investigator Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/investigator"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/investigator/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/investigator/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/investigator/class-kit"
+   },
+   {
+    "label": "Methodologies",
+    "url": "/classes/investigator/methodologies"
+   }
+  ],
+  "price": 920,
+  "price_raw": "9 gp, 2 sp",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 249",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 249"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Investigator Kit Source Advanced Player's Guide pg. 249 2.0 Price 9 gp, 2 sp Money Left Over 5 gp, 8 sp Bulk 3, 5 light Armor Studded Leather Armor Weapons Sap, Shortsword, Crossbow, 20 bolts Gear Adventurer's Pack, Crowbar Options alchemist's tools (3 gp), simple manacles (3 gp), writing set (1 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.3,
+  "bulk_raw": "3 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-14",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Oracle Kit](/Classes.aspx?Class=14)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 5 gp, 5 sp, 2 cp\r\n\r\n**Money Left Over** 9 gp, 4 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 3 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=5)\r\n\r\n**Weapons**\r\n[Mace](/Weapons.aspx?ID=7), [Sling](/Weapons.aspx?ID=72), [20 sling bullets](/Weapons.aspx?ID=82)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1)\r\n\r\n**Options**\r\n[steel shield](/Shields.aspx?ID=3) (2 gp), [healer's tools](/Equipment.aspx?ID=25) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Oracle Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/oracle"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/oracle/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/oracle/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/oracle/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/oracle/focus-spells"
+   },
+   {
+    "label": "Mysteries",
+    "url": "/classes/oracle/mysteries"
+   }
+  ],
+  "price": 552,
+  "price_raw": "5 gp, 5 sp, 2 cp",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 249",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 249"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Oracle Kit Source Advanced Player's Guide pg. 249 2.0 Price 5 gp, 5 sp, 2 cp Money Left Over 9 gp, 4 sp, 8 cp Bulk 3, 3 light Armor Studded Leather Armor Weapons Mace, Sling, 20 sling bullets Gear Adventurer's Pack Options steel shield (2 gp), healer's tools (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.3,
+  "bulk_raw": "3 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-15",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Swashbuckler Kit](/Classes.aspx?Class=15)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 8 gp, 7 sp\r\n\r\n**Money Left Over** 6 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 3 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=4)\r\n\r\n**Weapons**\r\n[Hand Crossbow](/Weapons.aspx?ID=69), [20 bolts](/Weapons.aspx?ID=81), [Rapier](/Weapons.aspx?ID=36)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1)\r\n\r\n**Options**\r\n[buckler](/Shields.aspx?ID=1) (1 gp), [dueling cape](/Equipment.aspx?ID=680) (5 sp), [fine clothing](/Equipment.aspx?ID=15) (2 gp), [grappling hook](/Equipment.aspx?ID=23) (1 sp), [main-gauche](/Weapons.aspx?ID=32) (5 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Swashbuckler Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/swashbuckler"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/swashbuckler/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/swashbuckler/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/swashbuckler/class-kit"
+   },
+   {
+    "label": "Styles",
+    "url": "/classes/swashbuckler/styles"
+   }
+  ],
+  "price": 870,
+  "price_raw": "8 gp, 7 sp",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 249",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 249"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Swashbuckler Kit Source Advanced Player's Guide pg. 249 2.0 Price 8 gp, 7 sp Money Left Over 6 gp, 3 sp Bulk 3, 3 light Armor Leather Armor Weapons Hand Crossbow, 20 bolts, Rapier Gear Adventurer's Pack Options buckler (1 gp), dueling cape (5 sp), fine clothing (2 gp), grappling hook (1 sp), main-gauche (5 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.6,
+  "bulk_raw": "2 Bulk, 6 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-16",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Witch Kit](/Classes.aspx?Class=16)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 2 gp, 3 sp, 2 cp\r\n\r\n**Money Left Over** 12 gp, 6 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 6 light\r\n\r\n**Armor**\r\n[Explorer's Clothing](/Armor.aspx?ID=2)\r\n\r\n**Weapons**\r\n[Sickle](/Weapons.aspx?ID=9), [Sling](/Weapons.aspx?ID=72), [20 sling bullets](/Weapons.aspx?ID=82), [Staff](/Weapons.aspx?ID=12)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=1), [Material Component Pouch](/Equipment.aspx?ID=33)\r\n\r\n**Options**\r\n[cookware](/Equipment.aspx?ID=17) (1 gp), [healer's tools](/Equipment.aspx?ID=25) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Witch Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/witch"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/witch/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/witch/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/witch/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/witch/focus-spells"
+   },
+   {
+    "label": "Lessons",
+    "url": "/classes/witch/lessons"
+   },
+   {
+    "label": "Patron Themes",
+    "url": "/classes/witch/patron-themes"
+   }
+  ],
+  "price": 232,
+  "price_raw": "2 gp, 3 sp, 2 cp",
+  "primary_source": "Advanced Player's Guide",
+  "primary_source_raw": "Advanced Player's Guide pg. 249",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2020-07-30",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Advanced Player's Guide"
+  ],
+  "source_raw": [
+   "Advanced Player's Guide pg. 249"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Advanced Player's Guide](/Sources.aspx?ID=39) pg. 249 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Witch Kit Source Advanced Player's Guide pg. 249 2.0 Price 2 gp, 3 sp, 2 cp Money Left Over 12 gp, 6 sp, 8 cp Bulk 2, 6 light Armor Explorer's Clothing Weapons Sickle, Sling, 20 sling bullets, Staff Gear Adventurer's Pack, Material Component Pouch Options cookware (1 gp), healer's tools (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.4,
+  "bulk_raw": "4 Bulk, 4 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-17",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Bard Kit](/Classes.aspx?Class=32)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 7 gp, 5 sp, 2 cp\r\n\r\n**Money Left Over** 7 gp, 4 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 4 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=42)\r\n\r\n**Weapons**\r\n[sling with 20 bullets](/Weapons.aspx?ID=430), [Rapier](/Weapons.aspx?ID=391), [Rapier](/Weapons.aspx?ID=391), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700), [Musical Instrument (Handheld)](/Equipment.aspx?ID=2737)\n\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Bard Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/bard"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/bard/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/bard/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/bard/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/bard/focus-spells"
+   },
+   {
+    "label": "Muses",
+    "url": "/classes/bard/muses"
+   }
+  ],
+  "price": 752,
+  "price_raw": "7 gp, 5 sp, 2 cp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Bard Kit Source Player Core pg. 268 2.0 Price 7 gp, 5 sp, 2 cp Money Left Over 7 gp, 4 sp, 8 cp Bulk 4, 4 light Armor Studded Leather Armor Weapons sling with 20 bullets, Rapier, Rapier, Dagger Gear Adventurer's Pack, Musical Instrument (Handheld) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "bulk": 1.2,
+  "bulk_raw": "1 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-18",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Cleric Kit](/Classes.aspx?Class=33)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 1 gp, 7 sp\r\n\r\n**Money Left Over** 13 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 1, 2 light\r\n\r\n**Armor**\r\n[Explorer's Clothing](/Armor.aspx?ID=39)\n\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700), [Religious Symbol (Wooden)](/Equipment.aspx?ID=2745)\r\n\r\n**Options**\r\nyour deity's favored weapon (see your [deities entry](Deities.aspx); use the Price listed in the weapon's entry), [chain mail](/Armor.aspx?ID=46) (6 gp), [healer's toolkit](/Equipment.aspx?ID=2727) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Cleric Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/cleric"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/cleric/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/cleric/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/cleric/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/cleric/focus-spells"
+   },
+   {
+    "label": "Doctrines",
+    "url": "/classes/cleric/doctrines"
+   }
+  ],
+  "price": 170,
+  "price_raw": "1 gp, 7 sp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Cleric Kit Source Player Core pg. 268 2.0 Price 1 gp, 7 sp Money Left Over 13 gp, 3 sp Bulk 1, 2 light Armor Explorer's Clothing Gear Adventurer's Pack, Religious Symbol (Wooden) Options your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry), chain mail (6 gp), healer's toolkit (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.4,
+  "bulk_raw": "4 Bulk, 4 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-19",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Druid Kit](/Classes.aspx?Class=34)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 4 gp\r\n\r\n**Money Left Over** 11 gp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 4 light\r\n\r\n**Armor**\r\n[Hide Armor](/Armor.aspx?ID=44)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Grappling Hook](/Equipment.aspx?ID=2725), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[healer's toolkit](/Equipment.aspx?ID=2727) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Druid Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/druid"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/druid/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/druid/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/druid/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/druid/focus-spells"
+   },
+   {
+    "label": "Druidic Orders",
+    "url": "/classes/druid/druidic-orders"
+   }
+  ],
+  "price": 400,
+  "price_raw": "4 gp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Druid Kit Source Player Core pg. 268 2.0 Price 4 gp Money Left Over 11 gp Bulk 4, 4 light Armor Hide Armor Weapons Dagger Gear Grappling Hook, Adventurer's Pack Options healer's toolkit (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.2,
+  "bulk_raw": "2 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-20",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Fighter Kit](/Classes.aspx?Class=35)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 5 gp, 8 sp\r\n\r\n**Money Left Over** 9 gp, 2 sp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 2 light\r\n\r\n**Armor**\r\n[Scale Mail](/Armor.aspx?ID=45)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Grappling Hook](/Equipment.aspx?ID=2725), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[greatsword](/Weapons.aspx?ID=379) (2 gp), [longbow](/Weapons.aspx?ID=436) with 20 [arrows](/Weapons.aspx?ID=443) (6 gp, 2 sp), or [longsword](/Weapons.aspx?ID=386) and [steel shield](/Shields.aspx?ID=19) (3 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Fighter Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/fighter"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/fighter/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/fighter/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/fighter/class-kit"
+   }
+  ],
+  "price": 580,
+  "price_raw": "5 gp, 8 sp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Fighter Kit Source Player Core pg. 268 2.0 Price 5 gp, 8 sp Money Left Over 9 gp, 2 sp Bulk 2, 2 light Armor Scale Mail Weapons Dagger Gear Grappling Hook, Adventurer's Pack Options greatsword (2 gp), longbow with 20 arrows (6 gp, 2 sp), or longsword and steel shield (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.1,
+  "bulk_raw": "2 Bulk, 1 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-21",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Ranger Kit](/Classes.aspx?Class=36)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 3 gp, 7 sp\r\n\r\n**Money Left Over** 11 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 1 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=41)\r\n\r\n**Weapons**\r\n[Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[longbow](/Weapons.aspx?ID=436) with 20 [arrows](/Weapons.aspx?ID=443) (6 gp, 2 sp), [longsword](/Weapons.aspx?ID=386) and [steel shield](/Shields.aspx?ID=19) (3 gp), 2 [shortswords](/Weapons.aspx?ID=398) (1 gp, 8 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Ranger Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/ranger"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/ranger/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/ranger/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/ranger/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/ranger/focus-spells"
+   },
+   {
+    "label": "Hunter's Edges",
+    "url": "/classes/ranger/hunters-edges"
+   }
+  ],
+  "price": 370,
+  "price_raw": "3 gp, 7 sp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Ranger Kit Source Player Core pg. 268 2.0 Price 3 gp, 7 sp Money Left Over 11 gp, 3 sp Bulk 2, 1 light Armor Leather Armor Weapons Dagger Gear Adventurer's Pack Options longbow with 20 arrows (6 gp, 2 sp), longsword and steel shield (3 gp), 2 shortswords (1 gp, 8 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "bulk": 4.1,
+  "bulk_raw": "4 Bulk, 1 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-22",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Rogue Kit](/Classes.aspx?Class=37)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 6 gp, 2 sp\r\n\r\n**Money Left Over** 8 gp, 8 sp\r\n\r\n</row>\r\n\r\n**Bulk** 4, 1 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=41)\r\n\r\n**Weapons**\r\n[Rapier](/Weapons.aspx?ID=391), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[thieves' toolkit (3 gp)](/Equipment.aspx?ID=2758)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Rogue Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/rogue"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/rogue/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/rogue/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/rogue/class-kit"
+   },
+   {
+    "label": "Rackets",
+    "url": "/classes/rogue/rackets"
+   }
+  ],
+  "price": 620,
+  "price_raw": "6 gp, 2 sp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Rogue Kit Source Player Core pg. 268 2.0 Price 6 gp, 2 sp Money Left Over 8 gp, 8 sp Bulk 4, 1 light Armor Leather Armor Weapons Rapier, Dagger Gear Adventurer's Pack Options thieves' toolkit (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.5,
+  "bulk_raw": "2 Bulk, 5 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-23",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Witch Kit](/Classes.aspx?Class=38)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 1 gp, 8 sp, 2 cp\r\n\r\n**Money Left Over** 13 gp, 1 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 5 light\r\n\r\n**Armor**\r\n[Leather Armor](/Armor.aspx?ID=41), [Explorer's Clothing](/Armor.aspx?ID=39)\r\n\r\n**Weapons**\r\n[Staff](/Weapons.aspx?ID=367), [sling with 20 bullets](/Weapons.aspx?ID=430), [hand crossbow with 20 bolts](/Weapons.aspx?ID=427), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[cookware](/Equipment.aspx?ID=2717) (1 gp), [healer's toolkit](/Equipment.aspx?ID=2727) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Witch Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/witch"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/witch/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/witch/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/witch/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/witch/focus-spells"
+   },
+   {
+    "label": "Lessons",
+    "url": "/classes/witch/lessons"
+   },
+   {
+    "label": "Patron Themes",
+    "url": "/classes/witch/patron-themes"
+   }
+  ],
+  "price": 182,
+  "price_raw": "1 gp, 8 sp, 2 cp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Witch Kit Source Player Core pg. 268 2.0 Price 1 gp, 8 sp, 2 cp Money Left Over 13 gp, 1 sp, 8 cp Bulk 2, 5 light Armor Leather Armor, Explorer's Clothing Weapons Staff, sling with 20 bullets, hand crossbow with 20 bolts, Dagger Gear Adventurer's Pack, Adventurer's Pack Options cookware (1 gp), healer's toolkit (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "bulk": 2.2,
+  "bulk_raw": "2 Bulk, 2 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-24",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Wizard Kit](/Classes.aspx?Class=39)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 2 gp, 6 sp\r\n\r\n**Money Left Over** 12 gp, 4 sp\r\n\r\n</row>\r\n\r\n**Bulk** 2, 2 light\r\n\r\n**Armor**\r\n[Explorer's Clothing](/Armor.aspx?ID=39)\r\n\r\n**Weapons**\r\n[Staff](/Weapons.aspx?ID=367)\r\n\r\n**Gear**\r\n[Writing Set](/Equipment.aspx?ID=2762), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[crossbow](/Weapons.aspx?ID=425) with 20 [bolts](/Weapons.aspx?ID=441) (3 gp, 2 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Wizard Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/wizard"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/wizard/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/wizard/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/wizard/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/wizard/focus-spells"
+   },
+   {
+    "label": "Arcane Schools",
+    "url": "/classes/wizard/arcane-schools"
+   },
+   {
+    "label": "Arcane Theses",
+    "url": "/classes/wizard/arcane-theses"
+   }
+  ],
+  "price": 260,
+  "price_raw": "2 gp, 6 sp",
+  "primary_source": "Player Core",
+  "primary_source_raw": "Player Core pg. 268",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2023-11-15",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core"
+  ],
+  "source_raw": [
+   "Player Core pg. 268"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core](/Sources.aspx?ID=216) pg. 268 <sup>2.0</sup>",
+  "speed": {},
+  "text": " Wizard Kit Source Player Core pg. 268 2.0 Price 2 gp, 6 sp Money Left Over 12 gp, 4 sp Bulk 2, 2 light Armor Explorer's Clothing Weapons Staff Gear Writing Set, Adventurer's Pack Options crossbow with 20 bolts (3 gp, 2 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.7,
+  "bulk_raw": "3 Bulk, 7 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-25",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Alchemist Kit](/Classes.aspx?Class=56)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 8 gp, 3 sp, 2 cp\r\n\r\n**Money Left Over** 6 gp, 6 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 7 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=42)\r\n\r\n**Weapons**\r\n[sling with 20 bullets](/Weapons.aspx?ID=430), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Caltrops](/Equipment.aspx?ID=2708), [Alchemist's Toolkit](/Equipment.aspx?ID=2702), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[repair toolkit](/Equipment.aspx?ID=2747) (2 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Alchemist Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/alchemist"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/alchemist/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/alchemist/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/alchemist/class-kit"
+   },
+   {
+    "label": "Research Fields",
+    "url": "/classes/alchemist/research-fields"
+   }
+  ],
+  "price": 832,
+  "price_raw": "8 gp, 3 sp, 2 cp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Alchemist Kit Source Player Core 2 pg. 227 Price 8 gp, 3 sp, 2 cp Money Left Over 6 gp, 6 sp, 8 cp Bulk 3, 7 light Armor Studded Leather Armor Weapons sling with 20 bullets, Dagger Gear Caltrops, Alchemist's Toolkit, Adventurer's Pack Options repair toolkit (2 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.5,
+  "bulk_raw": "3 Bulk, 5 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-26",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Barbarian Kit](/Classes.aspx?Class=57)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 4 gp\r\n\r\n**Money Left Over** 11 gp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 5 light\r\n\r\n**Armor**\r\n[Hide Armor](/Armor.aspx?ID=44)\r\n\r\n**Weapons**\r\n[javelins (4)](/Weapons.aspx?ID=429), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Grappling Hook](/Equipment.aspx?ID=2725), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[greataxe](/Weapons.aspx?ID=376) (2 gp), [greatclub](/Weapons.aspx?ID=377) (1 gp), [greatsword](/Weapons.aspx?ID=379) (2 gp), or [battle axe](/Weapons.aspx?ID=371) and [steel shield](/Shields.aspx?ID=19) (3 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Barbarian Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/barbarian"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/barbarian/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/barbarian/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/barbarian/class-kit"
+   },
+   {
+    "label": "Instincts",
+    "url": "/classes/barbarian/instincts"
+   }
+  ],
+  "price": 400,
+  "price_raw": "4 gp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Barbarian Kit Source Player Core 2 pg. 227 Price 4 gp Money Left Over 11 gp Bulk 3, 5 light Armor Hide Armor Weapons javelins (4), Dagger Gear Grappling Hook, Adventurer's Pack Options greataxe (2 gp), greatclub (1 gp), greatsword (2 gp), or battle axe and steel shield (3 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.7,
+  "bulk_raw": "3 Bulk, 7 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-27",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Champion Kit](/Classes.aspx?Class=58)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 8 gp, 7 sp\r\n\r\n**Money Left Over** 6 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 7 light\r\n\r\n**Armor**\r\n[Chain Mail](/Armor.aspx?ID=46)\r\n\r\n**Weapons**\r\n[javelins (4)](/Weapons.aspx?ID=429), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Grappling Hook](/Equipment.aspx?ID=2725), [Crowbar](/Equipment.aspx?ID=2718), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[steel shield](/Shields.aspx?ID=19) (2 gp), your deity's favored weapon (see your [deities entry](Deities.aspx); use the Price listed in the weapon's entry)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Champion Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/champion"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/champion/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/champion/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/champion/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/champion/focus-spells"
+   },
+   {
+    "label": "Causes",
+    "url": "/classes/champion/causes"
+   },
+   {
+    "label": "Tenets",
+    "url": "/classes/champion/tenets"
+   }
+  ],
+  "price": 870,
+  "price_raw": "8 gp, 7 sp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Champion Kit Source Player Core 2 pg. 227 Price 8 gp, 7 sp Money Left Over 6 gp, 3 sp Bulk 3, 7 light Armor Chain Mail Weapons javelins (4), Dagger Gear Grappling Hook, Crowbar, Adventurer's Pack Options steel shield (2 gp), your deity's favored weapon (see your deities entry; use the Price listed in the weapon's entry) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=27",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.5,
+  "bulk_raw": "3 Bulk, 5 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-28",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Investigator Kit](/Classes.aspx?Class=59)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 9 gp, 2 sp\r\n\r\n**Money Left Over** 5 gp, 8 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 5 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=42)\r\n\r\n**Weapons**\r\n[Shortsword](/Weapons.aspx?ID=398), [Sap](/Weapons.aspx?ID=392), [crossbow with 20 bolts](/Weapons.aspx?ID=425)\r\n\r\n**Gear**\r\n[Crowbar](/Equipment.aspx?ID=2718), [Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[alchemist’s toolkit](/Equipment.aspx?ID=2702) (3 gp), simple [manacles](/Equipment.aspx?ID=2733) (3 gp), [writing set](/Equipment.aspx?ID=2762) (1 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Investigator Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/investigator"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/investigator/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/investigator/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/investigator/class-kit"
+   },
+   {
+    "label": "Methodologies",
+    "url": "/classes/investigator/methodologies"
+   }
+  ],
+  "price": 920,
+  "price_raw": "9 gp, 2 sp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Investigator Kit Source Player Core 2 pg. 227 Price 9 gp, 2 sp Money Left Over 5 gp, 8 sp Bulk 3, 5 light Armor Studded Leather Armor Weapons Shortsword, Sap, crossbow with 20 bolts Gear Crowbar, Adventurer's Pack Options alchemist’s toolkit (3 gp), simple manacles (3 gp), writing set (1 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=28",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.3,
+  "bulk_raw": "3 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-29",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Monk Kit](/Classes.aspx?Class=60)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 5 gp, 3 sp\r\n\r\n**Money Left Over** 9 gp, 7 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 3 light\r\n\r\n**Armor**\r\n[Explorer's Clothing](/Armor.aspx?ID=39)\r\n\r\n**Weapons**\r\n[darts (10)](/Weapons.aspx?ID=426)\r\n\r\n**Gear**\r\n[Grappling Hook](/Equipment.aspx?ID=2725), [Climbing Kit](/Equipment.aspx?ID=2713), [Adventurer's Pack](/Equipment.aspx?ID=2700), [Smoke Ball (Lesser)](/Equipment.aspx?ID=3360)\r\n\r\n**Options**\r\n[staff](/Weapons.aspx?ID=367) (0 gp), [longspear](/Weapons.aspx?ID=361) (5 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Monk Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/monk"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/monk/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/monk/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/monk/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/monk/focus-spells"
+   }
+  ],
+  "price": 530,
+  "price_raw": "5 gp, 3 sp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Monk Kit Source Player Core 2 pg. 227 Price 5 gp, 3 sp Money Left Over 9 gp, 7 sp Bulk 3, 3 light Armor Explorer's Clothing Weapons darts (10) Gear Grappling Hook, Climbing Kit, Adventurer's Pack, Smoke Ball (Lesser) Options staff (0 gp), longspear (5 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=29",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.3,
+  "bulk_raw": "3 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-30",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Oracle Kit](/Classes.aspx?Class=61)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 5 gp, 5 sp, 2 cp\r\n\r\n**Money Left Over** 9 gp, 4 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 3 light\r\n\r\n**Armor**\r\n[Studded Leather Armor](/Armor.aspx?ID=42)\r\n\r\n**Weapons**\r\n[sling with 20 bullets](/Weapons.aspx?ID=430), [Mace](/Weapons.aspx?ID=362)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[steel shield](/Shields.aspx?ID=19) (2 gp), [healer’s toolkit](/Equipment.aspx?ID=2727) (5 gp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Oracle Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/oracle"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/oracle/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/oracle/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/oracle/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/oracle/focus-spells"
+   },
+   {
+    "label": "Mysteries",
+    "url": "/classes/oracle/mysteries"
+   }
+  ],
+  "price": 552,
+  "price_raw": "5 gp, 5 sp, 2 cp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Oracle Kit Source Player Core 2 pg. 227 Price 5 gp, 5 sp, 2 cp Money Left Over 9 gp, 4 sp, 8 cp Bulk 3, 3 light Armor Studded Leather Armor Weapons sling with 20 bullets, Mace Gear Adventurer's Pack Options steel shield (2 gp), healer’s toolkit (5 gp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=30",
+  "weakness": {}
+ },
+ {
+  "bulk": 1.7,
+  "bulk_raw": "1 Bulk, 7 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-31",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Sorcerer Kit](/Classes.aspx?Class=62)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 2 gp, 4 sp, 2 cp\r\n\r\n**Money Left Over** 12 gp, 5 sp, 8 cp\r\n\r\n</row>\r\n\r\n**Bulk** 1, 7 light\r\n\r\n**Armor**\r\n[Explorer's Clothing](/Armor.aspx?ID=39)\r\n\r\n**Weapons**\r\n[sling with 20 bullets](/Weapons.aspx?ID=430), [Dagger](/Weapons.aspx?ID=358)\r\n\r\n**Gear**\r\n[Adventurer's Pack](/Equipment.aspx?ID=2700)\r\n\r\n**Options**\r\n[adventurer’s pack](/Equipment.aspx?ID=2700), [caltrops](/Equipment.aspx?ID=2708) (2 sets)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Sorcerer Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/sorcerer"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/sorcerer/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/sorcerer/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/sorcerer/class-kit"
+   },
+   {
+    "label": "Focus Spells",
+    "url": "/classes/sorcerer/focus-spells"
+   },
+   {
+    "label": "Bloodlines",
+    "url": "/classes/sorcerer/bloodlines"
+   }
+  ],
+  "price": 242,
+  "price_raw": "2 gp, 4 sp, 2 cp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Sorcerer Kit Source Player Core 2 pg. 227 Price 2 gp, 4 sp, 2 cp Money Left Over 12 gp, 5 sp, 8 cp Bulk 1, 7 light Armor Explorer's Clothing Weapons sling with 20 bullets, Dagger Gear Adventurer's Pack Options adventurer’s pack, caltrops (2 sets) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=31",
+  "weakness": {}
+ },
+ {
+  "bulk": 3.3,
+  "bulk_raw": "3 Bulk, 3 light",
+  "category": "class-kit",
+  "exclude_from_search": false,
+  "id": "class-kit-32",
+  "markdown": "<title level=\"1\" right=\"Class Kit\">[Swashbuckler Kit](/Classes.aspx?Class=63)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n\r\n<row gap=\"medium\">\r\n\r\n**Price** 8 gp, 7 sp\r\n\r\n**Money Left Over** 6 gp, 3 sp\r\n\r\n</row>\r\n\r\n**Bulk** 3, 3 light\n\n**Options**\r\n[buckler](/Shields.aspx?ID=17) (1 gp), [dueling cape](/Equipment.aspx?ID=2721) (5 sp), fine [clothing](/Equipment.aspx?ID=2715) (2 gp), [grappling hook](/Equipment.aspx?ID=2725) (1 sp), [main-gauche](/Weapons.aspx?ID=387) (5 sp)\r\n\r\n</column>\r\n\r\n<title level=\"2\">Class Kits</title>\r\n\r\n**Source** [Core Rulebook](/Sources.aspx?ID=1) pg. 289 <sup>4.0</sup>\r\n\r\nIf you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an [adventurer’s pack](/Equipment.aspx?ID=1), which is included in each kit, contains a [backpack](/Equipment.aspx?ID=4), a [bedroll](/Equipment.aspx?ID=7), [10 pieces of chalk](/Equipment.aspx?ID=12), [flint and steel](/Equipment.aspx?ID=21), [50 feet of rope](/Equipment.aspx?ID=44), [2 weeks’ rations](/Equipment.aspx?ID=40), [soap](/Equipment.aspx?ID=52), [5 torches](/Equipment.aspx?ID=60), and a [waterskin](/Equipment.aspx?ID=62).\r\n\r\n[Click here for the full rules on Class Kits](/Rules.aspx?ID=240).",
+  "name": "Swashbuckler Kit",
+  "navigation": [
+   {
+    "label": "Details",
+    "url": "/classes/swashbuckler"
+   },
+   {
+    "label": "Feats",
+    "url": "/classes/swashbuckler/feats"
+   },
+   {
+    "label": "Sample Builds",
+    "url": "/classes/swashbuckler/sample-builds"
+   },
+   {
+    "label": "Class Kit",
+    "url": "/classes/swashbuckler/class-kit"
+   },
+   {
+    "label": "Styles",
+    "url": "/classes/swashbuckler/styles"
+   }
+  ],
+  "price": 870,
+  "price_raw": "8 gp, 7 sp",
+  "primary_source": "Player Core 2",
+  "primary_source_raw": "Player Core 2 pg. 227",
+  "primary_source_category": "Rulebooks",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2024-08-01",
+  "resistance": {},
+  "search_markdown": "<additional-info>\r\n**Source** [Player Core 2](/Sources.aspx?ID=227) pg. 227\r\n</additional-info>",
+  "skill_mod": {},
+  "source": [
+   "Player Core 2"
+  ],
+  "source_raw": [
+   "Player Core 2 pg. 227"
+  ],
+  "source_category": [
+   "Rulebooks"
+  ],
+  "source_markdown": "[Player Core 2](/Sources.aspx?ID=227) pg. 227",
+  "speed": {},
+  "text": " Swashbuckler Kit Source Player Core 2 pg. 227 Price 8 gp, 7 sp Money Left Over 6 gp, 3 sp Bulk 3, 3 light Options buckler (1 gp), dueling cape (5 sp), fine clothing (2 gp), grappling hook (1 sp), main-gauche (5 sp) Class Kits Source Core Rulebook pg. 289 4.0 If you want to quickly decide how to spend your starting money on what your class needs, start with one of these kits. Note than an adventurer’s pack, which is included in each kit, contains a backpack, a bedroll, 10 pieces of chalk, flint and steel, 50 feet of rope, 2 weeks’ rations, soap, 5 torches, and a waterskin. Click here for the full rules on Class Kits.",
+  "type": "Class Kit",
+  "url": "/ClassKits.aspx?ID=32",
+  "weakness": {}
+ }
+]

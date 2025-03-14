@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import { ref, watch, } from 'vue'
-import gsap from 'gsap';
-import { useElementSize } from '@vueuse/core';
+import { ref, watch, } from "vue"
+import gsap from "gsap";
+import { useElementSize } from "@vueuse/core";
 const { maxHeight=500, onComplete=()=>{}, } = defineProps<{ maxHeight?: number|string, onComplete?: () => void }>()
 const elemRef = ref()
 const { height } = useElementSize(elemRef)
@@ -22,12 +22,10 @@ function onBeforeEnter(el: Element) {
     opacity: 0,
     minHeight: 0
   })
-  gsap.to(el, {
-    opacity: 1,
-  })
+  gsap.to(el, {opacity: 1,})
 }
 function onEnter(el: Element, done: () => void) {
-  const maxElemHeight = typeof maxHeight==='number'? Math.min(el.getBoundingClientRect().height * 1.5, maxHeight) + "px":maxHeight
+  const maxElemHeight = typeof maxHeight==="number"? Math.min(el.getBoundingClientRect().height * 1.5, maxHeight) + "px":maxHeight
   gsap.to(el, {
     maxHeight: maxElemHeight,
     onComplete: () => {

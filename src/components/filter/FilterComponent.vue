@@ -1,33 +1,30 @@
 <script setup lang="ts">
 import SubFilterComponent from "@components/filter/SubFilterComponent.vue"
-
-
 import { useContentStore } from "@/stores/content";
 import { storeToRefs } from "pinia";
+
 const { currentFilter, routeName } = storeToRefs(useContentStore())
+
 </script>
 <template>
-  <div class="filter_main">
-    <div class="container">
-      <div
-        v-for="some in currentFilter"
-        :key="some.filter_name + routeName"
-      >
-        <SubFilterComponent :sub-filter="some" />
-      </div>
+  <div class="container">
+    <div
+      v-for="subFilt in currentFilter"
+      :key="subFilt.filter_name + routeName"
+    >
+      <SubFilterComponent :sub-filter="subFilt" />
     </div>
   </div>
 </template>
 <style scoped lang="scss">
+
 div.filter_main {
-  flex-basis: 30%;
+  // flex-basis: 30%;
+  // max-width: 30%;
   display: flex;
-  gap: 10px;
+  gap: var(--gap);
   flex-direction: column;
-  padding: 5px;
   flex-shrink: 0;
-  border: 1px solid black;
-  border-radius: var(--border-radius);
 
 }
 
@@ -37,16 +34,7 @@ div.filter_main {
   overflow-y: auto;
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  scrollbar-gutter: stable;
+  gap:var(--gap);
 }
-
-
-
-// @media (max-aspect-ratio: 1/1) {
-//   div.filter_main {
-//     flex: 1 1 auto;
-//     height: 0;
-//     transition: opacity .5s ease;
-//     overflow-y: auto
-//   }
-// }</style>
+</style>

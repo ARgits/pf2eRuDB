@@ -1,0 +1,1415 @@
+[
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-1",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 5\" pfs=\"\">[Baked Spider Legs](/CampMeals.aspx?ID=1)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price**\r\n8 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Stealth](/Skills.aspx?ID=15) checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis dish consists of choice segments of an oversized spider's legs, served with a variety of savory dressings and dipping sauces. You can crack open the exoskeleton to get to the juicy meat within the baked segments or simply fish out the meat from within using a long, thin utensil—an arrow is a classic choice among campers.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to Fortitude saving throws for 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to Fortitude saving throws against [poison](/Traits.aspx?ID=126) effects for 24 hours.<br />\r\n**Critical Failure** The meal is toxic and causes a –1 status penalty to Fortitude saving throws for 24 hours. This is a poison effect.",
+  "name": "Baked Spider Legs",
+  "price": 800,
+  "price_raw": "8 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 114",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price** 8 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis dish consists of choice segments of an oversized spider's legs, served with a variety of savory dressings and dipping sauces. You can crack open …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 114"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114",
+  "speed": {},
+  "summary": "This dish consists of choice segments of an oversized spider's legs, served with a variety of savory dressings and dipping sauces. You can crack open …",
+  "summary_markdown": "This dish consists of choice segments of an oversized spider's legs, served with a variety of savory dressings and dipping sauces. You can crack open …",
+  "text": " Baked Spider Legs Source Kingmaker Companion Guide pg. 114 Recipe Price 8 gp Ingredients 4 basic, 1 special Preparation DC 20 Cooking Lore or DC 22 Survival Favorite Meal +1 status bonus to Stealth checks. --- This dish consists of choice segments of an oversized spider's legs, served with a variety of savory dressings and dipping sauces. You can crack open the exoskeleton to get to the juicy meat within the baked segments or simply fish out the meat from within using a long, thin utensil—an arrow is a classic choice among campers. Critical Success The meal grants a +1 status bonus to Fortitude saving throws for 24 hours. Success The meal grants a +1 status bonus to Fortitude saving throws against poison effects for 24 hours. Critical Failure The meal is toxic and causes a –1 status penalty to Fortitude saving throws for 24 hours. This is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=1",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-2",
+  "level": 18,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 18\" pfs=\"\">[Black Linnorm Stew](/CampMeals.aspx?ID=2)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price**\r\n1,200 gp\r\n\r\n**Ingredients** 8 basic, 3 special\r\n\r\n**Preparation** DC 43 [Cooking Lore](/Skills.aspx?ID=8) or DC 45 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +2 status bonus to Perception checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis thick stew looks unappetizing, with its tar-like black broth and strangely colored chunks of meat.\r\n\r\n**Critical Success** The meal grants a +3 status bonus to saves against [curse](/Traits.aspx?ID=38) and [poison](/Traits.aspx?ID=126) effects. In addition, the next time the eater is damaged, they gain [fast healing 10](/MonsterAbilities.aspx?ID=15); this fast healing lasts until the eater dies, is healed to its maximum hit points, or for 1 minute, whichever comes first, after which the fast healing effect ends.<br />\r\n**Success** The meal grants a +3 status bonus to saves against curse and poison effects.<br />\r\n**Critical Failure** The meal imparts a fragment of the linnorm death curse on the eater, who becomes [doomed 1](/Conditions.aspx?ID=9) for 24 hours. This is a curse effect.",
+  "name": "Black Linnorm Stew",
+  "price": 120000,
+  "price_raw": "1,200 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 114",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "requirement": "legendary in  Arcana  or  Nature ",
+  "requirement_markdown": "legendary in [Arcana](/Skills.aspx?ID=2) or [Nature](/Skills.aspx?ID=10)",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price** 1,200 gp\r\n\r\n**Ingredients** 8 basic, 3 special\r\n\r\n**Preparation** DC 43 [Cooking Lore](/Skills.aspx?ID=8) or DC 45 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis thick stew looks unappetizing, with its tar-like black broth and strangely colored chunks of meat.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 114"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This thick stew looks unappetizing, with its tar-like black broth and strangely colored chunks of meat.",
+  "summary_markdown": "This thick stew looks unappetizing, with its tar-like black broth and strangely colored chunks of meat.",
+  "text": " Black Linnorm Stew Source Kingmaker Companion Guide pg. 114 Recipe Price 1,200 gp Ingredients 8 basic, 3 special Preparation DC 43 Cooking Lore or DC 45 Survival Favorite Meal +2 status bonus to Perception checks. --- This thick stew looks unappetizing, with its tar-like black broth and strangely colored chunks of meat. Critical Success The meal grants a +3 status bonus to saves against curse and poison effects. In addition, the next time the eater is damaged, they gain fast healing 10; this fast healing lasts until the eater dies, is healed to its maximum hit points, or for 1 minute, whichever comes first, after which the fast healing effect ends. Success The meal grants a +3 status bonus to saves against curse and poison effects. Critical Failure The meal imparts a fragment of the linnorm death curse on the eater, who becomes doomed 1 for 24 hours. This is a curse effect.",
+  "trait": [
+   "Meal",
+   "Rare"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Meal",
+   "Rare"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=2",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-3",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 3\" pfs=\"\">[Broiled Tuskwater Oysters](/CampMeals.aspx?ID=3)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price**\r\n3 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to saving throws against [occult](/Traits.aspx?ID=120) spells\r\n\r\n</column>\r\n\r\n---\r\n\r\nThe freshwater oysters that grow in and around the Tuskwater have long been said to help one see into other realities or to understand secrets beyond normal reach.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to [Occultism](/Skills.aspx?ID=11) checks made to [Identify Magic](/Actions.aspx?ID=24), [Learn a Spell](/Actions.aspx?ID=25), and [Recall Knowledge](/Actions.aspx?ID=26) for 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to Occultism checks made to Identify Magic, Learn a Spell, and Recall Knowledge until the eater begins daily preparations.<br />\r\n**Critical Failure** The poorly prepared oysters cause mild but distracting hallucinations, resulting in a –1 status penalty to Perception checks for 24 hours. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Broiled Tuskwater Oysters",
+  "price": 300,
+  "price_raw": "3 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 114",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price** 3 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe freshwater oysters that grow in and around the Tuskwater have long been said to help one see into other realities or to understand secrets beyond …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 114"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "The freshwater oysters that grow in and around the Tuskwater have long been said to help one see into other realities or to understand secrets beyond …",
+  "summary_markdown": "The freshwater oysters that grow in and around the Tuskwater have long been said to help one see into other realities or to understand secrets beyond …",
+  "text": " Broiled Tuskwater Oysters Source Kingmaker Companion Guide pg. 114 Recipe Price 3 gp Ingredients 2 basic, 1 special Preparation DC 20 Cooking Lore or DC 22 Survival Favorite Meal +1 status bonus to saving throws against occult spells --- The freshwater oysters that grow in and around the Tuskwater have long been said to help one see into other realities or to understand secrets beyond normal reach. Critical Success The meal grants a +1 status bonus to Occultism checks made to Identify Magic, Learn a Spell, and Recall Knowledge for 24 hours. Success The meal grants a +1 status bonus to Occultism checks made to Identify Magic, Learn a Spell, and Recall Knowledge until the eater begins daily preparations. Critical Failure The poorly prepared oysters cause mild but distracting hallucinations, resulting in a –1 status penalty to Perception checks for 24 hours. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=3",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-4",
+  "level": 5,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 5\" pfs=\"\">[Cheese Crostata](/CampMeals.aspx?ID=4)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price**\r\n8 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 22 [Cooking Lore](/Skills.aspx?ID=8) or DC 24 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Religion](/Skills.aspx?ID=13) checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis pie-like meal is filled with a delightful mix of different cheeses and spices, all cooked into a flaky dough crust.\r\n\r\n**Critical Success** The eater gains a +1 status bonus to saving throws against effects that cause the [enfeebled](/Conditions.aspx?ID=13) condition or [fatigue](/Conditions.aspx?ID=15), and during the next 2 days, they can go for up to 20 hours without sleep before becoming fatigued.<br />\r\n**Success** For the next 24 hours, the eater can go for up to 18 hours without sleep before becoming fatigued.<br />\r\n**Critical Failure** The heavy meal doesn't sit well. The eater is [sickened 1](/Conditions.aspx?ID=34) until they finish a full night's rest.",
+  "name": "Cheese Crostata",
+  "price": 800,
+  "price_raw": "8 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 114",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114\r\n\r\n**Recipe Price** 8 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 22 [Cooking Lore](/Skills.aspx?ID=8) or DC 24 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis pie-like meal is filled with a delightful mix of different cheeses and spices, all cooked into a flaky dough crust.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 114"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 114",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This pie-like meal is filled with a delightful mix of different cheeses and spices, all cooked into a flaky dough crust.",
+  "summary_markdown": "This pie-like meal is filled with a delightful mix of different cheeses and spices, all cooked into a flaky dough crust.",
+  "text": " Cheese Crostata Source Kingmaker Companion Guide pg. 114 Recipe Price 8 gp Ingredients 4 basic Preparation DC 22 Cooking Lore or DC 24 Survival Favorite Meal +1 status bonus to Religion checks. --- This pie-like meal is filled with a delightful mix of different cheeses and spices, all cooked into a flaky dough crust. Critical Success The eater gains a +1 status bonus to saving throws against effects that cause the enfeebled condition or fatigue, and during the next 2 days, they can go for up to 20 hours without sleep before becoming fatigued. Success For the next 24 hours, the eater can go for up to 18 hours without sleep before becoming fatigued. Critical Failure The heavy meal doesn't sit well. The eater is sickened 1 until they finish a full night's rest.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=4",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-5",
+  "level": 4,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 4\" pfs=\"\">[Chocolate Ice Cream](/CampMeals.aspx?ID=5)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price**\r\n5 sp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 19 [Cooking Lore](/Skills.aspx?ID=8) or DC 21 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to all [Lore](/Skills.aspx?ID=8) checks made to [Recall Knowledge](/Actions.aspx?ID=26).\r\n\r\n</column>\r\n\r\n---\r\n\r\nNormally a treat limited to areas where ice is abundant, this version of the recipe utilizes the ability to cast spells that cause cold damage to create a deliciously close approximation of ice cream while camping. When you use the Cook Special Meal activity to create ice cream, you must cast 1 cold spell—typically, [_ray of frost_](/Spells.aspx?ID=245) is utilized.\r\n\r\n**Critical Success** The ice cream is perfect. The eater receives a +1 status bonus to [Performance](/Skills.aspx?ID=12) checks for 24 hours.<br />\r\n**Success** As critical success, but the bonus ends when the eater begins daily preparations.<br />\r\n**Critical Failure** The ice cream is too cold, too sweet, or both. In addition to not gaining any special benefit from the meal, disappointment causes the eater to take a –1 status penalty to saving throws against [emotion](/Traits.aspx?ID=60) effects for 24 hours or until the character achieves a critical success on a saving throw against an emotion effect, whichever comes first.",
+  "name": "Chocolate Ice Cream",
+  "price": 50,
+  "price_raw": "5 sp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 115",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "ability to cast a  cold  spell or create a cold effect via magic",
+  "requirement_markdown": "ability to cast a [cold](/Traits.aspx?ID=27) spell or create a cold effect via magic",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price** 5 sp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 19 [Cooking Lore](/Skills.aspx?ID=8) or DC 21 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nNormally a treat limited to areas where ice is abundant, this version of the recipe utilizes the ability to cast spells that cause cold damage to …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 115"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115",
+  "speed": {},
+  "summary": "Normally a treat limited to areas where ice is abundant, this version of the recipe utilizes the ability to cast spells that cause cold damage to …",
+  "summary_markdown": "Normally a treat limited to areas where ice is abundant, this version of the recipe utilizes the ability to cast spells that cause cold damage to …",
+  "text": " Chocolate Ice Cream Source Kingmaker Companion Guide pg. 115 Recipe Price 5 sp Ingredients 2 basic, 1 special Preparation DC 19 Cooking Lore or DC 21 Survival Favorite Meal +1 status bonus to all Lore checks made to Recall Knowledge. --- Normally a treat limited to areas where ice is abundant, this version of the recipe utilizes the ability to cast spells that cause cold damage to create a deliciously close approximation of ice cream while camping. When you use the Cook Special Meal activity to create ice cream, you must cast 1 cold spell—typically, ray of frost is utilized. Critical Success The ice cream is perfect. The eater receives a +1 status bonus to Performance checks for 24 hours. Success As critical success, but the bonus ends when the eater begins daily preparations. Critical Failure The ice cream is too cold, too sweet, or both. In addition to not gaining any special benefit from the meal, disappointment causes the eater to take a –1 status penalty to saving throws against emotion effects for 24 hours or until the character achieves a critical success on a saving throw against an emotion effect, whichever comes first.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=5",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-6",
+  "level": 20,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 20\" pfs=\"\">[First World Mince Pie](/CampMeals.aspx?ID=6)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price**\r\n3,500 gp\r\n\r\n**Ingredients** 8 basic, 4 special\r\n\r\n**Preparation** DC 45 [Cooking Lore](/Skills.aspx?ID=8) or DC 47 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +3 status bonus to skill checks for all skills associated with the random ability score that increases.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis meal is infused with the magical, life-giving energies of the First World itself. The exact ingredients for this meal are never the same, and the cook can never be sure exactly what they might be inspired to put into the pie until they begin cooking, as the choice of ingredients must be somewhat influenced by chance and whimsy. Note that this meal is an [apex](/Traits.aspx?ID=10) item, and you can't gain an ability score increase from more than one apex item at a time.\r\n\r\n**Critical Success** Increase a random ability score by 2 or to 18, whichever results in the higher score. This effect persists as long as the eater remains in the First World or an associated demiplane, or until they gain an effect from another special meal, whichever comes first.<br />\r\n**Success** As critical success, but the effect lasts no longer than 24 hours.<br />\r\n**Critical Failure** Something in the meal clashes with the eater's body, mind, and soul. When they roll an initiative check at the start of any combat, attempt a DC 11 flat check. On a failure, they become [confused](/Conditions.aspx?ID=5) for 1 minute. This effect lasts as long as they remain in the First World (or an associated demiplane) or for 24 hours, whichever comes second. This is a [curse](/Traits.aspx?ID=38) effect.",
+  "name": "First World Mince Pie",
+  "price": 350000,
+  "price_raw": "3,500 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 115",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "requirement": "must be cooked while camping in the  First World  (including associated demiplanes like Thousand Breaths or the Lantern Kingdom)",
+  "requirement_markdown": "must be cooked while camping in the [First World](/Planes.aspx?ID=10) (including associated demiplanes like Thousand Breaths or the Lantern Kingdom)",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Apex\" url=\"/Traits.aspx?ID=10\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price** 3,500 gp\r\n\r\n**Ingredients** 8 basic, 4 special\r\n\r\n**Preparation** DC 45 [Cooking Lore](/Skills.aspx?ID=8) or DC 47 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis meal is infused with the magical, life-giving energies of the First World itself. The exact ingredients for this meal are never the same, and …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 115"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This meal is infused with the magical, life-giving energies of the First World itself. The exact ingredients for this meal are never the same, and …",
+  "summary_markdown": "This meal is infused with the magical, life-giving energies of the First World itself. The exact ingredients for this meal are never the same, and …",
+  "text": " First World Mince Pie Source Kingmaker Companion Guide pg. 115 Recipe Price 3,500 gp Ingredients 8 basic, 4 special Preparation DC 45 Cooking Lore or DC 47 Survival Favorite Meal +3 status bonus to skill checks for all skills associated with the random ability score that increases. --- This meal is infused with the magical, life-giving energies of the First World itself. The exact ingredients for this meal are never the same, and the cook can never be sure exactly what they might be inspired to put into the pie until they begin cooking, as the choice of ingredients must be somewhat influenced by chance and whimsy. Note that this meal is an apex item, and you can't gain an ability score increase from more than one apex item at a time. Critical Success Increase a random ability score by 2 or to 18, whichever results in the higher score. This effect persists as long as the eater remains in the First World or an associated demiplane, or until they gain an effect from another special meal, whichever comes first. Success As critical success, but the effect lasts no longer than 24 hours. Critical Failure Something in the meal clashes with the eater's body, mind, and soul. When they roll an initiative check at the start of any combat, attempt a DC 11 flat check. On a failure, they become confused for 1 minute. This effect lasts as long as they remain in the First World (or an associated demiplane) or for 24 hours, whichever comes second. This is a curse effect.",
+  "trait": [
+   "Apex",
+   "Meal",
+   "Rare"
+  ],
+  "trait_group": [
+   "Equipment",
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Apex](/Traits.aspx?ID=10), [Meal](/Traits.aspx?ID=466), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Apex",
+   "Meal",
+   "Rare"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=6",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-7",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 1\" pfs=\"\">[Fish-on-a-Stick](/CampMeals.aspx?ID=7)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price**\r\n1 gp\r\n\r\n**Ingredients** 2 basic\r\n\r\n**Preparation** DC 17 [Cooking Lore](/Skills.aspx?ID=8) or DC 19 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The next time the eater rests within the next 8 hours, they need to sleep only 7 hours before they can begin daily preparations.\r\n\r\n</column>\r\n\r\n---\r\n\r\nFish-on-a-stick is a simple meal consisting of a fillet of fish (traditionally trout) seasoned with dill and other spices.\r\n\r\n**Critical Success** For 2 days, the eater can go for up to 18 hours without sleep before becoming [fatigued](/Conditions.aspx?ID=15).<br />\r\n**Success** For the next 24 hours, the eater can go for up to 17 hours without sleep before becoming fatigued.<br />\r\n**Critical Failure** The fish is bad, making it tougher for the eater to get the full restorative effects of sleep. They must sleep 9 hours instead of 8 before they can make daily preparations.",
+  "name": "Fish-on-a-Stick",
+  "price": 100,
+  "price_raw": "1 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 115",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price** 1 gp\r\n\r\n**Ingredients** 2 basic\r\n\r\n**Preparation** DC 17 [Cooking Lore](/Skills.aspx?ID=8) or DC 19 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFish-on-a-stick is a simple meal consisting of a fillet of fish (traditionally trout) seasoned with dill and other spices.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 115"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115",
+  "speed": {},
+  "summary": "Fish-on-a-stick is a simple meal consisting of a fillet of fish (traditionally trout) seasoned with dill and other spices.",
+  "summary_markdown": "Fish-on-a-stick is a simple meal consisting of a fillet of fish (traditionally trout) seasoned with dill and other spices.",
+  "text": " Fish-on-a-Stick Source Kingmaker Companion Guide pg. 115 Recipe Price 1 gp Ingredients 2 basic Preparation DC 17 Cooking Lore or DC 19 Survival Favorite Meal The next time the eater rests within the next 8 hours, they need to sleep only 7 hours before they can begin daily preparations. --- Fish-on-a-stick is a simple meal consisting of a fillet of fish (traditionally trout) seasoned with dill and other spices. Critical Success For 2 days, the eater can go for up to 18 hours without sleep before becoming fatigued. Success For the next 24 hours, the eater can go for up to 17 hours without sleep before becoming fatigued. Critical Failure The fish is bad, making it tougher for the eater to get the full restorative effects of sleep. They must sleep 9 hours instead of 8 before they can make daily preparations.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=7",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-8",
+  "level": 4,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 4\" pfs=\"\">[Galt Ragout](/CampMeals.aspx?ID=8)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price**\r\n5 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Acrobatics](/Skills.aspx?ID=1) checks to [Tumble Through](/Actions.aspx?ID=29).\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis traditional Galtan dish consists of a highly seasoned stew of meat and vegetables.\r\n\r\n**Critical Success** The eater receives a +1 status bonus to saving throws against effects that cause the [clumsy](/Conditions.aspx?ID=3) condition or [fatigue](/Conditions.aspx?ID=15), and during the next 2 days, they can go for up to 18 hours without sleep before becoming fatigued.<br />\r\n**Success** During the next 24 hours, the eater can go for up to 18 hours without sleep before becoming fatigued.<br />\r\n**Critical Failure** The spicy meal doesn't sit well. The eater is [sickened 1](/Conditions.aspx?ID=34) until they get a full night's rest.",
+  "name": "Galt Ragout",
+  "price": 500,
+  "price_raw": "5 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 115",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price** 5 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 20 [Cooking Lore](/Skills.aspx?ID=8) or DC 22 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis traditional Galtan dish consists of a highly seasoned stew of meat and vegetables.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 115"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This traditional Galtan dish consists of a highly seasoned stew of meat and vegetables.",
+  "summary_markdown": "This traditional Galtan dish consists of a highly seasoned stew of meat and vegetables.",
+  "text": " Galt Ragout Source Kingmaker Companion Guide pg. 115 Recipe Price 5 gp Ingredients 4 basic Preparation DC 20 Cooking Lore or DC 22 Survival Favorite Meal +1 status bonus to Acrobatics checks to Tumble Through. --- This traditional Galtan dish consists of a highly seasoned stew of meat and vegetables. Critical Success The eater receives a +1 status bonus to saving throws against effects that cause the clumsy condition or fatigue, and during the next 2 days, they can go for up to 18 hours without sleep before becoming fatigued. Success During the next 24 hours, the eater can go for up to 18 hours without sleep before becoming fatigued. Critical Failure The spicy meal doesn't sit well. The eater is sickened 1 until they get a full night's rest.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=8",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-9",
+  "level": 13,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 13\" pfs=\"\">[Giant Scrambled Egg with Shambletus](/CampMeals.aspx?ID=9)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price**\r\n150 gp\r\n\r\n**Ingredients** 6 basic, 2 special\r\n\r\n**Preparation** DC 33 [Cooking Lore](/Skills.aspx?ID=8) or DC 35 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to damage rolls with melee Strikes with weapons that require 2 hands to use.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis meal is traditionally prepared with [roc's](/Monsters.aspx?ID=352) eggs, with only a small portion prepared with special herbs and the uncommon mushrooms known as shambletus. The eggs that aren't prepared in this way are then served to the servants, while the aristocracy enjoys the main dish. It's only these portions that provide the following benefits— the “leftovers” merely provide nourishment.\r\n\r\n**Critical Success** The meal grants the eater a +2 status bonus to saving throws for 24 hours<br />\r\n**Success** The meal grants the eater a +1 status bonus to saving throws for 24 hours.<br />\r\n**Critical Failure** The meal is disappointing. The eater suffers a –2 status penalty to saving throws against [emotion](/Traits.aspx?ID=60) effects for 24 hours or until they critically succeed at such a saving throw, whichever comes first.",
+  "name": "Giant Scrambled Egg with Shambletus",
+  "price": 15000,
+  "price_raw": "150 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 115",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115\r\n\r\n**Recipe Price** 150 gp\r\n\r\n**Ingredients** 6 basic, 2 special\r\n\r\n**Preparation** DC 33 [Cooking Lore](/Skills.aspx?ID=8) or DC 35 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis meal is traditionally prepared with  roc's  eggs, with only a small portion prepared with special herbs and the uncommon mushrooms known as …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 115"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 115",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This meal is traditionally prepared with  roc's  eggs, with only a small portion prepared with special herbs and the uncommon mushrooms known as …",
+  "summary_markdown": "This meal is traditionally prepared with  roc's  eggs, with only a small portion prepared with special herbs and the uncommon mushrooms known as …",
+  "text": " Giant Scrambled Egg with Shambletus Source Kingmaker Companion Guide pg. 115 Recipe Price 150 gp Ingredients 6 basic, 2 special Preparation DC 33 Cooking Lore or DC 35 Survival Favorite Meal +1 status bonus to damage rolls with melee Strikes with weapons that require 2 hands to use. --- This meal is traditionally prepared with roc's eggs, with only a small portion prepared with special herbs and the uncommon mushrooms known as shambletus. The eggs that aren't prepared in this way are then served to the servants, while the aristocracy enjoys the main dish. It's only these portions that provide the following benefits— the “leftovers” merely provide nourishment. Critical Success The meal grants the eater a +2 status bonus to saving throws for 24 hours Success The meal grants the eater a +1 status bonus to saving throws for 24 hours. Critical Failure The meal is disappointing. The eater suffers a –2 status penalty to saving throws against emotion effects for 24 hours or until they critically succeed at such a saving throw, whichever comes first.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=9",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-10",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 6\" pfs=\"\">[Grilled Silver Eel](/CampMeals.aspx?ID=10)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price**\r\n13 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 24 [Cooking Lore](/Skills.aspx?ID=8) or DC 26 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The meal grants the following action usable once during the next 24 hours.<br />**Activate** <actions string=\"Free Action\" /> envision; **Frequency** once per meal; **Effect** Your Speed increases by 5 feet for 1 minute.\r\n\r\n</column>\r\n\r\n---\r\n\r\nWhen a silver eel is grilled with certain spices, its meat can help to bolster your deceptive ability, as well as your ability to slip past enemies in combat.\r\n\r\n**Critical Success** The meal grants the eater a +1 status bonus to [Lie](/Actions.aspx?ID=47) and to [Tumble Through](/Actions.aspx?ID=29) for 24 hours.<br />\r\n**Success** The meal grants the eater a +1 status bonus to Tumble Through for 24 hours.<br />\r\n**Critical Failure** The eel doesn't sit well, and the distracting stomach cramps and shortness of breath make it more difficult to move. The eater's Speed is reduced by 5 feet until they complete their daily preparations. This is a poison effect.",
+  "name": "Grilled Silver Eel",
+  "price": 1300,
+  "price_raw": "13 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 116",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price** 13 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 24 [Cooking Lore](/Skills.aspx?ID=8) or DC 26 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhen a silver eel is grilled with certain spices, its meat can help to bolster your deceptive ability, as well as your ability to slip past enemies …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 116"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "When a silver eel is grilled with certain spices, its meat can help to bolster your deceptive ability, as well as your ability to slip past enemies …",
+  "summary_markdown": "When a silver eel is grilled with certain spices, its meat can help to bolster your deceptive ability, as well as your ability to slip past enemies …",
+  "text": " Grilled Silver Eel Source Kingmaker Companion Guide pg. 116 Recipe Price 13 gp Ingredients 4 basic, 1 special Preparation DC 24 Cooking Lore or DC 26 Survival Favorite Meal The meal grants the following action usable once during the next 24 hours. Activate Free Action envision; Frequency once per meal; Effect Your Speed increases by 5 feet for 1 minute. --- When a silver eel is grilled with certain spices, its meat can help to bolster your deceptive ability, as well as your ability to slip past enemies in combat. Critical Success The meal grants the eater a +1 status bonus to Lie and to Tumble Through for 24 hours. Success The meal grants the eater a +1 status bonus to Tumble Through for 24 hours. Critical Failure The eel doesn't sit well, and the distracting stomach cramps and shortness of breath make it more difficult to move. The eater's Speed is reduced by 5 feet until they complete their daily preparations. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=10",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-11",
+  "level": 1,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 1\" pfs=\"\">[Haggis](/CampMeals.aspx?ID=11)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price**\r\n1 gp\r\n\r\n**Ingredients** 2 basic\r\n\r\n**Preparation** DC 15 [Cooking Lore](/Skills.aspx?ID=8) or DC 17 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to Will saves against [fear](/Traits.aspx?ID=68) effects for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis dish consists of a combination of grains, onions, spices, and organ meats boiled in an animal's stomach.\r\n\r\n**Critical Success** The meal bolsters the eater against illness, granting a +1 status bonus to saving throws against effects that cause [disease](/Traits.aspx?ID=46) or the [sickened](/Conditions.aspx?ID=34) condition for 24 hours.<br />\r\n**Success** The meal bolsters the eater against nausea, granting a +1 status bonus to effects that cause the sickened condition for 24 hours.<br />\r\n**Critical Failure** The meal makes the eater quite ill. They become sickened 1 until they get a full night's rest. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Haggis",
+  "price": 100,
+  "price_raw": "1 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 116",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price** 1 gp\r\n\r\n**Ingredients** 2 basic\r\n\r\n**Preparation** DC 15 [Cooking Lore](/Skills.aspx?ID=8) or DC 17 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis dish consists of a combination of grains, onions, spices, and organ meats boiled in an animal's stomach.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 116"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116",
+  "speed": {},
+  "summary": "This dish consists of a combination of grains, onions, spices, and organ meats boiled in an animal's stomach.",
+  "summary_markdown": "This dish consists of a combination of grains, onions, spices, and organ meats boiled in an animal's stomach.",
+  "text": " Haggis Source Kingmaker Companion Guide pg. 116 Recipe Price 1 gp Ingredients 2 basic Preparation DC 15 Cooking Lore or DC 17 Survival Favorite Meal +1 status bonus to Will saves against fear effects for 24 hours. --- This dish consists of a combination of grains, onions, spices, and organ meats boiled in an animal's stomach. Critical Success The meal bolsters the eater against illness, granting a +1 status bonus to saving throws against effects that cause disease or the sickened condition for 24 hours. Success The meal bolsters the eater against nausea, granting a +1 status bonus to effects that cause the sickened condition for 24 hours. Critical Failure The meal makes the eater quite ill. They become sickened 1 until they get a full night's rest. This is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=11",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-12",
+  "level": 0,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 0\" pfs=\"\">[Hearty Meal](/CampMeals.aspx?ID=12)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price**\r\n&amp;mdash; (this recipe is available automatically)\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 14 [Cooking Lore](/Skills.aspx?ID=8) or DC 16 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The eater recovers an additional amount of Hit Points equal to their level when they rest.\r\n\r\n</column>\r\n\r\n---\r\n\r\nBy taking extra time to prepare a meal, adding extra spices, and supplementing the meal with additional ingredients, you can turn a regular meal into a hearty one. Unlike other special meals, anyone can attempt to cook a hearty meal— no recipe is required.\r\n\r\n**Critical Success** The meal grants the eater a +1 status bonus to the next 3 saving throws they attempt during the next 24 hours.<br />\r\n**Success** The meal grants the eater a +1 status bonus to the next saving throw they attempt during the next 24 hours.<br />\r\n**Critical Failure** The hearty meal leaves the eater overstuffed. They suffer a –1 status penalty to initiative checks until they rest and begin their daily preparations.",
+  "name": "Hearty Meal",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 116",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price** \r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 14 [Cooking Lore](/Skills.aspx?ID=8) or DC 16 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nBy taking extra time to prepare a meal, adding extra spices, and supplementing the meal with additional ingredients, you can turn a regular meal into …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 116"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116",
+  "speed": {},
+  "summary": "By taking extra time to prepare a meal, adding extra spices, and supplementing the meal with additional ingredients, you can turn a regular meal into …",
+  "summary_markdown": "By taking extra time to prepare a meal, adding extra spices, and supplementing the meal with additional ingredients, you can turn a regular meal into …",
+  "text": " Hearty Meal Source Kingmaker Companion Guide pg. 116 Recipe Price &amp;mdash; (this recipe is available automatically) Ingredients 4 basic Preparation DC 14 Cooking Lore or DC 16 Survival Favorite Meal The eater recovers an additional amount of Hit Points equal to their level when they rest. --- By taking extra time to prepare a meal, adding extra spices, and supplementing the meal with additional ingredients, you can turn a regular meal into a hearty one. Unlike other special meals, anyone can attempt to cook a hearty meal— no recipe is required. Critical Success The meal grants the eater a +1 status bonus to the next 3 saving throws they attempt during the next 24 hours. Success The meal grants the eater a +1 status bonus to the next saving throw they attempt during the next 24 hours. Critical Failure The hearty meal leaves the eater overstuffed. They suffer a –1 status penalty to initiative checks until they rest and begin their daily preparations.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=12",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-13",
+  "level": 16,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 16\" pfs=\"\">[Hearty Purple Soup](/CampMeals.aspx?ID=13)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price**\r\n500 gp\r\n\r\n**Ingredients** 6 basic, 3 special\r\n\r\n**Preparation** DC 40 [Cooking Lore](/Skills.aspx?ID=8) or DC 42 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The bonus against [poison](/Traits.aspx?ID=126) and [disease](/Traits.aspx?ID=46) effects increases to +4.\r\n\r\n</column>\r\n\r\n---\r\n\r\n[Purple worm](/Monsters.aspx?ID=73) meat is not particularly flavorful. Yet when one takes a dose of the worm's poison and distills it in a way that reduces its toxicity, the hearty purple soup that results can be a significant panacea against poisons and diseases.\r\n\r\n**Critical Success** The meal grants immunity to diseases and poisons of level 15 or lower. In addition, the meal grants a +3 status bonus to saving throws against poison and disease effects. Any saving throws attempted against [cave worm](/MonsterFamilies.aspx?ID=21) poison or any poison of level 15 or lower are rolled twice, using the higher result as the actual result; this is a [fortune](/Traits.aspx?ID=76) effect.<br />\r\n**Success** As critical success, except that the fortune effect only applies to cave worm poison, not to other poisons of level 15 or lower.<br />\r\n**Critical Failure** Instead of protecting from poison, the soup is poison itself. The eater becomes [enfeebled 3](/Conditions.aspx?ID=13); every 24 hours, this enfeebled condition diminishes by 1. This is a poison effect.",
+  "name": "Hearty Purple Soup",
+  "price": 50000,
+  "price_raw": "500 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 116",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "rare",
+  "rarity_id": 3,
+  "release_date": "2022-10-26",
+  "requirement": "legendary in  Nature ",
+  "requirement_markdown": "legendary in [Nature](/Skills.aspx?ID=10)",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Rare\" url=\"/Traits.aspx?ID=137\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price** 500 gp\r\n\r\n**Ingredients** 6 basic, 3 special\r\n\r\n**Preparation** DC 40 [Cooking Lore](/Skills.aspx?ID=8) or DC 42 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\n Purple worm  meat is not particularly flavorful. Yet when one takes a dose of the worm's poison and distills it in a way that reduces its toxicity, …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 116"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": " Purple worm  meat is not particularly flavorful. Yet when one takes a dose of the worm's poison and distills it in a way that reduces its toxicity, …",
+  "summary_markdown": " Purple worm  meat is not particularly flavorful. Yet when one takes a dose of the worm's poison and distills it in a way that reduces its toxicity, …",
+  "text": " Hearty Purple Soup Source Kingmaker Companion Guide pg. 116 Recipe Price 500 gp Ingredients 6 basic, 3 special Preparation DC 40 Cooking Lore or DC 42 Survival Favorite Meal The bonus against poison and disease effects increases to +4. --- Purple worm meat is not particularly flavorful. Yet when one takes a dose of the worm's poison and distills it in a way that reduces its toxicity, the hearty purple soup that results can be a significant panacea against poisons and diseases. Critical Success The meal grants immunity to diseases and poisons of level 15 or lower. In addition, the meal grants a +3 status bonus to saving throws against poison and disease effects. Any saving throws attempted against cave worm poison or any poison of level 15 or lower are rolled twice, using the higher result as the actual result; this is a fortune effect. Success As critical success, except that the fortune effect only applies to cave worm poison, not to other poisons of level 15 or lower. Critical Failure Instead of protecting from poison, the soup is poison itself. The eater becomes enfeebled 3; every 24 hours, this enfeebled condition diminishes by 1. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Rare"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Rare](/Traits.aspx?ID=137)",
+  "trait_raw": [
+   "Meal",
+   "Rare"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=13",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-14",
+  "level": 6,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 6\" pfs=\"\">[Hunter's Roast](/CampMeals.aspx?ID=14)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price**\r\n13 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 22 [Cooking Lore](/Skills.aspx?ID=8) or DC 24 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Nature](/Skills.aspx?ID=10) checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nA classic meal of meat, mushrooms, and root vegetables, this roast meal is served amid helpings of thick gravy.\r\n\r\n**Critical Success** The eater gains a number of temporary Hit Points equal to their level, lasting up to 24 hours.<br />\r\n**Success** As critical success, but the temporary Hit Points last only until the eater begins their daily preparations.<br />\r\n**Critical Failure** The hunter's roast is more than unpalatable— it's poisonous! The eater takes 2d6 poison damage and is [sickened 1](/Conditions.aspx?ID=34) until they get a full night's rest. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Hunter's Roast",
+  "price": 1300,
+  "price_raw": "13 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 116",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116\r\n\r\n**Recipe Price** 13 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 22 [Cooking Lore](/Skills.aspx?ID=8) or DC 24 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA classic meal of meat, mushrooms, and root vegetables, this roast meal is served amid helpings of thick gravy.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 116"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 116",
+  "speed": {},
+  "summary": "A classic meal of meat, mushrooms, and root vegetables, this roast meal is served amid helpings of thick gravy.",
+  "summary_markdown": "A classic meal of meat, mushrooms, and root vegetables, this roast meal is served amid helpings of thick gravy.",
+  "text": " Hunter's Roast Source Kingmaker Companion Guide pg. 116 Recipe Price 13 gp Ingredients 4 basic Preparation DC 22 Cooking Lore or DC 24 Survival Favorite Meal +1 status bonus to Nature checks. --- A classic meal of meat, mushrooms, and root vegetables, this roast meal is served amid helpings of thick gravy. Critical Success The eater gains a number of temporary Hit Points equal to their level, lasting up to 24 hours. Success As critical success, but the temporary Hit Points last only until the eater begins their daily preparations. Critical Failure The hunter's roast is more than unpalatable— it's poisonous! The eater takes 2d6 poison damage and is sickened 1 until they get a full night's rest. This is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=14",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-15",
+  "level": 0,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 0\" pfs=\"\">[Jeweled Rice](/CampMeals.aspx?ID=15)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price**\r\n5 sp\r\n\r\n**Ingredients** 1 basic\r\n\r\n**Preparation** DC 14 [Cooking Lore](/Skills.aspx?ID=8) or DC 16 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Acrobatics](/Skills.aspx?ID=1) checks to [Escape](/Actions.aspx?ID=79) for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis light but nutritious meal won't slow you down and is particularly favored by those with delicate stomachs.\r\n\r\n**Critical Success** Twice during the next 24 hours when the eater takes the Step action, they carefully move 10 feet instead of five feet.<br />\r\n**Success** As critical success but the eater can Step 10 feet only once during the next 24 hours.<br />\r\n**Critical Failure** The meal was a bit too light; you must eat another meal to stave off starvation.",
+  "name": "Jeweled Rice",
+  "price": 50,
+  "price_raw": "5 sp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 117",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price** 5 sp\r\n\r\n**Ingredients** 1 basic\r\n\r\n**Preparation** DC 14 [Cooking Lore](/Skills.aspx?ID=8) or DC 16 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis light but nutritious meal won't slow you down and is particularly favored by those with delicate stomachs.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 117"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117",
+  "speed": {},
+  "summary": "This light but nutritious meal won't slow you down and is particularly favored by those with delicate stomachs.",
+  "summary_markdown": "This light but nutritious meal won't slow you down and is particularly favored by those with delicate stomachs.",
+  "text": " Jeweled Rice Source Kingmaker Companion Guide pg. 117 Recipe Price 5 sp Ingredients 1 basic Preparation DC 14 Cooking Lore or DC 16 Survival Favorite Meal +1 status bonus to Acrobatics checks to Escape for 24 hours. --- This light but nutritious meal won't slow you down and is particularly favored by those with delicate stomachs. Critical Success Twice during the next 24 hours when the eater takes the Step action, they carefully move 10 feet instead of five feet. Success As critical success but the eater can Step 10 feet only once during the next 24 hours. Critical Failure The meal was a bit too light; you must eat another meal to stave off starvation.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=15",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-16",
+  "level": 10,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 10\" pfs=\"\">[Kameberry Pie](/CampMeals.aspx?ID=16)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price**\r\n50 gp\r\n\r\n**Ingredients** 3 basic, 2 special\r\n\r\n**Preparation** DC 27 [Cooking Lore](/Skills.aspx?ID=8) or DC 29 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to Religion checks for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nKameberry pie is a tart confection valued by many who claim that its sourness can help provide insights.\r\n\r\n**Critical Success** The meal restores 6d8 Hit Points when it's eaten and an additional 6d8 Hit Points when the eater wakes from a night of rest.<br />\r\n**Success** The meal restores 3d8 Hit Points when it's eaten and an additional 3d8 Hit Points when the eater wakes from a night of rest.<br />\r\n**Critical Failure** The meal is either far too sweet or far too sour. Worse, the unpleasant flavors linger for 8 hours and are distracting enough to cause the eater to become [stupefied 1](/Conditions.aspx?ID=37) for that time.",
+  "name": "Kameberry Pie",
+  "price": 5000,
+  "price_raw": "50 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 117",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "master in  Religion ",
+  "requirement_markdown": "master in [Religion](/Skills.aspx?ID=13)",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price** 50 gp\r\n\r\n**Ingredients** 3 basic, 2 special\r\n\r\n**Preparation** DC 27 [Cooking Lore](/Skills.aspx?ID=8) or DC 29 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nKameberry pie is a tart confection valued by many who claim that its sourness can help provide insights.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 117"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117",
+  "speed": {},
+  "summary": "Kameberry pie is a tart confection valued by many who claim that its sourness can help provide insights.",
+  "summary_markdown": "Kameberry pie is a tart confection valued by many who claim that its sourness can help provide insights.",
+  "text": " Kameberry Pie Source Kingmaker Companion Guide pg. 117 Recipe Price 50 gp Ingredients 3 basic, 2 special Preparation DC 27 Cooking Lore or DC 29 Survival Favorite Meal +1 status bonus to Religion checks for 24 hours. --- Kameberry pie is a tart confection valued by many who claim that its sourness can help provide insights. Critical Success The meal restores 6d8 Hit Points when it's eaten and an additional 6d8 Hit Points when the eater wakes from a night of rest. Success The meal restores 3d8 Hit Points when it's eaten and an additional 3d8 Hit Points when the eater wakes from a night of rest. Critical Failure The meal is either far too sweet or far too sour. Worse, the unpleasant flavors linger for 8 hours and are distracting enough to cause the eater to become stupefied 1 for that time.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=16",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-17",
+  "level": 14,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 14\" pfs=\"\">[Mastodon Steak](/CampMeals.aspx?ID=17)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price**\r\n225 gp\r\n\r\n**Ingredients** 4 basic, 3 special\r\n\r\n**Preparation** DC 34 [Cooking Lore](/Skills.aspx?ID=8) or DC 36 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to Fortitude saves for the next 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nPrepared correctly, mastodon steaks are said to impart the eater with an echo of the megafauna's strength.\r\n\r\n**Critical Success** The meal restores 7d8 Hit Points and reduces the eater's [clumsy](/Conditions.aspx?ID=3), [drained](/Conditions.aspx?ID=10), [enfeebled](/Conditions.aspx?ID=13), and [stupefied](/Conditions.aspx?ID=37) conditions by 2.<br />\r\n**Success** The meal restores 4d8 Hit Points and reduces one of the eater's clumsy, drained, enfeebled, or stupefied conditions by 2 (if the eater suffers from more than one, determine which one is reduced randomly).<br />\r\n**Critical Failure** The meal seems to take forever to digest. The eater becomes clumsy 2. This condition is reduced to clumsy 1 after the eater gets a night's rest and does their daily preparations, and is removed entirely after 24 hours. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Mastodon Steak",
+  "price": 22500,
+  "price_raw": "225 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 117",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price** 225 gp\r\n\r\n**Ingredients** 4 basic, 3 special\r\n\r\n**Preparation** DC 34 [Cooking Lore](/Skills.aspx?ID=8) or DC 36 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nPrepared correctly, mastodon steaks are said to impart the eater with an echo of the megafauna's strength.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 117"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "Prepared correctly, mastodon steaks are said to impart the eater with an echo of the megafauna's strength.",
+  "summary_markdown": "Prepared correctly, mastodon steaks are said to impart the eater with an echo of the megafauna's strength.",
+  "text": " Mastodon Steak Source Kingmaker Companion Guide pg. 117 Recipe Price 225 gp Ingredients 4 basic, 3 special Preparation DC 34 Cooking Lore or DC 36 Survival Favorite Meal +1 status bonus to Fortitude saves for the next 24 hours. --- Prepared correctly, mastodon steaks are said to impart the eater with an echo of the megafauna's strength. Critical Success The meal restores 7d8 Hit Points and reduces the eater's clumsy, drained, enfeebled, and stupefied conditions by 2. Success The meal restores 4d8 Hit Points and reduces one of the eater's clumsy, drained, enfeebled, or stupefied conditions by 2 (if the eater suffers from more than one, determine which one is reduced randomly). Critical Failure The meal seems to take forever to digest. The eater becomes clumsy 2. This condition is reduced to clumsy 1 after the eater gets a night's rest and does their daily preparations, and is removed entirely after 24 hours. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=17",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-18",
+  "level": 11,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 11\" pfs=\"\">[Monster Casserole](/CampMeals.aspx?ID=18)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price**\r\n70 gp\r\n\r\n**Ingredients** 7 basic, 2 special\r\n\r\n**Preparation** DC 28 [Cooking Lore](/Skills.aspx?ID=8) or DC 30 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Athletics](/Skills.aspx?ID=3) checks for the next 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThe exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat.\r\n\r\n**Critical Success** The meal grants a +2 status bonus to damage rolls from melee Strikes against [aberrations](/Traits.aspx?ID=1), [beasts](/Traits.aspx?ID=20), and [dragons](/Traits.aspx?ID=50) for the next 24 hours.<br />\r\n**Success** The meal grants a +2 status bonus to damage rolls from melee Strikes against aberrations, beasts, and dragons for the remainder of the camping session.<br />\r\n**Critical Failure** The meal is unsettling to both the belly and the mind. The eater suffers a –2 status penalty to saving throws against [fear](/Traits.aspx?ID=68) effects for the next 24 hours or until they achieve a critical success on such a saving throw, whichever comes first.",
+  "name": "Monster Casserole",
+  "price": 7000,
+  "price_raw": "70 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 117",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117\r\n\r\n**Recipe Price** 70 gp\r\n\r\n**Ingredients** 7 basic, 2 special\r\n\r\n**Preparation** DC 28 [Cooking Lore](/Skills.aspx?ID=8) or DC 30 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThe exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 117"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 117",
+  "speed": {},
+  "summary": "The exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat.",
+  "summary_markdown": "The exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat.",
+  "text": " Monster Casserole Source Kingmaker Companion Guide pg. 117 Recipe Price 70 gp Ingredients 7 basic, 2 special Preparation DC 28 Cooking Lore or DC 30 Survival Favorite Meal +1 status bonus to Athletics checks for the next 24 hours. --- The exact ingredients of a monster casserole vary according to taste, but always include eggs, cheese, and meat. Critical Success The meal grants a +2 status bonus to damage rolls from melee Strikes against aberrations, beasts, and dragons for the next 24 hours. Success The meal grants a +2 status bonus to damage rolls from melee Strikes against aberrations, beasts, and dragons for the remainder of the camping session. Critical Failure The meal is unsettling to both the belly and the mind. The eater suffers a –2 status penalty to saving throws against fear effects for the next 24 hours or until they achieve a critical success on such a saving throw, whichever comes first.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=18",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-19",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 8\" pfs=\"\">[Onion Soup](/CampMeals.aspx?ID=19)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price**\r\n25 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 24 [Cooking Lore](/Skills.aspx?ID=8) or DC 26 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Arcana](/Skills.aspx?ID=2) checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nA deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to Will saves for 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to Will saves for the remainder of the camping session.<br />\r\n**Critical Failure** The meal results in an obnoxious case of lingering halitosis, causing a –1 status penalty to Charisma-based skill checks for the next 24 hours. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Onion Soup",
+  "price": 2500,
+  "price_raw": "25 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 118",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price** 25 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 24 [Cooking Lore](/Skills.aspx?ID=8) or DC 26 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 118"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118",
+  "speed": {},
+  "summary": "A deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary.",
+  "summary_markdown": "A deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary.",
+  "text": " Onion Soup Source Kingmaker Companion Guide pg. 118 Recipe Price 25 gp Ingredients 2 basic, 1 special Preparation DC 24 Cooking Lore or DC 26 Survival Favorite Meal +1 status bonus to Arcana checks. --- A deceptively simple meal, the inclusion of gourmet cheeses in onion soup can elevate it to something extraordinary. Critical Success The meal grants a +1 status bonus to Will saves for 24 hours. Success The meal grants a +1 status bonus to Will saves for the remainder of the camping session. Critical Failure The meal results in an obnoxious case of lingering halitosis, causing a –1 status penalty to Charisma-based skill checks for the next 24 hours. This is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=19",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-20",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 7\" pfs=\"\">[Owlbear Omelet](/CampMeals.aspx?ID=20)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price**\r\n18 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 25 [Cooking Lore](/Skills.aspx?ID=8) or DC 27 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Nature](/Skills.aspx?ID=10) checks.\r\n\r\n</column>\r\n\r\n---\r\n\r\nAn owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be a farce.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to one- handed melee Strike damage rolls for 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to one-handed melee Strike damage rolls for the remainder of the camping session.<br />\r\n**Critical Failure** The owlbear omelet continues to fight like a monster, even in the eater's belly. They suffer a –1 status penalty to melee Strikes for the next 24 hours. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Owlbear Omelet",
+  "price": 1800,
+  "price_raw": "18 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 118",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price** 18 gp\r\n\r\n**Ingredients** 4 basic, 1 special\r\n\r\n**Preparation** DC 25 [Cooking Lore](/Skills.aspx?ID=8) or DC 27 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nAn owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 118"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "An owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be …",
+  "summary_markdown": "An owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be …",
+  "text": " Owlbear Omelet Source Kingmaker Companion Guide pg. 118 Recipe Price 18 gp Ingredients 4 basic, 1 special Preparation DC 25 Cooking Lore or DC 27 Survival Favorite Meal +1 status bonus to Nature checks. --- An owlbear omelet can technically be made from any sort of egg, but many consider such meals made with anything other than genuine owlbear eggs to be a farce. Critical Success The meal grants a +1 status bonus to one- handed melee Strike damage rolls for 24 hours. Success The meal grants a +1 status bonus to one-handed melee Strike damage rolls for the remainder of the camping session. Critical Failure The owlbear omelet continues to fight like a monster, even in the eater's belly. They suffer a –1 status penalty to melee Strikes for the next 24 hours. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=20",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-21",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 2\" pfs=\"\">[Rice-n-Nut Pudding](/CampMeals.aspx?ID=21)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price**\r\n2 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 16 [Cooking Lore](/Skills.aspx?ID=8) or DC 18 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** Once during the next 24 hours, when the eater [Refocuses](/Actions.aspx?ID=71) to regain Focus Points, the restoration of magic infuses and invigorates them, restoring a number of Hit Points equal to 1d8 plus their level.\r\n\r\n</column>\r\n\r\n---\r\n\r\nA properly cooked serving of rice-n-nut pudding requires a bit of understanding of the nature of arcane magic, since drawing upon this knowledge while the meal simmers not only improves the taste but adds a bit of extra focus for spellcasters of any tradition.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to Arcana checks made to [Identify Magic](/Actions.aspx?ID=24) and to [Learn a Spell](/Actions.aspx?ID=25) for the next 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to Arcana checks made to Identify Magic and to Learn a spell for the remainder of the camping session.<br />\r\n**Critical Failure** The meal is filling, but its magical influence accidentally makes the eater more susceptible to certain magical effects which are drawn to the eater like iron filings to a magnet. The eater suffers a –1 status penalty to Reflex saves against spells for the next 24 hours. This is a [curse](/Traits.aspx?ID=38) effect.",
+  "name": "Rice-n-Nut Pudding",
+  "price": 200,
+  "price_raw": "2 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 118",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "trained in  Arcana ",
+  "requirement_markdown": "trained in [Arcana](/Skills.aspx?ID=2)",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price** 2 gp\r\n\r\n**Ingredients** 2 basic, 1 special\r\n\r\n**Preparation** DC 16 [Cooking Lore](/Skills.aspx?ID=8) or DC 18 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nA properly cooked serving of rice-n-nut pudding requires a bit of understanding of the nature of arcane magic, since drawing upon this knowledge …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 118"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118",
+  "speed": {},
+  "summary": "A properly cooked serving of rice-n-nut pudding requires a bit of understanding of the nature of arcane magic, since drawing upon this knowledge …",
+  "summary_markdown": "A properly cooked serving of rice-n-nut pudding requires a bit of understanding of the nature of arcane magic, since drawing upon this knowledge …",
+  "text": " Rice-n-Nut Pudding Source Kingmaker Companion Guide pg. 118 Recipe Price 2 gp Ingredients 2 basic, 1 special Preparation DC 16 Cooking Lore or DC 18 Survival Favorite Meal Once during the next 24 hours, when the eater Refocuses to regain Focus Points, the restoration of magic infuses and invigorates them, restoring a number of Hit Points equal to 1d8 plus their level. --- A properly cooked serving of rice-n-nut pudding requires a bit of understanding of the nature of arcane magic, since drawing upon this knowledge while the meal simmers not only improves the taste but adds a bit of extra focus for spellcasters of any tradition. Critical Success The meal grants a +1 status bonus to Arcana checks made to Identify Magic and to Learn a Spell for the next 24 hours. Success The meal grants a +1 status bonus to Arcana checks made to Identify Magic and to Learn a spell for the remainder of the camping session. Critical Failure The meal is filling, but its magical influence accidentally makes the eater more susceptible to certain magical effects which are drawn to the eater like iron filings to a magnet. The eater suffers a –1 status penalty to Reflex saves against spells for the next 24 hours. This is a curse effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=21",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-22",
+  "level": 12,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 12\" pfs=\"\">[Seasoned Wings and Thighs](/CampMeals.aspx?ID=22)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price**\r\n100 gp\r\n\r\n**Ingredients** 4 basic, 2 special\r\n\r\n**Preparation** DC 30 [Cooking Lore](/Skills.aspx?ID=8) or DC 32 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The eater gains the following reaction, which they can use once during the next 24 hours.<br />**Ignite Magic** <actions string=\"Reaction\" /> ([evocation](/Traits.aspx?ID=65), [fire](/Traits.aspx?ID=72), [primal](/Traits.aspx?ID=134)) **Frequency** once per day; **Trigger** a creature rolls a critical failure against a single-target spell you cast on it; **Effect** You cause the magic affecting the target to ignite into flames. The creature takes 2d6 [persistent fire damage](/Conditions.aspx?ID=29) in addition to the normal effects of critically failing.\r\n\r\n</column>\r\n\r\n---\r\n\r\nWhile the exact level of spice in this meal depends on the cook, many pride in making the wings and thighs almost unpalatably spicy. Part of the tradition of cooking this meal involves roasting the meat with magical fire (produce flame is typically used), and the process infuses the resulting meal with some of that burning magic.\r\n\r\n**Critical Success** The meal grants the eater resistance to fire 10 for the remainder of the camping session and resistance to fire 5 for the next 24 hours.<br />\r\n**Success** The meal grants the eater resistance to fire 10 for the remainder of the camping session.<br />\r\n**Critical Failure** The wings and thighs are too hot! The eater is forced to spit them out and gains no nourishment from the meal. Additionally, they are [sickened 2](/Conditions.aspx?ID=34) until they get a full night's rest, and they cannot reduce this condition's value naturally, but it's a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Seasoned Wings and Thighs",
+  "price": 10000,
+  "price_raw": "100 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 118",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "requirement": "ability to cast a  fire  spell or create a fire effect",
+  "requirement_markdown": "ability to cast a [fire](/Traits.aspx?ID=72) spell or create a fire effect",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118\r\n\r\n**Recipe Price** 100 gp\r\n\r\n**Ingredients** 4 basic, 2 special\r\n\r\n**Preparation** DC 30 [Cooking Lore](/Skills.aspx?ID=8) or DC 32 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nWhile the exact level of spice in this meal depends on the cook, many pride in making the wings and thighs almost unpalatably spicy. Part of the …\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 118"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 118",
+  "speed": {},
+  "summary": "While the exact level of spice in this meal depends on the cook, many pride in making the wings and thighs almost unpalatably spicy. Part of the …",
+  "summary_markdown": "While the exact level of spice in this meal depends on the cook, many pride in making the wings and thighs almost unpalatably spicy. Part of the …",
+  "text": " Seasoned Wings and Thighs Source Kingmaker Companion Guide pg. 118 Recipe Price 100 gp Ingredients 4 basic, 2 special Preparation DC 30 Cooking Lore or DC 32 Survival Favorite Meal The eater gains the following reaction, which they can use once during the next 24 hours. Ignite Magic Reaction (evocation, fire, primal) Frequency once per day; Trigger a creature rolls a critical failure against a single-target spell you cast on it; Effect You cause the magic affecting the target to ignite into flames. The creature takes 2d6 persistent fire damage in addition to the normal effects of critically failing. --- While the exact level of spice in this meal depends on the cook, many pride in making the wings and thighs almost unpalatably spicy. Part of the tradition of cooking this meal involves roasting the meat with magical fire (produce flame is typically used), and the process infuses the resulting meal with some of that burning magic. Critical Success The meal grants the eater resistance to fire 10 for the remainder of the camping session and resistance to fire 5 for the next 24 hours. Success The meal grants the eater resistance to fire 10 for the remainder of the camping session. Critical Failure The wings and thighs are too hot! The eater is forced to spit them out and gains no nourishment from the meal. Additionally, they are sickened 2 until they get a full night's rest, and they cannot reduce this condition's value naturally, but it's a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=22",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-23",
+  "level": 2,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 2\" pfs=\"\">[Shepherd's Pie](/CampMeals.aspx?ID=23)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price**\r\n2 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 18 [Cooking Lore](/Skills.aspx?ID=8) or DC 20 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** For the next 24 hours, the eater's healing ability is enhanced. Whenever they recover Hit Points with a healing effect, they restore 1 additional Hit Point. If an effect would heal them more than once, such as [fast healing](/MonsterAbilities.aspx?ID=15), the additional Hit Point applies only the first time they're healed\r\n\r\n</column>\r\n\r\n---\r\n\r\nThis simple but filling meal provides ample amounts of physical nutrition and mental comfort.\r\n\r\n**Critical Success** The meal augments physical recovery. When the eater recovers Hit Points from resting during this camping session, they recover an additional 4d6 Hit Points. If the eater was [drained](/Conditions.aspx?ID=10), they reduce their drained condition by 2 points rather than by 1.<br />\r\n**Success** The meal augments the body's ability to recover. When the eater recovers Hit Points from resting during this camping session, they recover an additional 2d6 Hit Points.<br />\r\n**Critical Failure** The meal doesn't sit well. When the eater rests during this camping session, they regain only half the amount of Hit Points from resting that they normally would have.",
+  "name": "Shepherd's Pie",
+  "price": 200,
+  "price_raw": "2 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 119",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price** 2 gp\r\n\r\n**Ingredients** 4 basic\r\n\r\n**Preparation** DC 18 [Cooking Lore](/Skills.aspx?ID=8) or DC 20 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThis simple but filling meal provides ample amounts of physical nutrition and mental comfort.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 119"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "This simple but filling meal provides ample amounts of physical nutrition and mental comfort.",
+  "summary_markdown": "This simple but filling meal provides ample amounts of physical nutrition and mental comfort.",
+  "text": " Shepherd's Pie Source Kingmaker Companion Guide pg. 119 Recipe Price 2 gp Ingredients 4 basic Preparation DC 18 Cooking Lore or DC 20 Survival Favorite Meal For the next 24 hours, the eater's healing ability is enhanced. Whenever they recover Hit Points with a healing effect, they restore 1 additional Hit Point. If an effect would heal them more than once, such as fast healing, the additional Hit Point applies only the first time they're healed --- This simple but filling meal provides ample amounts of physical nutrition and mental comfort. Critical Success The meal augments physical recovery. When the eater recovers Hit Points from resting during this camping session, they recover an additional 4d6 Hit Points. If the eater was drained, they reduce their drained condition by 2 points rather than by 1. Success The meal augments the body's ability to recover. When the eater recovers Hit Points from resting during this camping session, they recover an additional 2d6 Hit Points. Critical Failure The meal doesn't sit well. When the eater rests during this camping session, they regain only half the amount of Hit Points from resting that they normally would have.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=23",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-24",
+  "level": 8,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 8\" pfs=\"\">[Smoked Trout and Hydra Pate](/CampMeals.aspx?ID=24)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price**\r\n25 gp\r\n\r\n**Ingredients** 6 basic, 2 special\r\n\r\n**Preparation** DC 26 [Cooking Lore](/Skills.aspx?ID=8) or DC 28 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** +1 status bonus to [Athletics](/Skills.aspx?ID=3) checks for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nMany prefer to spread smoked trout and hydra pate on bread or crackers or use it as a dip for vegetables.\r\n\r\n**Critical Success** For the next 24 hours, the eater treats light armor they're at least trained in as if the armor had the [comfort](/Traits.aspx?ID=203) trait and gain a +1 status bonus to Fortitude saves.<br />\r\n**Success** As success, but the benefits persist only until the end of this camping session.<br />\r\n**Critical Failure** The meal was prepared poorly, and as such the eater gains no nutritional value from it. Worse, the aches and pains they endure cause them to become [enfeebled 1](/Conditions.aspx?ID=13) until they've had a full night of rest. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Smoked Trout and Hydra Pate",
+  "price": 2500,
+  "price_raw": "25 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 119",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "uncommon",
+  "rarity_id": 2,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Uncommon\" url=\"/Traits.aspx?ID=159\" />\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price** 25 gp\r\n\r\n**Ingredients** 6 basic, 2 special\r\n\r\n**Preparation** DC 26 [Cooking Lore](/Skills.aspx?ID=8) or DC 28 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nMany prefer to spread smoked trout and hydra pate on bread or crackers or use it as a dip for vegetables.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 119"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119",
+  "speed": {},
+  "spoilers": "Kingmaker",
+  "summary": "Many prefer to spread smoked trout and hydra pate on bread or crackers or use it as a dip for vegetables.",
+  "summary_markdown": "Many prefer to spread smoked trout and hydra pate on bread or crackers or use it as a dip for vegetables.",
+  "text": " Smoked Trout and Hydra Pate Source Kingmaker Companion Guide pg. 119 Recipe Price 25 gp Ingredients 6 basic, 2 special Preparation DC 26 Cooking Lore or DC 28 Survival Favorite Meal +1 status bonus to Athletics checks for 24 hours. --- Many prefer to spread smoked trout and hydra pate on bread or crackers or use it as a dip for vegetables. Critical Success For the next 24 hours, the eater treats light armor they're at least trained in as if the armor had the comfort trait and gain a +1 status bonus to Fortitude saves. Success As success, but the benefits persist only until the end of this camping session. Critical Failure The meal was prepared poorly, and as such the eater gains no nutritional value from it. Worse, the aches and pains they endure cause them to become enfeebled 1 until they've had a full night of rest. This is a poison effect.",
+  "trait": [
+   "Meal",
+   "Uncommon"
+  ],
+  "trait_group": [
+   "Kingdom",
+   "Rarity"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466), [Uncommon](/Traits.aspx?ID=159)",
+  "trait_raw": [
+   "Meal",
+   "Uncommon"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=24",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-25",
+  "level": 3,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 3\" pfs=\"\">[Succulent Sausages](/CampMeals.aspx?ID=25)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price**\r\n3 gp\r\n\r\n**Ingredients** 3 basic, 1 special\r\n\r\n**Preparation** DC 18 [Cooking Lore](/Skills.aspx?ID=8) or DC 20 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The eater gains the following reaction, which they can use once during the next 24 hours. <br />**Careful Casting** <actions string=\"Free Action\" /> **Frequency** once per day; **Trigger** a reaction disrupts your spell; **Effect** You focus on your spellcasting in order to keep your spell from slipping away. Attempt a DC 15 flat check. On a success, the spell is not disrupted, and you cast it successfully.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThese savory sausages are grilled with onions.\r\n\r\n**Critical Success** The meal helps the eater recover from burns, bleeding, and other [persistent damage](/Conditions.aspx?ID=29), reducing the DC of flat checks made to end persistent damage by 4 for the next 24 hours.<br />\r\n**Success** As critical success, but the effects last only until the eater begins their daily preparations.<br />\r\n**Critical Failure** The sausages leave the eater feeling bloated and uncomfortable. They become [clumsy 1](/Conditions.aspx?ID=3) until they get a full night's rest. This is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Succulent Sausages",
+  "price": 300,
+  "price_raw": "3 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 119",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price** 3 gp\r\n\r\n**Ingredients** 3 basic, 1 special\r\n\r\n**Preparation** DC 18 [Cooking Lore](/Skills.aspx?ID=8) or DC 20 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese savory sausages are grilled with onions.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 119"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119",
+  "speed": {},
+  "summary": "These savory sausages are grilled with onions.",
+  "summary_markdown": "These savory sausages are grilled with onions.",
+  "text": " Succulent Sausages Source Kingmaker Companion Guide pg. 119 Recipe Price 3 gp Ingredients 3 basic, 1 special Preparation DC 18 Cooking Lore or DC 20 Survival Favorite Meal The eater gains the following reaction, which they can use once during the next 24 hours. Careful Casting Free Action Frequency once per day; Trigger a reaction disrupts your spell; Effect You focus on your spellcasting in order to keep your spell from slipping away. Attempt a DC 15 flat check. On a success, the spell is not disrupted, and you cast it successfully. --- These savory sausages are grilled with onions. Critical Success The meal helps the eater recover from burns, bleeding, and other persistent damage, reducing the DC of flat checks made to end persistent damage by 4 for the next 24 hours. Success As critical success, but the effects last only until the eater begins their daily preparations. Critical Failure The sausages leave the eater feeling bloated and uncomfortable. They become clumsy 1 until they get a full night's rest. This is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=25",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-26",
+  "level": 7,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 7\" pfs=\"\">[Sweet Pancakes](/CampMeals.aspx?ID=26)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price**\r\n18 gp\r\n\r\n**Ingredients** 2 basic, 2 special\r\n\r\n**Preparation** DC 23 [Cooking Lore](/Skills.aspx?ID=8) or DC 25 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** When combat begins, the eater enjoys a quick boost of speed—on their first turn in each combat during the next 24 hours, they increase their Speed by 5 feet.\r\n\r\n</column>\r\n\r\n---\r\n\r\nThese filling pancakes are delicious, even without toppings.\r\n\r\n**Critical Success** The meal grants a +1 status bonus to Reflex saves for 24 hours.<br />\r\n**Success** The meal grants a +1 status bonus to Reflex saves for the remainder of the camping session.<br />\r\n**Critical Failure** The pancakes are simply too sweet! Jitters cause the eater to suffer a –1 status penalty to Reflex saves for 24 hours; this is a [poison](/Traits.aspx?ID=126) effect.",
+  "name": "Sweet Pancakes",
+  "price": 1800,
+  "price_raw": "18 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 119",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price** 18 gp\r\n\r\n**Ingredients** 2 basic, 2 special\r\n\r\n**Preparation** DC 23 [Cooking Lore](/Skills.aspx?ID=8) or DC 25 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nThese filling pancakes are delicious, even without toppings.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 119"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119",
+  "speed": {},
+  "summary": "These filling pancakes are delicious, even without toppings.",
+  "summary_markdown": "These filling pancakes are delicious, even without toppings.",
+  "text": " Sweet Pancakes Source Kingmaker Companion Guide pg. 119 Recipe Price 18 gp Ingredients 2 basic, 2 special Preparation DC 23 Cooking Lore or DC 25 Survival Favorite Meal When combat begins, the eater enjoys a quick boost of speed—on their first turn in each combat during the next 24 hours, they increase their Speed by 5 feet. --- These filling pancakes are delicious, even without toppings. Critical Success The meal grants a +1 status bonus to Reflex saves for 24 hours. Success The meal grants a +1 status bonus to Reflex saves for the remainder of the camping session. Critical Failure The pancakes are simply too sweet! Jitters cause the eater to suffer a –1 status penalty to Reflex saves for 24 hours; this is a poison effect.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=26",
+  "weakness": {}
+ },
+ {
+  "category": "campsite-meal",
+  "exclude_from_search": false,
+  "id": "campsite-meal-27",
+  "level": 9,
+  "markdown": "<title level=\"1\" right=\"Campsite Meal 9\" pfs=\"\">[Whiterose Oysters](/CampMeals.aspx?ID=27)</title>\r\n\r\n<column gap=\"tiny\">\r\n\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price**\r\n35 gp\r\n\r\n**Ingredients** 3 basic, 2 special\r\n\r\n**Preparation** DC 26 [Cooking Lore](/Skills.aspx?ID=8) or DC 28 [Survival](/Skills.aspx?ID=16)\r\n\r\n**Favorite Meal** The meal infuses the eater's impressions with additional power, spreading the benefits of the meal to other uses of [Diplomacy](/Skills.aspx?ID=6) and [Intimidation](/Skills.aspx?ID=7). The eater gains a +2 status bonus to Intimidation checks to [Demoralize](/Actions.aspx?ID=53) for the remainder of the camping session and a +2 status bonus to Diplomacy checks to [Make an Impression](/Actions.aspx?ID=50) for 24 hours.\r\n\r\n</column>\r\n\r\n---\r\n\r\nFirst inspired by a cook's visit to Whiterose Winery many years ago, this meal has become a favorite of many nobles.\r\n\r\n**Critical Success** The meal grants a +2 status bonus to Diplomacy checks to [Request](/Actions.aspx?ID=51) and Intimidation checks to [Coerce](/Actions.aspx?ID=52) for the next 24 hours.<br />\r\n**Success** As critical success, but the effects last for the remainder of the camping session.<br />\r\n**Critical Failure** The oysters weren't prepared properly. The eater becomes [drained 1](/Conditions.aspx?ID=10).",
+  "name": "Whiterose Oysters",
+  "price": 3500,
+  "price_raw": "35 gp",
+  "primary_source": "Kingmaker Companion Guide",
+  "primary_source_raw": "Kingmaker Companion Guide pg. 119",
+  "primary_source_category": "Adventure Paths",
+  "primary_source_group": "Kingmaker",
+  "rarity": "common",
+  "rarity_id": 1,
+  "release_date": "2022-10-26",
+  "resistance": {},
+  "search_markdown": "<traits>\r\n<trait label=\"Meal\" url=\"/Traits.aspx?ID=466\" />\r\n</traits>\r\n\r\n<additional-info>\r\n**Source** [Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119\r\n\r\n**Recipe Price** 35 gp\r\n\r\n**Ingredients** 3 basic, 2 special\r\n\r\n**Preparation** DC 26 [Cooking Lore](/Skills.aspx?ID=8) or DC 28 [Survival](/Skills.aspx?ID=16)\r\n</additional-info>\r\n\r\n---\r\n\r\n<summary>\r\nFirst inspired by a cook's visit to Whiterose Winery many years ago, this meal has become a favorite of many nobles.\r\n</summary>",
+  "skill_mod": {},
+  "source": [
+   "Kingmaker Companion Guide"
+  ],
+  "source_raw": [
+   "Kingmaker Companion Guide pg. 119"
+  ],
+  "source_category": [
+   "Adventure Paths"
+  ],
+  "source_group": [
+   "Kingmaker"
+  ],
+  "source_markdown": "[Kingmaker Companion Guide](/Sources.aspx?ID=151) pg. 119",
+  "speed": {},
+  "summary": "First inspired by a cook's visit to Whiterose Winery many years ago, this meal has become a favorite of many nobles.",
+  "summary_markdown": "First inspired by a cook's visit to Whiterose Winery many years ago, this meal has become a favorite of many nobles.",
+  "text": " Whiterose Oysters Source Kingmaker Companion Guide pg. 119 Recipe Price 35 gp Ingredients 3 basic, 2 special Preparation DC 26 Cooking Lore or DC 28 Survival Favorite Meal The meal infuses the eater's impressions with additional power, spreading the benefits of the meal to other uses of Diplomacy and Intimidation. The eater gains a +2 status bonus to Intimidation checks to Demoralize for the remainder of the camping session and a +2 status bonus to Diplomacy checks to Make an Impression for 24 hours. --- First inspired by a cook's visit to Whiterose Winery many years ago, this meal has become a favorite of many nobles. Critical Success The meal grants a +2 status bonus to Diplomacy checks to Request and Intimidation checks to Coerce for the next 24 hours. Success As critical success, but the effects last for the remainder of the camping session. Critical Failure The oysters weren't prepared properly. The eater becomes drained 1.",
+  "trait": [
+   "Meal"
+  ],
+  "trait_group": [
+   "Kingdom"
+  ],
+  "trait_markdown": "[Meal](/Traits.aspx?ID=466)",
+  "trait_raw": [
+   "Meal"
+  ],
+  "type": "Campsite Meal",
+  "url": "/CampMeals.aspx?ID=27",
+  "weakness": {}
+ }
+]
