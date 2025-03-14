@@ -19,7 +19,7 @@ export default defineConfig(() => {
       VitePWA({
         workbox: {
           globPatterns: ["**/*.{js,css,html,ico,svg,tar.gz,wasm,data, jpg}", "*.*"],
-          maximumFileSizeToCacheInBytes: 40000000
+          maximumFileSizeToCacheInBytes: 50000000
         },
         devOptions: {enabled: true},
         manifest: {
